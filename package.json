@@ -1,0 +1,49 @@
+{
+  "name": "bikestylish-catalog",
+  "version": "1.0.0",
+  "description": "Public API for BikeStylish.ro product data, designed for AI agent accessibility",
+  "main": "scripts/scraper.py",
+  "scripts": {
+    "scrape": "cd scripts && python scraper.py",
+    "validate": "python -c \"import json; json.load(open('data/products.json')); print('✅ JSON is valid')\"",
+    "serve": "python -m http.server 8000",
+    "test": "python scripts/test_scraper.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/[username]/bikestylish-catalog.git"
+  },
+  "keywords": [
+    "bikestylish",
+    "bikes",
+    "api",
+    "catalog",
+    "romania",
+    "ai-accessible",
+    "product-data"
+  ],
+  "author": "AI Product Catalog Project",
+  "license": "MIT",
+  "dependencies": {
+    "python": ">=3.8"
+  },
+  "python_dependencies": [
+    "requests>=2.28.0",
+    "beautifulsoup4>=4.11.0",
+    "lxml>=4.9.0"
+  ],
+  "api": {
+    "base_url": "https://raw.githubusercontent.com/[username]/bikestylish-catalog/main",
+    "endpoints": {
+      "products": "/data/products.json",
+      "categories": "/data/categories.json",
+      "brands": "/data/brands.json"
+    },
+    "update_frequency": "daily",
+    "rate_limit": "none"
+  },
+  "bugs": {
+    "url": "https://github.com/[username]/bikestylish-catalog/issues"
+  },
+  "homepage": "https://github.com/[username]/bikestylish-catalog#readme"
+}

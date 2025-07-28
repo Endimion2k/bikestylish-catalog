@@ -1,0 +1,343 @@
+{
+  "last_updated": "2025-07-28T22:20:15.802818",
+  "total_brands": 20,
+  "brands": [
+    {
+      "name": "Ureche",
+      "product_count": 895,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 45.0,
+        "max": 450.0,
+        "avg": 210.74,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.5,
+      "description": "Produse de calitate Ureche"
+    },
+    {
+      "name": "M-WAVE",
+      "product_count": 812,
+      "categories": [
+        "accesorii",
+        "piese-schimb",
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 0.3,
+        "max": 2250.0,
+        "avg": 90.16,
+        "currency": "RON"
+      },
+      "origin": "Germany",
+      "avg_rating": 4.4,
+      "description": "Produse de calitate M-Wave"
+    },
+    {
+      "name": "SXT",
+      "product_count": 653,
+      "categories": [
+        "accesorii",
+        "piese-schimb",
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 1.0,
+        "max": 4750.0,
+        "avg": 178.26,
+        "currency": "RON"
+      },
+      "origin": "Romania",
+      "avg_rating": 4.8,
+      "description": "Produse de calitate Sxt"
+    },
+    {
+      "name": "VELO",
+      "product_count": 326,
+      "categories": [
+        "biciclete",
+        "accesorii",
+        "piese-schimb"
+      ],
+      "price_range": {
+        "min": 18.0,
+        "max": 5999.0,
+        "avg": 202.48,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.8,
+      "description": "Produse de calitate Velo"
+    },
+    {
+      "name": "SHIMANO",
+      "product_count": 294,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 10.0,
+        "max": 795.0,
+        "avg": 196.27,
+        "currency": "RON"
+      },
+      "origin": "Japan",
+      "avg_rating": 4.2,
+      "description": "Produse de calitate Shimano"
+    },
+    {
+      "name": "Spita",
+      "product_count": 270,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 0.3,
+        "max": 10.0,
+        "avg": 0.9,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.5,
+      "description": "Produse de calitate Spita"
+    },
+    {
+      "name": "KENDA",
+      "product_count": 151,
+      "categories": [
+        "accesorii",
+        "piese-schimb",
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 4.0,
+        "max": 230.0,
+        "avg": 66.37,
+        "currency": "RON"
+      },
+      "origin": "Taiwan",
+      "avg_rating": 4.7,
+      "description": "Produse de calitate Kenda"
+    },
+    {
+      "name": "Butuc",
+      "product_count": 148,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 25.0,
+        "max": 999.0,
+        "avg": 368.45,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.7,
+      "description": "Produse de calitate Butuc"
+    },
+    {
+      "name": "Pedale",
+      "product_count": 146,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 25.0,
+        "max": 999.0,
+        "avg": 363.52,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.7,
+      "description": "Produse de calitate Pedale"
+    },
+    {
+      "name": "VENTURA",
+      "product_count": 109,
+      "categories": [
+        "accesorii",
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 2.5,
+        "max": 345.0,
+        "avg": 64.47,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.9,
+      "description": "Produse de calitate Ventura"
+    },
+    {
+      "name": "Cheie",
+      "product_count": 97,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 18.0,
+        "max": 350.0,
+        "avg": 76.53,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.5,
+      "description": "Produse de calitate Cheie"
+    },
+    {
+      "name": "Lant",
+      "product_count": 73,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 25.0,
+        "max": 675.0,
+        "avg": 249.15,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.2,
+      "description": "Produse de calitate Lant"
+    },
+    {
+      "name": "Camera",
+      "product_count": 71,
+      "categories": [
+        "piese-schimb",
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 10.0,
+        "max": 170.0,
+        "avg": 29.41,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.3,
+      "description": "Produse de calitate Camera"
+    },
+    {
+      "name": "Set",
+      "product_count": 67,
+      "categories": [
+        "accesorii",
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 10.0,
+        "max": 1299.0,
+        "avg": 130.32,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.0,
+      "description": "Produse de calitate Set"
+    },
+    {
+      "name": "Janta",
+      "product_count": 53,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 75.0,
+        "max": 215.0,
+        "avg": 144.53,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.2,
+      "description": "Produse de calitate Janta"
+    },
+    {
+      "name": "Kit",
+      "product_count": 43,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 10.0,
+        "max": 8500.0,
+        "avg": 820.41,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.6,
+      "description": "Produse de calitate Kit"
+    },
+    {
+      "name": "Manusi",
+      "product_count": 41,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 49.0,
+        "max": 125.0,
+        "avg": 59.46,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.9,
+      "description": "Produse de calitate Manusi"
+    },
+    {
+      "name": "Suport",
+      "product_count": 39,
+      "categories": [
+        "accesorii",
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 3.0,
+        "max": 1290.0,
+        "avg": 127.15,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.7,
+      "description": "Produse de calitate Suport"
+    },
+    {
+      "name": "Pinion",
+      "product_count": 35,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 20.0,
+        "max": 699.0,
+        "avg": 170.11,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "avg_rating": 4.9,
+      "description": "Produse de calitate Pinion"
+    },
+    {
+      "name": "TREK",
+      "product_count": 30,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 110.0,
+        "max": 350.0,
+        "avg": 185.1,
+        "currency": "RON"
+      },
+      "origin": "USA",
+      "avg_rating": 4.8,
+      "description": "Produse de calitate Trek"
+    }
+  ],
+  "statistics": {
+    "most_products": "Ureche",
+    "countries_represented": 5,
+    "total_products": 4353
+  }
+}

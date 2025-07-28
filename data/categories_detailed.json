@@ -1,0 +1,3089 @@
+{
+  "last_updated": "2025-07-28T23:00:00.000000",
+  "total_categories": 101,
+  "source": "bikestylish.ro sitemap",
+  "hierarchy": {
+    "main_categories": [
+      {
+        "id": "accesorii-bicicleta",
+        "name": "Accesorii Bicicleta",
+        "url": "https://www.bikestylish.ro/accesorii-bicicleta",
+        "type": "accesorii",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "accesorii",
+        "name": "Accesorii",
+        "url": "https://www.bikestylish.ro/accesorii",
+        "type": "accesorii",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "remorci-transport-copii",
+        "name": "Remorci Transport Copii",
+        "url": "https://www.bikestylish.ro/remorci-transport-copii",
+        "type": "accesorii",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "roti-ajutatoare",
+        "name": "Roti Ajutatoare",
+        "url": "https://www.bikestylish.ro/roti-ajutatoare",
+        "type": "copii",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "scaune-pentru-copii",
+        "name": "Scaune Pentru Copii",
+        "url": "https://www.bikestylish.ro/scaune-pentru-copii",
+        "type": "copii",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "transport-si-depozitare",
+        "name": "Transport Si Depozitare",
+        "url": "https://www.bikestylish.ro/transport-si-depozitare",
+        "type": "accesorii",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "reflectorizante",
+        "name": "Reflectorizante",
+        "url": "https://www.bikestylish.ro/reflectorizante",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "articole-copii-roti-ajutatoare",
+        "name": "Articole Copii Roti Ajutatoare",
+        "url": "https://www.bikestylish.ro/articole-copii-roti-ajutatoare",
+        "type": "copii",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "parti-ghidoane-si-barend-extensiighidon",
+        "name": "Parti Ghidoane Si Barend Extensiighidon",
+        "url": "https://www.bikestylish.ro/parti-ghidoane-si-barend-extensiighidon",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "cadre-e-bike",
+        "name": "Cadre E Bike",
+        "url": "https://www.bikestylish.ro/cadre-e-bike",
+        "type": "e-bike",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "cricuri-e-bike",
+        "name": "Cricuri E Bike",
+        "url": "https://www.bikestylish.ro/cricuri-e-bike",
+        "type": "e-bike",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "cricuri-de-mijloc",
+        "name": "Cricuri De Mijloc",
+        "url": "https://www.bikestylish.ro/cricuri-de-mijloc",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "ghidoline",
+        "name": "Ghidoline",
+        "url": "https://www.bikestylish.ro/ghidoline",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "huse-șa",
+        "name": "Huse Șa",
+        "url": "https://www.bikestylish.ro/huse-șa",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "mansoane",
+        "name": "Mansoane",
+        "url": "https://www.bikestylish.ro/mansoane",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "pedale-platforma",
+        "name": "Pedale Platforma",
+        "url": "https://www.bikestylish.ro/pedale-platforma",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "pedale-duble",
+        "name": "Pedale Duble",
+        "url": "https://www.bikestylish.ro/pedale-duble",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "pedale-click",
+        "name": "Pedale Click",
+        "url": "https://www.bikestylish.ro/pedale-click",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "borsete-sa",
+        "name": "Borsete Sa",
+        "url": "https://www.bikestylish.ro/borsete-sa",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "șei-156",
+        "name": "Șei 156",
+        "url": "https://www.bikestylish.ro/șei-156",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "antifurturi",
+        "name": "Antifurturi",
+        "url": "https://www.bikestylish.ro/antifurturi",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "suport-bidon-si-bidon",
+        "name": "Suport Bidon Si Bidon",
+        "url": "https://www.bikestylish.ro/suport-bidon-si-bidon",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "aparatori-noroi",
+        "name": "Aparatori Noroi",
+        "url": "https://www.bikestylish.ro/aparatori-noroi",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "oglinda",
+        "name": "Oglinda",
+        "url": "https://www.bikestylish.ro/oglinda",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "pompe",
+        "name": "Pompe",
+        "url": "https://www.bikestylish.ro/pompe",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "piese",
+        "name": "Piese",
+        "url": "https://www.bikestylish.ro/piese",
+        "type": "piese",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "pipe-ghidon",
+        "name": "Pipe Ghidon",
+        "url": "https://www.bikestylish.ro/pipe-ghidon",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "tije-ghidon",
+        "name": "Tije Ghidon",
+        "url": "https://www.bikestylish.ro/tije-ghidon",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "ghidoane",
+        "name": "Ghidoane",
+        "url": "https://www.bikestylish.ro/ghidoane",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "manete-frana",
+        "name": "Manete Frana",
+        "url": "https://www.bikestylish.ro/manete-frana",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "tije-șa-49",
+        "name": "Tije Șa 49",
+        "url": "https://www.bikestylish.ro/tije-șa-49",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "valve-adaptori-si-capete",
+        "name": "Valve Adaptori Si Capete",
+        "url": "https://www.bikestylish.ro/valve-adaptori-si-capete",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "furci-bicicleta",
+        "name": "Furci Bicicleta",
+        "url": "https://www.bikestylish.ro/furci-bicicleta",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "benzi-protectii-antipana",
+        "name": "Benzi Protectii Antipana",
+        "url": "https://www.bikestylish.ro/benzi-protectii-antipana",
+        "type": "accesorii",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "missinglink",
+        "name": "Missinglink",
+        "url": "https://www.bikestylish.ro/missinglink",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "solutii-tubeless",
+        "name": "Solutii Tubeless",
+        "url": "https://www.bikestylish.ro/solutii-tubeless",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "spacere-axe-butuci-rulmenti",
+        "name": "Spacere Axe Butuci Rulmenti",
+        "url": "https://www.bikestylish.ro/spacere-axe-butuci-rulmenti",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "cabluri",
+        "name": "Cabluri",
+        "url": "https://www.bikestylish.ro/cabluri",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "camere-de-bicicleta",
+        "name": "Camere De Bicicleta",
+        "url": "https://www.bikestylish.ro/camere-de-bicicleta",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "capete-cablu-si-manta",
+        "name": "Capete Cablu Si Manta",
+        "url": "https://www.bikestylish.ro/capete-cablu-si-manta",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "coliere-șa",
+        "name": "Coliere Șa",
+        "url": "https://www.bikestylish.ro/coliere-șa",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "distantiere",
+        "name": "Distantiere",
+        "url": "https://www.bikestylish.ro/distantiere",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "butuci-frana-disc",
+        "name": "Butuci Frana Disc",
+        "url": "https://www.bikestylish.ro/butuci-frana-disc",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "placute-frana-disc",
+        "name": "Placute Frana Disc",
+        "url": "https://www.bikestylish.ro/placute-frana-disc",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "saboti-frana",
+        "name": "Saboti Frana",
+        "url": "https://www.bikestylish.ro/saboti-frana",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "roti-fata",
+        "name": "Roti Fata",
+        "url": "https://www.bikestylish.ro/roti-fata",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "roti-spate",
+        "name": "Roti Spate",
+        "url": "https://www.bikestylish.ro/roti-spate",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "set-roti",
+        "name": "Set Roti",
+        "url": "https://www.bikestylish.ro/set-roti",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "suspensii-spate",
+        "name": "Suspensii Spate",
+        "url": "https://www.bikestylish.ro/suspensii-spate",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "butuci-roata",
+        "name": "Butuci Roata",
+        "url": "https://www.bikestylish.ro/butuci-roata",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "pinioane",
+        "name": "Pinioane",
+        "url": "https://www.bikestylish.ro/pinioane",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "etrier-frana",
+        "name": "Etrier Frana",
+        "url": "https://www.bikestylish.ro/etrier-frana",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "angrenaje",
+        "name": "Angrenaje",
+        "url": "https://www.bikestylish.ro/angrenaje",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "ureche-cadru",
+        "name": "Ureche Cadru",
+        "url": "https://www.bikestylish.ro/ureche-cadru",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "disc-frana",
+        "name": "Disc Frana",
+        "url": "https://www.bikestylish.ro/disc-frana",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "cuvete",
+        "name": "Cuvete",
+        "url": "https://www.bikestylish.ro/cuvete",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "monobloc",
+        "name": "Monobloc",
+        "url": "https://www.bikestylish.ro/monobloc",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "scule-si-intretinere",
+        "name": "Scule Si Intretinere",
+        "url": "https://www.bikestylish.ro/scule-si-intretinere",
+        "type": "scule",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "unelte-speciale",
+        "name": "Unelte Speciale",
+        "url": "https://www.bikestylish.ro/unelte-speciale",
+        "type": "scule",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "kituri-aerisire-componente",
+        "name": "Kituri Aerisire Componente",
+        "url": "https://www.bikestylish.ro/kituri-aerisire-componente",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "solutie-de-spalat",
+        "name": "Solutie De Spalat",
+        "url": "https://www.bikestylish.ro/solutie-de-spalat",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "intinzatoare-lant-si-directionare",
+        "name": "Intinzatoare Lant Si Directionare",
+        "url": "https://www.bikestylish.ro/intinzatoare-lant-si-directionare",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "unelte-universale",
+        "name": "Unelte Universale",
+        "url": "https://www.bikestylish.ro/unelte-universale",
+        "type": "scule",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "ingrijire-si-lubrefiere",
+        "name": "Ingrijire Si Lubrefiere",
+        "url": "https://www.bikestylish.ro/ingrijire-si-lubrefiere",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "truse-de-scule",
+        "name": "Truse De Scule",
+        "url": "https://www.bikestylish.ro/truse-de-scule",
+        "type": "scule",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "uleiuri-minerale",
+        "name": "Uleiuri Minerale",
+        "url": "https://www.bikestylish.ro/uleiuri-minerale",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "solutie-curatat-discuri",
+        "name": "Solutie Curatat Discuri",
+        "url": "https://www.bikestylish.ro/solutie-curatat-discuri",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "echipament",
+        "name": "Echipament",
+        "url": "https://www.bikestylish.ro/echipament",
+        "type": "echipament",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "rucsaci-si-bagaje-calatorie",
+        "name": "Rucsaci Si Bagaje Calatorie",
+        "url": "https://www.bikestylish.ro/rucsaci-si-bagaje-calatorie",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "bibshorts-boxeri",
+        "name": "Bibshorts Boxeri",
+        "url": "https://www.bikestylish.ro/bibshorts-boxeri",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "căști-170",
+        "name": "Căști 170",
+        "url": "https://www.bikestylish.ro/căști-170",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "incalzitoare-maini-si-picioare",
+        "name": "Incalzitoare Maini Si Picioare",
+        "url": "https://www.bikestylish.ro/incalzitoare-maini-si-picioare",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "caciuli-sepci-bandane",
+        "name": "Caciuli Sepci Bandane",
+        "url": "https://www.bikestylish.ro/caciuli-sepci-bandane",
+        "type": "general",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      },
+      {
+        "id": "copii1iunie",
+        "name": "Copii1iunie",
+        "url": "https://www.bikestylish.ro/copii1iunie",
+        "type": "copii",
+        "parent": null,
+        "priority": 0.8,
+        "last_modified": "2025-07-28"
+      }
+    ],
+    "subcategories": {
+      "accesorii-bicicleta": [
+        {
+          "id": "protectii-si-accesorii-e-bike",
+          "name": "Protectii Si Accesorii E Bike",
+          "url": "https://www.bikestylish.ro/protectii-si-accesorii-e-bike",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini",
+          "name": "Lumini",
+          "url": "https://www.bikestylish.ro/lumini",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini-fata",
+          "name": "Lumini Fata",
+          "url": "https://www.bikestylish.ro/lumini-fata",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "seturi-lumini",
+          "name": "Seturi Lumini",
+          "url": "https://www.bikestylish.ro/seturi-lumini",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini-spate",
+          "name": "Lumini Spate",
+          "url": "https://www.bikestylish.ro/lumini-spate",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "cosuri-pentru-biciclete",
+          "name": "Cosuri Pentru Biciclete",
+          "url": "https://www.bikestylish.ro/cosuri-pentru-biciclete",
+          "type": "general",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "rulmenti-accesorii-pedale",
+          "name": "Rulmenti Accesorii Pedale",
+          "url": "https://www.bikestylish.ro/rulmenti-accesorii-pedale",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "protectii-cadru",
+          "name": "Protectii Cadru",
+          "url": "https://www.bikestylish.ro/protectii-cadru",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "accesorii-camere",
+          "name": "Accesorii Camere",
+          "url": "https://www.bikestylish.ro/accesorii-camere",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "accesorii-frane-hidraulice",
+          "name": "Accesorii Frane Hidraulice",
+          "url": "https://www.bikestylish.ro/accesorii-frane-hidraulice",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        }
+      ],
+      "accesorii": [
+        {
+          "id": "protectii-si-accesorii-e-bike",
+          "name": "Protectii Si Accesorii E Bike",
+          "url": "https://www.bikestylish.ro/protectii-si-accesorii-e-bike",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini",
+          "name": "Lumini",
+          "url": "https://www.bikestylish.ro/lumini",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini-fata",
+          "name": "Lumini Fata",
+          "url": "https://www.bikestylish.ro/lumini-fata",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "seturi-lumini",
+          "name": "Seturi Lumini",
+          "url": "https://www.bikestylish.ro/seturi-lumini",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini-spate",
+          "name": "Lumini Spate",
+          "url": "https://www.bikestylish.ro/lumini-spate",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "cosuri-pentru-biciclete",
+          "name": "Cosuri Pentru Biciclete",
+          "url": "https://www.bikestylish.ro/cosuri-pentru-biciclete",
+          "type": "general",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "rulmenti-accesorii-pedale",
+          "name": "Rulmenti Accesorii Pedale",
+          "url": "https://www.bikestylish.ro/rulmenti-accesorii-pedale",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "protectii-cadru",
+          "name": "Protectii Cadru",
+          "url": "https://www.bikestylish.ro/protectii-cadru",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "accesorii-camere",
+          "name": "Accesorii Camere",
+          "url": "https://www.bikestylish.ro/accesorii-camere",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "accesorii-frane-hidraulice",
+          "name": "Accesorii Frane Hidraulice",
+          "url": "https://www.bikestylish.ro/accesorii-frane-hidraulice",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        }
+      ],
+      "remorci-transport-copii": [
+        {
+          "id": "protectii-si-accesorii-e-bike",
+          "name": "Protectii Si Accesorii E Bike",
+          "url": "https://www.bikestylish.ro/protectii-si-accesorii-e-bike",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini",
+          "name": "Lumini",
+          "url": "https://www.bikestylish.ro/lumini",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini-fata",
+          "name": "Lumini Fata",
+          "url": "https://www.bikestylish.ro/lumini-fata",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "seturi-lumini",
+          "name": "Seturi Lumini",
+          "url": "https://www.bikestylish.ro/seturi-lumini",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini-spate",
+          "name": "Lumini Spate",
+          "url": "https://www.bikestylish.ro/lumini-spate",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "cosuri-pentru-biciclete",
+          "name": "Cosuri Pentru Biciclete",
+          "url": "https://www.bikestylish.ro/cosuri-pentru-biciclete",
+          "type": "general",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "rulmenti-accesorii-pedale",
+          "name": "Rulmenti Accesorii Pedale",
+          "url": "https://www.bikestylish.ro/rulmenti-accesorii-pedale",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "protectii-cadru",
+          "name": "Protectii Cadru",
+          "url": "https://www.bikestylish.ro/protectii-cadru",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "accesorii-camere",
+          "name": "Accesorii Camere",
+          "url": "https://www.bikestylish.ro/accesorii-camere",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "accesorii-frane-hidraulice",
+          "name": "Accesorii Frane Hidraulice",
+          "url": "https://www.bikestylish.ro/accesorii-frane-hidraulice",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        }
+      ],
+      "roti-ajutatoare": [],
+      "scaune-pentru-copii": [],
+      "transport-si-depozitare": [
+        {
+          "id": "protectii-si-accesorii-e-bike",
+          "name": "Protectii Si Accesorii E Bike",
+          "url": "https://www.bikestylish.ro/protectii-si-accesorii-e-bike",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini",
+          "name": "Lumini",
+          "url": "https://www.bikestylish.ro/lumini",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini-fata",
+          "name": "Lumini Fata",
+          "url": "https://www.bikestylish.ro/lumini-fata",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "seturi-lumini",
+          "name": "Seturi Lumini",
+          "url": "https://www.bikestylish.ro/seturi-lumini",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini-spate",
+          "name": "Lumini Spate",
+          "url": "https://www.bikestylish.ro/lumini-spate",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "cosuri-pentru-biciclete",
+          "name": "Cosuri Pentru Biciclete",
+          "url": "https://www.bikestylish.ro/cosuri-pentru-biciclete",
+          "type": "general",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "rulmenti-accesorii-pedale",
+          "name": "Rulmenti Accesorii Pedale",
+          "url": "https://www.bikestylish.ro/rulmenti-accesorii-pedale",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "protectii-cadru",
+          "name": "Protectii Cadru",
+          "url": "https://www.bikestylish.ro/protectii-cadru",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "accesorii-camere",
+          "name": "Accesorii Camere",
+          "url": "https://www.bikestylish.ro/accesorii-camere",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "accesorii-frane-hidraulice",
+          "name": "Accesorii Frane Hidraulice",
+          "url": "https://www.bikestylish.ro/accesorii-frane-hidraulice",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        }
+      ],
+      "reflectorizante": [],
+      "articole-copii-roti-ajutatoare": [],
+      "parti-ghidoane-si-barend-extensiighidon": [],
+      "cadre-e-bike": [],
+      "cricuri-e-bike": [],
+      "cricuri-de-mijloc": [],
+      "ghidoline": [],
+      "huse-șa": [],
+      "mansoane": [],
+      "pedale-platforma": [],
+      "pedale-duble": [],
+      "pedale-click": [],
+      "borsete-sa": [],
+      "șei-156": [],
+      "antifurturi": [],
+      "suport-bidon-si-bidon": [],
+      "aparatori-noroi": [],
+      "oglinda": [],
+      "pompe": [],
+      "piese": [
+        {
+          "id": "lanturi-e-bike",
+          "name": "Lanturi E Bike",
+          "url": "https://www.bikestylish.ro/lanturi-e-bike",
+          "type": "piese",
+          "parent": "piese",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "anvelope-pe-sarma",
+          "name": "Anvelope Pe Sarma",
+          "url": "https://www.bikestylish.ro/anvelope-pe-sarma",
+          "type": "piese",
+          "parent": "piese",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "anvelope-pliabile",
+          "name": "Anvelope Pliabile",
+          "url": "https://www.bikestylish.ro/anvelope-pliabile",
+          "type": "piese",
+          "parent": "piese",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "anvelope-jante-e-bike",
+          "name": "Anvelope Jante E Bike",
+          "url": "https://www.bikestylish.ro/anvelope-jante-e-bike",
+          "type": "piese",
+          "parent": "piese",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lanturi-61",
+          "name": "Lanturi 61",
+          "url": "https://www.bikestylish.ro/lanturi-61",
+          "type": "piese",
+          "parent": "piese",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "frane-v-brake",
+          "name": "Frane V Brake",
+          "url": "https://www.bikestylish.ro/frane-v-brake",
+          "type": "piese",
+          "parent": "piese",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "schimbator-pinioane",
+          "name": "Schimbator Pinioane",
+          "url": "https://www.bikestylish.ro/schimbator-pinioane",
+          "type": "general",
+          "parent": "piese",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "schimbator-foi",
+          "name": "Schimbator Foi",
+          "url": "https://www.bikestylish.ro/schimbator-foi",
+          "type": "general",
+          "parent": "piese",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "manete-schimbator",
+          "name": "Manete Schimbator",
+          "url": "https://www.bikestylish.ro/manete-schimbator",
+          "type": "general",
+          "parent": "piese",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "jante",
+          "name": "Jante",
+          "url": "https://www.bikestylish.ro/jante",
+          "type": "piese",
+          "parent": "piese",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        }
+      ],
+      "pipe-ghidon": [],
+      "tije-ghidon": [],
+      "ghidoane": [],
+      "manete-frana": [],
+      "tije-șa-49": [],
+      "valve-adaptori-si-capete": [],
+      "furci-bicicleta": [],
+      "benzi-protectii-antipana": [
+        {
+          "id": "protectii-si-accesorii-e-bike",
+          "name": "Protectii Si Accesorii E Bike",
+          "url": "https://www.bikestylish.ro/protectii-si-accesorii-e-bike",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini",
+          "name": "Lumini",
+          "url": "https://www.bikestylish.ro/lumini",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini-fata",
+          "name": "Lumini Fata",
+          "url": "https://www.bikestylish.ro/lumini-fata",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "seturi-lumini",
+          "name": "Seturi Lumini",
+          "url": "https://www.bikestylish.ro/seturi-lumini",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "lumini-spate",
+          "name": "Lumini Spate",
+          "url": "https://www.bikestylish.ro/lumini-spate",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "cosuri-pentru-biciclete",
+          "name": "Cosuri Pentru Biciclete",
+          "url": "https://www.bikestylish.ro/cosuri-pentru-biciclete",
+          "type": "general",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "rulmenti-accesorii-pedale",
+          "name": "Rulmenti Accesorii Pedale",
+          "url": "https://www.bikestylish.ro/rulmenti-accesorii-pedale",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "protectii-cadru",
+          "name": "Protectii Cadru",
+          "url": "https://www.bikestylish.ro/protectii-cadru",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "accesorii-camere",
+          "name": "Accesorii Camere",
+          "url": "https://www.bikestylish.ro/accesorii-camere",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "accesorii-frane-hidraulice",
+          "name": "Accesorii Frane Hidraulice",
+          "url": "https://www.bikestylish.ro/accesorii-frane-hidraulice",
+          "type": "accesorii",
+          "parent": "accesorii",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        }
+      ],
+      "missinglink": [],
+      "solutii-tubeless": [],
+      "spacere-axe-butuci-rulmenti": [],
+      "cabluri": [],
+      "camere-de-bicicleta": [],
+      "capete-cablu-si-manta": [],
+      "coliere-șa": [],
+      "distantiere": [],
+      "butuci-frana-disc": [],
+      "placute-frana-disc": [],
+      "saboti-frana": [],
+      "roti-fata": [],
+      "roti-spate": [],
+      "set-roti": [],
+      "suspensii-spate": [],
+      "butuci-roata": [],
+      "pinioane": [],
+      "etrier-frana": [],
+      "angrenaje": [],
+      "ureche-cadru": [],
+      "disc-frana": [],
+      "cuvete": [],
+      "monobloc": [],
+      "scule-si-intretinere": [],
+      "unelte-speciale": [],
+      "kituri-aerisire-componente": [],
+      "solutie-de-spalat": [],
+      "intinzatoare-lant-si-directionare": [],
+      "unelte-universale": [],
+      "ingrijire-si-lubrefiere": [],
+      "truse-de-scule": [],
+      "uleiuri-minerale": [],
+      "solutie-curatat-discuri": [],
+      "echipament": [
+        {
+          "id": "casti-ciclism-adulti",
+          "name": "Casti Ciclism Adulti",
+          "url": "https://www.bikestylish.ro/casti-ciclism-adulti",
+          "type": "echipament",
+          "parent": "echipament",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "casti-bmx",
+          "name": "Casti Bmx",
+          "url": "https://www.bikestylish.ro/casti-bmx",
+          "type": "echipament",
+          "parent": "echipament",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "casti-full-face",
+          "name": "Casti Full Face",
+          "url": "https://www.bikestylish.ro/casti-full-face",
+          "type": "echipament",
+          "parent": "echipament",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "tricouri-functionale",
+          "name": "Tricouri Functionale",
+          "url": "https://www.bikestylish.ro/tricouri-functionale",
+          "type": "echipament",
+          "parent": "echipament",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "pantofi",
+          "name": "Pantofi",
+          "url": "https://www.bikestylish.ro/pantofi",
+          "type": "echipament",
+          "parent": "echipament",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "jachete",
+          "name": "Jachete",
+          "url": "https://www.bikestylish.ro/jachete",
+          "type": "general",
+          "parent": "echipament",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        },
+        {
+          "id": "manusi",
+          "name": "Manusi",
+          "url": "https://www.bikestylish.ro/manusi",
+          "type": "echipament",
+          "parent": "echipament",
+          "priority": 0.8,
+          "last_modified": "2025-07-28"
+        }
+      ],
+      "rucsaci-si-bagaje-calatorie": [],
+      "bibshorts-boxeri": [],
+      "căști-170": [],
+      "incalzitoare-maini-si-picioare": [],
+      "caciuli-sepci-bandane": [],
+      "copii1iunie": []
+    },
+    "category_tree": {}
+  },
+  "mappings": {
+    "url_to_category": {
+      "https://www.bikestylish.ro/accesorii-bicicleta": "accesorii-bicicleta",
+      "https://www.bikestylish.ro/accesorii": "accesorii",
+      "https://www.bikestylish.ro/remorci-transport-copii": "remorci-transport-copii",
+      "https://www.bikestylish.ro/roti-ajutatoare": "roti-ajutatoare",
+      "https://www.bikestylish.ro/scaune-pentru-copii": "scaune-pentru-copii",
+      "https://www.bikestylish.ro/transport-si-depozitare": "transport-si-depozitare",
+      "https://www.bikestylish.ro/reflectorizante": "reflectorizante",
+      "https://www.bikestylish.ro/articole-copii-roti-ajutatoare": "articole-copii-roti-ajutatoare",
+      "https://www.bikestylish.ro/parti-ghidoane-si-barend-extensiighidon": "parti-ghidoane-si-barend-extensiighidon",
+      "https://www.bikestylish.ro/cadre-e-bike": "cadre-e-bike",
+      "https://www.bikestylish.ro/protectii-si-accesorii-e-bike": "protectii-si-accesorii-e-bike",
+      "https://www.bikestylish.ro/cricuri-e-bike": "cricuri-e-bike",
+      "https://www.bikestylish.ro/lanturi-e-bike": "lanturi-e-bike",
+      "https://www.bikestylish.ro/cricuri-de-mijloc": "cricuri-de-mijloc",
+      "https://www.bikestylish.ro/lumini": "lumini",
+      "https://www.bikestylish.ro/lumini-fata": "lumini-fata",
+      "https://www.bikestylish.ro/seturi-lumini": "seturi-lumini",
+      "https://www.bikestylish.ro/lumini-spate": "lumini-spate",
+      "https://www.bikestylish.ro/cosuri-pentru-biciclete": "cosuri-pentru-biciclete",
+      "https://www.bikestylish.ro/ghidoline": "ghidoline",
+      "https://www.bikestylish.ro/huse-șa": "huse-șa",
+      "https://www.bikestylish.ro/mansoane": "mansoane",
+      "https://www.bikestylish.ro/pedale-platforma": "pedale-platforma",
+      "https://www.bikestylish.ro/pedale-duble": "pedale-duble",
+      "https://www.bikestylish.ro/pedale-click": "pedale-click",
+      "https://www.bikestylish.ro/rulmenti-accesorii-pedale": "rulmenti-accesorii-pedale",
+      "https://www.bikestylish.ro/borsete-sa": "borsete-sa",
+      "https://www.bikestylish.ro/protectii-cadru": "protectii-cadru",
+      "https://www.bikestylish.ro/șei-156": "șei-156",
+      "https://www.bikestylish.ro/antifurturi": "antifurturi",
+      "https://www.bikestylish.ro/suport-bidon-si-bidon": "suport-bidon-si-bidon",
+      "https://www.bikestylish.ro/aparatori-noroi": "aparatori-noroi",
+      "https://www.bikestylish.ro/oglinda": "oglinda",
+      "https://www.bikestylish.ro/pompe": "pompe",
+      "https://www.bikestylish.ro/piese": "piese",
+      "https://www.bikestylish.ro/pipe-ghidon": "pipe-ghidon",
+      "https://www.bikestylish.ro/tije-ghidon": "tije-ghidon",
+      "https://www.bikestylish.ro/ghidoane": "ghidoane",
+      "https://www.bikestylish.ro/manete-frana": "manete-frana",
+      "https://www.bikestylish.ro/tije-șa-49": "tije-șa-49",
+      "https://www.bikestylish.ro/valve-adaptori-si-capete": "valve-adaptori-si-capete",
+      "https://www.bikestylish.ro/furci-bicicleta": "furci-bicicleta",
+      "https://www.bikestylish.ro/anvelope-pe-sarma": "anvelope-pe-sarma",
+      "https://www.bikestylish.ro/anvelope-pliabile": "anvelope-pliabile",
+      "https://www.bikestylish.ro/anvelope-jante-e-bike": "anvelope-jante-e-bike",
+      "https://www.bikestylish.ro/benzi-protectii-antipana": "benzi-protectii-antipana",
+      "https://www.bikestylish.ro/lanturi-61": "lanturi-61",
+      "https://www.bikestylish.ro/missinglink": "missinglink",
+      "https://www.bikestylish.ro/solutii-tubeless": "solutii-tubeless",
+      "https://www.bikestylish.ro/spacere-axe-butuci-rulmenti": "spacere-axe-butuci-rulmenti",
+      "https://www.bikestylish.ro/cabluri": "cabluri",
+      "https://www.bikestylish.ro/camere-de-bicicleta": "camere-de-bicicleta",
+      "https://www.bikestylish.ro/accesorii-camere": "accesorii-camere",
+      "https://www.bikestylish.ro/capete-cablu-si-manta": "capete-cablu-si-manta",
+      "https://www.bikestylish.ro/coliere-șa": "coliere-șa",
+      "https://www.bikestylish.ro/accesorii-frane-hidraulice": "accesorii-frane-hidraulice",
+      "https://www.bikestylish.ro/distantiere": "distantiere",
+      "https://www.bikestylish.ro/butuci-frana-disc": "butuci-frana-disc",
+      "https://www.bikestylish.ro/placute-frana-disc": "placute-frana-disc",
+      "https://www.bikestylish.ro/saboti-frana": "saboti-frana",
+      "https://www.bikestylish.ro/roti-fata": "roti-fata",
+      "https://www.bikestylish.ro/roti-spate": "roti-spate",
+      "https://www.bikestylish.ro/frane-v-brake": "frane-v-brake",
+      "https://www.bikestylish.ro/set-roti": "set-roti",
+      "https://www.bikestylish.ro/suspensii-spate": "suspensii-spate",
+      "https://www.bikestylish.ro/butuci-roata": "butuci-roata",
+      "https://www.bikestylish.ro/pinioane": "pinioane",
+      "https://www.bikestylish.ro/schimbator-pinioane": "schimbator-pinioane",
+      "https://www.bikestylish.ro/schimbator-foi": "schimbator-foi",
+      "https://www.bikestylish.ro/manete-schimbator": "manete-schimbator",
+      "https://www.bikestylish.ro/etrier-frana": "etrier-frana",
+      "https://www.bikestylish.ro/jante": "jante",
+      "https://www.bikestylish.ro/angrenaje": "angrenaje",
+      "https://www.bikestylish.ro/ureche-cadru": "ureche-cadru",
+      "https://www.bikestylish.ro/disc-frana": "disc-frana",
+      "https://www.bikestylish.ro/cuvete": "cuvete",
+      "https://www.bikestylish.ro/monobloc": "monobloc",
+      "https://www.bikestylish.ro/scule-si-intretinere": "scule-si-intretinere",
+      "https://www.bikestylish.ro/unelte-speciale": "unelte-speciale",
+      "https://www.bikestylish.ro/kituri-aerisire-componente": "kituri-aerisire-componente",
+      "https://www.bikestylish.ro/solutie-de-spalat": "solutie-de-spalat",
+      "https://www.bikestylish.ro/intinzatoare-lant-si-directionare": "intinzatoare-lant-si-directionare",
+      "https://www.bikestylish.ro/unelte-universale": "unelte-universale",
+      "https://www.bikestylish.ro/ingrijire-si-lubrefiere": "ingrijire-si-lubrefiere",
+      "https://www.bikestylish.ro/truse-de-scule": "truse-de-scule",
+      "https://www.bikestylish.ro/uleiuri-minerale": "uleiuri-minerale",
+      "https://www.bikestylish.ro/solutie-curatat-discuri": "solutie-curatat-discuri",
+      "https://www.bikestylish.ro/echipament": "echipament",
+      "https://www.bikestylish.ro/rucsaci-si-bagaje-calatorie": "rucsaci-si-bagaje-calatorie",
+      "https://www.bikestylish.ro/bibshorts-boxeri": "bibshorts-boxeri",
+      "https://www.bikestylish.ro/căști-170": "căști-170",
+      "https://www.bikestylish.ro/casti-ciclism-adulti": "casti-ciclism-adulti",
+      "https://www.bikestylish.ro/casti-bmx": "casti-bmx",
+      "https://www.bikestylish.ro/casti-full-face": "casti-full-face",
+      "https://www.bikestylish.ro/tricouri-functionale": "tricouri-functionale",
+      "https://www.bikestylish.ro/pantofi": "pantofi",
+      "https://www.bikestylish.ro/incalzitoare-maini-si-picioare": "incalzitoare-maini-si-picioare",
+      "https://www.bikestylish.ro/jachete": "jachete",
+      "https://www.bikestylish.ro/caciuli-sepci-bandane": "caciuli-sepci-bandane",
+      "https://www.bikestylish.ro/manusi": "manusi",
+      "https://www.bikestylish.ro/copii1iunie": "copii1iunie"
+    },
+    "name_to_id": {
+      "accesorii bicicleta": "accesorii-bicicleta",
+      "accesorii": "accesorii",
+      "remorci transport copii": "remorci-transport-copii",
+      "roti ajutatoare": "roti-ajutatoare",
+      "scaune pentru copii": "scaune-pentru-copii",
+      "transport si depozitare": "transport-si-depozitare",
+      "reflectorizante": "reflectorizante",
+      "articole copii roti ajutatoare": "articole-copii-roti-ajutatoare",
+      "parti ghidoane si barend extensiighidon": "parti-ghidoane-si-barend-extensiighidon",
+      "cadre e bike": "cadre-e-bike",
+      "protectii si accesorii e bike": "protectii-si-accesorii-e-bike",
+      "cricuri e bike": "cricuri-e-bike",
+      "lanturi e bike": "lanturi-e-bike",
+      "cricuri de mijloc": "cricuri-de-mijloc",
+      "lumini": "lumini",
+      "lumini fata": "lumini-fata",
+      "seturi lumini": "seturi-lumini",
+      "lumini spate": "lumini-spate",
+      "cosuri pentru biciclete": "cosuri-pentru-biciclete",
+      "ghidoline": "ghidoline",
+      "huse șa": "huse-șa",
+      "mansoane": "mansoane",
+      "pedale platforma": "pedale-platforma",
+      "pedale duble": "pedale-duble",
+      "pedale click": "pedale-click",
+      "rulmenti accesorii pedale": "rulmenti-accesorii-pedale",
+      "borsete sa": "borsete-sa",
+      "protectii cadru": "protectii-cadru",
+      "șei 156": "șei-156",
+      "antifurturi": "antifurturi",
+      "suport bidon si bidon": "suport-bidon-si-bidon",
+      "aparatori noroi": "aparatori-noroi",
+      "oglinda": "oglinda",
+      "pompe": "pompe",
+      "piese": "piese",
+      "pipe ghidon": "pipe-ghidon",
+      "tije ghidon": "tije-ghidon",
+      "ghidoane": "ghidoane",
+      "manete frana": "manete-frana",
+      "tije șa 49": "tije-șa-49",
+      "valve adaptori si capete": "valve-adaptori-si-capete",
+      "furci bicicleta": "furci-bicicleta",
+      "anvelope pe sarma": "anvelope-pe-sarma",
+      "anvelope pliabile": "anvelope-pliabile",
+      "anvelope jante e bike": "anvelope-jante-e-bike",
+      "benzi protectii antipana": "benzi-protectii-antipana",
+      "lanturi 61": "lanturi-61",
+      "missinglink": "missinglink",
+      "solutii tubeless": "solutii-tubeless",
+      "spacere axe butuci rulmenti": "spacere-axe-butuci-rulmenti",
+      "cabluri": "cabluri",
+      "camere de bicicleta": "camere-de-bicicleta",
+      "accesorii camere": "accesorii-camere",
+      "capete cablu si manta": "capete-cablu-si-manta",
+      "coliere șa": "coliere-șa",
+      "accesorii frane hidraulice": "accesorii-frane-hidraulice",
+      "distantiere": "distantiere",
+      "butuci frana disc": "butuci-frana-disc",
+      "placute frana disc": "placute-frana-disc",
+      "saboti frana": "saboti-frana",
+      "roti fata": "roti-fata",
+      "roti spate": "roti-spate",
+      "frane v brake": "frane-v-brake",
+      "set roti": "set-roti",
+      "suspensii spate": "suspensii-spate",
+      "butuci roata": "butuci-roata",
+      "pinioane": "pinioane",
+      "schimbator pinioane": "schimbator-pinioane",
+      "schimbator foi": "schimbator-foi",
+      "manete schimbator": "manete-schimbator",
+      "etrier frana": "etrier-frana",
+      "jante": "jante",
+      "angrenaje": "angrenaje",
+      "ureche cadru": "ureche-cadru",
+      "disc frana": "disc-frana",
+      "cuvete": "cuvete",
+      "monobloc": "monobloc",
+      "scule si intretinere": "scule-si-intretinere",
+      "unelte speciale": "unelte-speciale",
+      "kituri aerisire componente": "kituri-aerisire-componente",
+      "solutie de spalat": "solutie-de-spalat",
+      "intinzatoare lant si directionare": "intinzatoare-lant-si-directionare",
+      "unelte universale": "unelte-universale",
+      "ingrijire si lubrefiere": "ingrijire-si-lubrefiere",
+      "truse de scule": "truse-de-scule",
+      "uleiuri minerale": "uleiuri-minerale",
+      "solutie curatat discuri": "solutie-curatat-discuri",
+      "echipament": "echipament",
+      "rucsaci si bagaje calatorie": "rucsaci-si-bagaje-calatorie",
+      "bibshorts boxeri": "bibshorts-boxeri",
+      "căști 170": "căști-170",
+      "casti ciclism adulti": "casti-ciclism-adulti",
+      "casti bmx": "casti-bmx",
+      "casti full face": "casti-full-face",
+      "tricouri functionale": "tricouri-functionale",
+      "pantofi": "pantofi",
+      "incalzitoare maini si picioare": "incalzitoare-maini-si-picioare",
+      "jachete": "jachete",
+      "caciuli sepci bandane": "caciuli-sepci-bandane",
+      "manusi": "manusi",
+      "copii1iunie": "copii1iunie"
+    },
+    "type_groups": {
+      "accesorii": [
+        "accesorii-bicicleta",
+        "accesorii",
+        "remorci-transport-copii",
+        "transport-si-depozitare",
+        "protectii-si-accesorii-e-bike",
+        "lumini",
+        "lumini-fata",
+        "seturi-lumini",
+        "lumini-spate",
+        "rulmenti-accesorii-pedale",
+        "protectii-cadru",
+        "benzi-protectii-antipana",
+        "accesorii-camere",
+        "accesorii-frane-hidraulice"
+      ],
+      "copii": [
+        "roti-ajutatoare",
+        "scaune-pentru-copii",
+        "articole-copii-roti-ajutatoare",
+        "copii1iunie"
+      ],
+      "general": [
+        "reflectorizante",
+        "parti-ghidoane-si-barend-extensiighidon",
+        "cricuri-de-mijloc",
+        "cosuri-pentru-biciclete",
+        "ghidoline",
+        "huse-șa",
+        "mansoane",
+        "pedale-platforma",
+        "pedale-duble",
+        "pedale-click",
+        "borsete-sa",
+        "șei-156",
+        "antifurturi",
+        "suport-bidon-si-bidon",
+        "aparatori-noroi",
+        "oglinda",
+        "pompe",
+        "pipe-ghidon",
+        "tije-ghidon",
+        "ghidoane",
+        "manete-frana",
+        "tije-șa-49",
+        "valve-adaptori-si-capete",
+        "furci-bicicleta",
+        "missinglink",
+        "solutii-tubeless",
+        "spacere-axe-butuci-rulmenti",
+        "cabluri",
+        "camere-de-bicicleta",
+        "capete-cablu-si-manta",
+        "coliere-șa",
+        "distantiere",
+        "butuci-frana-disc",
+        "placute-frana-disc",
+        "saboti-frana",
+        "roti-fata",
+        "roti-spate",
+        "set-roti",
+        "suspensii-spate",
+        "butuci-roata",
+        "pinioane",
+        "schimbator-pinioane",
+        "schimbator-foi",
+        "manete-schimbator",
+        "etrier-frana",
+        "angrenaje",
+        "ureche-cadru",
+        "disc-frana",
+        "cuvete",
+        "monobloc",
+        "kituri-aerisire-componente",
+        "solutie-de-spalat",
+        "intinzatoare-lant-si-directionare",
+        "ingrijire-si-lubrefiere",
+        "uleiuri-minerale",
+        "solutie-curatat-discuri",
+        "rucsaci-si-bagaje-calatorie",
+        "bibshorts-boxeri",
+        "căști-170",
+        "incalzitoare-maini-si-picioare",
+        "jachete",
+        "caciuli-sepci-bandane"
+      ],
+      "e-bike": [
+        "cadre-e-bike",
+        "cricuri-e-bike"
+      ],
+      "piese": [
+        "lanturi-e-bike",
+        "piese",
+        "anvelope-pe-sarma",
+        "anvelope-pliabile",
+        "anvelope-jante-e-bike",
+        "lanturi-61",
+        "frane-v-brake",
+        "jante"
+      ],
+      "scule": [
+        "scule-si-intretinere",
+        "unelte-speciale",
+        "unelte-universale",
+        "truse-de-scule"
+      ],
+      "echipament": [
+        "echipament",
+        "casti-ciclism-adulti",
+        "casti-bmx",
+        "casti-full-face",
+        "tricouri-functionale",
+        "pantofi",
+        "manusi"
+      ]
+    },
+    "search_terms": {
+      "accesorii-bicicleta": [
+        "bicicleta",
+        "accesorii"
+      ],
+      "accesorii": [
+        "accesorii"
+      ],
+      "remorci-transport-copii": [
+        "copii",
+        "transport",
+        "remorci"
+      ],
+      "roti-ajutatoare": [
+        "ajutatoare",
+        "roti"
+      ],
+      "scaune-pentru-copii": [
+        "scaune",
+        "pentru",
+        "copii"
+      ],
+      "transport-si-depozitare": [
+        "si",
+        "depozitare",
+        "transport"
+      ],
+      "reflectorizante": [
+        "reflectorizante"
+      ],
+      "articole-copii-roti-ajutatoare": [
+        "roti",
+        "ajutatoare",
+        "articole",
+        "copii"
+      ],
+      "parti-ghidoane-si-barend-extensiighidon": [
+        "parti",
+        "ghidoane",
+        "extensiighidon",
+        "barend",
+        "si"
+      ],
+      "cadre-e-bike": [
+        "electric",
+        "motor",
+        "e",
+        "cadre",
+        "battery",
+        "bike"
+      ],
+      "protectii-si-accesorii-e-bike": [
+        "accesorii",
+        "electric",
+        "motor",
+        "protectii",
+        "e",
+        "si",
+        "battery",
+        "bike"
+      ],
+      "cricuri-e-bike": [
+        "electric",
+        "motor",
+        "e",
+        "cricuri",
+        "battery",
+        "bike"
+      ],
+      "lanturi-e-bike": [
+        "electric",
+        "motor",
+        "e",
+        "lanturi",
+        "battery",
+        "bike"
+      ],
+      "cricuri-de-mijloc": [
+        "cricuri",
+        "mijloc",
+        "de"
+      ],
+      "lumini": [
+        "stop",
+        "lumini",
+        "far",
+        "iluminat",
+        "light",
+        "led"
+      ],
+      "lumini-fata": [
+        "stop",
+        "lumini",
+        "far",
+        "iluminat",
+        "light",
+        "led",
+        "fata"
+      ],
+      "seturi-lumini": [
+        "stop",
+        "lumini",
+        "far",
+        "iluminat",
+        "light",
+        "seturi",
+        "led"
+      ],
+      "lumini-spate": [
+        "stop",
+        "spate",
+        "lumini",
+        "far",
+        "iluminat",
+        "light",
+        "led"
+      ],
+      "cosuri-pentru-biciclete": [
+        "biciclete",
+        "cosuri",
+        "pentru"
+      ],
+      "ghidoline": [
+        "ghidoline"
+      ],
+      "huse-șa": [
+        "huse",
+        "șa"
+      ],
+      "mansoane": [
+        "mansoane"
+      ],
+      "pedale-platforma": [
+        "pedale",
+        "platforma"
+      ],
+      "pedale-duble": [
+        "duble",
+        "pedale"
+      ],
+      "pedale-click": [
+        "pedale",
+        "click"
+      ],
+      "rulmenti-accesorii-pedale": [
+        "pedale",
+        "accesorii",
+        "rulmenti"
+      ],
+      "borsete-sa": [
+        "sa",
+        "borsete"
+      ],
+      "protectii-cadru": [
+        "protectii",
+        "cadru"
+      ],
+      "șei-156": [
+        "156",
+        "șei"
+      ],
+      "antifurturi": [
+        "antifurturi"
+      ],
+      "suport-bidon-si-bidon": [
+        "suport",
+        "si",
+        "bidon"
+      ],
+      "aparatori-noroi": [
+        "aparatori",
+        "noroi"
+      ],
+      "oglinda": [
+        "oglinda"
+      ],
+      "pompe": [
+        "pompe"
+      ],
+      "piese": [
+        "piese"
+      ],
+      "pipe-ghidon": [
+        "ghidon",
+        "pipe"
+      ],
+      "tije-ghidon": [
+        "ghidon",
+        "tije"
+      ],
+      "ghidoane": [
+        "ghidoane"
+      ],
+      "manete-frana": [
+        "frana",
+        "manete"
+      ],
+      "tije-șa-49": [
+        "49",
+        "șa",
+        "tije"
+      ],
+      "valve-adaptori-si-capete": [
+        "adaptori",
+        "valve",
+        "si",
+        "capete"
+      ],
+      "furci-bicicleta": [
+        "bicicleta",
+        "furci"
+      ],
+      "anvelope-pe-sarma": [
+        "cauciuc",
+        "rubber",
+        "tire",
+        "anvelope",
+        "pe",
+        "sarma",
+        "wheel"
+      ],
+      "anvelope-pliabile": [
+        "cauciuc",
+        "rubber",
+        "tire",
+        "anvelope",
+        "pliabile",
+        "wheel"
+      ],
+      "anvelope-jante-e-bike": [
+        "cauciuc",
+        "rubber",
+        "tire",
+        "e",
+        "wheel",
+        "bike",
+        "jante",
+        "anvelope"
+      ],
+      "benzi-protectii-antipana": [
+        "antipana",
+        "benzi",
+        "protectii"
+      ],
+      "lanturi-61": [
+        "61",
+        "lanturi"
+      ],
+      "missinglink": [
+        "missinglink"
+      ],
+      "solutii-tubeless": [
+        "tubeless",
+        "solutii"
+      ],
+      "spacere-axe-butuci-rulmenti": [
+        "spacere",
+        "butuci",
+        "axe",
+        "rulmenti"
+      ],
+      "cabluri": [
+        "cabluri"
+      ],
+      "camere-de-bicicleta": [
+        "bicicleta",
+        "camere",
+        "de"
+      ],
+      "accesorii-camere": [
+        "camere",
+        "accesorii"
+      ],
+      "capete-cablu-si-manta": [
+        "manta",
+        "si",
+        "capete",
+        "cablu"
+      ],
+      "coliere-șa": [
+        "coliere",
+        "șa"
+      ],
+      "accesorii-frane-hidraulice": [
+        "hidraulice",
+        "frane",
+        "accesorii"
+      ],
+      "distantiere": [
+        "distantiere"
+      ],
+      "butuci-frana-disc": [
+        "frana",
+        "butuci",
+        "disc"
+      ],
+      "placute-frana-disc": [
+        "frana",
+        "placute",
+        "disc"
+      ],
+      "saboti-frana": [
+        "frana",
+        "saboti"
+      ],
+      "roti-fata": [
+        "fata",
+        "roti"
+      ],
+      "roti-spate": [
+        "spate",
+        "roti"
+      ],
+      "frane-v-brake": [
+        "frane",
+        "brake",
+        "v"
+      ],
+      "set-roti": [
+        "set",
+        "roti"
+      ],
+      "suspensii-spate": [
+        "suspensii",
+        "spate"
+      ],
+      "butuci-roata": [
+        "butuci",
+        "roata"
+      ],
+      "pinioane": [
+        "pinioane"
+      ],
+      "schimbator-pinioane": [
+        "schimbator",
+        "pinioane"
+      ],
+      "schimbator-foi": [
+        "schimbator",
+        "foi"
+      ],
+      "manete-schimbator": [
+        "schimbator",
+        "manete"
+      ],
+      "etrier-frana": [
+        "frana",
+        "etrier"
+      ],
+      "jante": [
+        "jante"
+      ],
+      "angrenaje": [
+        "angrenaje"
+      ],
+      "ureche-cadru": [
+        "ureche",
+        "cadru"
+      ],
+      "disc-frana": [
+        "frana",
+        "disc"
+      ],
+      "cuvete": [
+        "cuvete"
+      ],
+      "monobloc": [
+        "monobloc"
+      ],
+      "scule-si-intretinere": [
+        "intretinere",
+        "si",
+        "scule"
+      ],
+      "unelte-speciale": [
+        "speciale",
+        "unelte"
+      ],
+      "kituri-aerisire-componente": [
+        "kituri",
+        "componente",
+        "aerisire"
+      ],
+      "solutie-de-spalat": [
+        "spalat",
+        "solutie",
+        "de"
+      ],
+      "intinzatoare-lant-si-directionare": [
+        "lant",
+        "si",
+        "intinzatoare",
+        "directionare"
+      ],
+      "unelte-universale": [
+        "universale",
+        "unelte"
+      ],
+      "ingrijire-si-lubrefiere": [
+        "lubrefiere",
+        "ingrijire",
+        "si"
+      ],
+      "truse-de-scule": [
+        "truse",
+        "scule",
+        "de"
+      ],
+      "uleiuri-minerale": [
+        "uleiuri",
+        "minerale"
+      ],
+      "solutie-curatat-discuri": [
+        "discuri",
+        "solutie",
+        "curatat"
+      ],
+      "echipament": [
+        "echipament"
+      ],
+      "rucsaci-si-bagaje-calatorie": [
+        "bagaje",
+        "rucsaci",
+        "si",
+        "calatorie"
+      ],
+      "bibshorts-boxeri": [
+        "bibshorts",
+        "boxeri"
+      ],
+      "căști-170": [
+        "170",
+        "căști"
+      ],
+      "casti-ciclism-adulti": [
+        "casca",
+        "ciclism",
+        "protection",
+        "adulti",
+        "safety",
+        "helmet",
+        "casti"
+      ],
+      "casti-bmx": [
+        "casca",
+        "protection",
+        "bmx",
+        "safety",
+        "helmet",
+        "casti"
+      ],
+      "casti-full-face": [
+        "full",
+        "face",
+        "casca",
+        "protection",
+        "safety",
+        "helmet",
+        "casti"
+      ],
+      "tricouri-functionale": [
+        "tricouri",
+        "functionale"
+      ],
+      "pantofi": [
+        "pantofi"
+      ],
+      "incalzitoare-maini-si-picioare": [
+        "incalzitoare",
+        "si",
+        "picioare",
+        "maini"
+      ],
+      "jachete": [
+        "jachete"
+      ],
+      "caciuli-sepci-bandane": [
+        "caciuli",
+        "sepci",
+        "bandane"
+      ],
+      "manusi": [
+        "manusi",
+        "grip",
+        "hands",
+        "gloves"
+      ],
+      "copii1iunie": [
+        "copii1iunie"
+      ]
+    }
+  },
+  "categories": [
+    {
+      "id": "accesorii-bicicleta",
+      "name": "Accesorii Bicicleta",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta",
+      "type": "accesorii",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "accesorii",
+      "name": "Accesorii",
+      "url": "https://www.bikestylish.ro/accesorii",
+      "type": "accesorii",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "remorci-transport-copii",
+      "name": "Remorci Transport Copii",
+      "url": "https://www.bikestylish.ro/remorci-transport-copii",
+      "type": "accesorii",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "roti-ajutatoare",
+      "name": "Roti Ajutatoare",
+      "url": "https://www.bikestylish.ro/roti-ajutatoare",
+      "type": "copii",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "scaune-pentru-copii",
+      "name": "Scaune Pentru Copii",
+      "url": "https://www.bikestylish.ro/scaune-pentru-copii",
+      "type": "copii",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "transport-si-depozitare",
+      "name": "Transport Si Depozitare",
+      "url": "https://www.bikestylish.ro/transport-si-depozitare",
+      "type": "accesorii",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "reflectorizante",
+      "name": "Reflectorizante",
+      "url": "https://www.bikestylish.ro/reflectorizante",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "articole-copii-roti-ajutatoare",
+      "name": "Articole Copii Roti Ajutatoare",
+      "url": "https://www.bikestylish.ro/articole-copii-roti-ajutatoare",
+      "type": "copii",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "parti-ghidoane-si-barend-extensiighidon",
+      "name": "Parti Ghidoane Si Barend Extensiighidon",
+      "url": "https://www.bikestylish.ro/parti-ghidoane-si-barend-extensiighidon",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "cadre-e-bike",
+      "name": "Cadre E Bike",
+      "url": "https://www.bikestylish.ro/cadre-e-bike",
+      "type": "e-bike",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "protectii-si-accesorii-e-bike",
+      "name": "Protectii Si Accesorii E Bike",
+      "url": "https://www.bikestylish.ro/protectii-si-accesorii-e-bike",
+      "type": "accesorii",
+      "parent": "accesorii",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "cricuri-e-bike",
+      "name": "Cricuri E Bike",
+      "url": "https://www.bikestylish.ro/cricuri-e-bike",
+      "type": "e-bike",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "lanturi-e-bike",
+      "name": "Lanturi E Bike",
+      "url": "https://www.bikestylish.ro/lanturi-e-bike",
+      "type": "piese",
+      "parent": "piese",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "cricuri-de-mijloc",
+      "name": "Cricuri De Mijloc",
+      "url": "https://www.bikestylish.ro/cricuri-de-mijloc",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "lumini",
+      "name": "Lumini",
+      "url": "https://www.bikestylish.ro/lumini",
+      "type": "accesorii",
+      "parent": "accesorii",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "lumini-fata",
+      "name": "Lumini Fata",
+      "url": "https://www.bikestylish.ro/lumini-fata",
+      "type": "accesorii",
+      "parent": "accesorii",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "seturi-lumini",
+      "name": "Seturi Lumini",
+      "url": "https://www.bikestylish.ro/seturi-lumini",
+      "type": "accesorii",
+      "parent": "accesorii",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "lumini-spate",
+      "name": "Lumini Spate",
+      "url": "https://www.bikestylish.ro/lumini-spate",
+      "type": "accesorii",
+      "parent": "accesorii",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "cosuri-pentru-biciclete",
+      "name": "Cosuri Pentru Biciclete",
+      "url": "https://www.bikestylish.ro/cosuri-pentru-biciclete",
+      "type": "general",
+      "parent": "accesorii",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "ghidoline",
+      "name": "Ghidoline",
+      "url": "https://www.bikestylish.ro/ghidoline",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "huse-șa",
+      "name": "Huse Șa",
+      "url": "https://www.bikestylish.ro/huse-șa",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "mansoane",
+      "name": "Mansoane",
+      "url": "https://www.bikestylish.ro/mansoane",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "pedale-platforma",
+      "name": "Pedale Platforma",
+      "url": "https://www.bikestylish.ro/pedale-platforma",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "pedale-duble",
+      "name": "Pedale Duble",
+      "url": "https://www.bikestylish.ro/pedale-duble",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "pedale-click",
+      "name": "Pedale Click",
+      "url": "https://www.bikestylish.ro/pedale-click",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "rulmenti-accesorii-pedale",
+      "name": "Rulmenti Accesorii Pedale",
+      "url": "https://www.bikestylish.ro/rulmenti-accesorii-pedale",
+      "type": "accesorii",
+      "parent": "accesorii",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "borsete-sa",
+      "name": "Borsete Sa",
+      "url": "https://www.bikestylish.ro/borsete-sa",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "protectii-cadru",
+      "name": "Protectii Cadru",
+      "url": "https://www.bikestylish.ro/protectii-cadru",
+      "type": "accesorii",
+      "parent": "accesorii",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "șei-156",
+      "name": "Șei 156",
+      "url": "https://www.bikestylish.ro/șei-156",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "antifurturi",
+      "name": "Antifurturi",
+      "url": "https://www.bikestylish.ro/antifurturi",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "suport-bidon-si-bidon",
+      "name": "Suport Bidon Si Bidon",
+      "url": "https://www.bikestylish.ro/suport-bidon-si-bidon",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "aparatori-noroi",
+      "name": "Aparatori Noroi",
+      "url": "https://www.bikestylish.ro/aparatori-noroi",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "oglinda",
+      "name": "Oglinda",
+      "url": "https://www.bikestylish.ro/oglinda",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "pompe",
+      "name": "Pompe",
+      "url": "https://www.bikestylish.ro/pompe",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "piese",
+      "name": "Piese",
+      "url": "https://www.bikestylish.ro/piese",
+      "type": "piese",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "pipe-ghidon",
+      "name": "Pipe Ghidon",
+      "url": "https://www.bikestylish.ro/pipe-ghidon",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "tije-ghidon",
+      "name": "Tije Ghidon",
+      "url": "https://www.bikestylish.ro/tije-ghidon",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "ghidoane",
+      "name": "Ghidoane",
+      "url": "https://www.bikestylish.ro/ghidoane",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "manete-frana",
+      "name": "Manete Frana",
+      "url": "https://www.bikestylish.ro/manete-frana",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "tije-șa-49",
+      "name": "Tije Șa 49",
+      "url": "https://www.bikestylish.ro/tije-șa-49",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "valve-adaptori-si-capete",
+      "name": "Valve Adaptori Si Capete",
+      "url": "https://www.bikestylish.ro/valve-adaptori-si-capete",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "furci-bicicleta",
+      "name": "Furci Bicicleta",
+      "url": "https://www.bikestylish.ro/furci-bicicleta",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "anvelope-pe-sarma",
+      "name": "Anvelope Pe Sarma",
+      "url": "https://www.bikestylish.ro/anvelope-pe-sarma",
+      "type": "piese",
+      "parent": "piese",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "anvelope-pliabile",
+      "name": "Anvelope Pliabile",
+      "url": "https://www.bikestylish.ro/anvelope-pliabile",
+      "type": "piese",
+      "parent": "piese",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "anvelope-jante-e-bike",
+      "name": "Anvelope Jante E Bike",
+      "url": "https://www.bikestylish.ro/anvelope-jante-e-bike",
+      "type": "piese",
+      "parent": "piese",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "benzi-protectii-antipana",
+      "name": "Benzi Protectii Antipana",
+      "url": "https://www.bikestylish.ro/benzi-protectii-antipana",
+      "type": "accesorii",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "lanturi-61",
+      "name": "Lanturi 61",
+      "url": "https://www.bikestylish.ro/lanturi-61",
+      "type": "piese",
+      "parent": "piese",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "missinglink",
+      "name": "Missinglink",
+      "url": "https://www.bikestylish.ro/missinglink",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "solutii-tubeless",
+      "name": "Solutii Tubeless",
+      "url": "https://www.bikestylish.ro/solutii-tubeless",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "spacere-axe-butuci-rulmenti",
+      "name": "Spacere Axe Butuci Rulmenti",
+      "url": "https://www.bikestylish.ro/spacere-axe-butuci-rulmenti",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "cabluri",
+      "name": "Cabluri",
+      "url": "https://www.bikestylish.ro/cabluri",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "camere-de-bicicleta",
+      "name": "Camere De Bicicleta",
+      "url": "https://www.bikestylish.ro/camere-de-bicicleta",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "accesorii-camere",
+      "name": "Accesorii Camere",
+      "url": "https://www.bikestylish.ro/accesorii-camere",
+      "type": "accesorii",
+      "parent": "accesorii",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "capete-cablu-si-manta",
+      "name": "Capete Cablu Si Manta",
+      "url": "https://www.bikestylish.ro/capete-cablu-si-manta",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "coliere-șa",
+      "name": "Coliere Șa",
+      "url": "https://www.bikestylish.ro/coliere-șa",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "accesorii-frane-hidraulice",
+      "name": "Accesorii Frane Hidraulice",
+      "url": "https://www.bikestylish.ro/accesorii-frane-hidraulice",
+      "type": "accesorii",
+      "parent": "accesorii",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "distantiere",
+      "name": "Distantiere",
+      "url": "https://www.bikestylish.ro/distantiere",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "butuci-frana-disc",
+      "name": "Butuci Frana Disc",
+      "url": "https://www.bikestylish.ro/butuci-frana-disc",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "placute-frana-disc",
+      "name": "Placute Frana Disc",
+      "url": "https://www.bikestylish.ro/placute-frana-disc",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "saboti-frana",
+      "name": "Saboti Frana",
+      "url": "https://www.bikestylish.ro/saboti-frana",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "roti-fata",
+      "name": "Roti Fata",
+      "url": "https://www.bikestylish.ro/roti-fata",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "roti-spate",
+      "name": "Roti Spate",
+      "url": "https://www.bikestylish.ro/roti-spate",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "frane-v-brake",
+      "name": "Frane V Brake",
+      "url": "https://www.bikestylish.ro/frane-v-brake",
+      "type": "piese",
+      "parent": "piese",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "set-roti",
+      "name": "Set Roti",
+      "url": "https://www.bikestylish.ro/set-roti",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "suspensii-spate",
+      "name": "Suspensii Spate",
+      "url": "https://www.bikestylish.ro/suspensii-spate",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "butuci-roata",
+      "name": "Butuci Roata",
+      "url": "https://www.bikestylish.ro/butuci-roata",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "pinioane",
+      "name": "Pinioane",
+      "url": "https://www.bikestylish.ro/pinioane",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "schimbator-pinioane",
+      "name": "Schimbator Pinioane",
+      "url": "https://www.bikestylish.ro/schimbator-pinioane",
+      "type": "general",
+      "parent": "piese",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "schimbator-foi",
+      "name": "Schimbator Foi",
+      "url": "https://www.bikestylish.ro/schimbator-foi",
+      "type": "general",
+      "parent": "piese",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "manete-schimbator",
+      "name": "Manete Schimbator",
+      "url": "https://www.bikestylish.ro/manete-schimbator",
+      "type": "general",
+      "parent": "piese",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "etrier-frana",
+      "name": "Etrier Frana",
+      "url": "https://www.bikestylish.ro/etrier-frana",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "jante",
+      "name": "Jante",
+      "url": "https://www.bikestylish.ro/jante",
+      "type": "piese",
+      "parent": "piese",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "angrenaje",
+      "name": "Angrenaje",
+      "url": "https://www.bikestylish.ro/angrenaje",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "ureche-cadru",
+      "name": "Ureche Cadru",
+      "url": "https://www.bikestylish.ro/ureche-cadru",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "disc-frana",
+      "name": "Disc Frana",
+      "url": "https://www.bikestylish.ro/disc-frana",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "cuvete",
+      "name": "Cuvete",
+      "url": "https://www.bikestylish.ro/cuvete",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "monobloc",
+      "name": "Monobloc",
+      "url": "https://www.bikestylish.ro/monobloc",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "scule-si-intretinere",
+      "name": "Scule Si Intretinere",
+      "url": "https://www.bikestylish.ro/scule-si-intretinere",
+      "type": "scule",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "unelte-speciale",
+      "name": "Unelte Speciale",
+      "url": "https://www.bikestylish.ro/unelte-speciale",
+      "type": "scule",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "kituri-aerisire-componente",
+      "name": "Kituri Aerisire Componente",
+      "url": "https://www.bikestylish.ro/kituri-aerisire-componente",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "solutie-de-spalat",
+      "name": "Solutie De Spalat",
+      "url": "https://www.bikestylish.ro/solutie-de-spalat",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "intinzatoare-lant-si-directionare",
+      "name": "Intinzatoare Lant Si Directionare",
+      "url": "https://www.bikestylish.ro/intinzatoare-lant-si-directionare",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "unelte-universale",
+      "name": "Unelte Universale",
+      "url": "https://www.bikestylish.ro/unelte-universale",
+      "type": "scule",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "ingrijire-si-lubrefiere",
+      "name": "Ingrijire Si Lubrefiere",
+      "url": "https://www.bikestylish.ro/ingrijire-si-lubrefiere",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "truse-de-scule",
+      "name": "Truse De Scule",
+      "url": "https://www.bikestylish.ro/truse-de-scule",
+      "type": "scule",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "uleiuri-minerale",
+      "name": "Uleiuri Minerale",
+      "url": "https://www.bikestylish.ro/uleiuri-minerale",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "solutie-curatat-discuri",
+      "name": "Solutie Curatat Discuri",
+      "url": "https://www.bikestylish.ro/solutie-curatat-discuri",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "echipament",
+      "name": "Echipament",
+      "url": "https://www.bikestylish.ro/echipament",
+      "type": "echipament",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "rucsaci-si-bagaje-calatorie",
+      "name": "Rucsaci Si Bagaje Calatorie",
+      "url": "https://www.bikestylish.ro/rucsaci-si-bagaje-calatorie",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "bibshorts-boxeri",
+      "name": "Bibshorts Boxeri",
+      "url": "https://www.bikestylish.ro/bibshorts-boxeri",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "căști-170",
+      "name": "Căști 170",
+      "url": "https://www.bikestylish.ro/căști-170",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "casti-ciclism-adulti",
+      "name": "Casti Ciclism Adulti",
+      "url": "https://www.bikestylish.ro/casti-ciclism-adulti",
+      "type": "echipament",
+      "parent": "echipament",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "casti-bmx",
+      "name": "Casti Bmx",
+      "url": "https://www.bikestylish.ro/casti-bmx",
+      "type": "echipament",
+      "parent": "echipament",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "casti-full-face",
+      "name": "Casti Full Face",
+      "url": "https://www.bikestylish.ro/casti-full-face",
+      "type": "echipament",
+      "parent": "echipament",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "tricouri-functionale",
+      "name": "Tricouri Functionale",
+      "url": "https://www.bikestylish.ro/tricouri-functionale",
+      "type": "echipament",
+      "parent": "echipament",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "pantofi",
+      "name": "Pantofi",
+      "url": "https://www.bikestylish.ro/pantofi",
+      "type": "echipament",
+      "parent": "echipament",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "incalzitoare-maini-si-picioare",
+      "name": "Incalzitoare Maini Si Picioare",
+      "url": "https://www.bikestylish.ro/incalzitoare-maini-si-picioare",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "jachete",
+      "name": "Jachete",
+      "url": "https://www.bikestylish.ro/jachete",
+      "type": "general",
+      "parent": "echipament",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "caciuli-sepci-bandane",
+      "name": "Caciuli Sepci Bandane",
+      "url": "https://www.bikestylish.ro/caciuli-sepci-bandane",
+      "type": "general",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "manusi",
+      "name": "Manusi",
+      "url": "https://www.bikestylish.ro/manusi",
+      "type": "echipament",
+      "parent": "echipament",
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    },
+    {
+      "id": "copii1iunie",
+      "name": "Copii1iunie",
+      "url": "https://www.bikestylish.ro/copii1iunie",
+      "type": "copii",
+      "parent": null,
+      "priority": 0.8,
+      "last_modified": "2025-07-28"
+    }
+  ]
+}

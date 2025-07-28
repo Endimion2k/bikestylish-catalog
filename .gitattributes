@@ -1,0 +1,40 @@
+# Git attributes for BikeStylish catalog
+
+# JSON files - treat as text but with Git LFS for large files
+*.json text eol=lf
+
+# Large data files
+data/products_ai_enhanced.json filter=lfs diff=lfs merge=lfs -text
+
+# Documentation
+*.md text eol=lf
+*.txt text eol=lf
+
+# Python files
+*.py text eol=lf
+
+# Config files
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+
+# CSV files
+*.csv text eol=lf
+
+# Ignore Excel files from Git tracking
+*.xls binary
+*.xlsx binary
+
+# Archives
+*.zip binary
+*.tar.gz binary
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg text
+
+# Logs (should be ignored anyway)
+*.log text
