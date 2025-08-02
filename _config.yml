@@ -1,6 +1,11 @@
 # GitHub Pages configuration for BikeStylish.ro API
 name: BikeStylish.ro Official API
-description: Free REST API for BikeStylish.ro products - 5,437 bicycle products and 101 categories from Romania's largest bicycle store
+description: Free REST API for BikeStylish.ro products - 5,437 bicycle products and 101 categories from Romania's first AI-integrated online bicycle parts and accessories store
+
+# Force index.html as homepage
+readme_index: true
+plugins:
+  - jekyll-readme-index
 
 # Headers pentru CORS
 headers:
