@@ -1,33 +1,20 @@
 # GitHub Pages configuration for BikeStylish.ro API
-name: BikeStylish.ro Official API
+title: BikeStylish.ro Official API
 description: Free REST API for BikeStylish.ro products - 5,437 bicycle products and 101 categories from Romania's first AI-integrated online bicycle parts and accessories store
 
-# Force index.html as homepage
-readme_index: true
+# Basic Jekyll settings
+baseurl: ""
+url: "https://endimion2k.github.io"
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Only use GitHub Pages supported plugins
 plugins:
-  - jekyll-readme-index
-
-# Headers pentru CORS
-headers:
-  "*.json":
-    - "Access-Control-Allow-Origin: *"
-    - "Access-Control-Allow-Methods: GET, OPTIONS"
-    - "Access-Control-Allow-Headers: Content-Type"
-    - "Cache-Control: public, max-age=3600"
-    - "Content-Type: application/json"
-
-# Redirects pentru API
-redirects:
-  - from: /api/products/:part
-    to: /data/products_ai_enhanced_split/products_ai_enhanced_part_:part.json
-    status: 200
-  
-  - from: /api/categories/:part  
-    to: /data/categories_ai_enhanced_split/categories_ai_enhanced_part_:part.json
-    status: 200
-
-# 404 page
-404: /index.html
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude files from build
 exclude:
@@ -36,3 +23,31 @@ exclude:
   - "*.py"
   - "*.log"
   - "requirements.txt"
+  - "*.txt"
+  - "*.csv" 
+  - "*.xls"
+  - backups/
+  - vendor/
+  - node_modules/
+  - Gemfile
+  - Gemfile.lock
+  - JEKYLL_FIX.md
+
+# Include hidden files that should be processed  
+include:
+  - .htaccess
+
+# SEO and metadata
+author: BikeStylish.ro
+twitter:
+  username: bikestylish
+facebook:
+  publisher: https://www.facebook.com/BikeStylish
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      author: BikeStylish.ro

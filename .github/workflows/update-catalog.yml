@@ -1,15 +1,17 @@
-name: Update Product Catalog
+name: Update Product Catalog (DISABLED)
 
-on:
-  schedule:
-    # Run daily at 2:00 AM CET (1:00 AM UTC)
-    - cron: '0 1 * * *'
-  workflow_dispatch:
-    # Allow manual triggering
+# Temporarily disabled to avoid build conflicts
+# on:
+#   schedule:
+#     # Run daily at 2:00 AM CET (1:00 AM UTC)
+#     - cron: '0 1 * * *'
+#   workflow_dispatch:
+#     # Allow manual triggering
 
 jobs:
   update-catalog:
     runs-on: ubuntu-latest
+    if: false  # Disable this job temporarily
     
     steps:
     - name: Checkout repository
