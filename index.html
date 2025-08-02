@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BikeStylish API v2.0 - Free Bicycle Products & Categories API for AI Agents</title>
+    <meta name="description" content="Free REST API with 5,437 bicycle products and 101 categories. Perfect for AI agents, developers, and e-commerce applications. JSON format, CORS enabled, no authentication required.">
+    <meta name="keywords" content="bicycle API, bike products API, AI training data, e-commerce API, free API, JSON API, cycling products, AI agents">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="BikeStylish API - Free Bicycle Products API">
+    <meta property="og:description" content="5,437 bicycle products and 101 categories available via REST API. Perfect for AI agents and developers.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://endimion2k.github.io/bikestylish-catalog/">
+    
+    <!-- Schema.org markup for AI agents -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Dataset",
+      "name": "BikeStylish Bicycle Products API",
+      "description": "Comprehensive REST API containing 5,437 bicycle products and 101 categories with detailed specifications, pricing, and metadata. Optimized for AI agents and machine learning applications.",
+      "url": "https://endimion2k.github.io/bikestylish-catalog/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "creator": {
+        "@type": "Organization",
+        "name": "BikeStylish.ro"
+      },
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/json",
+          "contentUrl": "https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/"
+        }
+      ],
+      "keywords": ["bicycle", "API", "e-commerce", "AI training", "product catalog", "cycling"],
+      "dateModified": "2025-07-28",
+      "isAccessibleForFree": true
+    }
+    </script>
+    
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        h1 { color: #2c3e50; text-align: center; }
+        .status {
+            text-align: center;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .status.online {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .status.offline {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        .endpoint {
+            background: #f8f9fa;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+            font-family: monospace;
+            word-break: break-all;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 5px;
+            transition: background 0.2s;
+        }
+        .button:hover {
+            background: #0056b3;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .card {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .card h3 {
+            margin-top: 0;
+            color: #495057;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚴 BikeStylish API v2.0</h1>
+        <p style="text-align: center; color: #6c757d; font-size: 1.1em;">
+            <strong>Free REST API for AI Agents & Developers</strong><br>
+            5,437 bicycle products • 101 categories • No authentication required
+        </p>
+        
+        <div id="status" class="status online">
+            🟢 API Status: ONLINE
+        </div>
+        
+        <div class="grid">
+            <div class="card">
+                <h3>📦 Produse</h3>
+                <p><strong>27 părți</strong><br>5437 produse total</p>
+                <a href="./data/products_ai_enhanced_split/products_ai_enhanced_part_01.json" class="button">Test Produse</a>
+            </div>
+            <div class="card">
+                <h3>📂 Categorii</h3>
+                <p><strong>26 părți</strong><br>101 categorii total</p>
+                <a href="./data/categories_ai_enhanced_split/categories_ai_enhanced_part_01.json" class="button">Test Categorii</a>
+            </div>
+        </div>
+        
+        <h2>🤖 Pentru Agenții AI</h2>
+        
+        <div style="background: #e3f2fd; padding: 20px; border-radius: 8px; margin: 20px 0;">
+            <h3 style="margin-top: 0;">🎯 De ce acest API este perfect pentru agenții AI:</h3>
+            <ul style="margin-bottom: 0;">
+                <li><strong>Date structurate</strong> - JSON consistent cu schema validată</li>
+                <li><strong>Metadata bogată</strong> - Specificații tehnice, FAQ, relații între produse</li>
+                <li><strong>Căutare semantică</strong> - Cuvinte cheie în română, engleză, germană, maghiară</li>
+                <li><strong>Categorizare AI</strong> - Produsele sunt pre-procesate pentru ML</li>
+                <li><strong>Fără limite</strong> - Acces nelimitat, fără rate limiting</li>
+                <li><strong>CORS activat</strong> - Funcționează din orice aplicație web</li>
+                <li><strong>Schema.org markup</strong> - Recunoscut automat de crawlere AI</li>
+            </ul>
+        </div>
+
+        <h2>🔗 Endpoints API</h2>
+        
+        <h3>Produse (1-27):</h3>
+        <div class="endpoint">
+            https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/products_ai_enhanced_part_XX.json
+        </div>
+        <p><em>Înlocuiește XX cu 01, 02, 03... 27</em></p>
+        
+        <h3>Categorii (1-26):</h3>
+        <div class="endpoint">
+            https://endimion2k.github.io/bikestylish-catalog/data/categories_ai_enhanced_split/categories_ai_enhanced_part_XX.json
+        </div>
+        <p><em>Înlocuiește XX cu 01, 02, 03... 26</em></p>
+        
+        <h2>📋 Exemple de Utilizare</h2>
+        
+        <h3>🤖 Pentru AI Agents - Prompt Example:</h3>
+        <pre style="background: #f0f8ff; padding: 15px; border-radius: 5px; overflow-x: auto; border-left: 4px solid #007bff;"><code>You are an AI assistant helping users find bicycle products. 
+Use this API to search and recommend products:
+
+Base URL: https://endimion2k.github.io/bikestylish-catalog/data/
+Products: products_ai_enhanced_split/products_ai_enhanced_part_XX.json (01-27)
+Categories: categories_ai_enhanced_split/categories_ai_enhanced_part_XX.json (01-26)
+
+Each product includes: name, brand, category, price, specifications, 
+multilingual keywords, and semantic relationships.</code></pre>
+        
+        <h3>JavaScript:</h3>
+        <pre style="background: #f8f9fa; padding: 15px; border-radius: 5px; overflow-x: auto;"><code>// Încarcă primul set de produse
+fetch('https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json')
+  .then(response => response.json())
+  .then(data => {
+    console.log('Produse încărcate:', data.products.length);
+    console.log('Total părți:', data.part_info.total_parts);
+  });</code></pre>
+        
+        <h3>Python:</h3>
+        <pre style="background: #f8f9fa; padding: 15px; border-radius: 5px; overflow-x: auto;"><code>import requests
+
+url = "https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json"
+response = requests.get(url)
+data = response.json()
+
+print(f"Produse încărcate: {len(data['products'])}")
+print(f"Total părți: {data['part_info']['total_parts']}")</code></pre>
+        
+        <h2>ℹ️ Informații</h2>
+        <ul>
+            <li><strong>Actualizat:</strong> 28 Iulie 2025</li>
+            <li><strong>Format:</strong> JSON (Schema.org compatible)</li>
+            <li><strong>CORS:</strong> Activat pentru toate domeniile</li>
+            <li><strong>Cache:</strong> 1 oră</li>
+            <li><strong>SSL:</strong> HTTPS obligatoriu</li>
+            <li><strong>Rate Limiting:</strong> Nu există limite</li>
+            <li><strong>Authentication:</strong> Nu este necesară</li>
+            <li><strong>AI Friendly:</strong> Optimizat pentru agenți AI și ML</li>
+        </ul>
+        
+        <h2>🔍 API Discovery</h2>
+        <div style="background: #f8f9fa; padding: 15px; border-radius: 5px;">
+            <h4>Pentru indexare automată:</h4>
+            <ul>
+                <li><strong>Sitemap:</strong> <a href="./sitemap.xml">sitemap.xml</a></li>
+                <li><strong>Robots.txt:</strong> <a href="./robots.txt">robots.txt</a></li>
+                <li><strong>OpenAPI Schema:</strong> <a href="./api-schema.json">api-schema.json</a></li>
+                <li><strong>RSS Feed:</strong> <a href="./feed.xml">feed.xml</a></li>
+            </ul>
+        </div>
+        
+        <div style="text-align: center; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd;">
+            <p><strong>BikeStylish.ro</strong> - API gratuit pentru dezvoltatori</p>
+            <a href="https://www.bikestylish.ro" class="button">Website Principal</a>
+            <a href="https://github.com/Endimion2k/bikestylish-catalog" class="button">GitHub Repository</a>
+        </div>
+    </div>
+    
+    <script>
+        // Test simplu de conectivitate
+        function testAPI() {
+            fetch('./data/products_ai_enhanced_split/products_ai_enhanced_part_01.json')
+                .then(response => {
+                    const statusDiv = document.getElementById('status');
+                    if (response.ok) {
+                        statusDiv.className = 'status online';
+                        statusDiv.innerHTML = '🟢 API Status: ONLINE - Toate endpoint-urile funcționează';
+                    } else {
+                        statusDiv.className = 'status offline';
+                        statusDiv.innerHTML = '🔴 API Status: OFFLINE - Verifică conexiunea';
+                    }
+                })
+                .catch(error => {
+                    const statusDiv = document.getElementById('status');
+                    statusDiv.className = 'status offline';
+                    statusDiv.innerHTML = '🔴 API Status: OFFLINE - Eroare de conexiune';
+                });
+        }
+        
+        // Test automat la încărcare
+        document.addEventListener('DOMContentLoaded', testAPI);
+        
+        // Test la click pe status
+        document.getElementById('status').addEventListener('click', testAPI);
+    </script>
+</body>
+</html>

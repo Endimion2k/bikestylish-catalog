@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API BikeStylish - Documentație</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        h1, h2, h3 { color: #2c3e50; }
+        h1 { font-size: 2.5em; margin-bottom: 10px; }
+        .subtitle { color: #666; margin-bottom: 30px; }
+        
+        .endpoint-section {
+            background: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .endpoint-url {
+            background: #f8f9fa;
+            padding: 12px;
+            border-radius: 6px;
+            font-family: monospace;
+            font-size: 13px;
+            word-break: break-all;
+            margin: 10px 0;
+            border: 1px solid #e9ecef;
+            user-select: all;
+            cursor: text;
+        }
+        
+        .endpoint-url:hover {
+            background: #e9ecef;
+        }
+        
+        .button-link {
+            background: #007bff;
+            color: white !important;
+            padding: 8px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            transition: background 0.2s;
+        }
+        
+        .button-link:hover {
+            background: #0056b3;
+        }
+        
+        .github-link {
+            background: #24292e;
+        }
+        
+        .github-link:hover {
+            background: #1a1e22;
+        }
+        
+        .chunks-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+            gap: 10px;
+            margin-top: 15px;
+        }
+        
+        .chunk-item {
+            background: #007bff;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+        
+        .chunk-item:hover {
+            background: #0056b3;
+            transform: translateY(-2px);
+        }
+        
+        .chunk-item a {
+            color: white;
+            text-decoration: none;
+            display: block;
+        }
+        
+        code {
+            background: #f8f9fa;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 14px;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #007bff;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 14px;
+        }
+        
+        .info-box {
+            background: #d1ecf1;
+            border: 1px solid #bee5eb;
+            border-radius: 6px;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        
+        .warning-box {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 6px;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        
+        .success-box {
+            background: #d4edda;
+            border: 1px solid #c3e6cb;
+            border-radius: 6px;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #dee2e6;
+        }
+        
+        th {
+            background: #f8f9fa;
+            font-weight: bold;
+        }
+        
+        .example-code {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 6px;
+            border: 1px solid #dee2e6;
+            margin: 15px 0;
+            overflow-x: auto;
+        }
+        
+        .example-code pre {
+            margin: 0;
+            font-size: 13px;
+        }
+        
+        .copy-hint {
+            font-size: 12px;
+            color: #666;
+            font-style: italic;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🚴 API BikeStylish pentru Dezvoltatori și AI</h1>
+    <p class="subtitle">Catalog complet cu 5437 produse și 181 categorii, organizat în fișiere optimizate pentru acces rapid</p>
+    
+    <div class="stats-grid">
+        <div class="stat-card">
+            <div class="stat-number">5437</div>
+            <div class="stat-label">Produse</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">101</div>
+            <div class="stat-label">Categorii</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">53</div>
+            <div class="stat-label">Fișiere JSON</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">34.57 MB</div>
+            <div class="stat-label">Total Date</div>
+        </div>
+    </div>
+
+    <!-- Quick Start -->
+    <div class="endpoint-section">
+        <h2>⚡ Început Rapid</h2>
+        
+        <div class="success-box">
+            <strong>✅ API-ul devine LIVE în curând!</strong><br>
+            Repository-ul este public și fișierele se propagă pe serverele GitHub.
+        </div>
+        
+        <div class="success-box">
+            <strong>✅ Repository-ul este acum PUBLIC!</strong><br>
+            Fișierele se propagă în acest moment pe serverele GitHub.
+        </div>
+        
+        <div class="info-box">
+            <strong>⏱️ Timp de propagare în curs (din momentul setării ca public):</strong><br>
+            • GitHub repository: disponibil imediat<br>
+            • GitHub raw URLs: 2-10 minute<br>
+            • jsDelivr CDN: 15 minute - 6 ore pentru repository-uri noi<br>
+            <br>
+            <strong>Status curent:</strong> În propagare... URL-urile vor fi active în curând!
+        </div>
+        
+        <a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json" 
+           target="_blank" 
+           class="button-link">
+            📦 Vezi Produse (Partea 1)
+        </a>
+        
+        <a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_01.json" 
+           target="_blank" 
+           class="button-link">
+            📂 Vezi Categorii (Partea 1)
+        </a>
+        
+        <a href="https://github.com/Endimion2k/bikestylish-catalog" 
+           target="_blank" 
+           class="button-link github-link">
+            📁 GitHub Repository
+        </a>
+        
+        <div class="info-box" style="margin-top: 20px;">
+            <strong>💡 Utilizare în aplicații:</strong>
+            <ul style="margin: 5px 0;">
+                <li>✅ <strong>Server-side:</strong> Node.js, Python, PHP, etc.</li>
+                <li>✅ <strong>AI/ChatGPT:</strong> Copiază URL-urile direct</li>
+                <li>✅ <strong>Postman/Insomnia:</strong> Pentru testare API</li>
+                <li>⚠️ <strong>Browser:</strong> Doar vizualizare (click pe link-uri)</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Products Section -->
+    <div class="endpoint-section">
+        <h2>📦 Produse - 27 Părți</h2>
+        <p>Catalogul complet de produse împărțit pentru performanță optimă:</p>
+        
+        <div class="info-box">
+            <strong>📊 Statistici:</strong> 5437 produse • 27 fișiere • ~200 produse/fișier • 26.73 MB total
+        </div>
+        
+        <h3>URL de bază pentru produse:</h3>
+        <div class="endpoint-url">
+            https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_XX.json
+        </div>
+        <p class="copy-hint">💡 Click pe URL și apasă Ctrl+A apoi Ctrl+C pentru a copia</p>
+        <p><strong>Înlocuiește XX cu:</strong> 01, 02, 03... 27 (întotdeauna 2 cifre)</p>
+        
+        <h3>Acces rapid - click pentru a deschide:</h3>
+        <div class="chunks-grid">
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json" target="_blank">Partea 01</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_02.json" target="_blank">Partea 02</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_03.json" target="_blank">Partea 03</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_04.json" target="_blank">Partea 04</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_05.json" target="_blank">Partea 05</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_06.json" target="_blank">Partea 06</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_07.json" target="_blank">Partea 07</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_08.json" target="_blank">Partea 08</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_09.json" target="_blank">Partea 09</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_10.json" target="_blank">Partea 10</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_11.json" target="_blank">Partea 11</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_12.json" target="_blank">Partea 12</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_13.json" target="_blank">Partea 13</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_14.json" target="_blank">Partea 14</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_15.json" target="_blank">Partea 15</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_16.json" target="_blank">Partea 16</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_17.json" target="_blank">Partea 17</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_18.json" target="_blank">Partea 18</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_19.json" target="_blank">Partea 19</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_20.json" target="_blank">Partea 20</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_21.json" target="_blank">Partea 21</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_22.json" target="_blank">Partea 22</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_23.json" target="_blank">Partea 23</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_24.json" target="_blank">Partea 24</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_25.json" target="_blank">Partea 25</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_26.json" target="_blank">Partea 26</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_27.json" target="_blank">Partea 27</a></div>
+        </div>
+    </div>
+
+    <!-- Categories Section -->
+    <div class="endpoint-section">
+        <h2>📂 Categorii - 26 Părți</h2>
+        <p>Toate categoriile și subcategoriile magazinului:</p>
+        
+        <div class="info-box">
+            <strong>📊 Statistici:</strong> 101 categorii • 26 fișiere • variabil categorii/fișier • 7.84 MB total
+        </div>
+        
+        <h3>URL de bază pentru categorii:</h3>
+        <div class="endpoint-url">
+            https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_XX.json
+        </div>
+        <p class="copy-hint">💡 Click pe URL și apasă Ctrl+A apoi Ctrl+C pentru a copia</p>
+        <p><strong>Înlocuiește XX cu:</strong> 01, 02, 03... 26 (întotdeauna 2 cifre)</p>
+        
+        <h3>Acces rapid - click pentru a deschide:</h3>
+        <div class="chunks-grid">
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_01.json" target="_blank">Partea 01</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_02.json" target="_blank">Partea 02</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_03.json" target="_blank">Partea 03</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_04.json" target="_blank">Partea 04</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_05.json" target="_blank">Partea 05</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_06.json" target="_blank">Partea 06</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_07.json" target="_blank">Partea 07</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_08.json" target="_blank">Partea 08</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_09.json" target="_blank">Partea 09</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_10.json" target="_blank">Partea 10</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_11.json" target="_blank">Partea 11</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_12.json" target="_blank">Partea 12</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_13.json" target="_blank">Partea 13</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_14.json" target="_blank">Partea 14</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_15.json" target="_blank">Partea 15</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_16.json" target="_blank">Partea 16</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_17.json" target="_blank">Partea 17</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_18.json" target="_blank">Partea 18</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_19.json" target="_blank">Partea 19</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_20.json" target="_blank">Partea 20</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_21.json" target="_blank">Partea 21</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_22.json" target="_blank">Partea 22</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_23.json" target="_blank">Partea 23</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_24.json" target="_blank">Partea 24</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_25.json" target="_blank">Partea 25</a></div>
+            <div class="chunk-item"><a href="https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_26.json" target="_blank">Partea 26</a></div>
+        </div>
+    </div>
+
+    <!-- Usage Examples -->
+    <div class="endpoint-section">
+        <h2>💻 Exemple de Cod</h2>
+        
+        <h3>JavaScript (Node.js)</h3>
+        <div class="example-code">
+            <pre>// Încarcă toate produsele
+async function loadAllProducts() {
+    const allProducts = [];
+    const totalParts = 27;
+    
+    for (let i = 1; i <= totalParts; i++) {
+        const partNumber = i.toString().padStart(2, '0');
+        const url = `https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_${partNumber}.json`;
+        
+        const response = await fetch(url);
+        const data = await response.json();
+        allProducts.push(...data.products);
+        
+        console.log(`Încărcat partea ${i}: ${data.products.length} produse`);
+    }
+    
+    console.log(`Total: ${allProducts.length} produse`);
+    return allProducts;
+}</pre>
+        </div>
+        
+        <h3>Python</h3>
+        <div class="example-code">
+            <pre>import requests
+
+def load_all_products():
+    all_products = []
+    base_url = "https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/"
+    
+    for i in range(1, 28):
+        part_num = str(i).zfill(2)
+        url = f"{base_url}products_ai_enhanced_part_{part_num}.json"
+        
+        response = requests.get(url)
+        data = response.json()
+        all_products.extend(data['products'])
+        
+        print(f"Partea {i}: {len(data['products'])} produse")
+    
+    print(f"Total: {len(all_products)} produse")
+    return all_products</pre>
+        </div>
+        
+        <h3>Pentru ChatGPT / Claude AI</h3>
+        <div class="example-code">
+            <pre>Analizează produsele de la aceste URL-uri:
+
+1. https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json
+2. https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_02.json
+3. https://raw.githubusercontent.com/Endimion2k/bikestylish-catalog/main/data/products_ai_enhanced_split/products_ai_enhanced_part_03.json
+
+Găsește toate bicicletele MTB sub 3000 RON care sunt în stoc.</pre>
+        </div>
+    </div>
+
+    <!-- Technical Details -->
+    <div class="endpoint-section">
+        <h2>📊 Detalii Tehnice</h2>
+        
+        <h3>Rate Limits</h3>
+        <table>
+            <tr>
+                <th>Endpoint</th>
+                <th>Limite</th>
+                <th>Dimensiune</th>
+                <th>Cache</th>
+            </tr>
+            <tr>
+                <td>Părți Produse</td>
+                <td>100 req/oră</td>
+                <td>~1-1.8 MB</td>
+                <td>10 min</td>
+            </tr>
+            <tr>
+                <td>Părți Categorii</td>
+                <td>200 req/oră</td>
+                <td>~300-500 KB</td>
+                <td>30 min</td>
+            </tr>
+        </table>
+        
+        <h3>Format Date JSON</h3>
+        <div class="example-code">
+            <pre>{
+  "products": [
+    {
+      "id": "product_id",
+      "name": "Nume Produs",
+      "price": 1999.99,
+      "category": "Categorie",
+      "stock": 5,
+      "description": "Descriere...",
+      "images": ["url1", "url2"]
+    }
+  ]
+}</pre>
+        </div>
+    </div>
+
+    <!-- Alternative Access Methods -->
+    <div class="endpoint-section">
+        <h2>🚀 Metode Alternative de Acces</h2>
+        
+        <div class="warning-box">
+            <strong>⚠️ Probleme cu accesul din browser?</strong> Încearcă aceste alternative:
+        </div>
+        
+        <h3>1. Folosește Postman</h3>
+        <p>Tool profesional pentru testare API:</p>
+        <a href="https://www.postman.com/downloads/" target="_blank" class="button-link">
+            📥 Descarcă Postman
+        </a>
+        
+        <h3>2. GitHub Direct (funcționează imediat)</h3>
+        <p>Vezi fișierele direct pe GitHub pentru verificare:</p>
+        <a href="https://github.com/Endimion2k/bikestylish-catalog/blob/main/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json" 
+           target="_blank" 
+           class="button-link">
+            👁️ Vezi pe GitHub (Produse)
+        </a>
+        <a href="https://github.com/Endimion2k/bikestylish-catalog/blob/main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_01.json" 
+           target="_blank" 
+           class="button-link">
+            👁️ Vezi pe GitHub (Categorii)
+        </a>
+        
+        <h3>3. jsDelivr CDN (mai târziu)</h3>
+        <p>Alternative URLs care vor funcționa în 1-6 ore:</p>
+        <div class="endpoint-url">
+            https://cdn.jsdelivr.net/gh/Endimion2k/bikestylish-catalog@main/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json
+        </div>
+        <a href="https://cdn.jsdelivr.net/gh/Endimion2k/bikestylish-catalog@main/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json" 
+           target="_blank" 
+           class="button-link">
+            🚀 Test jsDelivr (Produse)
+        </a>
+        <a href="https://cdn.jsdelivr.net/gh/Endimion2k/bikestylish-catalog@main/data/categories_ai_enhanced_split/categories_ai_enhanced_part_01.json" 
+           target="_blank" 
+           class="button-link">
+            🚀 Test jsDelivr (Categorii)
+        </a>
+        
+        <h3>4. Download Local</h3>
+        <p>Clonează repository-ul:</p>
+        <div class="example-code">
+            <pre>git clone https://github.com/Endimion2k/bikestylish-catalog.git</pre>
+        </div>
+    </div>
+
+    <!-- Contact -->
+    <div class="endpoint-section">
+        <h2>📞 Contact & Suport</h2>
+        <p><strong>Email:</strong> office@bikestylish.ro</p>
+        <p><strong>Website:</strong> <a href="https://www.bikestylish.ro" target="_blank">www.bikestylish.ro</a></p>
+        <p><strong>GitHub:</strong> <a href="https://github.com/Endimion2k/bikestylish-catalog" target="_blank">github.com/Endimion2k/bikestylish-catalog</a></p>
+        
+        <div class="info-box" style="margin-top: 20px;">
+            <strong>💡 API gratuit pentru:</strong> dezvoltatori, cercetători, agenți AI. 
+            Pentru utilizare comercială, contactați-ne.
+        </div>
+    </div>
+
+</body>
+</html>

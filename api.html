@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BikeStylish API</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>BikeStylish API v2.0</h1>
+    <p>API Status: <span id="status">🟢 ONLINE</span></p>
+    
+    <h2>Endpoints disponibile:</h2>
+    <ul>
+        <li><a href="/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json">Produse - Partea 1</a></li>
+        <li><a href="/data/categories_ai_enhanced_split/categories_ai_enhanced_part_01.json">Categorii - Partea 1</a></li>
+    </ul>
+    
+    <script>
+        // API simplu de verificare
+        document.getElementById('status').onclick = function() {
+            fetch('/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json')
+                .then(r => r.ok ? '🟢 ONLINE' : '🔴 OFFLINE')
+                .then(status => this.textContent = status)
+                .catch(() => this.textContent = '🔴 OFFLINE');
+        };
+    </script>
+</body>
+</html>

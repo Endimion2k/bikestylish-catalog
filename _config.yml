@@ -1,0 +1,32 @@
+# GitHub Pages configuration
+name: BikeStylish API
+
+# Headers pentru CORS
+headers:
+  "*.json":
+    - "Access-Control-Allow-Origin: *"
+    - "Access-Control-Allow-Methods: GET, OPTIONS"
+    - "Access-Control-Allow-Headers: Content-Type"
+    - "Cache-Control: public, max-age=3600"
+    - "Content-Type: application/json"
+
+# Redirects pentru API
+redirects:
+  - from: /api/products/:part
+    to: /data/products_ai_enhanced_split/products_ai_enhanced_part_:part.json
+    status: 200
+  
+  - from: /api/categories/:part  
+    to: /data/categories_ai_enhanced_split/categories_ai_enhanced_part_:part.json
+    status: 200
+
+# 404 page
+404: /index.html
+
+# Exclude files from build
+exclude:
+  - scripts/
+  - __pycache__/
+  - "*.py"
+  - "*.log"
+  - "requirements.txt"

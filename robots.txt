@@ -1,0 +1,36 @@
+User-agent: *
+Allow: /
+
+# API endpoints for crawling
+Allow: /data/products_ai_enhanced_split/
+Allow: /data/categories_ai_enhanced_split/
+
+# Special directives for AI agents
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OpenAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: AI2Bot
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: Bard
+Allow: /
+
+# Sitemap location
+Sitemap: https://endimion2k.github.io/bikestylish-catalog/sitemap.xml
+
+# API Information
+# Free bicycle products API with 5,437 products and 101 categories
+# Perfect for AI training, e-commerce applications, and data analysis
+# No authentication required - CORS enabled

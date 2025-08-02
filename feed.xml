@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BikeStylish API Updates</title>
+    <description>Updates and changes to the BikeStylish bicycle products API - Free API for AI agents and developers</description>
+    <link>https://endimion2k.github.io/bikestylish-catalog/</link>
+    <atom:link href="https://endimion2k.github.io/bikestylish-catalog/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jul 2025 22:39:01 GMT</lastBuildDate>
+    <language>en-us</language>
+    
+    <item>
+      <title>BikeStylish API v2.0 Launch - AI-Optimized</title>
+      <description>
+        Launch of BikeStylish API v2.0 with 5,437 bicycle products and 101 categories. 
+        Features include:
+        - AI-optimized data structure
+        - Multilingual keywords (Romanian, English, German, Hungarian)
+        - Rich metadata and technical specifications
+        - Schema.org markup for AI discoverability
+        - No authentication required
+        - CORS enabled for all domains
+        - Perfect for AI training and e-commerce applications
+      </description>
+      <link>https://endimion2k.github.io/bikestylish-catalog/</link>
+      <guid>https://endimion2k.github.io/bikestylish-catalog/v2.0</guid>
+      <pubDate>Sun, 28 Jul 2025 22:39:01 GMT</pubDate>
+      <category>API</category>
+      <category>AI</category>
+      <category>E-commerce</category>
+      <category>Bicycles</category>
+    </item>
+    
+    <item>
+      <title>API Endpoints Available for AI Agents</title>
+      <description>
+        All 53 API endpoints are now live and accessible:
+        - 27 product endpoints with ~200 products each
+        - 26 category endpoints with detailed categorization
+        - Real-time status monitoring
+        - Optimized for machine learning and AI applications
+        
+        Perfect for:
+        - AI training datasets
+        - E-commerce integrations
+        - Product recommendation engines
+        - Semantic search applications
+      </description>
+      <link>https://endimion2k.github.io/bikestylish-catalog/data/</link>
+      <guid>https://endimion2k.github.io/bikestylish-catalog/endpoints</guid>
+      <pubDate>Sun, 28 Jul 2025 22:39:01 GMT</pubDate>
+      <category>Endpoints</category>
+      <category>Data</category>
+    </item>
+  </channel>
+</rss>
