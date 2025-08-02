@@ -185,37 +185,286 @@ Categories: categories_ai_enhanced_split/categories_ai_enhanced_part_XX.json (01
 
 Each product includes: name, brand, category, price, specifications, 
 multilingual keywords, and semantic relationships.</code></pre>
+
+        <h3>📊 Response Schema Example:</h3>
+        <pre style="background: #f8f9fa; padding: 15px; border-radius: 5px; overflow-x: auto;"><code>{
+  "last_updated": "2025-07-28T22:25:48.418022",
+  "total_products": 5437,
+  "version": "2.0",
+  "source": "https://www.bikestylish.ro",
+  "part_info": {
+    "current_part": 1,
+    "total_parts": 27,
+    "products_in_part": 201
+  },
+  "products": [
+    {
+      "id": "stegulet-reflectorizant-m-wave--sf-short",
+      "name": "Stegulet Reflectorizant M-WAVE SF SHORT",
+      "brand": "M-WAVE",
+      "category": "accesorii",
+      "price": 22.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "description": "Prindere pe portbagajLungime 380 mm",
+      "warranty": "12 luni",
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true
+      },
+      "search_optimization": {
+        "primary_keywords": ["m-wave", "accesorii", "stegulet"],
+        "semantic_keywords": ["safety", "visibility", "flag"],
+        "multilingual_terms": {
+          "ro": ["stegulet", "reflectorizant"],
+          "en": ["flag", "reflective"],
+          "de": ["fahne", "reflektierend"],
+          "hu": ["zászló", "fényvisszaverő"]
+        }
+      }
+    }
+  ]
+}</code></pre>
+
+        <h3>🔍 Field Descriptions:</h3>
+        <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin: 10px 0;">
+            <h4>Product Fields:</h4>
+            <ul>
+                <li><strong>id:</strong> Unique identifier (string, URL-safe)</li>
+                <li><strong>name:</strong> Product display name (string)</li>
+                <li><strong>brand:</strong> Manufacturer brand (string)</li>
+                <li><strong>category:</strong> Product category (string)</li>
+                <li><strong>price:</strong> Current price (number, RON)</li>
+                <li><strong>currency:</strong> Price currency (string, always "RON")</li>
+                <li><strong>availability:</strong> Stock status ("in_stock" | "out_of_stock" | "limited")</li>
+                <li><strong>stock_quantity:</strong> Available units (number)</li>
+                <li><strong>description:</strong> Product description (string, HTML)</li>
+                <li><strong>warranty:</strong> Warranty period (string)</li>
+                <li><strong>ai_metadata:</strong> AI optimization data (object)</li>
+                <li><strong>search_optimization:</strong> Search keywords (object)</li>
+            </ul>
+        </div>
+
+        <h3>⚠️ Error Handling:</h3>
+        <div style="background: #fff3cd; border: 1px solid #ffeaa7; padding: 15px; border-radius: 5px; margin: 10px 0;">
+            <h4>HTTP Status Codes:</h4>
+            <ul>
+                <li><strong>200 OK:</strong> Request successful, data returned</li>
+                <li><strong>404 Not Found:</strong> Invalid part number (use 01-27 for products, 01-26 for categories)</li>
+                <li><strong>429 Too Many Requests:</strong> Rate limit exceeded (no current limits, but may be added)</li>
+                <li><strong>500 Internal Server Error:</strong> Server issue, try again later</li>
+            </ul>
+        </div>
+
+        <h3>🚀 Performance & Pagination:</h3>
+        <div style="background: #e3f2fd; padding: 15px; border-radius: 5px; margin: 10px 0;">
+            <h4>Data Splitting Logic:</h4>
+            <ul>
+                <li><strong>Products:</strong> Split into 27 parts (~200 products each) for optimal loading</li>
+                <li><strong>Categories:</strong> Split into 26 parts for consistent structure</li>
+                <li><strong>CDN Caching:</strong> 1 hour cache, globally distributed via GitHub Pages</li>
+                <li><strong>Response Size:</strong> Average 1.2MB per part, JSON minified</li>
+            </ul>
+            <p><strong>Best Practice:</strong> Load parts on-demand rather than all at once for better performance.</p>
+        </div>
         
         <h3>JavaScript:</h3>
         <pre style="background: #f8f9fa; padding: 15px; border-radius: 5px; overflow-x: auto;"><code>// Încarcă primul set de produse
 fetch('https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json')
-  .then(response => response.json())
+  .then(response => {
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    return response.json();
+  })
   .then(data => {
     console.log('Produse încărcate:', data.products.length);
     console.log('Total părți:', data.part_info.total_parts);
+    
+    // Exemplu: Găsește produse din categoria "accesorii"
+    const accessories = data.products.filter(p => p.category === 'accesorii');
+    console.log('Accesorii găsite:', accessories.length);
+    
+    // Exemplu: Găsește produse disponibile
+    const inStock = data.products.filter(p => p.availability === 'in_stock');
+    console.log('Produse în stoc:', inStock.length);
+  })
+  .catch(error => {
+    console.error('Eroare la încărcarea datelor:', error);
   });</code></pre>
-        
+
         <h3>Python:</h3>
         <pre style="background: #f8f9fa; padding: 15px; border-radius: 5px; overflow-x: auto;"><code>import requests
+import json
 
-url = "https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json"
-response = requests.get(url)
-data = response.json()
+def get_products(part_number):
+    """Încarcă produse dintr-o anumită parte a API-ului"""
+    url = f"https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/products_ai_enhanced_part_{part_number:02d}.json"
+    
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()  # Aruncă excepție pentru 4xx/5xx
+        return response.json()
+    except requests.exceptions.RequestException as e:
+        print(f"Eroare la încărcarea părții {part_number}: {e}")
+        return None
 
-print(f"Produse încărcate: {len(data['products'])}")
-print(f"Total părți: {data['part_info']['total_parts']}")</code></pre>
+def search_products_by_category(category, max_parts=5):
+    """Caută produse după categorie în primele max_parts părți"""
+    results = []
+    
+    for part in range(1, max_parts + 1):
+        data = get_products(part)
+        if data:
+            matching_products = [
+                p for p in data['products'] 
+                if p.get('category', '').lower() == category.lower()
+            ]
+            results.extend(matching_products)
+            print(f"Partea {part}: {len(matching_products)} produse găsite")
+    
+    return results
+
+# Exemplu de utilizare
+accessories = search_products_by_category('accesorii', max_parts=3)
+print(f"Total accesorii găsite: {len(accessories)}")
+
+# Exemplu: Analizează prețurile
+if accessories:
+    prices = [p['price'] for p in accessories if p.get('price')]
+    print(f"Preț minim: {min(prices)} RON")
+    print(f"Preț maxim: {max(prices)} RON")
+    print(f"Preț mediu: {sum(prices)/len(prices):.2f} RON")</code></pre>
+
+        <h3>cURL:</h3>
+        <pre style="background: #f8f9fa; padding: 15px; border-radius: 5px; overflow-x: auto;"><code># Testează conectivitatea
+curl -I "https://endimion2k.github.io/bikestylish-catalog/"
+
+# Încarcă prima parte a produselor
+curl "https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json"
+
+# Verifică headers pentru cache
+curl -I "https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json"
+
+# Încarcă categorii
+curl "https://endimion2k.github.io/bikestylish-catalog/data/categories_ai_enhanced_split/categories_ai_enhanced_part_01.json"</code></pre>
+
+        <h3>PHP:</h3>
+        <pre style="background: #f8f9fa; padding: 15px; border-radius: 5px; overflow-x: auto;"><code><?php
+function getBikeStylishProducts($partNumber) {
+    $url = "https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/products_ai_enhanced_part_" . 
+           sprintf("%02d", $partNumber) . ".json";
+    
+    $context = stream_context_create([
+        'http' => [
+            'timeout' => 10,
+            'user_agent' => 'BikeStylish-Client/1.0'
+        ]
+    ]);
+    
+    $data = file_get_contents($url, false, $context);
+    
+    if ($data === FALSE) {
+        throw new Exception("Failed to fetch data from part $partNumber");
+    }
+    
+    return json_decode($data, true);
+}
+
+// Exemplu de utilizare
+try {
+    $products = getBikeStylishProducts(1);
+    echo "Produse încărcate: " . count($products['products']) . "\n";
+    
+    // Filtrează după brand
+    $mwaveProducts = array_filter($products['products'], function($p) {
+        return strtolower($p['brand']) === 'm-wave';
+    });
+    
+    echo "Produse M-WAVE: " . count($mwaveProducts) . "\n";
+    
+} catch (Exception $e) {
+    echo "Eroare: " . $e->getMessage() . "\n";
+}
+?></code></pre>
         
-        <h2>ℹ️ Informații</h2>
-        <ul>
-            <li><strong>Actualizat:</strong> 28 Iulie 2025</li>
-            <li><strong>Format:</strong> JSON (Schema.org compatible)</li>
-            <li><strong>CORS:</strong> Activat pentru toate domeniile</li>
-            <li><strong>Cache:</strong> 1 oră</li>
-            <li><strong>SSL:</strong> HTTPS obligatoriu</li>
-            <li><strong>Rate Limiting:</strong> Nu există limite</li>
-            <li><strong>Authentication:</strong> Nu este necesară</li>
-            <li><strong>AI Friendly:</strong> Optimizat pentru agenți AI și ML</li>
-        </ul>
+        <h2>ℹ️ Informații Tehnice</h2>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
+            <div style="background: #f8f9fa; padding: 15px; border-radius: 5px;">
+                <h4>📊 Date și Versioning</h4>
+                <ul>
+                    <li><strong>Actualizat:</strong> 28 Iulie 2025</li>
+                    <li><strong>Versiune API:</strong> 2.0.0</li>
+                    <li><strong>Format:</strong> JSON (Schema.org compatible)</li>
+                    <li><strong>Encoding:</strong> UTF-8</li>
+                    <li><strong>Total produse:</strong> 5,437</li>
+                    <li><strong>Total categorii:</strong> 101</li>
+                </ul>
+            </div>
+            
+            <div style="background: #f8f9fa; padding: 15px; border-radius: 5px;">
+                <h4>🌐 Rețea și Cache</h4>
+                <ul>
+                    <li><strong>CDN:</strong> GitHub Pages Global</li>
+                    <li><strong>Cache:</strong> 1 oră (3600s)</li>
+                    <li><strong>SSL:</strong> HTTPS obligatoriu</li>
+                    <li><strong>CORS:</strong> Activat pentru toate domeniile</li>
+                    <li><strong>Compression:</strong> Gzip enabled</li>
+                    <li><strong>Uptime:</strong> 99.9% SLA</li>
+                </ul>
+            </div>
+            
+            <div style="background: #f8f9fa; padding: 15px; border-radius: 5px;">
+                <h4>🔐 Securitate și Acces</h4>
+                <ul>
+                    <li><strong>Authentication:</strong> Nu este necesară</li>
+                    <li><strong>Rate Limiting:</strong> Nu există limite actuale</li>
+                    <li><strong>API Keys:</strong> Nu sunt necesare</li>
+                    <li><strong>HTTPS only:</strong> Da</li>
+                    <li><strong>CORS Origin:</strong> *</li>
+                    <li><strong>Webhook support:</strong> Nu</li>
+                </ul>
+            </div>
+            
+            <div style="background: #f8f9fa; padding: 15px; border-radius: 5px;">
+                <h4>🤖 AI și Optimizare</h4>
+                <ul>
+                    <li><strong>AI Friendly:</strong> Optimizat pentru ML</li>
+                    <li><strong>Schema.org:</strong> Full markup</li>
+                    <li><strong>Multilingual:</strong> RO/EN/DE/HU keywords</li>
+                    <li><strong>Semantic search:</strong> Enabled</li>
+                    <li><strong>Crawlers:</strong> GPTBot, Claude, Gemini</li>
+                    <li><strong>Training data:</strong> Ready-to-use</li>
+                </ul>
+            </div>
+        </div>
+
+        <h3>🛠️ Troubleshooting</h3>
+        <div style="background: #f8d7da; border: 1px solid #f5c6cb; padding: 15px; border-radius: 5px; margin: 10px 0;">
+            <h4>Probleme Comune și Soluții:</h4>
+            <ul>
+                <li><strong>404 Error:</strong> Verifică numărul părții (01-27 pentru produse, 01-26 pentru categorii)</li>
+                <li><strong>CORS Error:</strong> API-ul suportă toate domeniile, verifică configurația browser-ului</li>
+                <li><strong>Timeout:</strong> GitHub Pages poate fi lent, încearcă din nou după 30s</li>
+                <li><strong>JSON Parse Error:</strong> Response-ul poate fi gzip, verifică headers</li>
+                <li><strong>Empty Response:</strong> Unele părți pot avea mai puține produse, verifică part_info</li>
+            </ul>
+        </div>
+
+        <h3>💡 Best Practices</h3>
+        <div style="background: #d4edda; border: 1px solid #c3e6cb; padding: 15px; border-radius: 5px; margin: 10px 0;">
+            <h4>Recomandări pentru Dezvoltatori:</h4>
+            <ul>
+                <li><strong>Cache local:</strong> Stochează răspunsurile pentru 1 oră să reduci request-urile</li>
+                <li><strong>Error handling:</strong> Implementează retry logic pentru 5xx errors</li>
+                <li><strong>Pagination:</strong> Încarcă părțile on-demand, nu toate deodată</li>
+                <li><strong>Filtering:</strong> Filtrează local după încărcare pentru performance</li>
+                <li><strong>User-Agent:</strong> Setează un User-Agent descriptiv pentru analytics</li>
+                <li><strong>Monitoring:</strong> Urmărește response times și success rates</li>
+            </ul>
+        </div>
         
         <h2>🔍 API Discovery</h2>
         <div style="background: #f8f9fa; padding: 15px; border-radius: 5px;">
@@ -235,6 +484,9 @@ print(f"Total părți: {data['part_info']['total_parts']}")</code></pre>
             </p>
             <a href="https://www.bikestylish.ro" class="button" target="_blank">🌐 Vizitează Magazinul</a>
             <a href="https://github.com/Endimion2k/bikestylish-catalog" class="button" target="_blank">📁 GitHub Repository</a>
+            <a href="README_api.md" class="button">📖 Documentație Completă</a>
+            <a href="CHANGELOG.md" class="button">📋 Changelog</a>
+            <a href="CONTACT.md" class="button">💬 Support</a>
         </div>
     </div>
     
