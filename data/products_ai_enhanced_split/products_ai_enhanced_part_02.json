@@ -1,113 +1,485 @@
 {
-  "last_updated": "2025-07-28T22:39:01.000000",
-  "total_products": 203,
-  "version": "2.0.0",
-  "source": "bikestylish.ro",
-  "part_info": {
-    "part_number": 2,
-    "total_parts": 27,
-    "products_range": "204-406"
-  },
-  "categories": [
-    {
-      "id": "accesorii",
-      "name": "Accesorii",
-      "count": 4326
-    },
-    {
-      "id": "biciclete",
-      "name": "Biciclete",
-      "count": 779
-    },
-    {
-      "id": "piese-schimb",
-      "name": "Piese de Schimb",
-      "count": 332
-    }
-  ],
-  "brands": [
-    {
-      "name": "Ureche",
-      "product_count": 895
-    },
-    {
-      "name": "M-WAVE",
-      "product_count": 812
-    },
-    {
-      "name": "SXT",
-      "product_count": 653
-    },
-    {
-      "name": "VELO",
-      "product_count": 326
-    },
-    {
-      "name": "SHIMANO",
-      "product_count": 294
-    },
-    {
-      "name": "Spita",
-      "product_count": 270
-    },
-    {
-      "name": "KENDA",
-      "product_count": 151
-    },
-    {
-      "name": "Butuc",
-      "product_count": 148
-    },
-    {
-      "name": "Pedale",
-      "product_count": 146
-    },
-    {
-      "name": "VENTURA",
-      "product_count": 109
-    },
-    {
-      "name": "Cheie",
-      "product_count": 97
-    },
-    {
-      "name": "Lant",
-      "product_count": 73
-    },
-    {
-      "name": "Camera",
-      "product_count": 71
-    },
-    {
-      "name": "Set",
-      "product_count": 67
-    },
-    {
-      "name": "Janta",
-      "product_count": 53
-    },
-    {
-      "name": "Kit",
-      "product_count": 43
-    },
-    {
-      "name": "Manusi",
-      "product_count": 41
-    },
-    {
-      "name": "Suport",
-      "product_count": 39
-    },
-    {
-      "name": "Pinion",
-      "product_count": 35
-    },
-    {
-      "name": "TREK",
-      "product_count": 30
-    }
-  ],
   "products": [
+    {
+      "id": "sa--velo-flex-dc-269-x-162-mm",
+      "name": "Sa  VELO \"FLEX DC\" 269 x 162 mm",
+      "brand": "VELO",
+      "category": "accesorii",
+      "price": 150.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100200",
+      "ean": "",
+      "description": "ARC-TECH SUSPENSION(Tehnologia ArcTech) este perfecta pentru miscarile ciclistului deoarece sinele pot fi ajustate pentru oricare pozitie si ajuta la absorbirea socului.) -CONSTRUCTIE ,,D 2\"-Tehnologia bazata pe dubla densitate foloseste atat materialele din nailon, cat si cele din cauciuc pentru a realiza o greutate redusa, o rezistenta ridicata si o baza flexibila. Design ,,DEEP CHANEEL\" ,,O-ZONE FULL CUT\"(Cu O-Zone Full Cut), seile Velo reduce presiunea asupra zonei de sedere si permite o circulatie permanenta pentru organele genitale.) Latime;162 mm Greutate ; 471 grame Lungime ;269 mm",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/sa-velo-flex-dc-269-x-162-mm.html ",
+      "images": [],
+      "rating": 4.0,
+      "reviews_count": 1,
+      "warranty": "24 luni",
+      "tags": [
+        "accesorii",
+        "velo"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.419591",
+      "original_price": 225.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Sa  VELO \"FLEX DC\" 269 x 162 mm",
+        "brand": {
+          "@type": "Brand",
+          "name": "VELO"
+        },
+        "description": "ARC-TECH SUSPENSION(Tehnologia ArcTech) este perfecta pentru miscarile ciclistului deoarece sinele pot fi ajustate pentru oricare pozitie si ajuta la absorbirea socului.) -CONSTRUCTIE ,,D 2\"-Tehnologia bazata pe dubla densitate foloseste atat materialele din nailon, cat si cele din cauciuc pentru a realiza o greutate redusa, o rezistenta ridicata si o baza flexibila. Design ,,DEEP CHANEEL\" ,,O-ZONE FULL CUT\"(Cu O-Zone Full Cut), seile Velo reduce presiunea asupra zonei de sedere si permite o circulatie permanenta pentru organele genitale.) Latime;162 mm Greutate ; 471 grame Lungime ;269 mm",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "150.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/sa-velo-flex-dc-269-x-162-mm.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "velo",
+          "accesorii",
+          "sa",
+          "velo",
+          "flex"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "velo sa  velo \"flex dc\" 269 x 162 mm",
+          "sa  velo \"flex dc\" 269 x 162 mm velo",
+          "accesorii velo"
+        ],
+        "voice_search_phrases": [
+          "where to buy sa  velo \"flex dc\" 269 x 162 mm",
+          "best sa  velo \"flex dc\" 269 x 162 mm price",
+          "how to install sa  velo \"flex dc\" 269 x 162 mm"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "sa",
+            "velo",
+            "flex",
+            "dc",
+            "269",
+            "x",
+            "162",
+            "mm"
+          ],
+          "en": [
+            "sa",
+            "velo",
+            "flex",
+            "dc",
+            "269",
+            "x",
+            "162",
+            "mm"
+          ],
+          "de": [
+            "sa",
+            "velo",
+            "flex",
+            "dc",
+            "269",
+            "x",
+            "162",
+            "mm"
+          ],
+          "hu": [
+            "sa",
+            "velo",
+            "flex",
+            "dc",
+            "269",
+            "x",
+            "162",
+            "mm"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "sa-velo-flex-dc-242-x-151-mm",
+      "name": "Sa VELO FLEX DC 242 x 151 mm",
+      "brand": "VELO",
+      "category": "accesorii",
+      "price": 150.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100201",
+      "ean": "",
+      "description": "In zilele noastre, oamenii sunt mai constienti de sanatatea si protectia mediului. Ciclismul joaca un rol important intr-o epoca unica; nu mai este exclusiv la curse, ci un exercitiu si o tendinta. Cererile pe o bicicleta devin si mai personalizate si mai meticuloase. Raspunzand la astfel de solicitari, Velo specializeaza dezvoltarea de produse, oferind sei potrivite pentru persoanele cu nevoi diferite, creand astfel gama de sei \"PLUSH\" pentru ciclistul urban METROPOLITAN SPORTO-Zone -Taiere completa pentru reducerea presiuniiChannel - eliberarea presiunii prin ventilareArc Tech: suspensie cu absorbtie a socurilorMaterial antialunecareSine cu scalaBaza din doua componente pentru o rezistenta mai mareGreutate- 386 grame.",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/sa-velo-flex-dc-242-x-151-mm.html ",
+      "images": [],
+      "rating": 4.1,
+      "reviews_count": 2,
+      "warranty": "24 luni",
+      "tags": [
+        "accesorii",
+        "velo"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.419598",
+      "original_price": 225.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Sa VELO FLEX DC 242 x 151 mm",
+        "brand": {
+          "@type": "Brand",
+          "name": "VELO"
+        },
+        "description": "In zilele noastre, oamenii sunt mai constienti de sanatatea si protectia mediului. Ciclismul joaca un rol important intr-o epoca unica; nu mai este exclusiv la curse, ci un exercitiu si o tendinta. Cererile pe o bicicleta devin si mai personalizate si mai meticuloase. Raspunzand la astfel de solicitari, Velo specializeaza dezvoltarea de produse, oferind sei potrivite pentru persoanele cu nevoi diferite, creand astfel gama de sei \"PLUSH\" pentru ciclistul urban METROPOLITAN SPORTO-Zone -Taiere completa pentru reducerea presiuniiChannel - eliberarea presiunii prin ventilareArc Tech: suspensie cu absorbtie a socurilorMaterial antialunecareSine cu scalaBaza din doua componente pentru o rezistenta mai mareGreutate- 386 grame.",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "150.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/sa-velo-flex-dc-242-x-151-mm.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "velo",
+          "accesorii",
+          "sa",
+          "velo",
+          "flex"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "velo sa velo flex dc 242 x 151 mm",
+          "sa velo flex dc 242 x 151 mm velo",
+          "accesorii velo"
+        ],
+        "voice_search_phrases": [
+          "where to buy sa velo flex dc 242 x 151 mm",
+          "best sa velo flex dc 242 x 151 mm price",
+          "how to install sa velo flex dc 242 x 151 mm"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "sa",
+            "velo",
+            "flex",
+            "dc",
+            "242",
+            "x",
+            "151",
+            "mm"
+          ],
+          "en": [
+            "sa",
+            "velo",
+            "flex",
+            "dc",
+            "242",
+            "x",
+            "151",
+            "mm"
+          ],
+          "de": [
+            "sa",
+            "velo",
+            "flex",
+            "dc",
+            "242",
+            "x",
+            "151",
+            "mm"
+          ],
+          "hu": [
+            "sa",
+            "velo",
+            "flex",
+            "dc",
+            "242",
+            "x",
+            "151",
+            "mm"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "sa-velo--basic---deep-channel",
+      "name": "Sa VELO  ,,BASIC   DEEP CHANNEL\"",
+      "brand": "VELO",
+      "category": "accesorii",
+      "price": 150.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100202",
+      "ean": "",
+      "description": "Greutate-465 grame ARC-TECH SUSPENSION(Tehnologia ArcTech) este perfecta pentru miscarile ciclistului deoarece sinele pot fi ajustate pentru oricare pozitie si ajuta la absorbirea socului. CONSTRUCTIE D2-Tehnologia bazata pe dubla densitate foloseste atat materialele din nailon, cat si cele din cauciuc pentru a realiza o greutate redusa, o rezistenta ridicata si o baza flexibila. DESIGN ,,DEEP CHANNEL\" O-ZONE FULL CUT-Cu O-Zone Full Cut, seile Velo reduce presiunea asupra zonei de sedere si permite o circulatie permanenta pentru organele genitale. AIRTHRU COOL-Cu tehnologia Airtrhu Cool un spatiu de aspiratie conduce aerul din partea anterioara a seii catre spatiul deschis din centru pentru o ventilatie mai buna.Latime-165 mm Lungime 262 mmSe monteaza pe tija de saCuloare-Negru",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/sa-velo-basic-deep-channel.html ",
+      "images": [],
+      "rating": 4.2,
+      "reviews_count": 3,
+      "warranty": "24 luni",
+      "tags": [
+        "accesorii",
+        "velo"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.419604",
+      "original_price": 225.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Sa VELO  ,,BASIC   DEEP CHANNEL\"",
+        "brand": {
+          "@type": "Brand",
+          "name": "VELO"
+        },
+        "description": "Greutate-465 grame ARC-TECH SUSPENSION(Tehnologia ArcTech) este perfecta pentru miscarile ciclistului deoarece sinele pot fi ajustate pentru oricare pozitie si ajuta la absorbirea socului. CONSTRUCTIE D2-Tehnologia bazata pe dubla densitate foloseste atat materialele din nailon, cat si cele din cauciuc pentru a realiza o greutate redusa, o rezistenta ridicata si o baza flexibila. DESIGN ,,DEEP CHANNEL\" O-ZONE FULL CUT-Cu O-Zone Full Cut, seile Velo reduce presiunea asupra zonei de sedere si permite o circulatie permanenta pentru organele genitale. AIRTHRU COOL-Cu tehnologia Airtrhu Cool un spatiu de aspiratie conduce aerul din partea anterioara a seii catre spatiul deschis din centru pentru o ventilatie mai buna.Latime-165 mm Lungime 262 mmSe monteaza pe tija de saCuloare-Negru",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "150.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/sa-velo-basic-deep-channel.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "low"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "velo",
+          "accesorii",
+          "sa",
+          "velo",
+          "basic"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "velo sa velo  ,,basic   deep channel\"",
+          "sa velo  ,,basic   deep channel\" velo",
+          "accesorii velo"
+        ],
+        "voice_search_phrases": [
+          "where to buy sa velo  ,,basic   deep channel\"",
+          "best sa velo  ,,basic   deep channel\" price",
+          "how to install sa velo  ,,basic   deep channel\""
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "sa",
+            "velo",
+            "basic",
+            "deep",
+            "channel"
+          ],
+          "en": [
+            "sa",
+            "velo",
+            "basic",
+            "deep",
+            "channel"
+          ],
+          "de": [
+            "sa",
+            "velo",
+            "basic",
+            "deep",
+            "channel"
+          ],
+          "hu": [
+            "sa",
+            "velo",
+            "basic",
+            "deep",
+            "channel"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
     {
       "id": "sa-velo-widechannel-negru",
       "name": "Sa VELO WIDE:CHANNEL Negru",
@@ -1989,7 +2361,7 @@
     {
       "id": "sa-trekking-velo-fit-traveller--m-130-140-mm",
       "name": "Sa Trekking VELO-FIT TRAVELLER -M (130-140 mm)",
-      "brand": "TREK",
+      "brand": "VELO",
       "category": "accesorii",
       "price": 145.0,
       "currency": "RON",
@@ -2154,12 +2526,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "TREK"
     },
     {
       "id": "sa-trekking-velo-fit-traveller---l-150-160-mm",
       "name": "Sa Trekking VELO-FIT TRAVELLER - L (150-160 mm)",
-      "brand": "TREK",
+      "brand": "VELO",
       "category": "accesorii",
       "price": 145.0,
       "currency": "RON",
@@ -2324,12 +2698,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "TREK"
     },
     {
       "id": "sa-trekking-velo--velo-fit-traveller--xl-170-190-mm",
       "name": "Sa Trekking VELO  VELO-FIT TRAVELLER -XL (170-190 mm)",
-      "brand": "TREK",
+      "brand": "VELO",
       "category": "accesorii",
       "price": 145.0,
       "currency": "RON",
@@ -2498,12 +2874,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "TREK"
     },
     {
       "id": "sa-trekking-velo-velo-fit-traveller-xxl-200-230-mm",
       "name": "Sa Trekking VELO \"VELO-FIT TRAVELLER\"-XXL (200-230 mm)",
-      "brand": "TREK",
+      "brand": "VELO",
       "category": "accesorii",
       "price": 145.0,
       "currency": "RON",
@@ -2672,7 +3050,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "TREK"
     },
     {
       "id": "sa-citycomfort-velo-velo-fit-townie-m130-140-mm",
@@ -9097,7 +9477,7 @@
     {
       "id": "suport-sa-metal-negru",
       "name": "Suport Sa Metal Negru",
-      "brand": "Suport",
+      "brand": "SXT",
       "category": "accesorii",
       "price": 7.0,
       "currency": "RON",
@@ -9240,7 +9620,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Suport"
     },
     {
       "id": "colier-tija-sa-m-wave-clampy-qr-318-mm-negru",
@@ -10653,7 +11035,7 @@
     {
       "id": "colier-sa-zoom-qr-318-mm",
       "name": "Colier Sa ZOOM QR-31,8 mm",
-      "brand": "Colier",
+      "brand": "ZOOM",
       "category": "accesorii",
       "price": 30.0,
       "currency": "RON",
@@ -10808,12 +11190,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Colier"
     },
     {
       "id": "colier-sa-zoom-qr-349-mm",
       "name": "Colier Sa ZOOM QR-34.9 mm",
-      "brand": "Colier",
+      "brand": "ZOOM",
       "category": "accesorii",
       "price": 30.0,
       "currency": "RON",
@@ -10968,12 +11352,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Colier"
     },
     {
       "id": "qr-pentru-colier-tija-sa-promax",
       "name": "QR pentru colier tija sa PROMAX",
-      "brand": "Qr",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 20.0,
       "currency": "RON",
@@ -11124,12 +11510,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Qr"
     },
     {
       "id": "qr-pentru-colier-tija-sa-promax",
       "name": "QR pentru colier tija sa PROMAX",
-      "brand": "Qr",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 20.0,
       "currency": "RON",
@@ -11280,7 +11668,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Qr"
     },
     {
       "id": "qr-pentru-colier-tija-sa-sxt-silver",
@@ -11605,7 +11995,7 @@
     {
       "id": "tija-sa-cu-suspensie--promax---254-mm-negru",
       "name": "Tija Sa cu Suspensie  Promax - 25,4 mm Negru",
-      "brand": "Tija",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 68.0,
       "currency": "RON",
@@ -11768,12 +12158,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Tija"
     },
     {
       "id": "tija-sa-cu-suspensie--promax--negru-272-x-350--mm",
       "name": "Tija Sa cu Suspensie  Promax  Negru-27,2 x 350  mm",
-      "brand": "Tija",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 68.0,
       "currency": "RON",
@@ -11944,7 +12336,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Tija"
     },
     {
       "id": "tija-sa-cu-suspensie-m-wave-negru-254-mm",
@@ -12461,7 +12855,7 @@
     {
       "id": "tija-sa-carbon-promax-400-mm-272-mm",
       "name": "Tija Sa Carbon PROMAX 400 mm-27,2 mm",
-      "brand": "Tija",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 250.0,
       "currency": "RON",
@@ -12624,12 +13018,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Tija"
     },
     {
       "id": "tija-sa-carbon-promax-400-mm-316-mm",
       "name": "Tija Sa Carbon PROMAX 400 mm-31,6 mm",
-      "brand": "Tija",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 280.0,
       "currency": "RON",
@@ -12792,12 +13188,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Tija"
     },
     {
       "id": "tija-sa-zoom-350-mm-272-mm",
       "name": "Tija Sa ZOOM 350 mm-27,2 mm",
-      "brand": "Tija",
+      "brand": "ZOOM",
       "category": "accesorii",
       "price": 89.0,
       "currency": "RON",
@@ -12956,12 +13354,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Tija"
     },
     {
       "id": "tija-sa-zoom-350-mm-316-mm",
       "name": "Tija Sa ZOOM 350 mm-31,6 mm",
-      "brand": "Tija",
+      "brand": "ZOOM",
       "category": "accesorii",
       "price": 89.0,
       "currency": "RON",
@@ -13120,12 +13520,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Tija"
     },
     {
       "id": "tija-sa-zoom-309---400-mm",
       "name": "Tija Sa ZOOM 30.9 - 400 mm",
-      "brand": "Tija",
+      "brand": "ZOOM",
       "category": "accesorii",
       "price": 140.0,
       "currency": "RON",
@@ -13280,12 +13682,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Tija"
     },
     {
       "id": "tija-sa-m-wave---350-mm-254-mm--negru-anodizat",
       "name": "Tija Sa M-WAVE - 350 mm-25,4 mm  Negru Anodizat",
-      "brand": "M-WAVE",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 50.0,
       "currency": "RON",
@@ -13456,7 +13860,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "M-WAVE"
     },
     {
       "id": "tija-sa-m-wave---350-mm-286-mm",
@@ -14149,7 +14555,7 @@
     {
       "id": "adaptor-tija-sa-de-la-264-mm-la-254-mm",
       "name": "Adaptor Tija Sa de la 26,4 mm la 25,4 mm",
-      "brand": "Adaptor",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 12.0,
       "currency": "RON",
@@ -14324,12 +14730,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Adaptor"
     },
     {
       "id": "adaptor-tija-sa-de-la--266-mm-la-254-mm",
       "name": "Adaptor Tija Sa de la  26,6 mm la 25,4 mm",
-      "brand": "Adaptor",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 12.0,
       "currency": "RON",
@@ -14504,12 +14912,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Adaptor"
     },
     {
       "id": "adaptor-tija-sa-de-la-268-mm-la-254-mm",
       "name": "Adaptor Tija Sa de la 26,8 mm la 25,4 mm",
-      "brand": "Adaptor",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 12.0,
       "currency": "RON",
@@ -14684,12 +15094,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Adaptor"
     },
     {
       "id": "adaptor-tija-sa-de-la-316-mm-la-272-mm",
       "name": "Adaptor Tija Sa de la 31,6 mm la 27,2 mm",
-      "brand": "Adaptor",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 12.0,
       "currency": "RON",
@@ -14864,12 +15276,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Adaptor"
     },
     {
       "id": "adaptor-tija-sa-de-la-309-mm-la-272-mm",
       "name": "Adaptor Tija Sa de la 30,9 mm la 27,2 mm",
-      "brand": "Adaptor",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 12.0,
       "currency": "RON",
@@ -15044,7 +15458,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Adaptor"
     },
     {
       "id": "adaptor-tija-sa-sxt-de-la-286-mm-la-272-mm",
@@ -16505,7 +16921,7 @@
     {
       "id": "oglinda-bicicleta-anti-glare",
       "name": "Oglinda Bicicleta \"ANTI-GLARE\"",
-      "brand": "Oglinda",
+      "brand": "M-WAVE",
       "category": "biciclete",
       "price": 45.0,
       "currency": "RON",
@@ -16648,12 +17064,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Oglinda"
     },
     {
       "id": "oglinda-bicicleta--trumpf-anti-glare-cp",
       "name": "Oglinda Bicicleta  TRUMPF ANTI-GLARE CP",
-      "brand": "Oglinda",
+      "brand": "M-WAVE",
       "category": "biciclete",
       "price": 29.0,
       "currency": "RON",
@@ -16804,7 +17222,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Oglinda"
     },
     {
       "id": "oglinda-bicicleta-sxt-cromata",
@@ -17113,7 +17533,7 @@
     {
       "id": "niplu-sapim-14-2-mm--silver",
       "name": "Niplu SAPIM 14-2 mm  Silver",
-      "brand": "Niplu",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 1.0,
       "currency": "RON",
@@ -17266,12 +17686,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Niplu"
     },
     {
       "id": "niplu-ucp-cnspoke-14g-s-12-2-mm--silver",
       "name": "Niplu UCP cnSPOKE 14G-S 12-2 mm  Silver",
-      "brand": "Niplu",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 0.3,
       "currency": "RON",
@@ -17436,12 +17858,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Niplu"
     },
     {
       "id": "solutie-pentru-nipluri-cn-spoke-15-ml",
       "name": "Solutie pentru Nipluri cn SPOKE 15 ml",
-      "brand": "Solutie",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 60.0,
       "currency": "RON",
@@ -17596,12 +18020,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Solutie"
     },
     {
       "id": "niplu-ucp-cnspoke-14g-s-16-2-mm-negru",
       "name": "Niplu UCP cnSPOKE 14G-S 16-2 mm Negru",
-      "brand": "Niplu",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 1.0,
       "currency": "RON",
@@ -17766,12 +18192,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Niplu"
     },
     {
       "id": "niplu-aluminiu-cnspoke-14g-a-14---2-mm-gold",
       "name": "Niplu Aluminiu cnSPOKE 14G-A 14 - 2 mm Gold",
-      "brand": "Niplu",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 0.8,
       "currency": "RON",
@@ -17934,12 +18362,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Niplu"
     },
     {
       "id": "niplu-aluminiu-cnspoke14g-a--14---2-mm-albastru",
       "name": "Niplu Aluminiu cnSPOKE14G-A  14 - 2 mm Albastru",
-      "brand": "Niplu",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 0.8,
       "currency": "RON",
@@ -18098,12 +18528,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Niplu"
     },
     {
       "id": "niplu-aluminiu-cnspoke-14g-a-14---2-mm-negru",
       "name": "Niplu Aluminiu cnSPOKE 14G-A 14 - 2 mm Negru",
-      "brand": "Niplu",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 0.8,
       "currency": "RON",
@@ -18266,12 +18698,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Niplu"
     },
     {
       "id": "niplu-aluminiu-cnspoke-14g-a-14---2-mm-rosu",
       "name": "Niplu Aluminiu cnSPOKE 14G-A 14 - 2 mm Rosu",
-      "brand": "Niplu",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 0.8,
       "currency": "RON",
@@ -18434,12 +18868,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Niplu"
     },
     {
       "id": "niplu-ucp-cnspoke-14g-s-16-2-mm-silver",
       "name": "Niplu UCP cnSPOKE 14G-S 16-2 mm Silver",
-      "brand": "Niplu",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 0.5,
       "currency": "RON",
@@ -18604,12 +19040,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Niplu"
     },
     {
       "id": "niplu-brass-cnspoke-13g-b--13-23-mm--silver",
       "name": "Niplu Brass cnSPOKE 13G-B  13-2,3 mm  Silver",
-      "brand": "Niplu",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 0.8,
       "currency": "RON",
@@ -18778,12 +19216,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Niplu"
     },
     {
       "id": "niplu-ucp-cnspoke-14g-s--2-mm--silver",
       "name": "Niplu UCP cnSPOKE 14G-S -2 mm  Silver",
-      "brand": "Niplu",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 0.5,
       "currency": "RON",
@@ -18942,12 +19382,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Niplu"
     },
     {
       "id": "set-chei-spite--cnspoke",
       "name": "Set Chei Spite  cnSPOKE",
-      "brand": "Set",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 75.0,
       "currency": "RON",
@@ -19090,12 +19532,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Set"
     },
     {
       "id": "niplu-ucp-cnspoke-14g-s-12-2-mm-negru",
       "name": "Niplu UCP cnSPOKE 14G-S 12-2 mm Negru",
-      "brand": "Niplu",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 0.3,
       "currency": "RON",
@@ -19260,7 +19704,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Niplu"
     },
     {
       "id": "cheie-spite-sxt-10-15g",
@@ -19419,7 +19865,7 @@
     {
       "id": "cheie-spite-plate--super-b-tb-5501",
       "name": "Cheie Spite Plate  SUPER B TB-5501",
-      "brand": "Cheie",
+      "brand": "SUPER B",
       "category": "accesorii",
       "price": 29.0,
       "currency": "RON",
@@ -19574,12 +20020,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Cheie"
     },
     {
       "id": "niplu-brass-14-2-mm-negru-cnspoke",
       "name": "Niplu Brass 14-2 mm Negru cnSPOKE",
-      "brand": "Niplu",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 0.5,
       "currency": "RON",
@@ -19736,12 +20184,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Niplu"
     },
     {
       "id": "niplu-brass-cnspoke-14g-b--14-2-mm--silver",
       "name": "Niplu Brass cnSPOKE 14G-B  14-2 mm  Silver",
-      "brand": "Niplu",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 0.3,
       "currency": "RON",
@@ -19906,12 +20356,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Niplu"
     },
     {
       "id": "niplu-brass-cnspoke-14g-b-16-2-mm-silver",
       "name": "Niplu Brass cnSPOKE 14G-B 16-2 mm Silver",
-      "brand": "Niplu",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 0.3,
       "currency": "RON",
@@ -20076,12 +20528,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Niplu"
     },
     {
       "id": "cheie-spite--32-39-mm--cnspoke",
       "name": "Cheie Spite  3,2-3,9 mm  cnSPOKE",
-      "brand": "Cheie",
+      "brand": "CN SPOKE",
       "category": "accesorii",
       "price": 69.0,
       "currency": "RON",
@@ -20242,12 +20696,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cheie"
     },
     {
       "id": "cheie-spite--super-b-tb-sw20----32-mm-0127",
       "name": "Cheie Spite  SUPER B TB-SW20    3.2 mm (0.127\")",
-      "brand": "Cheie",
+      "brand": "SUPER B",
       "category": "accesorii",
       "price": 45.0,
       "currency": "RON",
@@ -20418,12 +20874,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Cheie"
     },
     {
       "id": "missinglink-kmc-9r-silver-ept",
       "name": "MissingLink KMC 9R Silver EPT",
-      "brand": "Missinglink",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 35.0,
       "currency": "RON",
@@ -20570,12 +21028,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Missinglink"
     },
     {
       "id": "lant-kmc-x-10-grey-114-zale",
       "name": "Lant KMC X-10 Grey 114 Zale",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 115.0,
       "currency": "RON",
@@ -20730,12 +21190,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant--kmc--z-83--18-24v---grey",
       "name": "Lant  KMC  Z 8.3  (18-24V)   Grey",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 45.0,
       "currency": "RON",
@@ -20896,12 +21358,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-11v-kmc-x11sl-ti-n-goldblack",
       "name": "Lant 11v KMC X11SL Ti-N Gold/Black",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 329.0,
       "currency": "RON",
@@ -21060,12 +21524,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-x11--silvernegru---114-zale",
       "name": "Lant KMC X11  Silver/Negru   114 Zale",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 159.0,
       "currency": "RON",
@@ -21220,12 +21686,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "missinglink-kmc-12nr-ept--silver-12v--2-buc-",
       "name": "MissingLink KMC 12NR EPT  Silver 12V ( 2 buc )",
-      "brand": "Missinglink",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 70.0,
       "currency": "RON",
@@ -21384,12 +21852,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Missinglink"
     },
     {
       "id": "missinglink-kmc-12nr-ti-n-gold--12v--2-buc-",
       "name": "MissingLink KMC 12NR Ti-N Gold  12V ( 2 buc )",
-      "brand": "Missinglink",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 79.0,
       "currency": "RON",
@@ -21552,7 +22022,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Missinglink"
     },
     {
       "id": "chain-guide-m-wave--steward-up--77-grame",
@@ -21721,7 +22193,7 @@
     {
       "id": "lant-kmc--x-11--grey--114-zale",
       "name": "Lant KMC  X 11  Grey  114 Zale",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 115.0,
       "currency": "RON",
@@ -21876,12 +22348,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-x12-silver-x12-126-zale",
       "name": "Lant KMC X12 Silver X12 126 Zale",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 225.0,
       "currency": "RON",
@@ -22036,12 +22510,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc--x12-ti-n-goldnegru-126-zale",
       "name": "Lant KMC  X12 Ti-N Gold/Negru 126 Zale",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 299.0,
       "currency": "RON",
@@ -22204,12 +22680,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "pin-schimbabil-presa-de-lant1-buc-880031",
       "name": "Pin Schimbabil Presa de Lant(1 buc) 880031",
-      "brand": "Pin",
+      "brand": "SUPER B",
       "category": "accesorii",
       "price": 8.0,
       "currency": "RON",
@@ -22368,12 +22846,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Pin"
     },
     {
       "id": "lant-kmc-hv500--5-6-7-viteze-116-zale--oem",
       "name": "Lant KMC HV500  5-6-7 viteze 116 zale  (OEM)",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 25.0,
       "currency": "RON",
@@ -22542,12 +23022,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-x11el-blacktech-118-zale",
       "name": "Lant KMC X11EL BlackTech 118 Zale",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 280.0,
       "currency": "RON",
@@ -22698,7 +23180,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-shimano-cn-6701--dura-aceultegra105--10-viteze--114-zal",
@@ -23851,7 +24335,7 @@
     {
       "id": "lant-kmc-11sl-ti-n-gold",
       "name": "Lant KMC 11SL TI-N Gold",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 340.0,
       "currency": "RON",
@@ -24002,12 +24486,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-hl1-wide-silver--100-zale",
       "name": "Lant KMC HL1 Wide Silver  100 Zale",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 125.0,
       "currency": "RON",
@@ -24162,12 +24648,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "missinglink-kmc-cl-571-r-78-v",
       "name": "MissingLink KMC \"CL-571 R\" 7/8 V",
-      "brand": "Missinglink",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 8.0,
       "currency": "RON",
@@ -24326,12 +24814,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Missinglink"
     },
     {
       "id": "missinglink-kmc-cl-573-r-50--678-v",
       "name": "MissingLink KMC \"CL-573 R 50\"  6/7/8 V",
-      "brand": "Missinglink",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 8.0,
       "currency": "RON",
@@ -24498,12 +24988,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Missinglink"
     },
     {
       "id": "lant-kmc-x10el-gold-ti-n",
       "name": "Lant KMC X10EL Gold TI-N",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 225.0,
       "currency": "RON",
@@ -24654,12 +25146,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-x9sl-ti-n-gold",
       "name": "Lant KMC X9SL Ti-N Gold",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 280.0,
       "currency": "RON",
@@ -24810,12 +25304,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc--z83--silvergrey-7-8-v-114-z",
       "name": "Lant KMC  Z8.3  Silver/Grey 7, 8 v 114 z",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 48.0,
       "currency": "RON",
@@ -24986,12 +25482,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-z7--114-z-greybrown",
       "name": "Lant KMC Z7  114 Z Grey/Brown",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 36.0,
       "currency": "RON",
@@ -25146,12 +25644,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-k1-wide-silverblack-110-z",
       "name": "Lant KMC K1 Wide Silver/Black 110 z",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 79.0,
       "currency": "RON",
@@ -25310,7 +25810,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-ventura-1v-112-zale",
@@ -25791,7 +26293,7 @@
     {
       "id": "aparat-curatat-lanturi-barbieri",
       "name": "Aparat Curatat Lanturi BARBIERI",
-      "brand": "Aparat",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 59.0,
       "currency": "RON",
@@ -25934,7 +26436,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Aparat"
     },
     {
       "id": "protectie-cadru-velo-245x95-110",
@@ -26247,7 +26751,7 @@
     {
       "id": "lant-kmc--x9-grey-114-z",
       "name": "Lant KMC  X9 Grey 114 z",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 79.0,
       "currency": "RON",
@@ -26398,7 +26902,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "protectie-cadru-velo-xl---260x100-130",
@@ -26561,7 +27067,7 @@
     {
       "id": "lant-kmc--x9sl-silver---114-zale",
       "name": "Lant KMC  X9SL Silver   114 Zale",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 225.0,
       "currency": "RON",
@@ -26712,12 +27218,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc--x9-silvergrey--114-zale",
       "name": "Lant KMC  X9 Silver/Grey  114 Zale",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 105.0,
       "currency": "RON",
@@ -26872,12 +27380,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-x10el-silver--114-zale",
       "name": "Lant KMC X10EL Silver  114 Zale",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 199.0,
       "currency": "RON",
@@ -27028,12 +27538,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-dlc11-galben",
       "name": "Lant KMC DLC11-Galben",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 550.0,
       "currency": "RON",
@@ -27176,12 +27688,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-dlc11--negru-verde-118-zale",
       "name": "Lant KMC DLC11- Negru/ Verde 118 zale",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 580.0,
       "currency": "RON",
@@ -27336,12 +27850,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-dlc11-portocaliu",
       "name": "Lant KMC DLC11-Portocaliu",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 599.0,
       "currency": "RON",
@@ -27484,12 +28000,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-dlc11-rosu",
       "name": "Lant KMC DLC11-Rosu",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 550.0,
       "currency": "RON",
@@ -27632,12 +28150,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-dlc11--cyan",
       "name": "Lant KMC DLC11- Cyan",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 550.0,
       "currency": "RON",
@@ -27780,12 +28300,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-dlc-12-verde",
       "name": "Lant KMC DLC 12-Verde",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 669.0,
       "currency": "RON",
@@ -27932,12 +28454,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-dlc-12-albastru",
       "name": "Lant KMC DLC 12-Albastru",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 669.0,
       "currency": "RON",
@@ -28084,12 +28608,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-dlc-12-negru",
       "name": "Lant KMC DLC 12-Negru",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 675.0,
       "currency": "RON",
@@ -28236,12 +28762,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "lant-kmc-dlc-12-rosu",
       "name": "Lant KMC DLC 12-Rosu",
-      "brand": "Lant",
+      "brand": "KMC",
       "category": "accesorii",
       "price": 599.0,
       "currency": "RON",
@@ -28388,7 +28916,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Lant"
     },
     {
       "id": "pedale-m-wave--freedom-sl-titanium-grey",
@@ -29507,7 +30037,7 @@
     {
       "id": "pedale-vp-aluminiu-negre-65x82--916",
       "name": "Pedale VP Aluminiu Negre 65x82  9/16\"",
-      "brand": "Pedale",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 75.0,
       "currency": "RON",
@@ -29664,7 +30194,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-aluminiu-plastic-rabatabile-sxt-916-98x65-mm",
@@ -30169,7 +30701,7 @@
     {
       "id": "pedale-aluminiu-non-slip-vp",
       "name": "Pedale Aluminiu Non-Slip VP",
-      "brand": "Pedale",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 140.0,
       "currency": "RON",
@@ -30316,7 +30848,10 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "SXT",
+      "brand_corrected_from_csv": true
     },
     {
       "id": "pedale-click-duble-exustar-e-pm825",
@@ -32083,7 +32618,7 @@
     {
       "id": "pedale-aluminiu-vp-63x82-silver",
       "name": "Pedale Aluminiu VP 63x82-Silver",
-      "brand": "Pedale",
+      "brand": "SXT",
       "category": "accesorii",
       "price": 110.0,
       "currency": "RON",
@@ -32232,938 +32767,11 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
-    },
-    {
-      "id": "pedale-aluminiu-vp-63x82-negru",
-      "name": "Pedale Aluminiu VP 63x82-Negru",
-      "brand": "Pedale",
-      "category": "accesorii",
-      "price": 110.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "100399",
-      "ean": "",
-      "description": "Pedale AluminiuCu ReflectorizantiCale de Rulare pe RulmentiAx CrMo",
-      "url": "",
-      "images": [],
-      "rating": 4.0,
-      "reviews_count": 1,
-      "warranty": "24 luni",
-      "tags": [
-        "accesorii",
-        "pedale"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.420977",
-      "original_price": 165.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
       },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Pedale Aluminiu VP 63x82-Negru",
-        "brand": {
-          "@type": "Brand",
-          "name": "Pedale"
-        },
-        "description": "Pedale AluminiuCu ReflectorizantiCale de Rulare pe RulmentiAx CrMo",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "110.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [
-          "size_63x82"
-        ],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "pedale",
-          "accesorii",
-          "pedale",
-          "aluminiu",
-          "vp"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "pedale pedale aluminiu vp 63x82-negru",
-          "pedale aluminiu vp 63x82-negru pedale",
-          "accesorii pedale"
-        ],
-        "voice_search_phrases": [
-          "where to buy pedale aluminiu vp 63x82-negru",
-          "best pedale aluminiu vp 63x82-negru price",
-          "how to install pedale aluminiu vp 63x82-negru"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "pedale",
-            "aluminiu",
-            "vp",
-            "63x82",
-            "negru"
-          ],
-          "en": [
-            "pedale",
-            "aluminiu",
-            "vp",
-            "63x82",
-            "negru"
-          ],
-          "de": [
-            "pedale",
-            "aluminiu",
-            "vp",
-            "63x82",
-            "negru"
-          ],
-          "hu": [
-            "pedale",
-            "aluminiu",
-            "vp",
-            "63x82",
-            "negru"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "pedale-aluminiu-sxt-64x94-silver",
-      "name": "Pedale Aluminiu SXT 64x94-Silver",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 65.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 3,
-      "sku": "100400",
-      "ean": "",
-      "description": "Materialul corpului pedalei aluminiuMaterialul axului pedalei CrMoMaterial pedala Cage aluminiuDimensiune filet ax 9/16\".Cale de rulare - bile de rulmenti - sigilat(protectie impotriva prafului)311112",
-      "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-aluminiu-sxt-64x94-silver.html ",
-      "images": [],
-      "rating": 4.1,
-      "reviews_count": 2,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.420984",
-      "original_price": 97.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Pedale Aluminiu SXT 64x94-Silver",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "Materialul corpului pedalei aluminiuMaterialul axului pedalei CrMoMaterial pedala Cage aluminiuDimensiune filet ax 9/16\".Cale de rulare - bile de rulmenti - sigilat(protectie impotriva prafului)311112",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "65.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-aluminiu-sxt-64x94-silver.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [
-          "size_64x94"
-        ],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "pedale",
-          "aluminiu",
-          "sxt"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt pedale aluminiu sxt 64x94-silver",
-          "pedale aluminiu sxt 64x94-silver sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy pedale aluminiu sxt 64x94-silver",
-          "best pedale aluminiu sxt 64x94-silver price",
-          "how to install pedale aluminiu sxt 64x94-silver"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "pedale",
-            "aluminiu",
-            "sxt",
-            "64x94",
-            "silver"
-          ],
-          "en": [
-            "pedale",
-            "aluminiu",
-            "sxt",
-            "64x94",
-            "silver"
-          ],
-          "de": [
-            "pedale",
-            "aluminiu",
-            "sxt",
-            "64x94",
-            "silver"
-          ],
-          "hu": [
-            "pedale",
-            "aluminiu",
-            "sxt",
-            "64x94",
-            "silver"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "pedale-aluminiu-sxt-64x94-negru",
-      "name": "Pedale Aluminiu SXT 64x94-Negru",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 58.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100401",
-      "ean": "",
-      "description": "Materialul corpului pedalei aluminiuMaterialul axului pedalei CrMoMaterial pedala Cage aluminiuDimensiune filet ax 9/16\".Cale de rulare - bile de rulmenti - sigilat(protectie impotriva prafului)311113",
-      "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-aluminiu-sxt-64x94-negru.html ",
-      "images": [],
-      "rating": 4.2,
-      "reviews_count": 3,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.420990",
-      "original_price": 87.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Pedale Aluminiu SXT 64x94-Negru",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "Materialul corpului pedalei aluminiuMaterialul axului pedalei CrMoMaterial pedala Cage aluminiuDimensiune filet ax 9/16\".Cale de rulare - bile de rulmenti - sigilat(protectie impotriva prafului)311113",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "58.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-aluminiu-sxt-64x94-negru.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [
-          "size_64x94"
-        ],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "pedale",
-          "aluminiu",
-          "sxt"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt pedale aluminiu sxt 64x94-negru",
-          "pedale aluminiu sxt 64x94-negru sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy pedale aluminiu sxt 64x94-negru",
-          "best pedale aluminiu sxt 64x94-negru price",
-          "how to install pedale aluminiu sxt 64x94-negru"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "pedale",
-            "aluminiu",
-            "sxt",
-            "64x94",
-            "negru"
-          ],
-          "en": [
-            "pedale",
-            "aluminiu",
-            "sxt",
-            "64x94",
-            "negru"
-          ],
-          "de": [
-            "pedale",
-            "aluminiu",
-            "sxt",
-            "64x94",
-            "negru"
-          ],
-          "hu": [
-            "pedale",
-            "aluminiu",
-            "sxt",
-            "64x94",
-            "negru"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "pedale-aluminiu-sxt-70x94",
-      "name": "Pedale Aluminiu SXT 70x94",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 35.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100402",
-      "ean": "",
-      "description": "Pedale cu corp si cage din aluminiuAx solid din metal negru, tratat termicCale de rulare pe bileDiametrul ax 9/16\"Dimensiune 70x94 mmCuloare Silver/Black",
-      "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-aluminiu-sxt-70x94.html ",
-      "images": [],
-      "rating": 4.3,
-      "reviews_count": 4,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.420995",
-      "original_price": 52.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Pedale Aluminiu SXT 70x94",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "Pedale cu corp si cage din aluminiuAx solid din metal negru, tratat termicCale de rulare pe bileDiametrul ax 9/16\"Dimensiune 70x94 mmCuloare Silver/Black",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "35.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-aluminiu-sxt-70x94.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [
-          "size_70x94"
-        ],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "pedale",
-          "aluminiu",
-          "sxt"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt pedale aluminiu sxt 70x94",
-          "pedale aluminiu sxt 70x94 sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy pedale aluminiu sxt 70x94",
-          "best pedale aluminiu sxt 70x94 price",
-          "how to install pedale aluminiu sxt 70x94"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "pedale",
-            "aluminiu",
-            "sxt",
-            "70x94"
-          ],
-          "en": [
-            "pedale",
-            "aluminiu",
-            "sxt",
-            "70x94"
-          ],
-          "de": [
-            "pedale",
-            "aluminiu",
-            "sxt",
-            "70x94"
-          ],
-          "hu": [
-            "pedale",
-            "aluminiu",
-            "sxt",
-            "70x94"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "pedale-m-wave--steady-a-silvernegru",
-      "name": "Pedale M-WAVE  STEADY-A Silver/Negru",
-      "brand": "M-WAVE",
-      "category": "accesorii",
-      "price": 43.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100403",
-      "ean": "",
-      "description": "Pedale cu corp din Aluminiu si Cage din MetalCu ReflectorizantiCale de rulare pe Bile de RulmentAx solid din metal tratat termicCuloare Silver/NegruDiametrul ax 9/16\"Dimensiune 60x92 mm311320 - ambalat",
-      "url": "",
-      "images": [],
-      "rating": 4.4,
-      "reviews_count": 5,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "m-wave"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.421001",
-      "original_price": 64.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Pedale M-WAVE  STEADY-A Silver/Negru",
-        "brand": {
-          "@type": "Brand",
-          "name": "M-WAVE"
-        },
-        "description": "Pedale cu corp din Aluminiu si Cage din MetalCu ReflectorizantiCale de rulare pe Bile de RulmentAx solid din metal tratat termicCuloare Silver/NegruDiametrul ax 9/16\"Dimensiune 60x92 mm311320 - ambalat",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "43.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "m-wave",
-          "accesorii",
-          "pedale",
-          "m",
-          "wave"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "m-wave pedale m-wave  steady-a silver/negru",
-          "pedale m-wave  steady-a silver/negru m-wave",
-          "accesorii m-wave"
-        ],
-        "voice_search_phrases": [
-          "where to buy pedale m-wave  steady-a silver/negru",
-          "best pedale m-wave  steady-a silver/negru price",
-          "how to install pedale m-wave  steady-a silver/negru"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "pedale",
-            "m",
-            "wave",
-            "steady",
-            "a",
-            "silver",
-            "negru"
-          ],
-          "en": [
-            "pedale",
-            "m",
-            "wave",
-            "steady",
-            "a",
-            "silver",
-            "negru"
-          ],
-          "de": [
-            "pedale",
-            "m",
-            "wave",
-            "steady",
-            "a",
-            "silver",
-            "negru"
-          ],
-          "hu": [
-            "pedale",
-            "m",
-            "wave",
-            "steady",
-            "a",
-            "silver",
-            "negru"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "pedale-plastic--sxt-k3-79x9772x95",
-      "name": "Pedale Plastic  SXT K3 79x97/72x95",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 18.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100404",
-      "ean": "",
-      "description": "Pedale din Thermo PlasticCale de rulare pe BILEDimensiune 79x97/72x95Diametrul ax 9/16\"Ax solid de metalCu reflectorizantiCuloare Negru",
-      "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-plastic-sxt-k3-79x97-72x95.html ",
-      "images": [],
-      "rating": 4.5,
-      "reviews_count": 6,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.421007",
-      "original_price": 27.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Pedale Plastic  SXT K3 79x97/72x95",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "Pedale din Thermo PlasticCale de rulare pe BILEDimensiune 79x97/72x95Diametrul ax 9/16\"Ax solid de metalCu reflectorizantiCuloare Negru",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "18.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-plastic-sxt-k3-79x97-72x95.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [
-          "size_79x97",
-          "size_72x95"
-        ],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "pedale",
-          "plastic",
-          "sxt"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt pedale plastic  sxt k3 79x97/72x95",
-          "pedale plastic  sxt k3 79x97/72x95 sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy pedale plastic  sxt k3 79x97/72x95",
-          "best pedale plastic  sxt k3 79x97/72x95 price",
-          "how to install pedale plastic  sxt k3 79x97/72x95"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "pedale",
-            "plastic",
-            "sxt",
-            "k3",
-            "79x97",
-            "72x95"
-          ],
-          "en": [
-            "pedale",
-            "plastic",
-            "sxt",
-            "k3",
-            "79x97",
-            "72x95"
-          ],
-          "de": [
-            "pedale",
-            "plastic",
-            "sxt",
-            "k3",
-            "79x97",
-            "72x95"
-          ],
-          "hu": [
-            "pedale",
-            "plastic",
-            "sxt",
-            "k3",
-            "79x97",
-            "72x95"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
+      "brand_corrected_from_csv": true,
+      "original_brand": "Pedale"
     }
-  ]
+  ],
+  "total_count": 200,
+  "last_updated": "2025-08-07T19:00:00.000000"
 }

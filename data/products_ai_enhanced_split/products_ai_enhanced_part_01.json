@@ -1,112 +1,4 @@
 {
-  "last_updated": "2025-07-28T22:39:01.000000",
-  "total_products": 203,
-  "version": "2.0.0",
-  "source": "bikestylish.ro",
-  "part_info": {
-    "part_number": 1,
-    "total_parts": 27,
-    "products_range": "1-203"
-  },
-  "categories": [
-    {
-      "id": "accesorii",
-      "name": "Accesorii",
-      "count": 4326
-    },
-    {
-      "id": "biciclete",
-      "name": "Biciclete",
-      "count": 779
-    },
-    {
-      "id": "piese-schimb",
-      "name": "Piese de Schimb",
-      "count": 332
-    }
-  ],
-  "brands": [
-    {
-      "name": "Ureche",
-      "product_count": 895
-    },
-    {
-      "name": "M-WAVE",
-      "product_count": 812
-    },
-    {
-      "name": "SXT",
-      "product_count": 653
-    },
-    {
-      "name": "VELO",
-      "product_count": 326
-    },
-    {
-      "name": "SHIMANO",
-      "product_count": 294
-    },
-    {
-      "name": "Spita",
-      "product_count": 270
-    },
-    {
-      "name": "KENDA",
-      "product_count": 151
-    },
-    {
-      "name": "Butuc",
-      "product_count": 148
-    },
-    {
-      "name": "Pedale",
-      "product_count": 146
-    },
-    {
-      "name": "VENTURA",
-      "product_count": 109
-    },
-    {
-      "name": "Cheie",
-      "product_count": 97
-    },
-    {
-      "name": "Lant",
-      "product_count": 73
-    },
-    {
-      "name": "Camera",
-      "product_count": 71
-    },
-    {
-      "name": "Set",
-      "product_count": 67
-    },
-    {
-      "name": "Janta",
-      "product_count": 53
-    },
-    {
-      "name": "Kit",
-      "product_count": 43
-    },
-    {
-      "name": "Manusi",
-      "product_count": 41
-    },
-    {
-      "name": "Suport",
-      "product_count": 39
-    },
-    {
-      "name": "Pinion",
-      "product_count": 35
-    },
-    {
-      "name": "TREK",
-      "product_count": 30
-    }
-  ],
   "products": [
     {
       "id": "stegulet-reflectorizant-m-wave--sf-short",
@@ -2231,7 +2123,7 @@
     {
       "id": "trotineta-freestyle-100",
       "name": "Trotineta Freestyle 100",
-      "brand": "Trotineta",
+      "brand": "M-WAVE",
       "category": "biciclete",
       "price": 499.0,
       "currency": "RON",
@@ -2370,7 +2262,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Trotineta"
     },
     {
       "id": "roti-ajutatoare-pentru-bicicletele-de-copii-cu-viteze-16---2",
@@ -2551,7 +2445,7 @@
     {
       "id": "roti-ajutatoare-pentru-biciclete-cu-viteze--b-race-20--26-",
       "name": "Roti ajutatoare pentru biciclete cu viteze  B-RACE 20\"- 26 \"",
-      "brand": "B-RACE",
+      "brand": "SXT",
       "category": "accesorii",
       "price": 290.0,
       "currency": "RON",
@@ -2718,12 +2612,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "B-RACE"
     },
     {
       "id": "roti-ajutatoare-reglabile-12-20",
       "name": "Roti ajutatoare reglabile 12''-20''",
-      "brand": "Roti",
+      "brand": "SXT",
       "category": "biciclete",
       "price": 36.0,
       "currency": "RON",
@@ -2870,12 +2766,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Roti"
     },
     {
       "id": "bara-tandem--trail-gator",
       "name": "Bara Tandem  TRAIL-GATOR",
-      "brand": "Bara",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 580.0,
       "currency": "RON",
@@ -3018,7 +2916,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Bara"
     },
     {
       "id": "scaun-bicicleta-spate-pentru-copii-prindere-pe-portbagaj-bel",
@@ -12105,7 +12005,7 @@
     {
       "id": "antifurt-cu-cheie-m-wave-s-126-s---negru",
       "name": "Antifurt cu Cheie M-WAVE S 12.6 S   Negru",
-      "brand": "M-WAVE",
+      "brand": "ACTION",
       "category": "biciclete",
       "price": 39.0,
       "currency": "RON",
@@ -12272,12 +12172,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "M-WAVE"
     },
     {
       "id": "display-marfa-aluminiu-240x104x54-cm",
       "name": "Display Marfa Aluminiu 240x104x54 cm",
-      "brand": "Display",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 5000.0,
       "currency": "RON",
@@ -12426,12 +12328,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Display"
     },
     {
       "id": "display-marfa-aluminiu-1040-x-1510-x-950-mm",
       "name": "Display Marfa Aluminiu 1040 x 1510 x 950 mm",
-      "brand": "Display",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 3500.0,
       "currency": "RON",
@@ -12594,12 +12498,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Display"
     },
     {
       "id": "element-lateral-pentru-display-marfa",
       "name": "Element Lateral pentru Display Marfa",
-      "brand": "Element",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 1500.0,
       "currency": "RON",
@@ -12746,12 +12652,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Element"
     },
     {
       "id": "display-marfa-3",
       "name": "Display Marfa 3",
-      "brand": "Display",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 2200.0,
       "currency": "RON",
@@ -12890,12 +12798,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Display"
     },
     {
       "id": "suport-simplu-pentru-display-100-mm",
       "name": "Suport Simplu pentru Display-100 mm",
-      "brand": "Suport",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 8.0,
       "currency": "RON",
@@ -13046,12 +12956,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Suport"
     },
     {
       "id": "suport-pret-plastic-transparent",
       "name": "Suport Pret Plastic Transparent",
-      "brand": "Suport",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 8.0,
       "currency": "RON",
@@ -13194,12 +13106,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Suport"
     },
     {
       "id": "suport-accesorii--suport--maxi",
       "name": "Suport Accesorii  SUPORT  MAXI",
-      "brand": "Suport",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 99.0,
       "currency": "RON",
@@ -13342,12 +13256,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Suport"
     },
     {
       "id": "suport-pentru-pedale",
       "name": "Suport pentru Pedale",
-      "brand": "Suport",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 55.0,
       "currency": "RON",
@@ -13486,12 +13402,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Suport"
     },
     {
       "id": "suport-pentru-cadrefurcitije-sa",
       "name": "Suport pentru CADRE,FURCI,TIJE SA,...",
-      "brand": "Suport",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 75.0,
       "currency": "RON",
@@ -13642,12 +13560,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Suport"
     },
     {
       "id": "suport-display-ghidoane-cadre-haine-roti",
       "name": "Suport Display (Ghidoane, Cadre, Haine, Roti)",
-      "brand": "Suport",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 85.0,
       "currency": "RON",
@@ -13798,12 +13718,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Suport"
     },
     {
       "id": "suport-display-haine-jante-anvelope",
       "name": "Suport Display (HAINE, JANTE, ANVELOPE)",
-      "brand": "VELO",
+      "brand": "M-WAVE",
       "category": "piese-schimb",
       "price": 350.0,
       "currency": "RON",
@@ -13950,12 +13872,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "VELO"
     },
     {
       "id": "suport-display-1-haine-jante-anvelope",
       "name": "Suport Display-1 (HAINE, JANTE, ANVELOPE)",
-      "brand": "VELO",
+      "brand": "M-WAVE",
       "category": "piese-schimb",
       "price": 65.0,
       "currency": "RON",
@@ -14106,12 +14030,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "VELO"
     },
     {
       "id": "suport-reglabil",
       "name": "Suport Reglabil",
-      "brand": "Suport",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 250.0,
       "currency": "RON",
@@ -14245,12 +14171,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Suport"
     },
     {
       "id": "suport-acrylic-pentru-pantofi",
       "name": "Suport Acrylic pentru pantofi",
-      "brand": "Suport",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 40.0,
       "currency": "RON",
@@ -14393,7 +14321,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Suport"
     },
     {
       "id": "suport-pentru-casti-exustar-plastic",
@@ -14550,7 +14480,7 @@
     {
       "id": "suport-pentru-bagaje-genti-portbagaj",
       "name": "Suport pentru Bagaje, Genti Portbagaj",
-      "brand": "Suport",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 100.0,
       "currency": "RON",
@@ -14697,12 +14627,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Suport"
     },
     {
       "id": "suport-display-pentru-roti",
       "name": "Suport Display pentru Roti",
-      "brand": "Suport",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 90.0,
       "currency": "RON",
@@ -14845,7 +14777,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Suport"
     },
     {
       "id": "sistem-de-masurare-velo--velometer",
@@ -15002,7 +14936,7 @@
     {
       "id": "suport-bicicleta-aluminiu-telescopic-205-375-cm",
       "name": "Suport Bicicleta Aluminiu Telescopic (205-375 cm)",
-      "brand": "Suport",
+      "brand": "M-WAVE",
       "category": "biciclete",
       "price": 750.0,
       "currency": "RON",
@@ -15159,12 +15093,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Suport"
     },
     {
       "id": "clema-prindere-sus--40-mm",
       "name": "Clema Prindere Sus -40 mm",
-      "brand": "Clema",
+      "brand": "M-WAVE",
       "category": "biciclete",
       "price": 40.0,
       "currency": "RON",
@@ -15311,12 +15247,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Clema"
     },
     {
       "id": "clema-prindere-jos-45-mm",
       "name": "Clema Prindere Jos-45 mm",
-      "brand": "Clema",
+      "brand": "M-WAVE",
       "category": "biciclete",
       "price": 40.0,
       "currency": "RON",
@@ -15463,12 +15401,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Clema"
     },
     {
       "id": "suport-prindere-cu-doua-carlige430270",
       "name": "Suport prindere cu doua carlige(430270)",
-      "brand": "Suport",
+      "brand": "M-WAVE",
       "category": "biciclete",
       "price": 120.0,
       "currency": "RON",
@@ -15619,7 +15559,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Suport"
     },
     {
       "id": "bike-computer-wireless-m-wave-m23cw--23-functii",
@@ -21144,7 +21086,7 @@
     {
       "id": "rezervor-apa-2-l--squrce-antibacterian",
       "name": "Rezervor Apa 2 l  SQURCE Antibacterian",
-      "brand": "Rezervor",
+      "brand": "M-WAVE",
       "category": "biciclete",
       "price": 115.0,
       "currency": "RON",
@@ -21295,7 +21237,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Rezervor"
     },
     {
       "id": "piesa-pentru-rezervorul-de-apa-source--m-wave",
@@ -22580,7 +22524,7 @@
     {
       "id": "far-cu-acumulator-moon--adj---1300",
       "name": "Far cu Acumulator MOON  \"ADJ-  1300\"",
-      "brand": "Far",
+      "brand": "MOON",
       "category": "biciclete",
       "price": 1100.0,
       "currency": "RON",
@@ -22737,12 +22681,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Far"
     },
     {
       "id": "far-cu-acumulator-moon-meteor-400-lumen",
       "name": "Far cu Acumulator MOON ,,METEOR\" 400 Lumen",
-      "brand": "Far",
+      "brand": "MOON",
       "category": "biciclete",
       "price": 199.0,
       "currency": "RON",
@@ -22903,12 +22849,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Far"
     },
     {
       "id": "far-cu-baterii-moon-nova-80",
       "name": "Far cu Baterii MOON \"NOVA 80\"",
-      "brand": "Far",
+      "brand": "MOON",
       "category": "biciclete",
       "price": 85.0,
       "currency": "RON",
@@ -23065,12 +23013,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Far"
     },
     {
       "id": "stop-spate-cu-acumulator-moon-alcor",
       "name": "Stop Spate cu Acumulator MOON \"ALCOR\"",
-      "brand": "Stop",
+      "brand": "MOON",
       "category": "biciclete",
       "price": 89.0,
       "currency": "RON",
@@ -23221,12 +23171,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Stop"
     },
     {
       "id": "far-cu-acumulator-smart--suburb-800",
       "name": "Far cu Acumulator SMART  SUBURB 800",
-      "brand": "Far",
+      "brand": "SMART",
       "category": "biciclete",
       "price": 299.0,
       "currency": "RON",
@@ -23383,12 +23335,15 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Smart",
+      "brand_corrected_from_csv": true
     },
     {
       "id": "far-cu-baterii-smart-nine-80",
       "name": "Far cu Baterii SMART \"NINE 80\"",
-      "brand": "Far",
+      "brand": "SMART",
       "category": "biciclete",
       "price": 65.0,
       "currency": "RON",
@@ -23545,12 +23500,15 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Smart",
+      "brand_corrected_from_csv": true
     },
     {
       "id": "stop-spate-cu-baterii--smart-trail",
       "name": "Stop Spate cu Baterii  SMART TRAIL",
-      "brand": "Stop",
+      "brand": "SMART",
       "category": "accesorii",
       "price": 69.0,
       "currency": "RON",
@@ -23701,12 +23659,15 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Smart",
+      "brand_corrected_from_csv": true
     },
     {
       "id": "stop-spate-cu-baterii-smart-gem",
       "name": "Stop Spate cu Baterii Smart ''GEM\"",
-      "brand": "Stop",
+      "brand": "SMART",
       "category": "biciclete",
       "price": 40.0,
       "currency": "RON",
@@ -23857,12 +23818,15 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Smart",
+      "brand_corrected_from_csv": true
     },
     {
       "id": "stop-fata-cu-baterii-smart-gem--alb",
       "name": "Stop Fata cu Baterii SMART GEM  Alb",
-      "brand": "Stop",
+      "brand": "SMART",
       "category": "accesorii",
       "price": 40.0,
       "currency": "RON",
@@ -24017,12 +23981,15 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Smart",
+      "brand_corrected_from_csv": true
     },
     {
       "id": "stop-spate-cu-baterii-smart-tail-light-3-leduri",
       "name": "Stop Spate cu Baterii SMART \"TAIL LIGHT\" 3 Leduri",
-      "brand": "Stop",
+      "brand": "SMART",
       "category": "biciclete",
       "price": 25.0,
       "currency": "RON",
@@ -24185,7 +24152,10 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Smart",
+      "brand_corrected_from_csv": true
     },
     {
       "id": "far-cu-acumulator-m-wave--atlas-k-28-usb",
@@ -33224,486 +33194,8 @@
         "alternative_brands": [],
         "related_categories": []
       }
-    },
-    {
-      "id": "sa--velo-flex-dc-269-x-162-mm",
-      "name": "Sa  VELO \"FLEX DC\" 269 x 162 mm",
-      "brand": "VELO",
-      "category": "accesorii",
-      "price": 150.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100200",
-      "ean": "",
-      "description": "ARC-TECH SUSPENSION(Tehnologia ArcTech) este perfecta pentru miscarile ciclistului deoarece sinele pot fi ajustate pentru oricare pozitie si ajuta la absorbirea socului.) -CONSTRUCTIE ,,D 2\"-Tehnologia bazata pe dubla densitate foloseste atat materialele din nailon, cat si cele din cauciuc pentru a realiza o greutate redusa, o rezistenta ridicata si o baza flexibila. Design ,,DEEP CHANEEL\" ,,O-ZONE FULL CUT\"(Cu O-Zone Full Cut), seile Velo reduce presiunea asupra zonei de sedere si permite o circulatie permanenta pentru organele genitale.) Latime;162 mm Greutate ; 471 grame Lungime ;269 mm",
-      "url": "https://www.bikestylish.ro/accesorii-bicicleta/sa-velo-flex-dc-269-x-162-mm.html ",
-      "images": [],
-      "rating": 4.0,
-      "reviews_count": 1,
-      "warranty": "24 luni",
-      "tags": [
-        "accesorii",
-        "velo"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.419591",
-      "original_price": 225.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Sa  VELO \"FLEX DC\" 269 x 162 mm",
-        "brand": {
-          "@type": "Brand",
-          "name": "VELO"
-        },
-        "description": "ARC-TECH SUSPENSION(Tehnologia ArcTech) este perfecta pentru miscarile ciclistului deoarece sinele pot fi ajustate pentru oricare pozitie si ajuta la absorbirea socului.) -CONSTRUCTIE ,,D 2\"-Tehnologia bazata pe dubla densitate foloseste atat materialele din nailon, cat si cele din cauciuc pentru a realiza o greutate redusa, o rezistenta ridicata si o baza flexibila. Design ,,DEEP CHANEEL\" ,,O-ZONE FULL CUT\"(Cu O-Zone Full Cut), seile Velo reduce presiunea asupra zonei de sedere si permite o circulatie permanenta pentru organele genitale.) Latime;162 mm Greutate ; 471 grame Lungime ;269 mm",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "150.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/accesorii-bicicleta/sa-velo-flex-dc-269-x-162-mm.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "velo",
-          "accesorii",
-          "sa",
-          "velo",
-          "flex"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "velo sa  velo \"flex dc\" 269 x 162 mm",
-          "sa  velo \"flex dc\" 269 x 162 mm velo",
-          "accesorii velo"
-        ],
-        "voice_search_phrases": [
-          "where to buy sa  velo \"flex dc\" 269 x 162 mm",
-          "best sa  velo \"flex dc\" 269 x 162 mm price",
-          "how to install sa  velo \"flex dc\" 269 x 162 mm"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "sa",
-            "velo",
-            "flex",
-            "dc",
-            "269",
-            "x",
-            "162",
-            "mm"
-          ],
-          "en": [
-            "sa",
-            "velo",
-            "flex",
-            "dc",
-            "269",
-            "x",
-            "162",
-            "mm"
-          ],
-          "de": [
-            "sa",
-            "velo",
-            "flex",
-            "dc",
-            "269",
-            "x",
-            "162",
-            "mm"
-          ],
-          "hu": [
-            "sa",
-            "velo",
-            "flex",
-            "dc",
-            "269",
-            "x",
-            "162",
-            "mm"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "sa-velo-flex-dc-242-x-151-mm",
-      "name": "Sa VELO FLEX DC 242 x 151 mm",
-      "brand": "VELO",
-      "category": "accesorii",
-      "price": 150.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100201",
-      "ean": "",
-      "description": "In zilele noastre, oamenii sunt mai constienti de sanatatea si protectia mediului. Ciclismul joaca un rol important intr-o epoca unica; nu mai este exclusiv la curse, ci un exercitiu si o tendinta. Cererile pe o bicicleta devin si mai personalizate si mai meticuloase. Raspunzand la astfel de solicitari, Velo specializeaza dezvoltarea de produse, oferind sei potrivite pentru persoanele cu nevoi diferite, creand astfel gama de sei \"PLUSH\" pentru ciclistul urban METROPOLITAN SPORTO-Zone -Taiere completa pentru reducerea presiuniiChannel - eliberarea presiunii prin ventilareArc Tech: suspensie cu absorbtie a socurilorMaterial antialunecareSine cu scalaBaza din doua componente pentru o rezistenta mai mareGreutate- 386 grame.",
-      "url": "https://www.bikestylish.ro/accesorii-bicicleta/sa-velo-flex-dc-242-x-151-mm.html ",
-      "images": [],
-      "rating": 4.1,
-      "reviews_count": 2,
-      "warranty": "24 luni",
-      "tags": [
-        "accesorii",
-        "velo"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.419598",
-      "original_price": 225.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Sa VELO FLEX DC 242 x 151 mm",
-        "brand": {
-          "@type": "Brand",
-          "name": "VELO"
-        },
-        "description": "In zilele noastre, oamenii sunt mai constienti de sanatatea si protectia mediului. Ciclismul joaca un rol important intr-o epoca unica; nu mai este exclusiv la curse, ci un exercitiu si o tendinta. Cererile pe o bicicleta devin si mai personalizate si mai meticuloase. Raspunzand la astfel de solicitari, Velo specializeaza dezvoltarea de produse, oferind sei potrivite pentru persoanele cu nevoi diferite, creand astfel gama de sei \"PLUSH\" pentru ciclistul urban METROPOLITAN SPORTO-Zone -Taiere completa pentru reducerea presiuniiChannel - eliberarea presiunii prin ventilareArc Tech: suspensie cu absorbtie a socurilorMaterial antialunecareSine cu scalaBaza din doua componente pentru o rezistenta mai mareGreutate- 386 grame.",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "150.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/accesorii-bicicleta/sa-velo-flex-dc-242-x-151-mm.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "velo",
-          "accesorii",
-          "sa",
-          "velo",
-          "flex"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "velo sa velo flex dc 242 x 151 mm",
-          "sa velo flex dc 242 x 151 mm velo",
-          "accesorii velo"
-        ],
-        "voice_search_phrases": [
-          "where to buy sa velo flex dc 242 x 151 mm",
-          "best sa velo flex dc 242 x 151 mm price",
-          "how to install sa velo flex dc 242 x 151 mm"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "sa",
-            "velo",
-            "flex",
-            "dc",
-            "242",
-            "x",
-            "151",
-            "mm"
-          ],
-          "en": [
-            "sa",
-            "velo",
-            "flex",
-            "dc",
-            "242",
-            "x",
-            "151",
-            "mm"
-          ],
-          "de": [
-            "sa",
-            "velo",
-            "flex",
-            "dc",
-            "242",
-            "x",
-            "151",
-            "mm"
-          ],
-          "hu": [
-            "sa",
-            "velo",
-            "flex",
-            "dc",
-            "242",
-            "x",
-            "151",
-            "mm"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "sa-velo--basic---deep-channel",
-      "name": "Sa VELO  ,,BASIC   DEEP CHANNEL\"",
-      "brand": "VELO",
-      "category": "accesorii",
-      "price": 150.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100202",
-      "ean": "",
-      "description": "Greutate-465 grame ARC-TECH SUSPENSION(Tehnologia ArcTech) este perfecta pentru miscarile ciclistului deoarece sinele pot fi ajustate pentru oricare pozitie si ajuta la absorbirea socului. CONSTRUCTIE D2-Tehnologia bazata pe dubla densitate foloseste atat materialele din nailon, cat si cele din cauciuc pentru a realiza o greutate redusa, o rezistenta ridicata si o baza flexibila. DESIGN ,,DEEP CHANNEL\" O-ZONE FULL CUT-Cu O-Zone Full Cut, seile Velo reduce presiunea asupra zonei de sedere si permite o circulatie permanenta pentru organele genitale. AIRTHRU COOL-Cu tehnologia Airtrhu Cool un spatiu de aspiratie conduce aerul din partea anterioara a seii catre spatiul deschis din centru pentru o ventilatie mai buna.Latime-165 mm Lungime 262 mmSe monteaza pe tija de saCuloare-Negru",
-      "url": "https://www.bikestylish.ro/accesorii-bicicleta/sa-velo-basic-deep-channel.html ",
-      "images": [],
-      "rating": 4.2,
-      "reviews_count": 3,
-      "warranty": "24 luni",
-      "tags": [
-        "accesorii",
-        "velo"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.419604",
-      "original_price": 225.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Sa VELO  ,,BASIC   DEEP CHANNEL\"",
-        "brand": {
-          "@type": "Brand",
-          "name": "VELO"
-        },
-        "description": "Greutate-465 grame ARC-TECH SUSPENSION(Tehnologia ArcTech) este perfecta pentru miscarile ciclistului deoarece sinele pot fi ajustate pentru oricare pozitie si ajuta la absorbirea socului. CONSTRUCTIE D2-Tehnologia bazata pe dubla densitate foloseste atat materialele din nailon, cat si cele din cauciuc pentru a realiza o greutate redusa, o rezistenta ridicata si o baza flexibila. DESIGN ,,DEEP CHANNEL\" O-ZONE FULL CUT-Cu O-Zone Full Cut, seile Velo reduce presiunea asupra zonei de sedere si permite o circulatie permanenta pentru organele genitale. AIRTHRU COOL-Cu tehnologia Airtrhu Cool un spatiu de aspiratie conduce aerul din partea anterioara a seii catre spatiul deschis din centru pentru o ventilatie mai buna.Latime-165 mm Lungime 262 mmSe monteaza pe tija de saCuloare-Negru",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "150.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/accesorii-bicicleta/sa-velo-basic-deep-channel.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "low"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "velo",
-          "accesorii",
-          "sa",
-          "velo",
-          "basic"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "velo sa velo  ,,basic   deep channel\"",
-          "sa velo  ,,basic   deep channel\" velo",
-          "accesorii velo"
-        ],
-        "voice_search_phrases": [
-          "where to buy sa velo  ,,basic   deep channel\"",
-          "best sa velo  ,,basic   deep channel\" price",
-          "how to install sa velo  ,,basic   deep channel\""
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "sa",
-            "velo",
-            "basic",
-            "deep",
-            "channel"
-          ],
-          "en": [
-            "sa",
-            "velo",
-            "basic",
-            "deep",
-            "channel"
-          ],
-          "de": [
-            "sa",
-            "velo",
-            "basic",
-            "deep",
-            "channel"
-          ],
-          "hu": [
-            "sa",
-            "velo",
-            "basic",
-            "deep",
-            "channel"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
     }
-  ]
+  ],
+  "total_count": 200,
+  "last_updated": "2025-08-07T19:00:00.000000"
 }

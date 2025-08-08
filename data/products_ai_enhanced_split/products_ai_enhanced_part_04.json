@@ -1,113 +1,1445 @@
 {
-  "last_updated": "2025-07-28T22:39:01.000000",
-  "total_products": 203,
-  "version": "2.0.0",
-  "source": "bikestylish.ro",
-  "part_info": {
-    "part_number": 4,
-    "total_parts": 27,
-    "products_range": "610-812"
-  },
-  "categories": [
-    {
-      "id": "accesorii",
-      "name": "Accesorii",
-      "count": 4326
-    },
-    {
-      "id": "biciclete",
-      "name": "Biciclete",
-      "count": 779
-    },
-    {
-      "id": "piese-schimb",
-      "name": "Piese de Schimb",
-      "count": 332
-    }
-  ],
-  "brands": [
-    {
-      "name": "Ureche",
-      "product_count": 895
-    },
-    {
-      "name": "M-WAVE",
-      "product_count": 812
-    },
-    {
-      "name": "SXT",
-      "product_count": 653
-    },
-    {
-      "name": "VELO",
-      "product_count": 326
-    },
-    {
-      "name": "SHIMANO",
-      "product_count": 294
-    },
-    {
-      "name": "Spita",
-      "product_count": 270
-    },
-    {
-      "name": "KENDA",
-      "product_count": 151
-    },
-    {
-      "name": "Butuc",
-      "product_count": 148
-    },
-    {
-      "name": "Pedale",
-      "product_count": 146
-    },
-    {
-      "name": "VENTURA",
-      "product_count": 109
-    },
-    {
-      "name": "Cheie",
-      "product_count": 97
-    },
-    {
-      "name": "Lant",
-      "product_count": 73
-    },
-    {
-      "name": "Camera",
-      "product_count": 71
-    },
-    {
-      "name": "Set",
-      "product_count": 67
-    },
-    {
-      "name": "Janta",
-      "product_count": 53
-    },
-    {
-      "name": "Kit",
-      "product_count": 43
-    },
-    {
-      "name": "Manusi",
-      "product_count": 41
-    },
-    {
-      "name": "Suport",
-      "product_count": 39
-    },
-    {
-      "name": "Pinion",
-      "product_count": 35
-    },
-    {
-      "name": "TREK",
-      "product_count": 30
-    }
-  ],
   "products": [
+    {
+      "id": "ax-pedalier-bmx-metal-sxt",
+      "name": "Ax Pedalier BMX Metal SXT",
+      "brand": "SXT",
+      "category": "accesorii",
+      "price": 30.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100598",
+      "ean": "",
+      "description": "Metal CPBrat Stang-7/8 X 24TPIBrat Drept-15/16 X 24TPILungime-152 mmFilet Pedale AX 1/2",
+      "url": "",
+      "images": [],
+      "rating": 4.0,
+      "reviews_count": 1,
+      "warranty": "12 luni",
+      "tags": [
+        "accesorii",
+        "sxt"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.422417",
+      "original_price": 45.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Ax Pedalier BMX Metal SXT",
+        "brand": {
+          "@type": "Brand",
+          "name": "SXT"
+        },
+        "description": "Metal CPBrat Stang-7/8 X 24TPIBrat Drept-15/16 X 24TPILungime-152 mmFilet Pedale AX 1/2",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "30.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "sxt",
+          "accesorii",
+          "ax",
+          "pedalier",
+          "bmx"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "sxt ax pedalier bmx metal sxt",
+          "ax pedalier bmx metal sxt sxt",
+          "accesorii sxt"
+        ],
+        "voice_search_phrases": [
+          "where to buy ax pedalier bmx metal sxt",
+          "best ax pedalier bmx metal sxt price",
+          "how to install ax pedalier bmx metal sxt"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "ax",
+            "pedalier",
+            "bmx",
+            "metal",
+            "sxt"
+          ],
+          "en": [
+            "ax",
+            "pedalier",
+            "bmx",
+            "metal",
+            "sxt"
+          ],
+          "de": [
+            "ax",
+            "pedalier",
+            "bmx",
+            "metal",
+            "sxt"
+          ],
+          "hu": [
+            "ax",
+            "pedalier",
+            "bmx",
+            "metal",
+            "sxt"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "foaie-metal-bmx-44t-12-x-18-sxt",
+      "name": "Foaie Metal BMX 44T 1/2 X 1/8\" SXT",
+      "brand": "SXT",
+      "category": "accesorii",
+      "price": 20.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100599",
+      "ean": "",
+      "description": "44 TCuloare NegruMetal1/8\"",
+      "url": "",
+      "images": [],
+      "rating": 4.1,
+      "reviews_count": 2,
+      "warranty": "12 luni",
+      "tags": [
+        "accesorii",
+        "sxt"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.422424",
+      "original_price": 30.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Foaie Metal BMX 44T 1/2 X 1/8\" SXT",
+        "brand": {
+          "@type": "Brand",
+          "name": "SXT"
+        },
+        "description": "44 TCuloare NegruMetal1/8\"",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "20.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "sxt",
+          "accesorii",
+          "foaie",
+          "metal",
+          "bmx"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "sxt foaie metal bmx 44t 1/2 x 1/8\" sxt",
+          "foaie metal bmx 44t 1/2 x 1/8\" sxt sxt",
+          "accesorii sxt"
+        ],
+        "voice_search_phrases": [
+          "where to buy foaie metal bmx 44t 1/2 x 1/8\" sxt",
+          "best foaie metal bmx 44t 1/2 x 1/8\" sxt price",
+          "how to install foaie metal bmx 44t 1/2 x 1/8\" sxt"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "foaie",
+            "metal",
+            "bmx",
+            "44t",
+            "1",
+            "2",
+            "x",
+            "1",
+            "8",
+            "sxt"
+          ],
+          "en": [
+            "foaie",
+            "metal",
+            "bmx",
+            "44t",
+            "1",
+            "2",
+            "x",
+            "1",
+            "8",
+            "sxt"
+          ],
+          "de": [
+            "foaie",
+            "metal",
+            "bmx",
+            "44t",
+            "1",
+            "2",
+            "x",
+            "1",
+            "8",
+            "sxt"
+          ],
+          "hu": [
+            "foaie",
+            "metal",
+            "bmx",
+            "44t",
+            "1",
+            "2",
+            "x",
+            "1",
+            "8",
+            "sxt"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "set-ax-pedalier--rotund-sxt",
+      "name": "Set Ax Pedalier- Rotund SXT",
+      "brand": "SXT",
+      "category": "accesorii",
+      "price": 28.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "sku": "100600",
+      "ean": "",
+      "description": "Metal CPB.B SetLungime 148 mmDiametrul-15,8 mmCupe 40 mmD1 - 43 mmD2 - 40 mm",
+      "url": "",
+      "images": [],
+      "rating": 4.2,
+      "reviews_count": 3,
+      "warranty": "12 luni",
+      "tags": [
+        "accesorii",
+        "sxt"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.422430",
+      "original_price": 42.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Set Ax Pedalier- Rotund SXT",
+        "brand": {
+          "@type": "Brand",
+          "name": "SXT"
+        },
+        "description": "Metal CPB.B SetLungime 148 mmDiametrul-15,8 mmCupe 40 mmD1 - 43 mmD2 - 40 mm",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "28.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/OutOfStock",
+          "url": "",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "sxt",
+          "accesorii",
+          "set",
+          "ax",
+          "pedalier"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "sxt set ax pedalier- rotund sxt",
+          "set ax pedalier- rotund sxt sxt",
+          "accesorii sxt"
+        ],
+        "voice_search_phrases": [
+          "where to buy set ax pedalier- rotund sxt",
+          "best set ax pedalier- rotund sxt price",
+          "how to install set ax pedalier- rotund sxt"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "set",
+            "ax",
+            "pedalier",
+            "rotund",
+            "sxt"
+          ],
+          "en": [
+            "set",
+            "ax",
+            "pedalier",
+            "rotund",
+            "sxt"
+          ],
+          "de": [
+            "set",
+            "ax",
+            "pedalier",
+            "rotund",
+            "sxt"
+          ],
+          "hu": [
+            "set",
+            "ax",
+            "pedalier",
+            "rotund",
+            "sxt"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "set-angrenaj-metal-46-tax---rotund-sxt",
+      "name": "Set Angrenaj Metal 46 T/Ax - Rotund SXT",
+      "brand": "SXT",
+      "category": "accesorii",
+      "price": 82.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100601",
+      "ean": "",
+      "description": "Setul contine:Angrenaj metal 46 TSet ax pedalier rotund pe coronite cu lungimea de 148 mm (359191)Ax pana x 2 bucLungime brat angrenaj 170 mmCuloare SilverPentru 1 vPentru lant de 1v--1/2\"-1/8\"",
+      "url": "https://www.bikestylish.ro/piese/set-angrenaj-metal-46-t-ax-rotund-sxt.html ",
+      "images": [],
+      "rating": 4.3,
+      "reviews_count": 4,
+      "warranty": "12 luni",
+      "tags": [
+        "accesorii",
+        "sxt"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.422436",
+      "original_price": 123.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Set Angrenaj Metal 46 T/Ax - Rotund SXT",
+        "brand": {
+          "@type": "Brand",
+          "name": "SXT"
+        },
+        "description": "Setul contine:Angrenaj metal 46 TSet ax pedalier rotund pe coronite cu lungimea de 148 mm (359191)Ax pana x 2 bucLungime brat angrenaj 170 mmCuloare SilverPentru 1 vPentru lant de 1v--1/2\"-1/8\"",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "82.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/piese/set-angrenaj-metal-46-t-ax-rotund-sxt.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "sxt",
+          "accesorii",
+          "set",
+          "angrenaj",
+          "metal"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "sxt set angrenaj metal 46 t/ax - rotund sxt",
+          "set angrenaj metal 46 t/ax - rotund sxt sxt",
+          "accesorii sxt"
+        ],
+        "voice_search_phrases": [
+          "where to buy set angrenaj metal 46 t/ax - rotund sxt",
+          "best set angrenaj metal 46 t/ax - rotund sxt price",
+          "how to install set angrenaj metal 46 t/ax - rotund sxt"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "set",
+            "angrenaj",
+            "metal",
+            "46",
+            "t",
+            "ax",
+            "rotund",
+            "sxt"
+          ],
+          "en": [
+            "set",
+            "angrenaj",
+            "metal",
+            "46",
+            "t",
+            "ax",
+            "rotund",
+            "sxt"
+          ],
+          "de": [
+            "set",
+            "angrenaj",
+            "metal",
+            "46",
+            "t",
+            "ax",
+            "rotund",
+            "sxt"
+          ],
+          "hu": [
+            "set",
+            "angrenaj",
+            "metal",
+            "46",
+            "t",
+            "ax",
+            "rotund",
+            "sxt"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "angrenaj-pedalier-12-sxt-28-t",
+      "name": "Angrenaj Pedalier 12\" SXT 28 T",
+      "brand": "SXT",
+      "category": "accesorii",
+      "price": 55.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 2,
+      "sku": "100602",
+      "ean": "",
+      "description": "Pentru biciclete 12 \"1/2x1/8Culoare NegruLungime Brat 89 mmJIS(pentru ax patrat)28 TB.B - lungime-127 mm",
+      "url": "https://www.bikestylish.ro/piese/angrenaj-pedalier-12-sxt-28-t.html ",
+      "images": [],
+      "rating": 4.4,
+      "reviews_count": 5,
+      "warranty": "12 luni",
+      "tags": [
+        "accesorii",
+        "sxt"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.422444",
+      "original_price": 82.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Angrenaj Pedalier 12\" SXT 28 T",
+        "brand": {
+          "@type": "Brand",
+          "name": "SXT"
+        },
+        "description": "Pentru biciclete 12 \"1/2x1/8Culoare NegruLungime Brat 89 mmJIS(pentru ax patrat)28 TB.B - lungime-127 mm",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "55.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/piese/angrenaj-pedalier-12-sxt-28-t.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "sxt",
+          "accesorii",
+          "angrenaj",
+          "pedalier",
+          "12"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "sxt angrenaj pedalier 12\" sxt 28 t",
+          "angrenaj pedalier 12\" sxt 28 t sxt",
+          "accesorii sxt"
+        ],
+        "voice_search_phrases": [
+          "where to buy angrenaj pedalier 12\" sxt 28 t",
+          "best angrenaj pedalier 12\" sxt 28 t price",
+          "how to install angrenaj pedalier 12\" sxt 28 t"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "angrenaj",
+            "pedalier",
+            "12",
+            "sxt",
+            "28",
+            "t"
+          ],
+          "en": [
+            "angrenaj",
+            "pedalier",
+            "12",
+            "sxt",
+            "28",
+            "t"
+          ],
+          "de": [
+            "angrenaj",
+            "pedalier",
+            "12",
+            "sxt",
+            "28",
+            "t"
+          ],
+          "hu": [
+            "angrenaj",
+            "pedalier",
+            "12",
+            "sxt",
+            "28",
+            "t"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "angrenaj-pedalier--16-20--sxt--36-t-negru",
+      "name": "Angrenaj Pedalier  (16\"-20\")  SXT  36 T Negru",
+      "brand": "SXT",
+      "category": "accesorii",
+      "price": 65.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100603",
+      "ean": "",
+      "description": "Pentru 18\"(16\"-20\")1/2x3/32Culoare NegruLungime Brat- 127 mm imbracat in plasticJIS(ax pe patrat)36 TB.B. lungime ax 127 mm",
+      "url": "https://www.bikestylish.ro/piese/angrenaj-pedalier-16-20-sxt-36-t-negru.html ",
+      "images": [],
+      "rating": 4.5,
+      "reviews_count": 6,
+      "warranty": "12 luni",
+      "tags": [
+        "accesorii",
+        "sxt"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.422450",
+      "original_price": 97.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Angrenaj Pedalier  (16\"-20\")  SXT  36 T Negru",
+        "brand": {
+          "@type": "Brand",
+          "name": "SXT"
+        },
+        "description": "Pentru 18\"(16\"-20\")1/2x3/32Culoare NegruLungime Brat- 127 mm imbracat in plasticJIS(ax pe patrat)36 TB.B. lungime ax 127 mm",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "65.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/piese/angrenaj-pedalier-16-20-sxt-36-t-negru.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [
+          "size_16\"-20"
+        ],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "sxt",
+          "accesorii",
+          "angrenaj",
+          "pedalier",
+          "16"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "sxt angrenaj pedalier  (16\"-20\")  sxt  36 t negru",
+          "angrenaj pedalier  (16\"-20\")  sxt  36 t negru sxt",
+          "accesorii sxt"
+        ],
+        "voice_search_phrases": [
+          "where to buy angrenaj pedalier  (16\"-20\")  sxt  36 t negru",
+          "best angrenaj pedalier  (16\"-20\")  sxt  36 t negru price",
+          "how to install angrenaj pedalier  (16\"-20\")  sxt  36 t negru"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "angrenaj",
+            "pedalier",
+            "16",
+            "20",
+            "sxt",
+            "36",
+            "t",
+            "negru"
+          ],
+          "en": [
+            "angrenaj",
+            "pedalier",
+            "16",
+            "20",
+            "sxt",
+            "36",
+            "t",
+            "negru"
+          ],
+          "de": [
+            "angrenaj",
+            "pedalier",
+            "16",
+            "20",
+            "sxt",
+            "36",
+            "t",
+            "negru"
+          ],
+          "hu": [
+            "angrenaj",
+            "pedalier",
+            "16",
+            "20",
+            "sxt",
+            "36",
+            "t",
+            "negru"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "angrenaj-pedalier-2018-24-sxt-40-t",
+      "name": "Angrenaj Pedalier 20\"(18\"-24\") SXT 40 T",
+      "brand": "SXT",
+      "category": "accesorii",
+      "price": 65.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100604",
+      "ean": "",
+      "description": "Pentru 20\"(18\"-24\")1/2x3/32Culoare NegruLungime Brat - 152 mm imbracat in plasticJIS(ax patrat)40 TB.B. - lungime 119 mm",
+      "url": "",
+      "images": [],
+      "rating": 4.6,
+      "reviews_count": 7,
+      "warranty": "12 luni",
+      "tags": [
+        "accesorii",
+        "sxt"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.422458",
+      "original_price": 97.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Angrenaj Pedalier 20\"(18\"-24\") SXT 40 T",
+        "brand": {
+          "@type": "Brand",
+          "name": "SXT"
+        },
+        "description": "Pentru 20\"(18\"-24\")1/2x3/32Culoare NegruLungime Brat - 152 mm imbracat in plasticJIS(ax patrat)40 TB.B. - lungime 119 mm",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "65.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [
+          "size_18\"-24"
+        ],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "sxt",
+          "accesorii",
+          "angrenaj",
+          "pedalier",
+          "20"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "sxt angrenaj pedalier 20\"(18\"-24\") sxt 40 t",
+          "angrenaj pedalier 20\"(18\"-24\") sxt 40 t sxt",
+          "accesorii sxt"
+        ],
+        "voice_search_phrases": [
+          "where to buy angrenaj pedalier 20\"(18\"-24\") sxt 40 t",
+          "best angrenaj pedalier 20\"(18\"-24\") sxt 40 t price",
+          "how to install angrenaj pedalier 20\"(18\"-24\") sxt 40 t"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "angrenaj",
+            "pedalier",
+            "20",
+            "18",
+            "24",
+            "sxt",
+            "40",
+            "t"
+          ],
+          "en": [
+            "angrenaj",
+            "pedalier",
+            "20",
+            "18",
+            "24",
+            "sxt",
+            "40",
+            "t"
+          ],
+          "de": [
+            "angrenaj",
+            "pedalier",
+            "20",
+            "18",
+            "24",
+            "sxt",
+            "40",
+            "t"
+          ],
+          "hu": [
+            "angrenaj",
+            "pedalier",
+            "20",
+            "18",
+            "24",
+            "sxt",
+            "40",
+            "t"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "angrenaj-pedalier-m-wave-46-t",
+      "name": "Angrenaj Pedalier M-WAVE 46 T",
+      "brand": "M-WAVE",
+      "category": "accesorii",
+      "price": 199.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100609",
+      "ean": "",
+      "description": "Aluminiu Brat Aluminiu PolisatFoaie din aluminiu detasabila prelucrata CNCLungimea Bratului 165 mmLungimea intre Bolturi 130 mmJIS(Patrat)1/2x1/8Linia Lantului 45 mmB.B. Lungime 110 mmAngrenajul este pentru single speed.Greutate- aproximativ 613 grame",
+      "url": "https://www.bikestylish.ro/piese/angrenaj-pedalier-m-wave-46-t.html ",
+      "images": [],
+      "rating": 4.7,
+      "reviews_count": 8,
+      "warranty": "24 luni",
+      "tags": [
+        "accesorii",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.422464",
+      "original_price": 298.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Angrenaj Pedalier M-WAVE 46 T",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "Aluminiu Brat Aluminiu PolisatFoaie din aluminiu detasabila prelucrata CNCLungimea Bratului 165 mmLungimea intre Bolturi 130 mmJIS(Patrat)1/2x1/8Linia Lantului 45 mmB.B. Lungime 110 mmAngrenajul este pentru single speed.Greutate- aproximativ 613 grame",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "199.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/piese/angrenaj-pedalier-m-wave-46-t.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "accesorii",
+          "angrenaj",
+          "pedalier",
+          "m"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave angrenaj pedalier m-wave 46 t",
+          "angrenaj pedalier m-wave 46 t m-wave",
+          "accesorii m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy angrenaj pedalier m-wave 46 t",
+          "best angrenaj pedalier m-wave 46 t price",
+          "how to install angrenaj pedalier m-wave 46 t"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "angrenaj",
+            "pedalier",
+            "m",
+            "wave",
+            "46",
+            "t"
+          ],
+          "en": [
+            "angrenaj",
+            "pedalier",
+            "m",
+            "wave",
+            "46",
+            "t"
+          ],
+          "de": [
+            "angrenaj",
+            "pedalier",
+            "m",
+            "wave",
+            "46",
+            "t"
+          ],
+          "hu": [
+            "angrenaj",
+            "pedalier",
+            "m",
+            "wave",
+            "46",
+            "t"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "angrenaj-pedalier-m-wave-46-t",
+      "name": "Angrenaj Pedalier M-WAVE 46 T",
+      "brand": "M-WAVE",
+      "category": "accesorii",
+      "price": 125.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100605",
+      "ean": "",
+      "description": "Brat din aluminiu polisat, forjat de culoare SilverFoaie dinmetal de culoare SilverLungime Brat- 170 mmJIS(patrat)1/2x3/32B.B. - lungime 131 mmAngrenaj compatibil 1 x 5,6,7,8v",
+      "url": "",
+      "images": [],
+      "rating": 4.8,
+      "reviews_count": 9,
+      "warranty": "24 luni",
+      "tags": [
+        "accesorii",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.422471",
+      "original_price": 187.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Angrenaj Pedalier M-WAVE 46 T",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "Brat din aluminiu polisat, forjat de culoare SilverFoaie dinmetal de culoare SilverLungime Brat- 170 mmJIS(patrat)1/2x3/32B.B. - lungime 131 mmAngrenaj compatibil 1 x 5,6,7,8v",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "125.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "accesorii",
+          "angrenaj",
+          "pedalier",
+          "m"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave angrenaj pedalier m-wave 46 t",
+          "angrenaj pedalier m-wave 46 t m-wave",
+          "accesorii m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy angrenaj pedalier m-wave 46 t",
+          "best angrenaj pedalier m-wave 46 t price",
+          "how to install angrenaj pedalier m-wave 46 t"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "angrenaj",
+            "pedalier",
+            "m",
+            "wave",
+            "46",
+            "t"
+          ],
+          "en": [
+            "angrenaj",
+            "pedalier",
+            "m",
+            "wave",
+            "46",
+            "t"
+          ],
+          "de": [
+            "angrenaj",
+            "pedalier",
+            "m",
+            "wave",
+            "46",
+            "t"
+          ],
+          "hu": [
+            "angrenaj",
+            "pedalier",
+            "m",
+            "wave",
+            "46",
+            "t"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
     {
       "id": "angrenaj-pedalier-m-wave-44-t",
       "name": "Angrenaj Pedalier M-WAVE 44 T",
@@ -2085,7 +3417,7 @@
     {
       "id": "angrenaj-pedalier-304252-t-8v",
       "name": "Angrenaj Pedalier 30/42/52 T 8v",
-      "brand": "Angrenaj",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 230.0,
       "currency": "RON",
@@ -2240,7 +3572,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Angrenaj"
     },
     {
       "id": "angrenaj-pedalier-m-wave-3450-t-9v",
@@ -3489,7 +4823,7 @@
     {
       "id": "monobloc-pedalier-neco-1105205-mm-cupe-metal-silver",
       "name": "Monobloc Pedalier NECO 110,5/20,5 mm Cupe Metal, Silver",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 40.0,
       "currency": "RON",
@@ -3660,12 +4994,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-neco-113523mm-cupe-metal-silver",
       "name": "Monobloc Pedalier NECO 113,5/23mm Cupe Metal, Silver",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 40.0,
       "currency": "RON",
@@ -3828,12 +5164,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-neco-11524-mm-cupe-metal-silver",
       "name": "Monobloc Pedalier NECO 115/24 mm Cupe Metal, Silver",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 40.0,
       "currency": "RON",
@@ -3996,12 +5334,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-neco-11927-mm-cupe-metal-silver",
       "name": "Monobloc Pedalier NECO 119/27 mm Cupe Metal, Silver",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 40.0,
       "currency": "RON",
@@ -4164,12 +5504,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-neco-1225285-mm-cupe-metal-silver",
       "name": "Monobloc Pedalier NECO 122,5/28,5 mm Cupe Metal, Silver",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 40.0,
       "currency": "RON",
@@ -4340,12 +5682,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-neco-127531-mm-cupe-metal-silver",
       "name": "Monobloc Pedalier NECO 127,5/31 mm, Cupe Metal, Silver",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 40.0,
       "currency": "RON",
@@ -4512,12 +5856,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-neco-13134-mm-cupe-metal-silver",
       "name": "Monobloc Pedalier NECO 131/34 mm, Cupe Metal, Silver",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 40.0,
       "currency": "RON",
@@ -4680,12 +6026,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-neco-110521-mm-negru-cupe-metalplastic",
       "name": "Monobloc Pedalier NECO 110,5/21 mm Negru Cupe Metal/Plastic",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 32.0,
       "currency": "RON",
@@ -4856,12 +6204,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-neco-1135225-mm-negru-cupe-metalplastic",
       "name": "Monobloc Pedalier NECO 113,5/22,5 mm Negru Cupe Metal/Plastic",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 32.0,
       "currency": "RON",
@@ -5036,12 +6386,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-neco-115235-mm-negru-cupe-metalplastic",
       "name": "Monobloc Pedalier NECO 115/23,5 mm Negru Cupe Metal/Plastic",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 32.0,
       "currency": "RON",
@@ -5212,12 +6564,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-neco-119265-mm-negru-cupe-metalplastic",
       "name": "Monobloc Pedalier NECO 119/26,5 mm Negru Cupe Metal/Plastic",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 32.0,
       "currency": "RON",
@@ -5388,12 +6742,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-neco-122528-mm-negru-cupe-metalplastic",
       "name": "Monobloc Pedalier NECO 122,5/28 mm Negru Cupe Metal/Plastic",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 35.0,
       "currency": "RON",
@@ -5564,12 +6920,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-neco-1275305-mm-negru-cupe-metalplastic",
       "name": "Monobloc Pedalier NECO 127,5/30,5 mm Negru Cupe Metal/Plastic",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 32.0,
       "currency": "RON",
@@ -5744,12 +7102,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-neco-131335--mm-negru-cupe-metalplastic",
       "name": "Monobloc Pedalier NECO 131/33,5  mm Negru Cupe Metal/Plastic",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 32.0,
       "currency": "RON",
@@ -5920,12 +7280,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-neco-127305-mm-italian",
       "name": "Monobloc Pedalier NECO 127/30,5 mm Italian",
-      "brand": "Monobloc",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 35.0,
       "currency": "RON",
@@ -6084,7 +7446,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Monobloc"
     },
     {
       "id": "monobloc-pedalier-m-wave-carousel--bb-repair--113-mm",
@@ -6937,7 +8301,7 @@
     {
       "id": "monobloc-pedalier-mtb--sxt-68-73-mm",
       "name": "Monobloc Pedalier MTB  SXT 68-73 mm",
-      "brand": "SXT",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 95.0,
       "currency": "RON",
@@ -7095,7 +8459,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "SXT"
     },
     {
       "id": "monobloc-pedalier-m-wave-carousel-bb-bsa-ex-jpn",
@@ -7608,7 +8974,7 @@
     {
       "id": "rulment-bb30",
       "name": "Rulment BB30",
-      "brand": "Rulment",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 95.0,
       "currency": "RON",
@@ -7742,7 +9108,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Rulment"
     },
     {
       "id": "kit-service-frane-hidraulice-m-wave-brake-doc-box",
@@ -8547,7 +9915,7 @@
     {
       "id": "conducta-hidraulica-promax--25-mm",
       "name": "Conducta Hidraulica PROMAX  2,5 mm",
-      "brand": "Conducta",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 20.0,
       "currency": "RON",
@@ -8698,12 +10066,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Conducta"
     },
     {
       "id": "conducta-hidraulica-promax--22-mm",
       "name": "Conducta Hidraulica PROMAX  2,2 mm",
-      "brand": "Conducta",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 20.0,
       "currency": "RON",
@@ -8854,7 +10224,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Conducta"
     },
     {
       "id": "etrier-frana-disc-mecanica-sxt-fata",
@@ -9347,7 +10719,7 @@
     {
       "id": "adaptor-frana-disc--sxt-ada-db-is2-180-mm-fata160-mm-spate",
       "name": "Adaptor Frana Disc  SXT ADA DB IS2 180 mm Fata/160 mm Spate",
-      "brand": "SXT",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 32.0,
       "currency": "RON",
@@ -9526,7 +10898,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "SXT"
     },
     {
       "id": "adaptor-frana-disc-sxt-ada-db-is4-180-mm-spate",
@@ -10059,7 +11433,7 @@
     {
       "id": "disc-frana-promax-140-mm",
       "name": "Disc Frana PROMAX 140 mm",
-      "brand": "Disc",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 55.0,
       "currency": "RON",
@@ -10206,12 +11580,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Disc"
     },
     {
       "id": "disc-frana-promax-160-mm",
       "name": "Disc Frana PROMAX 160 mm",
-      "brand": "Disc",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 60.0,
       "currency": "RON",
@@ -10358,12 +11734,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Disc"
     },
     {
       "id": "disc-frana-promax-180-mm",
       "name": "Disc Frana PROMAX 180 mm",
-      "brand": "Disc",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 65.0,
       "currency": "RON",
@@ -10510,12 +11888,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Disc"
     },
     {
       "id": "disc-frana-promax-203-mm",
       "name": "Disc Frana PROMAX 203 mm",
-      "brand": "Disc",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 80.0,
       "currency": "RON",
@@ -10662,7 +12042,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Disc"
     },
     {
       "id": "disc-frana--sxt-160-mm",
@@ -11123,7 +12505,7 @@
     {
       "id": "protectie-cauciuc-v-break25-bucsticla-promax",
       "name": "Protectie Cauciuc V-Break(25 buc/sticla) PROMAX",
-      "brand": "Protectie",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 25.0,
       "currency": "RON",
@@ -11282,7 +12664,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Protectie"
     },
     {
       "id": "sabot-frana-sxt-55t-1-buc",
@@ -11443,7 +12827,7 @@
     {
       "id": "set-rezerva-saboti-road-promax",
       "name": "Set Rezerva Saboti Road PROMAX",
-      "brand": "Set",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 14.0,
       "currency": "RON",
@@ -11592,12 +12976,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Set"
     },
     {
       "id": "saboti-road-racing-schimbabili-promax",
       "name": "Saboti Road Racing Schimbabili PROMAX",
-      "brand": "Saboti",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 50.0,
       "currency": "RON",
@@ -11746,12 +13132,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Saboti"
     },
     {
       "id": "saboti-pentru-frane-hidraulice-magura-promax",
       "name": "Saboti pentru Frane Hidraulice Magura PROMAX",
-      "brand": "Saboti",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 30.0,
       "currency": "RON",
@@ -11902,12 +13290,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Saboti"
     },
     {
       "id": "saboti-frana-70-c-promax",
       "name": "Saboti Frana 70 C PROMAX",
-      "brand": "Saboti",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 15.0,
       "currency": "RON",
@@ -12054,7 +13444,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Saboti"
     },
     {
       "id": "saboti-frana-70-t-sxt-negru-70-mm",
@@ -12223,7 +13615,7 @@
     {
       "id": "saboti-frana-70-t-promax-negru",
       "name": "Saboti Frana 70 T PROMAX Negru",
-      "brand": "Saboti",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 15.0,
       "currency": "RON",
@@ -12374,12 +13766,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Saboti"
     },
     {
       "id": "saboti-frana-70--y-t-promax",
       "name": "Saboti Frana 70  Y T PROMAX",
-      "brand": "Saboti",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 17.0,
       "currency": "RON",
@@ -12530,12 +13924,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Saboti"
     },
     {
       "id": "saboti-frana-promax-70-v-3-t",
       "name": "Saboti Frana PROMAX 70 V 3 T",
-      "brand": "Saboti",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 25.0,
       "currency": "RON",
@@ -12690,12 +14086,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Saboti"
     },
     {
       "id": "set-rezerva-saboti-promax-361070",
       "name": "Set Rezerva Saboti PROMAX 361070",
-      "brand": "Set",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 20.0,
       "currency": "RON",
@@ -12842,12 +14240,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Set"
     },
     {
       "id": "saboti-frana-aluminiu-detasabili--70-c-3-t-promax",
       "name": "Saboti Frana Aluminiu Detasabili  70 C 3 T PROMAX",
-      "brand": "Saboti",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 50.0,
       "currency": "RON",
@@ -13010,7 +14410,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Saboti"
     },
     {
       "id": "saboti-frana-72-mm-m-wave-bpr-vc",
@@ -13803,7 +15205,7 @@
     {
       "id": "manete-frana-aditonale-promax-318-adaptor---238-mm",
       "name": "Manete Frana Aditonale PROMAX 31.8 (adaptor - 23.8) mm",
-      "brand": "Manete",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 110.0,
       "currency": "RON",
@@ -13970,7 +15372,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Manete"
     },
     {
       "id": "maneta-frana-plastic-copii-sxt-dreapta",
@@ -14287,7 +15691,7 @@
     {
       "id": "maneta-frana-aluminiu-copii-promax-16-20-dreapta",
       "name": "Maneta Frana Aluminiu Copii PROMAX 16\"-20\" Dreapta",
-      "brand": "Maneta",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 24.0,
       "currency": "RON",
@@ -14449,12 +15853,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Maneta"
     },
     {
       "id": "maneta-frana-aluminiu-copii-promax-16-20-stanga",
       "name": "Maneta Frana Aluminiu Copii PROMAX 16\"-20\" Stanga",
-      "brand": "Maneta",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 24.0,
       "currency": "RON",
@@ -14616,7 +16022,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Maneta"
     },
     {
       "id": "manete-frana-aluminiu-sxt-ap-negru-3-4-deg",
@@ -15307,7 +16715,7 @@
     {
       "id": "set-frane-aluminiu-road-promax-negru-38-52-mm",
       "name": "Set Frane Aluminiu Road PROMAX Negru 38-52 mm",
-      "brand": "Set",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 250.0,
       "currency": "RON",
@@ -15473,12 +16881,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Set"
     },
     {
       "id": "set-franare-promax-silver",
       "name": "Set Franare PROMAX-Silver",
-      "brand": "Set",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 125.0,
       "currency": "RON",
@@ -15621,12 +17031,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Set"
     },
     {
       "id": "set-franare-promax-negru",
       "name": "Set Franare PROMAX-Negru",
-      "brand": "Set",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 110.0,
       "currency": "RON",
@@ -15769,12 +17181,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Set"
     },
     {
       "id": "set-franare-promax-alb",
       "name": "Set Franare PROMAX-Alb",
-      "brand": "Set",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 120.0,
       "currency": "RON",
@@ -15917,12 +17331,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Set"
     },
     {
       "id": "set-v-brake-aluminiu-promax--fr--alb",
       "name": "Set V-Brake Aluminiu Promax ( F+R ) Alb",
-      "brand": "Set",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 55.0,
       "currency": "RON",
@@ -16081,12 +17497,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Set"
     },
     {
       "id": "set-v-brake-aluminiu-promax--fr--silver",
       "name": "Set V-Brake Aluminiu Promax ( F+R ) Silver",
-      "brand": "Set",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 55.0,
       "currency": "RON",
@@ -16245,12 +17663,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Set"
     },
     {
       "id": "set-v-brake-aluminiu-promax--fr---negru",
       "name": "Set V-Brake Aluminiu Promax ( F+R )  Negru",
-      "brand": "Set",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 55.0,
       "currency": "RON",
@@ -16409,12 +17829,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Set"
     },
     {
       "id": "manete-frana-aluminiu-promax-alb",
       "name": "Manete Frana Aluminiu PROMAX-Alb",
-      "brand": "Manete",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 45.0,
       "currency": "RON",
@@ -16561,12 +17983,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Manete"
     },
     {
       "id": "manete-frana-aluminiu-promax-negru",
       "name": "Manete Frana Aluminiu PROMAX-Negru",
-      "brand": "Manete",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 45.0,
       "currency": "RON",
@@ -16713,12 +18137,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Manete"
     },
     {
       "id": "manete-frana-aluminiu-promax-silver",
       "name": "Manete Frana Aluminiu PROMAX-Silver",
-      "brand": "Manete",
+      "brand": "PROMAX",
       "category": "accesorii",
       "price": 45.0,
       "currency": "RON",
@@ -16865,7 +18291,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Manete"
     },
     {
       "id": "placute-frana-m-wave-sram-x0-organice",
@@ -22200,7 +23628,7 @@
     {
       "id": "piesa-montaj-aripi-pe-furca-cu-suspensie-m-wave",
       "name": "Piesa montaj aripi pe furca cu suspensie M-WAVE",
-      "brand": "M-WAVE",
+      "brand": "SXT",
       "category": "biciclete",
       "price": 10.0,
       "currency": "RON",
@@ -22363,7 +23791,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "M-WAVE"
     },
     {
       "id": "prindere-portbagaj-si-aparatori-noroi-m-wave",
@@ -24184,7 +25614,7 @@
     {
       "id": "janta-remerx-alcyon-700c--32h",
       "name": "Janta REMERX ALCYON 700C- 32H",
-      "brand": "Janta",
+      "brand": "REMERX",
       "category": "accesorii",
       "price": 199.0,
       "currency": "RON",
@@ -24331,12 +25761,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Janta"
     },
     {
       "id": "janta-remerx-alcyon-700c--24h",
       "name": "Janta REMERX ALCYON 700C -24H",
-      "brand": "Janta",
+      "brand": "REMERX",
       "category": "accesorii",
       "price": 150.0,
       "currency": "RON",
@@ -24483,12 +25915,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Janta"
     },
     {
       "id": "janta-remerx-alcyon-700c--20h",
       "name": "Janta REMERX ALCYON 700C- 20H",
-      "brand": "Janta",
+      "brand": "REMERX",
       "category": "accesorii",
       "price": 150.0,
       "currency": "RON",
@@ -24635,12 +26069,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Janta"
     },
     {
       "id": "cuveti-integrati-tange-118-15",
       "name": "Cuveti Integrati TANGE 1.1/8\"-1.5\"",
-      "brand": "Cuveti",
+      "brand": "TANGE",
       "category": "accesorii",
       "price": 199.0,
       "currency": "RON",
@@ -24801,7 +26237,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cuveti"
     },
     {
       "id": "cuveti-integrati-m-wave-carousel-hs-in-118-15",
@@ -24988,7 +26426,7 @@
     {
       "id": "cuveti-integrati-neco-118-14",
       "name": "Cuveti Integrati NECO 1.1/8\"-1.4\"",
-      "brand": "Cuveti",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 125.0,
       "currency": "RON",
@@ -25149,12 +26587,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cuveti"
     },
     {
       "id": "cuveti-integrati-tange-118campagnolo",
       "name": "Cuveti Integrati TANGE 1.1/8\"(Campagnolo)",
-      "brand": "Cuveti",
+      "brand": "TANGE",
       "category": "accesorii",
       "price": 125.0,
       "currency": "RON",
@@ -25309,7 +26749,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cuveti"
     },
     {
       "id": "cuveti-semi-integrati-m-wave-118-115--carousel-hs-mix",
@@ -25502,7 +26944,7 @@
     {
       "id": "cuveti-semi-integrati-tange-118",
       "name": "Cuveti Semi Integrati TANGE 1.1/8\"",
-      "brand": "Cuveti",
+      "brand": "TANGE",
       "category": "accesorii",
       "price": 135.0,
       "currency": "RON",
@@ -25657,12 +27099,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cuveti"
     },
     {
       "id": "cuveti-semi-integrati-neco-118",
       "name": "Cuveti Semi Integrati NECO 1.1/8\"",
-      "brand": "Cuveti",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 55.0,
       "currency": "RON",
@@ -25817,12 +27261,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cuveti"
     },
     {
       "id": "cuveti-externi-tange-1-silver",
       "name": "Cuveti Externi TANGE 1\" Silver",
-      "brand": "Cuveti",
+      "brand": "TANGE",
       "category": "accesorii",
       "price": 165.0,
       "currency": "RON",
@@ -25969,12 +27415,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cuveti"
     },
     {
       "id": "cuveti-externi-tange-118-negru",
       "name": "Cuveti Externi TANGE 1.1/8\" Negru",
-      "brand": "Cuveti",
+      "brand": "TANGE",
       "category": "accesorii",
       "price": 140.0,
       "currency": "RON",
@@ -26129,12 +27577,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cuveti"
     },
     {
       "id": "cuveti-externi-tange-118-silver",
       "name": "Cuveti Externi TANGE 1.1/8\" Silver",
-      "brand": "Cuveti",
+      "brand": "TANGE",
       "category": "accesorii",
       "price": 175.0,
       "currency": "RON",
@@ -26289,12 +27739,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cuveti"
     },
     {
       "id": "cuveti-externi-neco-1-negru",
       "name": "Cuveti Externi NECO 1\" Negru",
-      "brand": "Cuveti",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 28.0,
       "currency": "RON",
@@ -26441,12 +27893,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cuveti"
     },
     {
       "id": "cuveti-externi-neco-118---negru",
       "name": "Cuveti Externi NECO 1.1/8\" - Negru",
-      "brand": "Cuveti",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 37.0,
       "currency": "RON",
@@ -26601,12 +28055,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cuveti"
     },
     {
       "id": "cuveti-externi-neco-118-aluminiumetal-negru",
       "name": "Cuveti Externi NECO 1.1/8\" Aluminiu/Metal Negru",
-      "brand": "Cuveti",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 67.0,
       "currency": "RON",
@@ -26769,7 +28225,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cuveti"
     },
     {
       "id": "nuca-expandabila-m-wave-fork-fix-c-118",
@@ -29434,7 +30892,7 @@
     {
       "id": "cuveti-externi-tange-1--negru",
       "name": "Cuveti Externi TANGE 1  Negru",
-      "brand": "Cuveti",
+      "brand": "TANGE",
       "category": "accesorii",
       "price": 150.0,
       "currency": "RON",
@@ -29581,7 +31039,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cuveti"
     },
     {
       "id": "cuveti-semi-integrati-m-wave-carousel-hs-118",
@@ -29758,7 +31218,7 @@
     {
       "id": "cuveti-externi-neco-118-metal-negru",
       "name": "Cuveti Externi NECO 1.1/8\" Metal Negru",
-      "brand": "Cuveti",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 20.0,
       "currency": "RON",
@@ -29917,12 +31377,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cuveti"
     },
     {
       "id": "cuveti-externi-neco-1--metal-negru",
       "name": "Cuveti Externi NECO 1\"  Metal Negru",
-      "brand": "Cuveti",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 9.0,
       "currency": "RON",
@@ -30073,7 +31535,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cuveti"
     },
     {
       "id": "furca-fixa-road-sxt--700c--118-aluminiu-negru",
@@ -32095,2002 +33559,8 @@
         "alternative_brands": [],
         "related_categories": []
       }
-    },
-    {
-      "id": "furca-fixa-fat-bike-26-sxt-118--neagra",
-      "name": "Furca Fixa Fat Bike 26\" SXT 1.1/8\"  Neagra",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 238.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100796",
-      "ean": "",
-      "description": "MetalOLD- 135 mmInterior la baza gatului 124 mmLungime gat 1.1/8\" 219 mmPentru Franare pe Disc (IS)Culoare Negru",
-      "url": "https://www.bikestylish.ro/piese/furca-fixa-fat-bike-26-sxt-1-1-8-neagra.html ",
-      "images": [],
-      "rating": 4.0,
-      "reviews_count": 1,
-      "warranty": "24 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.423867",
-      "original_price": 357.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Furca Fixa Fat Bike 26\" SXT 1.1/8\"  Neagra",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "MetalOLD- 135 mmInterior la baza gatului 124 mmLungime gat 1.1/8\" 219 mmPentru Franare pe Disc (IS)Culoare Negru",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "238.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/piese/furca-fixa-fat-bike-26-sxt-1-1-8-neagra.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "furca",
-          "fixa",
-          "fat"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt furca fixa fat bike 26\" sxt 1.1/8\"  neagra",
-          "furca fixa fat bike 26\" sxt 1.1/8\"  neagra sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy furca fixa fat bike 26\" sxt 1.1/8\"  neagra",
-          "best furca fixa fat bike 26\" sxt 1.1/8\"  neagra price",
-          "how to install furca fixa fat bike 26\" sxt 1.1/8\"  neagra"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "furca",
-            "fixa",
-            "fat",
-            "bike",
-            "26",
-            "sxt",
-            "1",
-            "1",
-            "8",
-            "neagra"
-          ],
-          "en": [
-            "furca",
-            "fixa",
-            "fat",
-            "bike",
-            "26",
-            "sxt",
-            "1",
-            "1",
-            "8",
-            "neagra"
-          ],
-          "de": [
-            "furca",
-            "fixa",
-            "fat",
-            "bike",
-            "26",
-            "sxt",
-            "1",
-            "1",
-            "8",
-            "neagra"
-          ],
-          "hu": [
-            "furca",
-            "fixa",
-            "fat",
-            "bike",
-            "26",
-            "sxt",
-            "1",
-            "1",
-            "8",
-            "neagra"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "furca-bmx-20-sxt-118-metal-negru",
-      "name": "Furca BMX 20\" SXT 1.1/8\" Metal Negru",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 150.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 2,
-      "sku": "100797",
-      "ean": "",
-      "description": "Metal20\"Pentru V-BreakCuloare NegruLungime gat 180 mmPentru 1.1/8\" - gat fara filet",
-      "url": "https://www.bikestylish.ro/piese/furca-bmx-20-sxt-1-1-8-metal-negru.html ",
-      "images": [],
-      "rating": 4.1,
-      "reviews_count": 2,
-      "warranty": "24 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.423873",
-      "original_price": 225.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Furca BMX 20\" SXT 1.1/8\" Metal Negru",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "Metal20\"Pentru V-BreakCuloare NegruLungime gat 180 mmPentru 1.1/8\" - gat fara filet",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "150.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/piese/furca-bmx-20-sxt-1-1-8-metal-negru.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "furca",
-          "bmx",
-          "20"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt furca bmx 20\" sxt 1.1/8\" metal negru",
-          "furca bmx 20\" sxt 1.1/8\" metal negru sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy furca bmx 20\" sxt 1.1/8\" metal negru",
-          "best furca bmx 20\" sxt 1.1/8\" metal negru price",
-          "how to install furca bmx 20\" sxt 1.1/8\" metal negru"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "furca",
-            "bmx",
-            "20",
-            "sxt",
-            "1",
-            "1",
-            "8",
-            "metal",
-            "negru"
-          ],
-          "en": [
-            "furca",
-            "bmx",
-            "20",
-            "sxt",
-            "1",
-            "1",
-            "8",
-            "metal",
-            "negru"
-          ],
-          "de": [
-            "furca",
-            "bmx",
-            "20",
-            "sxt",
-            "1",
-            "1",
-            "8",
-            "metal",
-            "negru"
-          ],
-          "hu": [
-            "furca",
-            "bmx",
-            "20",
-            "sxt",
-            "1",
-            "1",
-            "8",
-            "metal",
-            "negru"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "ghidon-mtb-zoom-780318-mm",
-      "name": "Ghidon MTB ZOOM 780/31.8 mm",
-      "brand": "Ghidon",
-      "category": "accesorii",
-      "price": 110.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100798",
-      "ean": "",
-      "description": "780 mmAluminiu ButtedBar center 31.8 mmRise 20 mmBack sweep 9*Testat ISO 4210Cu scala pe mijloc si pe marginiCuloare Negru Anodizat",
-      "url": "https://www.bikestylish.ro/piese/ghidon-mtb-zoom-780-31-8-mm.html ",
-      "images": [],
-      "rating": 4.2,
-      "reviews_count": 3,
-      "warranty": "24 luni",
-      "tags": [
-        "accesorii",
-        "ghidon"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.423881",
-      "original_price": 165.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Ghidon MTB ZOOM 780/31.8 mm",
-        "brand": {
-          "@type": "Brand",
-          "name": "Ghidon"
-        },
-        "description": "780 mmAluminiu ButtedBar center 31.8 mmRise 20 mmBack sweep 9*Testat ISO 4210Cu scala pe mijloc si pe marginiCuloare Negru Anodizat",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "110.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/piese/ghidon-mtb-zoom-780-31-8-mm.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "mountain_biking"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [
-          "mountain_bikes"
-        ],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ghidon",
-          "accesorii",
-          "ghidon",
-          "mtb",
-          "zoom"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ghidon ghidon mtb zoom 780/31.8 mm",
-          "ghidon mtb zoom 780/31.8 mm ghidon",
-          "accesorii ghidon"
-        ],
-        "voice_search_phrases": [
-          "where to buy ghidon mtb zoom 780/31.8 mm",
-          "best ghidon mtb zoom 780/31.8 mm price",
-          "how to install ghidon mtb zoom 780/31.8 mm"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "ghidon",
-            "mtb",
-            "zoom",
-            "780",
-            "31",
-            "8",
-            "mm"
-          ],
-          "en": [
-            "ghidon",
-            "mtb",
-            "zoom",
-            "780",
-            "31",
-            "8",
-            "mm"
-          ],
-          "de": [
-            "ghidon",
-            "mtb",
-            "zoom",
-            "780",
-            "31",
-            "8",
-            "mm"
-          ],
-          "hu": [
-            "ghidon",
-            "mtb",
-            "zoom",
-            "780",
-            "31",
-            "8",
-            "mm"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "ghidon-mtb-zoom-720318-mm",
-      "name": "Ghidon MTB ZOOM 720/31.8 mm",
-      "brand": "Ghidon",
-      "category": "accesorii",
-      "price": 99.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "100799",
-      "ean": "",
-      "description": "720 mmAluminiu ButtedBar center 31.8 mmRise20mmBack sweep 9*Testat ISO 4210Cu scala pe mijloc si pe marginiCuloare Negru Anodizat",
-      "url": "",
-      "images": [],
-      "rating": 4.3,
-      "reviews_count": 4,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ghidon"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.423887",
-      "original_price": 148.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Ghidon MTB ZOOM 720/31.8 mm",
-        "brand": {
-          "@type": "Brand",
-          "name": "Ghidon"
-        },
-        "description": "720 mmAluminiu ButtedBar center 31.8 mmRise20mmBack sweep 9*Testat ISO 4210Cu scala pe mijloc si pe marginiCuloare Negru Anodizat",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "99.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "mountain_biking"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [
-          "mountain_bikes"
-        ],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ghidon",
-          "accesorii",
-          "ghidon",
-          "mtb",
-          "zoom"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ghidon ghidon mtb zoom 720/31.8 mm",
-          "ghidon mtb zoom 720/31.8 mm ghidon",
-          "accesorii ghidon"
-        ],
-        "voice_search_phrases": [
-          "where to buy ghidon mtb zoom 720/31.8 mm",
-          "best ghidon mtb zoom 720/31.8 mm price",
-          "how to install ghidon mtb zoom 720/31.8 mm"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "ghidon",
-            "mtb",
-            "zoom",
-            "720",
-            "31",
-            "8",
-            "mm"
-          ],
-          "en": [
-            "ghidon",
-            "mtb",
-            "zoom",
-            "720",
-            "31",
-            "8",
-            "mm"
-          ],
-          "de": [
-            "ghidon",
-            "mtb",
-            "zoom",
-            "720",
-            "31",
-            "8",
-            "mm"
-          ],
-          "hu": [
-            "ghidon",
-            "mtb",
-            "zoom",
-            "720",
-            "31",
-            "8",
-            "mm"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "ghidon-mtb-m-wave-700318-silver-matt--anodizat",
-      "name": "Ghidon MTB M-WAVE 700/31.8 Silver Matt  Anodizat",
-      "brand": "M-WAVE",
-      "category": "accesorii",
-      "price": 75.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "100800",
-      "ean": "",
-      "description": "Lungime 700 mmAluminiu ButtedBack sweep 10*Rise 30 mmGreutate 297 grameCu scala la mijloc si pe marginiTestat ISO 4210887539020149-403501",
-      "url": "",
-      "images": [],
-      "rating": 4.4,
-      "reviews_count": 5,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "m-wave"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.423894",
-      "original_price": 112.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Ghidon MTB M-WAVE 700/31.8 Silver Matt  Anodizat",
-        "brand": {
-          "@type": "Brand",
-          "name": "M-WAVE"
-        },
-        "description": "Lungime 700 mmAluminiu ButtedBack sweep 10*Rise 30 mmGreutate 297 grameCu scala la mijloc si pe marginiTestat ISO 4210887539020149-403501",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "75.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "mountain_biking"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [
-          "mountain_bikes"
-        ],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "m-wave",
-          "accesorii",
-          "ghidon",
-          "mtb",
-          "m"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "m-wave ghidon mtb m-wave 700/31.8 silver matt  anodizat",
-          "ghidon mtb m-wave 700/31.8 silver matt  anodizat m-wave",
-          "accesorii m-wave"
-        ],
-        "voice_search_phrases": [
-          "where to buy ghidon mtb m-wave 700/31.8 silver matt  anodizat",
-          "best ghidon mtb m-wave 700/31.8 silver matt  anodizat price",
-          "how to install ghidon mtb m-wave 700/31.8 silver matt  anodizat"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "ghidon",
-            "mtb",
-            "m",
-            "wave",
-            "700",
-            "31",
-            "8",
-            "silver",
-            "matt",
-            "anodizat"
-          ],
-          "en": [
-            "ghidon",
-            "mtb",
-            "m",
-            "wave",
-            "700",
-            "31",
-            "8",
-            "silver",
-            "matt",
-            "anodizat"
-          ],
-          "de": [
-            "ghidon",
-            "mtb",
-            "m",
-            "wave",
-            "700",
-            "31",
-            "8",
-            "silver",
-            "matt",
-            "anodizat"
-          ],
-          "hu": [
-            "ghidon",
-            "mtb",
-            "m",
-            "wave",
-            "700",
-            "31",
-            "8",
-            "silver",
-            "matt",
-            "anodizat"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "ghidon-mtb-zoom-600254-mm",
-      "name": "Ghidon MTB ZOOM 600/25.4 mm",
-      "brand": "Ghidon",
-      "category": "accesorii",
-      "price": 75.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "100801",
-      "ean": "",
-      "description": "Aluminiu ButtedLungime 600 mmBack Sweep 15*Rise 30 mmBar Center 25.4 mmCu scala la mijloc si pe marginiGreutate 229 grame",
-      "url": "",
-      "images": [],
-      "rating": 4.5,
-      "reviews_count": 6,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ghidon"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.423902",
-      "original_price": 112.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Ghidon MTB ZOOM 600/25.4 mm",
-        "brand": {
-          "@type": "Brand",
-          "name": "Ghidon"
-        },
-        "description": "Aluminiu ButtedLungime 600 mmBack Sweep 15*Rise 30 mmBar Center 25.4 mmCu scala la mijloc si pe marginiGreutate 229 grame",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "75.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "mountain_biking"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [
-          "mountain_bikes"
-        ],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ghidon",
-          "accesorii",
-          "ghidon",
-          "mtb",
-          "zoom"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ghidon ghidon mtb zoom 600/25.4 mm",
-          "ghidon mtb zoom 600/25.4 mm ghidon",
-          "accesorii ghidon"
-        ],
-        "voice_search_phrases": [
-          "where to buy ghidon mtb zoom 600/25.4 mm",
-          "best ghidon mtb zoom 600/25.4 mm price",
-          "how to install ghidon mtb zoom 600/25.4 mm"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "ghidon",
-            "mtb",
-            "zoom",
-            "600",
-            "25",
-            "4",
-            "mm"
-          ],
-          "en": [
-            "ghidon",
-            "mtb",
-            "zoom",
-            "600",
-            "25",
-            "4",
-            "mm"
-          ],
-          "de": [
-            "ghidon",
-            "mtb",
-            "zoom",
-            "600",
-            "25",
-            "4",
-            "mm"
-          ],
-          "hu": [
-            "ghidon",
-            "mtb",
-            "zoom",
-            "600",
-            "25",
-            "4",
-            "mm"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "ghidon-touringtrekking--m-wave-600254--mm-negru-anodizat",
-      "name": "Ghidon Touring/Trekking  M-WAVE 600/25.4  mm Negru Anodizat",
-      "brand": "M-WAVE",
-      "category": "accesorii",
-      "price": 58.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100802",
-      "ean": "",
-      "description": "AluminiuLungime 600 mmBar Center 25.4 mmRise 30 mmBack sweep 15*Testat ISO 4210",
-      "url": "https://www.bikestylish.ro/piese/ghidon-touring-trekking-m-wave-600-25-4-mm-negru-anodizat.html ",
-      "images": [],
-      "rating": 4.6,
-      "reviews_count": 7,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "m-wave"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.423909",
-      "original_price": 87.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Ghidon Touring/Trekking  M-WAVE 600/25.4  mm Negru Anodizat",
-        "brand": {
-          "@type": "Brand",
-          "name": "M-WAVE"
-        },
-        "description": "AluminiuLungime 600 mmBar Center 25.4 mmRise 30 mmBack sweep 15*Testat ISO 4210",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "58.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/piese/ghidon-touring-trekking-m-wave-600-25-4-mm-negru-anodizat.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "m-wave",
-          "accesorii",
-          "ghidon",
-          "touring",
-          "trekking"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "m-wave ghidon touring/trekking  m-wave 600/25.4  mm negru anodizat",
-          "ghidon touring/trekking  m-wave 600/25.4  mm negru anodizat m-wave",
-          "accesorii m-wave"
-        ],
-        "voice_search_phrases": [
-          "where to buy ghidon touring/trekking  m-wave 600/25.4  mm negru anodizat",
-          "best ghidon touring/trekking  m-wave 600/25.4  mm negru anodizat price",
-          "how to install ghidon touring/trekking  m-wave 600/25.4  mm negru anodizat"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "ghidon",
-            "touring",
-            "trekking",
-            "m",
-            "wave",
-            "600",
-            "25",
-            "4",
-            "mm",
-            "negru",
-            "anodizat"
-          ],
-          "en": [
-            "ghidon",
-            "touring",
-            "trekking",
-            "m",
-            "wave",
-            "600",
-            "25",
-            "4",
-            "mm",
-            "negru",
-            "anodizat"
-          ],
-          "de": [
-            "ghidon",
-            "touring",
-            "trekking",
-            "m",
-            "wave",
-            "600",
-            "25",
-            "4",
-            "mm",
-            "negru",
-            "anodizat"
-          ],
-          "hu": [
-            "ghidon",
-            "touring",
-            "trekking",
-            "m",
-            "wave",
-            "600",
-            "25",
-            "4",
-            "mm",
-            "negru",
-            "anodizat"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "ghidon-touringtrekking-m-wave-600254--mm-silver-anodizat",
-      "name": "Ghidon Touring/Trekking M-WAVE 600/25.4  mm Silver Anodizat",
-      "brand": "M-WAVE",
-      "category": "accesorii",
-      "price": 48.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100803",
-      "ean": "",
-      "description": "AluminiuLungime 600 mmBar Center 25.4 mmRise 30 mmBack sweep 15*Testat ISO 4210",
-      "url": "https://www.bikestylish.ro/piese/ghidon-touring-trekking-m-wave-600-25-4-mm-silver-anodizat.html ",
-      "images": [],
-      "rating": 4.7,
-      "reviews_count": 8,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "m-wave"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.423916",
-      "original_price": 72.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Ghidon Touring/Trekking M-WAVE 600/25.4  mm Silver Anodizat",
-        "brand": {
-          "@type": "Brand",
-          "name": "M-WAVE"
-        },
-        "description": "AluminiuLungime 600 mmBar Center 25.4 mmRise 30 mmBack sweep 15*Testat ISO 4210",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "48.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/piese/ghidon-touring-trekking-m-wave-600-25-4-mm-silver-anodizat.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "m-wave",
-          "accesorii",
-          "ghidon",
-          "touring",
-          "trekking"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "m-wave ghidon touring/trekking m-wave 600/25.4  mm silver anodizat",
-          "ghidon touring/trekking m-wave 600/25.4  mm silver anodizat m-wave",
-          "accesorii m-wave"
-        ],
-        "voice_search_phrases": [
-          "where to buy ghidon touring/trekking m-wave 600/25.4  mm silver anodizat",
-          "best ghidon touring/trekking m-wave 600/25.4  mm silver anodizat price",
-          "how to install ghidon touring/trekking m-wave 600/25.4  mm silver anodizat"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "ghidon",
-            "touring",
-            "trekking",
-            "m",
-            "wave",
-            "600",
-            "25",
-            "4",
-            "mm",
-            "silver",
-            "anodizat"
-          ],
-          "en": [
-            "ghidon",
-            "touring",
-            "trekking",
-            "m",
-            "wave",
-            "600",
-            "25",
-            "4",
-            "mm",
-            "silver",
-            "anodizat"
-          ],
-          "de": [
-            "ghidon",
-            "touring",
-            "trekking",
-            "m",
-            "wave",
-            "600",
-            "25",
-            "4",
-            "mm",
-            "silver",
-            "anodizat"
-          ],
-          "hu": [
-            "ghidon",
-            "touring",
-            "trekking",
-            "m",
-            "wave",
-            "600",
-            "25",
-            "4",
-            "mm",
-            "silver",
-            "anodizat"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "ghidon-touringtrekking-sxt--580-254--mm-metal-negru",
-      "name": "Ghidon Touring/Trekking SXT  580 /25.4  mm Metal Negru",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 35.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100804",
-      "ean": "",
-      "description": "AluminiuLungime 600 mmBar Center 25.4 mmRise 30 mmBack sweep 15*Testat ISO 4210",
-      "url": "https://www.bikestylish.ro/piese/ghidon-touring-trekking-sxt-580-25-4-mm-metal-negru.html ",
-      "images": [],
-      "rating": 4.8,
-      "reviews_count": 9,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.423923",
-      "original_price": 52.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Ghidon Touring/Trekking SXT  580 /25.4  mm Metal Negru",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "AluminiuLungime 600 mmBar Center 25.4 mmRise 30 mmBack sweep 15*Testat ISO 4210",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "35.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/piese/ghidon-touring-trekking-sxt-580-25-4-mm-metal-negru.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "ghidon",
-          "touring",
-          "trekking"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt ghidon touring/trekking sxt  580 /25.4  mm metal negru",
-          "ghidon touring/trekking sxt  580 /25.4  mm metal negru sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy ghidon touring/trekking sxt  580 /25.4  mm metal negru",
-          "best ghidon touring/trekking sxt  580 /25.4  mm metal negru price",
-          "how to install ghidon touring/trekking sxt  580 /25.4  mm metal negru"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "ghidon",
-            "touring",
-            "trekking",
-            "sxt",
-            "580",
-            "25",
-            "4",
-            "mm",
-            "metal",
-            "negru"
-          ],
-          "en": [
-            "ghidon",
-            "touring",
-            "trekking",
-            "sxt",
-            "580",
-            "25",
-            "4",
-            "mm",
-            "metal",
-            "negru"
-          ],
-          "de": [
-            "ghidon",
-            "touring",
-            "trekking",
-            "sxt",
-            "580",
-            "25",
-            "4",
-            "mm",
-            "metal",
-            "negru"
-          ],
-          "hu": [
-            "ghidon",
-            "touring",
-            "trekking",
-            "sxt",
-            "580",
-            "25",
-            "4",
-            "mm",
-            "metal",
-            "negru"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "ghidon-trekking-m-wave--318-mm",
-      "name": "Ghidon Trekking M-WAVE  31.8 mm",
-      "brand": "M-WAVE",
-      "category": "accesorii",
-      "price": 200.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "100805",
-      "ean": "",
-      "description": "Bara aditionala 22,2 mm, care ofera spatiu pentru-bagaje, faruri, bike computere, oglinzi….AluminiuLungime 660 mmCentru–31.8 mm Back sweep 45*Rise 13 mm",
-      "url": "",
-      "images": [],
-      "rating": 4.9,
-      "reviews_count": 10,
-      "warranty": "24 luni",
-      "tags": [
-        "accesorii",
-        "m-wave"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.423928",
-      "original_price": 300.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Ghidon Trekking M-WAVE  31.8 mm",
-        "brand": {
-          "@type": "Brand",
-          "name": "M-WAVE"
-        },
-        "description": "Bara aditionala 22,2 mm, care ofera spatiu pentru-bagaje, faruri, bike computere, oglinzi….AluminiuLungime 660 mmCentru–31.8 mm Back sweep 45*Rise 13 mm",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "200.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "m-wave",
-          "accesorii",
-          "ghidon",
-          "trekking",
-          "m"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "m-wave ghidon trekking m-wave  31.8 mm",
-          "ghidon trekking m-wave  31.8 mm m-wave",
-          "accesorii m-wave"
-        ],
-        "voice_search_phrases": [
-          "where to buy ghidon trekking m-wave  31.8 mm",
-          "best ghidon trekking m-wave  31.8 mm price",
-          "how to install ghidon trekking m-wave  31.8 mm"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "ghidon",
-            "trekking",
-            "m",
-            "wave",
-            "31",
-            "8",
-            "mm"
-          ],
-          "en": [
-            "ghidon",
-            "trekking",
-            "m",
-            "wave",
-            "31",
-            "8",
-            "mm"
-          ],
-          "de": [
-            "ghidon",
-            "trekking",
-            "m",
-            "wave",
-            "31",
-            "8",
-            "mm"
-          ],
-          "hu": [
-            "ghidon",
-            "trekking",
-            "m",
-            "wave",
-            "31",
-            "8",
-            "mm"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "ghidon-touring--zoom-590254--mm",
-      "name": "Ghidon Touring  ZOOM 590/25.4  mm",
-      "brand": "Ghidon",
-      "category": "accesorii",
-      "price": 75.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "100806",
-      "ean": "",
-      "description": "AluminiuLungime 590 mmBar Center 25.4 mmBack sweep 33*Rise 26 mm",
-      "url": "",
-      "images": [],
-      "rating": 4.0,
-      "reviews_count": 11,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ghidon"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.423936",
-      "original_price": 112.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Ghidon Touring  ZOOM 590/25.4  mm",
-        "brand": {
-          "@type": "Brand",
-          "name": "Ghidon"
-        },
-        "description": "AluminiuLungime 590 mmBar Center 25.4 mmBack sweep 33*Rise 26 mm",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "75.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ghidon",
-          "accesorii",
-          "ghidon",
-          "touring",
-          "zoom"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ghidon ghidon touring  zoom 590/25.4  mm",
-          "ghidon touring  zoom 590/25.4  mm ghidon",
-          "accesorii ghidon"
-        ],
-        "voice_search_phrases": [
-          "where to buy ghidon touring  zoom 590/25.4  mm",
-          "best ghidon touring  zoom 590/25.4  mm price",
-          "how to install ghidon touring  zoom 590/25.4  mm"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "ghidon",
-            "touring",
-            "zoom",
-            "590",
-            "25",
-            "4",
-            "mm"
-          ],
-          "en": [
-            "ghidon",
-            "touring",
-            "zoom",
-            "590",
-            "25",
-            "4",
-            "mm"
-          ],
-          "de": [
-            "ghidon",
-            "touring",
-            "zoom",
-            "590",
-            "25",
-            "4",
-            "mm"
-          ],
-          "hu": [
-            "ghidon",
-            "touring",
-            "zoom",
-            "590",
-            "25",
-            "4",
-            "mm"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "ghidon-touring-sxt-metal-negru",
-      "name": "Ghidon Touring SXT Metal Negru",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 53.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "100807",
-      "ean": "",
-      "description": "MetalCuloare NegruLungime 600 mmRise 60 mmDiametrul 22.2/25.4 mm",
-      "url": "",
-      "images": [],
-      "rating": 4.1,
-      "reviews_count": 12,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.423941",
-      "original_price": 79.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Ghidon Touring SXT Metal Negru",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "MetalCuloare NegruLungime 600 mmRise 60 mmDiametrul 22.2/25.4 mm",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "53.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "ghidon",
-          "touring",
-          "sxt"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt ghidon touring sxt metal negru",
-          "ghidon touring sxt metal negru sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy ghidon touring sxt metal negru",
-          "best ghidon touring sxt metal negru price",
-          "how to install ghidon touring sxt metal negru"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "ghidon",
-            "touring",
-            "sxt",
-            "metal",
-            "negru"
-          ],
-          "en": [
-            "ghidon",
-            "touring",
-            "sxt",
-            "metal",
-            "negru"
-          ],
-          "de": [
-            "ghidon",
-            "touring",
-            "sxt",
-            "metal",
-            "negru"
-          ],
-          "hu": [
-            "ghidon",
-            "touring",
-            "sxt",
-            "metal",
-            "negru"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
     }
-  ]
+  ],
+  "total_count": 200,
+  "last_updated": "2025-08-07T19:00:00.000000"
 }

@@ -1,116 +1,116 @@
 {
-  "last_updated": "2025-07-28T22:20:15.802818",
-  "total_brands": 20,
+  "last_updated": "2025-08-07T18:00:00.000000",
+  "total_brands": 37,
   "brands": [
     {
-      "name": "Ureche",
-      "product_count": 895,
+      "name": "Pilo",
+      "product_count": 888,
       "categories": [
         "accesorii"
       ],
       "price_range": {
-        "min": 45.0,
+        "min": 87.0,
         "max": 450.0,
-        "avg": 210.74,
+        "avg": 211.7,
         "currency": "RON"
       },
       "origin": "Unknown",
-      "avg_rating": 4.5,
-      "description": "Produse de calitate Ureche"
+      "description": "Produse de calitate Pilo",
+      "avg_rating": 4.4
     },
     {
       "name": "M-WAVE",
-      "product_count": 812,
+      "product_count": 814,
       "categories": [
         "accesorii",
-        "piese-schimb",
-        "biciclete"
+        "biciclete",
+        "piese-schimb"
       ],
       "price_range": {
         "min": 0.3,
         "max": 2250.0,
-        "avg": 90.16,
+        "avg": 90.08,
         "currency": "RON"
       },
       "origin": "Germany",
-      "avg_rating": 4.4,
-      "description": "Produse de calitate M-Wave"
+      "description": "Brand german distribuit de Messingschlager, cunoscut pentru gama sa extinsă de accesorii și componente pentru biciclete, cu peste 1000 de produse în portofoliu.",
+      "avg_rating": 4.9
     },
     {
       "name": "SXT",
-      "product_count": 653,
+      "product_count": 654,
       "categories": [
         "accesorii",
-        "piese-schimb",
-        "biciclete"
+        "biciclete",
+        "piese-schimb"
       ],
       "price_range": {
         "min": 1.0,
         "max": 4750.0,
-        "avg": 178.26,
+        "avg": 178.2,
         "currency": "RON"
       },
-      "origin": "Romania",
-      "avg_rating": 4.8,
-      "description": "Produse de calitate Sxt"
+      "origin": "Unknown",
+      "description": "Produse de calitate SXT",
+      "avg_rating": 4.9
     },
     {
       "name": "VELO",
-      "product_count": 326,
+      "product_count": 327,
       "categories": [
-        "biciclete",
         "accesorii",
+        "biciclete",
         "piese-schimb"
       ],
       "price_range": {
         "min": 18.0,
         "max": 5999.0,
-        "avg": 202.48,
+        "avg": 202.11,
         "currency": "RON"
       },
-      "origin": "Unknown",
-      "avg_rating": 4.8,
-      "description": "Produse de calitate Velo"
+      "origin": "Taiwan",
+      "description": "Brand taiwanez fondat în 1979, specializat în producția de șei și accesorii ergonomice pentru biciclete, cu tehnologia proprie Velo AtmosFoam.",
+      "avg_rating": 4.6
     },
     {
       "name": "SHIMANO",
-      "product_count": 294,
+      "product_count": 297,
       "categories": [
         "accesorii"
       ],
       "price_range": {
         "min": 10.0,
-        "max": 795.0,
-        "avg": 196.27,
+        "max": 999.0,
+        "avg": 199.71,
         "currency": "RON"
       },
       "origin": "Japan",
-      "avg_rating": 4.2,
-      "description": "Produse de calitate Shimano"
+      "description": "Brand japonez legendar, fondat în 1921, recunoscut drept lider mondial în producția de componente pentru biciclete. Revoluționează industria cu inovații precum grupul DURA-ACE și sistemele electronice Di2.",
+      "avg_rating": 4.5
     },
     {
-      "name": "Spita",
-      "product_count": 270,
+      "name": "NOVATEC",
+      "product_count": 163,
       "categories": [
         "accesorii"
       ],
       "price_range": {
-        "min": 0.3,
-        "max": 10.0,
-        "avg": 0.9,
+        "min": 16.0,
+        "max": 2500.0,
+        "avg": 364.69,
         "currency": "RON"
       },
-      "origin": "Unknown",
-      "avg_rating": 4.5,
-      "description": "Produse de calitate Spita"
+      "origin": "Taiwan",
+      "description": "Brand taiwanez fondat în 1989, recunoscut pentru producția de roți și butuci de înaltă performanță pentru biciclete, cu certificare ISO 9001.",
+      "avg_rating": 4.7
     },
     {
       "name": "KENDA",
       "product_count": 151,
       "categories": [
         "accesorii",
-        "piese-schimb",
-        "biciclete"
+        "biciclete",
+        "piese-schimb"
       ],
       "price_range": {
         "min": 4.0,
@@ -119,40 +119,24 @@
         "currency": "RON"
       },
       "origin": "Taiwan",
-      "avg_rating": 4.7,
-      "description": "Produse de calitate Kenda"
+      "description": "Brand taiwanez fondat în 1962, unul dintre cei mai mari producători globali de anvelope pentru biciclete, prezent în peste 150 de țări.",
+      "avg_rating": 4.1
     },
     {
-      "name": "Butuc",
-      "product_count": 148,
+      "name": "HT",
+      "product_count": 137,
       "categories": [
         "accesorii"
       ],
       "price_range": {
-        "min": 25.0,
+        "min": 32.0,
         "max": 999.0,
-        "avg": 368.45,
+        "avg": 385.81,
         "currency": "RON"
       },
-      "origin": "Unknown",
-      "avg_rating": 4.7,
-      "description": "Produse de calitate Butuc"
-    },
-    {
-      "name": "Pedale",
-      "product_count": 146,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 25.0,
-        "max": 999.0,
-        "avg": 363.52,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "avg_rating": 4.7,
-      "description": "Produse de calitate Pedale"
+      "origin": "Taiwan",
+      "description": "Brand taiwanez fondat în 2005, specializat în producția de pedale de înaltă performanță pentru MTB, BMX și ciclism de șosea, partener oficial pentru atleți de top.",
+      "avg_rating": 4.9
     },
     {
       "name": "VENTURA",
@@ -167,177 +151,471 @@
         "avg": 64.47,
         "currency": "RON"
       },
-      "origin": "Unknown",
-      "avg_rating": 4.9,
-      "description": "Produse de calitate Ventura"
+      "origin": "Germany",
+      "description": "Brand european cunoscut pentru gama sa accesibilă de accesorii și componente pentru biciclete, parte din portofoliul distribuitorului german Point Bike.",
+      "avg_rating": 4.9
     },
     {
-      "name": "Cheie",
-      "product_count": 97,
+      "name": "SUPER B",
+      "product_count": 96,
       "categories": [
         "accesorii"
       ],
       "price_range": {
-        "min": 18.0,
-        "max": 350.0,
-        "avg": 76.53,
+        "min": 12.0,
+        "max": 420.0,
+        "avg": 93.48,
         "currency": "RON"
       },
-      "origin": "Unknown",
-      "avg_rating": 4.5,
-      "description": "Produse de calitate Cheie"
+      "origin": "Taiwan",
+      "description": "Brand taiwanez cu peste 20 de ani de experiență, specializat în producția de scule profesionale pentru întreținerea și repararea bicicletelor.",
+      "avg_rating": 4.9
     },
     {
-      "name": "Lant",
-      "product_count": 73,
+      "name": "AUTHOR",
+      "product_count": 85,
+      "categories": [
+        "accesorii",
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 20.0,
+        "max": 199.0,
+        "avg": 61.72,
+        "currency": "RON"
+      },
+      "origin": "Czech Republic",
+      "description": "Brand ceh fondat în 1993, specializat în producția de biciclete, componente și accesorii de înaltă calitate, prezent în peste 20 de țări.",
+      "avg_rating": 4.3
+    },
+    {
+      "name": "KMC",
+      "product_count": 74,
       "categories": [
         "accesorii"
       ],
       "price_range": {
         "min": 25.0,
         "max": 675.0,
-        "avg": 249.15,
+        "avg": 235.97,
         "currency": "RON"
       },
-      "origin": "Unknown",
-      "avg_rating": 4.2,
-      "description": "Produse de calitate Lant"
+      "origin": "Taiwan",
+      "description": "Brand taiwanez fondat în 1977, devenit lider mondial în producția de lanțuri pentru biciclete, compatibile cu transmisiile Shimano, SRAM și Campagnolo.",
+      "avg_rating": 4.9
     },
     {
-      "name": "Camera",
-      "product_count": 71,
-      "categories": [
-        "piese-schimb",
-        "biciclete"
-      ],
-      "price_range": {
-        "min": 10.0,
-        "max": 170.0,
-        "avg": 29.41,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "avg_rating": 4.3,
-      "description": "Produse de calitate Camera"
-    },
-    {
-      "name": "Set",
-      "product_count": 67,
+      "name": "VITTORIA",
+      "product_count": 64,
       "categories": [
         "accesorii",
         "biciclete"
       ],
       "price_range": {
-        "min": 10.0,
-        "max": 1299.0,
-        "avg": 130.32,
+        "min": 15.0,
+        "max": 675.0,
+        "avg": 134.98,
         "currency": "RON"
       },
-      "origin": "Unknown",
-      "avg_rating": 4.0,
-      "description": "Produse de calitate Set"
+      "origin": "Italy",
+      "description": "Brand italian fondat în 1953, recunoscut la nivel mondial pentru anvelopele sale de înaltă performanță, primul producător care a integrat grafenul în structura anvelopelor.",
+      "avg_rating": 4.5
     },
     {
-      "name": "Janta",
-      "product_count": 53,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 75.0,
-        "max": 215.0,
-        "avg": 144.53,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "avg_rating": 4.2,
-      "description": "Produse de calitate Janta"
-    },
-    {
-      "name": "Kit",
-      "product_count": 43,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 10.0,
-        "max": 8500.0,
-        "avg": 820.41,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "avg_rating": 4.6,
-      "description": "Produse de calitate Kit"
-    },
-    {
-      "name": "Manusi",
-      "product_count": 41,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 49.0,
-        "max": 125.0,
-        "avg": 59.46,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "avg_rating": 4.9,
-      "description": "Produse de calitate Manusi"
-    },
-    {
-      "name": "Suport",
-      "product_count": 39,
-      "categories": [
-        "accesorii",
-        "biciclete"
-      ],
-      "price_range": {
-        "min": 3.0,
-        "max": 1290.0,
-        "avg": 127.15,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "avg_rating": 4.7,
-      "description": "Produse de calitate Suport"
-    },
-    {
-      "name": "Pinion",
-      "product_count": 35,
+      "name": "SAMOX",
+      "product_count": 63,
       "categories": [
         "accesorii"
       ],
       "price_range": {
         "min": 20.0,
-        "max": 699.0,
-        "avg": 170.11,
+        "max": 550.0,
+        "avg": 120.54,
         "currency": "RON"
       },
       "origin": "Unknown",
-      "avg_rating": 4.9,
-      "description": "Produse de calitate Pinion"
+      "description": "Produse de calitate SAMOX",
+      "avg_rating": 4.1
     },
     {
-      "name": "TREK",
-      "product_count": 30,
+      "name": "MACH1",
+      "product_count": 55,
       "categories": [
         "accesorii"
       ],
       "price_range": {
-        "min": 110.0,
-        "max": 350.0,
-        "avg": 185.1,
+        "min": 0.6,
+        "max": 210.0,
+        "avg": 95.4,
         "currency": "RON"
       },
-      "origin": "USA",
-      "avg_rating": 4.8,
-      "description": "Produse de calitate Trek"
+      "origin": "Unknown",
+      "description": "Produse de calitate MACH1",
+      "avg_rating": 4.0
+    },
+    {
+      "name": "SUNRACE",
+      "product_count": 51,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 18.0,
+        "max": 699.0,
+        "avg": 158.75,
+        "currency": "RON"
+      },
+      "origin": "Taiwan",
+      "description": "Brand taiwanez fondat în 1972, devenit un jucător important în industria componentelor pentru biciclete, în special în domeniul transmisiilor.",
+      "avg_rating": 4.8
+    },
+    {
+      "name": "PROMAX",
+      "product_count": 47,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 6.0,
+        "max": 280.0,
+        "avg": 72.15,
+        "currency": "RON"
+      },
+      "origin": "Taiwan",
+      "description": "Brand taiwanez cu o tradiție de peste 30 de ani în producția de componente pentru biciclete, specializat în sisteme de frânare, pipe și ghidoane.",
+      "avg_rating": 4.5
+    },
+    {
+      "name": "DEDA",
+      "product_count": 34,
+      "categories": [
+        "accesorii",
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 59.0,
+        "max": 330.0,
+        "avg": 99.21,
+        "currency": "RON"
+      },
+      "origin": "Italy",
+      "description": "Marcă italiană de prestigiu, fondată în 1992, specializată în producția de componente premium pentru biciclete din Campagnola Cremasca, Italia.",
+      "avg_rating": 4.2
+    },
+    {
+      "name": "ZOOM",
+      "product_count": 32,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 55.0,
+        "max": 299.0,
+        "avg": 104.19,
+        "currency": "RON"
+      },
+      "origin": "Taiwan",
+      "description": "Brand taiwanez cu o tradiție de peste 30 de ani în producția de componente pentru biciclete, specializat în ghidoane, pipe, tije de șa și alte piese de cockpit.",
+      "avg_rating": 4.1
+    },
+    {
+      "name": "EXTEND",
+      "product_count": 24,
+      "categories": [
+        "accesorii",
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 10.0,
+        "max": 225.0,
+        "avg": 59.0,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "description": "Produse de calitate EXTEND",
+      "avg_rating": 4.4
+    },
+    {
+      "name": "EXUSTAR",
+      "product_count": 22,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 34.0,
+        "max": 11000.0,
+        "avg": 689.41,
+        "currency": "RON"
+      },
+      "origin": "Taiwan",
+      "description": "Brand taiwanez fondat în 2002, specializat în producția de pantofi, pedale și accesorii pentru ciclism de performanță, distribuit în peste 50 de țări.",
+      "avg_rating": 4.5
+    },
+    {
+      "name": "BETO",
+      "product_count": 21,
+      "categories": [
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 25.0,
+        "max": 425.0,
+        "avg": 109.19,
+        "currency": "RON"
+      },
+      "origin": "Taiwan",
+      "description": "Brand taiwanez fondat în 1989, specializat în producția de accesorii și echipamente pentru biciclete, renumit la nivel global pentru pompe și scule multifuncționale.",
+      "avg_rating": 4.6
+    },
+    {
+      "name": "KUJO",
+      "product_count": 19,
+      "categories": [
+        "biciclete",
+        "piese-schimb"
+      ],
+      "price_range": {
+        "min": 10.0,
+        "max": 45.0,
+        "avg": 20.32,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "description": "Produse de calitate KUJO",
+      "avg_rating": 4.8
+    },
+    {
+      "name": "Smart",
+      "product_count": 17,
+      "categories": [
+        "accesorii",
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 25.0,
+        "max": 299.0,
+        "avg": 78.71,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "description": "Produse de calitate Smart",
+      "avg_rating": 4.7
+    },
+    {
+      "name": "TANNUS",
+      "product_count": 16,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 195.0,
+        "max": 269.0,
+        "avg": 235.12,
+        "currency": "RON"
+      },
+      "origin": "South Korea",
+      "description": "Brand inovator din Coreea de Sud, recunoscut pentru soluțiile sale anti-pană dedicate bicicletelor, cu anvelope 100% solide și inserții de protecție.",
+      "avg_rating": 4.9
+    },
+    {
+      "name": "NECO",
+      "product_count": 15,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 32.0,
+        "max": 40.0,
+        "avg": 36.13,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "description": "Produse de calitate NECO",
+      "avg_rating": 4.5
+    },
+    {
+      "name": "CST",
+      "product_count": 14,
+      "categories": [
+        "biciclete",
+        "piese-schimb"
+      ],
+      "price_range": {
+        "min": 15.0,
+        "max": 55.0,
+        "avg": 27.79,
+        "currency": "RON"
+      },
+      "origin": "Taiwan",
+      "description": "CST Tires este unul dintre cei mai mari producători de anvelope din lume, cu o istorie ce începe în 1967, prezent în peste 150 de țări.",
+      "avg_rating": 4.0
+    },
+    {
+      "name": "BAFANG",
+      "product_count": 10,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 50.0,
+        "max": 5900.0,
+        "avg": 1337.3,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "description": "Produse de calitate BAFANG",
+      "avg_rating": 4.5
+    },
+    {
+      "name": "AN LUN",
+      "product_count": 9,
+      "categories": [
+        "accesorii",
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 18.0,
+        "max": 199.0,
+        "avg": 62.67,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "description": "Produse de calitate AN LUN",
+      "avg_rating": 4.1
+    },
+    {
+      "name": "MOTUL",
+      "product_count": 9,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 46.0,
+        "max": 3000.0,
+        "avg": 518.44,
+        "currency": "RON"
+      },
+      "origin": "France",
+      "description": "Brand francez cu o tradiție de peste 170 de ani, recunoscut pentru excelența în lubrifianți și produse de întreținere pentru biciclete.",
+      "avg_rating": 4.0
+    },
+    {
+      "name": "MOON",
+      "product_count": 7,
+      "categories": [
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 85.0,
+        "max": 1100.0,
+        "avg": 268.14,
+        "currency": "RON"
+      },
+      "origin": "Hong Kong",
+      "description": "Brand fondat în Hong Kong acum peste 25 de ani, specializat în producția de lumini performante pentru biciclete cu premii prestigioase precum iF Design Award.",
+      "avg_rating": 4.0
+    },
+    {
+      "name": "BELELLI",
+      "product_count": 6,
+      "categories": [
+        "accesorii",
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 110.0,
+        "max": 320.0,
+        "avg": 232.83,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "description": "Produse de calitate BELELLI",
+      "avg_rating": 4.6
+    },
+    {
+      "name": "MICHE",
+      "product_count": 6,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 90.0,
+        "max": 999.0,
+        "avg": 361.5,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "description": "Produse de calitate MICHE",
+      "avg_rating": 4.8
+    },
+    {
+      "name": "LaSalle Sports",
+      "product_count": 4,
+      "categories": [
+        "biciclete"
+      ],
+      "price_range": {
+        "min": 60.0,
+        "max": 99.0,
+        "avg": 69.75,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "description": "Produse de calitate LaSalle Sports",
+      "avg_rating": 4.3
+    },
+    {
+      "name": "REMERX",
+      "product_count": 3,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 150.0,
+        "max": 199.0,
+        "avg": 166.33,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "description": "Produse de calitate REMERX",
+      "avg_rating": 4.0
+    },
+    {
+      "name": "CN SPOKE",
+      "product_count": 1,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 60.0,
+        "max": 60.0,
+        "avg": 60.0,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "description": "Produse de calitate CN SPOKE",
+      "avg_rating": 4.4
+    },
+    {
+      "name": "MIGHTY",
+      "product_count": 1,
+      "categories": [
+        "accesorii"
+      ],
+      "price_range": {
+        "min": 350.0,
+        "max": 350.0,
+        "avg": 350.0,
+        "currency": "RON"
+      },
+      "origin": "Unknown",
+      "description": "Produse de calitate MIGHTY",
+      "avg_rating": 4.2
     }
   ],
   "statistics": {
-    "most_products": "Ureche",
-    "countries_represented": 5,
-    "total_products": 4353
+    "most_products": "Pilo",
+    "countries_represented": 8,
+    "total_products": 4345
   }
 }

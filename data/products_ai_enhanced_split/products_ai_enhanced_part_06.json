@@ -1,113 +1,2456 @@
 {
-  "last_updated": "2025-07-28T22:39:01.000000",
-  "total_products": 203,
-  "version": "2.0.0",
-  "source": "bikestylish.ro",
-  "part_info": {
-    "part_number": 6,
-    "total_parts": 27,
-    "products_range": "1016-1218"
-  },
-  "categories": [
-    {
-      "id": "accesorii",
-      "name": "Accesorii",
-      "count": 4326
-    },
-    {
-      "id": "biciclete",
-      "name": "Biciclete",
-      "count": 779
-    },
-    {
-      "id": "piese-schimb",
-      "name": "Piese de Schimb",
-      "count": 332
-    }
-  ],
-  "brands": [
-    {
-      "name": "Ureche",
-      "product_count": 895
-    },
-    {
-      "name": "M-WAVE",
-      "product_count": 812
-    },
-    {
-      "name": "SXT",
-      "product_count": 653
-    },
-    {
-      "name": "VELO",
-      "product_count": 326
-    },
-    {
-      "name": "SHIMANO",
-      "product_count": 294
-    },
-    {
-      "name": "Spita",
-      "product_count": 270
-    },
-    {
-      "name": "KENDA",
-      "product_count": 151
-    },
-    {
-      "name": "Butuc",
-      "product_count": 148
-    },
-    {
-      "name": "Pedale",
-      "product_count": 146
-    },
-    {
-      "name": "VENTURA",
-      "product_count": 109
-    },
-    {
-      "name": "Cheie",
-      "product_count": 97
-    },
-    {
-      "name": "Lant",
-      "product_count": 73
-    },
-    {
-      "name": "Camera",
-      "product_count": 71
-    },
-    {
-      "name": "Set",
-      "product_count": 67
-    },
-    {
-      "name": "Janta",
-      "product_count": 53
-    },
-    {
-      "name": "Kit",
-      "product_count": 43
-    },
-    {
-      "name": "Manusi",
-      "product_count": 41
-    },
-    {
-      "name": "Suport",
-      "product_count": 39
-    },
-    {
-      "name": "Pinion",
-      "product_count": 35
-    },
-    {
-      "name": "TREK",
-      "product_count": 30
-    }
-  ],
   "products": [
+    {
+      "id": "cos-metal-copii-m-wave-negru",
+      "name": "Cos Metal Copii M-WAVE Negru",
+      "brand": "M-WAVE",
+      "category": "biciclete",
+      "price": 25.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100995",
+      "ean": "",
+      "description": "Montare universala pe ghidonDin plasa fina acoperita cu vopsea plasticataDimensiuni 24x15x14,5 cm",
+      "url": "",
+      "images": [],
+      "rating": 4.0,
+      "reviews_count": 1,
+      "warranty": "12 luni",
+      "tags": [
+        "biciclete",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425111",
+      "original_price": 37.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cos Metal Copii M-WAVE Negru",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "Montare universala pe ghidonDin plasa fina acoperita cu vopsea plasticataDimensiuni 24x15x14,5 cm",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "25.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "children_cycling"
+        ],
+        "target_audience": [
+          "children"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "biciclete",
+          "cos",
+          "metal",
+          "copii"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave cos metal copii m-wave negru",
+          "cos metal copii m-wave negru m-wave",
+          "biciclete m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy cos metal copii m-wave negru",
+          "best cos metal copii m-wave negru price",
+          "how to install cos metal copii m-wave negru"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "cos",
+            "metal",
+            "copii",
+            "m",
+            "wave",
+            "negru"
+          ],
+          "en": [
+            "cos",
+            "metal",
+            "copii",
+            "m",
+            "wave",
+            "negru"
+          ],
+          "de": [
+            "cos",
+            "metal",
+            "copii",
+            "m",
+            "wave",
+            "negru"
+          ],
+          "hu": [
+            "cos",
+            "metal",
+            "copii",
+            "m",
+            "wave",
+            "negru"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "cos-metal-copii-m-wave-albastru",
+      "name": "Cos Metal Copii M-WAVE Albastru",
+      "brand": "M-WAVE",
+      "category": "biciclete",
+      "price": 30.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100996",
+      "ean": "",
+      "description": "Montare universala pe ghidonDin plasa fina acoperita cu vopsea plasticataDimensiuni 24x15x14,5 cm",
+      "url": "https://www.bikestylish.ro/copii1iunie/cos-metal-copii-m-wave-albastru.html ",
+      "images": [],
+      "rating": 4.1,
+      "reviews_count": 2,
+      "warranty": "12 luni",
+      "tags": [
+        "biciclete",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425116",
+      "original_price": 45.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cos Metal Copii M-WAVE Albastru",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "Montare universala pe ghidonDin plasa fina acoperita cu vopsea plasticataDimensiuni 24x15x14,5 cm",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "30.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/copii1iunie/cos-metal-copii-m-wave-albastru.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "children_cycling"
+        ],
+        "target_audience": [
+          "children"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "biciclete",
+          "cos",
+          "metal",
+          "copii"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave cos metal copii m-wave albastru",
+          "cos metal copii m-wave albastru m-wave",
+          "biciclete m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy cos metal copii m-wave albastru",
+          "best cos metal copii m-wave albastru price",
+          "how to install cos metal copii m-wave albastru"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "cos",
+            "metal",
+            "copii",
+            "m",
+            "wave",
+            "albastru"
+          ],
+          "en": [
+            "cos",
+            "metal",
+            "copii",
+            "m",
+            "wave",
+            "albastru"
+          ],
+          "de": [
+            "cos",
+            "metal",
+            "copii",
+            "m",
+            "wave",
+            "albastru"
+          ],
+          "hu": [
+            "cos",
+            "metal",
+            "copii",
+            "m",
+            "wave",
+            "albastru"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "cos-metal-copii-m-wave-roz",
+      "name": "Cos Metal Copii M-WAVE Roz",
+      "brand": "M-WAVE",
+      "category": "biciclete",
+      "price": 30.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100997",
+      "ean": "",
+      "description": "Montare universala pe ghidonDin plasa fina acoperita cu vopsea plasticataDimensiuni 24x15x14,5 cm",
+      "url": "https://www.bikestylish.ro/copii1iunie/cos-metal-copii-m-wave-roz.html ",
+      "images": [],
+      "rating": 4.2,
+      "reviews_count": 3,
+      "warranty": "12 luni",
+      "tags": [
+        "biciclete",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425121",
+      "original_price": 45.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cos Metal Copii M-WAVE Roz",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "Montare universala pe ghidonDin plasa fina acoperita cu vopsea plasticataDimensiuni 24x15x14,5 cm",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "30.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/copii1iunie/cos-metal-copii-m-wave-roz.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "children_cycling"
+        ],
+        "target_audience": [
+          "children"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "biciclete",
+          "cos",
+          "metal",
+          "copii"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave cos metal copii m-wave roz",
+          "cos metal copii m-wave roz m-wave",
+          "biciclete m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy cos metal copii m-wave roz",
+          "best cos metal copii m-wave roz price",
+          "how to install cos metal copii m-wave roz"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "cos",
+            "metal",
+            "copii",
+            "m",
+            "wave",
+            "roz"
+          ],
+          "en": [
+            "cos",
+            "metal",
+            "copii",
+            "m",
+            "wave",
+            "roz"
+          ],
+          "de": [
+            "cos",
+            "metal",
+            "copii",
+            "m",
+            "wave",
+            "roz"
+          ],
+          "hu": [
+            "cos",
+            "metal",
+            "copii",
+            "m",
+            "wave",
+            "roz"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "cos-plastic-m-wave-albastru",
+      "name": "Cos Plastic M-WAVE Albastru",
+      "brand": "M-WAVE",
+      "category": "biciclete",
+      "price": 18.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100998",
+      "ean": "",
+      "description": "Plastic de inalta calitateSuport universal de prindereReglare rapida a elementelor de fixareMontare pe ghidon sau portbagajDimensiuni-20 x 14 x 13 cm",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/cos-plastic-m-wave-albastru.html ",
+      "images": [],
+      "rating": 4.3,
+      "reviews_count": 4,
+      "warranty": "12 luni",
+      "tags": [
+        "biciclete",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425126",
+      "original_price": 27.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cos Plastic M-WAVE Albastru",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "Plastic de inalta calitateSuport universal de prindereReglare rapida a elementelor de fixareMontare pe ghidon sau portbagajDimensiuni-20 x 14 x 13 cm",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "18.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/cos-plastic-m-wave-albastru.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "biciclete",
+          "cos",
+          "plastic",
+          "m"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave cos plastic m-wave albastru",
+          "cos plastic m-wave albastru m-wave",
+          "biciclete m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy cos plastic m-wave albastru",
+          "best cos plastic m-wave albastru price",
+          "how to install cos plastic m-wave albastru"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "cos",
+            "plastic",
+            "m",
+            "wave",
+            "albastru"
+          ],
+          "en": [
+            "cos",
+            "plastic",
+            "m",
+            "wave",
+            "albastru"
+          ],
+          "de": [
+            "cos",
+            "plastic",
+            "m",
+            "wave",
+            "albastru"
+          ],
+          "hu": [
+            "cos",
+            "plastic",
+            "m",
+            "wave",
+            "albastru"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "cos-plastic-m-wave-rosu",
+      "name": "Cos Plastic M-WAVE Rosu",
+      "brand": "M-WAVE",
+      "category": "biciclete",
+      "price": 18.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100999",
+      "ean": "",
+      "description": "Plastic de inalta calitateSuport universal de prindereReglare rapida a elementelor de fixareMontare pe ghidon sau portbagajDimensiuni-20 x 14 x 13 cm",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/cos-plastic-m-wave-rosu.html ",
+      "images": [],
+      "rating": 4.4,
+      "reviews_count": 5,
+      "warranty": "12 luni",
+      "tags": [
+        "biciclete",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425131",
+      "original_price": 27.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cos Plastic M-WAVE Rosu",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "Plastic de inalta calitateSuport universal de prindereReglare rapida a elementelor de fixareMontare pe ghidon sau portbagajDimensiuni-20 x 14 x 13 cm",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "18.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/cos-plastic-m-wave-rosu.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "biciclete",
+          "cos",
+          "plastic",
+          "m"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave cos plastic m-wave rosu",
+          "cos plastic m-wave rosu m-wave",
+          "biciclete m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy cos plastic m-wave rosu",
+          "best cos plastic m-wave rosu price",
+          "how to install cos plastic m-wave rosu"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "cos",
+            "plastic",
+            "m",
+            "wave",
+            "rosu"
+          ],
+          "en": [
+            "cos",
+            "plastic",
+            "m",
+            "wave",
+            "rosu"
+          ],
+          "de": [
+            "cos",
+            "plastic",
+            "m",
+            "wave",
+            "rosu"
+          ],
+          "hu": [
+            "cos",
+            "plastic",
+            "m",
+            "wave",
+            "rosu"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "cos-plastic-m-wave-20x135x125-cm-roz",
+      "name": "Cos Plastic M-WAVE (20x13,5x12,5 cm) Roz",
+      "brand": "M-WAVE",
+      "category": "biciclete",
+      "price": 18.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "101000",
+      "ean": "",
+      "description": "Plastic de inalta calitateSuport universal de prindereReglare rapida a elementelor de fixareMontare pe ghidon sau portbagajDimensiuni-20 x 14 x 13 cm",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/cos-plastic-m-wave-20x13-5x12-5-cm-roz.html ",
+      "images": [],
+      "rating": 4.5,
+      "reviews_count": 6,
+      "warranty": "12 luni",
+      "tags": [
+        "biciclete",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425137",
+      "original_price": 27.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cos Plastic M-WAVE (20x13,5x12,5 cm) Roz",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "Plastic de inalta calitateSuport universal de prindereReglare rapida a elementelor de fixareMontare pe ghidon sau portbagajDimensiuni-20 x 14 x 13 cm",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "18.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/cos-plastic-m-wave-20x13-5x12-5-cm-roz.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [
+          "size_20x13",
+          "size_5x12"
+        ],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "biciclete",
+          "cos",
+          "plastic",
+          "m"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave cos plastic m-wave (20x13,5x12,5 cm) roz",
+          "cos plastic m-wave (20x13,5x12,5 cm) roz m-wave",
+          "biciclete m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy cos plastic m-wave (20x13,5x12,5 cm) roz",
+          "best cos plastic m-wave (20x13,5x12,5 cm) roz price",
+          "how to install cos plastic m-wave (20x13,5x12,5 cm) roz"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "cos",
+            "plastic",
+            "m",
+            "wave",
+            "20x13",
+            "5x12",
+            "5",
+            "cm",
+            "roz"
+          ],
+          "en": [
+            "cos",
+            "plastic",
+            "m",
+            "wave",
+            "20x13",
+            "5x12",
+            "5",
+            "cm",
+            "roz"
+          ],
+          "de": [
+            "cos",
+            "plastic",
+            "m",
+            "wave",
+            "20x13",
+            "5x12",
+            "5",
+            "cm",
+            "roz"
+          ],
+          "hu": [
+            "cos",
+            "plastic",
+            "m",
+            "wave",
+            "20x13",
+            "5x12",
+            "5",
+            "cm",
+            "roz"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "set-accesorii-copii-ventura-roz",
+      "name": "Set Accesorii Copii VENTURA Roz",
+      "brand": "VENTURA",
+      "category": "biciclete",
+      "price": 55.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "101001",
+      "ean": "",
+      "description": "Material plasticSetul contine: Cos plastic Bidon si suport bidon Sonerie metalSistem de expunere pe carton",
+      "url": "https://www.bikestylish.ro/copii1iunie/set-accesorii-copii-ventura-roz.html ",
+      "images": [],
+      "rating": 4.6,
+      "reviews_count": 7,
+      "warranty": "12 luni",
+      "tags": [
+        "biciclete",
+        "ventura"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425144",
+      "original_price": 82.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Set Accesorii Copii VENTURA Roz",
+        "brand": {
+          "@type": "Brand",
+          "name": "VENTURA"
+        },
+        "description": "Material plasticSetul contine: Cos plastic Bidon si suport bidon Sonerie metalSistem de expunere pe carton",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "55.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/copii1iunie/set-accesorii-copii-ventura-roz.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "children_cycling"
+        ],
+        "target_audience": [
+          "children"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "ventura",
+          "biciclete",
+          "set",
+          "accesorii",
+          "copii"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "ventura set accesorii copii ventura roz",
+          "set accesorii copii ventura roz ventura",
+          "biciclete ventura"
+        ],
+        "voice_search_phrases": [
+          "where to buy set accesorii copii ventura roz",
+          "best set accesorii copii ventura roz price",
+          "how to install set accesorii copii ventura roz"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "set",
+            "accesorii",
+            "copii",
+            "ventura",
+            "roz"
+          ],
+          "en": [
+            "set",
+            "accessories",
+            "copii",
+            "ventura",
+            "roz"
+          ],
+          "de": [
+            "set",
+            "accesorii",
+            "copii",
+            "ventura",
+            "roz"
+          ],
+          "hu": [
+            "set",
+            "accesorii",
+            "copii",
+            "ventura",
+            "roz"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "set-accesorii-copii-ventura-albastru",
+      "name": "Set Accesorii Copii VENTURA Albastru",
+      "brand": "VENTURA",
+      "category": "biciclete",
+      "price": 55.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "sku": "101002",
+      "ean": "",
+      "description": "Material plasticSetul contine: Cos plastic Bidon si suport bidon Sonerie metalSistem de expunere pe carton",
+      "url": "",
+      "images": [],
+      "rating": 4.7,
+      "reviews_count": 8,
+      "warranty": "12 luni",
+      "tags": [
+        "biciclete",
+        "ventura"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425149",
+      "original_price": 82.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Set Accesorii Copii VENTURA Albastru",
+        "brand": {
+          "@type": "Brand",
+          "name": "VENTURA"
+        },
+        "description": "Material plasticSetul contine: Cos plastic Bidon si suport bidon Sonerie metalSistem de expunere pe carton",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "55.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/OutOfStock",
+          "url": "",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "children_cycling"
+        ],
+        "target_audience": [
+          "children"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "ventura",
+          "biciclete",
+          "set",
+          "accesorii",
+          "copii"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "ventura set accesorii copii ventura albastru",
+          "set accesorii copii ventura albastru ventura",
+          "biciclete ventura"
+        ],
+        "voice_search_phrases": [
+          "where to buy set accesorii copii ventura albastru",
+          "best set accesorii copii ventura albastru price",
+          "how to install set accesorii copii ventura albastru"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "set",
+            "accesorii",
+            "copii",
+            "ventura",
+            "albastru"
+          ],
+          "en": [
+            "set",
+            "accessories",
+            "copii",
+            "ventura",
+            "albastru"
+          ],
+          "de": [
+            "set",
+            "accesorii",
+            "copii",
+            "ventura",
+            "albastru"
+          ],
+          "hu": [
+            "set",
+            "accesorii",
+            "copii",
+            "ventura",
+            "albastru"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "set-accesorii-copii-ventura-galben",
+      "name": "Set Accesorii Copii VENTURA Galben",
+      "brand": "VENTURA",
+      "category": "biciclete",
+      "price": 55.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "sku": "101003",
+      "ean": "",
+      "description": "Material plasticSetul contine: Cos plastic Bidon si suport bidon Sonerie metalSistem de expunere pe carton",
+      "url": "",
+      "images": [],
+      "rating": 4.8,
+      "reviews_count": 9,
+      "warranty": "12 luni",
+      "tags": [
+        "biciclete",
+        "ventura"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425155",
+      "original_price": 82.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Set Accesorii Copii VENTURA Galben",
+        "brand": {
+          "@type": "Brand",
+          "name": "VENTURA"
+        },
+        "description": "Material plasticSetul contine: Cos plastic Bidon si suport bidon Sonerie metalSistem de expunere pe carton",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "55.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/OutOfStock",
+          "url": "",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "children_cycling"
+        ],
+        "target_audience": [
+          "children"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "ventura",
+          "biciclete",
+          "set",
+          "accesorii",
+          "copii"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "ventura set accesorii copii ventura galben",
+          "set accesorii copii ventura galben ventura",
+          "biciclete ventura"
+        ],
+        "voice_search_phrases": [
+          "where to buy set accesorii copii ventura galben",
+          "best set accesorii copii ventura galben price",
+          "how to install set accesorii copii ventura galben"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "set",
+            "accesorii",
+            "copii",
+            "ventura",
+            "galben"
+          ],
+          "en": [
+            "set",
+            "accessories",
+            "copii",
+            "ventura",
+            "galben"
+          ],
+          "de": [
+            "set",
+            "accesorii",
+            "copii",
+            "ventura",
+            "galben"
+          ],
+          "hu": [
+            "set",
+            "accesorii",
+            "copii",
+            "ventura",
+            "galben"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "portbagaj-aluminiu-spate-m-wave-24-29-disc",
+      "name": "Portbagaj Aluminiu Spate M-WAVE 24\"-29\" DISC",
+      "brand": "M-WAVE",
+      "category": "biciclete",
+      "price": 250.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "101004",
+      "ean": "",
+      "description": "AluminiuRegalbil - 24\"-29\"In special pentru bicicletele cu frana pe discPrindere reflector/stop spatePrindere universalaCuloare Negru",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/portbagaj-aluminiu-spate-m-wave-24-29-disc.html ",
+      "images": [],
+      "rating": 4.9,
+      "reviews_count": 10,
+      "warranty": "24 luni",
+      "tags": [
+        "biciclete",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425162",
+      "original_price": 375.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Portbagaj Aluminiu Spate M-WAVE 24\"-29\" DISC",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "AluminiuRegalbil - 24\"-29\"In special pentru bicicletele cu frana pe discPrindere reflector/stop spatePrindere universalaCuloare Negru",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "250.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/portbagaj-aluminiu-spate-m-wave-24-29-disc.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [
+          "size_24\"-29"
+        ],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "biciclete",
+          "portbagaj",
+          "aluminiu",
+          "spate"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave portbagaj aluminiu spate m-wave 24\"-29\" disc",
+          "portbagaj aluminiu spate m-wave 24\"-29\" disc m-wave",
+          "biciclete m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy portbagaj aluminiu spate m-wave 24\"-29\" disc",
+          "best portbagaj aluminiu spate m-wave 24\"-29\" disc price",
+          "how to install portbagaj aluminiu spate m-wave 24\"-29\" disc"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "24",
+            "29",
+            "disc"
+          ],
+          "en": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "24",
+            "29",
+            "disc"
+          ],
+          "de": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "24",
+            "29",
+            "disc"
+          ],
+          "hu": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "24",
+            "29",
+            "disc"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "portbagaj-aluminiu-spate-m-wave-24-29-disc-ii",
+      "name": "Portbagaj Aluminiu Spate M-WAVE 24\"-29\" DISC ii",
+      "brand": "M-WAVE",
+      "category": "biciclete",
+      "price": 195.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "101005",
+      "ean": "",
+      "description": "AluminiuRegalbil - 24\"-29\"In special pentru bicicletele cu frana pe discPrindere reflector/stop spatePrindere universalaCuloare Negru",
+      "url": "",
+      "images": [],
+      "rating": 4.0,
+      "reviews_count": 11,
+      "warranty": "24 luni",
+      "tags": [
+        "biciclete",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425168",
+      "original_price": 292.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Portbagaj Aluminiu Spate M-WAVE 24\"-29\" DISC ii",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "AluminiuRegalbil - 24\"-29\"In special pentru bicicletele cu frana pe discPrindere reflector/stop spatePrindere universalaCuloare Negru",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "195.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [
+          "size_24\"-29"
+        ],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "biciclete",
+          "portbagaj",
+          "aluminiu",
+          "spate"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave portbagaj aluminiu spate m-wave 24\"-29\" disc ii",
+          "portbagaj aluminiu spate m-wave 24\"-29\" disc ii m-wave",
+          "biciclete m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy portbagaj aluminiu spate m-wave 24\"-29\" disc ii",
+          "best portbagaj aluminiu spate m-wave 24\"-29\" disc ii price",
+          "how to install portbagaj aluminiu spate m-wave 24\"-29\" disc ii"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "24",
+            "29",
+            "disc",
+            "ii"
+          ],
+          "en": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "24",
+            "29",
+            "disc",
+            "ii"
+          ],
+          "de": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "24",
+            "29",
+            "disc",
+            "ii"
+          ],
+          "hu": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "24",
+            "29",
+            "disc",
+            "ii"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "portbagaj-aluminiu-spate-m-wave-one-4-all-20-29",
+      "name": "Portbagaj Aluminiu Spate M-WAVE ONE-4-ALL 20\"-29\"",
+      "brand": "M-WAVE",
+      "category": "biciclete",
+      "price": 137.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "101006",
+      "ean": "",
+      "description": "AluminiuPentru 20\"-29\"Pentru cadrele care nu au prindere de portbagajSuport pentru stop spate/reflectorPrindere universalaPartile mici acoperite cu Dacromet (protectie impotriva ruginii)Dimensiuni 30x14 cm",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/portbagaj-aluminiu-spate-m-wave-one-4-all-20-29.html ",
+      "images": [],
+      "rating": 4.1,
+      "reviews_count": 12,
+      "warranty": "24 luni",
+      "tags": [
+        "biciclete",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425175",
+      "original_price": 205.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Portbagaj Aluminiu Spate M-WAVE ONE-4-ALL 20\"-29\"",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "AluminiuPentru 20\"-29\"Pentru cadrele care nu au prindere de portbagajSuport pentru stop spate/reflectorPrindere universalaPartile mici acoperite cu Dacromet (protectie impotriva ruginii)Dimensiuni 30x14 cm",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "137.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/portbagaj-aluminiu-spate-m-wave-one-4-all-20-29.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [
+          "size_20\"-29"
+        ],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "biciclete",
+          "portbagaj",
+          "aluminiu",
+          "spate"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave portbagaj aluminiu spate m-wave one-4-all 20\"-29\"",
+          "portbagaj aluminiu spate m-wave one-4-all 20\"-29\" m-wave",
+          "biciclete m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy portbagaj aluminiu spate m-wave one-4-all 20\"-29\"",
+          "best portbagaj aluminiu spate m-wave one-4-all 20\"-29\" price",
+          "how to install portbagaj aluminiu spate m-wave one-4-all 20\"-29\""
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "one",
+            "4",
+            "all",
+            "20",
+            "29"
+          ],
+          "en": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "one",
+            "4",
+            "all",
+            "20",
+            "29"
+          ],
+          "de": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "one",
+            "4",
+            "all",
+            "20",
+            "29"
+          ],
+          "hu": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "one",
+            "4",
+            "all",
+            "20",
+            "29"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "portbagaj-aluminiu-spate-m-wave-traveller-a-ii-24-29-negru",
+      "name": "Portbagaj Aluminiu Spate M-WAVE TRAVELLER A II 24\"-29\" Negru",
+      "brand": "M-WAVE",
+      "category": "biciclete",
+      "price": 160.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "101007",
+      "ean": "",
+      "description": "Suport de stop/reflectorLoc pentru pompaProtectie anticoreziza a partilor mici cu DracometTestat si acordat ISO 11243Dimensiuni aprox. 38x13 cmReglabil de la 24\"-29\"",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/portbagaj-aluminiu-spate-m-wave-traveller-a-ii-24-29-negru.html ",
+      "images": [],
+      "rating": 4.2,
+      "reviews_count": 13,
+      "warranty": "24 luni",
+      "tags": [
+        "biciclete",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425182",
+      "original_price": 240.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Portbagaj Aluminiu Spate M-WAVE TRAVELLER A II 24\"-29\" Negru",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "Suport de stop/reflectorLoc pentru pompaProtectie anticoreziza a partilor mici cu DracometTestat si acordat ISO 11243Dimensiuni aprox. 38x13 cmReglabil de la 24\"-29\"",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "160.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/portbagaj-aluminiu-spate-m-wave-traveller-a-ii-24-29-negru.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [
+          "size_24\"-29"
+        ],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "biciclete",
+          "portbagaj",
+          "aluminiu",
+          "spate"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave portbagaj aluminiu spate m-wave traveller a ii 24\"-29\" negru",
+          "portbagaj aluminiu spate m-wave traveller a ii 24\"-29\" negru m-wave",
+          "biciclete m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy portbagaj aluminiu spate m-wave traveller a ii 24\"-29\" negru",
+          "best portbagaj aluminiu spate m-wave traveller a ii 24\"-29\" negru price",
+          "how to install portbagaj aluminiu spate m-wave traveller a ii 24\"-29\" negru"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "traveller",
+            "a",
+            "ii",
+            "24",
+            "29",
+            "negru"
+          ],
+          "en": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "traveller",
+            "a",
+            "ii",
+            "24",
+            "29",
+            "negru"
+          ],
+          "de": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "traveller",
+            "a",
+            "ii",
+            "24",
+            "29",
+            "negru"
+          ],
+          "hu": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "traveller",
+            "a",
+            "ii",
+            "24",
+            "29",
+            "negru"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "portbagaj-aluminiu-spate-m-wave-screw-on-ii-a-24-28-negru",
+      "name": "Portbagaj Aluminiu Spate M-WAVE SCREW-ON II A 24\"-28\" Negru",
+      "brand": "M-WAVE",
+      "category": "biciclete",
+      "price": 115.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "101008",
+      "ean": "",
+      "description": "Reglabil 24\"/26\"/28\"Tub patrat de AluminiuSuport pentru stop/reflectorLoc pentru PompaGreutate maxima admisa 25 KgPrindere universalaPartile mici din inoxDimensiuni 37,5x13 cm",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/portbagaj-aluminiu-spate-m-wave-screw-on-ii-a-24-28-negru.html ",
+      "images": [],
+      "rating": 4.3,
+      "reviews_count": 14,
+      "warranty": "24 luni",
+      "tags": [
+        "biciclete",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425188",
+      "original_price": 172.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Portbagaj Aluminiu Spate M-WAVE SCREW-ON II A 24\"-28\" Negru",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "Reglabil 24\"/26\"/28\"Tub patrat de AluminiuSuport pentru stop/reflectorLoc pentru PompaGreutate maxima admisa 25 KgPrindere universalaPartile mici din inoxDimensiuni 37,5x13 cm",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "115.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/portbagaj-aluminiu-spate-m-wave-screw-on-ii-a-24-28-negru.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [
+          "size_24\"-28"
+        ],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "biciclete",
+          "portbagaj",
+          "aluminiu",
+          "spate"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave portbagaj aluminiu spate m-wave screw-on ii a 24\"-28\" negru",
+          "portbagaj aluminiu spate m-wave screw-on ii a 24\"-28\" negru m-wave",
+          "biciclete m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy portbagaj aluminiu spate m-wave screw-on ii a 24\"-28\" negru",
+          "best portbagaj aluminiu spate m-wave screw-on ii a 24\"-28\" negru price",
+          "how to install portbagaj aluminiu spate m-wave screw-on ii a 24\"-28\" negru"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "screw",
+            "on",
+            "ii",
+            "a",
+            "24",
+            "28",
+            "negru"
+          ],
+          "en": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "screw",
+            "on",
+            "ii",
+            "a",
+            "24",
+            "28",
+            "negru"
+          ],
+          "de": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "screw",
+            "on",
+            "ii",
+            "a",
+            "24",
+            "28",
+            "negru"
+          ],
+          "hu": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "screw",
+            "on",
+            "ii",
+            "a",
+            "24",
+            "28",
+            "negru"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "portbagaj-aluminiu-spate-m-wave-screw-on-ii-a-24-28-silver",
+      "name": "Portbagaj Aluminiu Spate M-WAVE SCREW-ON II A 24\"-28\" Silver",
+      "brand": "M-WAVE",
+      "category": "biciclete",
+      "price": 115.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "101009",
+      "ean": "",
+      "description": "Reglabil 24\"/26\"/28\"Tub patrat de AluminiuSuport pentru stop/reflectorLoc pentru PompaGreutate maxima admisa 25 KgPrindere universalaPartile mici din inoxDimensiuni 37,5x13 cm",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/portbagaj-aluminiu-spate-m-wave-screw-on-ii-a-24-28-silver.html ",
+      "images": [],
+      "rating": 4.4,
+      "reviews_count": 15,
+      "warranty": "24 luni",
+      "tags": [
+        "biciclete",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.425195",
+      "original_price": 172.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Portbagaj Aluminiu Spate M-WAVE SCREW-ON II A 24\"-28\" Silver",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "Reglabil 24\"/26\"/28\"Tub patrat de AluminiuSuport pentru stop/reflectorLoc pentru PompaGreutate maxima admisa 25 KgPrindere universalaPartile mici din inoxDimensiuni 37,5x13 cm",
+        "category": "biciclete",
+        "offers": {
+          "@type": "Offer",
+          "price": "115.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/portbagaj-aluminiu-spate-m-wave-screw-on-ii-a-24-28-silver.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "biciclete",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [
+          "size_24\"-28"
+        ],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "biciclete",
+          "portbagaj",
+          "aluminiu",
+          "spate"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave portbagaj aluminiu spate m-wave screw-on ii a 24\"-28\" silver",
+          "portbagaj aluminiu spate m-wave screw-on ii a 24\"-28\" silver m-wave",
+          "biciclete m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy portbagaj aluminiu spate m-wave screw-on ii a 24\"-28\" silver",
+          "best portbagaj aluminiu spate m-wave screw-on ii a 24\"-28\" silver price",
+          "how to install portbagaj aluminiu spate m-wave screw-on ii a 24\"-28\" silver"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "screw",
+            "on",
+            "ii",
+            "a",
+            "24",
+            "28",
+            "silver"
+          ],
+          "en": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "screw",
+            "on",
+            "ii",
+            "a",
+            "24",
+            "28",
+            "silver"
+          ],
+          "de": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "screw",
+            "on",
+            "ii",
+            "a",
+            "24",
+            "28",
+            "silver"
+          ],
+          "hu": [
+            "portbagaj",
+            "aluminiu",
+            "spate",
+            "m",
+            "wave",
+            "screw",
+            "on",
+            "ii",
+            "a",
+            "24",
+            "28",
+            "silver"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
     {
       "id": "portbagaj-aluminiu-spate-m-wave-traveller-a-basic-2628",
       "name": "Portbagaj Aluminiu Spate M-WAVE TRAVELLER A BASIC 26\"/28\"",
@@ -963,7 +3306,7 @@
     {
       "id": "dinam-aero-an-lun-dreapta",
       "name": "Dinam Aero AN LUN Dreapta",
-      "brand": "Dinam",
+      "brand": "AN LUN",
       "category": "accesorii",
       "price": 30.0,
       "currency": "RON",
@@ -1110,12 +3453,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Dinam"
     },
     {
       "id": "dinam-aero-an-lun-stanga",
       "name": "Dinam Aero AN LUN Stanga",
-      "brand": "Dinam",
+      "brand": "AN LUN",
       "category": "accesorii",
       "price": 30.0,
       "currency": "RON",
@@ -1262,12 +3607,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Dinam"
     },
     {
       "id": "far-pentru-dinam-an-lun-10-lux",
       "name": "Far pentru Dinam AN LUN 10 LUX",
-      "brand": "Far",
+      "brand": "AN LUN",
       "category": "accesorii",
       "price": 53.0,
       "currency": "RON",
@@ -1428,12 +3775,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Far"
     },
     {
       "id": "far-pentru-dinam-an-lun-14-lux",
       "name": "Far pentru Dinam AN LUN 14 LUX",
-      "brand": "Far",
+      "brand": "AN LUN",
       "category": "accesorii",
       "price": 42.0,
       "currency": "RON",
@@ -1594,12 +3943,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Far"
     },
     {
       "id": "far-pentru-dinam-smart-halogen-10-lux",
       "name": "Far pentru Dinam SMART Halogen 10 LUX",
-      "brand": "Far",
+      "brand": "SMART",
       "category": "accesorii",
       "price": 64.0,
       "currency": "RON",
@@ -1760,7 +4111,10 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Smart",
+      "brand_corrected_from_csv": true
     },
     {
       "id": "portbagaj-aluminiu-spate-m-wave-24-29-boost-standard",
@@ -1935,7 +4289,7 @@
     {
       "id": "far-smart-de-e-bike",
       "name": "Far SMART D&E E-Bike",
-      "brand": "Far",
+      "brand": "SMART",
       "category": "accesorii",
       "price": 79.0,
       "currency": "RON",
@@ -2094,12 +4448,15 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Smart",
+      "brand_corrected_from_csv": true
     },
     {
       "id": "far-cu-baterii-an-lun-1-led--10-20-lux",
       "name": "Far cu Baterii AN LUN 1 LED  10-20 LUX",
-      "brand": "Far",
+      "brand": "AN LUN",
       "category": "biciclete",
       "price": 60.0,
       "currency": "RON",
@@ -2274,7 +4631,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Far"
     },
     {
       "id": "far-cu-baterii-sxt-2-leduri",
@@ -2773,7 +5132,7 @@
     {
       "id": "stop-spate-pentru-dinam-smart-standlight",
       "name": "Stop Spate pentru Dinam SMART Standlight",
-      "brand": "Stop",
+      "brand": "SMART",
       "category": "accesorii",
       "price": 49.0,
       "currency": "RON",
@@ -2924,12 +5283,15 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Smart",
+      "brand_corrected_from_csv": true
     },
     {
       "id": "stop-spate-pentru-dinam-an-lun-3-leduri",
       "name": "Stop Spate pentru Dinam AN LUN 3 Leduri",
-      "brand": "Stop",
+      "brand": "AN LUN",
       "category": "biciclete",
       "price": 44.0,
       "currency": "RON",
@@ -3088,7 +5450,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Stop"
     },
     {
       "id": "stop-spate-pentru-dinam-sxt-vertical",
@@ -3409,7 +5773,7 @@
     {
       "id": "stop-spate-cu-baterii-an-lun-vertical",
       "name": "Stop Spate cu Baterii AN LUN Vertical",
-      "brand": "Stop",
+      "brand": "AN LUN",
       "category": "biciclete",
       "price": 28.0,
       "currency": "RON",
@@ -3564,7 +5928,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Stop"
     },
     {
       "id": "stop-spate--pentru-dinam-sxt--portbagaj",
@@ -3889,7 +6255,7 @@
     {
       "id": "stop-spate-cu-baterii-smart-portbagaj",
       "name": "Stop Spate cu Baterii SMART Portbagaj",
-      "brand": "Stop",
+      "brand": "SMART",
       "category": "biciclete",
       "price": 43.0,
       "currency": "RON",
@@ -4040,12 +6406,15 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Smart",
+      "brand_corrected_from_csv": true
     },
     {
       "id": "stop-spate-cu-baterii-sxt-portbagaj",
       "name": "Stop Spate cu Baterii SXT Portbagaj",
-      "brand": "SXT",
+      "brand": "AN LUN",
       "category": "biciclete",
       "price": 28.0,
       "currency": "RON",
@@ -4196,7 +6565,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "SXT"
     },
     {
       "id": "suport-far-sxt-stainless-steel",
@@ -4991,7 +7362,7 @@
     {
       "id": "pompa-mini-shock-beto--dual-function-2-1",
       "name": "Pompa Mini Shock BETO  Dual Function 2-1",
-      "brand": "Pompa",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 169.0,
       "currency": "RON",
@@ -5152,12 +7523,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pompa"
     },
     {
       "id": "pompa-furca-beto-400-psi",
       "name": "Pompa Furca BETO 400 psi",
-      "brand": "Pompa",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 132.0,
       "currency": "RON",
@@ -5304,12 +7677,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pompa"
     },
     {
       "id": "pompa-mini-beto-50-grame",
       "name": "Pompa Mini BETO 50 grame",
-      "brand": "Pompa",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 68.0,
       "currency": "RON",
@@ -5456,12 +7831,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pompa"
     },
     {
       "id": "bec--trumpf--6v-24-watt-04-a",
       "name": "Bec  TRUMPF  6V/ 2,4 Watt/ 0,4 A",
-      "brand": "Bec",
+      "brand": "M-WAVE",
       "category": "biciclete",
       "price": 3.0,
       "currency": "RON",
@@ -5624,12 +8001,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Bec"
     },
     {
       "id": "bec-trumpf-halogen--6v---24-watt",
       "name": "Bec TRUMPF Halogen  6V - 2,4 Watt",
-      "brand": "Bec",
+      "brand": "M-WAVE",
       "category": "biciclete",
       "price": 35.0,
       "currency": "RON",
@@ -5784,7 +8163,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Bec"
     },
     {
       "id": "carucior-transport-copii-m-wave-kids-ride-easy-aluminiu--20",
@@ -6277,7 +8658,7 @@
     {
       "id": "bara-sustinereghidare-copii",
       "name": "Bara Sustinere/Ghidare Copii",
-      "brand": "Bara",
+      "brand": "SXT",
       "category": "biciclete",
       "price": 95.0,
       "currency": "RON",
@@ -6420,7 +8801,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Bara"
     },
     {
       "id": "bara-sustinereghidare-copii-qr-sxt",
@@ -6581,7 +8964,7 @@
     {
       "id": "cadru-metal-singlespeed-52-cm-s-118",
       "name": "Cadru Metal SingleSpeed 52 cm, S 1.1/8\"",
-      "brand": "Cadru",
+      "brand": "SXT",
       "category": "accesorii",
       "price": 320.0,
       "currency": "RON",
@@ -6744,12 +9127,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cadru"
     },
     {
       "id": "cadru-cr-mo-singlespeed-fixie--55-cm-m-118",
       "name": "Cadru CR-MO SingleSpeed-Fixie  55 cm, M 1.1/8\"",
-      "brand": "Cadru",
+      "brand": "SXT",
       "category": "accesorii",
       "price": 475.0,
       "currency": "RON",
@@ -6920,12 +9305,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cadru"
     },
     {
       "id": "cadru-cr-mo-singlespeed-fixie-58-cm-l-118",
       "name": "Cadru CR-MO SingleSpeed-Fixie 58 cm, L 1.1/8\"",
-      "brand": "Cadru",
+      "brand": "SXT",
       "category": "accesorii",
       "price": 475.0,
       "currency": "RON",
@@ -7096,7 +9483,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cadru"
     },
     {
       "id": "suspensie-spate-m-wave-aluminiu-150x2424-mm",
@@ -8851,7 +11240,7 @@
     {
       "id": "ureche-cadru-s13",
       "name": "Ureche Cadru S13",
-      "brand": "Ureche",
+      "brand": "SXT",
       "category": "accesorii",
       "price": 45.0,
       "currency": "RON",
@@ -8990,7 +11379,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Ureche"
     },
     {
       "id": "ureche-cadru-sxt-gh-126-negru-s14",
@@ -9313,7 +11704,7 @@
     {
       "id": "pompa-mini-beto-hxs-dubla",
       "name": "Pompa Mini BETO HxS Dubla",
-      "brand": "Pompa",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 45.0,
       "currency": "RON",
@@ -9460,12 +11851,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pompa"
     },
     {
       "id": "pompa-mini-beto-67-grame",
       "name": "Pompa Mini BETO 67 grame",
-      "brand": "Pompa",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 33.0,
       "currency": "RON",
@@ -9612,12 +12005,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pompa"
     },
     {
       "id": "pompa-mini-beto-360-t",
       "name": "Pompa Mini BETO 360 T",
-      "brand": "Pompa",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 35.0,
       "currency": "RON",
@@ -9764,12 +12159,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pompa"
     },
     {
       "id": "pompa-mini-beto-double-shot",
       "name": "Pompa Mini BETO Double Shot",
-      "brand": "Pompa",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 25.0,
       "currency": "RON",
@@ -9916,12 +12313,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pompa"
     },
     {
       "id": "pompa-picior-beto",
       "name": "Pompa Picior BETO",
-      "brand": "Pompa",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 85.0,
       "currency": "RON",
@@ -10060,12 +12459,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pompa"
     },
     {
       "id": "pompa-podea-beto--11160-aluminiu",
       "name": "Pompa Podea BETO  11/160 Aluminiu",
-      "brand": "Pompa",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 180.0,
       "currency": "RON",
@@ -10216,12 +12617,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pompa"
     },
     {
       "id": "pompa-podea-beto-top-quallty",
       "name": "Pompa Podea BETO Top Quallty",
-      "brand": "Pompa",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 150.0,
       "currency": "RON",
@@ -10368,12 +12771,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pompa"
     },
     {
       "id": "pompa-podea-beto-metal-dark-silver",
       "name": "Pompa Podea BETO Metal Dark Silver",
-      "brand": "Pompa",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 110.0,
       "currency": "RON",
@@ -10524,12 +12929,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pompa"
     },
     {
       "id": "pompa-podea-beto-metal-alb",
       "name": "Pompa Podea BETO Metal Alb",
-      "brand": "Pompa",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 110.0,
       "currency": "RON",
@@ -10676,7 +13083,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pompa"
     },
     {
       "id": "cap-furtun-pompa-sxt",
@@ -10981,7 +13390,7 @@
     {
       "id": "cap-pompa-beto",
       "name": "Cap Pompa BETO",
-      "brand": "Cap",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 14.0,
       "currency": "RON",
@@ -11120,7 +13529,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cap"
     },
     {
       "id": "pompa-mini-ventura-plastic",
@@ -11273,7 +13684,7 @@
     {
       "id": "pompa-podea-beto-11160p",
       "name": "Pompa Podea BETO 11/160P",
-      "brand": "Pompa",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 65.0,
       "currency": "RON",
@@ -11420,7 +13831,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pompa"
     },
     {
       "id": "pompa-mini-m-wave-flexi-tube",
@@ -11581,7 +13994,7 @@
     {
       "id": "manometru-digital-beto",
       "name": "Manometru Digital BETO",
-      "brand": "Manometru",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 65.0,
       "currency": "RON",
@@ -11720,12 +14133,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Manometru"
     },
     {
       "id": "pompa-mini-carbontitanium-barbieri",
       "name": "Pompa Mini Carbon/Titanium BARBIERI",
-      "brand": "Pompa",
+      "brand": "BETO",
       "category": "biciclete",
       "price": 150.0,
       "currency": "RON",
@@ -11872,12 +14287,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Pompa"
     },
     {
       "id": "cartus-co2-25-grame",
       "name": "Cartus CO2 25 grame",
-      "brand": "Cartus",
+      "brand": "SXT",
       "category": "biciclete",
       "price": 22.0,
       "currency": "RON",
@@ -12020,7 +14437,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cartus"
     },
     {
       "id": "pompa-podea-ventura-12180-metal",
@@ -14631,7 +17050,7 @@
     {
       "id": "set-ventile-kenda-2bucdv",
       "name": "Set Ventile KENDA 2buc/DV",
-      "brand": "KENDA",
+      "brand": "VENTURA",
       "category": "accesorii",
       "price": 4.0,
       "currency": "RON",
@@ -14778,7 +17197,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "KENDA"
     },
     {
       "id": "set-extensie-valve-m-wave-aluminiu-50-mm",
@@ -14947,7 +17368,7 @@
     {
       "id": "adaptor-valva-curbat-90--avav",
       "name": "Adaptor Valva Curbat 90*  AV/AV",
-      "brand": "Adaptor",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 18.0,
       "currency": "RON",
@@ -15098,7 +17519,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Adaptor"
     },
     {
       "id": "capac-valva-sxt-2-1-aluminiu",
@@ -15885,7 +18308,7 @@
     {
       "id": "cutie-cap-valva-30-bucati-avfv",
       "name": "Cutie Cap Valva 30 bucati-AV/FV",
-      "brand": "Cutie",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 159.0,
       "currency": "RON",
@@ -16040,7 +18463,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cutie"
     },
     {
       "id": "camera-kenda-125-x-175---214--av-35-mm",
@@ -25030,7 +27455,7 @@
     {
       "id": "boxeri-cu-bazon-fuse-m",
       "name": "Boxeri cu Bazon FUSE M",
-      "brand": "Boxeri",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 149.0,
       "currency": "RON",
@@ -25177,12 +27602,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Boxeri"
     },
     {
       "id": "boxeri-cu-bazon-fuse-l",
       "name": "Boxeri cu Bazon FUSE L",
-      "brand": "Boxeri",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 149.0,
       "currency": "RON",
@@ -25329,12 +27756,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Boxeri"
     },
     {
       "id": "boxeri-cu-bazon-fuse-xl",
       "name": "Boxeri cu Bazon FUSE XL",
-      "brand": "Boxeri",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 149.0,
       "currency": "RON",
@@ -25481,7 +27910,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Boxeri"
     },
     {
       "id": "bandana-m-wave--negru",
@@ -30074,2826 +32505,8 @@
         "alternative_brands": [],
         "related_categories": []
       }
-    },
-    {
-      "id": "manusi-copii-ventura-xs-catel",
-      "name": "Manusi Copii VENTURA XS (Catel)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 17.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 1,
-      "sku": "101195",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "https://www.bikestylish.ro/echipament/manusi-copii-ventura-xs-catel.html ",
-      "images": [],
-      "rating": 4.0,
-      "reviews_count": 1,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426392",
-      "original_price": 25.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Copii VENTURA XS (Catel)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "17.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/echipament/manusi-copii-ventura-xs-catel.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "children_cycling"
-        ],
-        "target_audience": [
-          "children"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "copii",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi copii ventura xs (catel)",
-          "manusi copii ventura xs (catel) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi copii ventura xs (catel)",
-          "best manusi copii ventura xs (catel) price",
-          "how to install manusi copii ventura xs (catel)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "copii",
-            "ventura",
-            "xs",
-            "catel"
-          ],
-          "en": [
-            "manusi",
-            "copii",
-            "ventura",
-            "xs",
-            "catel"
-          ],
-          "de": [
-            "manusi",
-            "copii",
-            "ventura",
-            "xs",
-            "catel"
-          ],
-          "hu": [
-            "manusi",
-            "copii",
-            "ventura",
-            "xs",
-            "catel"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-copii-ventura-xs-broscuta",
-      "name": "Manusi Copii VENTURA XS (Broscuta)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 17.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101196",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "",
-      "images": [],
-      "rating": 4.1,
-      "reviews_count": 2,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426398",
-      "original_price": 25.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Copii VENTURA XS (Broscuta)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "17.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "children_cycling"
-        ],
-        "target_audience": [
-          "children"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "copii",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi copii ventura xs (broscuta)",
-          "manusi copii ventura xs (broscuta) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi copii ventura xs (broscuta)",
-          "best manusi copii ventura xs (broscuta) price",
-          "how to install manusi copii ventura xs (broscuta)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "copii",
-            "ventura",
-            "xs",
-            "broscuta"
-          ],
-          "en": [
-            "manusi",
-            "copii",
-            "ventura",
-            "xs",
-            "broscuta"
-          ],
-          "de": [
-            "manusi",
-            "copii",
-            "ventura",
-            "xs",
-            "broscuta"
-          ],
-          "hu": [
-            "manusi",
-            "copii",
-            "ventura",
-            "xs",
-            "broscuta"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-copii-ventura-xs-pinguin",
-      "name": "Manusi Copii VENTURA XS (Pinguin)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 17.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101197",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "",
-      "images": [],
-      "rating": 4.2,
-      "reviews_count": 3,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426404",
-      "original_price": 25.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Copii VENTURA XS (Pinguin)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "17.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "children_cycling"
-        ],
-        "target_audience": [
-          "children"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "copii",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi copii ventura xs (pinguin)",
-          "manusi copii ventura xs (pinguin) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi copii ventura xs (pinguin)",
-          "best manusi copii ventura xs (pinguin) price",
-          "how to install manusi copii ventura xs (pinguin)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "copii",
-            "ventura",
-            "xs",
-            "pinguin"
-          ],
-          "en": [
-            "manusi",
-            "copii",
-            "ventura",
-            "xs",
-            "pinguin"
-          ],
-          "de": [
-            "manusi",
-            "copii",
-            "ventura",
-            "xs",
-            "pinguin"
-          ],
-          "hu": [
-            "manusi",
-            "copii",
-            "ventura",
-            "xs",
-            "pinguin"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-copii-ventura-s-albroz",
-      "name": "Manusi Copii VENTURA S (Alb/Roz)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 20.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101198",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "",
-      "images": [],
-      "rating": 4.3,
-      "reviews_count": 4,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426410",
-      "original_price": 30.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Copii VENTURA S (Alb/Roz)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "20.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "children_cycling"
-        ],
-        "target_audience": [
-          "children"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "copii",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi copii ventura s (alb/roz)",
-          "manusi copii ventura s (alb/roz) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi copii ventura s (alb/roz)",
-          "best manusi copii ventura s (alb/roz) price",
-          "how to install manusi copii ventura s (alb/roz)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "alb",
-            "roz"
-          ],
-          "en": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "alb",
-            "roz"
-          ],
-          "de": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "alb",
-            "roz"
-          ],
-          "hu": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "alb",
-            "roz"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-copii-ventura-s-negrualb",
-      "name": "Manusi Copii VENTURA S (Negru/Alb)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 20.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101199",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "",
-      "images": [],
-      "rating": 4.4,
-      "reviews_count": 5,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426415",
-      "original_price": 30.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Copii VENTURA S (Negru/Alb)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "20.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "children_cycling"
-        ],
-        "target_audience": [
-          "children"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "copii",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi copii ventura s (negru/alb)",
-          "manusi copii ventura s (negru/alb) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi copii ventura s (negru/alb)",
-          "best manusi copii ventura s (negru/alb) price",
-          "how to install manusi copii ventura s (negru/alb)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "negru",
-            "alb"
-          ],
-          "en": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "negru",
-            "alb"
-          ],
-          "de": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "negru",
-            "alb"
-          ],
-          "hu": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "negru",
-            "alb"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-copii-ventura-s-negruverde",
-      "name": "Manusi Copii VENTURA S (Negru/Verde)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 20.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101200",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "",
-      "images": [],
-      "rating": 4.5,
-      "reviews_count": 6,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426421",
-      "original_price": 30.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Copii VENTURA S (Negru/Verde)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "20.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "children_cycling"
-        ],
-        "target_audience": [
-          "children"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "copii",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi copii ventura s (negru/verde)",
-          "manusi copii ventura s (negru/verde) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi copii ventura s (negru/verde)",
-          "best manusi copii ventura s (negru/verde) price",
-          "how to install manusi copii ventura s (negru/verde)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "negru",
-            "verde"
-          ],
-          "en": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "negru",
-            "verde"
-          ],
-          "de": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "negru",
-            "verde"
-          ],
-          "hu": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "negru",
-            "verde"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-copii-ventura-s-albastru",
-      "name": "Manusi Copii VENTURA S (Albastru)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 20.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101201",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "",
-      "images": [],
-      "rating": 4.6,
-      "reviews_count": 7,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426428",
-      "original_price": 30.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Copii VENTURA S (Albastru)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "20.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "children_cycling"
-        ],
-        "target_audience": [
-          "children"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "copii",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi copii ventura s (albastru)",
-          "manusi copii ventura s (albastru) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi copii ventura s (albastru)",
-          "best manusi copii ventura s (albastru) price",
-          "how to install manusi copii ventura s (albastru)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "albastru"
-          ],
-          "en": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "albastru"
-          ],
-          "de": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "albastru"
-          ],
-          "hu": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "albastru"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-copii-ventura-s-pirat",
-      "name": "Manusi Copii VENTURA S (Pirat)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 20.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101202",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "",
-      "images": [],
-      "rating": 4.7,
-      "reviews_count": 8,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426433",
-      "original_price": 30.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Copii VENTURA S (Pirat)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "20.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "children_cycling"
-        ],
-        "target_audience": [
-          "children"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "copii",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi copii ventura s (pirat)",
-          "manusi copii ventura s (pirat) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi copii ventura s (pirat)",
-          "best manusi copii ventura s (pirat) price",
-          "how to install manusi copii ventura s (pirat)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "pirat"
-          ],
-          "en": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "pirat"
-          ],
-          "de": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "pirat"
-          ],
-          "hu": [
-            "manusi",
-            "copii",
-            "ventura",
-            "s",
-            "pirat"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-ciclism-ventura-m-albnegru",
-      "name": "Manusi Ciclism VENTURA M (Alb/Negru)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 20.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101203",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "https://www.bikestylish.ro/echipament/manusi-ciclism-ventura-l-xl-alb-negru.html ",
-      "images": [],
-      "rating": 4.8,
-      "reviews_count": 9,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426440",
-      "original_price": 30.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Ciclism VENTURA M (Alb/Negru)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "20.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "https://www.bikestylish.ro/echipament/manusi-ciclism-ventura-l-xl-alb-negru.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "ciclism",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi ciclism ventura m (alb/negru)",
-          "manusi ciclism ventura m (alb/negru) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi ciclism ventura m (alb/negru)",
-          "best manusi ciclism ventura m (alb/negru) price",
-          "how to install manusi ciclism ventura m (alb/negru)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "m",
-            "alb",
-            "negru"
-          ],
-          "en": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "m",
-            "alb",
-            "negru"
-          ],
-          "de": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "m",
-            "alb",
-            "negru"
-          ],
-          "hu": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "m",
-            "alb",
-            "negru"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-ciclism-ventura-m-negruverde",
-      "name": "Manusi Ciclism VENTURA M (Negru/Verde)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 20.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101204",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "",
-      "images": [],
-      "rating": 4.9,
-      "reviews_count": 10,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426445",
-      "original_price": 30.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Ciclism VENTURA M (Negru/Verde)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "20.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "ciclism",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi ciclism ventura m (negru/verde)",
-          "manusi ciclism ventura m (negru/verde) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi ciclism ventura m (negru/verde)",
-          "best manusi ciclism ventura m (negru/verde) price",
-          "how to install manusi ciclism ventura m (negru/verde)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "m",
-            "negru",
-            "verde"
-          ],
-          "en": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "m",
-            "negru",
-            "verde"
-          ],
-          "de": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "m",
-            "negru",
-            "verde"
-          ],
-          "hu": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "m",
-            "negru",
-            "verde"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-ciclism-ventura-lxl--negruverde",
-      "name": "Manusi Ciclism VENTURA L/XL  (Negru/Verde)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 20.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101205",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "",
-      "images": [],
-      "rating": 4.0,
-      "reviews_count": 11,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426452",
-      "original_price": 30.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Ciclism VENTURA L/XL  (Negru/Verde)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "20.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "ciclism",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi ciclism ventura l/xl  (negru/verde)",
-          "manusi ciclism ventura l/xl  (negru/verde) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi ciclism ventura l/xl  (negru/verde)",
-          "best manusi ciclism ventura l/xl  (negru/verde) price",
-          "how to install manusi ciclism ventura l/xl  (negru/verde)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "verde"
-          ],
-          "en": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "verde"
-          ],
-          "de": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "verde"
-          ],
-          "hu": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "verde"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-ciclism-ventura-lxl-negrualbastru",
-      "name": "Manusi Ciclism VENTURA L/XL (Negru/Albastru)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 20.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101206",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "",
-      "images": [],
-      "rating": 4.1,
-      "reviews_count": 12,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426458",
-      "original_price": 30.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Ciclism VENTURA L/XL (Negru/Albastru)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "20.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "ciclism",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi ciclism ventura l/xl (negru/albastru)",
-          "manusi ciclism ventura l/xl (negru/albastru) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi ciclism ventura l/xl (negru/albastru)",
-          "best manusi ciclism ventura l/xl (negru/albastru) price",
-          "how to install manusi ciclism ventura l/xl (negru/albastru)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "albastru"
-          ],
-          "en": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "albastru"
-          ],
-          "de": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "albastru"
-          ],
-          "hu": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "albastru"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-ciclism-ventura-m-negrualbastru",
-      "name": "Manusi Ciclism VENTURA M (Negru/Albastru)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 20.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101207",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "",
-      "images": [],
-      "rating": 4.2,
-      "reviews_count": 13,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426464",
-      "original_price": 30.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Ciclism VENTURA M (Negru/Albastru)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "20.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "ciclism",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi ciclism ventura m (negru/albastru)",
-          "manusi ciclism ventura m (negru/albastru) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi ciclism ventura m (negru/albastru)",
-          "best manusi ciclism ventura m (negru/albastru) price",
-          "how to install manusi ciclism ventura m (negru/albastru)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "m",
-            "negru",
-            "albastru"
-          ],
-          "en": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "m",
-            "negru",
-            "albastru"
-          ],
-          "de": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "m",
-            "negru",
-            "albastru"
-          ],
-          "hu": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "m",
-            "negru",
-            "albastru"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-ciclism-ventura-lxl--negrurosu",
-      "name": "Manusi Ciclism VENTURA L/XL  (Negru/Rosu)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 20.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101208",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "",
-      "images": [],
-      "rating": 4.3,
-      "reviews_count": 14,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426470",
-      "original_price": 30.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Ciclism VENTURA L/XL  (Negru/Rosu)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "20.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "ciclism",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi ciclism ventura l/xl  (negru/rosu)",
-          "manusi ciclism ventura l/xl  (negru/rosu) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi ciclism ventura l/xl  (negru/rosu)",
-          "best manusi ciclism ventura l/xl  (negru/rosu) price",
-          "how to install manusi ciclism ventura l/xl  (negru/rosu)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "rosu"
-          ],
-          "en": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "rosu"
-          ],
-          "de": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "rosu"
-          ],
-          "hu": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "rosu"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-ciclism-ventura-lxl-negrualb",
-      "name": "Manusi Ciclism VENTURA L/XL (Negru/Alb)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 20.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101209",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "",
-      "images": [],
-      "rating": 4.4,
-      "reviews_count": 15,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426475",
-      "original_price": 30.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Ciclism VENTURA L/XL (Negru/Alb)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "20.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "ciclism",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi ciclism ventura l/xl (negru/alb)",
-          "manusi ciclism ventura l/xl (negru/alb) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi ciclism ventura l/xl (negru/alb)",
-          "best manusi ciclism ventura l/xl (negru/alb) price",
-          "how to install manusi ciclism ventura l/xl (negru/alb)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "alb"
-          ],
-          "en": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "alb"
-          ],
-          "de": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "alb"
-          ],
-          "hu": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "negru",
-            "alb"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "manusi-ciclism-ventura-lxl--albnegru",
-      "name": "Manusi Ciclism VENTURA L/XL  (Alb/Negru)",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 18.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "101210",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-      "url": "",
-      "images": [],
-      "rating": 4.5,
-      "reviews_count": 16,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426482",
-      "original_price": 27.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Manusi Ciclism VENTURA L/XL  (Alb/Negru)",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobs",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "18.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "manusi",
-          "ciclism",
-          "ventura"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura manusi ciclism ventura l/xl  (alb/negru)",
-          "manusi ciclism ventura l/xl  (alb/negru) ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy manusi ciclism ventura l/xl  (alb/negru)",
-          "best manusi ciclism ventura l/xl  (alb/negru) price",
-          "how to install manusi ciclism ventura l/xl  (alb/negru)"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "alb",
-            "negru"
-          ],
-          "en": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "alb",
-            "negru"
-          ],
-          "de": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "alb",
-            "negru"
-          ],
-          "hu": [
-            "manusi",
-            "ciclism",
-            "ventura",
-            "l",
-            "xl",
-            "alb",
-            "negru"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "set-manusi-ciclism5-perechi-ventura-lxl",
-      "name": "Set Manusi Ciclism(5 perechi) VENTURA L/XL",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 99.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101211",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobsSetul contine 5 perechi manusi",
-      "url": "",
-      "images": [],
-      "rating": 4.6,
-      "reviews_count": 17,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426490",
-      "original_price": 148.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Set Manusi Ciclism(5 perechi) VENTURA L/XL",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobsSetul contine 5 perechi manusi",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "99.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "set",
-          "manusi",
-          "ciclism"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura set manusi ciclism(5 perechi) ventura l/xl",
-          "set manusi ciclism(5 perechi) ventura l/xl ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy set manusi ciclism(5 perechi) ventura l/xl",
-          "best set manusi ciclism(5 perechi) ventura l/xl price",
-          "how to install set manusi ciclism(5 perechi) ventura l/xl"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "set",
-            "manusi",
-            "ciclism",
-            "5",
-            "perechi",
-            "ventura",
-            "l",
-            "xl"
-          ],
-          "en": [
-            "set",
-            "manusi",
-            "ciclism",
-            "5",
-            "perechi",
-            "ventura",
-            "l",
-            "xl"
-          ],
-          "de": [
-            "set",
-            "manusi",
-            "ciclism",
-            "5",
-            "perechi",
-            "ventura",
-            "l",
-            "xl"
-          ],
-          "hu": [
-            "set",
-            "manusi",
-            "ciclism",
-            "5",
-            "perechi",
-            "ventura",
-            "l",
-            "xl"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "set-manusi-copii-5-perechi-ventura-s",
-      "name": "Set Manusi Copii (5 perechi) VENTURA S",
-      "brand": "VENTURA",
-      "category": "accesorii",
-      "price": 99.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "101212",
-      "ean": "",
-      "description": "Elastic Lycra la capatPe partea interioara material non-slip knobsSetul contine 5 perechi manusi",
-      "url": "",
-      "images": [],
-      "rating": 4.7,
-      "reviews_count": 18,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "ventura"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.426497",
-      "original_price": 148.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Set Manusi Copii (5 perechi) VENTURA S",
-        "brand": {
-          "@type": "Brand",
-          "name": "VENTURA"
-        },
-        "description": "Elastic Lycra la capatPe partea interioara material non-slip knobsSetul contine 5 perechi manusi",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "99.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "children_cycling"
-        ],
-        "target_audience": [
-          "children"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "ventura",
-          "accesorii",
-          "set",
-          "manusi",
-          "copii"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "ventura set manusi copii (5 perechi) ventura s",
-          "set manusi copii (5 perechi) ventura s ventura",
-          "accesorii ventura"
-        ],
-        "voice_search_phrases": [
-          "where to buy set manusi copii (5 perechi) ventura s",
-          "best set manusi copii (5 perechi) ventura s price",
-          "how to install set manusi copii (5 perechi) ventura s"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "set",
-            "manusi",
-            "copii",
-            "5",
-            "perechi",
-            "ventura",
-            "s"
-          ],
-          "en": [
-            "set",
-            "manusi",
-            "copii",
-            "5",
-            "perechi",
-            "ventura",
-            "s"
-          ],
-          "de": [
-            "set",
-            "manusi",
-            "copii",
-            "5",
-            "perechi",
-            "ventura",
-            "s"
-          ],
-          "hu": [
-            "set",
-            "manusi",
-            "copii",
-            "5",
-            "perechi",
-            "ventura",
-            "s"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
     }
-  ]
+  ],
+  "total_count": 200,
+  "last_updated": "2025-08-07T19:00:00.000000"
 }

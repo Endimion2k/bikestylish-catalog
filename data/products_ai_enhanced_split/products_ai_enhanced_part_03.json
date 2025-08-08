@@ -1,113 +1,938 @@
 {
-  "last_updated": "2025-07-28T22:39:01.000000",
-  "total_products": 203,
-  "version": "2.0.0",
-  "source": "bikestylish.ro",
-  "part_info": {
-    "part_number": 3,
-    "total_parts": 27,
-    "products_range": "407-609"
-  },
-  "categories": [
-    {
-      "id": "accesorii",
-      "name": "Accesorii",
-      "count": 4326
-    },
-    {
-      "id": "biciclete",
-      "name": "Biciclete",
-      "count": 779
-    },
-    {
-      "id": "piese-schimb",
-      "name": "Piese de Schimb",
-      "count": 332
-    }
-  ],
-  "brands": [
-    {
-      "name": "Ureche",
-      "product_count": 895
-    },
-    {
-      "name": "M-WAVE",
-      "product_count": 812
-    },
-    {
-      "name": "SXT",
-      "product_count": 653
-    },
-    {
-      "name": "VELO",
-      "product_count": 326
-    },
-    {
-      "name": "SHIMANO",
-      "product_count": 294
-    },
-    {
-      "name": "Spita",
-      "product_count": 270
-    },
-    {
-      "name": "KENDA",
-      "product_count": 151
-    },
-    {
-      "name": "Butuc",
-      "product_count": 148
-    },
-    {
-      "name": "Pedale",
-      "product_count": 146
-    },
-    {
-      "name": "VENTURA",
-      "product_count": 109
-    },
-    {
-      "name": "Cheie",
-      "product_count": 97
-    },
-    {
-      "name": "Lant",
-      "product_count": 73
-    },
-    {
-      "name": "Camera",
-      "product_count": 71
-    },
-    {
-      "name": "Set",
-      "product_count": 67
-    },
-    {
-      "name": "Janta",
-      "product_count": 53
-    },
-    {
-      "name": "Kit",
-      "product_count": 43
-    },
-    {
-      "name": "Manusi",
-      "product_count": 41
-    },
-    {
-      "name": "Suport",
-      "product_count": 39
-    },
-    {
-      "name": "Pinion",
-      "product_count": 35
-    },
-    {
-      "name": "TREK",
-      "product_count": 30
-    }
-  ],
   "products": [
+    {
+      "id": "pedale-aluminiu-vp-63x82-negru",
+      "name": "Pedale Aluminiu VP 63x82-Negru",
+      "brand": "SXT",
+      "category": "accesorii",
+      "price": 110.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "sku": "100399",
+      "ean": "",
+      "description": "Pedale AluminiuCu ReflectorizantiCale de Rulare pe RulmentiAx CrMo",
+      "url": "",
+      "images": [],
+      "rating": 4.0,
+      "reviews_count": 1,
+      "warranty": "24 luni",
+      "tags": [
+        "accesorii",
+        "pedale"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.420977",
+      "original_price": 165.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Pedale Aluminiu VP 63x82-Negru",
+        "brand": {
+          "@type": "Brand",
+          "name": "Pedale"
+        },
+        "description": "Pedale AluminiuCu ReflectorizantiCale de Rulare pe RulmentiAx CrMo",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "110.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/OutOfStock",
+          "url": "",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [
+          "size_63x82"
+        ],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "pedale",
+          "accesorii",
+          "pedale",
+          "aluminiu",
+          "vp"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "pedale pedale aluminiu vp 63x82-negru",
+          "pedale aluminiu vp 63x82-negru pedale",
+          "accesorii pedale"
+        ],
+        "voice_search_phrases": [
+          "where to buy pedale aluminiu vp 63x82-negru",
+          "best pedale aluminiu vp 63x82-negru price",
+          "how to install pedale aluminiu vp 63x82-negru"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "pedale",
+            "aluminiu",
+            "vp",
+            "63x82",
+            "negru"
+          ],
+          "en": [
+            "pedale",
+            "aluminiu",
+            "vp",
+            "63x82",
+            "negru"
+          ],
+          "de": [
+            "pedale",
+            "aluminiu",
+            "vp",
+            "63x82",
+            "negru"
+          ],
+          "hu": [
+            "pedale",
+            "aluminiu",
+            "vp",
+            "63x82",
+            "negru"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Pedale"
+    },
+    {
+      "id": "pedale-aluminiu-sxt-64x94-silver",
+      "name": "Pedale Aluminiu SXT 64x94-Silver",
+      "brand": "SXT",
+      "category": "accesorii",
+      "price": 65.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 3,
+      "sku": "100400",
+      "ean": "",
+      "description": "Materialul corpului pedalei aluminiuMaterialul axului pedalei CrMoMaterial pedala Cage aluminiuDimensiune filet ax 9/16\".Cale de rulare - bile de rulmenti - sigilat(protectie impotriva prafului)311112",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-aluminiu-sxt-64x94-silver.html ",
+      "images": [],
+      "rating": 4.1,
+      "reviews_count": 2,
+      "warranty": "12 luni",
+      "tags": [
+        "accesorii",
+        "sxt"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.420984",
+      "original_price": 97.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Pedale Aluminiu SXT 64x94-Silver",
+        "brand": {
+          "@type": "Brand",
+          "name": "SXT"
+        },
+        "description": "Materialul corpului pedalei aluminiuMaterialul axului pedalei CrMoMaterial pedala Cage aluminiuDimensiune filet ax 9/16\".Cale de rulare - bile de rulmenti - sigilat(protectie impotriva prafului)311112",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "65.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-aluminiu-sxt-64x94-silver.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [
+          "size_64x94"
+        ],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "sxt",
+          "accesorii",
+          "pedale",
+          "aluminiu",
+          "sxt"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "sxt pedale aluminiu sxt 64x94-silver",
+          "pedale aluminiu sxt 64x94-silver sxt",
+          "accesorii sxt"
+        ],
+        "voice_search_phrases": [
+          "where to buy pedale aluminiu sxt 64x94-silver",
+          "best pedale aluminiu sxt 64x94-silver price",
+          "how to install pedale aluminiu sxt 64x94-silver"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "pedale",
+            "aluminiu",
+            "sxt",
+            "64x94",
+            "silver"
+          ],
+          "en": [
+            "pedale",
+            "aluminiu",
+            "sxt",
+            "64x94",
+            "silver"
+          ],
+          "de": [
+            "pedale",
+            "aluminiu",
+            "sxt",
+            "64x94",
+            "silver"
+          ],
+          "hu": [
+            "pedale",
+            "aluminiu",
+            "sxt",
+            "64x94",
+            "silver"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "pedale-aluminiu-sxt-64x94-negru",
+      "name": "Pedale Aluminiu SXT 64x94-Negru",
+      "brand": "SXT",
+      "category": "accesorii",
+      "price": 58.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100401",
+      "ean": "",
+      "description": "Materialul corpului pedalei aluminiuMaterialul axului pedalei CrMoMaterial pedala Cage aluminiuDimensiune filet ax 9/16\".Cale de rulare - bile de rulmenti - sigilat(protectie impotriva prafului)311113",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-aluminiu-sxt-64x94-negru.html ",
+      "images": [],
+      "rating": 4.2,
+      "reviews_count": 3,
+      "warranty": "12 luni",
+      "tags": [
+        "accesorii",
+        "sxt"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.420990",
+      "original_price": 87.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Pedale Aluminiu SXT 64x94-Negru",
+        "brand": {
+          "@type": "Brand",
+          "name": "SXT"
+        },
+        "description": "Materialul corpului pedalei aluminiuMaterialul axului pedalei CrMoMaterial pedala Cage aluminiuDimensiune filet ax 9/16\".Cale de rulare - bile de rulmenti - sigilat(protectie impotriva prafului)311113",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "58.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-aluminiu-sxt-64x94-negru.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [
+          "size_64x94"
+        ],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "sxt",
+          "accesorii",
+          "pedale",
+          "aluminiu",
+          "sxt"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "sxt pedale aluminiu sxt 64x94-negru",
+          "pedale aluminiu sxt 64x94-negru sxt",
+          "accesorii sxt"
+        ],
+        "voice_search_phrases": [
+          "where to buy pedale aluminiu sxt 64x94-negru",
+          "best pedale aluminiu sxt 64x94-negru price",
+          "how to install pedale aluminiu sxt 64x94-negru"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "pedale",
+            "aluminiu",
+            "sxt",
+            "64x94",
+            "negru"
+          ],
+          "en": [
+            "pedale",
+            "aluminiu",
+            "sxt",
+            "64x94",
+            "negru"
+          ],
+          "de": [
+            "pedale",
+            "aluminiu",
+            "sxt",
+            "64x94",
+            "negru"
+          ],
+          "hu": [
+            "pedale",
+            "aluminiu",
+            "sxt",
+            "64x94",
+            "negru"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "pedale-aluminiu-sxt-70x94",
+      "name": "Pedale Aluminiu SXT 70x94",
+      "brand": "SXT",
+      "category": "accesorii",
+      "price": 35.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100402",
+      "ean": "",
+      "description": "Pedale cu corp si cage din aluminiuAx solid din metal negru, tratat termicCale de rulare pe bileDiametrul ax 9/16\"Dimensiune 70x94 mmCuloare Silver/Black",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-aluminiu-sxt-70x94.html ",
+      "images": [],
+      "rating": 4.3,
+      "reviews_count": 4,
+      "warranty": "12 luni",
+      "tags": [
+        "accesorii",
+        "sxt"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.420995",
+      "original_price": 52.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Pedale Aluminiu SXT 70x94",
+        "brand": {
+          "@type": "Brand",
+          "name": "SXT"
+        },
+        "description": "Pedale cu corp si cage din aluminiuAx solid din metal negru, tratat termicCale de rulare pe bileDiametrul ax 9/16\"Dimensiune 70x94 mmCuloare Silver/Black",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "35.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-aluminiu-sxt-70x94.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [
+          "size_70x94"
+        ],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "sxt",
+          "accesorii",
+          "pedale",
+          "aluminiu",
+          "sxt"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "sxt pedale aluminiu sxt 70x94",
+          "pedale aluminiu sxt 70x94 sxt",
+          "accesorii sxt"
+        ],
+        "voice_search_phrases": [
+          "where to buy pedale aluminiu sxt 70x94",
+          "best pedale aluminiu sxt 70x94 price",
+          "how to install pedale aluminiu sxt 70x94"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "pedale",
+            "aluminiu",
+            "sxt",
+            "70x94"
+          ],
+          "en": [
+            "pedale",
+            "aluminiu",
+            "sxt",
+            "70x94"
+          ],
+          "de": [
+            "pedale",
+            "aluminiu",
+            "sxt",
+            "70x94"
+          ],
+          "hu": [
+            "pedale",
+            "aluminiu",
+            "sxt",
+            "70x94"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "pedale-m-wave--steady-a-silvernegru",
+      "name": "Pedale M-WAVE  STEADY-A Silver/Negru",
+      "brand": "M-WAVE",
+      "category": "accesorii",
+      "price": 43.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100403",
+      "ean": "",
+      "description": "Pedale cu corp din Aluminiu si Cage din MetalCu ReflectorizantiCale de rulare pe Bile de RulmentAx solid din metal tratat termicCuloare Silver/NegruDiametrul ax 9/16\"Dimensiune 60x92 mm311320 - ambalat",
+      "url": "",
+      "images": [],
+      "rating": 4.4,
+      "reviews_count": 5,
+      "warranty": "12 luni",
+      "tags": [
+        "accesorii",
+        "m-wave"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.421001",
+      "original_price": 64.5,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Pedale M-WAVE  STEADY-A Silver/Negru",
+        "brand": {
+          "@type": "Brand",
+          "name": "M-WAVE"
+        },
+        "description": "Pedale cu corp din Aluminiu si Cage din MetalCu ReflectorizantiCale de rulare pe Bile de RulmentAx solid din metal tratat termicCuloare Silver/NegruDiametrul ax 9/16\"Dimensiune 60x92 mm311320 - ambalat",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "43.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "m-wave",
+          "accesorii",
+          "pedale",
+          "m",
+          "wave"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "m-wave pedale m-wave  steady-a silver/negru",
+          "pedale m-wave  steady-a silver/negru m-wave",
+          "accesorii m-wave"
+        ],
+        "voice_search_phrases": [
+          "where to buy pedale m-wave  steady-a silver/negru",
+          "best pedale m-wave  steady-a silver/negru price",
+          "how to install pedale m-wave  steady-a silver/negru"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "pedale",
+            "m",
+            "wave",
+            "steady",
+            "a",
+            "silver",
+            "negru"
+          ],
+          "en": [
+            "pedale",
+            "m",
+            "wave",
+            "steady",
+            "a",
+            "silver",
+            "negru"
+          ],
+          "de": [
+            "pedale",
+            "m",
+            "wave",
+            "steady",
+            "a",
+            "silver",
+            "negru"
+          ],
+          "hu": [
+            "pedale",
+            "m",
+            "wave",
+            "steady",
+            "a",
+            "silver",
+            "negru"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
+    {
+      "id": "pedale-plastic--sxt-k3-79x9772x95",
+      "name": "Pedale Plastic  SXT K3 79x97/72x95",
+      "brand": "SXT",
+      "category": "accesorii",
+      "price": 18.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 5,
+      "sku": "100404",
+      "ean": "",
+      "description": "Pedale din Thermo PlasticCale de rulare pe BILEDimensiune 79x97/72x95Diametrul ax 9/16\"Ax solid de metalCu reflectorizantiCuloare Negru",
+      "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-plastic-sxt-k3-79x97-72x95.html ",
+      "images": [],
+      "rating": 4.5,
+      "reviews_count": 6,
+      "warranty": "12 luni",
+      "tags": [
+        "accesorii",
+        "sxt"
+      ],
+      "scraped_at": "2025-07-28T22:25:48.421007",
+      "original_price": 27.0,
+      "discount_percent": 33.33,
+      "ai_metadata": {
+        "content_type": "bicycle_product",
+        "optimization_level": "high",
+        "ai_searchable": true,
+        "geo_optimized": true,
+        "last_ai_update": "2025-07-28T22:45:09.000000"
+      },
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Pedale Plastic  SXT K3 79x97/72x95",
+        "brand": {
+          "@type": "Brand",
+          "name": "SXT"
+        },
+        "description": "Pedale din Thermo PlasticCale de rulare pe BILEDimensiune 79x97/72x95Diametrul ax 9/16\"Ax solid de metalCu reflectorizantiCuloare Negru",
+        "category": "accesorii",
+        "offers": {
+          "@type": "Offer",
+          "price": "18.0",
+          "priceCurrency": "RON",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.bikestylish.ro/accesorii-bicicleta/pedale-plastic-sxt-k3-79x97-72x95.html ",
+          "seller": {
+            "@type": "Organization",
+            "name": "BikeStylish.ro"
+          }
+        }
+      },
+      "ai_context": {
+        "product_type": "accesorii",
+        "primary_use_cases": [
+          "general_cycling"
+        ],
+        "target_audience": [
+          "general_cyclists"
+        ],
+        "compatibility_context": [
+          "size_79x97",
+          "size_72x95"
+        ],
+        "seasonal_relevance": [
+          "all_seasons"
+        ],
+        "skill_level_required": "intermediate",
+        "maintenance_level": "medium"
+      },
+      "search_optimization": {
+        "primary_keywords": [
+          "sxt",
+          "accesorii",
+          "pedale",
+          "plastic",
+          "sxt"
+        ],
+        "semantic_keywords": [],
+        "long_tail_keywords": [
+          "sxt pedale plastic  sxt k3 79x97/72x95",
+          "pedale plastic  sxt k3 79x97/72x95 sxt",
+          "accesorii sxt"
+        ],
+        "voice_search_phrases": [
+          "where to buy pedale plastic  sxt k3 79x97/72x95",
+          "best pedale plastic  sxt k3 79x97/72x95 price",
+          "how to install pedale plastic  sxt k3 79x97/72x95"
+        ],
+        "multilingual_terms": {
+          "ro": [
+            "pedale",
+            "plastic",
+            "sxt",
+            "k3",
+            "79x97",
+            "72x95"
+          ],
+          "en": [
+            "pedale",
+            "plastic",
+            "sxt",
+            "k3",
+            "79x97",
+            "72x95"
+          ],
+          "de": [
+            "pedale",
+            "plastic",
+            "sxt",
+            "k3",
+            "79x97",
+            "72x95"
+          ],
+          "hu": [
+            "pedale",
+            "plastic",
+            "sxt",
+            "k3",
+            "79x97",
+            "72x95"
+          ]
+        }
+      },
+      "technical_specifications": {
+        "compatibility": [
+          "universal",
+          "standard_mounting"
+        ],
+        "installation": {
+          "complexity": "intermediate",
+          "tools_required": [
+            "basic_tools"
+          ],
+          "time_estimate": "15-30 minutes"
+        },
+        "maintenance": {
+          "frequency": "monthly",
+          "difficulty": "easy",
+          "special_requirements": []
+        },
+        "performance_specs": {
+          "notes": "Performance specs extracted from description"
+        }
+      },
+      "faq_schema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": []
+      },
+      "product_relationships": {
+        "compatible_products": [],
+        "upgrade_suggestions": [],
+        "bundle_recommendations": [],
+        "alternative_brands": [],
+        "related_categories": []
+      }
+    },
     {
       "id": "set-placute-spd-exustar-e-c05f-mtb",
       "name": "Set Placute SPD EXUSTAR E-C05F MTB",
@@ -1369,7 +2194,7 @@
     {
       "id": "pedale-aluminiu--sxt-flat-negru",
       "name": "Pedale Aluminiu  SXT FLAT Negru",
-      "brand": "SXT",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 89.0,
       "currency": "RON",
@@ -1516,7 +2341,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "SXT"
     },
     {
       "id": "butuc-aluminiu-spate-sxt-32hfd-d342tse-hl-b12-14812-mm",
@@ -1701,7 +2528,7 @@
     {
       "id": "butuc-aluminiu-fata-sxt-32hfd---d041-b15-boost-2-rulmenti",
       "name": "Butuc Aluminiu Fata SXT 32H/FD - D041-B15 BOOST 2 Rulmenti",
-      "brand": "SXT",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 145.0,
       "currency": "RON",
@@ -1872,12 +2699,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "SXT"
     },
     {
       "id": "butuc-fata-novatec--do41sb-fd--36h-negru-2-rulmenti",
       "name": "Butuc Fata NOVATEC  DO41SB FD- 36H Negru 2 rulmenti",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 160.0,
       "currency": "RON",
@@ -2040,12 +2869,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "kit-conversie-novatec-20-mm",
       "name": "Kit Conversie NOVATEC 20 mm",
-      "brand": "Kit",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 70.0,
       "currency": "RON",
@@ -2192,12 +3023,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Kit"
     },
     {
       "id": "butuc-spate-novatec--d042sb-32h-fd-4-rulmenti-9-11v",
       "name": "Butuc Spate NOVATEC  D042SB 32H FD 4 rulmenti 9-11v",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 285.0,
       "currency": "RON",
@@ -2366,12 +3199,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-novatec--d042sb-36h-fd-4-rulmenti-9-11-v",
       "name": "Butuc Spate NOVATEC  D042SB 36H FD 4 rulmenti 9-11 v",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 285.0,
       "currency": "RON",
@@ -2544,12 +3379,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-novatec--do41sb-fd--32h-negru-2-rulmenti",
       "name": "Butuc Fata NOVATEC  DO41SB FD- 32H Negru 2 rulmenti",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 160.0,
       "currency": "RON",
@@ -2712,12 +3549,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-novatec-d791sba--32h-fd-alb",
       "name": "Butuc Fata NOVATEC D791SB/A  32H-FD-Alb",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 320.0,
       "currency": "RON",
@@ -2876,12 +3715,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-novatec-d791sba--32h-fd-negru",
       "name": "Butuc Fata NOVATEC D791SB/A  32H-FD-Negru",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 299.0,
       "currency": "RON",
@@ -3040,12 +3881,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-novatec-d791sba--32h-fd-rosu",
       "name": "Butuc Fata NOVATEC D791SB/A  32H-FD-Rosu",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 299.0,
       "currency": "RON",
@@ -3204,12 +4047,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "qr-spate-novatec-135-mm",
       "name": "QR Spate NOVATEC 135 mm",
-      "brand": "Qr",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 28.0,
       "currency": "RON",
@@ -3356,12 +4201,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Qr"
     },
     {
       "id": "butuc-spate-novatec-d792sba-aa-11s-32h-12-x-142-mm",
       "name": "Butuc Spate NOVATEC D792SB/A-AA-11S 32H 12 x 142 mm",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 550.0,
       "currency": "RON",
@@ -3536,12 +4383,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "spacer-butuc-fata-novatec-d791-sba-9-mm",
       "name": "Spacer Butuc Fata NOVATEC D791 SB/A 9 mm",
-      "brand": "Spacer",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 58.0,
       "currency": "RON",
@@ -3704,12 +4553,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Spacer"
     },
     {
       "id": "spacer-butuc-fata-novatec-d791-sba-5-mm",
       "name": "Spacer Butuc Fata Novatec D791 SB/A 5 mm",
-      "brand": "Spacer",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 58.0,
       "currency": "RON",
@@ -3872,12 +4723,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Spacer"
     },
     {
       "id": "butuc-fata-novatec-d791sba-24h-fd",
       "name": "Butuc Fata NOVATEC D791SB/A 24H FD",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 295.0,
       "currency": "RON",
@@ -4032,12 +4885,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-novatec-d792sba-aa-11s-32h-negru",
       "name": "Butuc Spate NOVATEC D792SB/A-AA-11S 32H-Negru",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 550.0,
       "currency": "RON",
@@ -4200,12 +5055,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-novatec-d792sba-aa-1112s-32h-rosu",
       "name": "Butuc Spate NOVATEC D792SB/A-AA-11/12S 32H-Rosu",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 550.0,
       "currency": "RON",
@@ -4372,12 +5229,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "spacer-butuc-fata--novatec--d791-sba---12-mm",
       "name": "Spacer Butuc Fata  NOVATEC  D791 SB/A - 12 mm",
-      "brand": "Spacer",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 58.0,
       "currency": "RON",
@@ -4540,12 +5399,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Spacer"
     },
     {
       "id": "spacer-butuc-fata-novatec-d791-sba---15-mm-thru-axle",
       "name": "Spacer Butuc Fata NOVATEC D791 SB/A - 15 mm Thru Axle",
-      "brand": "Spacer",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 58.0,
       "currency": "RON",
@@ -4716,7 +5577,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Spacer"
     },
     {
       "id": "butuc-fata-aluminiu-qr-36h-sxt-100-mm",
@@ -4885,7 +5748,7 @@
     {
       "id": "spacer-butuc-fata-novatec-d411cb--12-mm",
       "name": "Spacer Butuc Fata NOVATEC D411CB- 12 mm",
-      "brand": "Spacer",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 56.0,
       "currency": "RON",
@@ -5040,7 +5903,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Spacer"
     },
     {
       "id": "butuc-aluminiu--casetat-sxt-36h-8-10-11-viteze",
@@ -5215,7 +6080,7 @@
     {
       "id": "butuc-spate-novatec-boost-148-12-mm-28h-fd-straight-pull-xds",
       "name": "Butuc Spate NOVATEC Boost 148-12 mm 28H-FD Straight Pull XDS642SB-B12-ABG",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 799.0,
       "currency": "RON",
@@ -5400,12 +6265,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-novatec--xds-641sb-b15-28hfd",
       "name": "Butuc Fata Novatec  XDS 641SB-B15 28H/FD",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 450.0,
       "currency": "RON",
@@ -5564,7 +6431,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-aluminiu-qr-sxt-36-hfdfiletat",
@@ -5737,7 +6606,7 @@
     {
       "id": "butuc-spate--novatec-f162sbaa-11s-32h",
       "name": "Butuc Spate  NOVATEC F162SB/AA-11S 32H",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 240.0,
       "currency": "RON",
@@ -5892,12 +6761,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-novatec-f162sbaa-11s-36h",
       "name": "Butuc Spate NOVATEC F162SB/AA-11S 36H",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 240.0,
       "currency": "RON",
@@ -6052,12 +6923,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-novatec-a141sb-32h",
       "name": "Butuc Fata NOVATEC A141SB 32H",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 99.0,
       "currency": "RON",
@@ -6204,12 +7077,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-novatec-a141sb-36h",
       "name": "Butuc Fata NOVATEC A141SB 36H",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 99.0,
       "currency": "RON",
@@ -6356,7 +7231,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-shimano-deore-xt-32h-fd",
@@ -6989,7 +7866,7 @@
     {
       "id": "set-qr-novatec-negru",
       "name": "Set QR NOVATEC Negru",
-      "brand": "Set",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 69.0,
       "currency": "RON",
@@ -7132,12 +8009,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Set"
     },
     {
       "id": "rulment-japonez-sigilat-novatec-typ-6802",
       "name": "Rulment Japonez Sigilat NOVATEC Typ 6802",
-      "brand": "Rulment",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 75.0,
       "currency": "RON",
@@ -7288,12 +8167,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Rulment"
     },
     {
       "id": "rulment-japonez-sigilat-novatec-typ-6804",
       "name": "Rulment Japonez Sigilat NOVATEC Typ 6804",
-      "brand": "Rulment",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 75.0,
       "currency": "RON",
@@ -7444,12 +8325,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Rulment"
     },
     {
       "id": "rulment-japonez-sigilat-novatec-typ-699",
       "name": "Rulment Japonez Sigilat NOVATEC Typ 699",
-      "brand": "Rulment",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 54.0,
       "currency": "RON",
@@ -7600,12 +8483,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Rulment"
     },
     {
       "id": "caseta-butuc-novatec--b1-9-12-v-ca",
       "name": "Caseta Butuc NOVATEC ( B1) 9-12 v CA",
-      "brand": "Caseta",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 172.0,
       "currency": "RON",
@@ -7766,12 +8651,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Caseta"
     },
     {
       "id": "caseta-butuc-novatec--x4--sr",
       "name": "Caseta Butuc NOVATEC ( X4 ) SR",
-      "brand": "Caseta",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 350.0,
       "currency": "RON",
@@ -7918,12 +8805,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Caseta"
     },
     {
       "id": "cleste-inel-de-siguranta-pedale-ht",
       "name": "Cleste Inel de Siguranta Pedale HT",
-      "brand": "Cleste",
+      "brand": "HT",
       "category": "accesorii",
       "price": 170.0,
       "currency": "RON",
@@ -8074,12 +8963,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Cleste"
     },
     {
       "id": "pedale-ht-an01--purple",
       "name": "Pedale HT AN01- Purple",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 325.0,
       "currency": "RON",
@@ -8222,12 +9113,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-an01-verde-apple",
       "name": "Pedale HT AN01-Verde Apple",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 299.0,
       "currency": "RON",
@@ -8374,12 +9267,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-an01-negru",
       "name": "Pedale HT AN01-Negru",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 299.0,
       "currency": "RON",
@@ -8522,12 +9417,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-an01-rosu",
       "name": "Pedale HT AN01-Rosu",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 325.0,
       "currency": "RON",
@@ -8670,12 +9567,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa03a-pini-detasabili-rosu",
       "name": "Pedale HT PA03A Pini Detasabili-Rosu",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 210.0,
       "currency": "RON",
@@ -8826,12 +9725,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa03a-pini-detasabili-negru",
       "name": "Pedale HT PA03A Pini Detasabili-Negru",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 210.0,
       "currency": "RON",
@@ -8982,12 +9883,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa03a-pini-detasabili-albastru-sky292c",
       "name": "Pedale HT PA03A Pini Detasabili Albastru Sky(292C)",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 210.0,
       "currency": "RON",
@@ -9146,12 +10049,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa03a-pini-detasabili-albastru-dark",
       "name": "Pedale HT PA03A Pini Detasabili-Albastru Dark",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 210.0,
       "currency": "RON",
@@ -9306,12 +10211,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa03a-pini-detasabili-verde802c",
       "name": "Pedale HT PA03A Pini Detasabili-Verde(802C)",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 210.0,
       "currency": "RON",
@@ -9466,12 +10373,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa03a-pini-detasabili-alb",
       "name": "Pedale HT PA03A Pini Detasabili-Alb",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 210.0,
       "currency": "RON",
@@ -9622,12 +10531,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-ans01-rosu",
       "name": "Pedale HT ANS01-Rosu",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 399.0,
       "currency": "RON",
@@ -9770,12 +10681,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-ans01-negru",
       "name": "Pedale HT ANS01-Negru",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 399.0,
       "currency": "RON",
@@ -9918,12 +10831,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-ans01-albastru-marine",
       "name": "Pedale HT ANS01-Albastru Marine",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 399.0,
       "currency": "RON",
@@ -10070,12 +10985,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-ans01-gold",
       "name": "Pedale HT ANS01-Gold",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 399.0,
       "currency": "RON",
@@ -10218,12 +11135,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-ans01-verde-apple",
       "name": "Pedale HT ANS01-Verde Apple",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 399.0,
       "currency": "RON",
@@ -10370,12 +11289,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-878-leopard--negru",
       "name": "Pedale HT 878 LEOPARD -Negru",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 255.0,
       "currency": "RON",
@@ -10522,12 +11443,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa12a-galben--pini-detasabili",
       "name": "Pedale HT PA12A-Galben  Pini Detasabili",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 197.0,
       "currency": "RON",
@@ -10678,12 +11601,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa12a-verde802c--pini--detasabili",
       "name": "Pedale HT PA12A-Verde(802C)  Pini  Detasabili",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 197.0,
       "currency": "RON",
@@ -10838,12 +11763,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa12a-portocaliu-pini-detasabili",
       "name": "Pedale HT PA12A-Portocaliu Pini Detasabili",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 197.0,
       "currency": "RON",
@@ -10994,12 +11921,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa12a--albe--pini-detasabili",
       "name": "Pedale HT PA12A  Albe  Pini Detasabili",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 197.0,
       "currency": "RON",
@@ -11150,12 +12079,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa12a---mov--pini-detasabili",
       "name": "Pedale HT PA12A - Mov  Pini Detasabili",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 197.0,
       "currency": "RON",
@@ -11306,12 +12237,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa12a-roz-pini-detasabili",
       "name": "Pedale HT PA12A-Roz Pini Detasabili",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 197.0,
       "currency": "RON",
@@ -11462,12 +12395,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa12a-albastru41359-pini-detasabili",
       "name": "Pedale HT PA12A-Albastru(41359) Pini Detasabili",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 197.0,
       "currency": "RON",
@@ -11622,12 +12557,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa12a-sky-blue292c--pini-detasabili",
       "name": "Pedale HT PA12A Sky Blue(292C)  Pini Detasabili",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 197.0,
       "currency": "RON",
@@ -11786,12 +12723,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa12a-negru-pini-detasabili",
       "name": "Pedale HT PA12A-Negru Pini Detasabili",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 159.0,
       "currency": "RON",
@@ -11942,12 +12881,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pa12a-rosu-pini-detasabili",
       "name": "Pedale HT PA12A-Rosu Pini Detasabili",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 197.0,
       "currency": "RON",
@@ -12098,12 +13039,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pk01-carbon",
       "name": "Pedale HT PK01 Carbon",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 525.0,
       "currency": "RON",
@@ -12246,12 +13189,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "pedale-ht-pk01g-negre",
       "name": "Pedale HT PK01G Negre",
-      "brand": "Pedale",
+      "brand": "HT",
       "category": "accesorii",
       "price": 350.0,
       "currency": "RON",
@@ -12394,12 +13339,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Pedale"
     },
     {
       "id": "butuc-fata-carbon-fd-novatec-d411cb-28h",
       "name": "Butuc Fata Carbon FD NOVATEC D411CB 28H",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 550.0,
       "currency": "RON",
@@ -12554,12 +13501,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "kit-conversie-5-mm-novatec-d411cb",
       "name": "Kit Conversie 5 mm NOVATEC D411CB",
-      "brand": "Kit",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 54.0,
       "currency": "RON",
@@ -12710,12 +13659,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Kit"
     },
     {
       "id": "butuc-spate-carbon-fd-novatec-d412cb-24-12x142-mm-straight-p",
       "name": "Butuc Spate Carbon FD NOVATEC D412CB-24 12x142 mm Straight Pull 24H",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 720.0,
       "currency": "RON",
@@ -12892,12 +13843,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-carbon-fd-novatec-d412cb-28",
       "name": "Butuc Spate Carbon FD NOVATEC D412CB-28",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 720.0,
       "currency": "RON",
@@ -13052,12 +14005,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata--novatec-d791sba-15--32h-fd-15-x-100-mm",
       "name": "Butuc Fata  NOVATEC D791SB/A-15  32H FD 15 x 100 mm",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 285.0,
       "currency": "RON",
@@ -13232,12 +14187,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-novatec-d792sba-aa-x12-32h-fd",
       "name": "Butuc Spate NOVATEC D792SB/A-AA-X12 32H FD",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 550.0,
       "currency": "RON",
@@ -13400,12 +14357,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-novatec-d792sba-aa-11s--24h-fd--12-x-142",
       "name": "Butuc Spate NOVATEC D792SB/A-AA-11S  24H FD  12 x 142",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 575.0,
       "currency": "RON",
@@ -13580,12 +14539,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-novatec-dh61sb-hl--20x110--32h-fd-negru",
       "name": "Butuc Fata NOVATEC DH61SB-HL  20x110  32H FD Negru",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 220.0,
       "currency": "RON",
@@ -13750,12 +14711,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-boost--novatec-d791sb-b15-32h-fd-110-mm",
       "name": "Butuc Fata Boost  NOVATEC D791SB-B15 32H FD 110 mm",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 240.0,
       "currency": "RON",
@@ -13922,12 +14885,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate--boost-novatec-d462sb-a5a-b12-32h-fd-148-mm",
       "name": "Butuc Spate  Boost NOVATEC D462SB-A5A-B12 32H FD 148 mm",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 450.0,
       "currency": "RON",
@@ -14098,12 +15063,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-enduro-novatec-d811sb-15-32h-fd-100-mm-negru",
       "name": "Butuc Fata Enduro NOVATEC D811SB-15 32H FD 100 mm-Negru",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 250.0,
       "currency": "RON",
@@ -14274,12 +15241,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-fat-bike-novatec-d101sb-36h-fd-135-mm",
       "name": "Butuc Fata Fat Bike NOVATEC D101SB 36H FD 135 mm",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 320.0,
       "currency": "RON",
@@ -14446,12 +15415,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-fat-bike-novatec-d102sbss-36-h",
       "name": "Butuc Spate Fat Bike NOVATEC D102SB/SS 36 H",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 499.0,
       "currency": "RON",
@@ -14614,12 +15585,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-fat-bike-novatec-d201sb-32h-fd-150-mm",
       "name": "Butuc Fata Fat Bike NOVATEC D201SB 32H FD 150 mm",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 350.0,
       "currency": "RON",
@@ -14786,12 +15759,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-fat-bike-novatec-d202sb-32h-fd-197-mm",
       "name": "Butuc Spate Fat Bike NOVATEC D202SB 32H FD 197 mm",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 590.0,
       "currency": "RON",
@@ -14958,12 +15933,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "kit-conversie-qr-5-x-190-mm",
       "name": "Kit Conversie QR 5 x 190 mm",
-      "brand": "Kit",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 135.0,
       "currency": "RON",
@@ -15118,7 +16095,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Kit"
     },
     {
       "id": "butuc-fata-sxt-32h-fd-2-rulmenti",
@@ -15613,7 +16592,7 @@
     {
       "id": "butuc-fata-carbon-novatec-as61cb-20h",
       "name": "Butuc Fata Carbon NOVATEC AS61CB 20H",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 395.0,
       "currency": "RON",
@@ -15764,12 +16743,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-carbon-novatec-fs62cb-11s",
       "name": "Butuc Spate Carbon NOVATEC FS62CB-11S",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 620.0,
       "currency": "RON",
@@ -15920,12 +16901,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-road-novatec-a291sba-sl---20h",
       "name": "Butuc Fata Road NOVATEC A291SB/A-SL   20H",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 330.0,
       "currency": "RON",
@@ -16086,12 +17069,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-novatec-a291sb---20h",
       "name": "Butuc Fata NOVATEC A291SB   20H",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 196.0,
       "currency": "RON",
@@ -16238,12 +17223,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-novatec-a291sb--28h",
       "name": "Butuc Fata NOVATEC A291SB  28H",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 200.0,
       "currency": "RON",
@@ -16390,12 +17377,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-novatec-a291sb--32h",
       "name": "Butuc Fata NOVATEC A291SB  32H",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 200.0,
       "currency": "RON",
@@ -16542,12 +17531,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-road-novatec-f482sbaa-11s-32h",
       "name": "Butuc Spate Road NOVATEC F482SB/AA-11S-32H",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 395.0,
       "currency": "RON",
@@ -16708,12 +17699,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-road-novatec-f482sbaa-11s-24",
       "name": "Butuc Spate Road NOVATEC F482SB/AA-11S-24",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 410.0,
       "currency": "RON",
@@ -16874,7 +17867,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-casetat-sxt-36h-7v",
@@ -18315,7 +19310,7 @@
     {
       "id": "butuc-fata-novatec-a165sbt-36h",
       "name": "Butuc Fata NOVATEC A165SBT 36H",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 155.0,
       "currency": "RON",
@@ -18462,7 +19457,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-fata-sxt-32h-silver-single--speed",
@@ -18627,7 +19624,7 @@
     {
       "id": "butuc-spate-fixietrack-novatec-a186sbt-36h-120-mm-silver",
       "name": "Butuc Spate Fixie/Track NOVATEC A186SBT 36H 120 mm Silver",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 235.0,
       "currency": "RON",
@@ -18794,12 +19791,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate-fixie-novatec-a566sbt-32h-120-mm-negru",
       "name": "Butuc Spate Fixie NOVATEC A566SBT 32H 120 mm Negru",
-      "brand": "Butuc",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 235.0,
       "currency": "RON",
@@ -18962,7 +19961,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Butuc"
     },
     {
       "id": "butuc-spate--sxt-32h-120-mm-silver-freefixed",
@@ -19135,7 +20136,7 @@
     {
       "id": "piulita-fata-butuc-single-speed",
       "name": "Piulita Fata Butuc Single Speed",
-      "brand": "Piulita",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 9.0,
       "currency": "RON",
@@ -19282,12 +20283,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Piulita"
     },
     {
       "id": "piulita-spate-butuc-single-speed",
       "name": "Piulita Spate Butuc Single Speed",
-      "brand": "Piulita",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 9.0,
       "currency": "RON",
@@ -19434,12 +20437,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Piulita"
     },
     {
       "id": "saiba-lockring-butuc-spate-single-speed-novatec",
       "name": "Saiba lockring Butuc Spate Single Speed NOVATEC",
-      "brand": "Saiba",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 15.0,
       "currency": "RON",
@@ -19594,7 +20599,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Saiba"
     },
     {
       "id": "pinion-fixie-12x18--sxt-13-t",
@@ -21063,7 +22070,7 @@
     {
       "id": "caseta-butuc-novatec-a2-8-11v-sh",
       "name": "Caseta Butuc NOVATEC (A2) 8-11v SH",
-      "brand": "Caseta",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 175.0,
       "currency": "RON",
@@ -21220,12 +22227,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Caseta"
     },
     {
       "id": "caseta-butuc-novatec-b---ls-sh",
       "name": "Caseta Butuc NOVATEC (B - LS) SH",
-      "brand": "Caseta",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 175.0,
       "currency": "RON",
@@ -21376,12 +22385,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Caseta"
     },
     {
       "id": "caseta-butuc-novatec-b-sr",
       "name": "Caseta Butuc NOVATEC (B) SR",
-      "brand": "Caseta",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 249.0,
       "currency": "RON",
@@ -21528,12 +22539,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected": true,
+      "original_brand": "Caseta"
     },
     {
       "id": "thru-axle-novatec-qr264-syn-142mmx12",
       "name": "Thru Axle NOVATEC \"QR264 SYN\" 142mm(X12)",
-      "brand": "Thru",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 165.0,
       "currency": "RON",
@@ -21688,12 +22701,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Thru"
     },
     {
       "id": "thru-axle-novatec-qr264-shi",
       "name": "Thru Axle NOVATEC QR264 SHI",
-      "brand": "Thru",
+      "brand": "SXT",
       "category": "accesorii",
       "price": 170.0,
       "currency": "RON",
@@ -21840,12 +22855,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Thru"
     },
     {
       "id": "set-qr-antifurt-tranz-x-silver",
       "name": "Set QR Antifurt TRANZ X-Silver",
-      "brand": "Set",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 79.0,
       "currency": "RON",
@@ -21996,12 +23013,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Set"
     },
     {
       "id": "set-qr-antifurt-tranz-x-negru",
       "name": "Set QR Antifurt TRANZ X-Negru",
-      "brand": "Set",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 89.0,
       "currency": "RON",
@@ -22152,12 +23171,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Set"
     },
     {
       "id": "qr-fata-novatec-100-mm",
       "name": "QR Fata NOVATEC 100 mm",
-      "brand": "Qr",
+      "brand": "NOVATEC",
       "category": "accesorii",
       "price": 28.0,
       "currency": "RON",
@@ -22304,7 +23325,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Qr"
     },
     {
       "id": "qr-spate-135-mm-sxt-silver",
@@ -23421,7 +24444,7 @@
     {
       "id": "bidon-aluminiu--sxt-abo-750--albastru",
       "name": "Bidon Aluminiu  SXT ABO 750 -Albastru",
-      "brand": "SXT",
+      "brand": "CN SPOKE",
       "category": "biciclete",
       "price": 26.0,
       "currency": "RON",
@@ -23572,7 +24595,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "SXT"
     },
     {
       "id": "bidon-aluminiu--sxt-abo-750--negru",
@@ -25337,7 +26362,7 @@
     {
       "id": "suport-bidon-aluminiu-q-stand-negru",
       "name": "Suport Bidon Aluminiu Q-STAND-Negru",
-      "brand": "Suport",
+      "brand": "M-WAVE",
       "category": "biciclete",
       "price": 30.0,
       "currency": "RON",
@@ -25488,7 +26513,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Suport"
     },
     {
       "id": "suport-bidon-aluminiu-m-wave-bc-47-negru",
@@ -29605,7 +30632,7 @@
     {
       "id": "surub-monobloc",
       "name": "Surub Monobloc",
-      "brand": "Surub",
+      "brand": "SXT",
       "category": "accesorii",
       "price": 2.0,
       "currency": "RON",
@@ -29739,7 +30766,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "Surub"
     },
     {
       "id": "surub-angrenaj-sxt--hollow-axle",
@@ -30056,7 +31085,7 @@
     {
       "id": "brat-angrenaj-metalplastic--sxt-170-mm-negru",
       "name": "Brat Angrenaj Metal/Plastic  SXT 170 mm, Negru",
-      "brand": "SXT",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 20.0,
       "currency": "RON",
@@ -30215,7 +31244,9 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "SXT"
     },
     {
       "id": "brat-angrenaj-stanga--m-wave-negru--170-mm-aluminiu",
@@ -30552,7 +31583,7 @@
     {
       "id": "brat-angrenaj-aluminiu--sxt-ab90-negru--170-mm",
       "name": "Brat Angrenaj Aluminiu  SXT AB90° Negru  170 mm",
-      "brand": "SXT",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 39.0,
       "currency": "RON",
@@ -30711,12 +31742,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "SXT"
     },
     {
       "id": "brat-angrenaj-aluminiu-sxt-as90-silver-170-mm",
       "name": "Brat Angrenaj Aluminiu SXT AS90° Silver 170 mm",
-      "brand": "SXT",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 39.0,
       "currency": "RON",
@@ -30875,12 +31908,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "SXT"
     },
     {
       "id": "brat-angrenaj-stanga-sxt-as1-aluminiu-170-mm-silver",
       "name": "Brat Angrenaj Stanga SXT AS1 Aluminiu 170 mm Silver",
-      "brand": "SXT",
+      "brand": "M-WAVE",
       "category": "accesorii",
       "price": 48.0,
       "currency": "RON",
@@ -31043,12 +32078,14 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
+      },
+      "brand_corrected_from_csv": true,
+      "original_brand": "SXT"
     },
     {
       "id": "subansamblu-ax-metal-bmx--neco-silver",
       "name": "Subansamblu Ax Metal BMX  NECO Silver",
-      "brand": "Subansamblu",
+      "brand": "NECO",
       "category": "accesorii",
       "price": 18.0,
       "currency": "RON",
@@ -31199,1447 +32236,11 @@
         "bundle_recommendations": [],
         "alternative_brands": [],
         "related_categories": []
-      }
-    },
-    {
-      "id": "ax-pedalier-bmx-metal-sxt",
-      "name": "Ax Pedalier BMX Metal SXT",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 30.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100598",
-      "ean": "",
-      "description": "Metal CPBrat Stang-7/8 X 24TPIBrat Drept-15/16 X 24TPILungime-152 mmFilet Pedale AX 1/2",
-      "url": "",
-      "images": [],
-      "rating": 4.0,
-      "reviews_count": 1,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.422417",
-      "original_price": 45.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
       },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Ax Pedalier BMX Metal SXT",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "Metal CPBrat Stang-7/8 X 24TPIBrat Drept-15/16 X 24TPILungime-152 mmFilet Pedale AX 1/2",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "30.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "ax",
-          "pedalier",
-          "bmx"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt ax pedalier bmx metal sxt",
-          "ax pedalier bmx metal sxt sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy ax pedalier bmx metal sxt",
-          "best ax pedalier bmx metal sxt price",
-          "how to install ax pedalier bmx metal sxt"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "ax",
-            "pedalier",
-            "bmx",
-            "metal",
-            "sxt"
-          ],
-          "en": [
-            "ax",
-            "pedalier",
-            "bmx",
-            "metal",
-            "sxt"
-          ],
-          "de": [
-            "ax",
-            "pedalier",
-            "bmx",
-            "metal",
-            "sxt"
-          ],
-          "hu": [
-            "ax",
-            "pedalier",
-            "bmx",
-            "metal",
-            "sxt"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "foaie-metal-bmx-44t-12-x-18-sxt",
-      "name": "Foaie Metal BMX 44T 1/2 X 1/8\" SXT",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 20.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100599",
-      "ean": "",
-      "description": "44 TCuloare NegruMetal1/8\"",
-      "url": "",
-      "images": [],
-      "rating": 4.1,
-      "reviews_count": 2,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.422424",
-      "original_price": 30.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Foaie Metal BMX 44T 1/2 X 1/8\" SXT",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "44 TCuloare NegruMetal1/8\"",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "20.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "foaie",
-          "metal",
-          "bmx"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt foaie metal bmx 44t 1/2 x 1/8\" sxt",
-          "foaie metal bmx 44t 1/2 x 1/8\" sxt sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy foaie metal bmx 44t 1/2 x 1/8\" sxt",
-          "best foaie metal bmx 44t 1/2 x 1/8\" sxt price",
-          "how to install foaie metal bmx 44t 1/2 x 1/8\" sxt"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "foaie",
-            "metal",
-            "bmx",
-            "44t",
-            "1",
-            "2",
-            "x",
-            "1",
-            "8",
-            "sxt"
-          ],
-          "en": [
-            "foaie",
-            "metal",
-            "bmx",
-            "44t",
-            "1",
-            "2",
-            "x",
-            "1",
-            "8",
-            "sxt"
-          ],
-          "de": [
-            "foaie",
-            "metal",
-            "bmx",
-            "44t",
-            "1",
-            "2",
-            "x",
-            "1",
-            "8",
-            "sxt"
-          ],
-          "hu": [
-            "foaie",
-            "metal",
-            "bmx",
-            "44t",
-            "1",
-            "2",
-            "x",
-            "1",
-            "8",
-            "sxt"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "set-ax-pedalier--rotund-sxt",
-      "name": "Set Ax Pedalier- Rotund SXT",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 28.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "sku": "100600",
-      "ean": "",
-      "description": "Metal CPB.B SetLungime 148 mmDiametrul-15,8 mmCupe 40 mmD1 - 43 mmD2 - 40 mm",
-      "url": "",
-      "images": [],
-      "rating": 4.2,
-      "reviews_count": 3,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.422430",
-      "original_price": 42.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Set Ax Pedalier- Rotund SXT",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "Metal CPB.B SetLungime 148 mmDiametrul-15,8 mmCupe 40 mmD1 - 43 mmD2 - 40 mm",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "28.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/OutOfStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "set",
-          "ax",
-          "pedalier"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt set ax pedalier- rotund sxt",
-          "set ax pedalier- rotund sxt sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy set ax pedalier- rotund sxt",
-          "best set ax pedalier- rotund sxt price",
-          "how to install set ax pedalier- rotund sxt"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "set",
-            "ax",
-            "pedalier",
-            "rotund",
-            "sxt"
-          ],
-          "en": [
-            "set",
-            "ax",
-            "pedalier",
-            "rotund",
-            "sxt"
-          ],
-          "de": [
-            "set",
-            "ax",
-            "pedalier",
-            "rotund",
-            "sxt"
-          ],
-          "hu": [
-            "set",
-            "ax",
-            "pedalier",
-            "rotund",
-            "sxt"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "set-angrenaj-metal-46-tax---rotund-sxt",
-      "name": "Set Angrenaj Metal 46 T/Ax - Rotund SXT",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 82.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100601",
-      "ean": "",
-      "description": "Setul contine:Angrenaj metal 46 TSet ax pedalier rotund pe coronite cu lungimea de 148 mm (359191)Ax pana x 2 bucLungime brat angrenaj 170 mmCuloare SilverPentru 1 vPentru lant de 1v--1/2\"-1/8\"",
-      "url": "https://www.bikestylish.ro/piese/set-angrenaj-metal-46-t-ax-rotund-sxt.html ",
-      "images": [],
-      "rating": 4.3,
-      "reviews_count": 4,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.422436",
-      "original_price": 123.0,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Set Angrenaj Metal 46 T/Ax - Rotund SXT",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "Setul contine:Angrenaj metal 46 TSet ax pedalier rotund pe coronite cu lungimea de 148 mm (359191)Ax pana x 2 bucLungime brat angrenaj 170 mmCuloare SilverPentru 1 vPentru lant de 1v--1/2\"-1/8\"",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "82.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/piese/set-angrenaj-metal-46-t-ax-rotund-sxt.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "set",
-          "angrenaj",
-          "metal"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt set angrenaj metal 46 t/ax - rotund sxt",
-          "set angrenaj metal 46 t/ax - rotund sxt sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy set angrenaj metal 46 t/ax - rotund sxt",
-          "best set angrenaj metal 46 t/ax - rotund sxt price",
-          "how to install set angrenaj metal 46 t/ax - rotund sxt"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "set",
-            "angrenaj",
-            "metal",
-            "46",
-            "t",
-            "ax",
-            "rotund",
-            "sxt"
-          ],
-          "en": [
-            "set",
-            "angrenaj",
-            "metal",
-            "46",
-            "t",
-            "ax",
-            "rotund",
-            "sxt"
-          ],
-          "de": [
-            "set",
-            "angrenaj",
-            "metal",
-            "46",
-            "t",
-            "ax",
-            "rotund",
-            "sxt"
-          ],
-          "hu": [
-            "set",
-            "angrenaj",
-            "metal",
-            "46",
-            "t",
-            "ax",
-            "rotund",
-            "sxt"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "angrenaj-pedalier-12-sxt-28-t",
-      "name": "Angrenaj Pedalier 12\" SXT 28 T",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 55.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 2,
-      "sku": "100602",
-      "ean": "",
-      "description": "Pentru biciclete 12 \"1/2x1/8Culoare NegruLungime Brat 89 mmJIS(pentru ax patrat)28 TB.B - lungime-127 mm",
-      "url": "https://www.bikestylish.ro/piese/angrenaj-pedalier-12-sxt-28-t.html ",
-      "images": [],
-      "rating": 4.4,
-      "reviews_count": 5,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.422444",
-      "original_price": 82.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Angrenaj Pedalier 12\" SXT 28 T",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "Pentru biciclete 12 \"1/2x1/8Culoare NegruLungime Brat 89 mmJIS(pentru ax patrat)28 TB.B - lungime-127 mm",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "55.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/piese/angrenaj-pedalier-12-sxt-28-t.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "angrenaj",
-          "pedalier",
-          "12"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt angrenaj pedalier 12\" sxt 28 t",
-          "angrenaj pedalier 12\" sxt 28 t sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy angrenaj pedalier 12\" sxt 28 t",
-          "best angrenaj pedalier 12\" sxt 28 t price",
-          "how to install angrenaj pedalier 12\" sxt 28 t"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "angrenaj",
-            "pedalier",
-            "12",
-            "sxt",
-            "28",
-            "t"
-          ],
-          "en": [
-            "angrenaj",
-            "pedalier",
-            "12",
-            "sxt",
-            "28",
-            "t"
-          ],
-          "de": [
-            "angrenaj",
-            "pedalier",
-            "12",
-            "sxt",
-            "28",
-            "t"
-          ],
-          "hu": [
-            "angrenaj",
-            "pedalier",
-            "12",
-            "sxt",
-            "28",
-            "t"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "angrenaj-pedalier--16-20--sxt--36-t-negru",
-      "name": "Angrenaj Pedalier  (16\"-20\")  SXT  36 T Negru",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 65.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100603",
-      "ean": "",
-      "description": "Pentru 18\"(16\"-20\")1/2x3/32Culoare NegruLungime Brat- 127 mm imbracat in plasticJIS(ax pe patrat)36 TB.B. lungime ax 127 mm",
-      "url": "https://www.bikestylish.ro/piese/angrenaj-pedalier-16-20-sxt-36-t-negru.html ",
-      "images": [],
-      "rating": 4.5,
-      "reviews_count": 6,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.422450",
-      "original_price": 97.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Angrenaj Pedalier  (16\"-20\")  SXT  36 T Negru",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "Pentru 18\"(16\"-20\")1/2x3/32Culoare NegruLungime Brat- 127 mm imbracat in plasticJIS(ax pe patrat)36 TB.B. lungime ax 127 mm",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "65.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/piese/angrenaj-pedalier-16-20-sxt-36-t-negru.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [
-          "size_16\"-20"
-        ],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "angrenaj",
-          "pedalier",
-          "16"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt angrenaj pedalier  (16\"-20\")  sxt  36 t negru",
-          "angrenaj pedalier  (16\"-20\")  sxt  36 t negru sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy angrenaj pedalier  (16\"-20\")  sxt  36 t negru",
-          "best angrenaj pedalier  (16\"-20\")  sxt  36 t negru price",
-          "how to install angrenaj pedalier  (16\"-20\")  sxt  36 t negru"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "angrenaj",
-            "pedalier",
-            "16",
-            "20",
-            "sxt",
-            "36",
-            "t",
-            "negru"
-          ],
-          "en": [
-            "angrenaj",
-            "pedalier",
-            "16",
-            "20",
-            "sxt",
-            "36",
-            "t",
-            "negru"
-          ],
-          "de": [
-            "angrenaj",
-            "pedalier",
-            "16",
-            "20",
-            "sxt",
-            "36",
-            "t",
-            "negru"
-          ],
-          "hu": [
-            "angrenaj",
-            "pedalier",
-            "16",
-            "20",
-            "sxt",
-            "36",
-            "t",
-            "negru"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "angrenaj-pedalier-2018-24-sxt-40-t",
-      "name": "Angrenaj Pedalier 20\"(18\"-24\") SXT 40 T",
-      "brand": "SXT",
-      "category": "accesorii",
-      "price": 65.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100604",
-      "ean": "",
-      "description": "Pentru 20\"(18\"-24\")1/2x3/32Culoare NegruLungime Brat - 152 mm imbracat in plasticJIS(ax patrat)40 TB.B. - lungime 119 mm",
-      "url": "",
-      "images": [],
-      "rating": 4.6,
-      "reviews_count": 7,
-      "warranty": "12 luni",
-      "tags": [
-        "accesorii",
-        "sxt"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.422458",
-      "original_price": 97.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Angrenaj Pedalier 20\"(18\"-24\") SXT 40 T",
-        "brand": {
-          "@type": "Brand",
-          "name": "SXT"
-        },
-        "description": "Pentru 20\"(18\"-24\")1/2x3/32Culoare NegruLungime Brat - 152 mm imbracat in plasticJIS(ax patrat)40 TB.B. - lungime 119 mm",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "65.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [
-          "size_18\"-24"
-        ],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "sxt",
-          "accesorii",
-          "angrenaj",
-          "pedalier",
-          "20"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "sxt angrenaj pedalier 20\"(18\"-24\") sxt 40 t",
-          "angrenaj pedalier 20\"(18\"-24\") sxt 40 t sxt",
-          "accesorii sxt"
-        ],
-        "voice_search_phrases": [
-          "where to buy angrenaj pedalier 20\"(18\"-24\") sxt 40 t",
-          "best angrenaj pedalier 20\"(18\"-24\") sxt 40 t price",
-          "how to install angrenaj pedalier 20\"(18\"-24\") sxt 40 t"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "angrenaj",
-            "pedalier",
-            "20",
-            "18",
-            "24",
-            "sxt",
-            "40",
-            "t"
-          ],
-          "en": [
-            "angrenaj",
-            "pedalier",
-            "20",
-            "18",
-            "24",
-            "sxt",
-            "40",
-            "t"
-          ],
-          "de": [
-            "angrenaj",
-            "pedalier",
-            "20",
-            "18",
-            "24",
-            "sxt",
-            "40",
-            "t"
-          ],
-          "hu": [
-            "angrenaj",
-            "pedalier",
-            "20",
-            "18",
-            "24",
-            "sxt",
-            "40",
-            "t"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "angrenaj-pedalier-m-wave-46-t",
-      "name": "Angrenaj Pedalier M-WAVE 46 T",
-      "brand": "M-WAVE",
-      "category": "accesorii",
-      "price": 199.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100609",
-      "ean": "",
-      "description": "Aluminiu Brat Aluminiu PolisatFoaie din aluminiu detasabila prelucrata CNCLungimea Bratului 165 mmLungimea intre Bolturi 130 mmJIS(Patrat)1/2x1/8Linia Lantului 45 mmB.B. Lungime 110 mmAngrenajul este pentru single speed.Greutate- aproximativ 613 grame",
-      "url": "https://www.bikestylish.ro/piese/angrenaj-pedalier-m-wave-46-t.html ",
-      "images": [],
-      "rating": 4.7,
-      "reviews_count": 8,
-      "warranty": "24 luni",
-      "tags": [
-        "accesorii",
-        "m-wave"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.422464",
-      "original_price": 298.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Angrenaj Pedalier M-WAVE 46 T",
-        "brand": {
-          "@type": "Brand",
-          "name": "M-WAVE"
-        },
-        "description": "Aluminiu Brat Aluminiu PolisatFoaie din aluminiu detasabila prelucrata CNCLungimea Bratului 165 mmLungimea intre Bolturi 130 mmJIS(Patrat)1/2x1/8Linia Lantului 45 mmB.B. Lungime 110 mmAngrenajul este pentru single speed.Greutate- aproximativ 613 grame",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "199.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "https://www.bikestylish.ro/piese/angrenaj-pedalier-m-wave-46-t.html ",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "m-wave",
-          "accesorii",
-          "angrenaj",
-          "pedalier",
-          "m"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "m-wave angrenaj pedalier m-wave 46 t",
-          "angrenaj pedalier m-wave 46 t m-wave",
-          "accesorii m-wave"
-        ],
-        "voice_search_phrases": [
-          "where to buy angrenaj pedalier m-wave 46 t",
-          "best angrenaj pedalier m-wave 46 t price",
-          "how to install angrenaj pedalier m-wave 46 t"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "angrenaj",
-            "pedalier",
-            "m",
-            "wave",
-            "46",
-            "t"
-          ],
-          "en": [
-            "angrenaj",
-            "pedalier",
-            "m",
-            "wave",
-            "46",
-            "t"
-          ],
-          "de": [
-            "angrenaj",
-            "pedalier",
-            "m",
-            "wave",
-            "46",
-            "t"
-          ],
-          "hu": [
-            "angrenaj",
-            "pedalier",
-            "m",
-            "wave",
-            "46",
-            "t"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
-    },
-    {
-      "id": "angrenaj-pedalier-m-wave-46-t",
-      "name": "Angrenaj Pedalier M-WAVE 46 T",
-      "brand": "M-WAVE",
-      "category": "accesorii",
-      "price": 125.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 5,
-      "sku": "100605",
-      "ean": "",
-      "description": "Brat din aluminiu polisat, forjat de culoare SilverFoaie dinmetal de culoare SilverLungime Brat- 170 mmJIS(patrat)1/2x3/32B.B. - lungime 131 mmAngrenaj compatibil 1 x 5,6,7,8v",
-      "url": "",
-      "images": [],
-      "rating": 4.8,
-      "reviews_count": 9,
-      "warranty": "24 luni",
-      "tags": [
-        "accesorii",
-        "m-wave"
-      ],
-      "scraped_at": "2025-07-28T22:25:48.422471",
-      "original_price": 187.5,
-      "discount_percent": 33.33,
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true,
-        "geo_optimized": true,
-        "last_ai_update": "2025-07-28T22:45:09.000000"
-      },
-      "schema_markup": {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Angrenaj Pedalier M-WAVE 46 T",
-        "brand": {
-          "@type": "Brand",
-          "name": "M-WAVE"
-        },
-        "description": "Brat din aluminiu polisat, forjat de culoare SilverFoaie dinmetal de culoare SilverLungime Brat- 170 mmJIS(patrat)1/2x3/32B.B. - lungime 131 mmAngrenaj compatibil 1 x 5,6,7,8v",
-        "category": "accesorii",
-        "offers": {
-          "@type": "Offer",
-          "price": "125.0",
-          "priceCurrency": "RON",
-          "availability": "https://schema.org/InStock",
-          "url": "",
-          "seller": {
-            "@type": "Organization",
-            "name": "BikeStylish.ro"
-          }
-        }
-      },
-      "ai_context": {
-        "product_type": "accesorii",
-        "primary_use_cases": [
-          "general_cycling"
-        ],
-        "target_audience": [
-          "general_cyclists"
-        ],
-        "compatibility_context": [],
-        "seasonal_relevance": [
-          "all_seasons"
-        ],
-        "skill_level_required": "intermediate",
-        "maintenance_level": "medium"
-      },
-      "search_optimization": {
-        "primary_keywords": [
-          "m-wave",
-          "accesorii",
-          "angrenaj",
-          "pedalier",
-          "m"
-        ],
-        "semantic_keywords": [],
-        "long_tail_keywords": [
-          "m-wave angrenaj pedalier m-wave 46 t",
-          "angrenaj pedalier m-wave 46 t m-wave",
-          "accesorii m-wave"
-        ],
-        "voice_search_phrases": [
-          "where to buy angrenaj pedalier m-wave 46 t",
-          "best angrenaj pedalier m-wave 46 t price",
-          "how to install angrenaj pedalier m-wave 46 t"
-        ],
-        "multilingual_terms": {
-          "ro": [
-            "angrenaj",
-            "pedalier",
-            "m",
-            "wave",
-            "46",
-            "t"
-          ],
-          "en": [
-            "angrenaj",
-            "pedalier",
-            "m",
-            "wave",
-            "46",
-            "t"
-          ],
-          "de": [
-            "angrenaj",
-            "pedalier",
-            "m",
-            "wave",
-            "46",
-            "t"
-          ],
-          "hu": [
-            "angrenaj",
-            "pedalier",
-            "m",
-            "wave",
-            "46",
-            "t"
-          ]
-        }
-      },
-      "technical_specifications": {
-        "compatibility": [
-          "universal",
-          "standard_mounting"
-        ],
-        "installation": {
-          "complexity": "intermediate",
-          "tools_required": [
-            "basic_tools"
-          ],
-          "time_estimate": "15-30 minutes"
-        },
-        "maintenance": {
-          "frequency": "monthly",
-          "difficulty": "easy",
-          "special_requirements": []
-        },
-        "performance_specs": {
-          "notes": "Performance specs extracted from description"
-        }
-      },
-      "faq_schema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": []
-      },
-      "product_relationships": {
-        "compatible_products": [],
-        "upgrade_suggestions": [],
-        "bundle_recommendations": [],
-        "alternative_brands": [],
-        "related_categories": []
-      }
+      "brand_corrected_from_csv": true,
+      "original_brand": "Subansamblu"
     }
-  ]
+  ],
+  "total_count": 200,
+  "last_updated": "2025-08-07T19:00:00.000000"
 }
