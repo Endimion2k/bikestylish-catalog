@@ -4,15 +4,15 @@
 
 [![API Status](https://img.shields.io/badge/API-Online-green)](https://endimion2k.github.io/bikestylish-catalog/)
 [![Version](https://img.shields.io/badge/Version-2.0.0-blue)](https://endimion2k.github.io/bikestylish-catalog/)
-[![Products](https://img.shields.io/badge/Products-5437-orange)](https://endimion2k.github.io/bikestylish-catalog/)
+[![Products](https://img.shields.io/badge/Products-5620-orange)](https://endimion2k.github.io/bikestylish-catalog/)
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 
-## � Ce este BikeStylish API?
+## ℹ️ Ce este BikeStylish API?
 
 BikeStylish API este prima platformă deschisă din România care oferă acces gratuit la un catalog complet de produse de ciclism:
 
-- **5,437 produse** cu specificații complete
-- **101 categorii** organizate inteligent  
+- **5,620 produse** cu specificații complete
+- **116 categorii** organizate inteligent  
 - **Zero autentificare** necesară
 - **CORS enabled** pentru toate domeniile
 - **AI-optimized** cu metadata bogată pentru machine learning
@@ -23,17 +23,17 @@ BikeStylish API este prima platformă deschisă din România care oferă acces g
 
 **Base URL:** `https://endimion2k.github.io/bikestylish-catalog/`
 
-### 📦 Endpoints Produse (27 părți)
+### 📦 Endpoints Produse (23 părți)
 ```
 https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/products_ai_enhanced_part_XX.json
 ```
-*Înlocuiește XX cu 01, 02, 03... 27*
+*Înlocuiește XX cu 01, 02, 03... 23*
 
-### 📂 Endpoints Categorii (26 părți)  
+### 📂 Endpoints Categorii (2 părți)  
 ```
 https://endimion2k.github.io/bikestylish-catalog/data/categories_ai_enhanced_split/categories_ai_enhanced_part_XX.json
 ```
-*Înlocuiește XX cu 01, 02, 03... 26*
+*Înlocuiește XX cu 01, 02*
 
 ## 💻 Exemple de Cod
 
@@ -58,11 +58,12 @@ def load_all_products():
     all_products = []
     base_url = "https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/"
     
-    for i in range(1, 28):
+    for i in range(1, 24):  # 01-23
         part_num = str(i).zfill(2)
         url = f"{base_url}products_ai_enhanced_part_{part_num}.json"
         
         response = requests.get(url)
+        response.raise_for_status()
         data = response.json()
         all_products.extend(data['products'])
         
@@ -88,14 +89,14 @@ curl -X GET "https://endimion2k.github.io/bikestylish-catalog/data/categories_ai
 ### Format Produse
 ```json
 {
-  "last_updated": "2025-07-28T22:39:01.000000",
-  "total_products": 203,
+  "last_updated": "2025-08-10T17:38:17.795483",
+  "total_products": 250,
   "version": "2.0.0",
   "source": "bikestylish.ro",
   "part_info": {
     "part_number": 1,
-    "total_parts": 27,
-    "products_range": "1-203"
+    "total_parts": 23,
+    "products_range": "1-250"
   },
   "products": [
     {
@@ -107,7 +108,7 @@ curl -X GET "https://endimion2k.github.io/bikestylish-catalog/data/categories_ai
       "description": "Descriere detaliată...",
       "images": ["url1", "url2"],
       "brand": "Brand",
-      "specifications": {...}
+      "specifications": {"...": "..."
     }
   ]
 }
@@ -116,14 +117,14 @@ curl -X GET "https://endimion2k.github.io/bikestylish-catalog/data/categories_ai
 ### Format Categorii
 ```json
 {
-  "last_updated": "2025-07-28T22:39:01.000000",
-  "total_categories": 4,
+  "last_updated": "2025-08-10T17:35:18.850281",
+  "total_categories": 100,
   "version": "2.0.0",
   "source": "bikestylish.ro",
   "part_info": {
     "part_number": 1,
-    "total_parts": 26,
-    "categories_range": "1-4"
+    "total_parts": 2,
+    "categories_range": "1-100"
   },
   "categories": [
     {
@@ -131,7 +132,7 @@ curl -X GET "https://endimion2k.github.io/bikestylish-catalog/data/categories_ai
       "name": "Nume Categorie",
       "description": "Descriere...",
       "products_count": 150,
-      "subcategories": [...],
+      "subcategories": ["..."],
       "parent_id": null
     }
   ]
@@ -152,13 +153,13 @@ curl -X GET "https://endimion2k.github.io/bikestylish-catalog/data/categories_ai
 
 | Metric | Valoare |
 |--------|---------|
-| **Total Produse** | 5,437 |
-| **Total Categorii** | 101 |
+| **Total Produse** | 5,620 |
+| **Total Categorii** | 116 |
 | **Fișiere JSON** | 53 |
 | **Dimensiune Totală** | 34.57 MB |
-| **Părți Produse** | 27 |
-| **Părți Categorii** | 26 |
-| **Ultima Actualizare** | 28 Iulie 2025 |
+| **Părți Produse** | 23 |
+| **Părți Categorii** | 2 |
+| **Ultima Actualizare** | 10 August 2025 |
 
 ## 🛠️ Utilizare Avansată
 
@@ -168,9 +169,10 @@ async function loadAllProducts() {
   const allProducts = [];
   const baseUrl = 'https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/';
   
-  for (let i = 1; i <= 27; i++) {
+  for (let i = 1; i <= 23; i++) {
     const partNumber = i.toString().padStart(2, '0');
     const response = await fetch(`${baseUrl}products_ai_enhanced_part_${partNumber}.json`);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
     allProducts.push(...data.products);
   }
@@ -185,16 +187,17 @@ async function searchProducts(query, category = null) {
   const products = await loadAllProducts();
   
   return products.filter(product => {
-    const matchesQuery = product.name.toLowerCase().includes(query.toLowerCase()) ||
-                        product.description.toLowerCase().includes(query.toLowerCase());
-    const matchesCategory = !category || product.category === category;
+    const name = (product.name || '').toLowerCase();
+    const desc = (product.description || '').toLowerCase();
+    const matchesQuery = name.includes(query.toLowerCase()) || desc.includes(query.toLowerCase());
+    const matchesCategory = !category || (product.category || '').toLowerCase() === category.toLowerCase();
     
     return matchesQuery && matchesCategory;
   });
 }
 
-// Exemplu: găsește toate bicicletele MTB
-const mtbBikes = await searchProducts('MTB', 'Biciclete');
+// Exemplu: găsește toate produsele din categoria "accesorii"
+const accessories = await searchProducts('accesorii', 'accesorii');
 ```
 
 ## 📝 Rate Limits și Politici

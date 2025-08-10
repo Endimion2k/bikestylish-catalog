@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BikeStylish API v2.0 - Free Bicycle Products & Categories API for AI Agents</title>
-    <meta name="description" content="Official API for BikeStylish.ro - Free REST API with 5,437 bicycle products and 101 categories from Romania's first AI-integrated online bicycle parts and accessories store. Perfect for AI agents, developers, and e-commerce applications. JSON format, CORS enabled, no authentication required.">
+    <meta name="description" content="Official API for BikeStylish.ro - Free REST API with 5,620 bicycle products and 116 categories from Romania's first AI-integrated online bicycle parts and accessories store. Perfect for AI agents, developers, and e-commerce applications. JSON format, CORS enabled, no authentication required.">
     <meta name="keywords" content="BikeStylish.ro, bicycle API, bike products API, Romania cycling, AI training data, e-commerce API, free API, JSON API, cycling products, AI agents, biciclete Romania">
     <meta name="robots" content="index, follow">
     <meta property="og:title" content="BikeStylish.ro API - Official Bicycle Products API">
-    <meta property="og:description" content="Official API for BikeStylish.ro with 5,437 bicycle products and 101 categories from Romania's first AI-integrated online bicycle parts and accessories store. Perfect for AI agents and developers.">
+    <meta property="og:description" content="Official API for BikeStylish.ro with 5,620 bicycle products and 116 categories from Romania's first AI-integrated online bicycle parts and accessories store. Perfect for AI agents and developers.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://endimion2k.github.io/bikestylish-catalog/">
     
@@ -18,7 +18,7 @@
       "@context": "https://schema.org",
       "@type": "Dataset",
       "name": "BikeStylish Bicycle Products API",
-      "description": "Comprehensive REST API containing 5,437 bicycle products and 101 categories with detailed specifications, pricing, and metadata. Optimized for AI agents and machine learning applications.",
+      "description": "Comprehensive REST API containing 5,620 bicycle products and 116 categories with detailed specifications, pricing, and metadata. Optimized for AI agents and machine learning applications.",
       "url": "https://endimion2k.github.io/bikestylish-catalog/",
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "creator": {
@@ -34,7 +34,7 @@
         }
       ],
       "keywords": ["bicycle", "API", "e-commerce", "AI training", "product catalog", "cycling"],
-      "dateModified": "2025-07-28",
+      "dateModified": "2025-08-10",
       "isAccessibleForFree": true
     }
     </script>
@@ -118,7 +118,7 @@
         <p style="text-align: center; color: #6c757d; font-size: 1.1em;">
             <strong>Free REST API for AI Agents & Developers</strong><br>
             Official API for <a href="https://www.bikestylish.ro" target="_blank" style="color: #007bff; text-decoration: none;"><strong>BikeStylish.ro</strong></a> products<br>
-            5,437 bicycle products • 101 categories • No authentication required
+            5,620 bicycle products • 116 categories • No authentication required
         </p>
         
         <div style="background: #fff3cd; border: 1px solid #ffeaa7; padding: 15px; border-radius: 8px; margin: 20px 0; text-align: center;">
@@ -134,12 +134,12 @@
         <div class="grid">
             <div class="card">
                 <h3>📦 Produse</h3>
-                <p><strong>27 părți</strong><br>5437 produse total</p>
+                <p><strong>23 părți</strong><br>5620 produse total</p>
                 <a href="./data/products_ai_enhanced_split/products_ai_enhanced_part_01.json" class="button">Test Produse</a>
             </div>
             <div class="card">
                 <h3>📂 Categorii</h3>
-                <p><strong>26 părți</strong><br>101 categorii total</p>
+                <p><strong>2 părți</strong><br>116 categorii total</p>
                 <a href="./data/categories_ai_enhanced_split/categories_ai_enhanced_part_01.json" class="button">Test Categorii</a>
             </div>
         </div>
@@ -161,17 +161,17 @@
 
         <h2>🔗 Endpoints API</h2>
         
-        <h3>Produse (1-27):</h3>
+        <h3>Produse (1-23):</h3>
         <div class="endpoint">
             https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/products_ai_enhanced_part_XX.json
         </div>
-        <p><em>Înlocuiește XX cu 01, 02, 03... 27</em></p>
+        <p><em>Înlocuiește XX cu 01, 02, 03... 23</em></p>
         
-        <h3>Categorii (1-26):</h3>
+        <h3>Categorii (1-2):</h3>
         <div class="endpoint">
             https://endimion2k.github.io/bikestylish-catalog/data/categories_ai_enhanced_split/categories_ai_enhanced_part_XX.json
         </div>
-        <p><em>Înlocuiește XX cu 01, 02, 03... 26</em></p>
+        <p><em>Înlocuiește XX cu 01, 02</em></p>
         
         <h2>📋 Exemple de Utilizare</h2>
         
@@ -180,51 +180,25 @@
 Use this API to search and recommend products:
 
 Base URL: https://endimion2k.github.io/bikestylish-catalog/data/
-Products: products_ai_enhanced_split/products_ai_enhanced_part_XX.json (01-27)
-Categories: categories_ai_enhanced_split/categories_ai_enhanced_part_XX.json (01-26)
+Products: products_ai_enhanced_split/products_ai_enhanced_part_XX.json (01-23)
+Categories: categories_ai_enhanced_split/categories_ai_enhanced_part_XX.json (01-02)
 
 Each product includes: name, brand, category, price, specifications, 
 multilingual keywords, and semantic relationships.</code></pre>
 
         <h3>📊 Response Schema Example:</h3>
         <pre style="background: #f8f9fa; padding: 15px; border-radius: 5px; overflow-x: auto;"><code>{
-  "last_updated": "2025-07-28T22:25:48.418022",
-  "total_products": 5437,
+  "last_updated": "2025-08-10T17:38:17.795483",
+  "total_products": 5620,
   "version": "2.0",
   "source": "https://www.bikestylish.ro",
   "part_info": {
     "current_part": 1,
-    "total_parts": 27,
-    "products_in_part": 201
+    "total_parts": 23,
+    "products_in_part": 250
   },
   "products": [
-    {
-      "id": "stegulet-reflectorizant-m-wave--sf-short",
-      "name": "Stegulet Reflectorizant M-WAVE SF SHORT",
-      "brand": "M-WAVE",
-      "category": "accesorii",
-      "price": 22.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "description": "Prindere pe portbagajLungime 380 mm",
-      "warranty": "12 luni",
-      "ai_metadata": {
-        "content_type": "bicycle_product",
-        "optimization_level": "high",
-        "ai_searchable": true
-      },
-      "search_optimization": {
-        "primary_keywords": ["m-wave", "accesorii", "stegulet"],
-        "semantic_keywords": ["safety", "visibility", "flag"],
-        "multilingual_terms": {
-          "ro": ["stegulet", "reflectorizant"],
-          "en": ["flag", "reflective"],
-          "de": ["fahne", "reflektierend"],
-          "hu": ["zászló", "fényvisszaverő"]
-        }
-      }
-    }
+    { "id": "...", "name": "..." }
   ]
 }</code></pre>
 
@@ -252,7 +226,7 @@ multilingual keywords, and semantic relationships.</code></pre>
             <h4>HTTP Status Codes:</h4>
             <ul>
                 <li><strong>200 OK:</strong> Request successful, data returned</li>
-                <li><strong>404 Not Found:</strong> Invalid part number (use 01-27 for products, 01-26 for categories)</li>
+                <li><strong>404 Not Found:</strong> Invalid part number (use 01-23 for products, 01-02 for categories)</li>
                 <li><strong>429 Too Many Requests:</strong> Rate limit exceeded (no current limits, but may be added)</li>
                 <li><strong>500 Internal Server Error:</strong> Server issue, try again later</li>
             </ul>
@@ -262,10 +236,10 @@ multilingual keywords, and semantic relationships.</code></pre>
         <div style="background: #e3f2fd; padding: 15px; border-radius: 5px; margin: 10px 0;">
             <h4>Data Splitting Logic:</h4>
             <ul>
-                <li><strong>Products:</strong> Split into 27 parts (~200 products each) for optimal loading</li>
-                <li><strong>Categories:</strong> Split into 26 parts for consistent structure</li>
+                <li><strong>Products:</strong> Split into 23 parts (~250 products each) for optimal loading</li>
+                <li><strong>Categories:</strong> Split into 2 parts for consistent structure</li>
                 <li><strong>CDN Caching:</strong> 1 hour cache, globally distributed via GitHub Pages</li>
-                <li><strong>Response Size:</strong> Average 1.2MB per part, JSON minified</li>
+                <li><strong>Response Size:</strong> Average ~0.8MB per part, JSON minified</li>
             </ul>
             <p><strong>Best Practice:</strong> Load parts on-demand rather than all at once for better performance.</p>
         </div>
@@ -395,12 +369,12 @@ try {
             <div style="background: #f8f9fa; padding: 15px; border-radius: 5px;">
                 <h4>📊 Date și Versioning</h4>
                 <ul>
-                    <li><strong>Actualizat:</strong> 28 Iulie 2025</li>
+                    <li><strong>Actualizat:</strong> 10 August 2025</li>
                     <li><strong>Versiune API:</strong> 2.0.0</li>
                     <li><strong>Format:</strong> JSON (Schema.org compatible)</li>
                     <li><strong>Encoding:</strong> UTF-8</li>
-                    <li><strong>Total produse:</strong> 5,437</li>
-                    <li><strong>Total categorii:</strong> 101</li>
+                    <li><strong>Total produse:</strong> 5,620</li>
+                    <li><strong>Total categorii:</strong> 116</li>
                 </ul>
             </div>
             
@@ -445,7 +419,7 @@ try {
         <div style="background: #f8d7da; border: 1px solid #f5c6cb; padding: 15px; border-radius: 5px; margin: 10px 0;">
             <h4>Probleme Comune și Soluții:</h4>
             <ul>
-                <li><strong>404 Error:</strong> Verifică numărul părții (01-27 pentru produse, 01-26 pentru categorii)</li>
+                <li><strong>404 Error:</strong> Verifică numărul părții (01-23 pentru produse, 01-02 pentru categorii)</li>
                 <li><strong>CORS Error:</strong> API-ul suportă toate domeniile, verifică configurația browser-ului</li>
                 <li><strong>Timeout:</strong> GitHub Pages poate fi lent, încearcă din nou după 30s</li>
                 <li><strong>JSON Parse Error:</strong> Response-ul poate fi gzip, verifică headers</li>

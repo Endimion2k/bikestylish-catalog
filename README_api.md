@@ -11,8 +11,8 @@
 
 BikeStylish API oferă acces gratuit la cel mai complet catalog de produse de ciclism din România:
 
-- **5,437 produse** cu specificații complete
-- **101 categorii** organizate inteligent  
+- **5,620 produse** cu specificații complete
+- **116 categorii** organizate inteligent  
 - **Zero autentificare** necesară
 - **CORS enabled** pentru toate domeniile
 - **AI-optimized** cu metadata bogată
@@ -34,21 +34,21 @@ fetch('https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhance
 
 | Tip | URL Pattern | Părți |
 |-----|-------------|-------|
-| **Produse** | `/data/products_ai_enhanced_split/products_ai_enhanced_part_{XX}.json` | 01-27 |
-| **Categorii** | `/data/categories_ai_enhanced_split/categories_ai_enhanced_part_{XX}.json` | 01-26 |
+| **Produse** | `/data/products_ai_enhanced_split/products_ai_enhanced_part_{XX}.json` | 01-23 |
+| **Categorii** | `/data/categories_ai_enhanced_split/categories_ai_enhanced_part_{XX}.json` | 01-02 |
 
 ### 📊 Response Schema
 
 ```json
 {
-  "last_updated": "2025-07-28T22:25:48.418022",
-  "total_products": 5437,
+  "last_updated": "2025-08-10T17:38:17.795483",
+  "total_products": 5620,
   "version": "2.0",
   "source": "https://www.bikestylish.ro",
   "part_info": {
     "current_part": 1,
-    "total_parts": 27,
-    "products_in_part": 201
+    "total_parts": 23,
+    "products_in_part": 250
   },
   "products": [
     {
@@ -108,7 +108,7 @@ def search_by_category(category, max_parts=5):
     results = []
     for part in range(1, max_parts + 1):
         data = get_products(part)
-        matches = [p for p in data['products'] if p['category'] == category]
+        matches = [p for p in data['products'] if p.get('category', '').lower() == category.lower()]
         results.extend(matches)
     return results
 
@@ -134,7 +134,7 @@ async function searchByBrand(brand, maxParts = 5) {
     try {
       const data = await getProducts(part);
       const matches = data.products.filter(p => 
-        p.brand.toLowerCase() === brand.toLowerCase()
+        (p.brand || '').toLowerCase() === brand.toLowerCase()
       );
       results.push(...matches);
     } catch (error) {
@@ -175,7 +175,7 @@ function searchByPriceRange($minPrice, $maxPrice, $maxParts = 5) {
         try {
             $data = getBikeStylishProducts($part);
             $matches = array_filter($data['products'], function($p) use ($minPrice, $maxPrice) {
-                return $p['price'] >= $minPrice && $p['price'] <= $maxPrice;
+                return ($p['price'] ?? 0) >= $minPrice && ($p['price'] ?? 0) <= $maxPrice;
             });
             $results = array_merge($results, $matches);
         } catch (Exception $e) {
@@ -196,7 +196,7 @@ echo "Found " . count($affordableProducts) . " products under 50 RON\n";
 | Status Code | Description | Action |
 |-------------|-------------|---------|
 | 200 | Success | Process data normally |
-| 404 | Invalid part number | Check part range (01-27 for products) |
+| 404 | Invalid part number | Check part range (01-23 for products, 01-02 for categories) |
 | 429 | Rate limited | Implement exponential backoff |
 | 500 | Server error | Retry after delay |
 
@@ -234,7 +234,7 @@ async function safeFetch(url, retries = 3) {
 You are helping users find bicycle products. Use the BikeStylish API:
 
 Base URL: https://endimion2k.github.io/bikestylish-catalog/data/
-Endpoints: products_ai_enhanced_split/products_ai_enhanced_part_{01-27}.json
+Endpoints: products_ai_enhanced_split/products_ai_enhanced_part_{01-23}.json
 
 Each product has: name, brand, category, price, availability, and multilingual keywords.
 Always check stock_quantity > 0 for availability.
@@ -252,10 +252,10 @@ API-ul include metadata optimizată pentru ML:
 
 | Metric | Value |
 |--------|-------|
-| **Total Products** | 5,437 |
-| **Total Categories** | 101 |
+| **Total Products** | 5,620 |
+| **Total Categories** | 116 |
 | **Response Format** | JSON |
-| **Max Response Size** | ~1.2MB |
+| **Max Response Size** | ~0.8MB |
 | **CDN** | GitHub Pages Global |
 | **Cache TTL** | 1 hour |
 | **Uptime SLA** | 99.9% |
@@ -270,7 +270,7 @@ import aiohttp
 async def fetch_all_products():
     async with aiohttp.ClientSession() as session:
         tasks = []
-        for part in range(1, 28):  # Parts 1-27
+        for part in range(1, 24):  # Parts 1-23
             url = f"https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/products_ai_enhanced_part_{part:02d}.json"
             tasks.append(fetch_part(session, url))
         
@@ -285,6 +285,7 @@ async def fetch_all_products():
 
 async def fetch_part(session, url):
     async with session.get(url) as response:
+        response.raise_for_status()
         return await response.json()
 
 # Usage
@@ -295,11 +296,18 @@ print(f"Total products loaded: {len(products)}")
 ### Data Analysis
 ```python
 import pandas as pd
+import requests
+
+def get_products(part):
+    url = f"https://endimion2k.github.io/bikestylish-catalog/data/products_ai_enhanced_split/products_ai_enhanced_part_{part:02d}.json"
+    r = requests.get(url, timeout=15)
+    r.raise_for_status()
+    return r.json()
 
 def analyze_market_data():
     # Load all products
     all_products = []
-    for part in range(1, 28):
+    for part in range(1, 24):  # 01-23
         data = get_products(part)
         all_products.extend(data['products'])
     
