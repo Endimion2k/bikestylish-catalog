@@ -1,27 +1,121 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>BikeStylish API</title>
+    <title>BikeStylish Static API</title>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body{font-family:Segoe UI,Arial,sans-serif;margin:0;padding:20px;color:#222;background:#f8fafc}
+        h1{margin:0 0 10px}
+        .muted{color:#6c757d}
+        .badge{display:inline-block;padding:2px 8px;border-radius:10px;font-size:12px;margin-left:8px}
+        .ok{background:#d4edda;color:#155724}
+        .err{background:#f8d7da;color:#721c24}
+        .wait{background:#fff3cd;color:#856404}
+        ul{line-height:1.8}
+        code{background:#eef;border-radius:4px;padding:1px 4px}
+    </style>
 </head>
 <body>
-    <h1>BikeStylish API v2.0</h1>
-    <p>API Status: <span id="status">🟢 ONLINE</span></p>
-    
-    <h2>Endpoints disponibile:</h2>
+    <h1>BikeStylish API (Static)</h1>
+    <p class="muted">Acesta este un index static către fișierele JSON. Nu necesită server dinamic.</p>
+
+    <p>API Status: <span id="status" class="badge wait" style="cursor:pointer" title="Click pentru re-verificare">Verific...</span></p>
+
+    <h2>Fișiere disponibile</h2>
     <ul>
-        <li><a href="/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json">Produse - Partea 1</a></li>
-        <li><a href="/data/categories_ai_enhanced_split/categories_ai_enhanced_part_01.json">Categorii - Partea 1</a></li>
+        <li>
+            Produse (split):
+            <ul>
+                <li>
+                    <a href="data/products_ai_enhanced_split/products_ai_enhanced_part_01.json" target="_blank">Partea 01</a>
+                    <span id="products-s1" class="badge wait">...</span>
+                </li>
+                <li><a href="data/products_ai_enhanced_split/products_ai_enhanced_part_02.json" target="_blank">Partea 02</a></li>
+                <li><a href="data/products_ai_enhanced_split/products_ai_enhanced_part_03.json" target="_blank">Partea 03</a></li>
+                <li><a href="data/products_ai_enhanced_split/" target="_blank">Director complet</a></li>
+            </ul>
+        </li>
+        <li>
+            Categorii (split):
+            <ul>
+                <li>
+                    <a href="data/categories_ai_enhanced_split/categories_ai_enhanced_part_01.json" target="_blank">Partea 01</a>
+                    <span id="categories-s1" class="badge wait">...</span>
+                </li>
+                <li><a href="data/categories_ai_enhanced_split/categories_ai_enhanced_part_02.json" target="_blank">Partea 02</a></li>
+                <li><a href="data/categories_ai_enhanced_split/" target="_blank">Director complet</a></li>
+            </ul>
+        </li>
+        <li>
+            Branduri: <a href="data/brands.json" target="_blank">brands.json</a>
+            <span id="brands" class="badge wait">...</span>
+        </li>
+        <li class="muted">
+            (Opțional) Produse agregat: <a href="data/products_ai_enhanced.json" target="_blank">products_ai_enhanced.json</a>
+            <span id="products-main" class="badge wait">...</span>
+        </li>
+        <li class="muted">
+            (Opțional) Categorii agregat: <a href="data/categories_ai_enhanced.json" target="_blank">categories_ai_enhanced.json</a>
+            <span id="categories-main" class="badge wait">...</span>
+        </li>
     </ul>
-    
+
+    <h3>Cum se folosește</h3>
+    <ul>
+        <li>Includeți aceste fișiere JSON direct în aplicația dvs. ca sursă de date.</li>
+        <li>Nu este nevoie de FastAPI/Flask. Toate link-urile sunt relative (funcționează și pe sub-directoare sau GitHub Pages).</li>
+        <li>Dacă un fișier opțional lipsește, folosiți variantele split.</li>
+    </ul>
+
     <script>
-        // API simplu de verificare
-        document.getElementById('status').onclick = function() {
-            fetch('/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json')
-                .then(r => r.ok ? '🟢 ONLINE' : '🔴 OFFLINE')
-                .then(status => this.textContent = status)
-                .catch(() => this.textContent = '🔴 OFFLINE');
-        };
+    const checks = [
+        { url: 'data/products_ai_enhanced_split/products_ai_enhanced_part_01.json', el: 'products-s1', critical: true },
+        { url: 'data/categories_ai_enhanced_split/categories_ai_enhanced_part_01.json', el: 'categories-s1', critical: true },
+        { url: 'data/brands.json', el: 'brands', critical: true },
+        { url: 'data/products_ai_enhanced.json', el: 'products-main', critical: false },
+        { url: 'data/categories_ai_enhanced.json', el: 'categories-main', critical: false }
+    ];
+
+    async function checkUrl(url, elId) {
+        const el = document.getElementById(elId);
+        if (!el) return false;
+        el.textContent = '...';
+        el.className = 'badge wait';
+        try {
+            const res = await fetch(url, { cache: 'no-store' });
+            if (res.ok) {
+                el.textContent = 'OK';
+                el.className = 'badge ok';
+                return true;
+            }
+            el.textContent = 'ERR';
+            el.className = 'badge err';
+            return false;
+        } catch (e) {
+            el.textContent = 'ERR';
+            el.className = 'badge err';
+            return false;
+        }
+    }
+
+    async function runChecks() {
+        const statusEl = document.getElementById('status');
+        statusEl.textContent = 'Verific...';
+        statusEl.className = 'badge wait';
+        const results = await Promise.all(checks.map(c => checkUrl(c.url, c.el)));
+        const allCriticalOk = results.filter((ok, i) => checks[i].critical).every(Boolean);
+        if (allCriticalOk) {
+            statusEl.textContent = '🟢 ONLINE';
+            statusEl.className = 'badge ok';
+        } else {
+            statusEl.textContent = '🔴 OFFLINE';
+            statusEl.className = 'badge err';
+        }
+    }
+
+    document.getElementById('status').addEventListener('click', runChecks);
+    document.addEventListener('DOMContentLoaded', runChecks);
     </script>
 </body>
 </html>

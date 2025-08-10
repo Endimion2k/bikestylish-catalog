@@ -1,621 +1,1021 @@
 {
-  "last_updated": "2025-08-07T18:00:00.000000",
-  "total_brands": 37,
+  "last_updated": "2025-08-10T17:38:17.937527",
+  "total_brands": 48,
   "brands": [
     {
-      "name": "Pilo",
-      "product_count": 888,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 87.0,
-        "max": 450.0,
-        "avg": 211.7,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate Pilo",
-      "avg_rating": 4.4
-    },
-    {
       "name": "M-WAVE",
-      "product_count": 814,
+      "product_count": 671,
+      "active_product_count": 569,
       "categories": [
-        "accesorii",
-        "biciclete",
-        "piese-schimb"
+        "Accesorii",
+        "Accesorii>Diverse|Accesorii",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Accesorii Remorca|Accesorii>Diverse>Roti ajutatoare|Accesorii>Diverse>Scaune pentru Copii|Accesorii>Diverse>Transport si Depozitare",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Accesorii Remorca|Accesorii>Diverse>Roti ajutatoare|Accesorii>Diverse>Scaune pentru Copii|Accesorii>Diverse>Transport si Depozitare|Accesorii>Pompe",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Accesorii Remorca|Accesorii>Diverse>Transport si Depozitare",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Accesorii Remorca|copii1iunie",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Roti ajutatoare",
+        "Accesorii|Accesorii>Accesorii E-Bike>Protectii si Accesorii E-Bike|Accesorii>Accesorii E-Bike",
+        "Accesorii|Accesorii>Accesorii E-Bike|Accesorii>Accesorii E-Bike>Cricuri E-Bike",
+        "Accesorii|Accesorii>Accesorii Ghidoane si BarEnd (ExtensiiGhidon)",
+        "Accesorii|Accesorii>Antifurturi",
+        "Accesorii|Accesorii>Aparatori noroi",
+        "Accesorii|Accesorii>Articole copii|Accesorii>Cosuri pentru Biciclete",
+        "Accesorii|Accesorii>Articole copii|copii1iunie",
+        "Accesorii|Accesorii>Borsete si Genti",
+        "Accesorii|Accesorii>Cosuri pentru Biciclete",
+        "Accesorii|Accesorii>Cricuri de Mijloc",
+        "Accesorii|Accesorii>Ghidoline",
+        "Accesorii|Accesorii>Huse Șa",
+        "Accesorii|Accesorii>Lumini",
+        "Accesorii|Accesorii>Lumini>Seturi Lumini|Accesorii>Lumini",
+        "Accesorii|Accesorii>Mansoane",
+        "Accesorii|Accesorii>Oglinda",
+        "Accesorii|Accesorii>Pedale",
+        "Accesorii|Accesorii>Pedale>Accesorii Pedale|Accesorii>Pedale",
+        "Accesorii|Accesorii>Pedale>Accesorii Pedale|Accesorii>Pedale|Accesorii>Pedale>Pedale SPD|Accesorii>Pedale>Pedale SPD>Pedale Click",
+        "Accesorii|Accesorii>Pompe",
+        "Accesorii|Accesorii>Protectii Cadru",
+        "Accesorii|Accesorii>Reflectorizante",
+        "Accesorii|Accesorii>Reflectorizante|Echipament>Casti>Casti Ciclism Adulti|Echipament>Casti>Casti BMX|Echipament>Casti>Casti Full Face|Echipament>Casti|Echipament",
+        "Accesorii|Accesorii>Suport bidon si bidon",
+        "Accesorii|Accesorii>Șei",
+        "Accesorii|Piese>Spacere/Axe Butuci/Rulmenti|Piese|Accesorii>Antifurturi",
+        "Accesorii|copii1iunie",
+        "Echipament>BibShorts/Boxeri|Echipament",
+        "Echipament>Casti>Casti BMX|Echipament>Casti|Echipament",
+        "Echipament>Casti>Casti Ciclism Adulti|Echipament>Casti>Casti BMX|Echipament>Casti>Casti Full Face|Echipament>Casti|Echipament",
+        "Echipament>Casti>Casti Full Face|Echipament>Casti|Echipament",
+        "Echipament>Huse Pantofi|Echipament",
+        "Echipament>Incalzitoare Maini si Picioare|Echipament",
+        "Echipament>Jachete|Echipament",
+        "Echipament>Rucsaci si Bagaje calatorie|Echipament",
+        "Echipament|Echipament>Caciuli, Sepci si Bandane",
+        "Echipament|Echipament>Manusi",
+        "Piese>Accesorii Camere|Piese",
+        "Piese>Capete Cablu si Manta|Piese",
+        "Piese>Coliere Șa|Piese",
+        "Piese>Furci|Piese",
+        "Piese>Ghidoane|Piese",
+        "Piese>Ghidoane|Piese>Ghidoane>Mansoane manete frana Road|Piese",
+        "Piese>Lanturi|Piese",
+        "Piese>Pipe Ghidon|Piese",
+        "Piese>Placute Frana Disc|Piese",
+        "Piese>Solutii Tubeless|Piese",
+        "Piese>Spacere/Axe Butuci/Rulmenti|Piese",
+        "Piese>Suspensii Spate|Piese",
+        "Piese>Thru Axle|Piese",
+        "Piese>Tije Ghidon|Piese",
+        "Piese>Tije Șa|Piese",
+        "Piese>Valve/Adaptori si Capete|Piese",
+        "Piese>Valve/Adaptori si Capete|Piese>Accesorii Camere|Piese",
+        "Piese|Piese>Angrenaje",
+        "Piese|Piese>Butuci Roata",
+        "Piese|Piese>Cuvete",
+        "Piese|Piese>Disc frana",
+        "Piese|Piese>Jante",
+        "Piese|Piese>Manete Schimbator",
+        "Piese|Piese>Monobloc",
+        "Scule si intretinere>Ingrijire si Lubrifiere|Scule si intretinere",
+        "Scule si intretinere>Kituri Aerisire/Componente|Scule si intretinere",
+        "Scule si intretinere>Solutie de spalat|Scule si intretinere",
+        "Scule si intretinere>Uleiuri Minerale|Scule si intretinere",
+        "Scule si intretinere>Unelte Speciale|Scule si intretinere",
+        "Scule si intretinere>Unelte Universale|Scule si intretinere",
+        "Unknown",
+        "copii1iunie"
       ],
       "price_range": {
         "min": 0.3,
-        "max": 2250.0,
-        "avg": 90.08,
+        "max": 1600.0,
+        "avg": 87.46,
         "currency": "RON"
-      },
-      "origin": "Germany",
-      "description": "Brand german distribuit de Messingschlager, cunoscut pentru gama sa extinsă de accesorii și componente pentru biciclete, cu peste 1000 de produse în portofoliu.",
-      "avg_rating": 4.9
+      }
     },
     {
       "name": "SXT",
-      "product_count": 654,
+      "product_count": 545,
+      "active_product_count": 490,
       "categories": [
-        "accesorii",
-        "biciclete",
-        "piese-schimb"
+        "Accesorii",
+        "Accesorii>Diverse|Accesorii",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Accesorii Remorca|Accesorii>Diverse>Roti ajutatoare|Accesorii>Diverse>Scaune pentru Copii|Accesorii>Diverse>Transport si Depozitare",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Roti ajutatoare",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Roti ajutatoare|copii1iunie",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Transport si Depozitare",
+        "Accesorii|Accesorii>Accesorii Ghidoane si BarEnd (ExtensiiGhidon)",
+        "Accesorii|Accesorii>Antifurturi",
+        "Accesorii|Accesorii>Articole copii|Accesorii>Cosuri pentru Biciclete",
+        "Accesorii|Accesorii>Cosuri pentru Biciclete",
+        "Accesorii|Accesorii>Cricuri de Mijloc",
+        "Accesorii|Accesorii>Lumini>Lumini Fata|Accesorii>Lumini",
+        "Accesorii|Accesorii>Lumini>Lumini Spate|Accesorii>Lumini",
+        "Accesorii|Accesorii>Lumini>Seturi Lumini|Accesorii>Lumini",
+        "Accesorii|Accesorii>Mansoane",
+        "Accesorii|Accesorii>Mansoane|copii1iunie",
+        "Accesorii|Accesorii>Oglinda",
+        "Accesorii|Accesorii>Pedale",
+        "Accesorii|Accesorii>Pedale>Accesorii Pedale|Accesorii>Pedale",
+        "Accesorii|Accesorii>Pedale>Accesorii Pedale|Accesorii>Pedale|Accesorii>Pedale>Pedale SPD|Accesorii>Pedale>Pedale SPD>Pedale Click",
+        "Accesorii|Accesorii>Pedale|copii1iunie",
+        "Accesorii|Accesorii>Pompe",
+        "Accesorii|Accesorii>Reflectorizante",
+        "Accesorii|Accesorii>Suport bidon si bidon",
+        "Accesorii|Accesorii>Șei",
+        "Accesorii|copii1iunie",
+        "Echipament>Jachete|Echipament",
+        "Echipament>Tricouri|Echipament",
+        "Echipament|Echipament>Caciuli, Sepci si Bandane",
+        "Echipament|Echipament>Manusi",
+        "Piese",
+        "Piese>Accesorii Frane Hidraulice|Piese|Piese>Etrier frana",
+        "Piese>Anvelope Pliabile|Piese",
+        "Piese>Anvelope pe sarma|Piese",
+        "Piese>Anvelope/Jante E-Bike|Piese>Roti Fata|Piese>Roti Spate|Piese>Set Roti|Piese",
+        "Piese>Cabluri|Piese",
+        "Piese>Capete Cablu si Manta|Piese",
+        "Piese>Coliere Șa|Piese",
+        "Piese>Distantiere|Piese",
+        "Piese>Frane V-Brake|Piese",
+        "Piese>Furci|Piese",
+        "Piese>Ghidoane|Piese",
+        "Piese>Ghidoane|Piese>Ghidoane>Mansoane manete frana Road|Piese",
+        "Piese>Pipe Ghidon|Piese",
+        "Piese>Placute Frana Disc|Piese",
+        "Piese>Roti Fata|Piese",
+        "Piese>Roti Spate|Piese",
+        "Piese>Saboti Frana|Piese",
+        "Piese>Set Roti|Piese",
+        "Piese>Solutii Tubeless|Piese",
+        "Piese>Spacere/Axe Butuci/Rulmenti|Piese",
+        "Piese>Thru Axle|Piese",
+        "Piese>Tije Ghidon|Piese",
+        "Piese>Tije Șa|Piese",
+        "Piese>Valve/Adaptori si Capete|Piese",
+        "Piese|Piese>Angrenaje",
+        "Piese|Piese>Butuci Roata",
+        "Piese|Piese>Cuvete",
+        "Piese|Piese>Disc frana",
+        "Piese|Piese>Etrier frana",
+        "Piese|Piese>Jante",
+        "Piese|Piese>Manete Schimbator",
+        "Piese|Piese>Monobloc",
+        "Piese|Piese>Pinioane",
+        "Piese|Piese>Schimbator Foi",
+        "Piese|Piese>Ureche cadru",
+        "Scule si intretinere>Ingrijire si Lubrifiere|Scule si intretinere",
+        "Scule si intretinere>Intinzatoare Lant si Directionare|Scule si intretinere",
+        "Scule si intretinere>Truse de scule|Scule si intretinere",
+        "Scule si intretinere>Unelte Speciale|Scule si intretinere",
+        "Scule si intretinere>Unelte Universale|Scule si intretinere",
+        "Unknown"
       ],
       "price_range": {
         "min": 1.0,
-        "max": 4750.0,
-        "avg": 178.2,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate SXT",
-      "avg_rating": 4.9
-    },
-    {
-      "name": "VELO",
-      "product_count": 327,
-      "categories": [
-        "accesorii",
-        "biciclete",
-        "piese-schimb"
-      ],
-      "price_range": {
-        "min": 18.0,
         "max": 5999.0,
-        "avg": 202.11,
+        "avg": 138.8,
         "currency": "RON"
-      },
-      "origin": "Taiwan",
-      "description": "Brand taiwanez fondat în 1979, specializat în producția de șei și accesorii ergonomice pentru biciclete, cu tehnologia proprie Velo AtmosFoam.",
-      "avg_rating": 4.6
+      }
     },
     {
-      "name": "SHIMANO",
-      "product_count": 297,
+      "name": "Pilo",
+      "product_count": 280,
+      "active_product_count": 253,
       "categories": [
-        "accesorii"
+        "Piese>Furci|Piese",
+        "Piese|Piese>Ureche cadru",
+        "Scule si intretinere>Unelte Speciale|Scule si intretinere",
+        "Unknown"
       ],
       "price_range": {
-        "min": 10.0,
-        "max": 999.0,
-        "avg": 199.71,
+        "min": 65.0,
+        "max": 400.0,
+        "avg": 173.8,
         "currency": "RON"
-      },
-      "origin": "Japan",
-      "description": "Brand japonez legendar, fondat în 1921, recunoscut drept lider mondial în producția de componente pentru biciclete. Revoluționează industria cu inovații precum grupul DURA-ACE și sistemele electronice Di2.",
-      "avg_rating": 4.5
+      }
     },
     {
-      "name": "NOVATEC",
-      "product_count": 163,
+      "name": "VITTORIA",
+      "product_count": 136,
+      "active_product_count": 92,
       "categories": [
-        "accesorii"
+        "Accesorii",
+        "Piese>Anvelope Pliabile|Piese",
+        "Piese>Anvelope pe sarma|Piese",
+        "Piese>Anvelope/Jante E-Bike|Piese",
+        "Piese>Benzi/Protectii Antipana|Piese",
+        "Piese>Camere de bicicleta|Piese",
+        "Piese>Solutii Tubeless|Piese",
+        "Piese|Piese>Jante",
+        "Scule si intretinere>Ingrijire si Lubrifiere|Scule si intretinere",
+        "Unknown"
       ],
       "price_range": {
-        "min": 16.0,
-        "max": 2500.0,
-        "avg": 364.69,
+        "min": 20.0,
+        "max": 595.0,
+        "avg": 237.4,
         "currency": "RON"
-      },
-      "origin": "Taiwan",
-      "description": "Brand taiwanez fondat în 1989, recunoscut pentru producția de roți și butuci de înaltă performanță pentru biciclete, cu certificare ISO 9001.",
-      "avg_rating": 4.7
+      }
     },
     {
       "name": "KENDA",
-      "product_count": 151,
+      "product_count": 130,
+      "active_product_count": 67,
       "categories": [
-        "accesorii",
-        "biciclete",
-        "piese-schimb"
+        "Piese>Accesorii Camere|Piese",
+        "Piese>Anvelope Pliabile|Piese",
+        "Piese>Anvelope pe sarma|Piese",
+        "Piese>Anvelope/Jante E-Bike|Piese",
+        "Piese>Camere de bicicleta|Piese"
       ],
       "price_range": {
-        "min": 4.0,
+        "min": 1.0,
         "max": 230.0,
-        "avg": 66.37,
+        "avg": 66.69,
         "currency": "RON"
-      },
-      "origin": "Taiwan",
-      "description": "Brand taiwanez fondat în 1962, unul dintre cei mai mari producători globali de anvelope pentru biciclete, prezent în peste 150 de țări.",
-      "avg_rating": 4.1
+      }
+    },
+    {
+      "name": "NOVATEC",
+      "product_count": 123,
+      "active_product_count": 108,
+      "categories": [
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Accesorii Remorca|Accesorii>Diverse>Transport si Depozitare",
+        "Piese>Spacere/Axe Butuci/Rulmenti|Piese",
+        "Piese>Valve/Adaptori si Capete|Piese",
+        "Piese|Piese>Butuci Roata",
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 9.0,
+        "max": 950.0,
+        "avg": 290.12,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "SUPER B",
+      "product_count": 108,
+      "active_product_count": 84,
+      "categories": [
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Accesorii Remorca|Accesorii>Diverse>Roti ajutatoare|Accesorii>Diverse>Scaune pentru Copii|Accesorii>Diverse>Transport si Depozitare",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Transport si Depozitare",
+        "Echipament>Casti|Echipament",
+        "Piese>Placute Frana Disc|Piese",
+        "Piese|Piese>Butuci Roata",
+        "Piese|Piese>Disc frana",
+        "Piese|Piese>Jante",
+        "Piese|Piese>Ureche cadru",
+        "Scule si intretinere>Truse de scule|Scule si intretinere",
+        "Scule si intretinere>Unelte Speciale|Scule si intretinere",
+        "Scule si intretinere>Unelte Universale|Scule si intretinere",
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 5.0,
+        "max": 2250.0,
+        "avg": 181.14,
+        "currency": "RON"
+      }
     },
     {
       "name": "HT",
-      "product_count": 137,
+      "product_count": 105,
+      "active_product_count": 103,
       "categories": [
-        "accesorii"
+        "Accesorii|Accesorii>Pedale",
+        "Accesorii|Accesorii>Pedale>Accesorii Pedale|Accesorii>Pedale",
+        "Accesorii|Accesorii>Pedale>Accesorii Pedale|Accesorii>Pedale|Accesorii>Pedale>Pedale SPD|Accesorii>Pedale>Pedale SPD>Pedale Click",
+        "Accesorii|Accesorii>Pedale|Accesorii>Pedale>Pedale SPD|Accesorii>Pedale>Pedale SPD>Pedale Click",
+        "Scule si intretinere>Unelte Speciale|Scule si intretinere"
       ],
       "price_range": {
-        "min": 32.0,
+        "min": 75.0,
         "max": 999.0,
-        "avg": 385.81,
+        "avg": 370.61,
         "currency": "RON"
-      },
-      "origin": "Taiwan",
-      "description": "Brand taiwanez fondat în 2005, specializat în producția de pedale de înaltă performanță pentru MTB, BMX și ciclism de șosea, partener oficial pentru atleți de top.",
-      "avg_rating": 4.9
+      }
+    },
+    {
+      "name": "VELO",
+      "product_count": 88,
+      "active_product_count": 82,
+      "categories": [
+        "Accesorii>Diverse|Accesorii|Accesorii>Accesorii E-Bike",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Accesorii Remorca|Accesorii>Diverse>Roti ajutatoare|Accesorii>Diverse>Scaune pentru Copii|Accesorii>Diverse>Transport si Depozitare",
+        "Accesorii|Accesorii>Ghidoline",
+        "Accesorii|Accesorii>Huse Șa",
+        "Accesorii|Accesorii>Mansoane",
+        "Accesorii|Accesorii>Mansoane|copii1iunie",
+        "Accesorii|Accesorii>Protectii Cadru",
+        "Accesorii|Accesorii>Șei",
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 18.0,
+        "max": 295.0,
+        "avg": 130.11,
+        "currency": "RON"
+      }
     },
     {
       "name": "VENTURA",
-      "product_count": 109,
+      "product_count": 69,
+      "active_product_count": 60,
       "categories": [
-        "accesorii",
-        "biciclete"
+        "Accesorii",
+        "Accesorii>Diverse|Accesorii",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Accesorii Remorca|copii1iunie",
+        "Accesorii|Accesorii>Articole copii|copii1iunie",
+        "Accesorii|Accesorii>Pompe",
+        "Accesorii|Accesorii>Reflectorizante",
+        "Accesorii|Accesorii>Șei",
+        "Accesorii|copii1iunie",
+        "Accesorii|copii1iunie|Accesorii>Suport bidon si bidon",
+        "Echipament>Casti>Casti BMX|Echipament>Casti|Echipament",
+        "Echipament|Echipament>Caciuli, Sepci si Bandane",
+        "Echipament|Echipament>Manusi",
+        "Echipament|Echipament>Manusi|copii1iunie",
+        "Piese>Accesorii Camere|Piese",
+        "Piese>Furci|Piese",
+        "Piese>Lanturi|Piese",
+        "Piese|Piese>Manete Schimbator",
+        "Piese|Piese>Monobloc",
+        "Piese|Piese>Pinioane",
+        "Piese|Piese>Schimbator Foi",
+        "Piese|Piese>Schimbator Pinioane",
+        "Scule si intretinere>Truse de scule|Scule si intretinere",
+        "Scule si intretinere>Unelte Speciale|Scule si intretinere",
+        "Scule si intretinere>Unelte Universale|Scule si intretinere",
+        "Unknown",
+        "copii1iunie"
       ],
       "price_range": {
         "min": 2.5,
         "max": 345.0,
-        "avg": 64.47,
+        "avg": 63.01,
         "currency": "RON"
-      },
-      "origin": "Germany",
-      "description": "Brand european cunoscut pentru gama sa accesibilă de accesorii și componente pentru biciclete, parte din portofoliul distribuitorului german Point Bike.",
-      "avg_rating": 4.9
-    },
-    {
-      "name": "SUPER B",
-      "product_count": 96,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 12.0,
-        "max": 420.0,
-        "avg": 93.48,
-        "currency": "RON"
-      },
-      "origin": "Taiwan",
-      "description": "Brand taiwanez cu peste 20 de ani de experiență, specializat în producția de scule profesionale pentru întreținerea și repararea bicicletelor.",
-      "avg_rating": 4.9
-    },
-    {
-      "name": "AUTHOR",
-      "product_count": 85,
-      "categories": [
-        "accesorii",
-        "biciclete"
-      ],
-      "price_range": {
-        "min": 20.0,
-        "max": 199.0,
-        "avg": 61.72,
-        "currency": "RON"
-      },
-      "origin": "Czech Republic",
-      "description": "Brand ceh fondat în 1993, specializat în producția de biciclete, componente și accesorii de înaltă calitate, prezent în peste 20 de țări.",
-      "avg_rating": 4.3
-    },
-    {
-      "name": "KMC",
-      "product_count": 74,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 25.0,
-        "max": 675.0,
-        "avg": 235.97,
-        "currency": "RON"
-      },
-      "origin": "Taiwan",
-      "description": "Brand taiwanez fondat în 1977, devenit lider mondial în producția de lanțuri pentru biciclete, compatibile cu transmisiile Shimano, SRAM și Campagnolo.",
-      "avg_rating": 4.9
-    },
-    {
-      "name": "VITTORIA",
-      "product_count": 64,
-      "categories": [
-        "accesorii",
-        "biciclete"
-      ],
-      "price_range": {
-        "min": 15.0,
-        "max": 675.0,
-        "avg": 134.98,
-        "currency": "RON"
-      },
-      "origin": "Italy",
-      "description": "Brand italian fondat în 1953, recunoscut la nivel mondial pentru anvelopele sale de înaltă performanță, primul producător care a integrat grafenul în structura anvelopelor.",
-      "avg_rating": 4.5
-    },
-    {
-      "name": "SAMOX",
-      "product_count": 63,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 20.0,
-        "max": 550.0,
-        "avg": 120.54,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate SAMOX",
-      "avg_rating": 4.1
-    },
-    {
-      "name": "MACH1",
-      "product_count": 55,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 0.6,
-        "max": 210.0,
-        "avg": 95.4,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate MACH1",
-      "avg_rating": 4.0
-    },
-    {
-      "name": "SUNRACE",
-      "product_count": 51,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 18.0,
-        "max": 699.0,
-        "avg": 158.75,
-        "currency": "RON"
-      },
-      "origin": "Taiwan",
-      "description": "Brand taiwanez fondat în 1972, devenit un jucător important în industria componentelor pentru biciclete, în special în domeniul transmisiilor.",
-      "avg_rating": 4.8
-    },
-    {
-      "name": "PROMAX",
-      "product_count": 47,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 6.0,
-        "max": 280.0,
-        "avg": 72.15,
-        "currency": "RON"
-      },
-      "origin": "Taiwan",
-      "description": "Brand taiwanez cu o tradiție de peste 30 de ani în producția de componente pentru biciclete, specializat în sisteme de frânare, pipe și ghidoane.",
-      "avg_rating": 4.5
-    },
-    {
-      "name": "DEDA",
-      "product_count": 34,
-      "categories": [
-        "accesorii",
-        "biciclete"
-      ],
-      "price_range": {
-        "min": 59.0,
-        "max": 330.0,
-        "avg": 99.21,
-        "currency": "RON"
-      },
-      "origin": "Italy",
-      "description": "Marcă italiană de prestigiu, fondată în 1992, specializată în producția de componente premium pentru biciclete din Campagnola Cremasca, Italia.",
-      "avg_rating": 4.2
-    },
-    {
-      "name": "ZOOM",
-      "product_count": 32,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 55.0,
-        "max": 299.0,
-        "avg": 104.19,
-        "currency": "RON"
-      },
-      "origin": "Taiwan",
-      "description": "Brand taiwanez cu o tradiție de peste 30 de ani în producția de componente pentru biciclete, specializat în ghidoane, pipe, tije de șa și alte piese de cockpit.",
-      "avg_rating": 4.1
+      }
     },
     {
       "name": "EXTEND",
-      "product_count": 24,
+      "product_count": 64,
+      "active_product_count": 51,
       "categories": [
-        "accesorii",
-        "biciclete"
+        "Accesorii",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Accesorii Remorca|Accesorii>Diverse>Transport si Depozitare",
+        "Accesorii|Accesorii>Antifurturi",
+        "Accesorii|Accesorii>Borsete si Genti",
+        "Accesorii|Accesorii>Pompe",
+        "Accesorii|Accesorii>Suport bidon si bidon",
+        "Echipament>Casti>Casti BMX|Echipament>Casti|Echipament",
+        "Echipament|Echipament>Manusi",
+        "Piese>Accesorii Frane Hidraulice|Piese",
+        "Piese>Anvelope pe sarma|Piese",
+        "Piese>Camere de bicicleta|Piese",
+        "Piese>Pipe Ghidon|Piese",
+        "Piese>Placute Frana Disc|Piese",
+        "Piese>Tije Șa|Piese",
+        "Piese|Piese>Angrenaje",
+        "Piese|Piese>Butuci Roata",
+        "Piese|Piese>Cuvete",
+        "Scule si intretinere>Ingrijire si Lubrifiere|Scule si intretinere",
+        "Scule si intretinere>Unelte Speciale|Scule si intretinere",
+        "Unknown"
       ],
       "price_range": {
-        "min": 10.0,
-        "max": 225.0,
-        "avg": 59.0,
+        "min": 5.0,
+        "max": 255.0,
+        "avg": 72.59,
         "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate EXTEND",
-      "avg_rating": 4.4
+      }
     },
     {
-      "name": "EXUSTAR",
-      "product_count": 22,
+      "name": "SHIMANO",
+      "product_count": 60,
+      "active_product_count": 52,
       "categories": [
-        "accesorii"
+        "Accesorii>Diverse|Accesorii",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Accesorii Remorca|Accesorii>Diverse>Roti ajutatoare|Accesorii>Diverse>Scaune pentru Copii|Accesorii>Diverse>Transport si Depozitare",
+        "Piese>Accesorii Frane Hidraulice|Piese",
+        "Piese>Cabluri|Piese",
+        "Piese>Lanturi|Piese>Lanturi>ZA Missinglink|Piese",
+        "Piese>Placute Frana Disc|Piese",
+        "Piese|Piese>Angrenaje",
+        "Piese|Piese>Butuci Roata",
+        "Piese|Piese>Disc frana",
+        "Piese|Piese>Etrier frana",
+        "Piese|Piese>Manete Schimbator",
+        "Piese|Piese>Monobloc",
+        "Piese|Piese>Pinioane",
+        "Piese|Piese>Schimbator Foi",
+        "Piese|Piese>Schimbator Pinioane",
+        "Scule si intretinere>Ingrijire si Lubrifiere|Scule si intretinere",
+        "Scule si intretinere>Unelte Universale|Scule si intretinere",
+        "Unknown"
       ],
       "price_range": {
-        "min": 34.0,
-        "max": 11000.0,
-        "avg": 689.41,
+        "min": 14.0,
+        "max": 685.0,
+        "avg": 187.07,
         "currency": "RON"
-      },
-      "origin": "Taiwan",
-      "description": "Brand taiwanez fondat în 2002, specializat în producția de pantofi, pedale și accesorii pentru ciclism de performanță, distribuit în peste 50 de țări.",
-      "avg_rating": 4.5
+      }
     },
     {
-      "name": "BETO",
-      "product_count": 21,
+      "name": "KMC",
+      "product_count": 58,
+      "active_product_count": 54,
       "categories": [
-        "biciclete"
+        "Accesorii|Accesorii>Accesorii E-Bike|Accesorii>Accesorii E-Bike>Lanturi E-Bike",
+        "Piese>Lanturi|Piese",
+        "Piese>Lanturi|Piese>Lanturi>ZA Missinglink|Piese",
+        "Piese|Piese>Pinioane",
+        "Scule si intretinere>Unelte Speciale|Scule si intretinere",
+        "Unknown"
       ],
       "price_range": {
         "min": 25.0,
-        "max": 425.0,
-        "avg": 109.19,
+        "max": 669.0,
+        "avg": 187.62,
         "currency": "RON"
-      },
-      "origin": "Taiwan",
-      "description": "Brand taiwanez fondat în 1989, specializat în producția de accesorii și echipamente pentru biciclete, renumit la nivel global pentru pompe și scule multifuncționale.",
-      "avg_rating": 4.6
+      }
     },
     {
       "name": "KUJO",
-      "product_count": 19,
+      "product_count": 50,
+      "active_product_count": 37,
       "categories": [
-        "biciclete",
-        "piese-schimb"
+        "Piese>Anvelope pe sarma|Piese",
+        "Piese>Camere de bicicleta|Piese"
+      ],
+      "price_range": {
+        "min": 14.0,
+        "max": 225.0,
+        "avg": 44.62,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "AUTHOR",
+      "product_count": 40,
+      "active_product_count": 26,
+      "categories": [
+        "Accesorii",
+        "Accesorii|Accesorii>Antifurturi",
+        "Accesorii|Accesorii>Articole copii|copii1iunie",
+        "Accesorii|Accesorii>Pedale>Accesorii Pedale|Accesorii>Pedale|Accesorii>Pedale>Pedale SPD|Accesorii>Pedale>Pedale SPD>Pedale Click",
+        "Accesorii|Accesorii>Protectii Cadru",
+        "Accesorii|Accesorii>Suport bidon si bidon",
+        "Echipament>Casti>Casti Ciclism Adulti|Echipament>Casti|Echipament",
+        "Echipament>Casti>Casti Full Face|Echipament>Casti|Echipament",
+        "Echipament|Echipament>Manusi",
+        "Piese>Camere de bicicleta|Piese",
+        "Piese>Tije Șa|Piese",
+        "Scule si intretinere>Ingrijire si Lubrifiere|Scule si intretinere",
+        "Scule si intretinere>Solutie de spalat|Scule si intretinere",
+        "Scule si intretinere>Truse de scule|Scule si intretinere",
+        "Scule si intretinere>Unelte Speciale|Scule si intretinere",
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 20.0,
+        "max": 258.0,
+        "avg": 78.9,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "PROMAX",
+      "product_count": 37,
+      "active_product_count": 31,
+      "categories": [
+        "Accesorii>Diverse|Accesorii",
+        "Piese>Cabluri|Piese",
+        "Piese>Capete Cablu si Manta|Piese",
+        "Piese>Frane V-Brake|Piese",
+        "Piese>Ghidoane|Piese",
+        "Piese>Pipe Ghidon|Piese>Tije Ghidon|Piese",
+        "Piese>Placute Frana Disc|Piese",
+        "Piese>Saboti Frana|Piese",
+        "Piese>Tije Șa|Piese",
+        "Piese|Piese>Disc frana",
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 6.0,
+        "max": 650.0,
+        "avg": 95.05,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "MACH1",
+      "product_count": 37,
+      "active_product_count": 34,
+      "categories": [
+        "Piese|Piese>Jante"
+      ],
+      "price_range": {
+        "min": 88.0,
+        "max": 215.0,
+        "avg": 152.59,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "NECO",
+      "product_count": 31,
+      "active_product_count": 26,
+      "categories": [
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Accesorii Remorca|Accesorii>Diverse>Roti ajutatoare|Accesorii>Diverse>Scaune pentru Copii|Accesorii>Diverse>Transport si Depozitare",
+        "Piese|Piese>Cuvete",
+        "Piese|Piese>Monobloc",
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 9.0,
+        "max": 125.0,
+        "avg": 41.97,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "CICLO BONIN",
+      "product_count": 30,
+      "active_product_count": 19,
+      "categories": [
+        "Accesorii",
+        "Accesorii|Accesorii>Antifurturi",
+        "Accesorii|Accesorii>Mansoane",
+        "Accesorii|Accesorii>Suport bidon si bidon",
+        "Echipament>Casti>Casti BMX|Echipament>Casti|Echipament",
+        "Echipament>Casti>Casti Ciclism Adulti|Echipament>Casti|Echipament",
+        "Echipament>Rucsaci si Bagaje calatorie|Echipament",
+        "Echipament|Echipament>Caciuli, Sepci si Bandane",
+        "Echipament|Echipament>Manusi",
+        "Piese>Anvelope pe sarma|Piese",
+        "Piese>Cabluri|Piese",
+        "Piese|Piese>Angrenaje",
+        "Piese|Piese>Butuci Roata",
+        "Scule si intretinere>Unelte Speciale|Scule si intretinere",
+        "Unknown"
       ],
       "price_range": {
         "min": 10.0,
-        "max": 45.0,
-        "avg": 20.32,
+        "max": 260.0,
+        "avg": 72.17,
         "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate KUJO",
-      "avg_rating": 4.8
+      }
+    },
+    {
+      "name": "ZOOM",
+      "product_count": 24,
+      "active_product_count": 17,
+      "categories": [
+        "Accesorii|Accesorii>Accesorii Ghidoane si BarEnd (ExtensiiGhidon)",
+        "Piese>Coliere Șa|Piese",
+        "Piese>Furci|Piese",
+        "Piese>Ghidoane|Piese",
+        "Piese>Pipe Ghidon|Piese",
+        "Piese>Tije Ghidon|Piese",
+        "Piese>Tije Șa|Piese"
+      ],
+      "price_range": {
+        "min": 18.0,
+        "max": 299.0,
+        "avg": 93.33,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "SUNRACE",
+      "product_count": 23,
+      "active_product_count": 23,
+      "categories": [
+        "Accesorii|Accesorii>Accesorii E-Bike|Accesorii>Accesorii E-Bike>Lanturi E-Bike",
+        "Piese>Frane V-Brake|Piese",
+        "Piese>Lanturi|Piese",
+        "Piese>Lanturi|Piese>Lanturi>ZA Missinglink|Piese",
+        "Piese|Piese>Angrenaje",
+        "Piese|Piese>Butuci Roata",
+        "Piese|Piese>Manete Schimbator",
+        "Piese|Piese>Monobloc",
+        "Piese|Piese>Pinioane",
+        "Piese|Piese>Schimbator Pinioane",
+        "Scule si intretinere>Unelte Speciale|Scule si intretinere"
+      ],
+      "price_range": {
+        "min": 15.0,
+        "max": 375.0,
+        "avg": 148.65,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "CST",
+      "product_count": 22,
+      "active_product_count": 2,
+      "categories": [
+        "Piese>Anvelope pe sarma|Piese",
+        "Piese>Camere de bicicleta|Piese"
+      ],
+      "price_range": {
+        "min": 15.0,
+        "max": 150.0,
+        "avg": 61.05,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "SAMOX",
+      "product_count": 21,
+      "active_product_count": 19,
+      "categories": [
+        "Piese|Piese>Angrenaje",
+        "Piese|Piese>Pinioane",
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 18.0,
+        "max": 550.0,
+        "avg": 96.76,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "BETO",
+      "product_count": 18,
+      "active_product_count": 17,
+      "categories": [
+        "Accesorii|Accesorii>Pompe"
+      ],
+      "price_range": {
+        "min": 14.0,
+        "max": 425.0,
+        "avg": 94.33,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "CN SPOKE",
+      "product_count": 14,
+      "active_product_count": 11,
+      "categories": [
+        "Accesorii|Accesorii>Suport bidon si bidon",
+        "Scule si intretinere>Unelte Speciale|Scule si intretinere",
+        "Scule si intretinere>Unelte Universale|Scule si intretinere",
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 0.3,
+        "max": 75.0,
+        "avg": 19.72,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "EXUSTAR",
+      "product_count": 12,
+      "active_product_count": 12,
+      "categories": [
+        "Accesorii|Accesorii>Pedale",
+        "Accesorii|Accesorii>Pedale>Accesorii Pedale|Accesorii>Pedale",
+        "Accesorii|Accesorii>Pedale>Accesorii Pedale|Accesorii>Pedale|Accesorii>Pedale>Pedale SPD|Accesorii>Pedale>Pedale SPD>Pedale Click",
+        "Accesorii|Accesorii>Pedale|Accesorii>Pedale>Pedale SPD|Accesorii>Pedale>Pedale SPD>Pedale Click",
+        "Scule si intretinere>Ingrijire si Lubrifiere|Scule si intretinere",
+        "Scule si intretinere>Intinzatoare Lant si Directionare|Scule si intretinere",
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 34.0,
+        "max": 399.0,
+        "avg": 139.08,
+        "currency": "RON"
+      }
     },
     {
       "name": "Smart",
-      "product_count": 17,
+      "product_count": 11,
+      "active_product_count": 11,
       "categories": [
-        "accesorii",
-        "biciclete"
+        "Accesorii",
+        "Accesorii|Accesorii>Lumini>Lumini Fata|Accesorii>Lumini",
+        "Accesorii|Accesorii>Lumini>Lumini Spate|Accesorii>Lumini"
       ],
       "price_range": {
         "min": 25.0,
         "max": 299.0,
-        "avg": 78.71,
+        "avg": 97.0,
         "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate Smart",
-      "avg_rating": 4.7
-    },
-    {
-      "name": "TANNUS",
-      "product_count": 16,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 195.0,
-        "max": 269.0,
-        "avg": 235.12,
-        "currency": "RON"
-      },
-      "origin": "South Korea",
-      "description": "Brand inovator din Coreea de Sud, recunoscut pentru soluțiile sale anti-pană dedicate bicicletelor, cu anvelope 100% solide și inserții de protecție.",
-      "avg_rating": 4.9
-    },
-    {
-      "name": "NECO",
-      "product_count": 15,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 32.0,
-        "max": 40.0,
-        "avg": 36.13,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate NECO",
-      "avg_rating": 4.5
-    },
-    {
-      "name": "CST",
-      "product_count": 14,
-      "categories": [
-        "biciclete",
-        "piese-schimb"
-      ],
-      "price_range": {
-        "min": 15.0,
-        "max": 55.0,
-        "avg": 27.79,
-        "currency": "RON"
-      },
-      "origin": "Taiwan",
-      "description": "CST Tires este unul dintre cei mai mari producători de anvelope din lume, cu o istorie ce începe în 1967, prezent în peste 150 de țări.",
-      "avg_rating": 4.0
-    },
-    {
-      "name": "BAFANG",
-      "product_count": 10,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 50.0,
-        "max": 5900.0,
-        "avg": 1337.3,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate BAFANG",
-      "avg_rating": 4.5
-    },
-    {
-      "name": "AN LUN",
-      "product_count": 9,
-      "categories": [
-        "accesorii",
-        "biciclete"
-      ],
-      "price_range": {
-        "min": 18.0,
-        "max": 199.0,
-        "avg": 62.67,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate AN LUN",
-      "avg_rating": 4.1
-    },
-    {
-      "name": "MOTUL",
-      "product_count": 9,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 46.0,
-        "max": 3000.0,
-        "avg": 518.44,
-        "currency": "RON"
-      },
-      "origin": "France",
-      "description": "Brand francez cu o tradiție de peste 170 de ani, recunoscut pentru excelența în lubrifianți și produse de întreținere pentru biciclete.",
-      "avg_rating": 4.0
+      }
     },
     {
       "name": "MOON",
+      "product_count": 10,
+      "active_product_count": 10,
+      "categories": [
+        "Accesorii",
+        "Accesorii>Diverse|Accesorii|Accesorii>Diverse>Accesorii Remorca|Accesorii>Diverse>Roti ajutatoare|Accesorii>Diverse>Scaune pentru Copii|Accesorii>Diverse>Transport si Depozitare",
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 22.0,
+        "max": 199.0,
+        "avg": 69.5,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "TANNUS",
+      "product_count": 8,
+      "active_product_count": 4,
+      "categories": [
+        "Piese>Anvelope Pliabile|Piese",
+        "Piese>Anvelope/Jante E-Bike|Piese",
+        "Piese>Benzi/Protectii Antipana|Piese",
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 195.0,
+        "max": 299.0,
+        "avg": 257.0,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "TANGE",
+      "product_count": 8,
+      "active_product_count": 7,
+      "categories": [
+        "Piese|Piese>Cuvete"
+      ],
+      "price_range": {
+        "min": 125.0,
+        "max": 199.0,
+        "avg": 154.88,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "AN LUN",
       "product_count": 7,
+      "active_product_count": 5,
       "categories": [
-        "biciclete"
+        "Accesorii",
+        "Accesorii|Accesorii>Lumini>Lumini Fata|Accesorii>Lumini",
+        "Piese|Piese>Butuci Roata",
+        "Unknown"
       ],
       "price_range": {
-        "min": 85.0,
-        "max": 1100.0,
-        "avg": 268.14,
+        "min": 28.0,
+        "max": 199.0,
+        "avg": 60.29,
         "currency": "RON"
-      },
-      "origin": "Hong Kong",
-      "description": "Brand fondat în Hong Kong acum peste 25 de ani, specializat în producția de lumini performante pentru biciclete cu premii prestigioase precum iF Design Award.",
-      "avg_rating": 4.0
-    },
-    {
-      "name": "BELELLI",
-      "product_count": 6,
-      "categories": [
-        "accesorii",
-        "biciclete"
-      ],
-      "price_range": {
-        "min": 110.0,
-        "max": 320.0,
-        "avg": 232.83,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate BELELLI",
-      "avg_rating": 4.6
-    },
-    {
-      "name": "MICHE",
-      "product_count": 6,
-      "categories": [
-        "accesorii"
-      ],
-      "price_range": {
-        "min": 90.0,
-        "max": 999.0,
-        "avg": 361.5,
-        "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate MICHE",
-      "avg_rating": 4.8
+      }
     },
     {
       "name": "LaSalle Sports",
-      "product_count": 4,
+      "product_count": 6,
+      "active_product_count": 5,
       "categories": [
-        "biciclete"
+        "Accesorii",
+        "Accesorii|Accesorii>Aparatori noroi"
       ],
       "price_range": {
-        "min": 60.0,
-        "max": 99.0,
-        "avg": 69.75,
+        "min": 18.0,
+        "max": 110.0,
+        "avg": 67.83,
         "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate LaSalle Sports",
-      "avg_rating": 4.3
+      }
+    },
+    {
+      "name": "MOTUL",
+      "product_count": 6,
+      "active_product_count": 3,
+      "categories": [
+        "Scule si intretinere>Ingrijire si Lubrifiere|Scule si intretinere",
+        "Scule si intretinere>Solutie Curatat Discuri|Scule si intretinere",
+        "Scule si intretinere>Solutie de spalat|Scule si intretinere",
+        "Scule si intretinere>Uleiuri Minerale|Scule si intretinere"
+      ],
+      "price_range": {
+        "min": 46.0,
+        "max": 100.0,
+        "avg": 60.5,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "ACTION",
+      "product_count": 5,
+      "active_product_count": 4,
+      "categories": [
+        "Accesorii|Accesorii>Antifurturi",
+        "Echipament>Casti>Casti Ciclism Adulti|Echipament>Casti|Echipament",
+        "Echipament|Echipament>Manusi",
+        "Piese>Camere de bicicleta|Piese",
+        "Piese>Capete Cablu si Manta|Piese"
+      ],
+      "price_range": {
+        "min": 1.5,
+        "max": 170.0,
+        "avg": 47.7,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "MIGHTY",
+      "product_count": 5,
+      "active_product_count": 2,
+      "categories": [
+        "Echipament>Casti>Casti Ciclism Adulti|Echipament>Casti|Echipament",
+        "Piese>Furci|Piese",
+        "Scule si intretinere>Unelte Speciale|Scule si intretinere"
+      ],
+      "price_range": {
+        "min": 69.0,
+        "max": 350.0,
+        "avg": 185.8,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "Unknown",
+      "product_count": 4,
+      "active_product_count": 3,
+      "categories": [
+        "Piese>Anvelope pe sarma|Piese",
+        "Piese>Camere de bicicleta|Piese",
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 18.0,
+        "max": 149.0,
+        "avg": 76.25,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "DEDA",
+      "product_count": 3,
+      "active_product_count": 3,
+      "categories": [
+        "Accesorii|Accesorii>Ghidoline",
+        "Accesorii|Accesorii>Suport bidon si bidon",
+        "Piese>Pipe Ghidon|Piese"
+      ],
+      "price_range": {
+        "min": 70.0,
+        "max": 160.0,
+        "avg": 100.67,
+        "currency": "RON"
+      }
     },
     {
       "name": "REMERX",
       "product_count": 3,
+      "active_product_count": 3,
       "categories": [
-        "accesorii"
+        "Piese|Piese>Jante"
       ],
       "price_range": {
-        "min": 150.0,
+        "min": 170.0,
         "max": 199.0,
-        "avg": 166.33,
+        "avg": 183.0,
         "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate REMERX",
-      "avg_rating": 4.0
+      }
     },
     {
-      "name": "CN SPOKE",
-      "product_count": 1,
+      "name": "MICROSHIFT",
+      "product_count": 3,
+      "active_product_count": 3,
       "categories": [
-        "accesorii"
+        "Piese|Piese>Schimbator Pinioane"
       ],
       "price_range": {
-        "min": 60.0,
-        "max": 60.0,
-        "avg": 60.0,
+        "min": 185.0,
+        "max": 250.0,
+        "avg": 225.0,
         "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate CN SPOKE",
-      "avg_rating": 4.4
+      }
     },
     {
-      "name": "MIGHTY",
-      "product_count": 1,
+      "name": "BELELLI",
+      "product_count": 2,
+      "active_product_count": 2,
       "categories": [
-        "accesorii"
+        "Accesorii",
+        "Unknown"
       ],
       "price_range": {
-        "min": 350.0,
-        "max": 350.0,
-        "avg": 350.0,
+        "min": 35.0,
+        "max": 110.0,
+        "avg": 72.5,
         "currency": "RON"
-      },
-      "origin": "Unknown",
-      "description": "Produse de calitate MIGHTY",
-      "avg_rating": 4.2
+      }
+    },
+    {
+      "name": "Force",
+      "product_count": 2,
+      "active_product_count": 2,
+      "categories": [
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 319.0,
+        "max": 339.0,
+        "avg": 329.0,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "IGPSport",
+      "product_count": 2,
+      "active_product_count": 2,
+      "categories": [
+        "Accesorii|Accesorii>Borsete si Genti"
+      ],
+      "price_range": {
+        "min": 50.0,
+        "max": 50.0,
+        "avg": 50.0,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "ECHOWELL",
+      "product_count": 1,
+      "active_product_count": 0,
+      "categories": [
+        "Accesorii"
+      ],
+      "price_range": {
+        "min": 89.0,
+        "max": 89.0,
+        "avg": 89.0,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "Rock machine",
+      "product_count": 1,
+      "active_product_count": 1,
+      "categories": [
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 299.0,
+        "max": 299.0,
+        "avg": 299.0,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "MICHE",
+      "product_count": 1,
+      "active_product_count": 1,
+      "categories": [
+        "Piese|Piese>Butuci Roata"
+      ],
+      "price_range": {
+        "min": 370.0,
+        "max": 370.0,
+        "avg": 370.0,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "BAFANG",
+      "product_count": 1,
+      "active_product_count": 1,
+      "categories": [
+        "Unknown"
+      ],
+      "price_range": {
+        "min": 100.0,
+        "max": 100.0,
+        "avg": 100.0,
+        "currency": "RON"
+      }
+    },
+    {
+      "name": "SMART",
+      "product_count": 8,
+      "active_product_count": 0,
+      "categories": [],
+      "price_range": null
+    },
+    {
+      "name": "BROSE",
+      "product_count": 1,
+      "active_product_count": 0,
+      "categories": [],
+      "price_range": null
     }
   ],
   "statistics": {
-    "most_products": "Pilo",
-    "countries_represented": 8,
-    "total_products": 4345
+    "total_products": 2885,
+    "total_active_products": 2411,
+    "countries_represented": null,
+    "most_products": "M-WAVE"
   }
 }
