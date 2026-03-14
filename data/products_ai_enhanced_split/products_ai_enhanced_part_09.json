@@ -1,438 +1,14 @@
 {
-  "last_updated": "2026-03-14T14:02:34.111764+00:00",
+  "last_updated": "2026-03-14T19:12:57.406103+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
-    "total_parts": 20,
+    "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4765
+    "original_total": 4744
   },
   "products": [
-    {
-      "id": "251019",
-      "sku": "251019",
-      "ean": "2800041000001",
-      "name": "Sa M-WAVE TOUR IV 260 x 184 mm Negru",
-      "brand": "M-WAVE",
-      "category": "Sei",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
-      "price": 99.0,
-      "price_net": 81.82,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 24,
-      "weight_kg": 0.46,
-      "url": "https://www.bikestylish.ro/sa-m-wave-tour-iv-260-x-184-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sa-m-wave-tour-iv-260-x-184-mm-negru~8324704.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/sa-m-wave-tour-iv-260-x-184-mm-negru~8324704.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/sa-m-wave-tour-iv-260-x-184-mm-negru~8324710.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/sa-m-wave-tour-iv-260-x-184-mm-negru~8324707.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/sa-m-wave-tour-iv-260-x-184-mm-negru~8324713.jpg"
-      ],
-      "attributes": {
-        "ean": "2800041000001"
-      },
-      "tags": [
-        "COMPONENTE",
-        "M-WAVE",
-        "Sei"
-      ],
-      "specs": {
-        "color": "Negru",
-        "dimensions": "260 x 184"
-      }
-    },
-    {
-      "id": "251020",
-      "sku": "251020",
-      "ean": "2800568000003",
-      "name": "Sa M-WAVE VACU TOUR IV 260 x 186 mm Maro",
-      "brand": "M-WAVE",
-      "category": "Sei",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
-      "price": 99.0,
-      "price_net": 81.82,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/sa-m-wave-vacu-tour-iv-260-x-186-mm-maro.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/sa-m-wave-vacu-tour-iv-260-x-186-mm-maro~8324716.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/sa-m-wave-vacu-tour-iv-260-x-186-mm-maro~8324716.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/sa-m-wave-vacu-tour-iv-260-x-186-mm-maro~8324719.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/sa-m-wave-vacu-tour-iv-260-x-186-mm-maro~8324722.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/sa-m-wave-vacu-tour-iv-260-x-186-mm-maro~8324725.jpg"
-      ],
-      "attributes": {
-        "ean": "2800568000003"
-      },
-      "tags": [
-        "COMPONENTE",
-        "M-WAVE",
-        "Sei"
-      ],
-      "specs": {
-        "dimensions": "260 x 186"
-      }
-    },
-    {
-      "id": "251023",
-      "sku": "251023",
-      "ean": "2800571000007",
-      "name": "Sa M-WAVE ELAST XXL CITY 291 x 276 mm",
-      "brand": "M-WAVE",
-      "category": "Sei",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
-      "price": 135.0,
-      "price_net": 111.57,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
-      "weight_kg": 1.25,
-      "url": "https://www.bikestylish.ro/sa-m-wave-elast-xxl-city-291-x-276-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/sa-m-wave-elast-xxl-city-291-x-276-mm~8324728.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/sa-m-wave-elast-xxl-city-291-x-276-mm~8324728.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/sa-m-wave-elast-xxl-city-291-x-276-mm~8324731.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/sa-m-wave-elast-xxl-city-291-x-276-mm~8324734.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/sa-m-wave-elast-xxl-city-291-x-276-mm~8324737.jpg"
-      ],
-      "attributes": {
-        "ean": "2800571000007"
-      },
-      "tags": [
-        "COMPONENTE",
-        "City/Trekking",
-        "M-WAVE",
-        "Sei"
-      ],
-      "specs": {
-        "bike_type": [
-          "City/Trekking"
-        ],
-        "dimensions": "291 x 276"
-      }
-    },
-    {
-      "id": "250075",
-      "sku": "250075",
-      "ean": "2800978000006",
-      "name": "Sa VENTURA \"RACING\"",
-      "brand": "VENTURA",
-      "category": "Sei",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
-      "price": 39.0,
-      "price_net": 32.23,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 62,
-      "weight_kg": 0.35,
-      "url": "https://www.bikestylish.ro/sa-ventura-racing.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/sa-ventura-racing~8324740.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/sa-ventura-racing~8324740.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/sa-ventura-racing~8324746.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/sa-ventura-racing~8324743.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/sa-ventura-racing~8324749.jpg"
-      ],
-      "attributes": {
-        "ean": "2800978000006"
-      },
-      "tags": [
-        "COMPONENTE",
-        "Sei",
-        "VENTURA"
-      ]
-    },
-    {
-      "id": "251042",
-      "sku": "251042",
-      "ean": "2800037000008",
-      "name": "Sa SXT RIVET 276 x152 mm, - Alb",
-      "brand": "SXT",
-      "category": "Sei",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
-      "price": 44.0,
-      "price_net": 36.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.33,
-      "url": "https://www.bikestylish.ro/sa-sxt-rivet-276-x152-mm-alb.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/sa-sxt-rivet-276-x152-mm-alb~8324752.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/sa-sxt-rivet-276-x152-mm-alb~8324752.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/sa-sxt-rivet-276-x152-mm-alb~8324758.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/sa-sxt-rivet-276-x152-mm-alb~8324755.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/sa-sxt-rivet-276-x152-mm-alb~8324761.jpg"
-      ],
-      "attributes": {
-        "ean": "2800037000008"
-      },
-      "tags": [
-        "COMPONENTE",
-        "SXT",
-        "Sei"
-      ],
-      "specs": {
-        "color": "Alb",
-        "dimensions": "276 x 152"
-      }
-    },
-    {
-      "id": "250161",
-      "sku": "250161",
-      "ean": "2801063000000",
-      "name": "Sa cu Arc VENTURA 245/210 mm",
-      "brand": "VENTURA",
-      "category": "Sei",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
-      "price": 39.0,
-      "price_net": 32.23,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 19,
-      "weight_kg": 0.65,
-      "url": "https://www.bikestylish.ro/sa-cu-arc-ventura-245-210-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sa-cu-arc-ventura-245-210-mm~8324764.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/sa-cu-arc-ventura-245-210-mm~8324764.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/sa-cu-arc-ventura-245-210-mm~8324767.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/sa-cu-arc-ventura-245-210-mm~8324770.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/sa-cu-arc-ventura-245-210-mm~8324773.jpg"
-      ],
-      "attributes": {
-        "ean": "2801063000000"
-      },
-      "tags": [
-        "COMPONENTE",
-        "Sei",
-        "VENTURA"
-      ]
-    },
-    {
-      "id": "250986",
-      "sku": "250986",
-      "ean": "887539016159",
-      "name": "Colier Tija Sa M-WAVE CLAMPY QR -31.8 mm Negru",
-      "brand": "M-WAVE",
-      "category": "Coliere Tija Sa",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Coliere Tija Sa",
-      "price": 17.0,
-      "price_net": 14.05,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.05,
-      "url": "https://www.bikestylish.ro/colier-tija-sa-m-wave-clampy-qr-31-8-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/colier-tija-sa-m-wave-clampy-qr-31-8-mm-negru~8324776.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/colier-tija-sa-m-wave-clampy-qr-31-8-mm-negru~8324776.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/colier-tija-sa-m-wave-clampy-qr-31-8-mm-negru~8324779.jpg"
-      ],
-      "attributes": {
-        "ean": "887539016159"
-      },
-      "tags": [
-        "COMPONENTE",
-        "Coliere Tija Sa",
-        "M-WAVE"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "250988",
-      "sku": "250988",
-      "ean": "887539016173",
-      "name": "Colier Tija Sa M-WAVE CLAMPY QR -31.8 mm Silver",
-      "brand": "M-WAVE",
-      "category": "Coliere Tija Sa",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Coliere Tija Sa",
-      "price": 16.0,
-      "price_net": 13.22,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.05,
-      "url": "https://www.bikestylish.ro/colier-tija-sa-m-wave-clampy-qr-31-8-mm-silver.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/colier-tija-sa-m-wave-clampy-qr-31-8-mm-silver~8324782.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/colier-tija-sa-m-wave-clampy-qr-31-8-mm-silver~8324782.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/colier-tija-sa-m-wave-clampy-qr-31-8-mm-silver~8324785.jpg"
-      ],
-      "attributes": {
-        "ean": "887539016173"
-      },
-      "tags": [
-        "COMPONENTE",
-        "Coliere Tija Sa",
-        "M-WAVE"
-      ],
-      "specs": {
-        "color": "Silver"
-      }
-    },
-    {
-      "id": "250987",
-      "sku": "250987",
-      "ean": "887539016166",
-      "name": "Colier Tija Sa M-WAVE CLAMPY QR 34,9 mm-Negru",
-      "brand": "M-WAVE",
-      "category": "Coliere Tija Sa",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Coliere Tija Sa",
-      "price": 16.0,
-      "price_net": 13.22,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.05,
-      "url": "https://www.bikestylish.ro/colier-tija-sa-m-wave-clampy-qr-34-9-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/colier-tija-sa-m-wave-clampy-qr-34-9-mm-negru~8324788.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/colier-tija-sa-m-wave-clampy-qr-34-9-mm-negru~8324788.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/colier-tija-sa-m-wave-clampy-qr-34-9-mm-negru~8324791.jpg"
-      ],
-      "attributes": {
-        "ean": "887539016166"
-      },
-      "tags": [
-        "COMPONENTE",
-        "Coliere Tija Sa",
-        "M-WAVE"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "250848",
-      "sku": "250848",
-      "ean": "4015493892786",
-      "name": "Colier Sa cu Suport Fixare Portbagaj M-WAVE RACKY - 28,6 mm",
-      "brand": "M-WAVE",
-      "category": "Coliere Tija Sa",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Coliere Tija Sa",
-      "price": 40.0,
-      "price_net": 33.06,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 20,
-      "weight_kg": 0.07,
-      "url": "https://www.bikestylish.ro/colier-sa-cu-suport-fixare-portbagaj-m-wave-racky-28-6-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/colier-sa-cu-suport-fixare-portbagaj-m-wave-racky-28-6-mm~8324794.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/colier-sa-cu-suport-fixare-portbagaj-m-wave-racky-28-6-mm~8324794.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/colier-sa-cu-suport-fixare-portbagaj-m-wave-racky-28-6-mm~8324797.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/colier-sa-cu-suport-fixare-portbagaj-m-wave-racky-28-6-mm~8324800.jpg"
-      ],
-      "attributes": {
-        "ean": "4015493892786"
-      },
-      "tags": [
-        "COMPONENTE",
-        "Coliere Tija Sa",
-        "M-WAVE"
-      ]
-    },
-    {
-      "id": "252427",
-      "sku": "252427",
-      "ean": "2800971000003",
-      "name": "Tija Sa M-WAVE - 350 mm-27,2 mm Negru Anodizat",
-      "brand": "M-WAVE",
-      "category": "Tije Sa",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Tije Sa",
-      "price": 55.0,
-      "price_net": 45.45,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 49,
-      "weight_kg": 0.4,
-      "url": "https://www.bikestylish.ro/tija-sa-m-wave-350-mm-27-2-mm-negru-anodizat.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/tija-sa-m-wave-350-mm-27-2-mm-negru-anodizat~11323038.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/tija-sa-m-wave-350-mm-27-2-mm-negru-anodizat~11323038.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/tija-sa-m-wave-350-mm-27-2-mm-negru-anodizat~8324821.jpg"
-      ],
-      "attributes": {
-        "ean": "2800971000003"
-      },
-      "tags": [
-        "COMPONENTE",
-        "M-WAVE",
-        "Tije Sa"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "252423",
-      "sku": "252423",
-      "ean": "2801066000007",
-      "name": "Tija Sa M-WAVE 350 mm-25,4 mm Silver",
-      "brand": "M-WAVE",
-      "category": "Tije Sa",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Tije Sa",
-      "price": 50.0,
-      "price_net": 41.32,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 46,
-      "weight_kg": 0.32,
-      "url": "https://www.bikestylish.ro/tija-sa-m-wave-350-mm-25-4-mm-silver.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/tija-sa-m-wave-350-mm-25-4-mm-silver~8324824.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/tija-sa-m-wave-350-mm-25-4-mm-silver~8324824.jpg"
-      ],
-      "attributes": {
-        "ean": "2801066000007"
-      },
-      "tags": [
-        "COMPONENTE",
-        "M-WAVE",
-        "Tije Sa"
-      ],
-      "specs": {
-        "color": "Silver"
-      }
-    },
-    {
-      "id": "252425",
-      "sku": "252425",
-      "ean": "2801067000006",
-      "name": "Tija Sa M-WAVE 350 mm -27,2 mm Silver",
-      "brand": "M-WAVE",
-      "category": "Tije Sa",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Tije Sa",
-      "price": 50.0,
-      "price_net": 41.32,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 46,
-      "weight_kg": 0.4,
-      "url": "https://www.bikestylish.ro/tija-sa-m-wave-350-mm-27-2-mm-silver.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/tija-sa-m-wave-350-mm-27-2-mm-silver~8324827.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/tija-sa-m-wave-350-mm-27-2-mm-silver~8324827.jpg"
-      ],
-      "attributes": {
-        "ean": "2801067000006"
-      },
-      "tags": [
-        "COMPONENTE",
-        "M-WAVE",
-        "Tije Sa"
-      ],
-      "specs": {
-        "color": "Silver"
-      }
-    },
     {
       "id": "259950",
       "sku": "259950",
@@ -452,9 +28,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/adaptor-tija-sa-sxt-de-la-28-6-mm-la-27-2-mm~8324830.jpg"
       ],
-      "attributes": {
-        "ean": "2800045000007"
-      },
       "tags": [
         "COMPONENTE",
         "SXT",
@@ -486,9 +59,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/oglinda-bicicleta-m-wave-spy-space~8324848.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/oglinda-bicicleta-m-wave-spy-space~8324851.jpg"
       ],
-      "attributes": {
-        "ean": "887539025878"
-      },
       "tags": [
         "ACCESORII",
         "M-WAVE",
@@ -513,9 +83,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/niplu-sapim-14-2-mm-silver~8324854.jpg"
       ],
-      "attributes": {
-        "ean": "2801072000008"
-      },
       "tags": [
         "COMPONENTE",
         "Nipluri - Accesorii",
@@ -544,9 +111,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/niplu-cnspoke-ucp-14g-s-ucp-2-0-x-16-mm-negru~8324857.jpg"
       ],
-      "attributes": {
-        "ean": "887539006761"
-      },
       "tags": [
         "COMPONENTE",
         "Nipluri - Accesorii",
@@ -576,9 +140,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/niplu-aluminiu-cnspoke-14g-a-14-2-mm-negru~8324860.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/niplu-aluminiu-cnspoke-14g-a-14-2-mm-negru~8324863.jpg"
       ],
-      "attributes": {
-        "ean": "887539006280"
-      },
       "tags": [
         "Aluminiu",
         "COMPONENTE",
@@ -609,9 +170,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/niplu-cnspoke-ucp-14g-s-2-0-x-14-mm-silver~8324866.jpg"
       ],
-      "attributes": {
-        "ean": "2800060000006"
-      },
       "tags": [
         "COMPONENTE",
         "Nipluri - Accesorii",
@@ -640,9 +198,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/niplu-cnspoke-ucp-14g-s-2-0-x-12-mm-negru~8324869.jpg"
       ],
-      "attributes": {
-        "ean": "2800007000007"
-      },
       "tags": [
         "COMPONENTE",
         "Nipluri - Accesorii",
@@ -671,9 +226,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/niplu-brass-14-2-mm-negru-cnspoke~8324872.jpg"
       ],
-      "attributes": {
-        "ean": "887539006136"
-      },
       "tags": [
         "COMPONENTE",
         "Nipluri - Accesorii",
@@ -704,9 +256,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/lant-kmc-x11-silver-negru-114-zale~8324878.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/lant-kmc-x11-silver-negru-114-zale~8324881.jpg"
       ],
-      "attributes": {
-        "ean": "4715575890296"
-      },
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
         "COMPONENTE",
@@ -738,9 +287,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/missinglink-kmc-12nr-ept-silver-12v-2-buc~8324887.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/missinglink-kmc-12nr-ept-silver-12v-2-buc~8324890.jpg"
       ],
-      "attributes": {
-        "ean": "4715575894676"
-      },
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
         "12 viteze",
@@ -773,9 +319,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/missinglink-kmc-12nr-ti-n-gold-12v-2-buc~8324893.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/missinglink-kmc-12nr-ti-n-gold-12v-2-buc~8324896.jpg"
       ],
-      "attributes": {
-        "ean": "4715575894652"
-      },
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
         "12 viteze",
@@ -811,9 +354,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-x12-ti-n-gold-negru-126-zale~8324917.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/lant-kmc-x12-ti-n-gold-negru-126-zale~8324920.jpg"
       ],
-      "attributes": {
-        "ean": "4715575890180"
-      },
       "tags": [
         "COMPONENTE",
         "KMC",
@@ -842,9 +382,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/pin-schimbabil-presa-de-lant-1-buc-m-wave-880031~8324935.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/pin-schimbabil-presa-de-lant-1-buc-m-wave-880031~8324938.jpg"
       ],
-      "attributes": {
-        "ean": "2800017000004"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -871,9 +408,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/lant-kmc-11sl-ti-n-gold~8324944.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-11sl-ti-n-gold~8324947.jpg"
       ],
-      "attributes": {
-        "ean": "4715575890227"
-      },
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
         "COMPONENTE",
@@ -905,9 +439,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-x10el-gold-ti-n~8324956.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/lant-kmc-x10el-gold-ti-n~8324959.jpg"
       ],
-      "attributes": {
-        "ean": "4715575890364"
-      },
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
         "COMPONENTE",
@@ -938,9 +469,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/protectie-cadru-velo-xl-260x100-130~8324962.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/protectie-cadru-velo-xl-260x100-130~8324965.jpg"
       ],
-      "attributes": {
-        "ean": "887539000790"
-      },
       "tags": [
         "COMPONENTE",
         "Protectii Lant - Cadru",
@@ -969,9 +497,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/lant-kmc-dlc-12-negru~8324998.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/lant-kmc-dlc-12-negru~8325001.jpg"
       ],
-      "attributes": {
-        "ean": "2801951000006"
-      },
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
         "COMPONENTE",
@@ -1007,9 +532,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-m-wave-freedom-sl91x96-mm-titanium-grey~8325007.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-m-wave-freedom-sl91x96-mm-titanium-grey~8325010.jpg"
       ],
-      "attributes": {
-        "ean": "887539025786"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -1043,9 +565,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-click-duble-exustar-e-pm825~8325025.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-click-duble-exustar-e-pm825~8325028.jpg"
       ],
-      "attributes": {
-        "ean": "4712947523486"
-      },
       "tags": [
         "COMPONENTE",
         "EXUSTAR",
@@ -1073,9 +592,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-aluminiu-bmx-exustar-e-pb525-negru~8325034.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-aluminiu-bmx-exustar-e-pb525-negru~8325037.jpg"
       ],
-      "attributes": {
-        "ean": "4015493310815"
-      },
       "tags": [
         "Aluminiu",
         "BMX",
@@ -1113,9 +629,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-aluminiu-bmx-exustar-e-pb525-albastru~8325046.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-aluminiu-bmx-exustar-e-pb525-albastru~8325049.jpg"
       ],
-      "attributes": {
-        "ean": "4015493310938"
-      },
       "tags": [
         "Aluminiu",
         "BMX",
@@ -1152,9 +665,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-aluminiu-vp-63x82-mm-silver-negru-rulmenti~8325055.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-aluminiu-vp-63x82-mm-silver-negru-rulmenti~8325058.jpg"
       ],
-      "attributes": {
-        "ean": "4015493310129"
-      },
       "tags": [
         "Aluminiu",
         "COMPONENTE",
@@ -1188,9 +698,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/click-sistem-exustar-e-emm276~8325079.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/click-sistem-exustar-e-emm276~8325082.jpg"
       ],
-      "attributes": {
-        "ean": "887539004392"
-      },
       "tags": [
         "Accesorii Pedale",
         "COMPONENTE",
@@ -1216,9 +723,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-plastic-sxt-stady-c-eco-negru~8325085.jpg"
       ],
-      "attributes": {
-        "ean": "2802236000001"
-      },
       "tags": [
         "COMPONENTE",
         "Pedale Platforma",
@@ -1249,9 +753,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/butuc-spate-aluminiu-qr-sxt-36-h-fd-filetat~8325103.jpg"
       ],
-      "attributes": {
-        "ean": "2800074000009"
-      },
       "tags": [
         "Aluminiu",
         "Butuci Frana Disc",
@@ -1281,9 +782,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-spate-novatec-f162sb-aa-11s-36h~8325106.jpg"
       ],
-      "attributes": {
-        "ean": "2800076000007"
-      },
       "tags": [
         "11 viteze",
         "Butuci V-Break - Dinam",
@@ -1313,9 +811,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-fata-novatec-a141sb-32h~8325109.jpg"
       ],
-      "attributes": {
-        "ean": "2800896000003"
-      },
       "tags": [
         "Butuci V-Break - Dinam",
         "COMPONENTE",
@@ -1341,9 +836,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/qr-fata-100-mm-sxt-negru~8325112.jpg"
       ],
-      "attributes": {
-        "ean": "2800078000005"
-      },
       "tags": [
         "Axe - Accesorii Butuci",
         "COMPONENTE",
@@ -1371,9 +863,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/rulment-japonez-sigilat-novatec-typ-6802~8325115.jpg"
       ],
-      "attributes": {
-        "ean": "2800080000000"
-      },
       "tags": [
         "Axe - Accesorii Butuci",
         "COMPONENTE",
@@ -1398,9 +887,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/rulment-japonez-sigilat-novatec-typ-699~8325118.jpg"
       ],
-      "attributes": {
-        "ean": "2800901000004"
-      },
       "tags": [
         "Axe - Accesorii Butuci",
         "COMPONENTE",
@@ -1427,9 +913,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-an01-purple~8325124.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-an01-purple~8325127.jpg"
       ],
-      "attributes": {
-        "ean": "4711126201634"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -1459,9 +942,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-pa03a-pini-detasabili-negru~8325130.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-pa03a-pini-detasabili-negru~8325133.jpg"
       ],
-      "attributes": {
-        "ean": "4715872486635"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -1491,9 +971,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-pa03a-pini-detasabili-alb~8325136.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-pa03a-pini-detasabili-alb~8325139.jpg"
       ],
-      "attributes": {
-        "ean": "4715872486642"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -1522,9 +999,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-pa12a-galben-pini-detasabili~8325142.jpg"
       ],
-      "attributes": {
-        "ean": "4715872481753"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -1553,9 +1027,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-pa12a-albe-pini-detasabili~8325145.jpg"
       ],
-      "attributes": {
-        "ean": "4715872481784"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -1584,9 +1055,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-pa12a-mov-pini-detasabili~8325148.jpg"
       ],
-      "attributes": {
-        "ean": "4715872483719"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -1615,9 +1083,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-pa12a-roz-pini-detasabili~8325151.jpg"
       ],
-      "attributes": {
-        "ean": "4715872481746"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -1645,9 +1110,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/kit-conversie-5-mm-novatec-d411cb~8325172.jpg"
       ],
-      "attributes": {
-        "ean": "2800918000004"
-      },
       "tags": [
         "Axe - Accesorii Butuci",
         "COMPONENTE",
@@ -1673,9 +1135,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-spate-carbon-fd-novatec-d412cb-24-h~8325175.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/butuc-spate-carbon-fd-novatec-d412cb-24-h~8325178.jpg"
       ],
-      "attributes": {
-        "ean": "4719871442814"
-      },
       "tags": [
         "Butuci Frana Disc",
         "COMPONENTE",
@@ -1705,9 +1164,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/butuc-spate-carbon-fd-novatec-d412cb-28-h~8325181.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/butuc-spate-carbon-fd-novatec-d412cb-28-h~8325184.jpg"
       ],
-      "attributes": {
-        "ean": "4719871442791"
-      },
       "tags": [
         "Butuci Frana Disc",
         "COMPONENTE",
@@ -1738,9 +1194,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/butuc-spate-fat-bike-novatec-d202sb-32h-fd-197-mm~8325193.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-spate-fat-bike-novatec-d202sb-32h-fd-197-mm~10193565.jpg"
       ],
-      "attributes": {
-        "ean": "2800085000005"
-      },
       "tags": [
         "Butuci Frana Disc",
         "COMPONENTE",
@@ -1766,9 +1219,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-spate-filetat-sxt-36h-130-silver~8325217.jpg"
       ],
-      "attributes": {
-        "ean": "2800095000002"
-      },
       "tags": [
         "Butuci V-Break - Dinam",
         "COMPONENTE",
@@ -1798,9 +1248,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/piulita-spate-butuc-single-speed~8325220.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/piulita-spate-butuc-single-speed~8325223.jpg"
       ],
-      "attributes": {
-        "ean": "2801087000000"
-      },
       "tags": [
         "Butuci V-Break - Dinam",
         "COMPONENTE",
@@ -1831,9 +1278,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/saiba-lockring-butuc-spate-single-speed~8325226.jpg"
       ],
-      "attributes": {
-        "ean": "2801088000009"
-      },
       "tags": [
         "Butuci V-Break - Dinam",
         "COMPONENTE",
@@ -1867,9 +1311,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/thru-axle-novatec-qr264-shi~8325235.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/thru-axle-novatec-qr264-shi~8325238.jpg"
       ],
-      "attributes": {
-        "ean": "887539000066"
-      },
       "tags": [
         "Axe - Accesorii Butuci",
         "COMPONENTE",
@@ -1894,9 +1335,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/qr-fata-100-mm-sxt-silver~8325241.jpg"
       ],
-      "attributes": {
-        "ean": "2800928000001"
-      },
       "tags": [
         "Axe - Accesorii Butuci",
         "COMPONENTE",
@@ -1928,9 +1366,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/bidon-plastic-m-wave-pbo-750-alb~8325253.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/bidon-plastic-m-wave-pbo-750-alb~8325259.jpg"
       ],
-      "attributes": {
-        "ean": "887539023232"
-      },
       "tags": [
         "ACCESORII",
         "Bidoane Ciclism",
@@ -1962,9 +1397,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/aparatoare-angrenaj-sxt-42-44-t~8325286.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/aparatoare-angrenaj-sxt-42-44-t~8325289.jpg"
       ],
-      "attributes": {
-        "ean": "2800102000001"
-      },
       "tags": [
         "Aparatori Angrenaj - Accesorii",
         "COMPONENTE",
@@ -1991,9 +1423,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/aparatoare-angrenaj-sxt-46-48-t~8325292.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/aparatoare-angrenaj-sxt-46-48-t~8325295.jpg"
       ],
-      "attributes": {
-        "ean": "2800840000004"
-      },
       "tags": [
         "Aparatori Angrenaj - Accesorii",
         "COMPONENTE",
@@ -2023,9 +1452,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/set-protectie-brate-angrenaj-m-wave-negru~8325307.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/set-protectie-brate-angrenaj-m-wave-negru~8325310.jpg"
       ],
-      "attributes": {
-        "ean": "887539024482"
-      },
       "tags": [
         "Brate Angrenaje",
         "COMPONENTE",
@@ -2054,9 +1480,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/monobloc-pedalier-m-wave-carousel-bb-bsa-sq-110-5-20-5-mm~8325334.jpg"
       ],
-      "attributes": {
-        "ean": "887539022921"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -2082,9 +1505,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/monobloc-pedalier-m-wave-carousel-bb-bsa-sq-127-5-31-mm~8325337.jpg"
       ],
-      "attributes": {
-        "ean": "887539022976"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -2111,9 +1531,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/monobloc-pedalier-neco-113-5-22-5-mm-negru-cupe-metal-plastic~8325340.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/monobloc-pedalier-neco-113-5-22-5-mm-negru-cupe-metal-plastic~8325343.jpg"
       ],
-      "attributes": {
-        "ean": "2800823000007"
-      },
       "tags": [
         "COMPONENTE",
         "Monobloace - B.B.",
@@ -2147,9 +1564,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/kit-service-frane-hidraulice-m-wave-brake-doc-box~8325355.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/kit-service-frane-hidraulice-m-wave-brake-doc-box~8325358.jpg"
       ],
-      "attributes": {
-        "ean": "887539023287"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -2175,9 +1589,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/dot-5-1-1000-ml-m-wave~11322984.jpg"
       ],
-      "attributes": {
-        "ean": "887539010799"
-      },
       "tags": [
         "Bike Maintenance - Intretinere",
         "COMPONENTE",
@@ -2204,9 +1615,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/conducta-hidraulica-promax-2-2-mm-1-m~8325382.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/conducta-hidraulica-promax-2-2-mm-1-m~8325385.jpg"
       ],
-      "attributes": {
-        "ean": "887539008093"
-      },
       "tags": [
         "COMPONENTE",
         "Frane Disc",
@@ -2233,9 +1641,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/disc-frana-promax-140-mm~8325394.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/disc-frana-promax-140-mm~8325397.jpg"
       ],
-      "attributes": {
-        "ean": "2801099000005"
-      },
       "tags": [
         "COMPONENTE",
         "Discuri - Rotoare",
@@ -2263,9 +1668,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/disc-frana-promax-160-mm~8325400.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/disc-frana-promax-160-mm~8325403.jpg"
       ],
-      "attributes": {
-        "ean": "4015493360575"
-      },
       "tags": [
         "COMPONENTE",
         "Discuri - Rotoare",
@@ -2293,9 +1695,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/protectie-cauciuc-v-break-promax-25-buc~8325409.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/protectie-cauciuc-v-break-promax-25-buc~8325412.jpg"
       ],
-      "attributes": {
-        "ean": "2801097000007"
-      },
       "tags": [
         "COMPONENTE",
         "Frane V - Break",
@@ -2322,9 +1721,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/saboti-frana-72-mm-m-wave-bpr-vc-negru~8325445.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/saboti-frana-72-mm-m-wave-bpr-vc-negru~8325448.jpg"
       ],
-      "attributes": {
-        "ean": "887539025694"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -2355,9 +1751,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/saboti-frana-m-wave-bpr-t-55-mm~12311235.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/saboti-frana-m-wave-bpr-t-55-mm~8325454.jpg"
       ],
-      "attributes": {
-        "ean": "887539025724"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -2385,9 +1778,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/saboti-frana-72-mm-m-wave-bpr-vc-dual-negru-rosu~8325460.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/saboti-frana-72-mm-m-wave-bpr-vc-dual-negru-rosu~8325463.jpg"
       ],
-      "attributes": {
-        "ean": "887539025700"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -2417,9 +1807,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/set-franare-promax-silver~11431941.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/set-franare-promax-silver~8325475.jpg"
       ],
-      "attributes": {
-        "ean": "4015493890218"
-      },
       "tags": [
         "COMPONENTE",
         "Frane V - Break",
@@ -2450,9 +1837,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/set-franare-promax-negru~11431938.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/set-franare-promax-negru~8325481.jpg"
       ],
-      "attributes": {
-        "ean": "4015493890225"
-      },
       "tags": [
         "COMPONENTE",
         "Frane V - Break",
@@ -2483,9 +1867,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/set-franare-promax-alb~8325487.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/set-franare-promax-alb~8325490.jpg"
       ],
-      "attributes": {
-        "ean": "4015493890201"
-      },
       "tags": [
         "COMPONENTE",
         "Frane V - Break",
@@ -2515,9 +1896,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/placute-frana-m-wave-sram-x0-organice~8325493.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/placute-frana-m-wave-sram-x0-organice~8325496.jpg"
       ],
-      "attributes": {
-        "ean": "887539015336"
-      },
       "category_description": "Disc brake pads - sintered or organic",
       "tags": [
         "COMPONENTE",
@@ -2546,9 +1924,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/aparatoare-noroi-fata-m-wave-mud-max-plus-qr-f-26-29-negru~8325502.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/aparatoare-noroi-fata-m-wave-mud-max-plus-qr-f-26-29-negru~8325505.jpg"
       ],
-      "attributes": {
-        "ean": "887539022532"
-      },
       "tags": [
         "ACCESORII",
         "Aparatori Noroi Fata",
@@ -2578,9 +1953,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/aparatoare-noroi-fata-m-wave-mud-max-qr-f-ii-26-29-negru~8325508.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/aparatoare-noroi-fata-m-wave-mud-max-qr-f-ii-26-29-negru~8325511.jpg"
       ],
-      "attributes": {
-        "ean": "887539013554"
-      },
       "tags": [
         "ACCESORII",
         "Aparatori Noroi Fata",
@@ -2610,9 +1982,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/set-aparatori-noroi-flexibile-sxt-26-60-mm-silver~8325514.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/set-aparatori-noroi-flexibile-sxt-26-60-mm-silver~8325517.jpg"
       ],
-      "attributes": {
-        "ean": "887539012427"
-      },
       "tags": [
         "ACCESORII",
         "SXT",
@@ -2643,9 +2012,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/janta-sxt-28-622-15c-40-mm-32h-roz~8325523.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/janta-sxt-28-622-15c-40-mm-32h-roz~8325526.jpg"
       ],
-      "attributes": {
-        "ean": "0664533242353"
-      },
       "tags": [
         "COMPONENTE",
         "Jante pentru Frane V-Brake",
@@ -2677,9 +2043,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/cuveti-integrati-tange-1-1-8-1-5~8325559.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/cuveti-integrati-tange-1-1-8-1-5~8325562.jpg"
       ],
-      "attributes": {
-        "ean": "887539006730"
-      },
       "tags": [
         "COMPONENTE",
         "Cuveti(HeadSet)",
@@ -2708,9 +2071,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/cuveti-externi-tange-1-1-8-negru~8325580.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/cuveti-externi-tange-1-1-8-negru~8325583.jpg"
       ],
-      "attributes": {
-        "ean": "4015493390640"
-      },
       "tags": [
         "COMPONENTE",
         "Cuveti(HeadSet)",
@@ -2742,9 +2102,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/cuveti-externi-tange-1-1-8-silver~8325592.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/cuveti-externi-tange-1-1-8-silver~8325595.jpg"
       ],
-      "attributes": {
-        "ean": "4015493390633"
-      },
       "tags": [
         "COMPONENTE",
         "Cuveti(HeadSet)",
@@ -2775,9 +2132,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/cuveti-externi-neco-1-1-8-negru~8325604.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/cuveti-externi-neco-1-1-8-negru~8325601.jpg"
       ],
-      "attributes": {
-        "ean": "4015493390534"
-      },
       "tags": [
         "COMPONENTE",
         "Cuveti(HeadSet)",
@@ -2807,9 +2161,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/capac-si-floare-cuvete-m-wave-fork-fix-1-1-8-negru-anodizat~8325607.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/capac-si-floare-cuvete-m-wave-fork-fix-1-1-8-negru-anodizat~11322975.jpg"
       ],
-      "attributes": {
-        "ean": "887539016920"
-      },
       "tags": [
         "COMPONENTE",
         "Cuveti(HeadSet)",
@@ -2838,9 +2189,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/rulment-sxt-integrat-1-1-4-35-mm-a-x-47-mm-b-x-8-mm-c-45-45~8325613.jpg"
       ],
-      "attributes": {
-        "ean": "2800746000009"
-      },
       "tags": [
         "COMPONENTE",
         "Rulmenti(HeadSet)",
@@ -2868,9 +2216,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/cuveti-externi-tange-1-negru~8325619.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/cuveti-externi-tange-1-negru~8325622.jpg"
       ],
-      "attributes": {
-        "ean": "887539006716"
-      },
       "tags": [
         "COMPONENTE",
         "Cuveti(HeadSet)",
@@ -2899,9 +2244,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/furca-fixa-road-sxt-700c-1-1-8-aluminiu-negru~8325625.jpg"
       ],
-      "attributes": {
-        "ean": "2800174000008"
-      },
       "category_description": "Suspension and rigid forks",
       "tags": [
         "Aluminiu",
@@ -2937,9 +2279,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/furca-fixa-28-sxt-1-1-8-aluminiu~8325628.jpg"
       ],
-      "attributes": {
-        "ean": "2800738000000"
-      },
       "category_description": "Suspension and rigid forks",
       "tags": [
         "Aluminiu",
@@ -2970,9 +2309,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/furca-fixa-trekking-sxt-28-1-1-8-f-d-hi-ten-negru~8325631.jpg"
       ],
-      "attributes": {
-        "ean": "2800176000006"
-      },
       "category_description": "Suspension and rigid forks",
       "tags": [
         "COMPONENTE",
@@ -3008,9 +2344,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/furca-fixa-mtb-24-1-sxt-negru~8325634.jpg"
       ],
-      "attributes": {
-        "ean": "2800731000007"
-      },
       "category_description": "Suspension and rigid forks",
       "tags": [
         "COMPONENTE",
@@ -3044,9 +2377,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/furca-fixa-mtb-26-sxt-1-negru~8325637.jpg"
       ],
-      "attributes": {
-        "ean": "2800179000003"
-      },
       "category_description": "Suspension and rigid forks",
       "tags": [
         "COMPONENTE",
@@ -3080,9 +2410,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/furca-fixa-mtb-26-sxt-1-1-8-negru~8325640.jpg"
       ],
-      "attributes": {
-        "ean": "887539014919"
-      },
       "category_description": "Suspension and rigid forks",
       "tags": [
         "COMPONENTE",
@@ -3116,9 +2443,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/furca-bmx-20-sxt-1-1-8-metal-negru~8325643.jpg"
       ],
-      "attributes": {
-        "ean": "2800729000002"
-      },
       "category_description": "Suspension and rigid forks",
       "tags": [
         "BMX",
@@ -3153,9 +2477,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ghidon-mtb-zoom-720-31-8-mm~8325646.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ghidon-mtb-zoom-720-31-8-mm~8325649.jpg"
       ],
-      "attributes": {
-        "ean": "887539020224"
-      },
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
@@ -3188,9 +2509,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ghidon-mtb-m-wave-700-31-8-silver-matt-anodizat~8325652.jpg"
       ],
-      "attributes": {
-        "ean": "887539020149"
-      },
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
@@ -3224,9 +2542,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/ghidon-mtb-zoom-600-25-4-mm~8325658.jpg"
       ],
-      "attributes": {
-        "ean": "2800189000000"
-      },
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
@@ -3259,9 +2574,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/ghidon-touring-zoom-590-25-4-mm~8325661.jpg"
       ],
-      "attributes": {
-        "ean": "2800721000000"
-      },
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
@@ -3288,9 +2600,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-touring-sxt-metal-negru~8325664.jpg"
       ],
-      "attributes": {
-        "ean": "2800727000004"
-      },
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
@@ -3323,9 +2632,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ghidon-racing-zoom-440-31-8-mm~8325673.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ghidon-racing-zoom-440-31-8-mm~8325676.jpg"
       ],
-      "attributes": {
-        "ean": "2800718000006"
-      },
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
@@ -3353,9 +2659,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ghidon-bullhorn-sxt-400-25-4mm-silver~8325679.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ghidon-bullhorn-sxt-400-25-4mm-silver~8325682.jpg"
       ],
-      "attributes": {
-        "ean": "2800725000006"
-      },
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
@@ -3385,9 +2688,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ghidon-bmx-promax-650-22-2-mm-metal~8325685.jpg"
       ],
-      "attributes": {
-        "ean": "2800722000009"
-      },
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "BMX",
@@ -3421,9 +2721,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ghidon-contratimp-tranz-x~8325688.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ghidon-contratimp-tranz-x~8325691.jpg"
       ],
-      "attributes": {
-        "ean": "4015493400592"
-      },
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
@@ -3450,9 +2747,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/adaptor-cu-pipa-sxt-1-1-8-40-170-mm~8325694.jpg"
       ],
-      "attributes": {
-        "ean": "2800709000008"
-      },
       "category_description": "Stems - connect handlebars to steerer tube",
       "tags": [
         "COMPONENTE",
@@ -3478,9 +2772,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/adaptor-cu-pipa-metal-1-160-60-mm~8325697.jpg"
       ],
-      "attributes": {
-        "ean": "2800696000005"
-      },
       "category_description": "Stems - connect handlebars to steerer tube",
       "tags": [
         "COMPONENTE",
@@ -3507,9 +2798,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/pipa-sxt-31-8-100-mm-negru~8325706.jpg"
       ],
-      "attributes": {
-        "ean": "2800695000006"
-      },
       "category_description": "Stems - connect handlebars to steerer tube",
       "tags": [
         "COMPONENTE",
@@ -3540,9 +2828,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/pipa-m-wave-35-50-mm-negru~8325709.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/pipa-m-wave-35-50-mm-negru~8325712.jpg"
       ],
-      "attributes": {
-        "ean": "887539023584"
-      },
       "category_description": "Stems - connect handlebars to steerer tube",
       "tags": [
         "COMPONENTE",
@@ -3573,9 +2858,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/capete-ghidon-m-wave-be-anatom~8325724.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/capete-ghidon-m-wave-be-anatom~8325721.jpg"
       ],
-      "attributes": {
-        "ean": "887539014575"
-      },
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
@@ -3603,9 +2885,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-velo-retro-2~8325736.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-velo-retro-2~8325733.jpg"
       ],
-      "attributes": {
-        "ean": "4015493410485"
-      },
       "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
@@ -3634,9 +2913,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-velo-retro-ergo-piele-135-mm~8325739.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/mansoane-velo-retro-ergo-piele-135-mm~8325742.jpg"
       ],
-      "attributes": {
-        "ean": "4015493410393"
-      },
       "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
@@ -3663,9 +2939,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/mansoane-velo-duracork~8325757.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/mansoane-velo-duracork~8325754.jpg"
       ],
-      "attributes": {
-        "ean": "4015493410850"
-      },
       "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
@@ -3693,9 +2966,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-velo-cork~8325763.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-velo-cork~8325760.jpg"
       ],
-      "attributes": {
-        "ean": "4015493410126"
-      },
       "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
@@ -3725,9 +2995,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ghidolina-velo-grip-negru~8325781.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ghidolina-velo-grip-negru~8325784.jpg"
       ],
-      "attributes": {
-        "ean": "4015493890294"
-      },
       "tags": [
         "Bar Tape - Accesorii",
         "COMPONENTE",
@@ -3756,9 +3023,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-imitatie-piele-m-wave-cloud-buff~8325793.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-imitatie-piele-m-wave-cloud-buff~8325796.jpg"
       ],
-      "attributes": {
-        "ean": "2800206000006"
-      },
       "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
@@ -3786,9 +3050,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-4-negru~8325799.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/mansoane-sxt-cloud-slick-fix-4-negru~8325802.jpg"
       ],
-      "attributes": {
-        "ean": "887539025533"
-      },
       "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
@@ -3820,9 +3081,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/mansoane-m-wave-hexfoam~8325808.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/mansoane-m-wave-hexfoam~8325811.jpg"
       ],
-      "attributes": {
-        "ean": "2800680000004"
-      },
       "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
@@ -3852,9 +3110,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ghidolina-velo-knob-grip-negru~8325820.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ghidolina-velo-knob-grip-negru~8325823.jpg"
       ],
-      "attributes": {
-        "ean": "2801956000001"
-      },
       "tags": [
         "Bar Tape - Accesorii",
         "COMPONENTE",
@@ -3885,9 +3140,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/capete-mansoane-4-buc-m-wave-fit-plugs~8325826.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/capete-mansoane-4-buc-m-wave-fit-plugs~11322936.jpg"
       ],
-      "attributes": {
-        "ean": "887539028015"
-      },
       "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
@@ -3914,9 +3166,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/mansoane-sxt-cloud-ergo-max-fit-be~8325832.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/mansoane-sxt-cloud-ergo-max-fit-be~8325835.jpg"
       ],
-      "attributes": {
-        "ean": "887539028237"
-      },
       "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
@@ -3944,9 +3193,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/sonerie-metal-m-wave-bell-3d-i-love-my-bike~8325847.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/sonerie-metal-m-wave-bell-3d-i-love-my-bike~8325850.jpg"
       ],
-      "attributes": {
-        "ean": "887539002527"
-      },
       "tags": [
         "ACCESORII",
         "M-WAVE",
@@ -3975,9 +3221,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/sonerie-electrica-m-wave~8325877.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/sonerie-electrica-m-wave~8325880.jpg"
       ],
-      "attributes": {
-        "ean": "4015493420309"
-      },
       "tags": [
         "ACCESORII",
         "E-Bike",
@@ -4009,9 +3252,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/trompeta-nichelata-sxt-corn~8325886.jpg"
       ],
-      "attributes": {
-        "ean": "2800220000006"
-      },
       "tags": [
         "ACCESORII",
         "SXT",
@@ -4037,9 +3277,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/cric-aluminiu-sxt-strong-r-26-29~8325889.jpg"
       ],
-      "attributes": {
-        "ean": "2800229000007"
-      },
       "tags": [
         "ACCESORII",
         "Aluminiu",
@@ -4073,9 +3310,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/cric-aluminiu-m-wave-column-c1-24-29~8325892.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/cric-aluminiu-m-wave-column-c1-24-29~11303322.jpg"
       ],
-      "attributes": {
-        "ean": "887539025021"
-      },
       "tags": [
         "ACCESORII",
         "Aluminiu",
@@ -4106,9 +3340,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/cric-aluminiu-sxt-a16-20c~8325895.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/cric-aluminiu-sxt-a16-20c~8325898.jpg"
       ],
-      "attributes": {
-        "ean": "887539007546"
-      },
       "tags": [
         "ACCESORII",
         "Aluminiu",
@@ -4142,9 +3373,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/suport-bicicleta-m-wave-easystand-12-29-negru~8325928.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/suport-bicicleta-m-wave-easystand-12-29-negru~8325931.jpg"
       ],
-      "attributes": {
-        "ean": "887539000264"
-      },
       "tags": [
         "ACCESORII",
         "Depozitare Biciclete",
@@ -4176,9 +3404,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/suport-bicicleta-easystand-plus-12-29-2-5-3-25~8325943.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/suport-bicicleta-easystand-plus-12-29-2-5-3-25~8325946.jpg"
       ],
-      "attributes": {
-        "ean": "887539022167"
-      },
       "tags": [
         "ACCESORII",
         "Depozitare Biciclete",
@@ -4207,9 +3432,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/cos-rachita-cu-capac-m-wave~8325958.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/cos-rachita-cu-capac-m-wave~8325961.jpg"
       ],
-      "attributes": {
-        "ean": "887539013714"
-      },
       "tags": [
         "ACCESORII",
         "Cosuri Transport",
@@ -4239,9 +3461,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/cos-rachita-transport-animale-m-wave-ba-pet-f-r~8325967.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/cos-rachita-transport-animale-m-wave-ba-pet-f-r~8325970.jpg"
       ],
-      "attributes": {
-        "ean": "887539013707"
-      },
       "tags": [
         "ACCESORII",
         "Cosuri Transport Spate",
@@ -4267,9 +3486,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/sistem-prindere-clip-on-ventura~8325979.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/sistem-prindere-clip-on-ventura~8325982.jpg"
       ],
-      "attributes": {
-        "ean": "887539001353"
-      },
       "tags": [
         "ACCESORII",
         "Cosuri Transport Fata",
@@ -4297,9 +3513,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/cos-metal-spate-m-wave-ba-rm-clamp-w~8325988.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/cos-metal-spate-m-wave-ba-rm-clamp-w~8325991.jpg"
       ],
-      "attributes": {
-        "ean": "698238524681"
-      },
       "tags": [
         "ACCESORII",
         "Cosuri Transport Spate",
@@ -4325,9 +3538,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/portbagaj-aluminiu-spate-m-wave-traveller-a-basic-26-28~8325994.jpg"
       ],
-      "attributes": {
-        "ean": "4015493890041"
-      },
       "tags": [
         "ACCESORII",
         "Aluminiu",
@@ -4357,9 +3567,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/far-pentru-dinam-an-lun-14-lux~8325997.jpg"
       ],
-      "attributes": {
-        "ean": "2800257000000"
-      },
       "tags": [
         "ACCESORII",
         "AN LUN",
@@ -4389,9 +3596,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/far-smart-d-e-e-bike~11437767.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/far-smart-d-e-e-bike~8326003.jpg"
       ],
-      "attributes": {
-        "ean": "4715681141510"
-      },
       "tags": [
         "ACCESORII",
         "E-Bike",
@@ -4423,9 +3627,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/far-cu-baterii-an-lun-1-led-10-20-lux~8326006.jpg"
       ],
-      "attributes": {
-        "ean": "2800612000003"
-      },
       "tags": [
         "ACCESORII",
         "AN LUN",
@@ -4451,9 +3652,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/stop-spate-pentru-dinam-smart-standlight~8326009.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/stop-spate-pentru-dinam-smart-standlight~8326012.jpg"
       ],
-      "attributes": {
-        "ean": "4715681267043"
-      },
       "tags": [
         "ACCESORII",
         "Lumini Spate",
@@ -4479,9 +3677,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/stop-spate-cu-baterii-an-lun-vertical~8326015.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/stop-spate-cu-baterii-an-lun-vertical~8326018.jpg"
       ],
-      "attributes": {
-        "ean": "887539005375"
-      },
       "tags": [
         "ACCESORII",
         "AN LUN",
@@ -4506,9 +3701,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/suport-far-sxt-stainless-steel~8326021.jpg"
       ],
-      "attributes": {
-        "ean": "2800253000004"
-      },
       "tags": [
         "ACCESORII",
         "Accesorii Lumini",
@@ -4538,9 +3730,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/suport-far-sxt-lp-metal-negru~8326024.jpg"
       ],
-      "attributes": {
-        "ean": "2800613000002"
-      },
       "tags": [
         "ACCESORII",
         "Accesorii Lumini",
@@ -4548,45 +3737,6 @@
       ],
       "specs": {
         "color": "Negru"
-      }
-    },
-    {
-      "id": "640091",
-      "sku": "640091",
-      "ean": "4015493640219",
-      "name": "Carucior Transport Copii M-WAVE KIDS RIDE EASY, Aluminiu , 20\"",
-      "brand": "M-WAVE",
-      "category": "👶 𝐓𝐫𝐚𝐧𝐬𝐩𝐨𝐫𝐭 𝐂𝐨𝐩𝐢𝐢",
-      "category_path": "ACCESORII > Roti Ajutatoare - Articole Copii > 👶 𝐓𝐫𝐚𝐧𝐬𝐩𝐨𝐫𝐭 𝐂𝐨𝐩𝐢𝐢",
-      "price": 1600.0,
-      "price_net": 1322.31,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 11.0,
-      "url": "https://www.bikestylish.ro/carucior-transport-copii-m-wave-kids-ride-easy-aluminiu-20.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/carucior-transport-copii-m-wave-kids-ride-easy-aluminiu-20~8326033.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/carucior-transport-copii-m-wave-kids-ride-easy-aluminiu-20~8326033.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/carucior-transport-copii-m-wave-kids-ride-easy-aluminiu-20~8326036.jpg"
-      ],
-      "attributes": {
-        "ean": "4015493640219"
-      },
-      "tags": [
-        "20 inch",
-        "ACCESORII",
-        "Aluminiu",
-        "Copii",
-        "M-WAVE",
-        "👶 𝐓𝐫𝐚𝐧𝐬𝐩𝐨𝐫𝐭 𝐂𝐨𝐩𝐢𝐢"
-      ],
-      "specs": {
-        "wheel_size": "20",
-        "bike_type": [
-          "Copii"
-        ],
-        "material": "Aluminiu"
       }
     },
     {
@@ -4608,9 +3758,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/cadru-metal-singlespeed-52-cm-s-1-1-8~8326039.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/cadru-metal-singlespeed-52-cm-s-1-1-8~8326042.jpg"
       ],
-      "attributes": {
-        "ean": "2800596000006"
-      },
       "tags": [
         "COMPONENTE",
         "Cadre SSP - Fixie",
@@ -4643,9 +3790,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/pompa-mini-beto-360-t~8326048.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/pompa-mini-beto-360-t~8326051.jpg"
       ],
-      "attributes": {
-        "ean": "4015493470526"
-      },
       "tags": [
         "ACCESORII",
         "BETO",
@@ -4672,9 +3816,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/pompa-picior-beto~8326054.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/pompa-picior-beto~8326057.jpg"
       ],
-      "attributes": {
-        "ean": "4015493470441"
-      },
       "tags": [
         "ACCESORII",
         "BETO",
@@ -4700,9 +3841,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/pompa-podea-beto-top-quallty~8326063.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/pompa-podea-beto-top-quallty~8326066.jpg"
       ],
-      "attributes": {
-        "ean": "4015493470625"
-      },
       "tags": [
         "ACCESORII",
         "BETO",
@@ -4728,9 +3866,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/pompa-podea-beto-metal-dark-silver~8326069.jpg"
       ],
-      "attributes": {
-        "ean": "4015493470144"
-      },
       "tags": [
         "ACCESORII",
         "BETO",
@@ -4763,9 +3898,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/pompa-podea-beto-11-160p~8326084.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/pompa-podea-beto-11-160p~8326087.jpg"
       ],
-      "attributes": {
-        "ean": "4015493470496"
-      },
       "tags": [
         "ACCESORII",
         "BETO",
@@ -4793,9 +3925,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/manometru-digital-beto~8326096.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/manometru-digital-beto~8326099.jpg"
       ],
-      "attributes": {
-        "ean": "887539007805"
-      },
       "tags": [
         "ACCESORII",
         "BETO",
@@ -4825,9 +3954,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/pompa-podea-ventura-12-180-metal~8326111.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/pompa-podea-ventura-12-180-metal~8326114.jpg"
       ],
-      "attributes": {
-        "ean": "887539028152"
-      },
       "tags": [
         "ACCESORII",
         "Pompe Podea",
@@ -4855,83 +3981,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/set-banda-janta-cu-adeziv-m-wave-rt-hp-glue-16-12-29-20-203-622-16-mm~8326141.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/set-banda-janta-cu-adeziv-m-wave-rt-hp-glue-16-12-29-20-203-622-16-mm~8326144.jpg"
       ],
-      "attributes": {
-        "ean": "887539025922"
-      },
       "tags": [
         "Banda Janta - Tubeless",
         "COMPONENTE",
         "M-WAVE"
       ]
-    },
-    {
-      "id": "519947",
-      "sku": "519947",
-      "ean": "887539024765",
-      "name": "Set Extensie Valve M-WAVE Aluminiu 50 mm Negru",
-      "brand": "M-WAVE",
-      "category": "🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆",
-      "category_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta > 🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆",
-      "price": 48.99,
-      "price_net": 40.49,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/set-extensie-valve-m-wave-aluminiu-50-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/set-extensie-valve-m-wave-aluminiu-50-mm-negru~8326150.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/set-extensie-valve-m-wave-aluminiu-50-mm-negru~8326150.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/set-extensie-valve-m-wave-aluminiu-50-mm-negru~8326153.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/set-extensie-valve-m-wave-aluminiu-50-mm-negru~8326156.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/set-extensie-valve-m-wave-aluminiu-50-mm-negru~8326159.jpg"
-      ],
-      "attributes": {
-        "ean": "887539024765"
-      },
-      "tags": [
-        "Aluminiu",
-        "COMPONENTE",
-        "M-WAVE",
-        "🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆"
-      ],
-      "specs": {
-        "material": "Aluminiu",
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "519894",
-      "sku": "519894",
-      "ean": "2801117000000",
-      "name": "Cap Valva M-WAVE AV Albastru",
-      "brand": "SXT",
-      "category": "🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆",
-      "category_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta > 🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆",
-      "price": 2.0,
-      "price_net": 1.65,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/cap-valva-m-wave-av-albastru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/cap-valva-m-wave-av-albastru~8326162.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/cap-valva-m-wave-av-albastru~8326162.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/cap-valva-m-wave-av-albastru~8326165.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/cap-valva-m-wave-av-albastru~8326168.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/cap-valva-m-wave-av-albastru~8326171.jpg"
-      ],
-      "attributes": {
-        "ean": "2801117000000"
-      },
-      "tags": [
-        "COMPONENTE",
-        "SXT",
-        "🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
     },
     {
       "id": "780168",
@@ -4953,9 +4007,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/elastic-portbagaj-m-wave-600-x-13-mm~8326261.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/elastic-portbagaj-m-wave-600-x-13-mm~8326264.jpg"
       ],
-      "attributes": {
-        "ean": "887539000332"
-      },
       "tags": [
         "ACCESORII",
         "M-WAVE",
@@ -4985,9 +4036,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/spray-cu-silicon-m-wave-silicone-guard-400-ml~8326267.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/spray-cu-silicon-m-wave-silicone-guard-400-ml~8326270.jpg"
       ],
-      "attributes": {
-        "ean": "887539021290"
-      },
       "tags": [
         "Bike Care - Ingrijire",
         "COMPONENTE",
@@ -5016,9 +4064,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ulei-pentru-lant-m-wave-chain-guard-ultra-50-ml~8326282.jpg"
       ],
-      "attributes": {
-        "ean": "887539021252"
-      },
       "tags": [
         "Bike Lube - Lubrefiere",
         "COMPONENTE",
@@ -5048,9 +4093,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/workstation-super-b-tba9000-livrare-pe-baza-de-comanda~8326294.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/workstation-super-b-tba9000-livrare-pe-baza-de-comanda~8326297.jpg"
       ],
-      "attributes": {
-        "ean": "2800243000007"
-      },
       "tags": [
         "COMPONENTE",
         "SUPER B",
@@ -5080,9 +4122,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/aparat-de-centrat-roti-super-b-tb-pf30~8326345.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/aparat-de-centrat-roti-super-b-tb-pf30~8326348.jpg"
       ],
-      "attributes": {
-        "ean": "4712765145013"
-      },
       "tags": [
         "COMPONENTE",
         "SUPER B",
@@ -5112,9 +4151,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/filiera-furci-super-b-tb-1945-4-1-si-1-1-8~8326381.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/filiera-furci-super-b-tb-1945-4-1-si-1-1-8~8326384.jpg"
       ],
-      "attributes": {
-        "ean": "4712765148274"
-      },
       "tags": [
         "COMPONENTE",
         "SUPER B",
@@ -5144,9 +4180,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/trusa-scule-rectificat-filete-in-cadru-super-b-tb-98150~8326393.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/trusa-scule-rectificat-filete-in-cadru-super-b-tb-98150~8326399.jpg"
       ],
-      "attributes": {
-        "ean": "4712765143668"
-      },
       "tags": [
         "COMPONENTE",
         "SUPER B",
@@ -5176,9 +4209,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/scula-press-fit-super-b-tb-1928a~8326420.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/scula-press-fit-super-b-tb-1928a~8326423.jpg"
       ],
-      "attributes": {
-        "ean": "4712765143729"
-      },
       "tags": [
         "COMPONENTE",
         "SUPER B",
@@ -5207,9 +4237,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/cheie-trei-brate-6-functii-super-b-tb-yy25~8326432.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/cheie-trei-brate-6-functii-super-b-tb-yy25~8326435.jpg"
       ],
-      "attributes": {
-        "ean": "4712765143538"
-      },
       "tags": [
         "COMPONENTE",
         "SUPER B",
@@ -5237,9 +4264,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/set-pini-schimbabili-presa-de-lant-super-b-tb-1103-10-buc~8326441.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/set-pini-schimbabili-presa-de-lant-super-b-tb-1103-10-buc~8326444.jpg"
       ],
-      "attributes": {
-        "ean": "4712765144085"
-      },
       "tags": [
         "COMPONENTE",
         "SUPER B",
@@ -5268,9 +4292,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/stand-de-lucru-universal-pliabil-super-b-tb-ws20-35-kg~8326453.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/stand-de-lucru-universal-pliabil-super-b-tb-ws20-35-kg~8326456.jpg"
       ],
-      "attributes": {
-        "ean": "4712765146836"
-      },
       "tags": [
         "COMPONENTE",
         "SUPER B",
@@ -5300,9 +4321,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/set-reparatii-super-b-tb-1120-9-in-1~8326468.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/set-reparatii-super-b-tb-1120-9-in-1~8326471.jpg"
       ],
-      "attributes": {
-        "ean": "4712765148465"
-      },
       "tags": [
         "COMPONENTE",
         "SUPER B",
@@ -5331,9 +4349,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/cheie-imbus-hex-super-b-tb-7632-doua-capete-2-5-mm~8326480.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/cheie-imbus-hex-super-b-tb-7632-doua-capete-2-5-mm~8326483.jpg"
       ],
-      "attributes": {
-        "ean": "4712765146584"
-      },
       "tags": [
         "COMPONENTE",
         "SUPER B",
@@ -5363,9 +4378,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/bike-fitting-system-exustar~8326495.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/bike-fitting-system-exustar~8326498.jpg"
       ],
-      "attributes": {
-        "ean": "190534008402"
-      },
       "tags": [
         "Amenajare Magazin",
         "COMPONENTE",
@@ -5392,9 +4404,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/cheie-b-b-sxt-silver~8326510.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/cheie-b-b-sxt-silver~8326513.jpg"
       ],
-      "attributes": {
-        "ean": "887539029265"
-      },
       "tags": [
         "COMPONENTE",
         "SXT",
@@ -5423,9 +4432,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/cheie-monobloc-m-wave~8326516.jpg"
       ],
-      "attributes": {
-        "ean": "887539023386"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -5455,9 +4461,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/presa-de-lant-m-wave-pin-pusher-paul~8326519.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/presa-de-lant-m-wave-pin-pusher-paul~8326522.jpg"
       ],
-      "attributes": {
-        "ean": "4015493880424"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -5486,9 +4489,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/cheie-dinamometrica-digitala-m-wave-torque-alarm-3-60-nm~8326528.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/cheie-dinamometrica-digitala-m-wave-torque-alarm-3-60-nm~8326531.jpg"
       ],
-      "attributes": {
-        "ean": "887539017279"
-      },
       "tags": [
         "COMPONENTE",
         "Chei Dinamometrice",
@@ -5514,9 +4514,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/cutie-suruburi-din-otel-inoxidabil-m5x12-mm-m-wave-50-buc-cutie~8326546.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/cutie-suruburi-din-otel-inoxidabil-m5x12-mm-m-wave-50-buc-cutie~8326549.jpg"
       ],
-      "attributes": {
-        "ean": "4015493880332"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -5546,9 +4543,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/cutie-suruburi-din-otel-inoxidabil-m5x16-mm-m-wave-50-buc-cutie~8326552.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/cutie-suruburi-din-otel-inoxidabil-m5x16-mm-m-wave-50-buc-cutie~8326555.jpg"
       ],
-      "attributes": {
-        "ean": "4015493880349"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -5579,9 +4573,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/cutie-suruburi-din-otel-inoxidabil-m6x12-mm-m-wave-50-buc-cutie~8326558.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/cutie-suruburi-din-otel-inoxidabil-m6x12-mm-m-wave-50-buc-cutie~8326561.jpg"
       ],
-      "attributes": {
-        "ean": "4015493880554"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -5611,9 +4602,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/cutie-suruburi-din-otel-inoxidabil-m6x16-mm-m-wave-50-buc-cutie~8326564.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/cutie-suruburi-din-otel-inoxidabil-m6x16-mm-m-wave-50-buc-cutie~8326567.jpg"
       ],
-      "attributes": {
-        "ean": "4015493880509"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -5643,9 +4631,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/cutie-suruburi-din-otel-inoxidabil-m6x25-mm-m-wave-50-buc-cutie~8326570.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/cutie-suruburi-din-otel-inoxidabil-m6x25-mm-m-wave-50-buc-cutie~8326573.jpg"
       ],
-      "attributes": {
-        "ean": "4015493880516"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -5674,9 +4659,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/cutie-piulite-hexagonale-cu-autoblocare-m-5-m-wave-100buc-cutie~8326576.jpg"
       ],
-      "attributes": {
-        "ean": "4015493880530"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -5703,9 +4685,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/cutie-piulite-hexagonale-cu-autoblocare-m-6-m-wave-100buc-cutie~8326579.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/cutie-piulite-hexagonale-cu-autoblocare-m-6-m-wave-100buc-cutie~11426916.jpg"
       ],
-      "attributes": {
-        "ean": "4015493880547"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -5731,9 +4710,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/cutie-saibe-din-otel-inoxidabil-m-5-m-wave-100-buc-cutie~8326582.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/cutie-saibe-din-otel-inoxidabil-m-5-m-wave-100-buc-cutie~8326585.jpg"
       ],
-      "attributes": {
-        "ean": "4015493880585"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -5763,9 +4739,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/cutie-saibe-din-otel-inoxidabil-m-6-m-wave-100-buc-cutie~8326588.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/cutie-saibe-din-otel-inoxidabil-m-6-m-wave-100-buc-cutie~8326591.jpg"
       ],
-      "attributes": {
-        "ean": "4015493880622"
-      },
       "tags": [
         "COMPONENTE",
         "Otel",
@@ -5799,9 +4772,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/presa-de-lant-super-b-tb-cc65-5-12-viteze~8326603.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/presa-de-lant-super-b-tb-cc65-5-12-viteze~8326606.jpg"
       ],
-      "attributes": {
-        "ean": "4712947220163"
-      },
       "tags": [
         "12 viteze",
         "COMPONENTE",
@@ -5831,9 +4801,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-filetat-shimano-mf-tz500-6v-14-28-t~8326618.jpg"
       ],
-      "attributes": {
-        "ean": "2801463000006"
-      },
       "tags": [
         "6 viteze",
         "COMPONENTE",
@@ -5863,9 +4830,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/spita-cnspoke-ucp-14c-2-x-178-mm-silver~8326627.jpg"
       ],
-      "attributes": {
-        "ean": "2801988000000"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -5894,9 +4858,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/spita-cnspoke-ucp-14c-2-x-180-mm-silver~8326630.jpg"
       ],
-      "attributes": {
-        "ean": "2801989000009"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -5925,9 +4886,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/pinion-filetat-shimano-mf-tz500-7v-14-28-t~8326663.jpg"
       ],
-      "attributes": {
-        "ean": "2801464000005"
-      },
       "tags": [
         "7 viteze",
         "COMPONENTE",
@@ -5941,7 +4899,6 @@
     {
       "id": "280088",
       "sku": "280088",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 239 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -5957,9 +4914,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/spita-cnspoke-ucp-14c-2-x-239-mm-silver~8326669.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -5972,7 +4926,6 @@
     {
       "id": "280061",
       "sku": "280061",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 240 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -5988,9 +4941,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/spita-cnspoke-ucp-14c-2-x-240-mm-silver~8326672.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6003,7 +4953,6 @@
     {
       "id": "283288",
       "sku": "283288",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 241 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6019,9 +4968,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/spita-cnspoke-ucp-14c-2-x-241-mm-silver~8326675.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6034,7 +4980,6 @@
     {
       "id": "280089",
       "sku": "280089",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 242 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6050,9 +4995,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/spita-cnspoke-ucp-14c-2-x-242-mm-silver~8326678.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6065,7 +5007,6 @@
     {
       "id": "280072",
       "sku": "280072",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 243 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6081,9 +5022,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/spita-cnspoke-ucp-14c-2-x-243-mm-silver~8326681.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6096,7 +5034,6 @@
     {
       "id": "280090",
       "sku": "280090",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 244 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6112,9 +5049,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/spita-cnspoke-ucp-14c-2-x-244-mm-silver~8326684.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6127,7 +5061,6 @@
     {
       "id": "280091",
       "sku": "280091",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 245 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6143,9 +5076,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/spita-cnspoke-ucp-14c-2-x-245-mm-silver~8326687.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6158,7 +5088,6 @@
     {
       "id": "283761",
       "sku": "283761",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 254 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6174,9 +5103,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/spita-cnspoke-ucp-14c-2-x-254-mm-silver~8326720.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6189,7 +5115,6 @@
     {
       "id": "280232",
       "sku": "280232",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 261 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6205,9 +5130,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/spita-cnspoke-ucp-14c-2-x-261-mm-silver~8326732.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6220,7 +5142,6 @@
     {
       "id": "280240",
       "sku": "280240",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 276 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6236,9 +5157,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/spita-cnspoke-ucp-14c-2-x-276-mm-silver~8326750.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6251,7 +5169,6 @@
     {
       "id": "283778",
       "sku": "283778",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 278 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6267,9 +5184,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/spita-cnspoke-ucp-14c-2-x-278-mm-silver~8326753.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6282,7 +5196,6 @@
     {
       "id": "280242",
       "sku": "280242",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 279 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6298,9 +5211,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/spita-cnspoke-ucp-14c-2-x-279-mm-silver~8326756.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6313,7 +5223,6 @@
     {
       "id": "280040",
       "sku": "280040",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 280 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6329,9 +5238,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/spita-cnspoke-ucp-14c-2-x-280-mm-silver~8326759.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6344,7 +5250,6 @@
     {
       "id": "280243",
       "sku": "280243",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 281 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6360,9 +5265,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/spita-cnspoke-ucp-14c-2-x-281-mm-silver~8326762.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6375,7 +5277,6 @@
     {
       "id": "280041",
       "sku": "280041",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 283 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6390,9 +5291,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/spita-cnspoke-ucp-14c-2-x-283-mm-silver~8326768.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6405,7 +5303,6 @@
     {
       "id": "283772",
       "sku": "283772",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 284 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6420,9 +5317,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/spita-cnspoke-ucp-14c-2-x-284-mm-silver~8326771.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6435,7 +5329,6 @@
     {
       "id": "280244",
       "sku": "280244",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 285 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6451,9 +5344,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/spita-cnspoke-ucp-14c-2-x-285-mm-silver~8326774.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6466,7 +5356,6 @@
     {
       "id": "283769",
       "sku": "283769",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 295 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6482,9 +5371,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/spita-cnspoke-ucp-14c-2-x-295-mm-silver~8326780.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6497,7 +5383,6 @@
     {
       "id": "283770",
       "sku": "283770",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 296 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6513,9 +5398,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/spita-cnspoke-ucp-14c-2-x-296-mm-silver~8326783.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6528,7 +5410,6 @@
     {
       "id": "280252",
       "sku": "280252",
-      "ean": "None",
       "name": "Spita cnSPOKE UCP 14C 2 X 301 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite UCP",
@@ -6544,9 +5425,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/spita-cnspoke-ucp-14c-2-x-301-mm-silver~8326798.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite UCP",
@@ -6559,7 +5437,6 @@
     {
       "id": "283150",
       "sku": "283150",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 283 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -6575,9 +5452,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/spita-inox-cnspoke-std14c-2-x-283-mm-silver~8326822.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -6590,7 +5464,6 @@
     {
       "id": "283344",
       "sku": "283344",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 284 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -6606,9 +5479,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/spita-inox-cnspoke-std14c-2-x-284-mm-silver~8326825.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -6621,7 +5491,6 @@
     {
       "id": "283342",
       "sku": "283342",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 188 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -6637,9 +5506,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/spita-inox-cnspoke-std14c-2-x-188-mm-silver~8326837.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -6652,7 +5518,6 @@
     {
       "id": "283157",
       "sku": "283157",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 189 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -6668,9 +5533,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/spita-inox-cnspoke-std14c-2-x-189-mm-silver~8326840.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -6683,7 +5545,6 @@
     {
       "id": "283366",
       "sku": "283366",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 190 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -6699,9 +5560,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/spita-inox-cnspoke-std14c-2-x-190-mm-silver~8326843.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -6714,7 +5572,6 @@
     {
       "id": "283611",
       "sku": "283611",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 191 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -6730,9 +5587,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/spita-inox-cnspoke-std14c-2-x-191-mm-silver~8326846.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -6745,7 +5599,6 @@
     {
       "id": "283367",
       "sku": "283367",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 192 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -6761,9 +5614,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/spita-inox-cnspoke-std14c-2-x-192-mm-silver~8326849.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -6776,7 +5626,6 @@
     {
       "id": "283158",
       "sku": "283158",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 193 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -6792,9 +5641,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/spita-inox-cnspoke-std14c-2-x-193-mm-silver~8326852.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -6807,7 +5653,6 @@
     {
       "id": "283619",
       "sku": "283619",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 231 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -6823,9 +5668,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/spita-inox-cnspoke-std14c-2-x-231-mm-silver~8326864.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -6838,7 +5680,6 @@
     {
       "id": "283340",
       "sku": "283340",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 233 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -6854,9 +5695,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/spita-inox-cnspoke-std14c-2-x-233-mm-silver~8326870.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -6869,7 +5707,6 @@
     {
       "id": "284616",
       "sku": "284616",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 235 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -6885,9 +5722,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/spita-inox-cnspoke-std14c-2-x-235-mm-silver~8326876.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -6900,7 +5734,6 @@
     {
       "id": "283613",
       "sku": "283613",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 237 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -6916,9 +5749,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/spita-inox-cnspoke-std14c-2-x-237-mm-silver~8326882.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -6931,7 +5761,6 @@
     {
       "id": "283187",
       "sku": "283187",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 239 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -6947,9 +5776,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/spita-inox-cnspoke-std14c-2-x-239-mm-silver~8326888.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -6962,7 +5788,6 @@
     {
       "id": "280055",
       "sku": "280055",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 240 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -6978,9 +5803,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/spita-inox-cnspoke-std14c-2-x-240-mm-silver~8326891.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -6993,7 +5815,6 @@
     {
       "id": "283188",
       "sku": "283188",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 241 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7009,9 +5830,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/spita-inox-cnspoke-std14c-2-x-241-mm-silver~8326894.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7024,7 +5842,6 @@
     {
       "id": "283104",
       "sku": "283104",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 243 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7040,9 +5857,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/spita-inox-cnspoke-std14c-2-x-243-mm-silver~8326900.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7055,7 +5869,6 @@
     {
       "id": "283248",
       "sku": "283248",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 248 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7071,9 +5884,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/spita-inox-cnspoke-std14c-2-x-248-mm-silver~8326915.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7086,7 +5896,6 @@
     {
       "id": "283151",
       "sku": "283151",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 249 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7102,9 +5911,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/spita-inox-cnspoke-std14c-2-x-249-mm-silver~8326918.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7117,7 +5923,6 @@
     {
       "id": "283305",
       "sku": "283305",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 250 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7133,9 +5938,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/spita-inox-cnspoke-std14c-2-x-250-mm-silver~8326921.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7148,7 +5950,6 @@
     {
       "id": "283589",
       "sku": "283589",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 251 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7164,9 +5965,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/spita-inox-cnspoke-std14c-2-x-251-mm-silver~8326924.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7179,7 +5977,6 @@
     {
       "id": "283510",
       "sku": "283510",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 252 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7195,9 +5992,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/spita-inox-cnspoke-std14c-2-x-252-mm-silver~8326927.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7210,7 +6004,6 @@
     {
       "id": "283106",
       "sku": "283106",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 253 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7226,9 +6019,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/spita-inox-cnspoke-std14c-2-x-253-mm-silver~8326930.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7241,7 +6031,6 @@
     {
       "id": "283511",
       "sku": "283511",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 254 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7257,9 +6046,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/spita-inox-cnspoke-std14c-2-x-254-mm-silver~8326933.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7272,7 +6058,6 @@
     {
       "id": "283525",
       "sku": "283525",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 261 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7288,9 +6073,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/spita-inox-cnspoke-std14c-2-x-261-mm-silver~8326942.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7303,7 +6085,6 @@
     {
       "id": "283228",
       "sku": "283228",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 281 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7319,9 +6100,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/spita-inox-cnspoke-std14c-2-x-281-mm-silver~8326954.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7334,7 +6112,6 @@
     {
       "id": "284638",
       "sku": "284638",
-      "ean": "None",
       "name": "Spita Inox 2 mm cnSPOKE Silver-279 mm",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7350,9 +6127,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/spita-inox-2-mm-cnspoke-silver-279-mm~8326957.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7365,7 +6139,6 @@
     {
       "id": "284625",
       "sku": "284625",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 280 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7381,9 +6154,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/spita-inox-cnspoke-std14c-2-x-280-mm-silver~8326960.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7396,7 +6166,6 @@
     {
       "id": "283247",
       "sku": "283247",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 281 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7412,9 +6181,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/spita-inox-cnspoke-std14c-2-x-281-mm-silver~8326963.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7427,7 +6193,6 @@
     {
       "id": "283307",
       "sku": "283307",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 282 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7443,9 +6208,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/spita-inox-cnspoke-std14c-2-x-282-mm-silver~8326966.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7458,7 +6220,6 @@
     {
       "id": "283548",
       "sku": "283548",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 283 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7474,9 +6235,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/spita-inox-cnspoke-std14c-2-x-283-mm-silver~8326969.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7489,7 +6247,6 @@
     {
       "id": "283517",
       "sku": "283517",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 284 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7505,9 +6262,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/spita-inox-cnspoke-std14c-2-x-284-mm-silver~8326972.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7520,7 +6274,6 @@
     {
       "id": "283250",
       "sku": "283250",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 285 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7536,9 +6289,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/spita-inox-cnspoke-std14c-2-x-285-mm-silver~8326975.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7551,7 +6301,6 @@
     {
       "id": "284628",
       "sku": "284628",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 287 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7566,9 +6315,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/spita-inox-cnspoke-std14c-2-x-287-mm-silver~8326978.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7581,7 +6327,6 @@
     {
       "id": "283522",
       "sku": "283522",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 295 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7597,9 +6342,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/spita-inox-cnspoke-std14c-2-x-295-mm-silver~8326981.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7612,7 +6354,6 @@
     {
       "id": "280052",
       "sku": "280052",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 300 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7628,9 +6369,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/spita-inox-cnspoke-std14c-2-x-300-mm-silver~8326987.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7643,7 +6381,6 @@
     {
       "id": "283251",
       "sku": "283251",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 301 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7659,9 +6396,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/spita-inox-cnspoke-std14c-2-x-301-mm-silver~8326990.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7690,9 +6424,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/spita-inox-cnspoke-std14c-2-x-250-mm-negru~8326993.jpg"
       ],
-      "attributes": {
-        "ean": "2800480000006"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7705,7 +6436,6 @@
     {
       "id": "283422",
       "sku": "283422",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 251 mm Negru",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7721,9 +6451,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/spita-inox-cnspoke-std14c-2-x-251-mm-negru~8326996.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7736,7 +6463,6 @@
     {
       "id": "283556",
       "sku": "283556",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 253 mm Negru",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7752,9 +6478,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/spita-inox-cnspoke-std14c-2-x-253-mm-negru~8326999.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7767,7 +6490,6 @@
     {
       "id": "283555",
       "sku": "283555",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 255 mm Negru",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7783,9 +6505,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/spita-inox-cnspoke-std14c-2-x-255-mm-negru~8327002.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7814,9 +6533,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/spita-inox-cnspoke-std14c-2-x-261-mm-negru~8327005.jpg"
       ],
-      "attributes": {
-        "ean": "2801168000004"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7845,9 +6561,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/spita-inox-cnspoke-std14c-2-x-266-mm-negru~8327008.jpg"
       ],
-      "attributes": {
-        "ean": "2800552000002"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7860,7 +6573,6 @@
     {
       "id": "283423",
       "sku": "283423",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD14C 2 x 267 mm Negru",
       "brand": "cnSPOKE",
       "category": "Spite Stainless",
@@ -7876,9 +6588,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/spita-inox-cnspoke-std14c-2-x-267-mm-negru~8327011.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -7907,9 +6616,449 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/spita-inox-cnspoke-std14c-2-x-271-mm-negru~8327014.jpg"
       ],
-      "attributes": {
-        "ean": "2802425000003"
-      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "283458",
+      "sku": "283458",
+      "ean": "2802424000004",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 273 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 50,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-273-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/spita-inox-cnspoke-std14c-2-x-273-mm-negru~8327017.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/spita-inox-cnspoke-std14c-2-x-273-mm-negru~8327017.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "283425",
+      "sku": "283425",
+      "ean": "2802422000006",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 275 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-275-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/spita-inox-cnspoke-std14c-2-x-275-mm-negru~8327020.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/spita-inox-cnspoke-std14c-2-x-275-mm-negru~8327020.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "283461",
+      "sku": "283461",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 277 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-277-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/spita-inox-cnspoke-std14c-2-x-277-mm-negru~8327023.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/spita-inox-cnspoke-std14c-2-x-277-mm-negru~8327023.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "283462",
+      "sku": "283462",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 279 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-279-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/spita-inox-cnspoke-std14c-2-x-279-mm-negru~8327026.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/spita-inox-cnspoke-std14c-2-x-279-mm-negru~8327026.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "283559",
+      "sku": "283559",
+      "ean": "2802421000007",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 280 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-280-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/spita-inox-cnspoke-std14c-2-x-280-mm-negru~8327029.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/spita-inox-cnspoke-std14c-2-x-280-mm-negru~8327029.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "283440",
+      "sku": "283440",
+      "ean": "2802420000008",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 281 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-281-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/spita-inox-cnspoke-std14c-2-x-281-mm-negru~8327032.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/spita-inox-cnspoke-std14c-2-x-281-mm-negru~8327032.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "283578",
+      "sku": "283578",
+      "ean": "2800479000000",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 282 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-282-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/spita-inox-cnspoke-std14c-2-x-282-mm-negru~8327035.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/spita-inox-cnspoke-std14c-2-x-282-mm-negru~8327035.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "283567",
+      "sku": "283567",
+      "ean": "2800468000004",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 284 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-284-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/spita-inox-cnspoke-std14c-2-x-284-mm-negru~8327038.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/spita-inox-cnspoke-std14c-2-x-284-mm-negru~8327038.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "284669",
+      "sku": "284669",
+      "ean": "2802418000003",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 285 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-285-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/spita-inox-cnspoke-std14c-2-x-285-mm-negru~8327041.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/spita-inox-cnspoke-std14c-2-x-285-mm-negru~8327041.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "284670",
+      "sku": "284670",
+      "ean": "2802417000004",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 287 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-287-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/spita-inox-cnspoke-std14c-2-x-287-mm-negru~8327044.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/spita-inox-cnspoke-std14c-2-x-287-mm-negru~8327044.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "283569",
+      "sku": "283569",
+      "ean": "2800470000009",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 290 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-290-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/spita-inox-cnspoke-std14c-2-x-290-mm-negru~8327047.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/spita-inox-cnspoke-std14c-2-x-290-mm-negru~8327047.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "283573",
+      "sku": "283573",
+      "ean": "2801659000001",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 296 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-296-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/spita-inox-cnspoke-std14c-2-x-296-mm-negru~8327050.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/spita-inox-cnspoke-std14c-2-x-296-mm-negru~8327050.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "283441",
+      "sku": "283441",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 297 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-297-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/spita-inox-cnspoke-std14c-2-x-297-mm-negru~8327053.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/spita-inox-cnspoke-std14c-2-x-297-mm-negru~8327053.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "283426",
+      "sku": "283426",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 299 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-299-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/spita-inox-cnspoke-std14c-2-x-299-mm-negru~8327056.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/spita-inox-cnspoke-std14c-2-x-299-mm-negru~8327056.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "283540",
+      "sku": "283540",
+      "ean": "2802412000009",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 300 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-300-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/spita-inox-cnspoke-std14c-2-x-300-mm-negru~8327059.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/spita-inox-cnspoke-std14c-2-x-300-mm-negru~8327059.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "283427",
+      "sku": "283427",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 301 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "price": 1.5,
+      "price_net": 1.24,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-301-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/spita-inox-cnspoke-std14c-2-x-301-mm-negru~8327062.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/spita-inox-cnspoke-std14c-2-x-301-mm-negru~8327062.jpg"
+      ],
       "tags": [
         "COMPONENTE",
         "Spite Stainless",
@@ -8573,13 +7722,6 @@
       "in_stock_count": 8
     },
     {
-      "id": "none",
-      "name": "None",
-      "full_path": "None",
-      "product_count": 149,
-      "in_stock_count": 119
-    },
-    {
       "id": "ochelari-ciclism",
       "name": "Ochelari Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > Ochelari Ciclism",
@@ -8984,20 +8126,12 @@
       "full_path": "e- MOBILITY",
       "product_count": 1,
       "in_stock_count": 0
-    },
-    {
-      "id": "",
-      "name": "🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆",
-      "full_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta > 🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆",
-      "product_count": 21,
-      "in_stock_count": 14
     }
   ],
   "brands": [
     "AN LUN",
     "AUTHOR",
     "BAFANG",
-    "BELELLI",
     "BETO",
     "BROSE",
     "CST",
@@ -9013,7 +8147,6 @@
     "MOON",
     "NECO",
     "NOVATEC",
-    "None",
     "PILO",
     "PROMAX",
     "SAMOX",

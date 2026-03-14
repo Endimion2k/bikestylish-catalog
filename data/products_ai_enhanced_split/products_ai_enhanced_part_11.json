@@ -1,593 +1,14 @@
 {
-  "last_updated": "2026-03-14T14:02:34.111764+00:00",
+  "last_updated": "2026-03-14T19:12:57.406103+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
-    "total_parts": 20,
+    "total_parts": 19,
     "product_range": "2501-2750",
-    "original_total": 4765
+    "original_total": 4744
   },
   "products": [
-    {
-      "id": "519156-05377",
-      "sku": "519156-05377",
-      "ean": "193751005377",
-      "name": "Protectie Antipana TANNUS ARMOUR 20 x 1.95 - 2.5",
-      "brand": "TANNUS",
-      "category": "Protectii Antipana",
-      "category_path": "COMPONENTE > Anvelope - Camere > Protectii Antipana",
-      "price": 205.0,
-      "price_net": 169.42,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
-      "weight_kg": 0.5,
-      "url": "https://www.bikestylish.ro/protectie-antipana-tannus-armour-20-x-1-95-2-5.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/protectie-antipana-tannus-armour-20-x-1-95-2-5~8329471.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/protectie-antipana-tannus-armour-20-x-1-95-2-5~8329471.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/protectie-antipana-tannus-armour-20-x-1-95-2-5~8329468.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/protectie-antipana-tannus-armour-20-x-1-95-2-5~8329474.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/protectie-antipana-tannus-armour-20-x-1-95-2-5~8329483.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/protectie-antipana-tannus-armour-20-x-1-95-2-5~10167933.jpg"
-      ],
-      "attributes": {
-        "ean": "193751005377"
-      },
-      "tags": [
-        "20 inch",
-        "COMPONENTE",
-        "Protectii Antipana",
-        "TANNUS"
-      ],
-      "specs": {
-        "wheel_size": "20",
-        "dimensions": "20 x 1.95 - 2.5"
-      }
-    },
-    {
-      "id": "326440",
-      "sku": "326440",
-      "ean": "2802068000002",
-      "name": "Butuc Fata D761DSE 36H Frana Disc QR Negru",
-      "brand": "NOVATEC",
-      "category": "Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci Frana Disc",
-      "price": 70.0,
-      "price_net": 57.85,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 46,
-      "weight_kg": 0.35,
-      "url": "https://www.bikestylish.ro/butuc-fata-d761dse-36h-frana-disc-qr-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-fata-d761dse-36h-frana-disc-qr-negru~8329486.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-fata-d761dse-36h-frana-disc-qr-negru~8329486.jpg"
-      ],
-      "attributes": {
-        "ean": "2802068000002"
-      },
-      "tags": [
-        "Butuci Frana Disc",
-        "COMPONENTE",
-        "NOVATEC"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "660430",
-      "sku": "660430",
-      "ean": "2802069000001",
-      "name": "Suspensie Spate M-WAVE Aluminiu 165x24/24 mm",
-      "brand": "M-WAVE",
-      "category": "Suspensii Spate",
-      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > Suspensii Spate",
-      "price": 70.0,
-      "price_net": 57.85,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.51,
-      "url": "https://www.bikestylish.ro/suspensie-spate-m-wave-aluminiu-165x24-24-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/suspensie-spate-m-wave-aluminiu-165x24-24-mm~8329489.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/suspensie-spate-m-wave-aluminiu-165x24-24-mm~8329489.jpg"
-      ],
-      "attributes": {
-        "ean": "2802069000001"
-      },
-      "tags": [
-        "Aluminiu",
-        "COMPONENTE",
-        "M-WAVE",
-        "Suspensii Spate"
-      ],
-      "specs": {
-        "material": "Aluminiu",
-        "dimensions": "165 x 24"
-      }
-    },
-    {
-      "id": "220462",
-      "sku": "220462",
-      "ean": "4897029983836",
-      "name": "Stop Spate cu Acumulator MOON ORION 50 Lumeni USB",
-      "brand": "MOON",
-      "category": "Lumini Spate",
-      "category_path": "ACCESORII > Lumini - Accesorii > Lumini Spate",
-      "price": 120.0,
-      "price_net": 99.17,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.11,
-      "url": "https://www.bikestylish.ro/stop-spate-cu-acumulator-moon-orion-50-lumeni-usb.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/stop-spate-cu-acumulator-moon-orion-50-lumeni-usb~8329492.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/stop-spate-cu-acumulator-moon-orion-50-lumeni-usb~8329492.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/stop-spate-cu-acumulator-moon-orion-50-lumeni-usb~8329501.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/stop-spate-cu-acumulator-moon-orion-50-lumeni-usb~8329495.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/stop-spate-cu-acumulator-moon-orion-50-lumeni-usb~8329498.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/stop-spate-cu-acumulator-moon-orion-50-lumeni-usb~8329504.jpg"
-      ],
-      "attributes": {
-        "ean": "4897029983836"
-      },
-      "tags": [
-        "ACCESORII",
-        "Lumini Spate",
-        "MOON"
-      ]
-    },
-    {
-      "id": "C542402",
-      "sku": "C542402",
-      "ean": "4524667602552",
-      "name": "Oliva + Insertie SHIMANO SM-BH90",
-      "brand": "SHIMANO",
-      "category": "Frane Disc",
-      "category_path": "COMPONENTE > Sisteme Franare > Frane Disc",
-      "price": 15.0,
-      "price_net": 12.4,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/oliva-insertie-shimano-sm-bh90.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/oliva-insertie-shimano-sm-bh90~8329516.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/oliva-insertie-shimano-sm-bh90~8329516.jpg"
-      ],
-      "attributes": {
-        "ean": "4524667602552"
-      },
-      "tags": [
-        "COMPONENTE",
-        "Frane Disc",
-        "SHIMANO"
-      ]
-    },
-    {
-      "id": "C593020",
-      "sku": "C593020",
-      "ean": "4524667109549",
-      "name": "Monobloc Pedalier SHIMANO Ultegra SM-BBR60 BSA",
-      "brand": "SHIMANO",
-      "category": "Monobloace - B.B.",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Monobloace - B.B.",
-      "price": 150.0,
-      "price_net": 123.97,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/monobloc-pedalier-shimano-ultegra-sm-bbr60-bsa.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/monobloc-pedalier-shimano-ultegra-sm-bbr60-bsa~8329531.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/monobloc-pedalier-shimano-ultegra-sm-bbr60-bsa~8329531.jpg"
-      ],
-      "attributes": {
-        "ean": "4524667109549"
-      },
-      "tags": [
-        "COMPONENTE",
-        "Monobloace - B.B.",
-        "SHIMANO"
-      ]
-    },
-    {
-      "id": "M813.406.32-10",
-      "sku": "M813.406.32-10",
-      "ean": "M813.406.32-10",
-      "name": "Janta MACH1 ER-10 20 (406 x 19C) - 32H Negru",
-      "brand": "MACH1",
-      "category": "Jante pentru Frane V-Brake",
-      "category_path": "COMPONENTE > Roti - Componente > Jante > Jante pentru Frane V-Brake",
-      "price": 75.0,
-      "price_net": 61.98,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/janta-mach1-er-10-20-406-x-19c-32h-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/janta-mach1-er-10-20-406-x-19c-32h-negru~8329534.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/janta-mach1-er-10-20-406-x-19c-32h-negru~8329534.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/janta-mach1-er-10-20-406-x-19c-32h-negru~8329537.jpg"
-      ],
-      "attributes": {
-        "ean": "M813.406.32-10"
-      },
-      "tags": [
-        "COMPONENTE",
-        "Jante pentru Frane V-Brake",
-        "MACH1"
-      ],
-      "specs": {
-        "color": "Negru",
-        "dimensions": "406 x 19"
-      }
-    },
-    {
-      "id": "403500",
-      "sku": "403500",
-      "ean": "887539020132",
-      "name": "Ghidon MTB M-WAVE 700-31.8 mm Negru Matt Anodizat",
-      "brand": "M-WAVE",
-      "category": "Ghidoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Ghidoane",
-      "price": 75.0,
-      "price_net": 61.98,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.4,
-      "url": "https://www.bikestylish.ro/ghidon-mtb-m-wave-700-31-8-mm-negru-matt-anodizat.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ghidon-mtb-m-wave-700-31-8-mm-negru-matt-anodizat~8329540.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ghidon-mtb-m-wave-700-31-8-mm-negru-matt-anodizat~8329540.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ghidon-mtb-m-wave-700-31-8-mm-negru-matt-anodizat~8329543.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ghidon-mtb-m-wave-700-31-8-mm-negru-matt-anodizat~8329546.jpg"
-      ],
-      "attributes": {
-        "ean": "887539020132"
-      },
-      "category_description": "Handlebars - flat, riser, drop bar styles",
-      "tags": [
-        "COMPONENTE",
-        "Ghidoane",
-        "M-WAVE",
-        "MTB"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ],
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "519191-05445",
-      "sku": "519191-05445",
-      "ean": "193751005445",
-      "name": "Protectie Antipana TANNUS ARMOUR 24 x 1.3/8",
-      "brand": "TANNUS",
-      "category": "Protectii Antipana",
-      "category_path": "COMPONENTE > Anvelope - Camere > Protectii Antipana",
-      "price": 195.0,
-      "price_net": 161.16,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.17,
-      "url": "https://www.bikestylish.ro/protectie-antipana-tannus-armour-24-x-1-3-8.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/protectie-antipana-tannus-armour-24-x-1-3-8~8329564.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/protectie-antipana-tannus-armour-24-x-1-3-8~8329564.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/protectie-antipana-tannus-armour-24-x-1-3-8~8329549.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/protectie-antipana-tannus-armour-24-x-1-3-8~8329561.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/protectie-antipana-tannus-armour-24-x-1-3-8~8329567.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/protectie-antipana-tannus-armour-24-x-1-3-8~10167966.jpg"
-      ],
-      "attributes": {
-        "ean": "193751005445"
-      },
-      "tags": [
-        "24 inch",
-        "COMPONENTE",
-        "Protectii Antipana",
-        "TANNUS"
-      ],
-      "specs": {
-        "wheel_size": "24",
-        "dimensions": "24 x 1.3"
-      }
-    },
-    {
-      "id": "303312",
-      "sku": "303312",
-      "ean": "887539033200",
-      "name": "Protectie Cadru M-WAVE Protecto Cut-to-fit 400x90 mm",
-      "brand": "M-WAVE",
-      "category": "Protectii Lant - Cadru",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > Lanturi - Componente > Protectii Lant - Cadru",
-      "price": 45.0,
-      "price_net": 37.19,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/protectie-cadru-m-wave-protecto-cut-to-fit-400x90-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/protectie-cadru-m-wave-protecto-cut-to-fit-400x90-mm~8329582.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/protectie-cadru-m-wave-protecto-cut-to-fit-400x90-mm~8329582.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/protectie-cadru-m-wave-protecto-cut-to-fit-400x90-mm~8329570.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/protectie-cadru-m-wave-protecto-cut-to-fit-400x90-mm~8329573.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/protectie-cadru-m-wave-protecto-cut-to-fit-400x90-mm~8329579.jpg"
-      ],
-      "attributes": {
-        "ean": "887539033200"
-      },
-      "tags": [
-        "COMPONENTE",
-        "M-WAVE",
-        "Protectii Lant - Cadru"
-      ],
-      "specs": {
-        "dimensions": "400 x 90"
-      }
-    },
-    {
-      "id": "MC41.559.28-10",
-      "sku": "MC41.559.28-10",
-      "ean": "MC41.559.28-10",
-      "name": "Janta MACH1 MTB DISC 26(559 x 19C) - 28H Negru Capsata",
-      "brand": "MACH1",
-      "category": "Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > Jante > Jante pentru Frane Disc",
-      "price": 99.0,
-      "price_net": 81.82,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/janta-mach1-mtb-disc-26-559-x-19c-28h-negru-capsata.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/janta-mach1-mtb-disc-26-559-x-19c-28h-negru-capsata~8329594.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/janta-mach1-mtb-disc-26-559-x-19c-28h-negru-capsata~8329594.jpg"
-      ],
-      "attributes": {
-        "ean": "MC41.559.28-10"
-      },
-      "tags": [
-        "COMPONENTE",
-        "Jante pentru Frane Disc",
-        "MACH1",
-        "MTB"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ],
-        "color": "Negru",
-        "dimensions": "559 x 19"
-      }
-    },
-    {
-      "id": "MD13.622.32.02-8",
-      "sku": "MD13.622.32.02-8",
-      "ean": "2802330000006",
-      "name": "Janta MACH1 CROSS-R23 29(622 x 23C) 32H Negru Capsata",
-      "brand": "MACH1",
-      "category": "Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > Jante > Jante pentru Frane Disc",
-      "price": 140.0,
-      "price_net": 115.7,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.5,
-      "url": "https://www.bikestylish.ro/janta-mach1-cross-r23-29-622-x-23c-32h-negru-capsata.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/janta-mach1-cross-r23-29-622-x-23c-32h-negru-capsata~12381906.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/janta-mach1-cross-r23-29-622-x-23c-32h-negru-capsata~12381906.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/janta-mach1-cross-r23-29-622-x-23c-32h-negru-capsata~12381909.jpg"
-      ],
-      "attributes": {
-        "ean": "2802330000006"
-      },
-      "tags": [
-        "COMPONENTE",
-        "Jante pentru Frane Disc",
-        "MACH1"
-      ],
-      "specs": {
-        "color": "Negru",
-        "dimensions": "622 x 23"
-      }
-    },
-    {
-      "id": "388842",
-      "sku": "388842",
-      "ean": "2801635000001",
-      "name": "Roata Spate 27.5\"(584) x 32H SXT- KARMA(584 x 21C) 2 rulmenti",
-      "brand": "SXT",
-      "category": "Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > Roti > Roti Spate",
-      "price": 450.0,
-      "price_net": 371.9,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/roata-spate-27-5-584-x-32h-sxt-karma-584-x-21c-2-rulmenti.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-27-5-584-x-32h-sxt-karma-584-x-21c-2-rulmenti~8329606.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-27-5-584-x-32h-sxt-karma-584-x-21c-2-rulmenti~8329606.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-27-5-584-x-32h-sxt-karma-584-x-21c-2-rulmenti~8329609.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-27-5-584-x-32h-sxt-karma-584-x-21c-2-rulmenti~8329612.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/roata-spate-27-5-584-x-32h-sxt-karma-584-x-21c-2-rulmenti~8329615.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-27-5-584-x-32h-sxt-karma-584-x-21c-2-rulmenti~8329618.jpg"
-      ],
-      "attributes": {
-        "ean": "2801635000001"
-      },
-      "category_description": "Rear wheels - complete, ready to mount",
-      "tags": [
-        "27.5 inch",
-        "COMPONENTE",
-        "Roti Spate",
-        "SXT"
-      ],
-      "specs": {
-        "wheel_size": "27.5",
-        "dimensions": "584 x 21"
-      }
-    },
-    {
-      "id": "388622",
-      "sku": "388622",
-      "ean": "2801633000003",
-      "name": "Roata Spate 29\"(622) x 32H SXT- KARMA(622 x 21C) 2 rulmenti",
-      "brand": "SXT",
-      "category": "Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > Roti > Roti Spate",
-      "price": 450.0,
-      "price_net": 371.9,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/roata-spate-29-622-x-32h-sxt-karma-622-x-21c-2-rulmenti.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/roata-spate-29-622-x-32h-sxt-karma-622-x-21c-2-rulmenti~8329624.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/roata-spate-29-622-x-32h-sxt-karma-622-x-21c-2-rulmenti~8329624.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-29-622-x-32h-sxt-karma-622-x-21c-2-rulmenti~8329627.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-29-622-x-32h-sxt-karma-622-x-21c-2-rulmenti~8329630.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-29-622-x-32h-sxt-karma-622-x-21c-2-rulmenti~8329633.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-29-622-x-32h-sxt-karma-622-x-21c-2-rulmenti~8329636.jpg"
-      ],
-      "attributes": {
-        "ean": "2801633000003"
-      },
-      "category_description": "Rear wheels - complete, ready to mount",
-      "tags": [
-        "29 inch",
-        "COMPONENTE",
-        "Roti Spate",
-        "SXT"
-      ],
-      "specs": {
-        "wheel_size": "29",
-        "dimensions": "622 x 21"
-      }
-    },
-    {
-      "id": "388887",
-      "sku": "388887",
-      "ean": "2801636000000",
-      "name": "Roata Spate 27.5\"(584 x21C) x 32H NEURO DISC- 2R",
-      "brand": "SXT",
-      "category": "Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > Roti > Roti Spate",
-      "price": 270.0,
-      "price_net": 223.14,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
-      "url": "https://www.bikestylish.ro/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r~8329642.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r~8329642.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r~8329645.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r~8329648.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r~8329651.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r~8329654.jpg"
-      ],
-      "attributes": {
-        "ean": "2801636000000"
-      },
-      "category_description": "Rear wheels - complete, ready to mount",
-      "tags": [
-        "27.5 inch",
-        "COMPONENTE",
-        "Roti Spate",
-        "SXT"
-      ],
-      "specs": {
-        "wheel_size": "27.5",
-        "dimensions": "584 x 21"
-      }
-    },
-    {
-      "id": "388888",
-      "sku": "388888",
-      "ean": "2801357000006",
-      "name": "Roata Fata 27.5\"(584x21C) x 32H NEURO DISC- 2R",
-      "brand": "SXT",
-      "category": "Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > Roti > Roti Fata",
-      "price": 320.0,
-      "price_net": 264.46,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
-      "url": "https://www.bikestylish.ro/roata-fata-27-5-584x21c-x-32h-neuro-disc-2r.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-27-5-584x21c-x-32h-neuro-disc-2r~8329660.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-27-5-584x21c-x-32h-neuro-disc-2r~8329660.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/roata-fata-27-5-584x21c-x-32h-neuro-disc-2r~8329663.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-27-5-584x21c-x-32h-neuro-disc-2r~8329666.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-fata-27-5-584x21c-x-32h-neuro-disc-2r~8329669.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-fata-27-5-584x21c-x-32h-neuro-disc-2r~8329672.jpg"
-      ],
-      "attributes": {
-        "ean": "2801357000006"
-      },
-      "category_description": "Front wheels - complete, ready to mount",
-      "tags": [
-        "27.5 inch",
-        "COMPONENTE",
-        "Roti Fata",
-        "SXT"
-      ],
-      "specs": {
-        "wheel_size": "27.5",
-        "dimensions": "584 x 21"
-      }
-    },
-    {
-      "id": "3885983",
-      "sku": "3885983",
-      "ean": "2801353000000",
-      "name": "Roata Fata 27,5\"(584x21C) SXT MEDIUS 32H - 2 Rulmenti",
-      "brand": "SXT",
-      "category": "Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > Roti > Roti Fata",
-      "price": 250.0,
-      "price_net": 206.61,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/roata-fata-27-5-584x21c-sxt-medius-32h-2-rulmenti.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-fata-27-5-584x21c-sxt-medius-32h-2-rulmenti~8329687.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/roata-fata-27-5-584x21c-sxt-medius-32h-2-rulmenti~8329687.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-27-5-584x21c-sxt-medius-32h-2-rulmenti~8329690.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/roata-fata-27-5-584x21c-sxt-medius-32h-2-rulmenti~8329693.jpg"
-      ],
-      "attributes": {
-        "ean": "2801353000000"
-      },
-      "category_description": "Front wheels - complete, ready to mount",
-      "tags": [
-        "27.5 inch",
-        "COMPONENTE",
-        "Roti Fata",
-        "SXT"
-      ],
-      "specs": {
-        "wheel_size": "27.5",
-        "dimensions": "584 x 21"
-      }
-    },
     {
       "id": "303576",
       "sku": "303576",
@@ -607,9 +28,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-x-10-grey-116-zale-oem~8329696.jpg"
       ],
-      "attributes": {
-        "ean": "4715575882789"
-      },
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
         "COMPONENTE",
@@ -638,9 +56,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/angrenaj-pedalier-shimano-fc-ty501-24-34-42-t-6-7-8-v-170-mm~8329699.jpg"
       ],
-      "attributes": {
-        "ean": "4524667634041"
-      },
       "tags": [
         "COMPONENTE",
         "Pedaliere - Angrenaje",
@@ -667,9 +82,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/tija-sa-m-wave-sp-m4-1-27-2-x-350-mm-negru-aluminiu~8329717.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/tija-sa-m-wave-sp-m4-1-27-2-x-350-mm-negru-aluminiu~8329720.jpg"
       ],
-      "attributes": {
-        "ean": "887539032814"
-      },
       "tags": [
         "Aluminiu",
         "COMPONENTE",
@@ -701,9 +113,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/portbagaj-aluminiu-m-wave-adjust-iii-26-28-29-negru~8329723.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/portbagaj-aluminiu-m-wave-adjust-iii-26-28-29-negru~8329726.jpg"
       ],
-      "attributes": {
-        "ean": "4015493440123"
-      },
       "tags": [
         "ACCESORII",
         "Aluminiu",
@@ -737,9 +146,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-780-mm-31-8-mm-m-wave-hb-m3-2-mtb-negru~8329744.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ghidon-780-mm-31-8-mm-m-wave-hb-m3-2-mtb-negru~8329747.jpg"
       ],
-      "attributes": {
-        "ean": "887539032913"
-      },
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
@@ -774,9 +180,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ghidon-m-wave-hb-c2-1-640-640-mm-31-8-mmcity-trekking-negru-rise-21~8329753.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ghidon-m-wave-hb-c2-1-640-640-mm-31-8-mmcity-trekking-negru-rise-21~8329756.jpg"
       ],
-      "attributes": {
-        "ean": "887539032890"
-      },
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
@@ -810,9 +213,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/frana-hidraulica-spate-shimano-mt-200-rear-dreapta~8329759.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/frana-hidraulica-spate-shimano-mt-200-rear-dreapta~8329762.jpg"
       ],
-      "attributes": {
-        "ean": "4524667881490"
-      },
       "tags": [
         "COMPONENTE",
         "Frane Disc",
@@ -837,9 +237,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/monobloc-pedalier-shimano-bb-un300-bsa-73-mm-113-mm~8329765.jpg"
       ],
-      "attributes": {
-        "ean": "4550170619213"
-      },
       "tags": [
         "COMPONENTE",
         "Monobloace - B.B.",
@@ -866,9 +263,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-pa03a-pini-detasabili-galben-neon~8329768.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-pa03a-pini-detasabili-galben-neon~8329771.jpg"
       ],
-      "attributes": {
-        "ean": "4715872486666"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -898,9 +292,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-pa03a-pini-detasabili-turqoize~8329774.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-pa03a-pini-detasabili-turqoize~8329777.jpg"
       ],
-      "attributes": {
-        "ean": "4715872488202"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -927,9 +318,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-pa03a-pini-detasabili-purple-dark~8329780.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-pa03a-pini-detasabili-purple-dark~8329783.jpg"
       ],
-      "attributes": {
-        "ean": "4715872486727"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -962,9 +350,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-ans08-leap-negru~8329795.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-ans08-leap-negru~8329798.jpg"
       ],
-      "attributes": {
-        "ean": "4711126206202"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -996,9 +381,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-ae12-negru~8329807.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-ae12-negru~8329810.jpg"
       ],
-      "attributes": {
-        "ean": "4711126204475"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -1027,9 +409,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ulei-mineral-shimano-1-l-rosu~8329813.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ulei-mineral-shimano-1-l-rosu~8329816.jpg"
       ],
-      "attributes": {
-        "ean": "8717009434058"
-      },
       "tags": [
         "Bike Maintenance - Intretinere",
         "COMPONENTE",
@@ -1057,9 +436,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/monobloc-pedalier-shimano-bb-un300-bsa-73-mm-118-mm~8329819.jpg"
       ],
-      "attributes": {
-        "ean": "4550170619244"
-      },
       "tags": [
         "COMPONENTE",
         "Monobloace - B.B.",
@@ -1087,9 +463,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ghidon-flat-bar-m-wave-hb-m3-1-mtb-780-31-8-mm~8329828.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ghidon-flat-bar-m-wave-hb-m3-1-mtb-780-31-8-mm~8329831.jpg"
       ],
-      "attributes": {
-        "ean": "887539032906"
-      },
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
@@ -1128,9 +501,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/brat-dreapta-samox-13-offset-170-mm-bosch-gen-1-2-4-brose-shape-2~8329840.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/brat-dreapta-samox-13-offset-170-mm-bosch-gen-1-2-4-brose-shape-2~8329843.jpg"
       ],
-      "attributes": {
-        "ean": "2802085000009"
-      },
       "tags": [
         "Brate Angrenaje",
         "COMPONENTE",
@@ -1155,9 +525,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/disc-frana-shimano-sm-rt64-deore-160-mm~8329846.jpg"
       ],
-      "attributes": {
-        "ean": "4550170514648"
-      },
       "tags": [
         "COMPONENTE",
         "Discuri - Rotoare",
@@ -1183,9 +550,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/maneta-schimbator-ventura-sl-m300-8v-dreapta~8329849.jpg"
       ],
-      "attributes": {
-        "ean": "2801518000005"
-      },
       "category_description": "Shift levers / shifters",
       "tags": [
         "8 viteze",
@@ -1217,9 +581,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/pipa-reglabila-promax-aluminiu-85-31-8-mm-1-1-8~8329852.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/pipa-reglabila-promax-aluminiu-85-31-8-mm-1-1-8~8329855.jpg"
       ],
-      "attributes": {
-        "ean": "2801368000002"
-      },
       "category_description": "Stems - connect handlebars to steerer tube",
       "tags": [
         "Aluminiu",
@@ -1249,9 +610,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/butuc-fata-aluminiu-sxt-36h-fd-2-rulmenti-negru~8329882.jpg"
       ],
-      "attributes": {
-        "ean": "2801249000008"
-      },
       "tags": [
         "Aluminiu",
         "Butuci Frana Disc",
@@ -1283,9 +641,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/banda-janta-tubeless-m-wave-30-mm-10-m~8329885.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/banda-janta-tubeless-m-wave-30-mm-10-m~8329888.jpg"
       ],
-      "attributes": {
-        "ean": "887539034429"
-      },
       "tags": [
         "Banda Janta - Tubeless",
         "COMPONENTE",
@@ -1312,9 +667,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/banda-janta-tubeless-m-wave-35-mm-10-m~8329891.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/banda-janta-tubeless-m-wave-35-mm-10-m~8329894.jpg"
       ],
-      "attributes": {
-        "ean": "887539034436"
-      },
       "tags": [
         "Banda Janta - Tubeless",
         "COMPONENTE",
@@ -1340,9 +692,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/pipa-sxt-st-m4-1-31-8-1-1-8-mm-negru-50-mm~8329897.jpg"
       ],
-      "attributes": {
-        "ean": "887539032104"
-      },
       "category_description": "Stems - connect handlebars to steerer tube",
       "tags": [
         "COMPONENTE",
@@ -1375,9 +724,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/roata-fata-27-5-584-x-32h-sxt-karma-584-x-21c~8329912.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/roata-fata-27-5-584-x-32h-sxt-karma-584-x-21c~8329915.jpg"
       ],
-      "attributes": {
-        "ean": "2801356000007"
-      },
       "category_description": "Front wheels - complete, ready to mount",
       "tags": [
         "27.5 inch",
@@ -1410,9 +756,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/tija-sa-cu-suspensie-zoom-travel-35-25-4x350-mm-silver~8329918.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/tija-sa-cu-suspensie-zoom-travel-35-25-4x350-mm-silver~8329921.jpg"
       ],
-      "attributes": {
-        "ean": "887539013523"
-      },
       "tags": [
         "COMPONENTE",
         "Tije Sa",
@@ -1442,9 +785,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/tija-sa-m-wave-sp-m4-1-30-9x350-mm-negru~8329924.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/tija-sa-m-wave-sp-m4-1-30-9x350-mm-negru~8329927.jpg"
       ],
-      "attributes": {
-        "ean": "887539032821"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -1457,7 +797,6 @@
     {
       "id": "280017",
       "sku": "280017",
-      "ean": "None",
       "name": "Spita Inox cnSPOKE STD13C 2.3 x 301 mm Silver",
       "brand": "cnSPOKE",
       "category": "Spite Stainless - 2,3 mm",
@@ -1473,9 +812,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/spita-inox-cnspoke-std13c-2-3-x-301-mm-silver~8329930.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Spite Stainless - 2,3 mm",
@@ -1503,9 +839,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/cheie-monobloc-shimano-tl-fc32~8329951.jpg"
       ],
-      "attributes": {
-        "ean": "4524667097426"
-      },
       "tags": [
         "COMPONENTE",
         "SHIMANO",
@@ -1530,9 +863,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/maneta-schimbator-shimano-sl-m3100-r-dreapta-9-v~8329954.jpg"
       ],
-      "attributes": {
-        "ean": "4550170620424"
-      },
       "category_description": "Shift levers / shifters",
       "tags": [
         "COMPONENTE",
@@ -1560,9 +890,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/set-qr-antifurt-m-wave-negru-f-r~8329957.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/set-qr-antifurt-m-wave-negru-f-r~8329960.jpg"
       ],
-      "attributes": {
-        "ean": "887539033057"
-      },
       "tags": [
         "Axe - Accesorii Butuci",
         "COMPONENTE",
@@ -1590,9 +917,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-spate-novatec-f362tsbt-135-11s-negru-anodized-32h~8329966.jpg"
       ],
-      "attributes": {
-        "ean": "2801198000005"
-      },
       "tags": [
         "11 viteze",
         "Butuci Frana Disc",
@@ -1622,9 +946,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-spate-novatec-f482sb-sl-ab-qr-a4abg-11s-negru-28h~8329969.jpg"
       ],
-      "attributes": {
-        "ean": "2801242000005"
-      },
       "tags": [
         "11 viteze",
         "Butuci V-Break - Dinam",
@@ -1654,9 +975,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/schimbator-spate-tourney-rd-ty300-sgs-6-7-v~8329975.jpg"
       ],
-      "attributes": {
-        "ean": "4524667393627"
-      },
       "tags": [
         "COMPONENTE",
         "SHIMANO",
@@ -1681,9 +999,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/butuc-spate-novatec-d472tsbt-nbr-11v-2-rulmenti-32-h~8329978.jpg"
       ],
-      "attributes": {
-        "ean": "2802098000003"
-      },
       "tags": [
         "11 viteze",
         "Butuci Frana Disc",
@@ -1712,9 +1027,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/butuc-fata-novatec-d471sbt-nbr-32h-2-rulmenti~8329981.jpg"
       ],
-      "attributes": {
-        "ean": "2802099000002"
-      },
       "tags": [
         "Butuci Frana Disc",
         "COMPONENTE",
@@ -1743,9 +1055,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/set-roti-700c-32h-concept-r-9-0-sxt-silver~8329993.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/set-roti-700c-32h-concept-r-9-0-sxt-silver~8329996.jpg"
       ],
-      "attributes": {
-        "ean": "2801666000001"
-      },
       "tags": [
         "COMPONENTE",
         "SXT",
@@ -1758,7 +1067,6 @@
     {
       "id": "B14GGRC252N",
       "sku": "B14GGRC252N",
-      "ean": "None",
       "name": "Spita MACH1 GALVA - 252 x 2 mm Negru",
       "brand": "MACH1",
       "category": "Spite UCP",
@@ -1774,9 +1082,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/spita-mach1-galva-252-x-2-mm-negru~8329999.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "MACH1",
@@ -1790,7 +1095,6 @@
     {
       "id": "B14GRC259N",
       "sku": "B14GRC259N",
-      "ean": "None",
       "name": "Spita MACH.1 GALVA - 259 x 2 mm Negru",
       "brand": "MACH1",
       "category": "Spite UCP",
@@ -1806,9 +1110,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/spita-mach-1-galva-259-x-2-mm-negru~8330002.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "MACH1",
@@ -1838,9 +1139,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/ghidolina-deda-mistral-alb-lb~8330026.jpg"
       ],
-      "attributes": {
-        "ean": "8051406523169"
-      },
       "tags": [
         "Bar Tape - Accesorii",
         "COMPONENTE",
@@ -1873,9 +1171,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-plastic-m-wave-steady-flat-non-slip-20x96x86-mm-9-16~8330044.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-plastic-m-wave-steady-flat-non-slip-20x96x86-mm-9-16~8330047.jpg"
       ],
-      "attributes": {
-        "ean": "887539031879"
-      },
       "tags": [
         "COMPONENTE",
         "M-WAVE",
@@ -1911,9 +1206,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-click-exustar-e-pr103p~8330059.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-click-exustar-e-pr103p~8330062.jpg"
       ],
-      "attributes": {
-        "ean": "190534016742"
-      },
       "tags": [
         "COMPONENTE",
         "EXUSTAR",
@@ -1942,9 +1234,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/stop-spate-cu-acumulator-moon-helix-lite~8330071.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/stop-spate-cu-acumulator-moon-helix-lite~8330074.jpg"
       ],
-      "attributes": {
-        "ean": "4897029985236"
-      },
       "tags": [
         "ACCESORII",
         "Lumini Spate",
@@ -1969,9 +1258,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/niplu-brass-14-2-mm-mach-1-negru-standard-14g~8330077.jpg"
       ],
-      "attributes": {
-        "ean": "2801848000003"
-      },
       "tags": [
         "COMPONENTE",
         "MACH1",
@@ -2004,9 +1290,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/janta-mach1-670-27-5-584-x-21c-36h-negru-capsata~8330080.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/janta-mach1-670-27-5-584-x-21c-36h-negru-capsata~12381948.jpg"
       ],
-      "attributes": {
-        "ean": "2801750000009"
-      },
       "tags": [
         "COMPONENTE",
         "Jante pentru Frane Disc",
@@ -2035,9 +1318,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/caseta-butuc-novatec-a2-8-11v-sram-xd~8330086.jpg"
       ],
-      "attributes": {
-        "ean": "2802106000001"
-      },
       "tags": [
         "11 viteze",
         "COMPONENTE",
@@ -2067,9 +1347,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/ulei-mineral-shimano-500-mi-rosu~8330089.jpg"
       ],
-      "attributes": {
-        "ean": "4550170229061"
-      },
       "tags": [
         "Bike Lube - Lubrefiere",
         "COMPONENTE",
@@ -2098,9 +1375,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-x9-grey-oem-116-zale~8330095.jpg"
       ],
-      "attributes": {
-        "ean": "4715575883922"
-      },
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
         "COMPONENTE",
@@ -2133,9 +1407,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-plina-trotineta-fagure-8-5x2-0-negru~8330107.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-plina-trotineta-fagure-8-5x2-0-negru~8330110.jpg"
       ],
-      "attributes": {
-        "ean": "2801418000006"
-      },
       "tags": [
         "E-Bike",
         "SXT",
@@ -2169,9 +1440,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d220-cube-specialized-stevens-macmahone-maxx~8330113.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d220-cube-specialized-stevens-macmahone-maxx~8330116.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112093"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2181,7 +1449,6 @@
     {
       "id": "1875",
       "sku": "1875",
-      "ean": "None",
       "name": "Anvelopa CST 20x4.00 (100-406) Negru BFT C1752 Rigid",
       "brand": "CST",
       "category": "Anvelope pe Sarma",
@@ -2196,9 +1463,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-cst-20x4-00-100-406-negru-bft-c1752-rigid~8330119.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
       "tags": [
         "20 inch",
@@ -2215,7 +1479,6 @@
     {
       "id": "12034",
       "sku": "12034",
-      "ean": "None",
       "name": "Camera CST 22x1.75(47-457) AV - 22 mm",
       "brand": "CST",
       "category": "Camere de Bicicleta",
@@ -2230,9 +1493,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/camera-cst-22x1-75-47-457-av-22-mm~8330122.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "CST",
@@ -2262,9 +1522,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/pini-pedale-ht-ahp-m4-5mm-40-buc-negru~8330125.jpg"
       ],
-      "attributes": {
-        "ean": "4711126205540"
-      },
       "tags": [
         "Accesorii Pedale",
         "COMPONENTE",
@@ -2297,9 +1554,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-duble-ht-gd1-negru~8330137.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-duble-ht-gd1-negru~8330140.jpg"
       ],
-      "attributes": {
-        "ean": "4711126207834"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -2329,9 +1583,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-t2-sx-rosu~8330152.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-t2-sx-rosu~8330155.jpg"
       ],
-      "attributes": {
-        "ean": "4711126209227"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -2361,9 +1612,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-t2-sx-negru~8330158.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-t2-sx-negru~8330161.jpg"
       ],
-      "attributes": {
-        "ean": "4711126209159"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -2392,9 +1640,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d24-corratec-decathlon-falcon-fuji-khs-kona-norco~8330164.jpg"
       ],
-      "attributes": {
-        "ean": "7290107110136"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2422,9 +1667,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d57-airborne-gt-khs~8330170.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d57-airborne-gt-khs~8330173.jpg"
       ],
-      "attributes": {
-        "ean": "7290107110464"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2451,9 +1693,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d185-trek-mtb-6700-6500~8330176.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d185-trek-mtb-6700-6500~8330179.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111744"
-      },
       "tags": [
         "COMPONENTE",
         "MTB",
@@ -2486,9 +1725,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d186-pinarello-norco-motobecane-author~8330182.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d186-pinarello-norco-motobecane-author~8330185.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114493"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2517,9 +1753,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d364-cannondale~8330194.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d364-cannondale~8330197.jpg"
       ],
-      "attributes": {
-        "ean": "7290107113526"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2545,9 +1778,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d476-ktm~8330200.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114875"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2573,9 +1803,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d529-bh~8330203.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115407"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2602,9 +1829,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d602-colnago-2015~8330206.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d602-colnago-2015~8330209.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116206"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2631,9 +1855,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d728-kona~8330212.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d728-kona~8330215.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117647"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2661,9 +1882,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-d772-pilo-pinarello~8330221.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-d772-pilo-pinarello~8330224.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118453"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2688,9 +1906,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-plina-trotineta-fagure-8-5x2-0-negru-rosu~8330227.jpg"
       ],
-      "attributes": {
-        "ean": "2802109000008"
-      },
       "tags": [
         "E-Bike",
         "SXT",
@@ -2725,9 +1940,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/camera-trotineta-10-x-2-0-ventil-drept-av-20-mm~8330230.jpg"
       ],
-      "attributes": {
-        "ean": "2801415000009"
-      },
       "tags": [
         "E-Bike",
         "SXT",
@@ -2762,9 +1974,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-plina-trotineta-fagure-8-5x2-0-rosu~8330239.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-plina-trotineta-fagure-8-5x2-0-rosu~8330242.jpg"
       ],
-      "attributes": {
-        "ean": "2801680000001"
-      },
       "tags": [
         "E-Bike",
         "SXT",
@@ -2796,9 +2005,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/maneta-frana-m365-m365-pro-essential-1s-si-pro-2~8330245.jpg"
       ],
-      "attributes": {
-        "ean": "2801480000003"
-      },
       "tags": [
         "1 viteze",
         "E-Bike",
@@ -2831,9 +2037,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/camera-sxt-8-1-2x2-0-48-52-134-ventil-drept-av-22-mm~8330248.jpg"
       ],
-      "attributes": {
-        "ean": "2801864000001"
-      },
       "tags": [
         "E-Bike",
         "SXT",
@@ -2851,7 +2054,6 @@
     {
       "id": "689875",
       "sku": "689875",
-      "ean": "None",
       "name": "Aparatoare Spate , Carlig si Suruburi pentru Trotineta Electrica ANLEN E9X",
       "brand": "SXT",
       "category": "Trotinete Electrice",
@@ -2866,9 +2068,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/aparatoare-spate-carlig-si-suruburi-pentru-trotineta-electrica-anlen~8330251.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "E-Bike",
         "SXT",
@@ -2884,7 +2083,6 @@
     {
       "id": "659881",
       "sku": "659881",
-      "ean": "None",
       "name": "Cric Lateral Stanga Trotineta Electrica ANLEN E9X",
       "brand": "SXT",
       "category": "Trotinete Electrice",
@@ -2900,9 +2098,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/cric-lateral-stanga-trotineta-electrica-anlen-e9x~8330254.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/cric-lateral-stanga-trotineta-electrica-anlen-e9x~8330257.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "E-Bike",
         "SXT",
@@ -2918,7 +2113,6 @@
     {
       "id": "6598851",
       "sku": "6598851",
-      "ean": "None",
       "name": "Controler Trotineta Electrica ANLEN E9X",
       "brand": "SXT",
       "category": "Baterii -incarcatoare E-Bike",
@@ -2933,9 +2127,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/controler-trotineta-electrica-anlen-e9x~8330260.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "Baterii -incarcatoare E-Bike",
         "E-Bike",
@@ -2951,7 +2142,6 @@
     {
       "id": "6598861",
       "sku": "6598861",
-      "ean": "None",
       "name": "Incarcator Trotineta Electrica Xiaomi m365/Pro Ninebot ES si F series",
       "brand": "SXT",
       "category": "Baterii -incarcatoare E-Bike",
@@ -2966,9 +2156,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/incarcator-trotineta-electrica-xiaomi-m365-pro-ninebot-es-si-f-series~8330263.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "Baterii -incarcatoare E-Bike",
         "E-Bike",
@@ -2984,7 +2171,6 @@
     {
       "id": "DV53822",
       "sku": "DV53822",
-      "ean": "None",
       "name": "Suport BAFANG CR S10F.250.SN-0103, Plastic, Negru",
       "brand": "BAFANG",
       "category": "Componente E-Bike",
@@ -2999,9 +2185,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/suport-bafang-cr-s10f-250-sn-0103-plastic-negru~8330269.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "BAFANG",
         "Componente E-Bike",
@@ -3020,7 +2203,6 @@
     {
       "id": "DV53823",
       "sku": "DV53823",
-      "ean": "None",
       "name": "Controler BAFANG CR S10F.250.SN.43V, UART",
       "brand": "BAFANG",
       "category": "Baterii -incarcatoare E-Bike",
@@ -3035,9 +2217,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/controler-bafang-cr-s10f-250-sn-43v-uart~8330272.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "BAFANG",
         "Baterii -incarcatoare E-Bike",
@@ -3053,7 +2232,6 @@
     {
       "id": "DV53828",
       "sku": "DV53828",
-      "ean": "None",
       "name": "Protectie Motor BAFANG MODEST MM G360 Negru",
       "brand": "BAFANG",
       "category": "Motoare E-Bike",
@@ -3068,9 +2246,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/protectie-motor-bafang-modest-mm-g360-negru~8330275.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "BAFANG",
         "E-Bike",
@@ -3087,7 +2262,6 @@
     {
       "id": "DV53856",
       "sku": "DV53856",
-      "ean": "None",
       "name": "Cablu BAFANG BULLET 5 / BULLET 5 900mm",
       "brand": "BAFANG",
       "category": "Display - Manete E-Bike",
@@ -3102,9 +2276,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/cablu-bafang-bullet-5-bullet-5-900mm~8330278.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "BAFANG",
         "Display - Manete E-Bike",
@@ -3120,7 +2291,6 @@
     {
       "id": "DV53857",
       "sku": "DV53857",
-      "ean": "None",
       "name": "Portbagaj Spate 26 - 28' for BAFANG BATTERY Negru",
       "brand": "BAFANG",
       "category": "Accesorii E-Bike",
@@ -3135,9 +2305,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/portbagaj-spate-26-28-for-bafang-battery-negru~8330281.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "Accesorii E-Bike",
         "BAFANG",
@@ -3154,7 +2321,6 @@
     {
       "id": "DV53872",
       "sku": "DV53872",
-      "ean": "None",
       "name": "Motor Central BAFANG MAX MODEST MM G360.250 36V 250W (UART)",
       "brand": "BAFANG",
       "category": "Motoare E-Bike",
@@ -3170,9 +2336,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/motor-central-bafang-max-modest-mm-g360-250-36v-250w-uart~8330284.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/motor-central-bafang-max-modest-mm-g360-250-36v-250w-uart~8330287.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "BAFANG",
         "E-Bike",
@@ -3188,7 +2351,6 @@
     {
       "id": "DV53873",
       "sku": "DV53873",
-      "ean": "None",
       "name": "Cablu BAFANG BULLET 4 / BULLET 5 900mm",
       "brand": "BAFANG",
       "category": "Display - Manete E-Bike",
@@ -3203,9 +2365,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/cablu-bafang-bullet-4-bullet-5-900mm~8330290.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "BAFANG",
         "Display - Manete E-Bike",
@@ -3236,9 +2395,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/caseta-motor-spate-bafang-rm-g010~8330293.jpg"
       ],
-      "attributes": {
-        "ean": "8581508880360"
-      },
       "tags": [
         "BAFANG",
         "E-Bike",
@@ -3269,9 +2425,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/set-manete-frana-bafang-br-a06-l-m-br-a06-r-m~8330296.jpg"
       ],
-      "attributes": {
-        "ean": "8581508880384"
-      },
       "tags": [
         "BAFANG",
         "Display - Manete E-Bike",
@@ -3302,9 +2455,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/controler-bafang-cr-s104-250-sn-36v-uart~8330299.jpg"
       ],
-      "attributes": {
-        "ean": "8581508880490"
-      },
       "tags": [
         "BAFANG",
         "Display - Manete E-Bike",
@@ -3335,9 +2485,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/display-bafang-dp-c10-uart-28-36v-lcd~8330302.jpg"
       ],
-      "attributes": {
-        "ean": "8581508880544"
-      },
       "tags": [
         "BAFANG",
         "Display - Manete E-Bike",
@@ -3369,9 +2516,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/display-bafang-dp-c10-uart-29-36v-lcd~8330305.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/display-bafang-dp-c10-uart-29-36v-lcd~8330308.jpg"
       ],
-      "attributes": {
-        "ean": "8581508880551"
-      },
       "tags": [
         "BAFANG",
         "Display - Manete E-Bike",
@@ -3402,9 +2546,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/display-bafang-dp-c18-29-canbus-36v-lcd~8330311.jpg"
       ],
-      "attributes": {
-        "ean": "8581508880568"
-      },
       "tags": [
         "BAFANG",
         "Display - Manete E-Bike",
@@ -3435,9 +2576,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/motor-central-bafang-mm-g330-250-36v-uart~8330314.jpg"
       ],
-      "attributes": {
-        "ean": "8581508880605"
-      },
       "tags": [
         "BAFANG",
         "E-Bike",
@@ -3473,9 +2611,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-duble-ht-d1-negru~8330326.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-duble-ht-d1-negru~8330329.jpg"
       ],
-      "attributes": {
-        "ean": "4711126206127"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -3503,9 +2638,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/kit-reparat-pedale-ht-nano-s-pentru-ans~8330332.jpg"
       ],
-      "attributes": {
-        "ean": "4711126203126"
-      },
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
@@ -3532,9 +2664,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d273-cannondale~8330335.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d273-cannondale~8330338.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112611"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3564,9 +2693,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d747-haibike-vitus~8330350.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d747-haibike-vitus~8330353.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117852"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3591,9 +2717,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/foaie-angrenaj-pilo-narrow-wide-32t-bcd-104-aluminiu~8330356.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118057"
-      },
       "tags": [
         "Aluminiu",
         "COMPONENTE",
@@ -3625,9 +2748,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/foaie-angrenaj-pilo-narrow-wide-32t-sram-aluminiu~8330365.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/foaie-angrenaj-pilo-narrow-wide-32t-sram-aluminiu~8330368.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118088"
-      },
       "tags": [
         "Aluminiu",
         "COMPONENTE",
@@ -3641,7 +2761,6 @@
     {
       "id": "6598871",
       "sku": "6598871",
-      "ean": "None",
       "name": "Cric Trotineta Electrica M365, Pro, 1S, Pro 2",
       "brand": "SXT",
       "category": "Trotinete Electrice",
@@ -3656,9 +2775,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/cric-trotineta-electrica-m365-pro-1s-pro-2~8330371.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "1 viteze",
         "E-Bike",
@@ -3697,9 +2813,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/sonerie-airbella-%C2%AE-o22mm-negru~11301816.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/sonerie-airbella-%C2%AE-o22mm-negru~8330383.jpg"
       ],
-      "attributes": {
-        "ean": "8719327613351"
-      },
       "tags": [
         "ACCESORII",
         "M-WAVE",
@@ -3730,9 +2843,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/antifurt-cu-cheie-m-wave-s-10-18-galben~8330389.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/antifurt-cu-cheie-m-wave-s-10-18-galben~8330392.jpg"
       ],
-      "attributes": {
-        "ean": "887539009168"
-      },
       "tags": [
         "ACCESORII",
         "Antifurturi cu Cheie",
@@ -3762,9 +2872,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/qr-pentru-colier-tija-sa-promax~8330395.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/qr-pentru-colier-tija-sa-promax~8330398.jpg"
       ],
-      "attributes": {
-        "ean": "887539033859"
-      },
       "tags": [
         "COMPONENTE",
         "Coliere Tija Sa",
@@ -3790,9 +2897,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/butuc-spate-casetat-sxt-36h-fd-8-10-11v-2rulmenti~8330401.jpg"
       ],
-      "attributes": {
-        "ean": "2802113000001"
-      },
       "tags": [
         "11 viteze",
         "Butuci Frana Disc",
@@ -3823,9 +2927,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/placute-frana-m-wave-bpd-m1-organice~8330404.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/placute-frana-m-wave-bpd-m1-organice~8330407.jpg"
       ],
-      "attributes": {
-        "ean": "887539015428"
-      },
       "category_description": "Disc brake pads - sintered or organic",
       "tags": [
         "COMPONENTE",
@@ -3853,9 +2954,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-sxt-cloud-slick-fix-light-negru~8330410.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-sxt-cloud-slick-fix-light-negru~8330413.jpg"
       ],
-      "attributes": {
-        "ean": "887539003906"
-      },
       "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
@@ -3889,9 +2987,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/protectie-antipana-tannus-armour-26-x-1-6-1-9~8330431.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/protectie-antipana-tannus-armour-26-x-1-6-1-9~10168002.jpg"
       ],
-      "attributes": {
-        "ean": "193751005353"
-      },
       "tags": [
         "26 inch",
         "COMPONENTE",
@@ -3925,9 +3020,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/ulei-special-m-wave-oil-guard-bio-100-ml~8330437.jpg"
       ],
-      "attributes": {
-        "ean": "887539021238"
-      },
       "tags": [
         "Bike Lube - Lubrefiere",
         "COMPONENTE",
@@ -3953,9 +3045,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d503-nsr~8330449.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115148"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3981,9 +3070,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d507-knolly~8330452.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115186"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4009,9 +3095,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d510-bottecchia~8330455.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115216"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4037,9 +3120,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d515-bmc~8330458.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115261"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4065,9 +3145,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d519-gt~8330461.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115308"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4093,9 +3170,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d522-cannondale~8330464.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115339"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4121,9 +3195,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d526-bh~8330467.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115377"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4150,9 +3221,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d533-cannondale~8330470.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d533-cannondale~8330473.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115445"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4178,9 +3246,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d537-intense~8330476.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115513"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4207,9 +3272,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d111-principia~8330479.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d111-principia~8330482.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111003"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4235,9 +3297,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d157-diamondback~8330485.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111461"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4263,9 +3322,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d549-look~8330488.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115636"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4291,9 +3347,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d552-khs~8330491.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115667"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4320,9 +3373,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d563-vektor~8330494.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d563-vektor~8330497.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115803"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4348,9 +3398,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d567-berria~8330500.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115841"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4376,9 +3423,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d570-salsa~8330503.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115872"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4408,9 +3452,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d581-carrera~8330515.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d581-carrera~8330518.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115995"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4436,9 +3477,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d585-trek~8330521.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116039"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4464,9 +3502,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d589-jamis~8330524.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116077"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4492,9 +3527,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d603-felt~8330527.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116213"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4520,9 +3552,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d607-scott~8330530.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116251"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4548,9 +3577,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d614-orbea~8330533.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116329"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4577,9 +3603,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d618-redline~8330536.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d618-redline~8330539.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116435"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4611,9 +3634,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d621-specialized~8330548.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d621-specialized~8330551.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116466"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4639,9 +3659,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d625-trenga~8330554.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116503"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4668,9 +3685,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d629-trek~8330557.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d629-trek~8330560.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116541"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4698,9 +3712,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d632-cube~8330566.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d632-cube~8330569.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116596"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4726,9 +3737,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d636-lapierre~8330572.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116633"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4754,9 +3762,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d64-kona~8330575.jpg"
       ],
-      "attributes": {
-        "ean": "7290107110532"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4783,9 +3788,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d656-look~8330578.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d656-look~8330581.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116831"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4811,9 +3813,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d663-santa-cruz~8330584.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116916"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4839,9 +3838,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d77-kona~8330587.jpg"
       ],
-      "attributes": {
-        "ean": "7290107110662"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4869,9 +3865,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d481-colnago~8330593.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d481-colnago~8330596.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114929"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4897,9 +3890,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d93-da-bomb~8330599.jpg"
       ],
-      "attributes": {
-        "ean": "7290107110822"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4925,9 +3915,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d489-schnell-go-sport-trinx-miracle-coluer~8330602.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115001"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4953,9 +3940,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d492-xds~8330605.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115032"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4980,9 +3964,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d496-ridley~8330608.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115070"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5008,9 +3989,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d50-principia~8330611.jpg"
       ],
-      "attributes": {
-        "ean": "7290107110396"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5036,9 +4014,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d406-vitus~8330614.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114141"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5064,9 +4039,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d222-kestrel~8330617.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112116"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5094,9 +4066,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d417-colnago~8330623.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d417-colnago~8330626.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114257"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5122,9 +4091,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d420-bh~8330629.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114288"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5150,9 +4116,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d424-yeti-12-mm~8330632.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114325"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5178,9 +4141,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d431-cove~8330635.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114394"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5206,9 +4166,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d435-kestrel~8330638.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114431"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5234,9 +4191,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d248-sunn~8330641.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112369"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5262,9 +4216,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d251-marin~8330644.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112390"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5290,9 +4241,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d255-full-dynamix~8330647.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112437"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5318,9 +4266,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d45-cannondale~8330650.jpg"
       ],
-      "attributes": {
-        "ean": "7290107110341"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5346,9 +4291,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d262-gt~8330653.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112505"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5374,9 +4316,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d457-khs~8330656.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114660"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5402,9 +4341,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d460-lapierre~8330659.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114691"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5430,9 +4366,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d464-ghost~8330662.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114738"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5458,9 +4391,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d277-ibis~8330665.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112659"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5486,9 +4416,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d468-banshee~8330668.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114790"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5514,9 +4441,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d471-fuji~8330671.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114820"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5542,9 +4466,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d475-ktm~8330674.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114868"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5570,9 +4491,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d291-felt-kona-stevens~8330677.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112796"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5598,9 +4516,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d295-gary-fisher~8330680.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112833"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5626,9 +4541,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d306-unknown~8330683.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112949"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5638,7 +4550,6 @@
     {
       "id": "D107",
       "sku": "D107",
-      "ean": "None",
       "name": "Ureche Cadru PILO D107 Cinelli",
       "brand": "PILO",
       "category": "Urechi Cadru",
@@ -5654,9 +4565,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d107-cinelli~8330686.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5682,9 +4590,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d115-principia~8330689.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111041"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5710,9 +4615,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d122-hercules-wheeler-cytrek-winora-nepal~8330692.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116350"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5739,9 +4641,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d317-intense~8330695.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d317-intense~8330698.jpg"
       ],
-      "attributes": {
-        "ean": "7290107113052"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5767,9 +4666,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d126-full-dynamix~8330701.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111157"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5795,9 +4691,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d328-carrera~8330704.jpg"
       ],
-      "attributes": {
-        "ean": "7290107113168"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5823,9 +4716,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d137-kuota~8330707.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111263"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5851,9 +4741,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d140-orange~8330710.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111294"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5882,9 +4769,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d147-bh-gt~8330713.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111362"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5910,9 +4794,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d159-columbia~8330716.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111485"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5938,9 +4819,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d163-giant~8330719.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111522"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5966,9 +4844,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d167-kona~8330722.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111560"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5994,9 +4869,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d175-principia~8330725.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111645"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6022,9 +4894,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d365-cervelo~8330728.jpg"
       ],
-      "attributes": {
-        "ean": "7290107113533"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6050,9 +4919,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d179-votec~8330731.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111683"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6080,9 +4946,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d369-colnago~8330737.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d369-colnago~8330740.jpg"
       ],
-      "attributes": {
-        "ean": "7290107113571"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6108,9 +4971,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d372-corratec~8330743.jpg"
       ],
-      "attributes": {
-        "ean": "7290107113601"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6136,9 +4996,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d376-skyde~8330746.jpg"
       ],
-      "attributes": {
-        "ean": "7290107113786"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6164,9 +5021,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d380-mountain-cycle~8330749.jpg"
       ],
-      "attributes": {
-        "ean": "7290107113823"
-      },
       "tags": [
         "COMPONENTE",
         "MTB",
@@ -6198,9 +5052,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d388-cube~8330752.jpg"
       ],
-      "attributes": {
-        "ean": "7290107113908"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6226,9 +5077,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d200-santana~8330755.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111898"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6255,9 +5103,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d395-cipollini~8330758.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d395-cipollini~8330761.jpg"
       ],
-      "attributes": {
-        "ean": "7290107113977"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6283,9 +5128,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d208-litespeed~8330764.jpg"
       ],
-      "attributes": {
-        "ean": "7290107111973"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6311,9 +5153,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d211-kuota~8330767.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112000"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6339,9 +5178,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d500-haibike~8330770.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115117"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6367,9 +5203,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d504-nsr~8330773.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115155"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6395,9 +5228,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d508-bottecchia~8330776.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115193"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6423,9 +5253,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d511-brisa~8330779.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115223"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6451,9 +5278,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d523-gt~8330782.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115346"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6479,9 +5303,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d527-gt~8330785.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115384"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6508,9 +5329,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d534-cipollini~8330788.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d534-cipollini~8330791.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115452"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6520,7 +5338,6 @@
     {
       "id": "D108",
       "sku": "D108",
-      "ean": "None",
       "name": "Ureche Cadru PILO D108 Pinarello Paris carbon F4 13",
       "brand": "PILO",
       "category": "Urechi Cadru",
@@ -6536,9 +5353,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d108-pinarello-paris-carbon-f4-13~8330794.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "Carbon",
@@ -6568,9 +5382,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d55-carrera~8330797.jpg"
       ],
-      "attributes": {
-        "ean": "7290107110440"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6596,9 +5407,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d553-lenz~8330800.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115674"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6624,9 +5432,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d557-niner~8330803.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115742"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6652,9 +5457,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d560-bianchi~8330806.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115773"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6680,9 +5482,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d568-parlee~8330809.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115858"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6708,9 +5507,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d575-evil~8330812.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115926"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6736,9 +5532,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d579-storck~8330815.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115971"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6764,9 +5557,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d582-salsa~8330818.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116008"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6792,9 +5582,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d586-argon-18~8330821.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116046"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6820,9 +5607,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d600-cannondale~8330824.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116183"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6848,9 +5632,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d604-orbea~8330827.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116220"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6876,9 +5657,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d615-rikual~8330830.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116336"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6907,9 +5685,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d619-colnago~8330839.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d619-colnago~8330842.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116442"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6937,9 +5712,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d626-colnago~8330848.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d626-colnago~8330851.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116510"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6966,9 +5738,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d633-norco~8330854.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d633-norco~8330857.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116602"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6994,9 +5763,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d664-transition~8330860.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116923"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7022,9 +5788,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d74-de-rosa~8330863.jpg"
       ],
-      "attributes": {
-        "ean": "7290107110631"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7051,9 +5814,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d82-haro~8330866.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d82-haro~8330869.jpg"
       ],
-      "attributes": {
-        "ean": "7290107110716"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7079,9 +5839,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d49-gt-ironhorse-jamis-k2-kellys-kinesis-masi~8330872.jpg"
       ],
-      "attributes": {
-        "ean": "7290107110389"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7107,9 +5864,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d493-mbk-1997-rose-red-x6~8330875.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115049"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7138,9 +5892,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d497-challenge~8330878.jpg"
       ],
-      "attributes": {
-        "ean": "7290107115087"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7166,9 +5917,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d403-bmc~8330881.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114110"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7194,9 +5942,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d223-kona~8330884.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112123"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7222,9 +5967,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d227-banshee-banshee-dh~8330887.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112161"
-      },
       "tags": [
         "COMPONENTE",
         "Downhill",
@@ -7256,9 +5998,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d418-colnago~8330890.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114264"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7284,9 +6023,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d230-niner~8330893.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112185"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7312,9 +6048,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d234-bergamont~8330896.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112222"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7340,9 +6073,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d425-ckt~8330899.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114332"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7368,9 +6098,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d238-ridley~8330902.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112260"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7396,9 +6123,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d429-steppenwolf~8330905.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114370"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7424,9 +6148,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d241-mountain-cycle~8330908.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112291"
-      },
       "tags": [
         "COMPONENTE",
         "MTB",
@@ -7458,9 +6179,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d432-gt~8330911.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114400"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7486,9 +6204,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d245-kona~8330914.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112338"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7514,9 +6229,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d249-trek~8330917.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117166"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7542,9 +6254,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d252-ideal~8330920.jpg"
       ],
-      "attributes": {
-        "ean": "7290107112406"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7570,9 +6279,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d443-ghost~8330923.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114523"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7598,9 +6304,443 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d447-bulls~8330926.jpg"
       ],
-      "attributes": {
-        "ean": "7290107114561"
-      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D450",
+      "sku": "D450",
+      "ean": "7290107114592",
+      "name": "Ureche Cadru PILO D450 Kona",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 350.0,
+      "price_net": 289.26,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d450-kona.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d450-kona~8330929.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d450-kona~8330929.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D454",
+      "sku": "D454",
+      "ean": "7290107114639",
+      "name": "Ureche Cadru PILO D454 Intense",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 350.0,
+      "price_net": 289.26,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d454-intense.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d454-intense~8330932.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d454-intense~8330932.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D267",
+      "sku": "D267",
+      "ean": "7290107112550",
+      "name": "Ureche Cadru PILO D267 Astrix",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 350.0,
+      "price_net": 289.26,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d267-astrix.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d267-astrix~8330935.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d267-astrix~8330935.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D458",
+      "sku": "D458",
+      "ean": "7290107114677",
+      "name": "Ureche Cadru PILO D458 Intense",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 199.0,
+      "price_net": 164.46,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d458-intense.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d458-intense~8330938.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d458-intense~8330938.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D270",
+      "sku": "D270",
+      "ean": "7290107112581",
+      "name": "Ureche Cadru PILO D270 Centurion, Cinelli proxima, Colnago",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 110.0,
+      "price_net": 90.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d270-centurion-cinelli-proxima-colnago.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d270-centurion-cinelli-proxima-colnago~8330941.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d270-centurion-cinelli-proxima-colnago~8330941.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D461",
+      "sku": "D461",
+      "ean": "7290107114707",
+      "name": "Ureche Cadru PILO D461 Rocky Mountain",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 350.0,
+      "price_net": 289.26,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d461-rocky-mountain.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d461-rocky-mountain~8330944.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d461-rocky-mountain~8330944.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "MTB",
+        "PILO",
+        "Urechi Cadru"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ]
+      }
+    },
+    {
+      "id": "D274",
+      "sku": "D274",
+      "ean": "7290107112628",
+      "name": "Ureche Cadru PILO D274 Yeti",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 350.0,
+      "price_net": 289.26,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d274-yeti.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d274-yeti~8330947.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d274-yeti~8330947.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D278",
+      "sku": "D278",
+      "ean": "7290107112666",
+      "name": "Ureche Cadru PILO D278 MBK",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 110.0,
+      "price_net": 90.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d278-mbk.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d278-mbk~8330950.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d278-mbk~8330950.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D469",
+      "sku": "D469",
+      "ean": "7290107114806",
+      "name": "Ureche Cadru PILO D469 Fuji",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 150.0,
+      "price_net": 123.97,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d469-fuji.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d469-fuji~8330953.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d469-fuji~8330953.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D472",
+      "sku": "D472",
+      "ean": "7290107114837",
+      "name": "Ureche Cadru PILO D472 KTM",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 350.0,
+      "price_net": 289.26,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d472-ktm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d472-ktm~8330956.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d472-ktm~8330956.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D285",
+      "sku": "D285",
+      "ean": "7290107112734",
+      "name": "Ureche Cadru PILO D285 Norco DH",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 249.0,
+      "price_net": 205.79,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d285-norco-dh.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d285-norco-dh~8330959.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d285-norco-dh~8330959.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Downhill",
+        "PILO",
+        "Urechi Cadru"
+      ],
+      "specs": {
+        "bike_type": [
+          "Downhill"
+        ]
+      }
+    },
+    {
+      "id": "D289",
+      "sku": "D289",
+      "ean": "7290107112772",
+      "name": "Ureche Cadru PILO D289 KTM",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 110.0,
+      "price_net": 90.91,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d289-ktm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d289-ktm~8330962.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d289-ktm~8330962.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D307",
+      "sku": "D307",
+      "ean": "7290107112956",
+      "name": "Ureche Cadru PILO D307 Intense",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 350.0,
+      "price_net": 289.26,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d307-intense.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d307-intense~8330965.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d307-intense~8330965.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D109",
+      "sku": "D109",
+      "ean": "7290107110983",
+      "name": "Ureche Cadru PILO D109 BMC Pro Machine SLC 01",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 250.0,
+      "price_net": 206.61,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d109-bmc-pro-machine-slc-01.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d109-bmc-pro-machine-slc-01~8330968.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d109-bmc-pro-machine-slc-01~8330968.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D116",
+      "sku": "D116",
+      "ean": "7290107111058",
+      "name": "Ureche Cadru PILO D116 Principia",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 350.0,
+      "price_net": 289.26,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d116-principia.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d116-principia~8330971.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d116-principia~8330971.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D314",
+      "sku": "D314",
+      "ean": "7290107113021",
+      "name": "Ureche Cadru PILO D314 Viper",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 350.0,
+      "price_net": 289.26,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d314-viper.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d314-viper~8330974.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d314-viper~8330974.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D123",
+      "sku": "D123",
+      "ean": "7290107111126",
+      "name": "Ureche Cadru PILO D123 Cannondale",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 145.0,
+      "price_net": 119.83,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d123-cannondale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d123-cannondale~8330977.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d123-cannondale~8330977.jpg"
+      ],
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -8261,13 +7401,6 @@
       "in_stock_count": 8
     },
     {
-      "id": "none",
-      "name": "None",
-      "full_path": "None",
-      "product_count": 149,
-      "in_stock_count": 119
-    },
-    {
       "id": "ochelari-ciclism",
       "name": "Ochelari Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > Ochelari Ciclism",
@@ -8672,20 +7805,12 @@
       "full_path": "e- MOBILITY",
       "product_count": 1,
       "in_stock_count": 0
-    },
-    {
-      "id": "",
-      "name": "🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆",
-      "full_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta > 🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆",
-      "product_count": 21,
-      "in_stock_count": 14
     }
   ],
   "brands": [
     "AN LUN",
     "AUTHOR",
     "BAFANG",
-    "BELELLI",
     "BETO",
     "BROSE",
     "CST",
@@ -8701,7 +7826,6 @@
     "MOON",
     "NECO",
     "NOVATEC",
-    "None",
     "PILO",
     "PROMAX",
     "SAMOX",

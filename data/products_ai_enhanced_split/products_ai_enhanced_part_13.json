@@ -1,510 +1,14 @@
 {
-  "last_updated": "2026-03-14T14:02:34.111764+00:00",
+  "last_updated": "2026-03-14T19:12:57.406103+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 13,
-    "total_parts": 20,
+    "total_parts": 19,
     "product_range": "3001-3250",
-    "original_total": 4765
+    "original_total": 4744
   },
   "products": [
-    {
-      "id": "D667",
-      "sku": "D667",
-      "ean": "7290107116954",
-      "name": "Ureche Cadru PILO D667 Silverback",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 199.0,
-      "price_net": 164.46,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d667-silverback.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d667-silverback~8331769.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d667-silverback~8331769.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d667-silverback~8331772.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107116954"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ],
-      "specs": {
-        "color": "Silver"
-      }
-    },
-    {
-      "id": "D675",
-      "sku": "D675",
-      "ean": "7290107117036",
-      "name": "Ureche Cadru PILO D675 Orbea",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 225.0,
-      "price_net": 185.95,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d675-orbea.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d675-orbea~8331775.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d675-orbea~8331775.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117036"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D651",
-      "sku": "D651",
-      "ean": "7290107116787",
-      "name": "Ureche Cadru PILO D651 Scott",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 150.0,
-      "price_net": 123.97,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d651-scott.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d651-scott~8331778.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d651-scott~8331778.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d651-scott~8331781.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107116787"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D674",
-      "sku": "D674",
-      "ean": "7290107117029",
-      "name": "Ureche Cadru PILO D674 Decathlon",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 150.0,
-      "price_net": 123.97,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d674-decathlon.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d674-decathlon~8331784.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d674-decathlon~8331784.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d674-decathlon~8331787.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d674-decathlon~8331790.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d674-decathlon~8331793.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d674-decathlon~8331796.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117029"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D672",
-      "sku": "D672",
-      "ean": "7290107117005",
-      "name": "Ureche Cadru PILO D672 Focus",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 110.0,
-      "price_net": 90.91,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d672-focus.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d672-focus~8331799.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d672-focus~8331799.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117005"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D680",
-      "sku": "D680",
-      "ean": "7290107117081",
-      "name": "Ureche Cadru PILO D680 Time",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 150.0,
-      "price_net": 123.97,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d680-time.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d680-time~8331802.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d680-time~8331802.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d680-time~8331805.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117081"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D682",
-      "sku": "D682",
-      "ean": "7290107117104",
-      "name": "Ureche Cadru PILO D682 Eddy Merckx",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 140.0,
-      "price_net": 115.7,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d682-eddy-merckx.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d682-eddy-merckx~8331808.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d682-eddy-merckx~8331808.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d682-eddy-merckx~8331811.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d682-eddy-merckx~8331814.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117104"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D683",
-      "sku": "D683",
-      "ean": "7290107117111",
-      "name": "Ureche Cadru PILO D683 Felt",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 199.0,
-      "price_net": 164.46,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d683-felt.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d683-felt~8331817.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d683-felt~8331817.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d683-felt~8331820.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117111"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D677",
-      "sku": "D677",
-      "ean": "7290107117050",
-      "name": "Ureche Cadru PILO D677 Whyte",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 250.0,
-      "price_net": 206.61,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d677-whyte.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d677-whyte~8331823.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d677-whyte~8331823.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d677-whyte~8331826.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117050"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D679",
-      "sku": "D679",
-      "ean": "7290107117074",
-      "name": "Ureche Cadru PILO D679 Votec",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 299.0,
-      "price_net": 247.11,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d679-votec.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d679-votec~8331829.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d679-votec~8331829.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d679-votec~8331832.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117074"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D681",
-      "sku": "D681",
-      "ean": "7290107117098",
-      "name": "Ureche Cadru PILO D681 Framed",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 299.0,
-      "price_net": 247.11,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d681-framed.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d681-framed~8331835.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d681-framed~8331835.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d681-framed~8331838.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117098"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D690",
-      "sku": "D690",
-      "ean": "7290107117241",
-      "name": "Ureche Cadru PILO D690 Orbea",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 225.0,
-      "price_net": 185.95,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d690-orbea.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d690-orbea~8331841.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d690-orbea~8331841.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117241"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D687",
-      "sku": "D687",
-      "ean": "7290107117210",
-      "name": "Ureche Cadru PILO D687 Giant",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 130.0,
-      "price_net": 107.44,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d687-giant.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d687-giant~8331844.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d687-giant~8331844.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d687-giant~8331847.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117210"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D686",
-      "sku": "D686",
-      "ean": "7290107117142",
-      "name": "Ureche Cadru PILO D686 Gitane",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 199.0,
-      "price_net": 164.46,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d686-gitane.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d686-gitane~8331850.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d686-gitane~8331850.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d686-gitane~8331853.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117142"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D685",
-      "sku": "D685",
-      "ean": "7290107117135",
-      "name": "Ureche Cadru PILO D685 Litespeed",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 150.0,
-      "price_net": 123.97,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d685-litespeed.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d685-litespeed~8331856.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d685-litespeed~8331856.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d685-litespeed~8331859.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117135"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D684",
-      "sku": "D684",
-      "ean": "7290107117128",
-      "name": "Ureche Cadru PILO D684 Santa Cruz",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 150.0,
-      "price_net": 123.97,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d684-santa-cruz.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d684-santa-cruz~8331862.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d684-santa-cruz~8331862.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d684-santa-cruz~8331865.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117128"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D689",
-      "sku": "D689",
-      "ean": "7290107117234",
-      "name": "Ureche Cadru PILO D689 Canyon",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "price": 299.0,
-      "price_net": 247.11,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d689-canyon.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d689-canyon~8331868.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d689-canyon~8331868.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d689-canyon~8331871.jpg"
-      ],
-      "attributes": {
-        "ean": "7290107117234"
-      },
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D688",
       "sku": "D688",
@@ -525,9 +29,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d688-scott~8331874.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d688-scott~8331877.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117227"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -553,9 +54,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d691-proceed~8331886.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117258"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -582,9 +80,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d696-cannondale~8331889.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d696-cannondale~8331892.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117302"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -612,9 +107,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d695-haibike~8331898.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d695-haibike~8331901.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117296"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -641,9 +133,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d655-giant~8331904.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d655-giant~8331907.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116824"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -669,9 +158,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d692-ibis~8331910.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117265"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -697,9 +183,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d693-steppenwolf~8331913.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117272"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -725,9 +208,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d698-colnago~8331916.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117326"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -753,9 +233,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d699-argon-18~8331919.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117333"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -781,9 +258,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d377-kona~8331922.jpg"
       ],
-      "attributes": {
-        "ean": "7290107113793"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -810,9 +284,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d700-ellsworth~8331925.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d700-ellsworth~8331928.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117340"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -839,9 +310,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d661-fondriest~8331931.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d661-fondriest~8331934.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116893"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -868,9 +336,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d678-bh~8331937.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d678-bh~8331940.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117067"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -897,9 +362,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d702-nakamura~8331943.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d702-nakamura~8331946.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117364"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -929,9 +391,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d646-lapierre~8331958.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d646-lapierre~8331961.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116732"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -958,9 +417,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d701-planet-x~8331964.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d701-planet-x~8331967.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117357"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -987,9 +443,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d709-specialized~8331970.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d709-specialized~8331973.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117432"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1016,9 +469,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d703-principia~8331976.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d703-principia~8331979.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117371"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1045,9 +495,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d708-eddy-merckx~8331982.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d708-eddy-merckx~8331985.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117425"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1074,9 +521,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d706-bmc~8331988.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d706-bmc~8331991.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117401"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1103,9 +547,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d705-bmc~8331994.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d705-bmc~8331997.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117395"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1132,9 +573,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d704-canyon~8332000.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d704-canyon~8332003.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117388"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1161,9 +599,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d652-gt~8332006.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d652-gt~8332009.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116794"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1190,9 +625,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d645-scott~8332012.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d645-scott~8332015.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116725"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1219,9 +651,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d713-cannondale~8332018.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d713-cannondale~8332021.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117487"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1248,9 +677,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d715-poison~8332024.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d715-poison~8332027.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117500"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1276,9 +702,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d712-canyon~8332030.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d712-canyon~8332033.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117463"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1305,9 +728,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d711-orbea~8332036.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d711-orbea~8332039.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117456"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1334,9 +754,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d710-bh~8332042.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d710-bh~8332045.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117449"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1363,9 +780,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d714-cannondale~8332048.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d714-cannondale~8332051.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117494"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1395,9 +809,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d720-orbea~8332063.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d720-orbea~8332066.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117555"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1426,9 +837,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d718-bergamont~8332078.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d718-bergamont~8332081.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117531"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1458,9 +866,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d724-rocky-mountain~8332093.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d724-rocky-mountain~8332096.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117609"
-      },
       "tags": [
         "COMPONENTE",
         "MTB",
@@ -1496,9 +901,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d727-airborne~8332111.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d727-airborne~8332114.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117630"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1528,9 +930,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d643-lapierre~8332129.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d643-lapierre~8332132.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116701"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1560,9 +959,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d725-asylum~8332144.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d725-asylum~8332147.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117616"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1591,9 +987,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d658-diamondback~8332156.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d658-diamondback~8332159.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116855"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1620,9 +1013,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d721-ns-bikes~8332162.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d721-ns-bikes~8332165.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117562"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1650,9 +1040,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d719-merlin~8332171.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d719-merlin~8332174.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117548"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1678,9 +1065,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d313-mbk~8332177.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117791"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1707,9 +1091,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d730-de-rosa~8332180.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d730-de-rosa~8332183.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117661"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1735,9 +1116,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d732-corratec~8332186.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d732-corratec~8332189.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117685"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1764,9 +1142,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d729-rocky-mountain~8332192.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d729-rocky-mountain~8332195.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117654"
-      },
       "tags": [
         "COMPONENTE",
         "MTB",
@@ -1799,9 +1174,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d731-evoke~8332198.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d731-evoke~8332201.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117678"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1828,9 +1200,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d733-haibike~8332204.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d733-haibike~8332207.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117692"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1857,9 +1226,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d734-sunn~8332210.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d734-sunn~8332213.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117708"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1888,9 +1254,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d736-giant~8332222.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d736-giant~8332225.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117722"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1917,9 +1280,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d739-airborne~8332228.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d739-airborne~8332231.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117753"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1946,9 +1306,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d740-fondriest~8332234.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d740-fondriest~8332237.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117760"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -1974,9 +1331,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d742-giant~8332240.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117807"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2003,9 +1357,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d744-multicycle~8332243.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d744-multicycle~8332246.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117821"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2032,9 +1383,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d743-haro~8332249.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d743-haro~8332252.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117814"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2060,9 +1408,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d745-bmc~8332255.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117838"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2089,9 +1434,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d749-argon-18~8332258.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d749-argon-18~8332261.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117876"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2119,9 +1461,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d752-silverback~8332267.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d752-silverback~8332270.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117906"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2151,9 +1490,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d750-neil-pryde~8332273.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d750-neil-pryde~8332276.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117883"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2180,9 +1516,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d669-ridley~8332279.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d669-ridley~8332282.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116978"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2209,9 +1542,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d751-vitus~8332285.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d751-vitus~8332288.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117890"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2238,9 +1568,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d753-specialized~8332291.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d753-specialized~8332294.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117920"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2267,9 +1594,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d748-orbea~8332300.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d748-orbea~8332303.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117869"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2296,9 +1620,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d754-basso~8332306.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d754-basso~8332309.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117944"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2326,9 +1647,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d755-dartmoor~8332315.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d755-dartmoor~8332318.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117951"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2358,9 +1676,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d668-giant~8332330.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d668-giant~8332333.jpg"
       ],
-      "attributes": {
-        "ean": "7290107116961"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2387,9 +1702,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d757-canyon~8332339.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d757-canyon~8332342.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117999"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2419,9 +1731,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d758-fantic~8332354.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d758-fantic~8332357.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118002"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2448,9 +1757,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d759-sensa~8332360.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d759-sensa~8332363.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118019"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2460,7 +1766,6 @@
     {
       "id": "D752-Kit",
       "sku": "D752-Kit",
-      "ean": "None",
       "name": "Ureche Cadru PILO D752+S24 12mm Silverback",
       "brand": "PILO",
       "category": "Urechi Cadru",
@@ -2477,9 +1782,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d752-s24-12mm-silverback~8332366.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d752-s24-12mm-silverback~8332369.jpg"
       ],
-      "attributes": {
-        "ean": "None"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2510,9 +1812,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d760-sunn~8332375.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d760-sunn~8332378.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118033"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2540,9 +1839,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d761-haro~8332384.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d761-haro~8332387.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118040"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2570,9 +1866,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d762-bmc~8332393.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d762-bmc~8332396.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118064"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2601,9 +1894,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d763-fuji~8332405.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d763-fuji~8332408.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118071"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2631,9 +1921,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d764-ghost~8332414.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d764-ghost~8332417.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118095"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2662,9 +1949,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d766-viper~8332426.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d766-viper~8332429.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118118"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2692,9 +1976,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d765-merida~8332435.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d765-merida~8332438.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118101"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2722,9 +2003,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d768-bmc~8332444.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d768-bmc~8332447.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118170"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2753,9 +2031,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d769-breezer~8332456.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d769-breezer~8332459.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118187"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2784,9 +2059,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d770-breezer~8332468.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d770-breezer~8332471.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118194"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2815,9 +2087,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d771-gusto~8332480.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d771-gusto~8332483.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118408"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2845,9 +2114,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d773-bmc~8332489.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d773-bmc~8332492.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118460"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2876,9 +2142,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d774-marin~8332501.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d774-marin~8332504.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118521"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2907,9 +2170,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d775-vitus~8332513.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d775-vitus~8332516.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118620"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2938,9 +2198,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d776-canyon~8332525.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d776-canyon~8332528.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118613"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -2970,9 +2227,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d777-ellsworth~8332540.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d777-ellsworth~8332543.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118637"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3001,9 +2255,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d778-yt~8332552.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d778-yt~8332555.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118644"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3033,9 +2284,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d779-scott~8332567.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d779-scott~8332570.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118668"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3064,9 +2312,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d780-scott-scale-spark-and-contessa-boost-carbon~8332579.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d780-scott-scale-spark-and-contessa-boost-carbon~8332582.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118729"
-      },
       "tags": [
         "COMPONENTE",
         "Carbon",
@@ -3098,9 +2343,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d781-trek~8332588.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d781-trek~8332591.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118736"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3129,9 +2371,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d782-scott~8332600.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d782-scott~8332603.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118743"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3161,9 +2400,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d189-cinelli-corratec-koga-orange-viper-whyte~8332615.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d189-cinelli-corratec-koga-orange-viper-whyte~8332618.jpg"
       ],
-      "attributes": {
-        "ean": "7290107117593"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3194,9 +2430,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d785-orbea~8332624.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d785-orbea~8332627.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118958"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3225,9 +2458,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d786-ghost~8332636.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d786-ghost~8332639.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118996"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3256,9 +2486,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d787-bmc~8332648.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d787-bmc~8332651.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119061"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3287,9 +2514,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d788-bmc~8332660.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d788-bmc~8332663.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119078"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3317,9 +2541,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d789-canyon~8332669.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d789-canyon~8332672.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119023"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3348,9 +2569,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d790-rocky-mountain~8332681.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d790-rocky-mountain~8332684.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119030"
-      },
       "tags": [
         "COMPONENTE",
         "MTB",
@@ -3385,9 +2603,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d784-intec~8332693.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d784-intec~8332696.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118941"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3415,9 +2630,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d792-xds~8332702.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d792-xds~8332705.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119115"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3446,9 +2658,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d793-cannondale~8332714.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d793-cannondale~8332717.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119122"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3476,9 +2685,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d794-diamondback~8332723.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d794-diamondback~8332726.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119139"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3506,9 +2712,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d796-orro~8332732.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d796-orro~8332735.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119153"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3536,9 +2739,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d795-yt~8332744.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d795-yt~8332747.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119146"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3568,9 +2768,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d797-orbea~8332756.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d797-orbea~8332762.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119160"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3599,9 +2796,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d801-cannondale~8332774.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d801-cannondale~8332777.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119245"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3631,9 +2825,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d798-canyon-sram-udh~8332789.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d798-canyon-sram-udh~8332792.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119177"
-      },
       "tags": [
         "COMPONENTE",
         "Downhill",
@@ -3667,9 +2858,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d799-betta~8332798.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d799-betta~8332801.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119184"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3698,9 +2886,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d800-rocky-mountain~8332810.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d800-rocky-mountain~8332813.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119191"
-      },
       "tags": [
         "COMPONENTE",
         "MTB",
@@ -3734,9 +2919,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d802-whyte~8332819.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d802-whyte~8332822.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119276"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3762,9 +2944,6 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d803-bianchi~8332825.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119283"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3794,9 +2973,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d804-mondraker~8332837.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d804-mondraker~8332840.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119290"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3825,9 +3001,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d808-scott~8332849.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d808-scott~8332852.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119337"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3856,9 +3029,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d806-bh~8332861.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d806-bh~8332864.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119313"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3885,9 +3055,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d809-scott~8332867.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d809-scott~8332870.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119344"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3915,9 +3082,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d810-ghost~8332876.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d810-ghost~8332879.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119351"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3947,9 +3111,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d813-boardman~8332891.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d813-boardman~8332894.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119382"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -3978,9 +3139,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d814-boardman~8332903.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d814-boardman~8332906.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119399"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4008,9 +3166,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d818-decathlon~8332912.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d818-decathlon~8332915.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119436"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4038,9 +3193,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d816-ridley~8332921.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d816-ridley~8332924.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119412"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4067,9 +3219,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d819-vitus~8332927.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d819-vitus~8332930.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119443"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4097,9 +3246,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d820-isaac~8332936.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d820-isaac~8332939.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119450"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4127,9 +3273,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d821-kestrel~8332945.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d821-kestrel~8332948.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119467"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4157,9 +3300,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d822-giant~8332954.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d822-giant~8332957.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119474"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4187,9 +3327,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d823-koga~8332963.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d823-koga~8332966.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119481"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4217,9 +3354,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d825-orbea~8332972.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d825-orbea~8332975.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119504"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4247,9 +3381,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d828-stevens~8332981.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d828-stevens~8332984.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119535"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4277,9 +3408,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d827-diamondback~8332990.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d827-diamondback~8332993.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119528"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4307,9 +3435,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d829-orbea~8332999.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d829-orbea~8333002.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119542"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4336,9 +3461,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d831-isaac~8333005.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d831-isaac~8333008.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119863"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4365,9 +3487,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d832-canyon~8333011.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d832-canyon~8333014.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119870"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4395,9 +3514,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d833-kuota~8333020.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d833-kuota~8333023.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119887"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4425,9 +3541,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d834-bulls~8333029.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d834-bulls~8333032.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119894"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4455,9 +3568,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d835-scott~8333038.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d835-scott~8333041.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119900"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4485,9 +3595,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d836-norco~8333047.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d836-norco~8333050.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119917"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4514,9 +3621,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d837-mondraker~8333053.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d837-mondraker~8333056.jpg"
       ],
-      "attributes": {
-        "ean": "7290107119924"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4544,9 +3648,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d839-cannondale~8333062.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d839-cannondale~8333065.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594186"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4574,9 +3675,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d838-lapierre~8333071.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d838-lapierre~8333074.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594179"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4604,9 +3702,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d840-orbea~8333080.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d840-orbea~8333083.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594193"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4634,9 +3729,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d841-scott~8333089.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d841-scott~8333092.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594209"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4664,9 +3756,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d842-colnago~8333098.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d842-colnago~8333101.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594216"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4694,9 +3783,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d843-bmc~8333107.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d843-bmc~8333110.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594223"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4724,9 +3810,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d844-cannondale~8333116.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d844-cannondale~8333119.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594230"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4754,9 +3837,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d845-fuji~8333125.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d845-fuji~8333128.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594247"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4783,9 +3863,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d846-cube~8333134.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d846-cube~8333137.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594254"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4813,9 +3890,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d849-fondriest~8333143.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d849-fondriest~8333146.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594285"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4843,9 +3917,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d847-gt~8333152.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d847-gt~8333155.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594261"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4873,9 +3944,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d848-decathlon~8333164.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d848-decathlon~8333167.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594278"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4902,9 +3970,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d855-santa-cruz~8333173.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d855-santa-cruz~8333176.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594346"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4932,9 +3997,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d854-santa-cruz~8333182.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d854-santa-cruz~8333185.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594339"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4962,9 +4024,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d850-mondraker~8333191.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d850-mondraker~8333194.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594292"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -4992,9 +4051,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d852-diamondback~8333200.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d852-diamondback~8333203.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594315"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5022,9 +4078,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d853-husqvarna~8333209.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d853-husqvarna~8333212.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594322"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5052,9 +4105,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d857-mondraker~8333218.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d857-mondraker~8333221.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594360"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5082,9 +4132,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d858-look~8333227.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d858-look~8333230.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594377"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5112,9 +4159,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d863-diamondback~8333236.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d863-diamondback~8333239.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594421"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5142,9 +4186,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d861-cannondale~8333245.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d861-cannondale~8333248.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594407"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5172,9 +4213,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d864-santa-cruz~8333254.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d864-santa-cruz~8333257.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594438"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5202,9 +4240,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d860-cube~8333263.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d860-cube~8333266.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594391"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5232,9 +4267,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d862-mondraker~8333272.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d862-mondraker~8333275.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594414"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5262,9 +4294,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d865-diamondback~8333281.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d865-diamondback~8333284.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594445"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5292,9 +4321,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d866-de-rosa~8333290.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d866-de-rosa~8333293.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594452"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5322,9 +4348,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d659-apache~8333299.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d659-apache~8333302.jpg"
       ],
-      "attributes": {
-        "ean": "7290107118361"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5353,9 +4376,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d859-trek~8333311.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d859-trek~8333314.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594384"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5383,9 +4403,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d868-mondraker~8333320.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d868-mondraker~8333323.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594476"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5413,9 +4430,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d870-colnago~8333329.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d870-colnago~8333332.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594490"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5443,9 +4457,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d871-colnago~8333338.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d871-colnago~8333341.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594506"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5473,9 +4484,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d873-ghost~8333347.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d873-ghost~8333350.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594520"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5503,9 +4511,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d874-ghost~8333356.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d874-ghost~8333359.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594537"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5533,9 +4538,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d875-motobecane~8333365.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d875-motobecane~8333368.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594544"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5563,9 +4565,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d872-orbea~8333374.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d872-orbea~8333377.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594513"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5593,9 +4592,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d869-merida~8333383.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d869-merida~8333386.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594483"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5623,9 +4619,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d880-cannondale~8333392.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d880-cannondale~8333395.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594599"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5653,9 +4646,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d876-bianchi~8333401.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d876-bianchi~8333404.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594551"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5683,9 +4673,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d877-jamis~8333410.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d877-jamis~8333413.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594568"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5713,9 +4700,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d882-norco~8333419.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d882-norco~8333422.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594612"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5742,9 +4726,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d886-wilier~8333428.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d886-wilier~8333431.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594650"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5772,9 +4753,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d890-brodie~8333437.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d890-brodie~8333440.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594698"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5802,9 +4780,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d885-norco~8333446.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d885-norco~8333449.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594643"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5832,9 +4807,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d887-wilier~8333455.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d887-wilier~8333458.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594667"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5862,9 +4834,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d883-norco~8333464.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d883-norco~8333467.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594629"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5891,9 +4860,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d878-bombtrack~8333470.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d878-bombtrack~8333473.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594575"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5921,9 +4887,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d888-simplon~8333479.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d888-simplon~8333482.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594674"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5951,9 +4914,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d891-bottecchia-haro-khs-ribble~8333488.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d891-bottecchia-haro-khs-ribble~8333491.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594704"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -5981,9 +4941,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d893-corratec~8333497.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d893-corratec~8333500.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594728"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6011,9 +4968,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d894-specialized~8333506.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d894-specialized~8333509.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594735"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6041,9 +4995,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d895-de-rosa~8333515.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d895-de-rosa~8333518.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594742"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6071,9 +5022,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d897-sensa~8333524.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d897-sensa~8333527.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594766"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6101,9 +5049,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d896-basso~8333533.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d896-basso~8333536.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594759"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6132,9 +5077,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d879-orbea~8333545.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d879-orbea~8333548.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594582"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6162,9 +5104,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d901-jamis~8333554.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d901-jamis~8333557.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594803"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6192,9 +5131,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d899-haro~8333563.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d899-haro~8333566.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594780"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6222,9 +5158,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d900-morrison~8333572.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d900-morrison~8333575.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594797"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6252,9 +5185,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d902-s1neo~8333581.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d902-s1neo~8333584.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594810"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6282,9 +5212,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d903-blue~8333590.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d903-blue~8333593.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594827"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6315,9 +5242,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d904-sunn~8333599.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d904-sunn~8333602.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594834"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6345,9 +5269,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d907-jamis~8333608.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d907-jamis~8333611.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594865"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6375,9 +5296,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d905-gt~8333617.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d905-gt~8333620.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594841"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6405,9 +5323,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d908-3t~8333626.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d908-3t~8333629.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594872"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6435,9 +5350,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d910-bianchi~8333635.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d910-bianchi~8333638.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594896"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6465,9 +5377,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d909-3t~8333644.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d909-3t~8333647.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594889"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6495,9 +5404,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d912-bottecchia~8333653.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d912-bottecchia~8333656.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594919"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6525,9 +5431,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d914-colnago~8333662.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d914-colnago~8333665.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594933"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6555,9 +5458,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d913-look~8333677.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d913-look~8333680.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594926"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6585,9 +5485,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d915-centurion~8333686.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d915-centurion~8333689.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594940"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6615,9 +5512,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d911-khs~8333695.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d911-khs~8333698.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594902"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6647,9 +5541,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d906-9zero7~8333710.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d906-9zero7~8333713.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594858"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6677,9 +5568,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d917-wilier~8333719.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d917-wilier~8333722.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594964"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6707,9 +5595,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d920-bombtrack~8333728.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d920-bombtrack~8333731.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594995"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6737,9 +5622,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d916-jamis~8333737.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d916-jamis~8333740.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594957"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6768,9 +5650,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d918-bombtrack~8333749.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d918-bombtrack~8333752.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594971"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6798,9 +5677,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d921-trinx~8333758.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d921-trinx~8333761.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595008"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6829,9 +5705,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d926-509-cycles~8333770.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d926-509-cycles~8333773.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595053"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6860,9 +5733,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d927-jamis~8333782.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d927-jamis~8333785.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595060"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6891,9 +5761,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d922-simplon~8333794.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d922-simplon~8333797.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595015"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6921,9 +5788,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d924-bergamont~8333803.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d924-bergamont~8333806.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595039"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6951,9 +5815,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d925-sunn~8333812.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d925-sunn~8333815.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595046"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -6981,9 +5842,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d928-simplon~8333821.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d928-simplon~8333824.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595077"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7011,9 +5869,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d919-trek~8333830.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d919-trek~8333833.jpg"
       ],
-      "attributes": {
-        "ean": "7290117594988"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7041,9 +5896,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d930-simplon~8333839.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d930-simplon~8333842.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595091"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7072,9 +5924,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d931-trek~8333851.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d931-trek~8333854.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595107"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7102,9 +5951,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d923-motobecane~8333860.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d923-motobecane~8333863.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595022"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7132,9 +5978,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d929-lapierre~8333869.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d929-lapierre~8333872.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595084"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7163,9 +6006,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d932-specialized~8333881.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d932-specialized~8333884.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595114"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7193,9 +6033,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d934-salsa~8333890.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d934-salsa~8333893.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595138"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7224,9 +6061,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d935-commencal~8333902.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d935-commencal~8333905.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595145"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7256,9 +6090,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d936-cannondale~8333917.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d936-cannondale~8333920.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595152"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7288,9 +6119,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d933-commencal~8333932.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d933-commencal~8333935.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595121"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7318,9 +6146,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d938-lapierre~8333941.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d938-lapierre~8333944.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595176"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7349,9 +6174,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d942-kestrel~8333953.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d942-kestrel~8333956.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595213"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7379,9 +6201,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d939-trek~8333962.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d939-trek~8333965.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595183"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7410,9 +6229,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d944-dartmoor~8333974.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d944-dartmoor~8333977.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595237"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7440,9 +6256,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d943-orbea~8333983.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d943-orbea~8333986.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595220"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7471,9 +6284,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d946-santa-cruz~8333995.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d946-santa-cruz~8333998.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595251"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7502,9 +6312,6 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d937-vitus~8334007.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d937-vitus~8334010.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595169"
-      },
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -7533,9 +6340,474 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d941-argon-18~8334019.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d941-argon-18~8334022.jpg"
       ],
-      "attributes": {
-        "ean": "7290117595206"
-      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D948",
+      "sku": "D948",
+      "ean": "7290117595275",
+      "name": "Ureche Cadru PILO D948 Fuji",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 155.0,
+      "price_net": 128.1,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d948-fuji.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d948-fuji~8334025.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d948-fuji~8334025.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d948-fuji~8334028.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d948-fuji~8334031.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d948-fuji~8334034.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D949",
+      "sku": "D949",
+      "ean": "7290117595282",
+      "name": "Ureche Cadru PILO D949 Open",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 160.0,
+      "price_net": 132.23,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d949-open.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d949-open~8334037.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d949-open~8334037.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d949-open~8334040.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d949-open~8334043.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D952",
+      "sku": "D952",
+      "ean": "7290117595312",
+      "name": "Ureche Cadru PILO D952 Isaac",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 137.0,
+      "price_net": 113.22,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d952-isaac.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d952-isaac~8334046.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d952-isaac~8334046.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d952-isaac~8334049.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d952-isaac~8334052.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d952-isaac~8334055.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D950",
+      "sku": "D950",
+      "ean": "7290117595299",
+      "name": "Ureche Cadru PILO D950 Author",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 155.0,
+      "price_net": 128.1,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d950-author.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d950-author~8334058.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d950-author~8334058.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d950-author~8334061.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d950-author~8334064.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D953",
+      "sku": "D953",
+      "ean": "7290117595329",
+      "name": "Ureche Cadru PILO D953 Kona",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 155.0,
+      "price_net": 128.1,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d953-kona.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d953-kona~8334067.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d953-kona~8334067.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d953-kona~8334070.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d953-kona~8334073.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d953-kona~8334076.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D954",
+      "sku": "D954",
+      "ean": "7290117595336",
+      "name": "Ureche Cadru PILO D954 Kona",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 155.0,
+      "price_net": 128.1,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d954-kona.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d954-kona~8334079.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d954-kona~8334079.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d954-kona~8334082.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d954-kona~8334085.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d954-kona~8334088.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D955",
+      "sku": "D955",
+      "ean": "7290117595343",
+      "name": "Ureche Cadru PILO D955 Bianchi",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 199.0,
+      "price_net": 164.46,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d955-bianchi.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d955-bianchi~8334091.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d955-bianchi~8334091.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d955-bianchi~8334094.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d955-bianchi~8334097.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D956",
+      "sku": "D956",
+      "ean": "7290117595350",
+      "name": "Ureche Cadru PILO D956 Bulls",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 155.0,
+      "price_net": 128.1,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d956-bulls.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d956-bulls~8334100.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d956-bulls~8334100.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d956-bulls~8334103.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d956-bulls~8334106.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D957",
+      "sku": "D957",
+      "ean": "7290117595367",
+      "name": "Ureche Cadru PILO D957 Decathlon",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 199.0,
+      "price_net": 164.46,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d957-decathlon.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d957-decathlon~8334109.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d957-decathlon~8334109.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d957-decathlon~8334112.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d957-decathlon~8334115.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D958",
+      "sku": "D958",
+      "ean": "7290117595374",
+      "name": "Ureche Cadru PILO D958 Diamondback",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 139.0,
+      "price_net": 114.88,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d958-diamondback.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d958-diamondback~8334118.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d958-diamondback~8334118.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d958-diamondback~8334121.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d958-diamondback~8334124.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D959",
+      "sku": "D959",
+      "ean": "7290117595381",
+      "name": "Ureche Cadru PILO D959 Stevens",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 155.0,
+      "price_net": 128.1,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d959-stevens.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d959-stevens~8334127.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d959-stevens~8334127.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d959-stevens~8334130.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d959-stevens~8334133.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D960",
+      "sku": "D960",
+      "ean": "7290117595398",
+      "name": "Ureche Cadru PILO D960 Rivette",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 139.0,
+      "price_net": 114.88,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d960-rivette.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d960-rivette~8334136.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d960-rivette~8334136.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d960-rivette~8334139.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d960-rivette~8334142.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D1094",
+      "sku": "D1094",
+      "name": "Ureche Cadru PILO D1094 Motobecane, Vitus",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 150.0,
+      "price_net": 123.97,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1094-motobecane-vitus.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1094-motobecane-vitus~8334145.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1094-motobecane-vitus~8334145.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1094-motobecane-vitus~8334148.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1094-motobecane-vitus~8334151.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d1094-motobecane-vitus~8334154.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D951",
+      "sku": "D951",
+      "ean": "7290117595305",
+      "name": "Ureche Cadru PILO D951 Scott",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 155.0,
+      "price_net": 128.1,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d951-scott.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d951-scott~8334157.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d951-scott~8334157.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d951-scott~8334160.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d951-scott~8334163.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d951-scott~8334166.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D962",
+      "sku": "D962",
+      "ean": "7290117595411",
+      "name": "Ureche Cadru PILO D962 Cervelo",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 155.0,
+      "price_net": 128.1,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d962-cervelo.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d962-cervelo~8334169.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d962-cervelo~8334169.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d962-cervelo~8334172.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d962-cervelo~8334175.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d962-cervelo~8334178.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d962-cervelo~8334181.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D964",
+      "sku": "D964",
+      "ean": "7290117595435",
+      "name": "Ureche Cadru PILO D964 BiXS",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 155.0,
+      "price_net": 128.1,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d964-bixs.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d964-bixs~8334184.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d964-bixs~8334184.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d964-bixs~8334187.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d964-bixs~8334190.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d964-bixs~8334193.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d964-bixs~8334196.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D961",
+      "sku": "D961",
+      "ean": "7290117595404",
+      "name": "Ureche Cadru PILO D961 De Rosa",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "price": 199.0,
+      "price_net": 164.46,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d961-de-rosa.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d961-de-rosa~8334199.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d961-de-rosa~8334199.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d961-de-rosa~8334202.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d961-de-rosa~8334205.jpg"
+      ],
       "tags": [
         "COMPONENTE",
         "PILO",
@@ -8196,13 +7468,6 @@
       "in_stock_count": 8
     },
     {
-      "id": "none",
-      "name": "None",
-      "full_path": "None",
-      "product_count": 149,
-      "in_stock_count": 119
-    },
-    {
       "id": "ochelari-ciclism",
       "name": "Ochelari Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > Ochelari Ciclism",
@@ -8607,20 +7872,12 @@
       "full_path": "e- MOBILITY",
       "product_count": 1,
       "in_stock_count": 0
-    },
-    {
-      "id": "",
-      "name": "🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆",
-      "full_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta > 🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆",
-      "product_count": 21,
-      "in_stock_count": 14
     }
   ],
   "brands": [
     "AN LUN",
     "AUTHOR",
     "BAFANG",
-    "BELELLI",
     "BETO",
     "BROSE",
     "CST",
@@ -8636,7 +7893,6 @@
     "MOON",
     "NECO",
     "NOVATEC",
-    "None",
     "PILO",
     "PROMAX",
     "SAMOX",

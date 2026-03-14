@@ -92,6 +92,8 @@ def parse_feed(xlsx_data):
 
         # Parse category hierarchy
         cat_raw = str(row_dict.get("Categorie principala", "")).strip()
+        if cat_raw in ("nan", "None", ""):
+            cat_raw = ""
         main_category = _parse_category(cat_raw)
 
         # Collect secondary categories
@@ -102,8 +104,10 @@ def parse_feed(xlsx_data):
                 secondary_cats.append(str(sec).strip())
 
         # Track categories
-        if main_category:
+        if main_category and main_category not in ("None", ""):
             cat_id = _slugify(main_category)
+            if not cat_id:
+                continue
             if cat_id not in categories_map:
                 categories_map[cat_id] = {
                     "id": cat_id,
@@ -118,10 +122,10 @@ def parse_feed(xlsx_data):
 
         # Parse brand/manufacturer
         brand = str(row_dict.get("Producator", "")).strip()
-        if brand and brand != "nan":
+        if brand and brand not in ("nan", "None", ""):
             brands_set.add(brand)
         else:
-            brand = "Unknown"
+            brand = None
 
         # Parse images
         main_image = str(row_dict.get("URL imagine principala", "")).strip()
@@ -138,15 +142,19 @@ def parse_feed(xlsx_data):
         # Parse weight
         weight = _parse_float(row_dict.get("Greutate produs", 0))
 
+        # Parse EAN - clean "None"/"nan" values
+        ean_raw = str(row_dict.get("Cod EAN", "")).strip()
+        ean = ean_raw if ean_raw not in ("", "nan", "None", "0") else None
+
         # Build product object
         product = {
             "id": sku,
             "sku": sku,
-            "ean": str(row_dict.get("Cod EAN", "")).strip(),
+            "ean": ean,
             "name": name,
             "brand": brand,
             "category": main_category,
-            "category_path": cat_raw,
+            "category_path": cat_raw if cat_raw else None,
             "secondary_categories": secondary_cats if secondary_cats else None,
             "price": price,
             "price_net": price_net,
@@ -157,9 +165,6 @@ def parse_feed(xlsx_data):
             "url": f"{BIKESTYLISH_BASE_URL}/{_slugify(name)}.html",
             "image": main_image if main_image != "nan" else None,
             "images": images if images else None,
-            "attributes": {
-                "ean": str(row_dict.get("Cod EAN", "")).strip(),
-            },
         }
 
         # Remove None values to keep JSON clean
@@ -552,7 +557,7 @@ def _enrich_product(product):
             specs["thread"] = '1/2"'
 
     # Add brand as tag
-    if brand and brand != "Unknown" and brand != "None":
+    if brand and brand not in ("Unknown", "None", ""):
         tags.add(brand)
 
     # Add category as tag
@@ -596,10 +601,11 @@ def _parse_int(val):
 
 def _parse_category(cat_path):
     """Extract the most specific category from 'COMPONENTE > Anvelope - Camere > Anvelope pe Sarma'."""
-    if not cat_path or cat_path == "nan":
-        return "Fara categorie"
+    if not cat_path or cat_path in ("nan", "None", ""):
+        return None
     parts = [p.strip() for p in cat_path.split(">")]
-    return parts[-1] if parts else "Fara categorie"
+    result = parts[-1] if parts else None
+    return result if result else None
 
 
 def _slugify(text):
