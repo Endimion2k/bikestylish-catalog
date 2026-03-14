@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T13:32:10.764943+00:00",
+  "last_updated": "2026-03-14T13:54:43.724283+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -33,6 +33,15 @@
       ],
       "attributes": {
         "ean": "2800041000001"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Sei"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "260 x 184"
       }
     },
     {
@@ -59,6 +68,14 @@
       ],
       "attributes": {
         "ean": "2800568000003"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Sei"
+      ],
+      "specs": {
+        "dimensions": "260 x 186"
       }
     },
     {
@@ -85,6 +102,18 @@
       ],
       "attributes": {
         "ean": "2800571000007"
+      },
+      "tags": [
+        "COMPONENTE",
+        "City/Trekking",
+        "M-WAVE",
+        "Sei"
+      ],
+      "specs": {
+        "bike_type": [
+          "City/Trekking"
+        ],
+        "dimensions": "291 x 276"
       }
     },
     {
@@ -111,7 +140,12 @@
       ],
       "attributes": {
         "ean": "2800978000006"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Sei",
+        "VENTURA"
+      ]
     },
     {
       "id": "251042",
@@ -137,6 +171,15 @@
       ],
       "attributes": {
         "ean": "2800037000008"
+      },
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "Sei"
+      ],
+      "specs": {
+        "color": "Alb",
+        "dimensions": "276 x 152"
       }
     },
     {
@@ -163,7 +206,12 @@
       ],
       "attributes": {
         "ean": "2801063000000"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Sei",
+        "VENTURA"
+      ]
     },
     {
       "id": "250986",
@@ -187,6 +235,14 @@
       ],
       "attributes": {
         "ean": "887539016159"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Coliere Tija Sa",
+        "M-WAVE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -211,6 +267,14 @@
       ],
       "attributes": {
         "ean": "887539016173"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Coliere Tija Sa",
+        "M-WAVE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -235,6 +299,14 @@
       ],
       "attributes": {
         "ean": "887539016166"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Coliere Tija Sa",
+        "M-WAVE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -260,7 +332,12 @@
       ],
       "attributes": {
         "ean": "4015493892786"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Coliere Tija Sa",
+        "M-WAVE"
+      ]
     },
     {
       "id": "252427",
@@ -284,6 +361,14 @@
       ],
       "attributes": {
         "ean": "2800971000003"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Tije Sa"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -307,6 +392,14 @@
       ],
       "attributes": {
         "ean": "2801066000007"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Tije Sa"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -330,6 +423,14 @@
       ],
       "attributes": {
         "ean": "2801067000006"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Tije Sa"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -353,7 +454,12 @@
       ],
       "attributes": {
         "ean": "2800045000007"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "Tije Sa"
+      ]
     },
     {
       "id": "270070",
@@ -382,7 +488,12 @@
       ],
       "attributes": {
         "ean": "887539025878"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "Oglinzi"
+      ]
     },
     {
       "id": "SPN14",
@@ -404,6 +515,14 @@
       ],
       "attributes": {
         "ean": "2801072000008"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Nipluri - Accesorii",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -427,6 +546,14 @@
       ],
       "attributes": {
         "ean": "887539006761"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Nipluri - Accesorii",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -451,6 +578,16 @@
       ],
       "attributes": {
         "ean": "887539006280"
+      },
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "Nipluri - Accesorii",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Negru"
       }
     },
     {
@@ -474,6 +611,14 @@
       ],
       "attributes": {
         "ean": "2800060000006"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Nipluri - Accesorii",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -497,6 +642,14 @@
       ],
       "attributes": {
         "ean": "2800007000007"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Nipluri - Accesorii",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -520,6 +673,14 @@
       ],
       "attributes": {
         "ean": "887539006136"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Nipluri - Accesorii",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -545,6 +706,15 @@
       ],
       "attributes": {
         "ean": "4715575890296"
+      },
+      "category_description": "Bicycle chains - by speed count (6-12 speed)",
+      "tags": [
+        "COMPONENTE",
+        "KMC",
+        "Lanturi"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -570,6 +740,17 @@
       ],
       "attributes": {
         "ean": "4715575894676"
+      },
+      "category_description": "Bicycle chains - by speed count (6-12 speed)",
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "KMC",
+        "Lanturi"
+      ],
+      "specs": {
+        "color": "Silver",
+        "speeds": 12
       }
     },
     {
@@ -594,6 +775,17 @@
       ],
       "attributes": {
         "ean": "4715575894652"
+      },
+      "category_description": "Bicycle chains - by speed count (6-12 speed)",
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "KMC",
+        "Lanturi"
+      ],
+      "specs": {
+        "color": "Gold",
+        "speeds": 12
       }
     },
     {
@@ -621,6 +813,14 @@
       ],
       "attributes": {
         "ean": "4715575890180"
+      },
+      "tags": [
+        "COMPONENTE",
+        "KMC",
+        "Lanturi - Componente"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -644,7 +844,12 @@
       ],
       "attributes": {
         "ean": "2800017000004"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "303531",
@@ -668,6 +873,15 @@
       ],
       "attributes": {
         "ean": "4715575890227"
+      },
+      "category_description": "Bicycle chains - by speed count (6-12 speed)",
+      "tags": [
+        "COMPONENTE",
+        "KMC",
+        "Lanturi"
+      ],
+      "specs": {
+        "color": "Gold"
       }
     },
     {
@@ -693,6 +907,15 @@
       ],
       "attributes": {
         "ean": "4715575890364"
+      },
+      "category_description": "Bicycle chains - by speed count (6-12 speed)",
+      "tags": [
+        "COMPONENTE",
+        "KMC",
+        "Lanturi"
+      ],
+      "specs": {
+        "color": "Gold"
       }
     },
     {
@@ -717,6 +940,14 @@
       ],
       "attributes": {
         "ean": "887539000790"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Protectii Lant - Cadru",
+        "VELO"
+      ],
+      "specs": {
+        "dimensions": "260 x 100-130"
       }
     },
     {
@@ -740,6 +971,15 @@
       ],
       "attributes": {
         "ean": "2801951000006"
+      },
+      "category_description": "Bicycle chains - by speed count (6-12 speed)",
+      "tags": [
+        "COMPONENTE",
+        "KMC",
+        "Lanturi"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -769,6 +1009,17 @@
       ],
       "attributes": {
         "ean": "887539025786"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Pedale Platforma",
+        "Titan"
+      ],
+      "specs": {
+        "material": "Titan",
+        "color": "Grey",
+        "dimensions": "91 x 96"
       }
     },
     {
@@ -794,7 +1045,12 @@
       ],
       "attributes": {
         "ean": "4712947523486"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "EXUSTAR",
+        "Pedale Duble"
+      ]
     },
     {
       "id": "311346",
@@ -819,6 +1075,20 @@
       ],
       "attributes": {
         "ean": "4015493310815"
+      },
+      "tags": [
+        "Aluminiu",
+        "BMX",
+        "COMPONENTE",
+        "EXUSTAR",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "bike_type": [
+          "BMX"
+        ],
+        "material": "Aluminiu",
+        "color": "Negru"
       }
     },
     {
@@ -845,6 +1115,20 @@
       ],
       "attributes": {
         "ean": "4015493310938"
+      },
+      "tags": [
+        "Aluminiu",
+        "BMX",
+        "COMPONENTE",
+        "EXUSTAR",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "bike_type": [
+          "BMX"
+        ],
+        "material": "Aluminiu",
+        "color": "Alb"
       }
     },
     {
@@ -870,6 +1154,17 @@
       ],
       "attributes": {
         "ean": "4015493310129"
+      },
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "M-WAVE",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Negru",
+        "dimensions": "63 x 82"
       }
     },
     {
@@ -895,7 +1190,12 @@
       ],
       "attributes": {
         "ean": "887539004392"
-      }
+      },
+      "tags": [
+        "Accesorii Pedale",
+        "COMPONENTE",
+        "EXUSTAR"
+      ]
     },
     {
       "id": "311124",
@@ -918,6 +1218,16 @@
       ],
       "attributes": {
         "ean": "2802236000001"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Pedale Platforma",
+        "Plastic",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Negru"
       }
     },
     {
@@ -941,6 +1251,15 @@
       ],
       "attributes": {
         "ean": "2800074000009"
+      },
+      "tags": [
+        "Aluminiu",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Aluminiu"
       }
     },
     {
@@ -964,6 +1283,15 @@
       ],
       "attributes": {
         "ean": "2800076000007"
+      },
+      "tags": [
+        "11 viteze",
+        "Butuci V-Break - Dinam",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "speeds": 11
       }
     },
     {
@@ -987,7 +1315,12 @@
       ],
       "attributes": {
         "ean": "2800896000003"
-      }
+      },
+      "tags": [
+        "Butuci V-Break - Dinam",
+        "COMPONENTE",
+        "NOVATEC"
+      ]
     },
     {
       "id": "321087",
@@ -1010,6 +1343,14 @@
       ],
       "attributes": {
         "ean": "2800078000005"
+      },
+      "tags": [
+        "Axe - Accesorii Butuci",
+        "COMPONENTE",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -1032,7 +1373,12 @@
       ],
       "attributes": {
         "ean": "2800080000000"
-      }
+      },
+      "tags": [
+        "Axe - Accesorii Butuci",
+        "COMPONENTE",
+        "NOVATEC"
+      ]
     },
     {
       "id": "327015",
@@ -1054,7 +1400,12 @@
       ],
       "attributes": {
         "ean": "2800901000004"
-      }
+      },
+      "tags": [
+        "Axe - Accesorii Butuci",
+        "COMPONENTE",
+        "NOVATEC"
+      ]
     },
     {
       "id": "HTAN01P",
@@ -1078,6 +1429,14 @@
       ],
       "attributes": {
         "ean": "4711126201634"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Purple"
       }
     },
     {
@@ -1102,6 +1461,14 @@
       ],
       "attributes": {
         "ean": "4715872486635"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -1126,6 +1493,14 @@
       ],
       "attributes": {
         "ean": "4715872486642"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Alb"
       }
     },
     {
@@ -1149,6 +1524,14 @@
       ],
       "attributes": {
         "ean": "4715872481753"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Alb"
       }
     },
     {
@@ -1172,6 +1555,14 @@
       ],
       "attributes": {
         "ean": "4715872481784"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Alb"
       }
     },
     {
@@ -1195,6 +1586,14 @@
       ],
       "attributes": {
         "ean": "4715872483719"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Mov"
       }
     },
     {
@@ -1218,6 +1617,14 @@
       ],
       "attributes": {
         "ean": "4715872481746"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Roz"
       }
     },
     {
@@ -1240,7 +1647,12 @@
       ],
       "attributes": {
         "ean": "2800918000004"
-      }
+      },
+      "tags": [
+        "Axe - Accesorii Butuci",
+        "COMPONENTE",
+        "NOVATEC"
+      ]
     },
     {
       "id": "326392",
@@ -1263,6 +1675,15 @@
       ],
       "attributes": {
         "ean": "4719871442814"
+      },
+      "tags": [
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "Carbon",
+        "NOVATEC"
+      ],
+      "specs": {
+        "material": "Carbon"
       }
     },
     {
@@ -1286,6 +1707,15 @@
       ],
       "attributes": {
         "ean": "4719871442791"
+      },
+      "tags": [
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "Carbon",
+        "NOVATEC"
+      ],
+      "specs": {
+        "material": "Carbon"
       }
     },
     {
@@ -1310,7 +1740,12 @@
       ],
       "attributes": {
         "ean": "2800085000005"
-      }
+      },
+      "tags": [
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ]
     },
     {
       "id": "325132",
@@ -1333,6 +1768,14 @@
       ],
       "attributes": {
         "ean": "2800095000002"
+      },
+      "tags": [
+        "Butuci V-Break - Dinam",
+        "COMPONENTE",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -1357,6 +1800,17 @@
       ],
       "attributes": {
         "ean": "2801087000000"
+      },
+      "tags": [
+        "Butuci V-Break - Dinam",
+        "COMPONENTE",
+        "Fixie",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "Fixie"
+        ]
       }
     },
     {
@@ -1379,6 +1833,17 @@
       ],
       "attributes": {
         "ean": "2801088000009"
+      },
+      "tags": [
+        "Butuci V-Break - Dinam",
+        "COMPONENTE",
+        "Fixie",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "Fixie"
+        ]
       }
     },
     {
@@ -1404,7 +1869,12 @@
       ],
       "attributes": {
         "ean": "887539000066"
-      }
+      },
+      "tags": [
+        "Axe - Accesorii Butuci",
+        "COMPONENTE",
+        "NOVATEC"
+      ]
     },
     {
       "id": "321028",
@@ -1426,6 +1896,14 @@
       ],
       "attributes": {
         "ean": "2800928000001"
+      },
+      "tags": [
+        "Axe - Accesorii Butuci",
+        "COMPONENTE",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -1452,6 +1930,16 @@
       ],
       "attributes": {
         "ean": "887539023232"
+      },
+      "tags": [
+        "ACCESORII",
+        "Bidoane Ciclism",
+        "M-WAVE",
+        "Plastic"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Alb"
       }
     },
     {
@@ -1476,7 +1964,12 @@
       ],
       "attributes": {
         "ean": "2800102000001"
-      }
+      },
+      "tags": [
+        "Aparatori Angrenaj - Accesorii",
+        "COMPONENTE",
+        "SXT"
+      ]
     },
     {
       "id": "352649",
@@ -1500,7 +1993,12 @@
       ],
       "attributes": {
         "ean": "2800840000004"
-      }
+      },
+      "tags": [
+        "Aparatori Angrenaj - Accesorii",
+        "COMPONENTE",
+        "SXT"
+      ]
     },
     {
       "id": "352730",
@@ -1527,6 +2025,14 @@
       ],
       "attributes": {
         "ean": "887539024482"
+      },
+      "tags": [
+        "Brate Angrenaje",
+        "COMPONENTE",
+        "M-WAVE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -1550,7 +2056,12 @@
       ],
       "attributes": {
         "ean": "887539022921"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Monobloace - B.B."
+      ]
     },
     {
       "id": "359456",
@@ -1573,7 +2084,12 @@
       ],
       "attributes": {
         "ean": "887539022976"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Monobloace - B.B."
+      ]
     },
     {
       "id": "359340",
@@ -1597,6 +2113,16 @@
       ],
       "attributes": {
         "ean": "2800823000007"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Monobloace - B.B.",
+        "NECO",
+        "Plastic"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Negru"
       }
     },
     {
@@ -1623,7 +2149,12 @@
       ],
       "attributes": {
         "ean": "887539023287"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "365901",
@@ -1646,7 +2177,12 @@
       ],
       "attributes": {
         "ean": "887539010799"
-      }
+      },
+      "tags": [
+        "Bike Maintenance - Intretinere",
+        "COMPONENTE",
+        "M-WAVE"
+      ]
     },
     {
       "id": "360649",
@@ -1670,7 +2206,12 @@
       ],
       "attributes": {
         "ean": "887539008093"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Frane Disc",
+        "PROMAX"
+      ]
     },
     {
       "id": "360533",
@@ -1694,7 +2235,12 @@
       ],
       "attributes": {
         "ean": "2801099000005"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Discuri - Rotoare",
+        "PROMAX"
+      ]
     },
     {
       "id": "360593",
@@ -1719,7 +2265,12 @@
       ],
       "attributes": {
         "ean": "4015493360575"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Discuri - Rotoare",
+        "PROMAX"
+      ]
     },
     {
       "id": "361850",
@@ -1744,7 +2295,12 @@
       ],
       "attributes": {
         "ean": "2801097000007"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Frane V - Break",
+        "PROMAX"
+      ]
     },
     {
       "id": "361020",
@@ -1768,6 +2324,14 @@
       ],
       "attributes": {
         "ean": "887539025694"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Saboti Frana"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -1793,7 +2357,12 @@
       ],
       "attributes": {
         "ean": "887539025724"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Saboti Frana"
+      ]
     },
     {
       "id": "361021",
@@ -1818,6 +2387,14 @@
       ],
       "attributes": {
         "ean": "887539025700"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Saboti Frana"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -1842,6 +2419,14 @@
       ],
       "attributes": {
         "ean": "4015493890218"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Frane V - Break",
+        "PROMAX"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -1867,6 +2452,14 @@
       ],
       "attributes": {
         "ean": "4015493890225"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Frane V - Break",
+        "PROMAX"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -1892,6 +2485,14 @@
       ],
       "attributes": {
         "ean": "4015493890201"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Frane V - Break",
+        "PROMAX"
+      ],
+      "specs": {
+        "color": "Alb"
       }
     },
     {
@@ -1916,7 +2517,13 @@
       ],
       "attributes": {
         "ean": "887539015336"
-      }
+      },
+      "category_description": "Disc brake pads - sintered or organic",
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Placute Frana Disc"
+      ]
     },
     {
       "id": "385072",
@@ -1941,6 +2548,14 @@
       ],
       "attributes": {
         "ean": "887539022532"
+      },
+      "tags": [
+        "ACCESORII",
+        "Aparatori Noroi Fata",
+        "M-WAVE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -1965,6 +2580,14 @@
       ],
       "attributes": {
         "ean": "887539013554"
+      },
+      "tags": [
+        "ACCESORII",
+        "Aparatori Noroi Fata",
+        "M-WAVE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -1989,6 +2612,14 @@
       ],
       "attributes": {
         "ean": "887539012427"
+      },
+      "tags": [
+        "ACCESORII",
+        "SXT",
+        "Seturi Aparatori Noroi"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -2014,6 +2645,14 @@
       ],
       "attributes": {
         "ean": "0664533242353"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Jante pentru Frane V-Brake",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Roz"
       }
     },
     {
@@ -2040,7 +2679,12 @@
       ],
       "attributes": {
         "ean": "887539006730"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Cuveti(HeadSet)",
+        "TANGE"
+      ]
     },
     {
       "id": "390347",
@@ -2066,6 +2710,14 @@
       ],
       "attributes": {
         "ean": "4015493390640"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Cuveti(HeadSet)",
+        "TANGE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -2092,6 +2744,14 @@
       ],
       "attributes": {
         "ean": "4015493390633"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Cuveti(HeadSet)",
+        "TANGE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -2117,6 +2777,14 @@
       ],
       "attributes": {
         "ean": "4015493390534"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Cuveti(HeadSet)",
+        "NECO"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -2141,6 +2809,14 @@
       ],
       "attributes": {
         "ean": "887539016920"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Cuveti(HeadSet)",
+        "M-WAVE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -2164,7 +2840,12 @@
       ],
       "attributes": {
         "ean": "2800746000009"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Rulmenti(HeadSet)",
+        "SXT"
+      ]
     },
     {
       "id": "390345",
@@ -2189,6 +2870,14 @@
       ],
       "attributes": {
         "ean": "887539006716"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Cuveti(HeadSet)",
+        "TANGE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -2212,6 +2901,21 @@
       ],
       "attributes": {
         "ean": "2800174000008"
+      },
+      "category_description": "Suspension and rigid forks",
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "Furci",
+        "Road",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "Road"
+        ],
+        "material": "Aluminiu",
+        "color": "Negru"
       }
     },
     {
@@ -2235,6 +2939,16 @@
       ],
       "attributes": {
         "ean": "2800738000000"
+      },
+      "category_description": "Suspension and rigid forks",
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "Furci",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Aluminiu"
       }
     },
     {
@@ -2258,6 +2972,21 @@
       ],
       "attributes": {
         "ean": "2800176000006"
+      },
+      "category_description": "Suspension and rigid forks",
+      "tags": [
+        "COMPONENTE",
+        "City/Trekking",
+        "Furci",
+        "Otel",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "City/Trekking"
+        ],
+        "material": "Otel",
+        "color": "Negru"
       }
     },
     {
@@ -2281,6 +3010,19 @@
       ],
       "attributes": {
         "ean": "2800731000007"
+      },
+      "category_description": "Suspension and rigid forks",
+      "tags": [
+        "COMPONENTE",
+        "Furci",
+        "MTB",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "color": "Negru"
       }
     },
     {
@@ -2304,6 +3046,19 @@
       ],
       "attributes": {
         "ean": "2800179000003"
+      },
+      "category_description": "Suspension and rigid forks",
+      "tags": [
+        "COMPONENTE",
+        "Furci",
+        "MTB",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "color": "Negru"
       }
     },
     {
@@ -2327,6 +3082,19 @@
       ],
       "attributes": {
         "ean": "887539014919"
+      },
+      "category_description": "Suspension and rigid forks",
+      "tags": [
+        "COMPONENTE",
+        "Furci",
+        "MTB",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "color": "Negru"
       }
     },
     {
@@ -2350,6 +3118,19 @@
       ],
       "attributes": {
         "ean": "2800729000002"
+      },
+      "category_description": "Suspension and rigid forks",
+      "tags": [
+        "BMX",
+        "COMPONENTE",
+        "Furci",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "BMX"
+        ],
+        "color": "Negru"
       }
     },
     {
@@ -2374,6 +3155,18 @@
       ],
       "attributes": {
         "ean": "887539020224"
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "COMPONENTE",
+        "Ghidoane",
+        "MTB",
+        "ZOOM"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ]
       }
     },
     {
@@ -2397,6 +3190,19 @@
       ],
       "attributes": {
         "ean": "887539020149"
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "COMPONENTE",
+        "Ghidoane",
+        "M-WAVE",
+        "MTB"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "color": "Silver"
       }
     },
     {
@@ -2420,6 +3226,18 @@
       ],
       "attributes": {
         "ean": "2800189000000"
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "COMPONENTE",
+        "Ghidoane",
+        "MTB",
+        "ZOOM"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ]
       }
     },
     {
@@ -2443,7 +3261,13 @@
       ],
       "attributes": {
         "ean": "2800721000000"
-      }
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "COMPONENTE",
+        "Ghidoane",
+        "ZOOM"
+      ]
     },
     {
       "id": "401225",
@@ -2466,6 +3290,15 @@
       ],
       "attributes": {
         "ean": "2800727000004"
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "COMPONENTE",
+        "Ghidoane",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -2492,7 +3325,13 @@
       ],
       "attributes": {
         "ean": "2800718000006"
-      }
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "COMPONENTE",
+        "Ghidoane",
+        "ZOOM"
+      ]
     },
     {
       "id": "403984",
@@ -2516,6 +3355,15 @@
       ],
       "attributes": {
         "ean": "2800725000006"
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "COMPONENTE",
+        "Ghidoane",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -2539,6 +3387,18 @@
       ],
       "attributes": {
         "ean": "2800722000009"
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "BMX",
+        "COMPONENTE",
+        "Ghidoane",
+        "PROMAX"
+      ],
+      "specs": {
+        "bike_type": [
+          "BMX"
+        ]
       }
     },
     {
@@ -2563,7 +3423,13 @@
       ],
       "attributes": {
         "ean": "4015493400592"
-      }
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "COMPONENTE",
+        "Ghidoane",
+        "TRANZ X"
+      ]
     },
     {
       "id": "404094",
@@ -2586,7 +3452,13 @@
       ],
       "attributes": {
         "ean": "2800709000008"
-      }
+      },
+      "category_description": "Stems - connect handlebars to steerer tube",
+      "tags": [
+        "COMPONENTE",
+        "Pipe Ghidon",
+        "SXT"
+      ]
     },
     {
       "id": "403432",
@@ -2608,7 +3480,13 @@
       ],
       "attributes": {
         "ean": "2800696000005"
-      }
+      },
+      "category_description": "Stems - connect handlebars to steerer tube",
+      "tags": [
+        "COMPONENTE",
+        "Pipe Ghidon",
+        "SXT"
+      ]
     },
     {
       "id": "404284",
@@ -2631,6 +3509,15 @@
       ],
       "attributes": {
         "ean": "2800695000006"
+      },
+      "category_description": "Stems - connect handlebars to steerer tube",
+      "tags": [
+        "COMPONENTE",
+        "Pipe Ghidon",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -2655,6 +3542,15 @@
       ],
       "attributes": {
         "ean": "887539023584"
+      },
+      "category_description": "Stems - connect handlebars to steerer tube",
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Pipe Ghidon"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -2679,7 +3575,13 @@
       ],
       "attributes": {
         "ean": "887539014575"
-      }
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "COMPONENTE",
+        "Ghidoane",
+        "M-WAVE"
+      ]
     },
     {
       "id": "410345",
@@ -2703,7 +3605,13 @@
       ],
       "attributes": {
         "ean": "4015493410485"
-      }
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "VELO"
+      ]
     },
     {
       "id": "410375",
@@ -2728,7 +3636,13 @@
       ],
       "attributes": {
         "ean": "4015493410393"
-      }
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "VELO"
+      ]
     },
     {
       "id": "410340",
@@ -2751,7 +3665,13 @@
       ],
       "attributes": {
         "ean": "4015493410850"
-      }
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "VELO"
+      ]
     },
     {
       "id": "410365",
@@ -2775,7 +3695,13 @@
       ],
       "attributes": {
         "ean": "4015493410126"
-      }
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "VELO"
+      ]
     },
     {
       "id": "410286",
@@ -2801,6 +3727,14 @@
       ],
       "attributes": {
         "ean": "4015493890294"
+      },
+      "tags": [
+        "Bar Tape - Accesorii",
+        "COMPONENTE",
+        "VELO"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -2824,7 +3758,13 @@
       ],
       "attributes": {
         "ean": "2800206000006"
-      }
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Mansoane"
+      ]
     },
     {
       "id": "410120",
@@ -2848,6 +3788,15 @@
       ],
       "attributes": {
         "ean": "887539025533"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -2873,7 +3822,13 @@
       ],
       "attributes": {
         "ean": "2800680000004"
-      }
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Mansoane"
+      ]
     },
     {
       "id": "410278",
@@ -2899,6 +3854,14 @@
       ],
       "attributes": {
         "ean": "2801956000001"
+      },
+      "tags": [
+        "Bar Tape - Accesorii",
+        "COMPONENTE",
+        "VELO"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -2924,7 +3887,13 @@
       ],
       "attributes": {
         "ean": "887539028015"
-      }
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Mansoane"
+      ]
     },
     {
       "id": "410125",
@@ -2947,7 +3916,13 @@
       ],
       "attributes": {
         "ean": "887539028237"
-      }
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "SXT"
+      ]
     },
     {
       "id": "420121",
@@ -2971,7 +3946,12 @@
       ],
       "attributes": {
         "ean": "887539002527"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "Sonerii"
+      ]
     },
     {
       "id": "420270",
@@ -2997,6 +3977,17 @@
       ],
       "attributes": {
         "ean": "4015493420309"
+      },
+      "tags": [
+        "ACCESORII",
+        "E-Bike",
+        "M-WAVE",
+        "Sonerii"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
       }
     },
     {
@@ -3020,7 +4011,12 @@
       ],
       "attributes": {
         "ean": "2800220000006"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "SXT",
+        "Sonerii"
+      ]
     },
     {
       "id": "430743",
@@ -3043,6 +4039,15 @@
       ],
       "attributes": {
         "ean": "2800229000007"
+      },
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "Cricuri Spate",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Aluminiu"
       }
     },
     {
@@ -3070,6 +4075,15 @@
       ],
       "attributes": {
         "ean": "887539025021"
+      },
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "Cricuri Mijloc",
+        "M-WAVE"
+      ],
+      "specs": {
+        "material": "Aluminiu"
       }
     },
     {
@@ -3094,6 +4108,15 @@
       ],
       "attributes": {
         "ean": "887539007546"
+      },
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "Cricuri Mijloc",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Aluminiu"
       }
     },
     {
@@ -3121,6 +4144,14 @@
       ],
       "attributes": {
         "ean": "887539000264"
+      },
+      "tags": [
+        "ACCESORII",
+        "Depozitare Biciclete",
+        "M-WAVE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3147,7 +4178,12 @@
       ],
       "attributes": {
         "ean": "887539022167"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Depozitare Biciclete",
+        "M-WAVE"
+      ]
     },
     {
       "id": "431650",
@@ -3173,7 +4209,12 @@
       ],
       "attributes": {
         "ean": "887539013714"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Cosuri Transport",
+        "M-WAVE"
+      ]
     },
     {
       "id": "431604",
@@ -3200,7 +4241,12 @@
       ],
       "attributes": {
         "ean": "887539013707"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Cosuri Transport Spate",
+        "M-WAVE"
+      ]
     },
     {
       "id": "431523",
@@ -3223,7 +4269,12 @@
       ],
       "attributes": {
         "ean": "887539001353"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Cosuri Transport Fata",
+        "VENTURA"
+      ]
     },
     {
       "id": "431593",
@@ -3248,7 +4299,12 @@
       ],
       "attributes": {
         "ean": "698238524681"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Cosuri Transport Spate",
+        "M-WAVE"
+      ]
     },
     {
       "id": "440199",
@@ -3271,6 +4327,15 @@
       ],
       "attributes": {
         "ean": "4015493890041"
+      },
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "M-WAVE",
+        "Portbagaje Spate"
+      ],
+      "specs": {
+        "material": "Aluminiu"
       }
     },
     {
@@ -3294,7 +4359,12 @@
       ],
       "attributes": {
         "ean": "2800257000000"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "AN LUN",
+        "Lumini Fata"
+      ]
     },
     {
       "id": "461651",
@@ -3321,6 +4391,17 @@
       ],
       "attributes": {
         "ean": "4715681141510"
+      },
+      "tags": [
+        "ACCESORII",
+        "E-Bike",
+        "Lumini Fata",
+        "SMART"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
       }
     },
     {
@@ -3344,7 +4425,12 @@
       ],
       "attributes": {
         "ean": "2800612000003"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "AN LUN",
+        "Lumini Fata"
+      ]
     },
     {
       "id": "466934",
@@ -3367,7 +4453,12 @@
       ],
       "attributes": {
         "ean": "4715681267043"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Lumini Spate",
+        "SMART"
+      ]
     },
     {
       "id": "466943",
@@ -3390,7 +4481,12 @@
       ],
       "attributes": {
         "ean": "887539005375"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "AN LUN",
+        "Lumini Spate"
+      ]
     },
     {
       "id": "460736",
@@ -3412,6 +4508,15 @@
       ],
       "attributes": {
         "ean": "2800253000004"
+      },
+      "tags": [
+        "ACCESORII",
+        "Accesorii Lumini",
+        "Otel",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Otel"
       }
     },
     {
@@ -3435,6 +4540,14 @@
       ],
       "attributes": {
         "ean": "2800613000002"
+      },
+      "tags": [
+        "ACCESORII",
+        "Accesorii Lumini",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3459,6 +4572,21 @@
       ],
       "attributes": {
         "ean": "4015493640219"
+      },
+      "tags": [
+        "20 inch",
+        "ACCESORII",
+        "Aluminiu",
+        "Copii",
+        "M-WAVE",
+        "👶 𝐓𝐫𝐚𝐧𝐬𝐩𝐨𝐫𝐭 𝐂𝐨𝐩𝐢𝐢"
+      ],
+      "specs": {
+        "wheel_size": "20",
+        "bike_type": [
+          "Copii"
+        ],
+        "material": "Aluminiu"
       }
     },
     {
@@ -3482,6 +4610,17 @@
       ],
       "attributes": {
         "ean": "2800596000006"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Cadre SSP - Fixie",
+        "Fixie",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "Fixie"
+        ]
       }
     },
     {
@@ -3506,7 +4645,12 @@
       ],
       "attributes": {
         "ean": "4015493470526"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "BETO",
+        "Mini Pompe"
+      ]
     },
     {
       "id": "470340",
@@ -3530,7 +4674,12 @@
       ],
       "attributes": {
         "ean": "4015493470441"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "BETO",
+        "Pompe Podea"
+      ]
     },
     {
       "id": "470325",
@@ -3553,7 +4702,12 @@
       ],
       "attributes": {
         "ean": "4015493470625"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "BETO",
+        "Pompe Podea"
+      ]
     },
     {
       "id": "470253",
@@ -3576,6 +4730,14 @@
       ],
       "attributes": {
         "ean": "4015493470144"
+      },
+      "tags": [
+        "ACCESORII",
+        "BETO",
+        "Pompe Podea"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -3603,7 +4765,12 @@
       ],
       "attributes": {
         "ean": "4015493470496"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "BETO",
+        "Pompe Podea"
+      ]
     },
     {
       "id": "479910",
@@ -3628,7 +4795,12 @@
       ],
       "attributes": {
         "ean": "887539007805"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "BETO",
+        "Cartuse CO2 - Accesorii Pompe"
+      ]
     },
     {
       "id": "470378",
@@ -3655,7 +4827,12 @@
       ],
       "attributes": {
         "ean": "887539028152"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Pompe Podea",
+        "VENTURA"
+      ]
     },
     {
       "id": "519400",
@@ -3680,7 +4857,12 @@
       ],
       "attributes": {
         "ean": "887539025922"
-      }
+      },
+      "tags": [
+        "Banda Janta - Tubeless",
+        "COMPONENTE",
+        "M-WAVE"
+      ]
     },
     {
       "id": "519947",
@@ -3706,6 +4888,16 @@
       ],
       "attributes": {
         "ean": "887539024765"
+      },
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "M-WAVE",
+        "🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Negru"
       }
     },
     {
@@ -3731,6 +4923,14 @@
       ],
       "attributes": {
         "ean": "2801117000000"
+      },
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆"
+      ],
+      "specs": {
+        "color": "Alb"
       }
     },
     {
@@ -3755,6 +4955,14 @@
       ],
       "attributes": {
         "ean": "887539000332"
+      },
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "Portbagaje"
+      ],
+      "specs": {
+        "dimensions": "600 x 13"
       }
     },
     {
@@ -3779,7 +4987,12 @@
       ],
       "attributes": {
         "ean": "887539021290"
-      }
+      },
+      "tags": [
+        "Bike Care - Ingrijire",
+        "COMPONENTE",
+        "M-WAVE"
+      ]
     },
     {
       "id": "880765",
@@ -3805,7 +5018,12 @@
       ],
       "attributes": {
         "ean": "887539021252"
-      }
+      },
+      "tags": [
+        "Bike Lube - Lubrefiere",
+        "COMPONENTE",
+        "M-WAVE"
+      ]
     },
     {
       "id": "881050",
@@ -3832,7 +5050,12 @@
       ],
       "attributes": {
         "ean": "2800243000007"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "880071",
@@ -3859,7 +5082,12 @@
       ],
       "attributes": {
         "ean": "4712765145013"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "880027",
@@ -3886,7 +5114,12 @@
       ],
       "attributes": {
         "ean": "4712765148274"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Truse Unelte - Mini Truse"
+      ]
     },
     {
       "id": "880029",
@@ -3913,7 +5146,12 @@
       ],
       "attributes": {
         "ean": "4712765143668"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Truse Unelte - Mini Truse"
+      ]
     },
     {
       "id": "881011",
@@ -3940,7 +5178,12 @@
       ],
       "attributes": {
         "ean": "4712765143729"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "881969",
@@ -3966,7 +5209,12 @@
       ],
       "attributes": {
         "ean": "4712765143538"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "880034",
@@ -3991,7 +5239,12 @@
       ],
       "attributes": {
         "ean": "4712765144085"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "881040",
@@ -4017,7 +5270,12 @@
       ],
       "attributes": {
         "ean": "4712765146836"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "880169",
@@ -4044,7 +5302,12 @@
       ],
       "attributes": {
         "ean": "4712765148465"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "881971",
@@ -4070,7 +5333,12 @@
       ],
       "attributes": {
         "ean": "4712765146584"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "881099",
@@ -4097,7 +5365,12 @@
       ],
       "attributes": {
         "ean": "190534008402"
-      }
+      },
+      "tags": [
+        "Amenajare Magazin",
+        "COMPONENTE",
+        "EXUSTAR"
+      ]
     },
     {
       "id": "881003",
@@ -4121,6 +5394,14 @@
       ],
       "attributes": {
         "ean": "887539029265"
+      },
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "Unelte Speciale Biciclete"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4144,7 +5425,12 @@
       ],
       "attributes": {
         "ean": "887539023386"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "880031",
@@ -4171,7 +5457,12 @@
       ],
       "attributes": {
         "ean": "4015493880424"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "880266",
@@ -4197,7 +5488,12 @@
       ],
       "attributes": {
         "ean": "887539017279"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Chei Dinamometrice",
+        "M-WAVE"
+      ]
     },
     {
       "id": "881990",
@@ -4220,6 +5516,15 @@
       ],
       "attributes": {
         "ean": "4015493880332"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Otel",
+        "Suruburi - Piulite - Saibe"
+      ],
+      "specs": {
+        "material": "Otel"
       }
     },
     {
@@ -4243,6 +5548,15 @@
       ],
       "attributes": {
         "ean": "4015493880349"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Otel",
+        "Suruburi - Piulite - Saibe"
+      ],
+      "specs": {
+        "material": "Otel"
       }
     },
     {
@@ -4267,6 +5581,15 @@
       ],
       "attributes": {
         "ean": "4015493880554"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Otel",
+        "Suruburi - Piulite - Saibe"
+      ],
+      "specs": {
+        "material": "Otel"
       }
     },
     {
@@ -4290,6 +5613,15 @@
       ],
       "attributes": {
         "ean": "4015493880509"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Otel",
+        "Suruburi - Piulite - Saibe"
+      ],
+      "specs": {
+        "material": "Otel"
       }
     },
     {
@@ -4313,6 +5645,15 @@
       ],
       "attributes": {
         "ean": "4015493880516"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Otel",
+        "Suruburi - Piulite - Saibe"
+      ],
+      "specs": {
+        "material": "Otel"
       }
     },
     {
@@ -4335,7 +5676,12 @@
       ],
       "attributes": {
         "ean": "4015493880530"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Suruburi - Piulite - Saibe"
+      ]
     },
     {
       "id": "881997",
@@ -4359,7 +5705,12 @@
       ],
       "attributes": {
         "ean": "4015493880547"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Suruburi - Piulite - Saibe"
+      ]
     },
     {
       "id": "881989",
@@ -4382,6 +5733,15 @@
       ],
       "attributes": {
         "ean": "4015493880585"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Otel",
+        "Suruburi - Piulite - Saibe"
+      ],
+      "specs": {
+        "material": "Otel"
       }
     },
     {
@@ -4405,6 +5765,15 @@
       ],
       "attributes": {
         "ean": "4015493880622"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Otel",
+        "Suruburi - Piulite - Saibe",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "material": "Otel"
       }
     },
     {
@@ -4432,6 +5801,15 @@
       ],
       "attributes": {
         "ean": "4712947220163"
+      },
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ],
+      "specs": {
+        "speeds": 12
       }
     },
     {
@@ -4455,6 +5833,15 @@
       ],
       "attributes": {
         "ean": "2801463000006"
+      },
+      "tags": [
+        "6 viteze",
+        "COMPONENTE",
+        "Pionioane Filetate",
+        "SHIMANO"
+      ],
+      "specs": {
+        "speeds": 6
       }
     },
     {
@@ -4478,6 +5865,14 @@
       ],
       "attributes": {
         "ean": "2801988000000"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4501,6 +5896,14 @@
       ],
       "attributes": {
         "ean": "2801989000009"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4524,6 +5927,15 @@
       ],
       "attributes": {
         "ean": "2801464000005"
+      },
+      "tags": [
+        "7 viteze",
+        "COMPONENTE",
+        "Pionioane Filetate",
+        "SHIMANO"
+      ],
+      "specs": {
+        "speeds": 7
       }
     },
     {
@@ -4547,6 +5959,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4570,6 +5990,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4593,6 +6021,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4616,6 +6052,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4639,6 +6083,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4662,6 +6114,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4685,6 +6145,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4708,6 +6176,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4731,6 +6207,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4754,6 +6238,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4777,6 +6269,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4800,6 +6300,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4823,6 +6331,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4846,6 +6362,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4868,6 +6392,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4890,6 +6422,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4913,6 +6453,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4936,6 +6484,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4959,6 +6515,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4982,6 +6546,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite UCP",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5005,6 +6577,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5028,6 +6608,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5051,6 +6639,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5074,6 +6670,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5097,6 +6701,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5120,6 +6732,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5143,6 +6763,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5166,6 +6794,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5189,6 +6825,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5212,6 +6856,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5235,6 +6887,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5258,6 +6918,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5281,6 +6949,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5304,6 +6980,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5327,6 +7011,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5350,6 +7042,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5373,6 +7073,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5396,6 +7104,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5419,6 +7135,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5442,6 +7166,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5465,6 +7197,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5488,6 +7228,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5511,6 +7259,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5534,6 +7290,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5557,6 +7321,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5580,6 +7352,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5603,6 +7383,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5626,6 +7414,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5649,6 +7445,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5672,6 +7476,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5695,6 +7507,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5718,6 +7538,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5740,6 +7568,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5763,6 +7599,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5786,6 +7630,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5809,6 +7661,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5832,6 +7692,14 @@
       ],
       "attributes": {
         "ean": "2800480000006"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -5855,6 +7723,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -5878,6 +7754,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -5901,6 +7785,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -5924,6 +7816,14 @@
       ],
       "attributes": {
         "ean": "2801168000004"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -5947,6 +7847,14 @@
       ],
       "attributes": {
         "ean": "2800552000002"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -5970,6 +7878,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -5993,6 +7909,14 @@
       ],
       "attributes": {
         "ean": "2802425000003"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Spite Stainless",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     }
   ],

@@ -3,7 +3,7 @@
   "description": "Complete product catalog for bikestylish.ro - Romanian bicycle parts, accessories, and equipment store. Powered by Sport X Team.",
   "website": "https://www.bikestylish.ro",
   "api_base": "https://endimion2k.github.io/bikestylish-catalog",
-  "last_updated": "2026-03-14T13:32:10.940285+00:00",
+  "last_updated": "2026-03-14T13:54:43.935215+00:00",
   "endpoints": {
     "stats": "/api/stats.json",
     "brands": "/data/brands.json",
@@ -31,6 +31,9 @@
     "weight_kg": "number - product weight in kg (when available)",
     "url": "string - product page URL on bikestylish.ro",
     "image": "string - main product image URL",
-    "images": "array - all product image URLs"
+    "images": "array - all product image URLs",
+    "tags": "array - searchable tags (brand, category, bike type, wheel size, material)",
+    "specs": "object - extracted specifications (wheel_size, bike_type, material, speeds, dimensions, valve_type, color)",
+    "category_description": "string - English description of what this product category is (for AI context)"
   }
 }

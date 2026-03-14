@@ -165,6 +165,9 @@ def parse_feed(xlsx_data):
         # Remove None values to keep JSON clean
         product = {k: v for k, v in product.items() if v is not None}
 
+        # Enrich with tags, specs, and context
+        product = _enrich_product(product)
+
         products.append(product)
 
     wb.close()
@@ -338,6 +341,9 @@ def write_api_index(products, categories, brands, total_parts):
             "url": "string - product page URL on bikestylish.ro",
             "image": "string - main product image URL",
             "images": "array - all product image URLs",
+            "tags": "array - searchable tags (brand, category, bike type, wheel size, material)",
+            "specs": "object - extracted specifications (wheel_size, bike_type, material, speeds, dimensions, valve_type, color)",
+            "category_description": "string - English description of what this product category is (for AI context)",
         },
     }
 
@@ -371,6 +377,205 @@ def write_sync_report(products, categories, brands, total_parts):
 
     print(f"       Sync complete!")
     return report
+
+
+# --- Product Enrichment ---
+
+# Wheel sizes found in product names
+_WHEEL_SIZES = ["29", "27.5", "27,5", "26", "24", "20", "18", "16", "14", "12", "700C", "700c", "650B", "650b"]
+
+# Bike type keywords (Romanian + English)
+_BIKE_TYPES = {
+    "MTB": ["mtb", "mountain", "munte"],
+    "Road": ["road", "sosea", "cursiera", "drop bar"],
+    "BMX": ["bmx"],
+    "E-Bike": ["e-bike", "ebike", "electric", "e bike"],
+    "Gravel": ["gravel", "cx", "cyclocross"],
+    "City/Trekking": ["city", "trekking", "oras", "urban"],
+    "Downhill": ["downhill", "dh"],
+    "Enduro": ["enduro"],
+    "Trail": ["trail", "all-mountain", "all mountain"],
+    "Copii": ["copii", "copil", "kids", "junior"],
+    "Fixie": ["fixie", "single speed", "fixed gear"],
+}
+
+# Material keywords
+_MATERIALS = {
+    "Aluminiu": ["aluminiu", "aluminum", "alu", "alloy"],
+    "CrMo": ["crmo", "cr-mo", "cromoly", "chromoly"],
+    "Carbon": ["carbon"],
+    "Otel": ["otel", "steel", "hi-ten"],
+    "Titan": ["titan", "titanium"],
+    "Nylon": ["nylon"],
+    "Plastic": ["plastic", "polimer"],
+}
+
+# Color keywords
+_COLORS = [
+    "negru", "alb", "rosu", "albastru", "verde", "galben", "portocaliu",
+    "gri", "argintiu", "auriu", "mov", "purple", "roz", "pink",
+    "cyan", "orange", "blue", "red", "green", "black", "white",
+    "silver", "gold", "grey", "gray", "transparent",
+]
+
+# Category descriptions for AI context
+_CATEGORY_CONTEXT = {
+    "Anvelope pe Sarma": "Wire bead bicycle tires - standard mounting, budget-friendly",
+    "Anvelope Pliabile": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+    "Camere de bicicleta": "Inner tubes for bicycles - essential spare part",
+    "Pedale": "Bicycle pedals - flat/platform or clipless (SPD)",
+    "Pedale SPD": "Clipless pedals - click-in system for cycling shoes",
+    "Ghidoane": "Handlebars - flat, riser, drop bar styles",
+    "Pipe Ghidon": "Stems - connect handlebars to steerer tube",
+    "Tije Ghidon": "Steerer extensions / handlebar risers",
+    "Lanturi": "Bicycle chains - by speed count (6-12 speed)",
+    "Pinioane": "Cassettes and freewheels - rear gear clusters",
+    "Angrenaje": "Cranksets - pedal arms and chainrings",
+    "Manete Schimbator": "Shift levers / shifters",
+    "Schimbator Pinioane": "Rear derailleurs",
+    "Schimbator Foi": "Front derailleurs",
+    "Frane V-Brake": "V-Brake rim brakes and components",
+    "Placute Frana Disc": "Disc brake pads - sintered or organic",
+    "Disc frana": "Brake rotors/discs",
+    "Etrier frana": "Brake calipers",
+    "Accesorii Frane Hidraulice": "Hydraulic brake accessories and service parts",
+    "Roti Fata": "Front wheels - complete, ready to mount",
+    "Roti Spate": "Rear wheels - complete, ready to mount",
+    "Set Roti": "Wheelsets - front + rear wheel pair",
+    "Jante": "Rims - for wheel building",
+    "Butuci Roata": "Wheel hubs - front and rear",
+    "Furci": "Suspension and rigid forks",
+    "Cuvete": "Headsets - steerer tube bearings",
+    "Monobloc": "Bottom brackets",
+    "Tije Șa": "Seatposts",
+    "Coliere Șa": "Seat clamps",
+    "Șei": "Saddles/seats",
+    "Mansoane": "Handlebar grips",
+    "Ghidoline": "Bar tape - for drop handlebars",
+    "Lumini": "Bicycle lights - front and rear",
+    "Antifurturi": "Bike locks - U-locks, cable locks, chain locks",
+    "Pompe": "Bicycle pumps - floor and portable",
+    "Aparatori noroi": "Fenders/mudguards",
+    "Casti": "Helmets",
+    "Manusi": "Cycling gloves",
+    "Ureche cadru": "Derailleur hangers - frame-specific replacement parts",
+    "Suport bidon si bidon": "Bottle cages and water bottles",
+    "Borsete si Genti": "Bags and panniers for bicycles",
+    "Unelte Speciale": "Specialized bicycle tools",
+    "Unelte Universale": "General purpose bicycle tools",
+    "Ingrijire si Lubrifiere": "Bike care - lubricants, cleaners, degreasers",
+}
+
+
+def _enrich_product(product):
+    """Extract tags, specs, and context from product name and category. Only factual data."""
+    import re
+
+    name = product.get("name", "")
+    name_lower = name.lower()
+    category = product.get("category", "")
+    cat_path = product.get("category_path", "")
+    brand = product.get("brand", "")
+
+    tags = set()
+    specs = {}
+
+    # Extract wheel size - only from tire/wheel-related categories or clear dimension patterns
+    wheel_categories = {"anvelope", "camere", "roti", "jante", "cauciuc", "tubeless"}
+    is_wheel_related = any(wc in category.lower() or wc in cat_path.lower() for wc in wheel_categories)
+
+    if is_wheel_related:
+        for size in _WHEEL_SIZES:
+            # Match "29 x", "27.5x", "26x", "700C" patterns (wheel dimensions)
+            size_pattern = re.escape(size).replace(r"\.", r"[.,]")
+            if re.search(rf'(?<!\d){size_pattern}\s*[xX/"]', name) or \
+               re.search(rf'(?<!\d){size_pattern}(?:\s|$|["\'])', name) and size in ("700C", "700c", "650B", "650b"):
+                normalized = size.replace(",", ".").upper()
+                specs["wheel_size"] = normalized
+                tags.add(f"{normalized} inch" if normalized not in ("700C", "650B") else normalized)
+                break
+
+    # Extract bike type
+    bike_types = []
+    search_text = f"{name_lower} {cat_path.lower()}"
+    for bike_type, keywords in _BIKE_TYPES.items():
+        if any(kw in search_text for kw in keywords):
+            bike_types.append(bike_type)
+            tags.add(bike_type)
+    if bike_types:
+        specs["bike_type"] = bike_types
+
+    # Extract material
+    for material, keywords in _MATERIALS.items():
+        if any(kw in name_lower for kw in keywords):
+            specs["material"] = material
+            tags.add(material)
+            break
+
+    # Extract color
+    for color in _COLORS:
+        if color in name_lower:
+            specs["color"] = color.capitalize()
+            break
+
+    # Extract speed count (for chains, cassettes, shifters)
+    speed_match = re.search(r'(\d{1,2})\s*(?:speed|viteze|s(?:pd)?)\b', name_lower)
+    if not speed_match:
+        speed_match = re.search(r'(\d{1,2})v\b', name_lower)
+    if speed_match:
+        speed = int(speed_match.group(1))
+        if 1 <= speed <= 13:
+            specs["speeds"] = speed
+            tags.add(f"{speed} viteze")
+
+    # Extract dimensions from name (e.g., "29 x 2.40", "26 x 1.75-2.125")
+    dim_match = re.search(r'(\d{2,3})\s*x\s*([\d.,]+(?:\s*-\s*[\d.,]+)?)', name)
+    if dim_match:
+        specs["dimensions"] = f"{dim_match.group(1)} x {dim_match.group(2)}"
+
+    # Extract valve type for inner tubes
+    if "camera" in name_lower or "camere" in category.lower():
+        if "FV" in name or "presta" in name_lower:
+            specs["valve_type"] = "Presta (FV)"
+            tags.add("Presta")
+        elif "AV" in name or "schrader" in name_lower:
+            specs["valve_type"] = "Schrader (AV)"
+            tags.add("Schrader")
+        elif "DV" in name or "dunlop" in name_lower:
+            specs["valve_type"] = "Dunlop (DV)"
+
+    # Extract thread size for pedals
+    if "pedal" in name_lower:
+        if "9/16" in name:
+            specs["thread"] = '9/16"'
+        elif "1/2" in name:
+            specs["thread"] = '1/2"'
+
+    # Add brand as tag
+    if brand and brand != "Unknown" and brand != "None":
+        tags.add(brand)
+
+    # Add category as tag
+    if category:
+        tags.add(category)
+
+    # Add category context (what this type of product IS)
+    if category in _CATEGORY_CONTEXT:
+        product["category_description"] = _CATEGORY_CONTEXT[category]
+
+    # Add main category from path
+    if cat_path:
+        parts = [p.strip() for p in cat_path.split(">")]
+        if len(parts) > 1:
+            tags.add(parts[0])  # e.g., "COMPONENTE", "ACCESORII"
+
+    # Set enriched data
+    if tags:
+        product["tags"] = sorted(tags)
+    if specs:
+        product["specs"] = specs
+
+    return product
 
 
 # --- Helpers ---

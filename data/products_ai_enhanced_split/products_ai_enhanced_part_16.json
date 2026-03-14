@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T13:32:10.764943+00:00",
+  "last_updated": "2026-03-14T13:54:43.724283+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -29,7 +29,12 @@
       ],
       "attributes": {
         "ean": "None"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "CST",
+        "Camere de Bicicleta"
+      ]
     },
     {
       "id": "3580",
@@ -51,6 +56,18 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "20 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "CST"
+      ],
+      "specs": {
+        "wheel_size": "20",
+        "color": "Negru",
+        "dimensions": "20 x 4.00"
       }
     },
     {
@@ -74,7 +91,12 @@
       ],
       "attributes": {
         "ean": "8051772126322"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "325360",
@@ -97,6 +119,14 @@
       ],
       "attributes": {
         "ean": "4015493320210"
+      },
+      "tags": [
+        "Butuci V-Break - Dinam",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -120,6 +150,17 @@
       ],
       "attributes": {
         "ean": "6933882571143"
+      },
+      "tags": [
+        "27.5 inch",
+        "COMPONENTE",
+        "CST",
+        "Camere de Bicicleta",
+        "Presta"
+      ],
+      "specs": {
+        "wheel_size": "27.5",
+        "valve_type": "Presta (FV)"
       }
     },
     {
@@ -145,6 +186,17 @@
       ],
       "attributes": {
         "ean": "2802135000003"
+      },
+      "tags": [
+        "12 inch",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "color": "Negru",
+        "dimensions": "12 x 100"
       }
     },
     {
@@ -170,6 +222,14 @@
       ],
       "attributes": {
         "ean": "2802136000002"
+      },
+      "tags": [
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -195,6 +255,16 @@
       ],
       "attributes": {
         "ean": "2802138000000"
+      },
+      "tags": [
+        "3 viteze",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "color": "Negru",
+        "speeds": 3
       }
     },
     {
@@ -221,6 +291,14 @@
       ],
       "attributes": {
         "ean": "2802139000009"
+      },
+      "tags": [
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -249,6 +327,16 @@
       ],
       "attributes": {
         "ean": "2802144000001"
+      },
+      "tags": [
+        "3 viteze",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "color": "Negru",
+        "speeds": 3
       }
     },
     {
@@ -274,6 +362,16 @@
       ],
       "attributes": {
         "ean": "2802146000009"
+      },
+      "tags": [
+        "11 viteze",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "color": "Negru",
+        "speeds": 11
       }
     },
     {
@@ -299,6 +397,16 @@
       ],
       "attributes": {
         "ean": "2802147000008"
+      },
+      "tags": [
+        "4 viteze",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "color": "Negru",
+        "speeds": 4
       }
     },
     {
@@ -323,6 +431,14 @@
       ],
       "attributes": {
         "ean": "2802148000007"
+      },
+      "tags": [
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -348,6 +464,14 @@
       ],
       "attributes": {
         "ean": "2802151000001"
+      },
+      "tags": [
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -373,6 +497,16 @@
       ],
       "attributes": {
         "ean": "2802152000000"
+      },
+      "tags": [
+        "11 viteze",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "color": "Negru",
+        "speeds": 11
       }
     },
     {
@@ -395,6 +529,15 @@
       ],
       "attributes": {
         "ean": "2802155000007"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -419,6 +562,14 @@
       ],
       "attributes": {
         "ean": "4711126206912"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Purple"
       }
     },
     {
@@ -443,6 +594,14 @@
       ],
       "attributes": {
         "ean": "4711126206929"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Gold"
       }
     },
     {
@@ -467,6 +626,14 @@
       ],
       "attributes": {
         "ean": "4711126206257"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Rosu"
       }
     },
     {
@@ -491,6 +658,14 @@
       ],
       "attributes": {
         "ean": "4711126206264"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Verde"
       }
     },
     {
@@ -515,6 +690,14 @@
       ],
       "attributes": {
         "ean": "4711126206271"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Alb"
       }
     },
     {
@@ -538,6 +721,14 @@
       ],
       "attributes": {
         "ean": "4711126209173"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Purple"
       }
     },
     {
@@ -561,6 +752,14 @@
       ],
       "attributes": {
         "ean": "4711126209203"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Alb"
       }
     },
     {
@@ -584,6 +783,14 @@
       ],
       "attributes": {
         "ean": "4711126209234"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Verde"
       }
     },
     {
@@ -607,7 +814,12 @@
       ],
       "attributes": {
         "ean": "4711126209258"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ]
     },
     {
       "id": "HTD1O",
@@ -632,6 +844,14 @@
       ],
       "attributes": {
         "ean": "4711126206141"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Orange"
       }
     },
     {
@@ -657,6 +877,14 @@
       ],
       "attributes": {
         "ean": "4711126206189"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Verde"
       }
     },
     {
@@ -682,6 +910,14 @@
       ],
       "attributes": {
         "ean": "4711126206196"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Alb"
       }
     },
     {
@@ -708,6 +944,14 @@
       ],
       "attributes": {
         "ean": "4711126204017"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -733,6 +977,14 @@
       ],
       "attributes": {
         "ean": "4711126208428"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -758,6 +1010,14 @@
       ],
       "attributes": {
         "ean": "4711126208442"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Purple"
       }
     },
     {
@@ -783,6 +1043,14 @@
       ],
       "attributes": {
         "ean": "4711126208459"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Gold"
       }
     },
     {
@@ -808,6 +1076,14 @@
       ],
       "attributes": {
         "ean": "4711126208473"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Alb"
       }
     },
     {
@@ -833,6 +1109,14 @@
       ],
       "attributes": {
         "ean": "4711126208497"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Rosu"
       }
     },
     {
@@ -857,6 +1141,14 @@
       ],
       "attributes": {
         "ean": "4711126208503"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Verde"
       }
     },
     {
@@ -882,7 +1174,12 @@
       ],
       "attributes": {
         "ean": "4711126208527"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ]
     },
     {
       "id": "HTT2N",
@@ -908,6 +1205,14 @@
       ],
       "attributes": {
         "ean": "4711126208909"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -935,6 +1240,14 @@
       ],
       "attributes": {
         "ean": "4711126208923"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Duble"
+      ],
+      "specs": {
+        "color": "Purple"
       }
     },
     {
@@ -962,6 +1275,14 @@
       ],
       "attributes": {
         "ean": "4711126208954"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Duble"
+      ],
+      "specs": {
+        "color": "Alb"
       }
     },
     {
@@ -988,6 +1309,14 @@
       ],
       "attributes": {
         "ean": "4711126208978"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Duble"
+      ],
+      "specs": {
+        "color": "Rosu"
       }
     },
     {
@@ -1013,6 +1342,14 @@
       ],
       "attributes": {
         "ean": "4711126208985"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Duble"
+      ],
+      "specs": {
+        "color": "Verde"
       }
     },
     {
@@ -1038,7 +1375,12 @@
       ],
       "attributes": {
         "ean": "4711126209005"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Duble"
+      ]
     },
     {
       "id": "HTX3N",
@@ -1064,6 +1406,14 @@
       ],
       "attributes": {
         "ean": "4711126208671"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Duble"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -1090,6 +1440,14 @@
       ],
       "attributes": {
         "ean": "4711126208725"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Duble"
+      ],
+      "specs": {
+        "color": "Alb"
       }
     },
     {
@@ -1116,6 +1474,14 @@
       ],
       "attributes": {
         "ean": "4711126208749"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Duble"
+      ],
+      "specs": {
+        "color": "Rosu"
       }
     },
     {
@@ -1142,6 +1508,14 @@
       ],
       "attributes": {
         "ean": "4711126208695"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Duble"
+      ],
+      "specs": {
+        "color": "Purple"
       }
     },
     {
@@ -1168,6 +1542,17 @@
       ],
       "attributes": {
         "ean": "2802168000001"
+      },
+      "category_description": "Rear wheels - complete, ready to mount",
+      "tags": [
+        "26 inch",
+        "COMPONENTE",
+        "Roti Spate",
+        "SXT"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "dimensions": "559 x 19"
       }
     },
     {
@@ -1194,6 +1579,14 @@
       ],
       "attributes": {
         "ean": "4711126208701"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Duble"
+      ],
+      "specs": {
+        "color": "Gold"
       }
     },
     {
@@ -1219,6 +1612,14 @@
       ],
       "attributes": {
         "ean": "4711126208756"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Duble"
+      ],
+      "specs": {
+        "color": "Verde"
       }
     },
     {
@@ -1243,6 +1644,14 @@
       ],
       "attributes": {
         "ean": "4067684000227"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Protectii Antipana",
+        "TANNUS"
+      ],
+      "specs": {
+        "dimensions": "700 x 33-47"
       }
     },
     {
@@ -1267,6 +1676,14 @@
       ],
       "attributes": {
         "ean": "887539042127"
+      },
+      "tags": [
+        "ACCESORII",
+        "BETO",
+        "Mini Pompe"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -1292,7 +1709,12 @@
       ],
       "attributes": {
         "ean": "887539034948"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "Oglinzi"
+      ]
     },
     {
       "id": "680196",
@@ -1315,7 +1737,12 @@
       ],
       "attributes": {
         "ean": "2802170000006"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "Schimbatoare Fata"
+      ]
     },
     {
       "id": "370295",
@@ -1339,7 +1766,12 @@
       ],
       "attributes": {
         "ean": "887539014841"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Mantale"
+      ]
     },
     {
       "id": "251072",
@@ -1368,6 +1800,20 @@
       ],
       "attributes": {
         "ean": "887539036799"
+      },
+      "tags": [
+        "COMPONENTE",
+        "City/Trekking",
+        "E-Bike",
+        "M-WAVE",
+        "Sei"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike",
+          "City/Trekking"
+        ],
+        "dimensions": "254 x 209"
       }
     },
     {
@@ -1391,6 +1837,15 @@
       ],
       "attributes": {
         "ean": "887539041885"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KUJO"
+      ],
+      "specs": {
+        "dimensions": "700 x 55"
       }
     },
     {
@@ -1417,6 +1872,14 @@
       ],
       "attributes": {
         "ean": "887539039318"
+      },
+      "tags": [
+        "ACCESORII",
+        "Pompe Podea",
+        "VENTURA"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -1443,6 +1906,16 @@
       ],
       "attributes": {
         "ean": "887539036874"
+      },
+      "tags": [
+        "ACCESORII",
+        "Bidoane Ciclism",
+        "M-WAVE",
+        "Plastic"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Negru"
       }
     },
     {
@@ -1467,6 +1940,16 @@
       ],
       "attributes": {
         "ean": "887539036942"
+      },
+      "tags": [
+        "ACCESORII",
+        "Bidoane Ciclism",
+        "M-WAVE",
+        "Plastic"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Negru"
       }
     },
     {
@@ -1492,6 +1975,14 @@
       ],
       "attributes": {
         "ean": "887539036973"
+      },
+      "tags": [
+        "ACCESORII",
+        "Bidoane Ciclism",
+        "M-WAVE"
+      ],
+      "specs": {
+        "color": "Alb"
       }
     },
     {
@@ -1518,6 +2009,17 @@
       ],
       "attributes": {
         "ean": "2802171000005"
+      },
+      "tags": [
+        "COMPONENTE",
+        "City/Trekking",
+        "M-WAVE",
+        "Sei"
+      ],
+      "specs": {
+        "bike_type": [
+          "City/Trekking"
+        ]
       }
     },
     {
@@ -1542,6 +2044,14 @@
       ],
       "attributes": {
         "ean": "2802172000004"
+      },
+      "tags": [
+        "ACCESORII",
+        "Reflectorizante",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Rosu"
       }
     },
     {
@@ -1567,7 +2077,12 @@
       ],
       "attributes": {
         "ean": "887539036867"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Bagaje Cadru",
+        "M-WAVE"
+      ]
     },
     {
       "id": "120995",
@@ -1593,7 +2108,12 @@
       ],
       "attributes": {
         "ean": "887539036850"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "Reflectorizante"
+      ]
     },
     {
       "id": "251029",
@@ -1619,6 +2139,19 @@
       ],
       "attributes": {
         "ean": "2800576000002"
+      },
+      "tags": [
+        "COMPONENTE",
+        "City/Trekking",
+        "M-WAVE",
+        "Sei"
+      ],
+      "specs": {
+        "bike_type": [
+          "City/Trekking"
+        ],
+        "color": "Negru",
+        "dimensions": "275 x 156"
       }
     },
     {
@@ -1642,7 +2175,12 @@
       ],
       "attributes": {
         "ean": "2802173000003"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Cosuri Transport Spate",
+        "SXT"
+      ]
     },
     {
       "id": "361120",
@@ -1668,6 +2206,16 @@
       ],
       "attributes": {
         "ean": "887539040857"
+      },
+      "tags": [
+        "Aluminiu",
+        "Axe - Accesorii Butuci",
+        "COMPONENTE",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Negru"
       }
     },
     {
@@ -1692,7 +2240,12 @@
       ],
       "attributes": {
         "ean": "4897029985281"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Accesorii Lumini",
+        "MOON"
+      ]
     },
     {
       "id": "223567",
@@ -1717,7 +2270,12 @@
       ],
       "attributes": {
         "ean": "4897029985328"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Accesorii Lumini",
+        "MOON"
+      ]
     },
     {
       "id": "303596",
@@ -1743,6 +2301,15 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "category_description": "Bicycle chains - by speed count (6-12 speed)",
+      "tags": [
+        "COMPONENTE",
+        "KMC",
+        "Lanturi"
+      ],
+      "specs": {
+        "color": "Blue"
       }
     },
     {
@@ -1767,7 +2334,13 @@
       ],
       "attributes": {
         "ean": "887539038243"
-      }
+      },
+      "category_description": "Disc brake pads - sintered or organic",
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Placute Frana Disc"
+      ]
     },
     {
       "id": "390493",
@@ -1792,6 +2365,14 @@
       ],
       "attributes": {
         "ean": "4015493390152"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Cuveti(HeadSet)",
+        "NECO"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -1819,6 +2400,16 @@
       ],
       "attributes": {
         "ean": "887539013745"
+      },
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "M-WAVE",
+        "Suporturi Bidon"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Negru"
       }
     },
     {
@@ -1842,7 +2433,13 @@
       ],
       "attributes": {
         "ean": "2802174000002"
-      }
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KUJO"
+      ]
     },
     {
       "id": "110985",
@@ -1867,6 +2464,15 @@
       ],
       "attributes": {
         "ean": "2802177000009"
+      },
+      "tags": [
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "15 x 100"
       }
     },
     {
@@ -1892,6 +2498,18 @@
       ],
       "attributes": {
         "ean": "2802178000008"
+      },
+      "tags": [
+        "11 viteze",
+        "12 inch",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "speeds": 11,
+        "dimensions": "12 x 142"
       }
     },
     {
@@ -1917,6 +2535,18 @@
       ],
       "attributes": {
         "ean": "2802179000007"
+      },
+      "tags": [
+        "11 viteze",
+        "12 inch",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "speeds": 11,
+        "dimensions": "12 x 142"
       }
     },
     {
@@ -1942,6 +2572,14 @@
       ],
       "attributes": {
         "ean": "2802180000003"
+      },
+      "tags": [
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "dimensions": "15 x 100"
       }
     },
     {
@@ -1964,6 +2602,18 @@
       ],
       "attributes": {
         "ean": "2802181000002"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Gravel",
+        "SXT",
+        "Seturi Roti"
+      ],
+      "specs": {
+        "bike_type": [
+          "Gravel"
+        ],
+        "dimensions": "700 x 19"
       }
     },
     {
@@ -1986,6 +2636,16 @@
       ],
       "attributes": {
         "ean": "2802185000008"
+      },
+      "tags": [
+        "12 inch",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 100"
       }
     },
     {
@@ -2011,6 +2671,17 @@
       ],
       "attributes": {
         "ean": "2802186000007"
+      },
+      "tags": [
+        "12 inch",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "color": "Negru",
+        "dimensions": "12 x 100"
       }
     },
     {
@@ -2036,6 +2707,17 @@
       ],
       "attributes": {
         "ean": "2802187000006"
+      },
+      "tags": [
+        "12 inch",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "color": "Negru",
+        "dimensions": "12 x 100"
       }
     },
     {
@@ -2059,7 +2741,12 @@
       ],
       "attributes": {
         "ean": "2802191000009"
-      }
+      },
+      "tags": [
+        "Butuci V-Break - Dinam",
+        "COMPONENTE",
+        "NOVATEC"
+      ]
     },
     {
       "id": "111002",
@@ -2082,6 +2769,15 @@
       ],
       "attributes": {
         "ean": "2802192000008"
+      },
+      "tags": [
+        "11 viteze",
+        "Butuci V-Break - Dinam",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "speeds": 11
       }
     },
     {
@@ -2108,6 +2804,22 @@
       ],
       "attributes": {
         "ean": "8022530029568"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "29 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "E-Bike",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "bike_type": [
+          "E-Bike"
+        ],
+        "color": "Negru",
+        "dimensions": "29 x 2.6"
       }
     },
     {
@@ -2137,6 +2849,15 @@
       ],
       "attributes": {
         "ean": "8022530013444"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "dimensions": "700 x 28"
       }
     },
     {
@@ -2163,6 +2884,15 @@
       ],
       "attributes": {
         "ean": "8022530013482"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "dimensions": "700 x 35"
       }
     },
     {
@@ -2189,6 +2919,15 @@
       ],
       "attributes": {
         "ean": "8022530016483"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "dimensions": "700 x 45"
       }
     },
     {
@@ -2218,6 +2957,17 @@
       ],
       "attributes": {
         "ean": "8022530013543"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "26 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "dimensions": "26 x 1.75"
       }
     },
     {
@@ -2245,7 +2995,12 @@
       ],
       "attributes": {
         "ean": "4713331011435"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "SB3803",
@@ -2270,7 +3025,12 @@
       ],
       "attributes": {
         "ean": "4712947227131"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Truse Unelte - Mini Truse"
+      ]
     },
     {
       "id": "880500",
@@ -2294,7 +3054,12 @@
       ],
       "attributes": {
         "ean": "4712765148328"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "470339",
@@ -2326,7 +3091,12 @@
       ],
       "attributes": {
         "ean": "887539042141"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "BETO",
+        "Pompe Furca - Tubeless"
+      ]
     },
     {
       "id": "466925",
@@ -2350,7 +3120,12 @@
       ],
       "attributes": {
         "ean": "887539031916"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Lumini Spate",
+        "SXT"
+      ]
     },
     {
       "id": "519840",
@@ -2373,7 +3148,12 @@
       ],
       "attributes": {
         "ean": "2802207000009"
-      }
+      },
+      "tags": [
+        "Banda Janta - Tubeless",
+        "COMPONENTE",
+        "SXT"
+      ]
     },
     {
       "id": "519841",
@@ -2396,7 +3176,12 @@
       ],
       "attributes": {
         "ean": "2802208000008"
-      }
+      },
+      "tags": [
+        "Banda Janta - Tubeless",
+        "COMPONENTE",
+        "SXT"
+      ]
     },
     {
       "id": "303332",
@@ -2420,6 +3205,14 @@
       ],
       "attributes": {
         "ean": "887539000790V"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Protectii Lant - Cadru",
+        "VELO"
+      ],
+      "specs": {
+        "dimensions": "260 x 100"
       }
     },
     {
@@ -2447,6 +3240,17 @@
       ],
       "attributes": {
         "ean": "8022530031288"
+      },
+      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+      "tags": [
+        "29 inch",
+        "Anvelope Pliabile",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "dimensions": "29 x 2.25"
       }
     },
     {
@@ -2472,6 +3276,17 @@
       ],
       "attributes": {
         "ean": "8022530031349"
+      },
+      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+      "tags": [
+        "29 inch",
+        "Anvelope Pliabile",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "dimensions": "29 x 2.25"
       }
     },
     {
@@ -2496,6 +3311,19 @@
       ],
       "attributes": {
         "ean": "8022530031714"
+      },
+      "tags": [
+        "27.5 inch",
+        "COMPONENTE",
+        "Enduro",
+        "Protectii Antipana",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "27.5",
+        "bike_type": [
+          "Enduro"
+        ]
       }
     },
     {
@@ -2520,6 +3348,20 @@
       ],
       "attributes": {
         "ean": "8022530031721"
+      },
+      "tags": [
+        "29 inch",
+        "COMPONENTE",
+        "Enduro",
+        "Protectii Antipana",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "bike_type": [
+          "Enduro"
+        ],
+        "dimensions": "29 x 2.4"
       }
     },
     {
@@ -2543,6 +3385,19 @@
       ],
       "attributes": {
         "ean": "8022530031738"
+      },
+      "tags": [
+        "27.5 inch",
+        "COMPONENTE",
+        "Downhill",
+        "Protectii Antipana",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "27.5",
+        "bike_type": [
+          "Downhill"
+        ]
       }
     },
     {
@@ -2569,6 +3424,20 @@
       ],
       "attributes": {
         "ean": "8022530031745"
+      },
+      "tags": [
+        "29 inch",
+        "COMPONENTE",
+        "Downhill",
+        "Protectii Antipana",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "bike_type": [
+          "Downhill"
+        ],
+        "dimensions": "29 x 2.4"
       }
     },
     {
@@ -2596,6 +3465,15 @@
       ],
       "attributes": {
         "ean": "8022530028851"
+      },
+      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+      "tags": [
+        "Anvelope Pliabile",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "dimensions": "700 x 28"
       }
     },
     {
@@ -2619,7 +3497,12 @@
       ],
       "attributes": {
         "ean": "4712765142784"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "Q0903370",
@@ -2642,7 +3525,12 @@
       ],
       "attributes": {
         "ean": "4712765142807"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "Q0903372",
@@ -2665,7 +3553,12 @@
       ],
       "attributes": {
         "ean": "4712765142821"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "Q0903374",
@@ -2688,7 +3581,12 @@
       ],
       "attributes": {
         "ean": "4712765142845"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "Q1505609",
@@ -2710,7 +3608,12 @@
       ],
       "attributes": {
         "ean": "5414704056099"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Capete Cablu - Manta",
+        "PROMAX"
+      ]
     },
     {
       "id": "325167",
@@ -2736,7 +3639,12 @@
       ],
       "attributes": {
         "ean": "2802303000002"
-      }
+      },
+      "tags": [
+        "Axe - Accesorii Butuci",
+        "COMPONENTE",
+        "SXT"
+      ]
     },
     {
       "id": "Q1806915",
@@ -2759,6 +3667,15 @@
       ],
       "attributes": {
         "ean": "5414704024289"
+      },
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "Oglinzi",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Aluminiu"
       }
     },
     {
@@ -2782,6 +3699,15 @@
       ],
       "attributes": {
         "ean": "5414704024258"
+      },
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "Oglinzi",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Aluminiu"
       }
     },
     {
@@ -2805,7 +3731,12 @@
       ],
       "attributes": {
         "ean": "None"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "401998",
@@ -2832,6 +3763,21 @@
       ],
       "attributes": {
         "ean": "2802198000002"
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "Ghidoane",
+        "MTB",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "material": "Aluminiu",
+        "color": "Rosu"
       }
     },
     {
@@ -2859,6 +3805,21 @@
       ],
       "attributes": {
         "ean": "2802199000001"
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "Ghidoane",
+        "MTB",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "material": "Aluminiu",
+        "color": "Alb"
       }
     },
     {
@@ -2886,6 +3847,21 @@
       ],
       "attributes": {
         "ean": "2802202000004"
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "Ghidoane",
+        "MTB",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "material": "Aluminiu",
+        "color": "Gold"
       }
     },
     {
@@ -2913,6 +3889,21 @@
       ],
       "attributes": {
         "ean": "2802201000005"
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "Ghidoane",
+        "MTB",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "material": "Aluminiu",
+        "color": "Mov"
       }
     },
     {
@@ -2938,6 +3929,19 @@
       ],
       "attributes": {
         "ean": "2802200000006"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Copii",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "Copii"
+        ],
+        "color": "Roz"
       }
     },
     {
@@ -2963,6 +3967,19 @@
       ],
       "attributes": {
         "ean": "2802203000003"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "MTB",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "color": "Negru"
       }
     },
     {
@@ -2988,6 +4005,19 @@
       ],
       "attributes": {
         "ean": "2802204000002"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "MTB",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "color": "Negru"
       }
     },
     {
@@ -3013,6 +4043,19 @@
       ],
       "attributes": {
         "ean": "0664533242254"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "MTB",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "color": "Negru"
       }
     },
     {
@@ -3036,6 +4079,20 @@
       ],
       "attributes": {
         "ean": "887539043315"
+      },
+      "tags": [
+        "12 inch",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "Downhill",
+        "NOVATEC"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "bike_type": [
+          "Downhill"
+        ],
+        "dimensions": "12 x 150"
       }
     },
     {
@@ -3061,6 +4118,14 @@
       ],
       "attributes": {
         "ean": "2802218000005"
+      },
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "Truse Unelte - Mini Truse"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3087,6 +4152,17 @@
       ],
       "attributes": {
         "ean": "887539038861"
+      },
+      "tags": [
+        "COMPONENTE",
+        "City/Trekking",
+        "Sei",
+        "VELO"
+      ],
+      "specs": {
+        "bike_type": [
+          "City/Trekking"
+        ]
       }
     },
     {
@@ -3111,6 +4187,15 @@
       ],
       "attributes": {
         "ean": "4715575884691"
+      },
+      "category_description": "Bicycle chains - by speed count (6-12 speed)",
+      "tags": [
+        "COMPONENTE",
+        "KMC",
+        "Lanturi"
+      ],
+      "specs": {
+        "color": "Grey"
       }
     },
     {
@@ -3137,6 +4222,14 @@
       ],
       "attributes": {
         "ean": "M911.622.36"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Jante pentru Frane Disc",
+        "MACH1"
+      ],
+      "specs": {
+        "dimensions": "622 x 23"
       }
     },
     {
@@ -3163,6 +4256,14 @@
       ],
       "attributes": {
         "ean": "M911.584.36"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Jante pentru Frane Disc",
+        "MACH1"
+      ],
+      "specs": {
+        "dimensions": "584 x 23"
       }
     },
     {
@@ -3189,6 +4290,14 @@
       ],
       "attributes": {
         "ean": "M911.559.36"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Jante pentru Frane Disc",
+        "MACH1"
+      ],
+      "specs": {
+        "dimensions": "559 x 23"
       }
     },
     {
@@ -3216,6 +4325,15 @@
       ],
       "attributes": {
         "ean": "2802483000007"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Jante pentru Frane Disc",
+        "MACH1"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "622 x 19"
       }
     },
     {
@@ -3238,7 +4356,12 @@
       ],
       "attributes": {
         "ean": "2802222000008"
-      }
+      },
+      "tags": [
+        "Butuci V-Break - Dinam",
+        "COMPONENTE",
+        "NOVATEC"
+      ]
     },
     {
       "id": "11A00417",
@@ -3262,6 +4385,21 @@
       ],
       "attributes": {
         "ean": "8022530028271"
+      },
+      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+      "tags": [
+        "29 inch",
+        "Anvelope Pliabile",
+        "COMPONENTE",
+        "Trail",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "bike_type": [
+          "Trail"
+        ],
+        "dimensions": "29 x 2.4"
       }
     },
     {
@@ -3288,6 +4426,18 @@
       ],
       "attributes": {
         "ean": "8022530029186"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "20 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "20",
+        "color": "Negru",
+        "dimensions": "20 x 2.4"
       }
     },
     {
@@ -3315,6 +4465,18 @@
       ],
       "attributes": {
         "ean": "8022530029162"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "26 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "color": "Negru",
+        "dimensions": "26 x 2.3"
       }
     },
     {
@@ -3342,6 +4504,18 @@
       ],
       "attributes": {
         "ean": "8022530029148"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "29 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "color": "Negru",
+        "dimensions": "29 x 2.3"
       }
     },
     {
@@ -3364,7 +4538,12 @@
       ],
       "attributes": {
         "ean": "2802225000005"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Reflectorizante",
+        "SXT"
+      ]
     },
     {
       "id": "356284",
@@ -3387,7 +4566,12 @@
       ],
       "attributes": {
         "ean": "887539032142"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Pionioane Filetate",
+        "SAMOX"
+      ]
     },
     {
       "id": "356264",
@@ -3410,7 +4594,12 @@
       ],
       "attributes": {
         "ean": "887539032128"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Pionioane Filetate",
+        "SAMOX"
+      ]
     },
     {
       "id": "350090",
@@ -3434,7 +4623,12 @@
       ],
       "attributes": {
         "ean": "2802307000008"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "KMC",
+        "Pionioane Filetate"
+      ]
     },
     {
       "id": "356238",
@@ -3457,6 +4651,15 @@
       ],
       "attributes": {
         "ean": "2802229000001"
+      },
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "Foi Angrenaje",
+        "SAMOX"
+      ],
+      "specs": {
+        "material": "Aluminiu"
       }
     },
     {
@@ -3484,6 +4687,15 @@
       ],
       "attributes": {
         "ean": "887539028664"
+      },
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "Foi Angrenaje",
+        "SAMOX"
+      ],
+      "specs": {
+        "material": "Aluminiu"
       }
     },
     {
@@ -3510,7 +4722,12 @@
       ],
       "attributes": {
         "ean": "2802232000005"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Foi Angrenaje",
+        "SAMOX"
+      ]
     },
     {
       "id": "356291",
@@ -3537,6 +4754,14 @@
       ],
       "attributes": {
         "ean": "2802235000002"
+      },
+      "tags": [
+        "Axe - Suruburi - Piulite",
+        "COMPONENTE",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3562,6 +4787,15 @@
       ],
       "attributes": {
         "ean": "887539042103"
+      },
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "BETO",
+        "Mini Pompe"
+      ],
+      "specs": {
+        "material": "Aluminiu"
       }
     },
     {
@@ -3585,7 +4819,12 @@
       ],
       "attributes": {
         "ean": "2802226000004"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Monobloace - B.B.",
+        "SAMOX"
+      ]
     },
     {
       "id": "400468",
@@ -3608,6 +4847,15 @@
       ],
       "attributes": {
         "ean": "2802227000003"
+      },
+      "category_description": "Stems - connect handlebars to steerer tube",
+      "tags": [
+        "COMPONENTE",
+        "Pipe Ghidon",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3631,6 +4879,14 @@
       ],
       "attributes": {
         "ean": "887539025717"
+      },
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "Saboti Frana"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3653,6 +4909,17 @@
       ],
       "attributes": {
         "ean": "2802322000007"
+      },
+      "tags": [
+        "ACCESORII",
+        "Bagaje Spate",
+        "E-Bike",
+        "M-WAVE"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
       }
     },
     {
@@ -3677,6 +4944,14 @@
       ],
       "attributes": {
         "ean": "2802228000002"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Cuveti(HeadSet)",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3700,7 +4975,12 @@
       ],
       "attributes": {
         "ean": "2802230000007"
-      }
+      },
+      "tags": [
+        "Banda Janta - Tubeless",
+        "COMPONENTE",
+        "M-WAVE"
+      ]
     },
     {
       "id": "D1151",
@@ -3726,7 +5006,12 @@
       ],
       "attributes": {
         "ean": "7290117591468"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "02649GR",
@@ -3750,6 +5035,19 @@
       ],
       "attributes": {
         "ean": "8054145175620"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "MTB",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "color": "Grey"
       }
     },
     {
@@ -3773,6 +5071,19 @@
       ],
       "attributes": {
         "ean": "8054145175668"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "MTB",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "color": "Negru"
       }
     },
     {
@@ -3796,6 +5107,18 @@
       ],
       "attributes": {
         "ean": "8022530031363"
+      },
+      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+      "tags": [
+        "29 inch",
+        "Anvelope Pliabile",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "color": "Negru",
+        "dimensions": "29 x 2.35"
       }
     },
     {
@@ -3823,6 +5146,20 @@
       ],
       "attributes": {
         "ean": "8022530023443"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "City/Trekking",
+        "VITTORIA"
+      ],
+      "specs": {
+        "bike_type": [
+          "City/Trekking"
+        ],
+        "color": "Negru",
+        "dimensions": "700 x 28"
       }
     },
     {
@@ -3848,6 +5185,17 @@
       ],
       "attributes": {
         "ean": "8022530030458"
+      },
+      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+      "tags": [
+        "29 inch",
+        "Anvelope Pliabile",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "dimensions": "29 x 2.25"
       }
     },
     {
@@ -3875,6 +5223,21 @@
       ],
       "attributes": {
         "ean": "8022530017435"
+      },
+      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+      "tags": [
+        "29 inch",
+        "Anvelope Pliabile",
+        "COMPONENTE",
+        "Trail",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "bike_type": [
+          "Trail"
+        ],
+        "dimensions": "29 x 2.35"
       }
     },
     {
@@ -3900,6 +5263,21 @@
       ],
       "attributes": {
         "ean": "8022530025188"
+      },
+      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+      "tags": [
+        "29 inch",
+        "Anvelope Pliabile",
+        "COMPONENTE",
+        "Enduro",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "bike_type": [
+          "Enduro"
+        ],
+        "dimensions": "29 x 2.4"
       }
     },
     {
@@ -3930,6 +5308,20 @@
       ],
       "attributes": {
         "ean": "8022530025188M"
+      },
+      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+      "tags": [
+        "27.5 inch",
+        "Anvelope Pliabile",
+        "COMPONENTE",
+        "Enduro",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "27.5",
+        "bike_type": [
+          "Enduro"
+        ]
       }
     },
     {
@@ -3956,7 +5348,12 @@
       ],
       "attributes": {
         "ean": "887539032135"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Pionioane Filetate",
+        "SAMOX"
+      ]
     },
     {
       "id": "385132",
@@ -3983,7 +5380,12 @@
       ],
       "attributes": {
         "ean": "887539037062"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Aparatori Noroi Spate",
+        "M-WAVE"
+      ]
     },
     {
       "id": "659873",
@@ -4005,6 +5407,17 @@
       ],
       "attributes": {
         "ean": "2802251000000"
+      },
+      "tags": [
+        "E-Bike",
+        "SXT",
+        "Trotinete Electrice",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
       }
     },
     {
@@ -4028,6 +5441,17 @@
       ],
       "attributes": {
         "ean": "4015493640189"
+      },
+      "tags": [
+        "ACCESORII",
+        "Copii",
+        "M-WAVE",
+        "Transport Biciclete"
+      ],
+      "specs": {
+        "bike_type": [
+          "Copii"
+        ]
       }
     },
     {
@@ -4051,6 +5475,18 @@
       ],
       "attributes": {
         "ean": "2802308000007"
+      },
+      "tags": [
+        "1 viteze",
+        "Aluminiu",
+        "COMPONENTE",
+        "Pedaliere - Angrenaje",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Negru",
+        "speeds": 1
       }
     },
     {
@@ -4076,7 +5512,12 @@
       ],
       "attributes": {
         "ean": "2802241000003"
-      }
+      },
+      "tags": [
+        "Butuci V-Break - Dinam",
+        "COMPONENTE",
+        "NOVATEC"
+      ]
     },
     {
       "id": "110615",
@@ -4101,6 +5542,16 @@
       ],
       "attributes": {
         "ean": "2802242000002"
+      },
+      "tags": [
+        "11 viteze",
+        "Butuci V-Break - Dinam",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "color": "Negru",
+        "speeds": 11
       }
     },
     {
@@ -4127,6 +5578,16 @@
       ],
       "attributes": {
         "ean": "2802244000000"
+      },
+      "tags": [
+        "12 inch",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 142"
       }
     },
     {
@@ -4149,6 +5610,14 @@
       ],
       "attributes": {
         "ean": "2802245000009"
+      },
+      "tags": [
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "dimensions": "15 x 110"
       }
     },
     {
@@ -4174,6 +5643,16 @@
       ],
       "attributes": {
         "ean": "2802247000007"
+      },
+      "tags": [
+        "12 inch",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 100"
       }
     },
     {
@@ -4197,6 +5676,14 @@
       ],
       "attributes": {
         "ean": "8581500012271"
+      },
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "Set Lumini"
+      ],
+      "specs": {
+        "color": "Rosu"
       }
     },
     {
@@ -4220,7 +5707,12 @@
       ],
       "attributes": {
         "ean": "4711126208121"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ]
     },
     {
       "id": "410898",
@@ -4242,6 +5734,17 @@
       ],
       "attributes": {
         "ean": "2802252000009"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "Plastic",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Negru"
       }
     },
     {
@@ -4265,7 +5768,12 @@
       ],
       "attributes": {
         "ean": "2802255000006"
-      }
+      },
+      "tags": [
+        "Banda Janta - Tubeless",
+        "COMPONENTE",
+        "SXT"
+      ]
     },
     {
       "id": "300004",
@@ -4290,7 +5798,12 @@
       ],
       "attributes": {
         "ean": "8015431000071"
-      }
+      },
+      "tags": [
+        "Bike Lube - Lubrefiere",
+        "COMPONENTE",
+        "KMC"
+      ]
     },
     {
       "id": "303507",
@@ -4313,6 +5826,15 @@
       ],
       "attributes": {
         "ean": "4715575884905"
+      },
+      "category_description": "Bicycle chains - by speed count (6-12 speed)",
+      "tags": [
+        "COMPONENTE",
+        "KMC",
+        "Lanturi"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -4336,6 +5858,16 @@
       ],
       "attributes": {
         "ean": "2802254000007"
+      },
+      "tags": [
+        "1 viteze",
+        "COMPONENTE",
+        "Pedaliere - Angrenaje",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Silver",
+        "speeds": 1
       }
     },
     {
@@ -4360,6 +5892,23 @@
       ],
       "attributes": {
         "ean": "2802253000008"
+      },
+      "category_description": "Handlebars - flat, riser, drop bar styles",
+      "tags": [
+        "COMPONENTE",
+        "E-Bike",
+        "Ghidoane",
+        "Gravel",
+        "M-WAVE",
+        "Road"
+      ],
+      "specs": {
+        "bike_type": [
+          "Road",
+          "E-Bike",
+          "Gravel"
+        ],
+        "color": "Negru"
       }
     },
     {
@@ -4388,6 +5937,15 @@
       ],
       "attributes": {
         "ean": "887539044008"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Plastic",
+        "Unelte Speciale Biciclete"
+      ],
+      "specs": {
+        "material": "Plastic"
       }
     },
     {
@@ -4411,7 +5969,12 @@
       ],
       "attributes": {
         "ean": "2802256000005"
-      }
+      },
+      "tags": [
+        "Banda Janta - Tubeless",
+        "COMPONENTE",
+        "SXT"
+      ]
     },
     {
       "id": "390428",
@@ -4434,6 +5997,14 @@
       ],
       "attributes": {
         "ean": "4015493390664"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Cuveti(HeadSet)",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -4457,6 +6028,17 @@
       ],
       "attributes": {
         "ean": "2802257000004"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "26 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KUJO"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "dimensions": "26 x 1.75"
       }
     },
     {
@@ -4480,7 +6062,12 @@
       ],
       "attributes": {
         "ean": "4524667881483"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Frane Disc",
+        "SHIMANO"
+      ]
     },
     {
       "id": "A013",
@@ -4505,7 +6092,12 @@
       ],
       "attributes": {
         "ean": "8055186692220"
-      }
+      },
+      "tags": [
+        "Bike Maintenance - Intretinere",
+        "COMPONENTE",
+        "SXT"
+      ]
     },
     {
       "id": "A033",
@@ -4530,7 +6122,12 @@
       ],
       "attributes": {
         "ean": "8054145173022"
-      }
+      },
+      "tags": [
+        "Bike Maintenance - Intretinere",
+        "COMPONENTE",
+        "M-WAVE"
+      ]
     },
     {
       "id": "A004",
@@ -4555,7 +6152,12 @@
       ],
       "attributes": {
         "ean": "8055186692138"
-      }
+      },
+      "tags": [
+        "Bike Maintenance - Intretinere",
+        "COMPONENTE",
+        "SXT"
+      ]
     },
     {
       "id": "A005",
@@ -4580,7 +6182,12 @@
       ],
       "attributes": {
         "ean": "None"
-      }
+      },
+      "tags": [
+        "Bike Maintenance - Intretinere",
+        "COMPONENTE",
+        "SXT"
+      ]
     },
     {
       "id": "13922",
@@ -4605,6 +6212,14 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "Bike Care - Ingrijire",
+        "COMPONENTE",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Gri"
       }
     },
     {
@@ -4627,7 +6242,12 @@
       ],
       "attributes": {
         "ean": "2802258000003"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Casete Butuci",
+        "NOVATEC"
+      ]
     },
     {
       "id": "210829",
@@ -4649,7 +6269,12 @@
       ],
       "attributes": {
         "ean": "2802259000002"
-      }
+      },
+      "tags": [
+        "Axe - Accesorii Butuci",
+        "COMPONENTE",
+        "NOVATEC"
+      ]
     },
     {
       "id": "210701",
@@ -4671,7 +6296,12 @@
       ],
       "attributes": {
         "ean": "2802260000008"
-      }
+      },
+      "tags": [
+        "Axe - Accesorii Butuci",
+        "COMPONENTE",
+        "NOVATEC"
+      ]
     },
     {
       "id": "210705",
@@ -4693,7 +6323,12 @@
       ],
       "attributes": {
         "ean": "2802261000007"
-      }
+      },
+      "tags": [
+        "Axe - Accesorii Butuci",
+        "COMPONENTE",
+        "NOVATEC"
+      ]
     },
     {
       "id": "210900",
@@ -4715,7 +6350,12 @@
       ],
       "attributes": {
         "ean": "2802262000006"
-      }
+      },
+      "tags": [
+        "Axe - Accesorii Butuci",
+        "COMPONENTE",
+        "NOVATEC"
+      ]
     },
     {
       "id": "A16310107",
@@ -4739,6 +6379,16 @@
       ],
       "attributes": {
         "ean": "8590816010482"
+      },
+      "tags": [
+        "ACCESORII",
+        "AUTHOR",
+        "Aluminiu",
+        "Sonerii"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Negru"
       }
     },
     {
@@ -4763,6 +6413,16 @@
       ],
       "attributes": {
         "ean": "8590816010475"
+      },
+      "tags": [
+        "ACCESORII",
+        "AUTHOR",
+        "Aluminiu",
+        "Sonerii"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Silver"
       }
     },
     {
@@ -4787,6 +6447,15 @@
       ],
       "attributes": {
         "ean": "8590816026636"
+      },
+      "tags": [
+        "AUTHOR",
+        "Aluminiu",
+        "COMPONENTE",
+        "Tije Sa"
+      ],
+      "specs": {
+        "material": "Aluminiu"
       }
     },
     {
@@ -4811,6 +6480,24 @@
       ],
       "attributes": {
         "ean": "8590816053755"
+      },
+      "tags": [
+        "26 inch",
+        "AUTHOR",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "Downhill",
+        "MTB",
+        "Schrader"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "bike_type": [
+          "MTB",
+          "Downhill"
+        ],
+        "dimensions": "26 x 2.20 - 2.5",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -4837,7 +6524,12 @@
       ],
       "attributes": {
         "ean": "7290117591345"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D1163",
@@ -4863,7 +6555,12 @@
       ],
       "attributes": {
         "ean": "7290117595800"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D1265",
@@ -4889,7 +6586,12 @@
       ],
       "attributes": {
         "ean": "7290117596821"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D1267",
@@ -4915,7 +6617,12 @@
       ],
       "attributes": {
         "ean": "7290117596845"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "1113M22365111TG",
@@ -4940,6 +6647,16 @@
       ],
       "attributes": {
         "ean": "8022530008037"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "27.5 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "27.5"
       }
     },
     {
@@ -4965,6 +6682,17 @@
       ],
       "attributes": {
         "ean": "8022530007993"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "27.5 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "27.5",
+        "color": "Negru"
       }
     },
     {
@@ -4990,6 +6718,19 @@
       ],
       "attributes": {
         "ean": "8022530026086"
+      },
+      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+      "tags": [
+        "Anvelope Pliabile",
+        "COMPONENTE",
+        "Gravel",
+        "VITTORIA"
+      ],
+      "specs": {
+        "bike_type": [
+          "Gravel"
+        ],
+        "dimensions": "700 x 47"
       }
     },
     {
@@ -5014,7 +6755,12 @@
       ],
       "attributes": {
         "ean": "8022530031622"
-      }
+      },
+      "tags": [
+        "Banda Janta - Tubeless",
+        "COMPONENTE",
+        "VITTORIA"
+      ]
     },
     {
       "id": "1AA00467",
@@ -5037,6 +6783,22 @@
       ],
       "attributes": {
         "ean": "8022530031752"
+      },
+      "tags": [
+        "29 inch",
+        "COMPONENTE",
+        "MTB",
+        "Protectii Antipana",
+        "Trail",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "bike_type": [
+          "MTB",
+          "Trail"
+        ],
+        "dimensions": "29 x 2.1- 2.4"
       }
     },
     {
@@ -5063,6 +6825,16 @@
       ],
       "attributes": {
         "ean": "887539034238"
+      },
+      "tags": [
+        "ACCESORII",
+        "Bidoane Ciclism",
+        "M-WAVE",
+        "Plastic"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Alb"
       }
     },
     {
@@ -5087,7 +6859,12 @@
       ],
       "attributes": {
         "ean": "887539024895"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "Transport Biciclete"
+      ]
     },
     {
       "id": "640060",
@@ -5111,7 +6888,12 @@
       ],
       "attributes": {
         "ean": "698238402026"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "Transport Biciclete"
+      ]
     },
     {
       "id": "313301",
@@ -5136,6 +6918,17 @@
       ],
       "attributes": {
         "ean": "2802264000004"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Pedale Platforma",
+        "Plastic",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "dimensions": "72 x 95 - 9",
+        "thread": "9/16\""
       }
     },
     {
@@ -5163,6 +6956,15 @@
       ],
       "attributes": {
         "ean": "2802265000003"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -5190,6 +6992,15 @@
       ],
       "attributes": {
         "ean": "2802266000002"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -5217,6 +7028,15 @@
       ],
       "attributes": {
         "ean": "2802267000001"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -5244,6 +7064,15 @@
       ],
       "attributes": {
         "ean": "2802268000000"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -5269,7 +7098,12 @@
       ],
       "attributes": {
         "ean": "7290117595992"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "S22",
@@ -5294,7 +7128,12 @@
       ],
       "attributes": {
         "ean": "7290107117470"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "3746",
@@ -5316,6 +7155,18 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "20 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "CST"
+      ],
+      "specs": {
+        "wheel_size": "20",
+        "color": "Negru",
+        "dimensions": "20 x 4.00"
       }
     },
     {
@@ -5338,6 +7189,18 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "20 inch",
+        "COMPONENTE",
+        "CST",
+        "Camere de Bicicleta",
+        "Schrader"
+      ],
+      "specs": {
+        "wheel_size": "20",
+        "dimensions": "20 x 3.50",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -5361,6 +7224,16 @@
       ],
       "attributes": {
         "ean": "8055320653698"
+      },
+      "tags": [
+        "ACCESORII",
+        "Cosuri Transport Fata",
+        "Plastic",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Alb"
       }
     },
     {
@@ -5385,6 +7258,17 @@
       ],
       "attributes": {
         "ean": "2802269000009"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "24 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KUJO"
+      ],
+      "specs": {
+        "wheel_size": "24",
+        "dimensions": "24 x 1.75"
       }
     },
     {
@@ -5408,7 +7292,12 @@
       ],
       "attributes": {
         "ean": "2802281000001"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Frane Disc",
+        "SHIMANO"
+      ]
     },
     {
       "id": "122466",
@@ -5431,7 +7320,12 @@
       ],
       "attributes": {
         "ean": "2802280000002"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Bagaje Spate",
+        "M-WAVE"
+      ]
     },
     {
       "id": "420071",
@@ -5454,6 +7348,14 @@
       ],
       "attributes": {
         "ean": "2802279000006"
+      },
+      "tags": [
+        "ACCESORII",
+        "SXT",
+        "Sonerii"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5477,6 +7379,16 @@
       ],
       "attributes": {
         "ean": "2802278000007"
+      },
+      "tags": [
+        "1 viteze",
+        "COMPONENTE",
+        "Foi Angrenaje",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru",
+        "speeds": 1
       }
     },
     {
@@ -5500,6 +7412,15 @@
       ],
       "attributes": {
         "ean": "2802276000009"
+      },
+      "tags": [
+        "7 viteze",
+        "COMPONENTE",
+        "Pinioane Casetate",
+        "SHIMANO"
+      ],
+      "specs": {
+        "speeds": 7
       }
     },
     {
@@ -5523,6 +7444,17 @@
       ],
       "attributes": {
         "ean": "4715575884639"
+      },
+      "category_description": "Bicycle chains - by speed count (6-12 speed)",
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "KMC",
+        "Lanturi"
+      ],
+      "specs": {
+        "color": "Blue",
+        "speeds": 12
       }
     },
     {
@@ -5546,6 +7478,15 @@
       ],
       "attributes": {
         "ean": "2802275000000"
+      },
+      "tags": [
+        "8 viteze",
+        "COMPONENTE",
+        "Pedaliere - Angrenaje",
+        "SXT"
+      ],
+      "specs": {
+        "speeds": 8
       }
     },
     {
@@ -5569,6 +7510,15 @@
       ],
       "attributes": {
         "ean": "2802274000001"
+      },
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "Pedaliere - Angrenaje",
+        "SXT"
+      ],
+      "specs": {
+        "speeds": 12
       }
     },
     {
@@ -5592,6 +7542,14 @@
       ],
       "attributes": {
         "ean": "887539043810"
+      },
+      "tags": [
+        "Bar Tape - Accesorii",
+        "COMPONENTE",
+        "VELO"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -5616,7 +7574,12 @@
       ],
       "attributes": {
         "ean": "887539043827"
-      }
+      },
+      "tags": [
+        "Bar Tape - Accesorii",
+        "COMPONENTE",
+        "VELO"
+      ]
     },
     {
       "id": "350741",
@@ -5639,6 +7602,14 @@
       ],
       "attributes": {
         "ean": "2802273000002"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Pedaliere - Angrenaje",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -5665,7 +7636,12 @@
       ],
       "attributes": {
         "ean": "7290117596586"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D1270",
@@ -5690,7 +7666,12 @@
       ],
       "attributes": {
         "ean": "7290117596876"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "11A00295",
@@ -5715,6 +7696,15 @@
       ],
       "attributes": {
         "ean": "8022530024402"
+      },
+      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+      "tags": [
+        "Anvelope Pliabile",
+        "COMPONENTE",
+        "VITTORIA"
+      ],
+      "specs": {
+        "dimensions": "700 x 28"
       }
     },
     {
@@ -5740,6 +7730,14 @@
       ],
       "attributes": {
         "ean": "2802283000009"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Jante pentru Frane Disc",
+        "MACH1"
+      ],
+      "specs": {
+        "dimensions": "622 x 21"
       }
     },
     {
@@ -5764,6 +7762,14 @@
       ],
       "attributes": {
         "ean": "2802282000000"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Jante pentru Frane Disc",
+        "MACH1"
+      ],
+      "specs": {
+        "dimensions": "584 x 21"
       }
     },
     {
@@ -5788,6 +7794,15 @@
       ],
       "attributes": {
         "ean": "2802284000008"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KUJO"
+      ],
+      "specs": {
+        "dimensions": "700 x 35"
       }
     },
     {
@@ -5813,6 +7828,14 @@
       ],
       "attributes": {
         "ean": "0726872065960"
+      },
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "Tije Sa"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -5836,7 +7859,12 @@
       ],
       "attributes": {
         "ean": "2802300000005"
-      }
+      },
+      "tags": [
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "SXT"
+      ]
     },
     {
       "id": "325164",
@@ -5859,7 +7887,12 @@
       ],
       "attributes": {
         "ean": "2802301000004"
-      }
+      },
+      "tags": [
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "SXT"
+      ]
     },
     {
       "id": "321155",
@@ -5882,6 +7915,16 @@
       ],
       "attributes": {
         "ean": "2802295000004"
+      },
+      "tags": [
+        "12 inch",
+        "Axe - Accesorii Butuci",
+        "COMPONENTE",
+        "SXT"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 148"
       }
     },
     {
@@ -5904,6 +7947,17 @@
       ],
       "attributes": {
         "ean": "2802286000006"
+      },
+      "tags": [
+        "E-Bike",
+        "Motoare E-Bike",
+        "SXT",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
       }
     },
     {
@@ -5928,6 +7982,19 @@
       ],
       "attributes": {
         "ean": "2802287000005"
+      },
+      "tags": [
+        "Aluminiu",
+        "E-Bike",
+        "Motoare E-Bike",
+        "SXT",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ],
+        "material": "Aluminiu"
       }
     },
     {
@@ -5950,6 +8017,19 @@
       ],
       "attributes": {
         "ean": "2802288000004"
+      },
+      "tags": [
+        "Cadre - Furci E-Bike",
+        "City/Trekking",
+        "E-Bike",
+        "SXT",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike",
+          "City/Trekking"
+        ]
       }
     },
     {
@@ -5972,6 +8052,19 @@
       ],
       "attributes": {
         "ean": "2802289000003"
+      },
+      "tags": [
+        "Cadre - Furci E-Bike",
+        "City/Trekking",
+        "E-Bike",
+        "SXT",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike",
+          "City/Trekking"
+        ]
       }
     },
     {
@@ -5995,6 +8088,17 @@
       ],
       "attributes": {
         "ean": "2802290000009"
+      },
+      "tags": [
+        "BAFANG",
+        "Display - Manete E-Bike",
+        "E-Bike",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
       }
     },
     {
@@ -6017,6 +8121,17 @@
       ],
       "attributes": {
         "ean": "2802291000008"
+      },
+      "tags": [
+        "BAFANG",
+        "Componente E-Bike",
+        "E-Bike",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
       }
     },
     {
@@ -6039,7 +8154,11 @@
       ],
       "attributes": {
         "ean": "2802292000007"
-      }
+      },
+      "tags": [
+        "BAFANG",
+        "e- MOBILITY"
+      ]
     },
     {
       "id": "880960",
@@ -6063,6 +8182,14 @@
       ],
       "attributes": {
         "ean": "2802324000005"
+      },
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "Truse Unelte - Mini Truse"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -6086,7 +8213,12 @@
       ],
       "attributes": {
         "ean": "4713331016331"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "880419",
@@ -6109,7 +8241,12 @@
       ],
       "attributes": {
         "ean": "4712765143231"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "880565",
@@ -6132,7 +8269,12 @@
       ],
       "attributes": {
         "ean": "4712947229203"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     }
   ],
   "categories": [

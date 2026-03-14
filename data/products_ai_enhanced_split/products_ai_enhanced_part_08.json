@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T13:32:10.764943+00:00",
+  "last_updated": "2026-03-14T13:54:43.724283+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -30,6 +30,14 @@
       ],
       "attributes": {
         "ean": "2801529000001"
+      },
+      "tags": [
+        "ECHIPAMENTE",
+        "Manusi Ciclism",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -53,6 +61,14 @@
       ],
       "attributes": {
         "ean": "2801530000007"
+      },
+      "tags": [
+        "ECHIPAMENTE",
+        "Manusi Ciclism",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -76,6 +92,14 @@
       ],
       "attributes": {
         "ean": "2801531000006"
+      },
+      "tags": [
+        "ECHIPAMENTE",
+        "Manusi Ciclism",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -102,6 +126,15 @@
       ],
       "attributes": {
         "ean": "2801339000000"
+      },
+      "category_description": "Rear wheels - complete, ready to mount",
+      "tags": [
+        "COMPONENTE",
+        "Roti Spate",
+        "SXT"
+      ],
+      "specs": {
+        "dimensions": "584 x 19"
       }
     },
     {
@@ -124,6 +157,17 @@
       ],
       "attributes": {
         "ean": "4710944247657"
+      },
+      "tags": [
+        "Butuci V-Break - Dinam",
+        "COMPONENTE",
+        "Fixie"
+      ],
+      "specs": {
+        "bike_type": [
+          "Fixie"
+        ],
+        "color": "Negru"
       }
     },
     {
@@ -147,7 +191,12 @@
       ],
       "attributes": {
         "ean": "2801514000009"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Schimbatoare Spate",
+        "VENTURA"
+      ]
     },
     {
       "id": "38827450",
@@ -173,7 +222,12 @@
       ],
       "attributes": {
         "ean": "2801338000001"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "Seturi Roti"
+      ]
     },
     {
       "id": "B14GRC258N",
@@ -196,6 +250,15 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "MACH1",
+        "Spite UCP"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "258 x 2"
       }
     },
     {
@@ -219,6 +282,15 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "MACH1",
+        "Spite UCP"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "260 x 2"
       }
     },
     {
@@ -242,6 +314,15 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "MACH1",
+        "Spite UCP"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "261 x 2"
       }
     },
     {
@@ -265,6 +346,15 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "COMPONENTE",
+        "MACH1",
+        "Spite UCP"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "262 x 2"
       }
     },
     {
@@ -292,6 +382,14 @@
       ],
       "attributes": {
         "ean": "887539034542"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Cuveti(HeadSet)",
+        "NECO"
+      ],
+      "specs": {
+        "color": "Red"
       }
     },
     {
@@ -315,7 +413,13 @@
       ],
       "attributes": {
         "ean": "2801365000005"
-      }
+      },
+      "category_description": "Suspension and rigid forks",
+      "tags": [
+        "COMPONENTE",
+        "Furci",
+        "VENTURA"
+      ]
     },
     {
       "id": "410489",
@@ -339,7 +443,13 @@
       ],
       "attributes": {
         "ean": "887539003876"
-      }
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "SXT"
+      ]
     },
     {
       "id": "321443",
@@ -362,6 +472,16 @@
       ],
       "attributes": {
         "ean": "2801246000001"
+      },
+      "tags": [
+        "12 inch",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 142"
       }
     },
     {
@@ -389,6 +509,16 @@
       ],
       "attributes": {
         "ean": "887539027896"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Pedale Platforma",
+        "Plastic",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "dimensions": "101 x 106"
       }
     },
     {
@@ -414,6 +544,16 @@
       ],
       "attributes": {
         "ean": "2802104000003"
+      },
+      "tags": [
+        "ACCESORII",
+        "Plastic",
+        "SXT",
+        "Suporturi Bidon"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Negru"
       }
     },
     {
@@ -441,7 +581,12 @@
       ],
       "attributes": {
         "ean": "4715681325040"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Lumini Spate",
+        "SMART"
+      ]
     },
     {
       "id": "270014",
@@ -467,7 +612,12 @@
       ],
       "attributes": {
         "ean": "887539034955"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "Oglinzi"
+      ]
     },
     {
       "id": "M761.584.32.06-24/6",
@@ -492,6 +642,14 @@
       ],
       "attributes": {
         "ean": "2801753000006"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Jante pentru Frane Disc",
+        "MACH1"
+      ],
+      "specs": {
+        "dimensions": "584 x 23"
       }
     },
     {
@@ -520,6 +678,15 @@
       ],
       "attributes": {
         "ean": "2802105000002"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Jante pentru Frane Disc",
+        "MACH1"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "622 x 21"
       }
     },
     {
@@ -546,6 +713,15 @@
       ],
       "attributes": {
         "ean": "2801768000008"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Jante pentru Frane Disc",
+        "MACH1"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "584 x 35"
       }
     },
     {
@@ -572,6 +748,18 @@
       ],
       "attributes": {
         "ean": "6973146601452"
+      },
+      "tags": [
+        "BMX",
+        "Casti Ciclism",
+        "ECHIPAMENTE",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "BMX"
+        ],
+        "color": "Verde"
       }
     },
     {
@@ -594,6 +782,16 @@
       ],
       "attributes": {
         "ean": "4710944262513"
+      },
+      "category_description": "Bicycle chains - by speed count (6-12 speed)",
+      "tags": [
+        "11 viteze",
+        "COMPONENTE",
+        "Lanturi"
+      ],
+      "specs": {
+        "color": "Silver",
+        "speeds": 11
       }
     },
     {
@@ -616,7 +814,12 @@
       ],
       "attributes": {
         "ean": "887539014230"
-      }
+      },
+      "tags": [
+        "Butuci V-Break - Dinam",
+        "COMPONENTE",
+        "SXT"
+      ]
     },
     {
       "id": "880074",
@@ -643,7 +846,12 @@
       ],
       "attributes": {
         "ean": "4712765145006"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "466960",
@@ -666,7 +874,12 @@
       ],
       "attributes": {
         "ean": "2801396000005"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Lumini Spate",
+        "SXT"
+      ]
     },
     {
       "id": "D11",
@@ -690,7 +903,12 @@
       ],
       "attributes": {
         "ean": "7290107110006"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D14",
@@ -714,7 +932,12 @@
       ],
       "attributes": {
         "ean": "7290107110037"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D15",
@@ -738,7 +961,12 @@
       ],
       "attributes": {
         "ean": "7290107110044"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D17",
@@ -762,7 +990,12 @@
       ],
       "attributes": {
         "ean": "7290107110068"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D18",
@@ -786,7 +1019,12 @@
       ],
       "attributes": {
         "ean": "7290107110075"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D35",
@@ -809,6 +1047,17 @@
       ],
       "attributes": {
         "ean": "7290107110242"
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Road",
+        "Urechi Cadru"
+      ],
+      "specs": {
+        "bike_type": [
+          "Road"
+        ]
       }
     },
     {
@@ -833,7 +1082,12 @@
       ],
       "attributes": {
         "ean": "7290107110273"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D84",
@@ -856,7 +1110,12 @@
       ],
       "attributes": {
         "ean": "7290107110730"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "525056",
@@ -878,6 +1137,19 @@
       ],
       "attributes": {
         "ean": "2802107000000"
+      },
+      "tags": [
+        "E-Bike",
+        "SXT",
+        "Trotinete Electrice",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ],
+        "color": "Negru",
+        "dimensions": "10 x 2.5"
       }
     },
     {
@@ -904,6 +1176,15 @@
       ],
       "attributes": {
         "ean": "2801345000001"
+      },
+      "category_description": "Front wheels - complete, ready to mount",
+      "tags": [
+        "COMPONENTE",
+        "Roti Fata",
+        "SXT"
+      ],
+      "specs": {
+        "dimensions": "559 x 19"
       }
     },
     {
@@ -930,6 +1211,15 @@
       ],
       "attributes": {
         "ean": "2801622000007"
+      },
+      "category_description": "Front wheels - complete, ready to mount",
+      "tags": [
+        "COMPONENTE",
+        "Roti Fata",
+        "SXT"
+      ],
+      "specs": {
+        "dimensions": "584 x 19"
       }
     },
     {
@@ -956,6 +1246,15 @@
       ],
       "attributes": {
         "ean": "2801346000000"
+      },
+      "category_description": "Front wheels - complete, ready to mount",
+      "tags": [
+        "COMPONENTE",
+        "Roti Fata",
+        "SXT"
+      ],
+      "specs": {
+        "dimensions": "622 x 19"
       }
     },
     {
@@ -982,6 +1281,15 @@
       ],
       "attributes": {
         "ean": "2801347000009"
+      },
+      "category_description": "Rear wheels - complete, ready to mount",
+      "tags": [
+        "COMPONENTE",
+        "Roti Spate",
+        "SXT"
+      ],
+      "specs": {
+        "dimensions": "559 x 19"
       }
     },
     {
@@ -1008,6 +1316,15 @@
       ],
       "attributes": {
         "ean": "2801348000008"
+      },
+      "category_description": "Rear wheels - complete, ready to mount",
+      "tags": [
+        "COMPONENTE",
+        "Roti Spate",
+        "SXT"
+      ],
+      "specs": {
+        "dimensions": "584 x 19"
       }
     },
     {
@@ -1034,6 +1351,15 @@
       ],
       "attributes": {
         "ean": "2801623000006"
+      },
+      "category_description": "Rear wheels - complete, ready to mount",
+      "tags": [
+        "COMPONENTE",
+        "Roti Spate",
+        "SXT"
+      ],
+      "specs": {
+        "dimensions": "622 x 19"
       }
     },
     {
@@ -1060,6 +1386,15 @@
       ],
       "attributes": {
         "ean": "2801624000005"
+      },
+      "category_description": "Rear wheels - complete, ready to mount",
+      "tags": [
+        "COMPONENTE",
+        "Roti Spate",
+        "SXT"
+      ],
+      "specs": {
+        "dimensions": "559 x 19"
       }
     },
     {
@@ -1086,6 +1421,15 @@
       ],
       "attributes": {
         "ean": "2801625000004"
+      },
+      "category_description": "Rear wheels - complete, ready to mount",
+      "tags": [
+        "COMPONENTE",
+        "Roti Spate",
+        "SXT"
+      ],
+      "specs": {
+        "dimensions": "584 x 19"
       }
     },
     {
@@ -1112,6 +1456,15 @@
       ],
       "attributes": {
         "ean": "2802108000009"
+      },
+      "category_description": "Rear wheels - complete, ready to mount",
+      "tags": [
+        "COMPONENTE",
+        "Roti Spate",
+        "SXT"
+      ],
+      "specs": {
+        "dimensions": "622 x 19"
       }
     },
     {
@@ -1134,6 +1487,14 @@
       ],
       "attributes": {
         "ean": "4711126202129"
+      },
+      "tags": [
+        "Accesorii Pedale",
+        "COMPONENTE",
+        "HT COMPONENTS"
+      ],
+      "specs": {
+        "color": "Alb"
       }
     },
     {
@@ -1156,6 +1517,14 @@
       ],
       "attributes": {
         "ean": "4711126202112"
+      },
+      "tags": [
+        "Accesorii Pedale",
+        "COMPONENTE",
+        "HT COMPONENTS"
+      ],
+      "specs": {
+        "color": "Rosu"
       }
     },
     {
@@ -1180,6 +1549,14 @@
       ],
       "attributes": {
         "ean": "4711126202105"
+      },
+      "tags": [
+        "Accesorii Pedale",
+        "COMPONENTE",
+        "HT COMPONENTS"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -1203,6 +1580,14 @@
       ],
       "attributes": {
         "ean": "4711126202099"
+      },
+      "tags": [
+        "Accesorii Pedale",
+        "COMPONENTE",
+        "HT COMPONENTS"
+      ],
+      "specs": {
+        "color": "Gold"
       }
     },
     {
@@ -1228,6 +1613,14 @@
       ],
       "attributes": {
         "ean": "4711126205847"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Verde"
       }
     },
     {
@@ -1253,6 +1646,14 @@
       ],
       "attributes": {
         "ean": "4711126201702"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Gold"
       }
     },
     {
@@ -1280,6 +1681,14 @@
       ],
       "attributes": {
         "ean": "4711126200316"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -1304,6 +1713,14 @@
       ],
       "attributes": {
         "ean": "4711126209241"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Alb"
       }
     },
     {
@@ -1328,6 +1745,14 @@
       ],
       "attributes": {
         "ean": "4711126209197"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Orange"
       }
     },
     {
@@ -1352,7 +1777,12 @@
       ],
       "attributes": {
         "ean": "7290107110082"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D69",
@@ -1375,7 +1805,12 @@
       ],
       "attributes": {
         "ean": "7290107110587"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D78",
@@ -1399,7 +1834,12 @@
       ],
       "attributes": {
         "ean": "7290107110679"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D87",
@@ -1423,7 +1863,12 @@
       ],
       "attributes": {
         "ean": "7290107110761"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D132",
@@ -1447,7 +1892,12 @@
       ],
       "attributes": {
         "ean": "7290107111218"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D244",
@@ -1470,6 +1920,14 @@
       ],
       "attributes": {
         "ean": "7290107112321"
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ],
+      "specs": {
+        "color": "Orange"
       }
     },
     {
@@ -1493,7 +1951,12 @@
       ],
       "attributes": {
         "ean": "7290107112475"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D310",
@@ -1516,7 +1979,12 @@
       ],
       "attributes": {
         "ean": "7290107112987"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D347",
@@ -1539,7 +2007,12 @@
       ],
       "attributes": {
         "ean": "7290107113359"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D374",
@@ -1562,7 +2035,12 @@
       ],
       "attributes": {
         "ean": "7290107113625"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D384",
@@ -1585,7 +2063,12 @@
       ],
       "attributes": {
         "ean": "7290107113861"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D392",
@@ -1608,6 +2091,17 @@
       ],
       "attributes": {
         "ean": "7290107113946"
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Trail",
+        "Urechi Cadru"
+      ],
+      "specs": {
+        "bike_type": [
+          "Trail"
+        ]
       }
     },
     {
@@ -1631,7 +2125,12 @@
       ],
       "attributes": {
         "ean": "7290107114240"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D437",
@@ -1654,7 +2153,12 @@
       ],
       "attributes": {
         "ean": "7290107114455"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D441",
@@ -1677,7 +2181,12 @@
       ],
       "attributes": {
         "ean": "7290107114509"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D482",
@@ -1700,7 +2209,12 @@
       ],
       "attributes": {
         "ean": "7290107114936"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D484",
@@ -1723,7 +2237,12 @@
       ],
       "attributes": {
         "ean": "7290107114950"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D545",
@@ -1746,6 +2265,18 @@
       ],
       "attributes": {
         "ean": "7290107115599"
+      },
+      "tags": [
+        "COMPONENTE",
+        "MTB",
+        "PILO",
+        "Urechi Cadru"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "dimensions": "12 x 142"
       }
     },
     {
@@ -1769,7 +2300,12 @@
       ],
       "attributes": {
         "ean": "7290107115964"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D593",
@@ -1792,7 +2328,12 @@
       ],
       "attributes": {
         "ean": "7290107116114"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D707",
@@ -1816,7 +2357,12 @@
       ],
       "attributes": {
         "ean": "7290107117418"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D716",
@@ -1839,7 +2385,12 @@
       ],
       "attributes": {
         "ean": "7290107117517"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D717",
@@ -1863,7 +2414,12 @@
       ],
       "attributes": {
         "ean": "7290107117524"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D735",
@@ -1887,7 +2443,12 @@
       ],
       "attributes": {
         "ean": "7290107117715"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D737",
@@ -1911,7 +2472,12 @@
       ],
       "attributes": {
         "ean": "7290107117739"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D741",
@@ -1935,7 +2501,12 @@
       ],
       "attributes": {
         "ean": "7290107117777"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D783",
@@ -1962,7 +2533,12 @@
       ],
       "attributes": {
         "ean": "7290107118934"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D791",
@@ -1987,6 +2563,14 @@
       ],
       "attributes": {
         "ean": "7290107119085"
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -2010,7 +2594,12 @@
       ],
       "attributes": {
         "ean": "7290107119559"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D995",
@@ -2037,7 +2626,12 @@
       ],
       "attributes": {
         "ean": "7290117595749"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D1034",
@@ -2062,7 +2656,12 @@
       ],
       "attributes": {
         "ean": "7290117590294"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D1036",
@@ -2087,7 +2686,12 @@
       ],
       "attributes": {
         "ean": "7290117590317"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D1049",
@@ -2113,7 +2717,12 @@
       ],
       "attributes": {
         "ean": "7290117590447"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "659877",
@@ -2136,6 +2745,17 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "E-Bike",
+        "SXT",
+        "Trotinete Electrice",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
       }
     },
     {
@@ -2158,6 +2778,17 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "E-Bike",
+        "SXT",
+        "Trotinete Electrice",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
       }
     },
     {
@@ -2180,6 +2811,19 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "E-Bike",
+        "Plastic",
+        "SXT",
+        "Trotinete Electrice",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ],
+        "material": "Plastic"
       }
     },
     {
@@ -2202,6 +2846,17 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "E-Bike",
+        "SXT",
+        "Trotinete Electrice",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
       }
     },
     {
@@ -2226,6 +2881,17 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "E-Bike",
+        "SXT",
+        "Trotinete Electrice",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
       }
     },
     {
@@ -2251,6 +2917,17 @@
       ],
       "attributes": {
         "ean": "None"
+      },
+      "tags": [
+        "E-Bike",
+        "SXT",
+        "Trotinete Electrice",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
       }
     },
     {
@@ -2274,7 +2951,12 @@
       ],
       "attributes": {
         "ean": "7290107112727"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D634",
@@ -2297,7 +2979,12 @@
       ],
       "attributes": {
         "ean": "7290107116619"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D635",
@@ -2323,7 +3010,12 @@
       ],
       "attributes": {
         "ean": "7290107116626"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "HTPA12YG",
@@ -2348,6 +3040,14 @@
       ],
       "attributes": {
         "ean": "4711126204260"
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Green"
       }
     },
     {
@@ -2374,7 +3074,12 @@
       ],
       "attributes": {
         "ean": "4711126202259"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "D21",
@@ -2398,6 +3103,14 @@
       ],
       "attributes": {
         "ean": "7290107110105"
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ],
+      "specs": {
+        "color": "Silver"
       }
     },
     {
@@ -2421,7 +3134,12 @@
       ],
       "attributes": {
         "ean": "7290107110198"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D41",
@@ -2444,7 +3162,12 @@
       ],
       "attributes": {
         "ean": "7290107110303"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D46",
@@ -2467,7 +3190,12 @@
       ],
       "attributes": {
         "ean": "7290107110358"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D52",
@@ -2490,7 +3218,12 @@
       ],
       "attributes": {
         "ean": "7290107110419"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D59",
@@ -2513,6 +3246,14 @@
       ],
       "attributes": {
         "ean": "7290107110488"
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ],
+      "specs": {
+        "color": "Orange"
       }
     },
     {
@@ -2536,7 +3277,12 @@
       ],
       "attributes": {
         "ean": "7290107110570"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D105",
@@ -2559,7 +3305,12 @@
       ],
       "attributes": {
         "ean": "7290107110945"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D152",
@@ -2582,7 +3333,12 @@
       ],
       "attributes": {
         "ean": "7290107111416"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D170",
@@ -2605,7 +3361,12 @@
       ],
       "attributes": {
         "ean": "7290107111591"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D182",
@@ -2628,7 +3389,12 @@
       ],
       "attributes": {
         "ean": "7290107111713"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D187",
@@ -2653,7 +3419,12 @@
       ],
       "attributes": {
         "ean": "7290107117937"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D192",
@@ -2676,7 +3447,12 @@
       ],
       "attributes": {
         "ean": "7290107111812"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D193",
@@ -2699,7 +3475,12 @@
       ],
       "attributes": {
         "ean": "7290107111829"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D216",
@@ -2722,7 +3503,12 @@
       ],
       "attributes": {
         "ean": "7290107112055"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D281",
@@ -2745,7 +3531,12 @@
       ],
       "attributes": {
         "ean": "7290107112697"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D294",
@@ -2769,7 +3560,12 @@
       ],
       "attributes": {
         "ean": "7290107112826"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D397",
@@ -2794,7 +3590,12 @@
       ],
       "attributes": {
         "ean": "7290107113991"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D421",
@@ -2817,7 +3618,12 @@
       ],
       "attributes": {
         "ean": "7290107114295"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D448",
@@ -2840,7 +3646,12 @@
       ],
       "attributes": {
         "ean": "7290107114578"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D616",
@@ -2863,7 +3674,12 @@
       ],
       "attributes": {
         "ean": "7290107116398"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D697",
@@ -2887,7 +3703,12 @@
       ],
       "attributes": {
         "ean": "7290107117319"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D722",
@@ -2913,7 +3734,12 @@
       ],
       "attributes": {
         "ean": "7290107117579"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D723",
@@ -2938,7 +3764,12 @@
       ],
       "attributes": {
         "ean": "7290107117586"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D738",
@@ -2963,7 +3794,12 @@
       ],
       "attributes": {
         "ean": "7290107117746"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D756",
@@ -2988,7 +3824,12 @@
       ],
       "attributes": {
         "ean": "7290107117982"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D826",
@@ -3012,7 +3853,12 @@
       ],
       "attributes": {
         "ean": "7290107119511"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D851",
@@ -3037,7 +3883,12 @@
       ],
       "attributes": {
         "ean": "7290117594308"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D856",
@@ -3062,7 +3913,12 @@
       ],
       "attributes": {
         "ean": "7290117594353"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D884",
@@ -3087,7 +3943,12 @@
       ],
       "attributes": {
         "ean": "7290117594636"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D892",
@@ -3112,7 +3973,12 @@
       ],
       "attributes": {
         "ean": "7290117594711"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D898",
@@ -3138,7 +4004,12 @@
       ],
       "attributes": {
         "ean": "7290117594773"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D945",
@@ -3164,7 +4035,12 @@
       ],
       "attributes": {
         "ean": "7290117595244"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D1011",
@@ -3190,7 +4066,12 @@
       ],
       "attributes": {
         "ean": "7290117590065"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D1029",
@@ -3215,7 +4096,12 @@
       ],
       "attributes": {
         "ean": "7290117590249"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D1047",
@@ -3240,7 +4126,12 @@
       ],
       "attributes": {
         "ean": "7290117590423"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D1096",
@@ -3266,7 +4157,12 @@
       ],
       "attributes": {
         "ean": "None"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D1111",
@@ -3291,7 +4187,12 @@
       ],
       "attributes": {
         "ean": "7290117591062"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "233867",
@@ -3315,6 +4216,14 @@
       ],
       "attributes": {
         "ean": "887539009175"
+      },
+      "tags": [
+        "ACCESORII",
+        "Antifurturi cu Cheie",
+        "M-WAVE"
+      ],
+      "specs": {
+        "color": "Orange"
       }
     },
     {
@@ -3342,6 +4251,14 @@
       ],
       "attributes": {
         "ean": "2801216000000"
+      },
+      "tags": [
+        "ACCESORII",
+        "Antifurturi cu Cheie",
+        "SXT"
+      ],
+      "specs": {
+        "dimensions": "000 x 6"
       }
     },
     {
@@ -3366,7 +4283,12 @@
       ],
       "attributes": {
         "ean": "887539015534"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Lumini Fata",
+        "M-WAVE"
+      ]
     },
     {
       "id": "250166",
@@ -3392,6 +4314,14 @@
       ],
       "attributes": {
         "ean": "2801217000009"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Sei",
+        "VENTURA"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3415,6 +4345,14 @@
       ],
       "attributes": {
         "ean": "2801218000008"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Coliere Tija Sa",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3438,6 +4376,14 @@
       ],
       "attributes": {
         "ean": "887539032852"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Tije Sa"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3461,6 +4407,14 @@
       ],
       "attributes": {
         "ean": "887539032869"
+      },
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Tije Sa"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3486,6 +4440,15 @@
       ],
       "attributes": {
         "ean": "4715575895819"
+      },
+      "category_description": "Bicycle chains - by speed count (6-12 speed)",
+      "tags": [
+        "COMPONENTE",
+        "KMC",
+        "Lanturi"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3508,6 +4471,16 @@
       ],
       "attributes": {
         "ean": "887539004521"
+      },
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "Pedale Platforma",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "dimensions": "95 x 80"
       }
     },
     {
@@ -3533,6 +4506,16 @@
       ],
       "attributes": {
         "ean": "887539035242"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Pedale Platforma",
+        "Plastic",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "dimensions": "74 x 95"
       }
     },
     {
@@ -3557,7 +4540,12 @@
       ],
       "attributes": {
         "ean": "887539004651"
-      }
+      },
+      "tags": [
+        "Accesorii Pedale",
+        "COMPONENTE",
+        "EXUSTAR"
+      ]
     },
     {
       "id": "321131",
@@ -3580,6 +4568,16 @@
       ],
       "attributes": {
         "ean": "2801245000002"
+      },
+      "tags": [
+        "12 inch",
+        "Axe - Accesorii Butuci",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 148"
       }
     },
     {
@@ -3603,6 +4601,16 @@
       ],
       "attributes": {
         "ean": "2801281000004"
+      },
+      "tags": [
+        "1 viteze",
+        "COMPONENTE",
+        "Pedaliere - Angrenaje",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru",
+        "speeds": 1
       }
     },
     {
@@ -3627,7 +4635,13 @@
       ],
       "attributes": {
         "ean": "887539015343"
-      }
+      },
+      "category_description": "Disc brake pads - sintered or organic",
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Placute Frana Disc"
+      ]
     },
     {
       "id": "360756",
@@ -3651,7 +4665,13 @@
       ],
       "attributes": {
         "ean": "887539015497"
-      }
+      },
+      "category_description": "Disc brake pads - sintered or organic",
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "Placute Frana Disc"
+      ]
     },
     {
       "id": "361733",
@@ -3674,7 +4694,13 @@
       ],
       "attributes": {
         "ean": "2801308000000"
-      }
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "SXT"
+      ]
     },
     {
       "id": "410260",
@@ -3697,6 +4723,15 @@
       ],
       "attributes": {
         "ean": "887539003821"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3720,6 +4755,15 @@
       ],
       "attributes": {
         "ean": "2801374000003"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3743,6 +4787,15 @@
       ],
       "attributes": {
         "ean": "2800208000004"
+      },
+      "category_description": "Handlebar grips",
+      "tags": [
+        "COMPONENTE",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -3767,7 +4820,12 @@
       ],
       "attributes": {
         "ean": "887539031930"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Lumini Fata",
+        "M-WAVE"
+      ]
     },
     {
       "id": "519371",
@@ -3790,6 +4848,15 @@
       ],
       "attributes": {
         "ean": "887539025359"
+      },
+      "tags": [
+        "27.5 inch",
+        "Banda Janta - Tubeless",
+        "COMPONENTE",
+        "M-WAVE"
+      ],
+      "specs": {
+        "wheel_size": "27.5"
       }
     },
     {
@@ -3814,6 +4881,14 @@
       ],
       "attributes": {
         "ean": "8875390000112"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Cuveti(HeadSet)",
+        "NECO"
+      ],
+      "specs": {
+        "color": "Red"
       }
     },
     {
@@ -3836,6 +4911,15 @@
       ],
       "attributes": {
         "ean": "698238565738"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KUJO",
+        "Schrader"
+      ],
+      "specs": {
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -3858,6 +4942,18 @@
       ],
       "attributes": {
         "ean": "2801457000005"
+      },
+      "tags": [
+        "24 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KUJO",
+        "Presta"
+      ],
+      "specs": {
+        "wheel_size": "24",
+        "dimensions": "24 x 1.75 - 2.125",
+        "valve_type": "Presta (FV)"
       }
     },
     {
@@ -3880,7 +4976,12 @@
       ],
       "attributes": {
         "ean": "4550170514631"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Discuri - Rotoare",
+        "SHIMANO"
+      ]
     },
     {
       "id": "220638",
@@ -3904,6 +5005,14 @@
       ],
       "attributes": {
         "ean": "887539010553"
+      },
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "Set Lumini"
+      ],
+      "specs": {
+        "color": "Roz"
       }
     },
     {
@@ -3931,7 +5040,12 @@
       ],
       "attributes": {
         "ean": "7290117597170"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Unelte Speciale Biciclete"
+      ]
     },
     {
       "id": "D53",
@@ -3954,7 +5068,12 @@
       ],
       "attributes": {
         "ean": "7290107110426"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D540",
@@ -3977,7 +5096,12 @@
       ],
       "attributes": {
         "ean": "7290107115544"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D56",
@@ -3999,7 +5123,12 @@
       ],
       "attributes": {
         "ean": "7290107110457"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D592",
@@ -4022,7 +5151,12 @@
       ],
       "attributes": {
         "ean": "7290107116107"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D596",
@@ -4044,7 +5178,12 @@
       ],
       "attributes": {
         "ean": "7290107116145"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D610",
@@ -4067,6 +5206,15 @@
       ],
       "attributes": {
         "ean": "7290107116282"
+      },
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ],
+      "specs": {
+        "material": "Aluminiu"
       }
     },
     {
@@ -4090,7 +5238,12 @@
       ],
       "attributes": {
         "ean": "7290107116718"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D215",
@@ -4113,7 +5266,12 @@
       ],
       "attributes": {
         "ean": "7290107112048"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D23",
@@ -4136,7 +5294,12 @@
       ],
       "attributes": {
         "ean": "7290107110129"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D288",
@@ -4159,7 +5322,12 @@
       ],
       "attributes": {
         "ean": "7290107112765"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D299",
@@ -4182,7 +5350,12 @@
       ],
       "attributes": {
         "ean": "7290107112871"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D133",
@@ -4205,7 +5378,12 @@
       ],
       "attributes": {
         "ean": "7290107111225"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D336",
@@ -4228,7 +5406,12 @@
       ],
       "attributes": {
         "ean": "7290107113243"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D343",
@@ -4250,7 +5433,12 @@
       ],
       "attributes": {
         "ean": "7290107113311"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D350",
@@ -4273,7 +5461,12 @@
       ],
       "attributes": {
         "ean": "7290107113380"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D358",
@@ -4295,7 +5488,12 @@
       ],
       "attributes": {
         "ean": "7290107113465"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D361",
@@ -4317,7 +5515,12 @@
       ],
       "attributes": {
         "ean": "7290107113496"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D530",
@@ -4340,7 +5543,12 @@
       ],
       "attributes": {
         "ean": "7290107115414"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D538",
@@ -4363,7 +5571,12 @@
       ],
       "attributes": {
         "ean": "7290107115520"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D541",
@@ -4386,7 +5599,12 @@
       ],
       "attributes": {
         "ean": "7290107115551"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D546",
@@ -4409,7 +5627,12 @@
       ],
       "attributes": {
         "ean": "7290107115605"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D564",
@@ -4431,7 +5654,12 @@
       ],
       "attributes": {
         "ean": "7290107115810"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D571",
@@ -4454,7 +5682,12 @@
       ],
       "attributes": {
         "ean": "7290107115889"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D611",
@@ -4477,7 +5710,12 @@
       ],
       "attributes": {
         "ean": "7290107116299"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D640",
@@ -4500,7 +5738,12 @@
       ],
       "attributes": {
         "ean": "7290107116671"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D486",
@@ -4523,7 +5766,12 @@
       ],
       "attributes": {
         "ean": "7290107114974"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D407",
@@ -4545,7 +5793,12 @@
       ],
       "attributes": {
         "ean": "7290107114158"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D436",
@@ -4568,7 +5821,12 @@
       ],
       "attributes": {
         "ean": "7290107114448"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "D465",
@@ -4591,7 +5849,12 @@
       ],
       "attributes": {
         "ean": "7290107114745"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "Urechi Cadru"
+      ]
     },
     {
       "id": "520546",
@@ -4614,6 +5877,16 @@
       ],
       "attributes": {
         "ean": "2800320000005"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "27.5 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "27.5"
       }
     },
     {
@@ -4639,6 +5912,18 @@
       ],
       "attributes": {
         "ean": "047853611069"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "20 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "20",
+        "color": "Verde",
+        "dimensions": "20 x 1.95"
       }
     },
     {
@@ -4663,6 +5948,18 @@
       ],
       "attributes": {
         "ean": "047853105018"
+      },
+      "tags": [
+        "14 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA",
+        "Schrader"
+      ],
+      "specs": {
+        "wheel_size": "14",
+        "dimensions": "14 x 1.75-2.125",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -4687,6 +5984,18 @@
       ],
       "attributes": {
         "ean": "047853105025"
+      },
+      "tags": [
+        "16 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA",
+        "Schrader"
+      ],
+      "specs": {
+        "wheel_size": "16",
+        "dimensions": "16 x 1.75 - 2.125",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -4711,6 +6020,18 @@
       ],
       "attributes": {
         "ean": "047853105049"
+      },
+      "tags": [
+        "18 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA",
+        "Schrader"
+      ],
+      "specs": {
+        "wheel_size": "18",
+        "dimensions": "18 x 1.75-2.125",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -4736,6 +6057,18 @@
       ],
       "attributes": {
         "ean": "047853090314"
+      },
+      "tags": [
+        "20 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA",
+        "Schrader"
+      ],
+      "specs": {
+        "wheel_size": "20",
+        "dimensions": "20 x 1.75-2.125",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -4760,6 +6093,18 @@
       ],
       "attributes": {
         "ean": "047853100365"
+      },
+      "tags": [
+        "26 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA",
+        "Schrader"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "dimensions": "26 x 1.75-2.125",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -4785,6 +6130,18 @@
       ],
       "attributes": {
         "ean": "047853123852"
+      },
+      "tags": [
+        "26 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA",
+        "Schrader"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "dimensions": "26 x 3.0",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -4809,6 +6166,18 @@
       ],
       "attributes": {
         "ean": "047853024944"
+      },
+      "tags": [
+        "26 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA",
+        "Schrader"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "dimensions": "26 x 3.5-4.0",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -4832,6 +6201,18 @@
       ],
       "attributes": {
         "ean": "047853017236"
+      },
+      "tags": [
+        "29 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA",
+        "Schrader"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "dimensions": "29 x 1.9-2.35",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -4856,7 +6237,13 @@
       ],
       "attributes": {
         "ean": "2801435000003"
-      }
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ]
     },
     {
       "id": "529433",
@@ -4879,6 +6266,17 @@
       ],
       "attributes": {
         "ean": "2800333000009"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "14 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "14",
+        "dimensions": "14 x 1.75"
       }
     },
     {
@@ -4902,6 +6300,17 @@
       ],
       "attributes": {
         "ean": "2800330000002"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "16 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "16",
+        "dimensions": "16 x 1.75"
       }
     },
     {
@@ -4925,6 +6334,17 @@
       ],
       "attributes": {
         "ean": "2801428000003"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "20 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "20",
+        "dimensions": "20 x 1.75"
       }
     },
     {
@@ -4949,6 +6369,17 @@
       ],
       "attributes": {
         "ean": "047853823974"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "20 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "20",
+        "dimensions": "20 x 2.35"
       }
     },
     {
@@ -4972,6 +6403,17 @@
       ],
       "attributes": {
         "ean": "2801426000005"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "24 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "24",
+        "dimensions": "24 x 1.95"
       }
     },
     {
@@ -4996,6 +6438,17 @@
       ],
       "attributes": {
         "ean": "2800324000001"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "26 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "dimensions": "26 x 4.0"
       }
     },
     {
@@ -5019,6 +6472,18 @@
       ],
       "attributes": {
         "ean": "2801913000006"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "26 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "color": "Negru",
+        "dimensions": "26 x 1.95"
       }
     },
     {
@@ -5043,6 +6508,18 @@
       ],
       "attributes": {
         "ean": "047853618440"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "26 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "color": "Alb",
+        "dimensions": "26 x 1.95"
       }
     },
     {
@@ -5066,6 +6543,16 @@
       ],
       "attributes": {
         "ean": "2801939000004"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "color": "Roz",
+        "dimensions": "700 x 26"
       }
     },
     {
@@ -5089,6 +6576,16 @@
       ],
       "attributes": {
         "ean": "2801938000005"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "700 x 26"
       }
     },
     {
@@ -5113,6 +6610,17 @@
       ],
       "attributes": {
         "ean": "047853651713"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "29 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "dimensions": "29 x 2.35"
       }
     },
     {
@@ -5136,7 +6644,12 @@
       ],
       "attributes": {
         "ean": "2800268000006"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "KENDA",
+        "🔧 𝐀𝐜𝐜𝐞𝐬𝐨𝐫𝐢𝐢 𝐂𝐚𝐦𝐞𝐫𝐞 𝐁𝐢𝐜𝐢𝐜𝐥𝐞𝐭𝐚̆"
+      ]
     },
     {
       "id": "511512",
@@ -5161,6 +6674,16 @@
       ],
       "attributes": {
         "ean": "047853013498"
+      },
+      "tags": [
+        "26 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "valve_type": "Dunlop (DV)"
       }
     },
     {
@@ -5186,6 +6709,18 @@
       ],
       "attributes": {
         "ean": "047853110111"
+      },
+      "tags": [
+        "24 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA",
+        "Schrader"
+      ],
+      "specs": {
+        "wheel_size": "24",
+        "dimensions": "24 x 2.30-2.60",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -5210,6 +6745,17 @@
       ],
       "attributes": {
         "ean": "047853626179"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "20 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "20",
+        "dimensions": "20 x 2.60"
       }
     },
     {
@@ -5235,6 +6781,17 @@
       ],
       "attributes": {
         "ean": "047853027761"
+      },
+      "tags": [
+        "27.5 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA",
+        "Presta"
+      ],
+      "specs": {
+        "wheel_size": "27.5",
+        "valve_type": "Presta (FV)"
       }
     },
     {
@@ -5259,6 +6816,17 @@
       ],
       "attributes": {
         "ean": "2801404000003"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "29 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "dimensions": "29 x 2.10"
       }
     },
     {
@@ -5282,6 +6850,17 @@
       ],
       "attributes": {
         "ean": "047853619232"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "26 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "dimensions": "26 x 2.10"
       }
     },
     {
@@ -5308,6 +6887,19 @@
       ],
       "attributes": {
         "ean": "047853776720"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "E-Bike",
+        "KENDA"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ],
+        "dimensions": "700 x 45"
       }
     },
     {
@@ -5331,6 +6923,17 @@
       ],
       "attributes": {
         "ean": "8581500018983"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "20 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "20",
+        "dimensions": "20 x 2.125"
       }
     },
     {
@@ -5355,6 +6958,18 @@
       ],
       "attributes": {
         "ean": "047853002966"
+      },
+      "tags": [
+        "20 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA",
+        "Schrader"
+      ],
+      "specs": {
+        "wheel_size": "20",
+        "dimensions": "20 x 2.125 - 2.35",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -5379,6 +6994,18 @@
       ],
       "attributes": {
         "ean": "047853004472"
+      },
+      "tags": [
+        "26 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA",
+        "Schrader"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "dimensions": "26 x 2.1-2.35",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -5402,6 +7029,17 @@
       ],
       "attributes": {
         "ean": "2800319000009"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "24 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "24",
+        "dimensions": "24 x 1.375"
       }
     },
     {
@@ -5425,6 +7063,17 @@
       ],
       "attributes": {
         "ean": "2801429000002"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "24 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "24",
+        "dimensions": "24 x 1.95"
       }
     },
     {
@@ -5449,6 +7098,17 @@
       ],
       "attributes": {
         "ean": "047853626186"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "24 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "24",
+        "dimensions": "24 x 2.60"
       }
     },
     {
@@ -5472,6 +7132,18 @@
       ],
       "attributes": {
         "ean": "047853618433"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "26 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "color": "Alb",
+        "dimensions": "26 x 1.95"
       }
     },
     {
@@ -5495,6 +7167,18 @@
       ],
       "attributes": {
         "ean": "047853618426"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "26 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "color": "Rosu",
+        "dimensions": "26 x 1.95"
       }
     },
     {
@@ -5517,6 +7201,16 @@
       ],
       "attributes": {
         "ean": "2801823000004"
+      },
+      "tags": [
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA",
+        "Schrader"
+      ],
+      "specs": {
+        "dimensions": "22 x 2.125",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -5539,6 +7233,18 @@
       ],
       "attributes": {
         "ean": "2802237000000"
+      },
+      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
+      "tags": [
+        "14 inch",
+        "Anvelope pe Sarma",
+        "COMPONENTE",
+        "KENDA"
+      ],
+      "specs": {
+        "wheel_size": "14",
+        "color": "Negru",
+        "dimensions": "14 x 2.50"
       }
     },
     {
@@ -5562,6 +7268,18 @@
       ],
       "attributes": {
         "ean": "2802239000008"
+      },
+      "tags": [
+        "14 inch",
+        "COMPONENTE",
+        "Camere de Bicicleta",
+        "KENDA",
+        "Schrader"
+      ],
+      "specs": {
+        "wheel_size": "14",
+        "dimensions": "14 x 2.50",
+        "valve_type": "Schrader (AV)"
       }
     },
     {
@@ -5586,6 +7304,17 @@
       ],
       "attributes": {
         "ean": "8020092006003"
+      },
+      "tags": [
+        "ACCESORII",
+        "Copii",
+        "M-WAVE",
+        "Roti Ajutatoare - Articole Copii"
+      ],
+      "specs": {
+        "bike_type": [
+          "Copii"
+        ]
       }
     },
     {
@@ -5611,7 +7340,12 @@
       ],
       "attributes": {
         "ean": "887539022570"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Antifurturi cu Cifru",
+        "M-WAVE"
+      ]
     },
     {
       "id": "230164",
@@ -5636,7 +7370,12 @@
       ],
       "attributes": {
         "ean": "887539015398"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Antifurturi cu Cheie",
+        "M-WAVE"
+      ]
     },
     {
       "id": "230340",
@@ -5661,7 +7400,12 @@
       ],
       "attributes": {
         "ean": "887539016241"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Antifurturi cu Cifru",
+        "M-WAVE"
+      ]
     },
     {
       "id": "231461",
@@ -5685,7 +7429,12 @@
       ],
       "attributes": {
         "ean": "2800792000008"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Antifurturi  U-Lock",
+        "M-WAVE"
+      ]
     },
     {
       "id": "231060",
@@ -5711,6 +7460,16 @@
       ],
       "attributes": {
         "ean": "887539010270"
+      },
+      "tags": [
+        "10 viteze",
+        "ACCESORII",
+        "Antifurturi cu Cifru",
+        "M-WAVE"
+      ],
+      "specs": {
+        "color": "Negru",
+        "speeds": 10
       }
     },
     {
@@ -5738,7 +7497,12 @@
       ],
       "attributes": {
         "ean": "2801060000003"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Sistem VELO - FIT",
+        "VELO"
+      ]
     },
     {
       "id": "430270",
@@ -5763,6 +7527,15 @@
       ],
       "attributes": {
         "ean": "2800646000000"
+      },
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "Depozitare Biciclete",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Aluminiu"
       }
     },
     {
@@ -5790,6 +7563,14 @@
       ],
       "attributes": {
         "ean": "887539017163"
+      },
+      "tags": [
+        "ACCESORII",
+        "Carcase - Prinderi SmartPhone",
+        "M-WAVE"
+      ],
+      "specs": {
+        "color": "Black"
       }
     },
     {
@@ -5813,7 +7594,12 @@
       ],
       "attributes": {
         "ean": "887539007553"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "Bagaje Spate",
+        "M-WAVE"
+      ]
     },
     {
       "id": "220628",
@@ -5840,7 +7626,12 @@
       ],
       "attributes": {
         "ean": "887539018429"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "Set Lumini"
+      ]
     },
     {
       "id": "221063",
@@ -5866,7 +7657,12 @@
       ],
       "attributes": {
         "ean": "887539002732"
-      }
+      },
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "Set Lumini"
+      ]
     },
     {
       "id": "220640",
@@ -5892,6 +7688,14 @@
       ],
       "attributes": {
         "ean": "887539010485"
+      },
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "Set Lumini"
+      ],
+      "specs": {
+        "color": "Negru"
       }
     },
     {
@@ -5918,7 +7722,12 @@
       ],
       "attributes": {
         "ean": "887539022358"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Sei",
+        "VELO"
+      ]
     },
     {
       "id": "250527",
@@ -5944,7 +7753,12 @@
       ],
       "attributes": {
         "ean": "887539022372"
-      }
+      },
+      "tags": [
+        "COMPONENTE",
+        "Sei",
+        "VELO"
+      ]
     },
     {
       "id": "250531",
@@ -5969,6 +7783,17 @@
       ],
       "attributes": {
         "ean": "887539022419"
+      },
+      "tags": [
+        "COMPONENTE",
+        "City/Trekking",
+        "Sei",
+        "VELO"
+      ],
+      "specs": {
+        "bike_type": [
+          "City/Trekking"
+        ]
       }
     },
     {
@@ -5995,6 +7820,17 @@
       ],
       "attributes": {
         "ean": "887539022440"
+      },
+      "tags": [
+        "COMPONENTE",
+        "City/Trekking",
+        "Sei",
+        "VELO"
+      ],
+      "specs": {
+        "bike_type": [
+          "City/Trekking"
+        ]
       }
     }
   ],
