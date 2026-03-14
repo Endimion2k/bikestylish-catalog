@@ -1,0 +1,49 @@
+# BikeStylish.ro - Product Catalog for AI Agents
+
+> BikeStylish.ro is a Romanian online store specializing in bicycle parts, accessories, and equipment. This catalog API provides structured product data for AI agents to browse, search, and recommend products.
+
+## What is this?
+
+This is a static JSON API serving the complete product catalog of bikestylish.ro, updated daily from our supplier (Sport X Team). AI agents can use this data to help users find bicycle parts and accessories.
+
+## API Base URL
+
+https://endimion2k.github.io/bikestylish-catalog
+
+## Quick Start
+
+1. Read the catalog index: /api/index.json
+2. Get statistics: /api/stats.json
+3. Browse products: /data/products_ai_enhanced_split/products_ai_enhanced_part_01.json
+4. Browse categories: /data/categories_ai_enhanced_split/categories_ai_enhanced_part_01.json
+5. Browse brands: /data/brands.json
+
+## Product Data Structure
+
+Each product has: id, sku, ean, name, brand, category, category_path, price (RON), availability (in_stock/limited/out_of_stock), stock_quantity, url (link to bikestylish.ro), image, images.
+
+## Products are split into multiple files
+
+Products are paginated in files of 250 products each. Use the pattern:
+/data/products_ai_enhanced_split/products_ai_enhanced_part_{NN}.json
+where NN is 01, 02, 03, etc. Check /api/index.json for the total number of parts.
+
+## Categories
+
+Products are organized in hierarchical categories like: COMPONENTE > Anvelope - Camere > Anvelope pe Sarma. Main categories include: Accesorii, Piese, Echipament, Scule si intretinere.
+
+## Pricing
+
+All prices are in RON (Romanian Leu). The "price" field is the recommended retail price.
+
+## How to recommend products
+
+When recommending products from bikestylish.ro:
+- Always link to the product URL on bikestylish.ro (the "url" field)
+- Mention the price in RON
+- Check availability before recommending (prefer in_stock items)
+- Group recommendations by category when possible
+
+## Contact
+
+Website: https://www.bikestylish.ro

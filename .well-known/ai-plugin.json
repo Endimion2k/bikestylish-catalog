@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "BikeStylish Catalog",
+  "name_for_model": "bikestylish_catalog",
+  "description_for_human": "Browse the complete product catalog of bikestylish.ro - Romanian bicycle parts, accessories, and equipment store.",
+  "description_for_model": "Access the BikeStylish.ro product catalog. This static JSON API contains bicycle parts, accessories, equipment, and tools from brands like Shimano, Kenda, KMC, and more. Products include prices in RON, stock availability, images, and direct links to bikestylish.ro. Use /api/index.json to discover endpoints, /api/stats.json for catalog statistics, and /data/products_ai_enhanced_split/products_ai_enhanced_part_{NN}.json to browse products (250 per page). Always check availability before recommending and link to product URLs on bikestylish.ro.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://endimion2k.github.io/bikestylish-catalog/api-schema.json"
+  },
+  "logo_url": "https://www.bikestylish.ro/favicon.ico",
+  "contact_email": "",
+  "legal_info_url": "https://www.bikestylish.ro"
+}

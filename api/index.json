@@ -1,0 +1,36 @@
+{
+  "name": "BikeStylish Product Catalog API",
+  "description": "Complete product catalog for bikestylish.ro - Romanian bicycle parts, accessories, and equipment store. Powered by Sport X Team.",
+  "website": "https://www.bikestylish.ro",
+  "api_base": "https://endimion2k.github.io/bikestylish-catalog",
+  "last_updated": "2026-03-14T13:32:10.940285+00:00",
+  "endpoints": {
+    "stats": "/api/stats.json",
+    "brands": "/data/brands.json",
+    "categories": "/data/categories_ai_enhanced_split/categories_ai_enhanced_part_01.json",
+    "products": {
+      "pattern": "/data/products_ai_enhanced_split/products_ai_enhanced_part_{NN}.json",
+      "parts": 20,
+      "products_per_part": 250,
+      "total_products": 4765,
+      "example": "/data/products_ai_enhanced_split/products_ai_enhanced_part_01.json"
+    }
+  },
+  "product_schema": {
+    "id": "string - SKU code",
+    "sku": "string - same as id",
+    "ean": "string - EAN barcode",
+    "name": "string - product name (Romanian)",
+    "brand": "string - manufacturer name",
+    "category": "string - main category name",
+    "category_path": "string - full category hierarchy (e.g. 'COMPONENTE > Anvelope')",
+    "price": "number - recommended retail price in RON",
+    "currency": "string - always RON",
+    "availability": "string - in_stock | limited | out_of_stock",
+    "stock_quantity": "integer - exact stock count",
+    "weight_kg": "number - product weight in kg (when available)",
+    "url": "string - product page URL on bikestylish.ro",
+    "image": "string - main product image URL",
+    "images": "array - all product image URLs"
+  }
+}
