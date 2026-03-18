@@ -1,14 +1,339 @@
 {
-  "last_updated": "2026-03-17T03:49:28.343322+00:00",
-  "total_products": 244,
+  "last_updated": "2026-03-18T03:53:23.686049+00:00",
+  "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 19,
-    "total_parts": 19,
-    "product_range": "4501-4744",
-    "original_total": 4744
+    "total_parts": 20,
+    "product_range": "4501-4750",
+    "original_total": 4761
   },
   "products": [
+    {
+      "id": "000110",
+      "sku": "000110",
+      "name": "ANVELOPA 30 x 1.95",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 4,
+      "url": "https://www.bikestylish.ro/anvelopa-30-x-1-95.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "specs": {
+        "dimensions": "30 x 1.95"
+      }
+    },
+    {
+      "id": "000574",
+      "sku": "000574",
+      "name": "ANVELOPA TROTINETA CST 8 1/2x2 (50/75-6.1) Negru C-9361 4PR",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "url": "https://www.bikestylish.ro/anvelopa-trotineta-cst-8-1-2x2-50-75-6-1-negru-c-9361-4pr.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "001419",
+      "sku": "001419",
+      "name": "ANVELOPA 27.5-2.8 CST PATROL (56-622) Negru SRI-94 Rigid",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "url": "https://www.bikestylish.ro/anvelopa-27-5-2-8-cst-patrol-56-622-negru-sri-94-rigid.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "00317",
+      "sku": "00317",
+      "name": "SLIDER PLASTIC SXT",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 7,
+      "url": "https://www.bikestylish.ro/slider-plastic-sxt.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "Plastic"
+      ],
+      "specs": {
+        "material": "Plastic"
+      }
+    },
+    {
+      "id": "012658",
+      "sku": "012658",
+      "name": "CAMERA CST 8-1/2x2.0 (48/52-134) Ventil Drept AV -20 mm",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "url": "https://www.bikestylish.ro/camera-cst-8-1-2x2-0-48-52-134-ventil-drept-av-20-mm.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "Schrader"
+      ],
+      "specs": {
+        "valve_type": "Schrader (AV)"
+      }
+    },
+    {
+      "id": "012675",
+      "sku": "012675",
+      "name": "CAMERA CST 29x1.90/2.35 FV 48mm RVC",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "url": "https://www.bikestylish.ro/camera-cst-29x1-90-2-35-fv-48mm-rvc.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "Presta"
+      ],
+      "specs": {
+        "dimensions": "29 x 1.90",
+        "valve_type": "Presta (FV)"
+      }
+    },
+    {
+      "id": "02649N",
+      "sku": "02649N",
+      "name": "MANSOANE MTB ARIETE BASALTO Negru 130 mm",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "url": "https://www.bikestylish.ro/mansoane-mtb-ariete-basalto-negru-130-mm.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "MTB"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "02649VL",
+      "sku": "02649VL",
+      "name": "MANSOANE MTB ARIETE BASALTO Verde Lime 130 mm",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "url": "https://www.bikestylish.ro/mansoane-mtb-ariete-basalto-verde-lime-130-mm.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "MTB"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "color": "Verde"
+      }
+    },
+    {
+      "id": "044511",
+      "sku": "044511",
+      "ean": "8581500445116",
+      "name": "SA SELLE SMP TOUR 1065 KIM NEGRU",
+      "brand": "SXT",
+      "category": "Sei",
+      "category_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
+      "price": 45.0,
+      "price_net": 37.19,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 17,
+      "weight_kg": 0.5,
+      "url": "https://www.bikestylish.ro/sa-selle-smp-tour-1065-kim-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/sa-selle-smp-tour-1065-kim-negru~11426508.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/sa-selle-smp-tour-1065-kim-negru~11426508.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "Sei"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "081081",
+      "sku": "081081",
+      "name": "STAND BICICLETE ROYALBABY",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 3,
+      "url": "https://www.bikestylish.ro/stand-biciclete-royalbaby.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "specs": {
+        "color": "Alb"
+      }
+    },
+    {
+      "id": "084568",
+      "sku": "084568",
+      "name": "CUTIE CARTON ROTI",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 70,
+      "url": "https://www.bikestylish.ro/cutie-carton-roti.html",
+      "image": "None",
+      "images": [
+        "None"
+      ]
+    },
+    {
+      "id": "087100",
+      "sku": "087100",
+      "name": "CORT M-WAVE",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "url": "https://www.bikestylish.ro/cort-m-wave.html",
+      "image": "None",
+      "images": [
+        "None"
+      ]
+    },
+    {
+      "id": "0903407",
+      "sku": "0903407",
+      "name": "CHEIE SPITE SUPER B TB 5540 3.2 MM",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "url": "https://www.bikestylish.ro/cheie-spite-super-b-tb-5540-3-2-mm.html",
+      "image": "None",
+      "images": [
+        "None"
+      ]
+    },
+    {
+      "id": "1000001",
+      "sku": "1000001",
+      "name": "SET ROTI MAVIC 27.5x19C NOVATEC -CL",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "url": "https://www.bikestylish.ro/set-roti-mavic-27-5x19c-novatec-cl.html",
+      "image": "None",
+      "images": [
+        "None"
+      ]
+    },
+    {
+      "id": "10050130",
+      "sku": "10050130",
+      "name": "FURCA ALUMINIU-CARBON 700UD A791 RAW",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "url": "https://www.bikestylish.ro/furca-aluminiu-carbon-700ud-a791-raw.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "Aluminiu"
+      ],
+      "specs": {
+        "material": "Aluminiu"
+      }
+    },
+    {
+      "id": "110927",
+      "sku": "110927",
+      "ean": "2802140000005",
+      "name": "BUTUC SPATED462SB-SL-CL-B12 S3-S11S 32H NEGRU NOVATEC",
+      "brand": "NOVATEC",
+      "category": "Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci Frana Disc",
+      "price": 470.0,
+      "price_net": 388.43,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 0.46,
+      "url": "https://www.bikestylish.ro/butuc-spated462sb-sl-cl-b12-s3-s11s-32h-negru-novatec.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-spated462sb-sl-cl-b12-s3-s11s-32h-negru-novatec~11426880.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-spated462sb-sl-cl-b12-s3-s11s-32h-negru-novatec~11426880.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/butuc-spated462sb-sl-cl-b12-s3-s11s-32h-negru-novatec~11426883.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-spated462sb-sl-cl-b12-s3-s11s-32h-negru-novatec~11426886.jpg"
+      ],
+      "tags": [
+        "11 viteze",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "NOVATEC"
+      ],
+      "specs": {
+        "color": "Negru",
+        "speeds": 11
+      }
+    },
     {
       "id": "111030",
       "sku": "111030",
@@ -3069,7 +3394,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 16,
       "weight_kg": 0.9,
       "url": "https://www.bikestylish.ro/elastic-portbagaj-sxt-600.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/elastic-portbagaj-sxt-600~11303235.jpg",
@@ -3150,7 +3475,7 @@
       "price_net": 82.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 76,
+      "stock_quantity": 75,
       "weight_kg": 42.0,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-albastru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-sxt-n-13-nylon-fiber-albastru~11326176.jpg",
@@ -3242,7 +3567,7 @@
       "price_net": 82.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 82,
+      "stock_quantity": 81,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-sxt-n-13-nylon-fiber-rosu~11326203.jpg",
@@ -3368,7 +3693,7 @@
       "price_net": 24.79,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 448,
+      "stock_quantity": 443,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-215x-negru-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-plastic-sxt-215x-negru-9-16~11326266.jpg",
@@ -3945,13 +4270,43 @@
       }
     },
     {
+      "id": "519993",
+      "sku": "519993",
+      "ean": "887539050627",
+      "name": "Set Valve M-WAVE XPRS",
+      "brand": "M-WAVE",
+      "category": "Accesorii Camere Biciclete",
+      "category_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta > Accesorii Camere Biciclete",
+      "price": 6.0,
+      "price_net": 4.96,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/set-valve-m-wave-xprs.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-valve-m-wave-xprs~11517114.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/set-valve-m-wave-xprs~11517114.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/set-valve-m-wave-xprs~11517117.jpg"
+      ],
+      "tags": [
+        "Accesorii Camere Biciclete",
+        "COMPONENTE",
+        "M-WAVE",
+        "Schrader"
+      ],
+      "specs": {
+        "valve_type": "Schrader (AV)"
+      }
+    },
+    {
       "id": "529693",
       "sku": "529693",
       "ean": "047853630657",
       "name": "Anvelopa KENDA KADRE 26 x 2.10 ( 54-559) K-1027",
       "brand": "KENDA",
-      "category": "Anvelope pe Sarma",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma",
+      "category": "Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
       "price": 80.0,
       "price_net": 66.11,
       "currency": "RON",
@@ -3963,10 +4318,9 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kenda-kadre-26-x-2-10-54-559-k-1027~11991924.jpg"
       ],
-      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
       "tags": [
         "26 inch",
-        "Anvelope pe Sarma",
+        "Anvelope pe Sârmă",
         "COMPONENTE",
         "KENDA"
       ],
@@ -4251,7 +4605,7 @@
       "category": "Protectii Antipana",
       "category_path": "COMPONENTE > Anvelope - Camere > Protectii Antipana",
       "secondary_categories": [
-        "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma"
+        "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă"
       ],
       "price": 350.0,
       "price_net": 289.26,
@@ -4284,7 +4638,7 @@
       "category": "Protectii Antipana",
       "category_path": "COMPONENTE > Anvelope - Camere > Protectii Antipana",
       "secondary_categories": [
-        "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma"
+        "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă"
       ],
       "price": 350.0,
       "price_net": 289.26,
@@ -5010,7 +5364,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 12,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/set-leviere-metal-super-b-tb-tl21.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-leviere-metal-super-b-tb-tl21~12073464.jpg",
@@ -5279,7 +5633,7 @@
       "price_net": 28.93,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 16,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/mansoane-sxt-118-mm-tpr-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-sxt-118-mm-tpr-negru~12073683.jpg",
@@ -5354,8 +5708,8 @@
       "sku": "558144",
       "name": "Anvelopa KUJO One 0 One A 700 x 40C (42-622) Negru",
       "brand": "KUJO",
-      "category": "Anvelope pe Sarma",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma",
+      "category": "Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -5369,9 +5723,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-kujo-one-0-one-a-700-x-40c-42-622-negru~12073716.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kujo-one-0-one-a-700-x-40c-42-622-negru~12073719.jpg"
       ],
-      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
       "tags": [
-        "Anvelope pe Sarma",
+        "Anvelope pe Sârmă",
         "COMPONENTE",
         "KUJO"
       ],
@@ -5386,8 +5739,8 @@
       "ean": "047853637779",
       "name": "Anvelopa KENDA KADRE Sport Protect 29 x 2.20(56-622) K- 1027",
       "brand": "KENDA",
-      "category": "Anvelope pe Sarma",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma",
+      "category": "Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
       "price": 110.0,
       "price_net": 90.91,
       "currency": "RON",
@@ -5400,10 +5753,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-kenda-kadre-sport-protect-29-x-2-20-56-622-k-1027~12073725.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-kenda-kadre-sport-protect-29-x-2-20-56-622-k-1027~12073728.jpg"
       ],
-      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
       "tags": [
         "29 inch",
-        "Anvelope pe Sarma",
+        "Anvelope pe Sârmă",
         "COMPONENTE",
         "KENDA"
       ],
@@ -5474,8 +5826,8 @@
       "sku": "519105-05292",
       "name": "Anvelopa TANNUS Airless 22 X 1.3/8 Wheelchair",
       "brand": "TANNUS",
-      "category": "Anvelope pe Sarma",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma",
+      "category": "Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
       "price": 350.0,
       "price_net": 289.26,
       "currency": "RON",
@@ -5488,9 +5840,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-tannus-airless-22-x-1-3-8-wheelchair~12275709.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-tannus-airless-22-x-1-3-8-wheelchair~12275712.jpg"
       ],
-      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
       "tags": [
-        "Anvelope pe Sarma",
+        "Anvelope pe Sârmă",
         "COMPONENTE",
         "TANNUS"
       ]
@@ -5500,8 +5851,8 @@
       "sku": "11E00491",
       "name": "Anvelopa VITTORIA e-RANDONNEUR 700 x 48C(50-622) Rigid Reflectorizant Negru - Maro",
       "brand": "VITTORIA",
-      "category": "Anvelope pe Sarma",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma",
+      "category": "Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
       "secondary_categories": [
         "e- MOBILITY > Componente E-Bike"
       ],
@@ -5516,9 +5867,8 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-vittoria-e-randonneur-700-x-48c-50-622-rigid-reflectorizant~12342552.jpg"
       ],
-      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
       "tags": [
-        "Anvelope pe Sarma",
+        "Anvelope pe Sârmă",
         "COMPONENTE",
         "VITTORIA"
       ],
@@ -5532,13 +5882,13 @@
       "sku": "11E00275",
       "name": "Anvelopa VITTORIA Urbano 700x40C(42-622) Negru 965g Rigid",
       "brand": "VITTORIA",
-      "category": "Anvelope pe Sarma",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma",
+      "category": "Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
       "price": 65.0,
       "price_net": 53.72,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 105,
+      "stock_quantity": 97,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-urbano-700x40c-42-622-negru-965g-rigid.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-urbano-700x40c-42-622-negru-965g-rigid~12342570.jpg",
@@ -5548,9 +5898,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-vittoria-urbano-700x40c-42-622-negru-965g-rigid~12378846.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-urbano-700x40c-42-622-negru-965g-rigid~12378849.jpg"
       ],
-      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
       "tags": [
-        "Anvelope pe Sarma",
+        "Anvelope pe Sârmă",
         "COMPONENTE",
         "City/Trekking",
         "VITTORIA"
@@ -5568,8 +5917,8 @@
       "sku": "11E00276",
       "name": "Anvelopa VITTORIA Urbano 700x45C(47-622) Negru Rigid",
       "brand": "VITTORIA",
-      "category": "Anvelope pe Sarma",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma",
+      "category": "Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
       "price": 65.0,
       "price_net": 53.72,
       "currency": "RON",
@@ -5585,9 +5934,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid~12378837.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid~12378840.jpg"
       ],
-      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
       "tags": [
-        "Anvelope pe Sarma",
+        "Anvelope pe Sârmă",
         "COMPONENTE",
         "City/Trekking",
         "VITTORIA"
@@ -5630,335 +5978,6 @@
         "dimensions": "16 x 1.5",
         "valve_type": "Schrader (AV)"
       }
-    },
-    {
-      "id": "1TE00019",
-      "sku": "1TE00019",
-      "name": "Camera Standard VITTORIA 20x1.95/2.125 AV Schrader 48mm (OEM)",
-      "brand": "VITTORIA",
-      "category": "Camere de Bicicleta",
-      "category_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta",
-      "price": 15.0,
-      "price_net": 12.4,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.1,
-      "url": "https://www.bikestylish.ro/camera-standard-vittoria-20x1-95-2-125-av-schrader-48mm-oem.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/camera-standard-vittoria-20x1-95-2-125-av-schrader-48mm-oem~12347139.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/camera-standard-vittoria-20x1-95-2-125-av-schrader-48mm-oem~12347139.jpg"
-      ],
-      "tags": [
-        "20 inch",
-        "COMPONENTE",
-        "Camere de Bicicleta",
-        "Schrader",
-        "VITTORIA"
-      ],
-      "specs": {
-        "wheel_size": "20",
-        "dimensions": "20 x 1.95",
-        "valve_type": "Schrader (AV)"
-      }
-    },
-    {
-      "id": "1TE00031",
-      "sku": "1TE00031",
-      "name": "Camera Standard VITTORIA 27.5x1.95/2.50 AV Schrader 48mm (OEM)",
-      "brand": "VITTORIA",
-      "category": "Camere de Bicicleta",
-      "category_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta",
-      "price": 15.0,
-      "price_net": 12.4,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 1620,
-      "weight_kg": 0.1,
-      "url": "https://www.bikestylish.ro/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm-oem.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm-oem~12346995.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm-oem~12346995.jpg"
-      ],
-      "tags": [
-        "27.5 inch",
-        "COMPONENTE",
-        "Camere de Bicicleta",
-        "Schrader",
-        "VITTORIA"
-      ],
-      "specs": {
-        "wheel_size": "27.5",
-        "valve_type": "Schrader (AV)"
-      }
-    },
-    {
-      "id": "1TE00035",
-      "sku": "1TE00035",
-      "name": "Camera Standard VITTORIA 29 x 1.5-2.0 AV Schrader 48mm (OEM)",
-      "brand": "VITTORIA",
-      "category": "Camere de Bicicleta",
-      "category_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta",
-      "price": 15.0,
-      "price_net": 12.4,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.1,
-      "url": "https://www.bikestylish.ro/camera-standard-vittoria-29-x-1-5-2-0-av-schrader-48mm-oem.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-standard-vittoria-29-x-1-5-2-0-av-schrader-48mm-oem~12345972.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/camera-standard-vittoria-29-x-1-5-2-0-av-schrader-48mm-oem~12345972.jpg"
-      ],
-      "tags": [
-        "29 inch",
-        "COMPONENTE",
-        "Camere de Bicicleta",
-        "Schrader",
-        "VITTORIA"
-      ],
-      "specs": {
-        "wheel_size": "29",
-        "dimensions": "29 x 1.5-2.0",
-        "valve_type": "Schrader (AV)"
-      }
-    },
-    {
-      "id": "1TE00037",
-      "sku": "1TE00037",
-      "name": "Camera Standard VITTORIA 29x1.95/2.50 AV Schrader 48mm (OEM)",
-      "brand": "VITTORIA",
-      "category": "Camere de Bicicleta",
-      "category_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta",
-      "price": 15.0,
-      "price_net": 12.4,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 1460,
-      "weight_kg": 0.1,
-      "url": "https://www.bikestylish.ro/camera-standard-vittoria-29x1-95-2-50-av-schrader-48mm-oem.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-standard-vittoria-29x1-95-2-50-av-schrader-48mm-oem~12345645.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/camera-standard-vittoria-29x1-95-2-50-av-schrader-48mm-oem~12345645.jpg"
-      ],
-      "tags": [
-        "29 inch",
-        "COMPONENTE",
-        "Camere de Bicicleta",
-        "Schrader",
-        "VITTORIA"
-      ],
-      "specs": {
-        "wheel_size": "29",
-        "dimensions": "29 x 1.95",
-        "valve_type": "Schrader (AV)"
-      }
-    },
-    {
-      "id": "C958392",
-      "sku": "C958392",
-      "ean": "4006021013209",
-      "name": "Oglinda Busch + Müller E-Bike - 913/801VLME",
-      "brand": "SXT",
-      "category": "Oglinzi",
-      "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
-      "secondary_categories": [
-        "e- MOBILITY > Accesorii E-Bike"
-      ],
-      "price": 121.0,
-      "price_net": 100.0,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.1,
-      "url": "https://www.bikestylish.ro/oglinda-busch-m-ller-e-bike-913-801vlme.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/oglinda-busch-muller-e-bike-913-801vlme~12389217.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/oglinda-busch-muller-e-bike-913-801vlme~12389217.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/oglinda-busch-muller-e-bike-913-801vlme~12389220.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "E-Bike",
-        "Oglinzi",
-        "SXT"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ]
-      }
-    },
-    {
-      "id": "390607",
-      "sku": "390607",
-      "ean": "2802560000005",
-      "name": "Set Distantiere SXT 5 mm 4 buc Rosu",
-      "brand": "SXT",
-      "category": "Flori Furca - Distantiere, Accesorii",
-      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > Flori Furca - Distantiere, Accesorii",
-      "price": 30.0,
-      "price_net": 24.79,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 47,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/set-distantiere-sxt-5-mm-4-buc-rosu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/set-distantiere-sxt-5-mm-4-buc-rosu~12585096.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/set-distantiere-sxt-5-mm-4-buc-rosu~12585096.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/set-distantiere-sxt-5-mm-4-buc-rosu~12585009.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "Flori Furca - Distantiere, Accesorii",
-        "SXT"
-      ],
-      "specs": {
-        "color": "Rosu"
-      }
-    },
-    {
-      "id": "390608",
-      "sku": "390608",
-      "ean": "2802561000004",
-      "name": "Set Distantiere SXT 5 mm 4 buc Mov",
-      "brand": "SXT",
-      "category": "Flori Furca - Distantiere, Accesorii",
-      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > Flori Furca - Distantiere, Accesorii",
-      "price": 30.0,
-      "price_net": 24.79,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 48,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/set-distantiere-sxt-5-mm-4-buc-mov.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/set-distantiere-sxt-5-mm-4-buc-mov~12585093.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/set-distantiere-sxt-5-mm-4-buc-mov~12585093.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/set-distantiere-sxt-5-mm-4-buc-mov~12585021.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "Flori Furca - Distantiere, Accesorii",
-        "SXT"
-      ],
-      "specs": {
-        "color": "Mov"
-      }
-    },
-    {
-      "id": "390609",
-      "sku": "390609",
-      "ean": "2802562000003",
-      "name": "Set Distantiere SXT 5 mm 4 buc Gold",
-      "brand": "SXT",
-      "category": "Flori Furca - Distantiere, Accesorii",
-      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > Flori Furca - Distantiere, Accesorii",
-      "price": 30.0,
-      "price_net": 24.79,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 47,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/set-distantiere-sxt-5-mm-4-buc-gold.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/set-distantiere-sxt-5-mm-4-buc-gold~12585087.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/set-distantiere-sxt-5-mm-4-buc-gold~12585087.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/set-distantiere-sxt-5-mm-4-buc-gold~12585039.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "Flori Furca - Distantiere, Accesorii",
-        "SXT"
-      ],
-      "specs": {
-        "color": "Gold"
-      }
-    },
-    {
-      "id": "390610",
-      "sku": "390610",
-      "ean": "2802563000002",
-      "name": "Set Distantiere SXT 5 mm 4 buc Albastru",
-      "brand": "SXT",
-      "category": "Flori Furca - Distantiere, Accesorii",
-      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > Flori Furca - Distantiere, Accesorii",
-      "price": 30.0,
-      "price_net": 24.79,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 46,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/set-distantiere-sxt-5-mm-4-buc-albastru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-distantiere-sxt-5-mm-4-buc-albastru~12585084.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/set-distantiere-sxt-5-mm-4-buc-albastru~12585084.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/set-distantiere-sxt-5-mm-4-buc-albastru~12585048.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "Flori Furca - Distantiere, Accesorii",
-        "SXT"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
-    {
-      "id": "390611",
-      "sku": "390611",
-      "ean": "2802564000001",
-      "name": "Set Distantiere SXT 5 mm 4 buc Verde Apple",
-      "brand": "SXT",
-      "category": "Flori Furca - Distantiere, Accesorii",
-      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > Flori Furca - Distantiere, Accesorii",
-      "price": 30.0,
-      "price_net": 24.79,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 47,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/set-distantiere-sxt-5-mm-4-buc-verde-apple.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-distantiere-sxt-5-mm-4-buc-verde-apple~12585078.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/set-distantiere-sxt-5-mm-4-buc-verde-apple~12585078.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/set-distantiere-sxt-5-mm-4-buc-verde-apple~12585060.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "Flori Furca - Distantiere, Accesorii",
-        "SXT"
-      ],
-      "specs": {
-        "color": "Verde"
-      }
-    },
-    {
-      "id": "3885972",
-      "sku": "3885972",
-      "name": "Roata Spate 27,5” (584) x 32H NEO - 2 Rulmenti",
-      "brand": "SXT",
-      "category": "Roti",
-      "category_path": "COMPONENTE > Roti - Componente > Roti",
-      "price": 375.0,
-      "price_net": 309.92,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
-      "weight_kg": 2.0,
-      "url": "https://www.bikestylish.ro/roata-spate-27-5-584-x-32h-neo-2-rulmenti.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/roata-spate-27-5%E2%80%9D-584-x-32h-neo-2-rulmenti~12601665.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/roata-spate-27-5%E2%80%9D-584-x-32h-neo-2-rulmenti~12601665.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-27-5%E2%80%9D-584-x-32h-neo-2-rulmenti~12601668.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/roata-spate-27-5%E2%80%9D-584-x-32h-neo-2-rulmenti~12601671.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "Roti",
-        "SXT"
-      ]
     }
   ],
   "categories": [
@@ -5968,6 +5987,13 @@
       "full_path": "ACCESORII > Aparatori Noroi > Accesorii Aparatori Noroi",
       "product_count": 1,
       "in_stock_count": 1
+    },
+    {
+      "id": "accesorii-camere-biciclete",
+      "name": "Accesorii Camere Biciclete",
+      "full_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta > Accesorii Camere Biciclete",
+      "product_count": 18,
+      "in_stock_count": 13
     },
     {
       "id": "accesorii-e-bike",
@@ -6076,8 +6102,8 @@
     },
     {
       "id": "anvelope-pe-sarma",
-      "name": "Anvelope pe Sarma",
-      "full_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma",
+      "name": "Anvelope pe Sârmă",
+      "full_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
       "product_count": 181,
       "in_stock_count": 127
     },
@@ -6226,7 +6252,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 114,
-      "in_stock_count": 77
+      "in_stock_count": 76
     },
     {
       "id": "butuci-v-break-dinam",
@@ -6261,7 +6287,7 @@
       "name": "Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta",
       "product_count": 87,
-      "in_stock_count": 57
+      "in_stock_count": 56
     },
     {
       "id": "capete-cablu-manta",
@@ -6562,7 +6588,7 @@
       "name": "Manete Schimbator",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > Schimbatoare - Accesorii > Manete Schimbator",
       "product_count": 28,
-      "in_stock_count": 22
+      "in_stock_count": 20
     },
     {
       "id": "mansoane",
@@ -6660,7 +6686,7 @@
       "name": "Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
       "product_count": 143,
-      "in_stock_count": 112
+      "in_stock_count": 111
     },
     {
       "id": "pedaliere-angrenaje",
@@ -6695,14 +6721,14 @@
       "name": "Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Pipe Ghidon",
       "product_count": 46,
-      "in_stock_count": 36
+      "in_stock_count": 35
     },
     {
       "id": "placute-frana-disc",
       "name": "Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > Placute Frana Disc",
       "product_count": 29,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "pompe-ciclism",
@@ -6841,8 +6867,8 @@
       "id": "sei",
       "name": "Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
-      "product_count": 96,
-      "in_stock_count": 84
+      "product_count": 95,
+      "in_stock_count": 83
     },
     {
       "id": "sei-tije-coliere",
@@ -6975,7 +7001,7 @@
       "name": "Trotinete Electrice",
       "full_path": "e- MOBILITY > Trotinete Electrice",
       "product_count": 39,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "truse-unelte-mini-truse",
@@ -6996,7 +7022,7 @@
       "name": "Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > Unelte Speciale Biciclete",
       "product_count": 180,
-      "in_stock_count": 149
+      "in_stock_count": 146
     },
     {
       "id": "urechi-protectii-cadre",

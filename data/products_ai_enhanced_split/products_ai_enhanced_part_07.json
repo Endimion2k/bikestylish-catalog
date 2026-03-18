@@ -1,14 +1,351 @@
 {
-  "last_updated": "2026-03-17T03:49:28.343322+00:00",
+  "last_updated": "2026-03-18T03:53:23.686049+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
-    "total_parts": 19,
+    "total_parts": 20,
     "product_range": "1501-1750",
-    "original_total": 4744
+    "original_total": 4761
   },
   "products": [
+    {
+      "id": "M631.622.32.04-10",
+      "sku": "M631.622.32.04-10",
+      "ean": "M631.622.32.04-10",
+      "name": "Janta MACH1 KARMA 29(622 x 21C) 32H",
+      "brand": "MACH1",
+      "category": "Jante pentru Frane Disc",
+      "category_path": "COMPONENTE > Roti - Componente > Jante > Jante pentru Frane Disc",
+      "price": 130.0,
+      "price_net": 107.44,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.55,
+      "url": "https://www.bikestylish.ro/janta-mach1-karma-29-622-x-21c-32h.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach1-karma-29-622-x-21c-32h~12381912.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach1-karma-29-622-x-21c-32h~12381912.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/janta-mach1-karma-29-622-x-21c-32h~8290198.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Jante pentru Frane Disc",
+        "MACH1"
+      ],
+      "specs": {
+        "dimensions": "622 x 21"
+      }
+    },
+    {
+      "id": "ML21.584.32",
+      "sku": "ML21.584.32",
+      "ean": "2802486000004",
+      "name": "Janta MACH 1 TRUKY 40 27.5(584 x 40C) 32H Negru Capsata",
+      "brand": "MACH1",
+      "category": "Jante pentru Frane Disc",
+      "category_path": "COMPONENTE > Roti - Componente > Jante > Jante pentru Frane Disc",
+      "price": 215.0,
+      "price_net": 177.69,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 3,
+      "weight_kg": 0.76,
+      "url": "https://www.bikestylish.ro/janta-mach-1-truky-40-27-5-584-x-40c-32h-negru-capsata.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/janta-mach-1-truky-40-27-5-584-x-40c-32h-negru-capsata~8289376.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/janta-mach-1-truky-40-27-5-584-x-40c-32h-negru-capsata~8289376.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/janta-mach-1-truky-40-27-5-584-x-40c-32h-negru-capsata~8290204.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/janta-mach-1-truky-40-27-5-584-x-40c-32h-negru-capsata~8290207.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/janta-mach-1-truky-40-27-5-584-x-40c-32h-negru-capsata~8290210.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Jante pentru Frane Disc",
+        "MACH1"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "584 x 40"
+      }
+    },
+    {
+      "id": "IVC640",
+      "sku": "IVC640",
+      "ean": "8053329966511",
+      "name": "Kit Conversie Butuc Spate BRACO 142-148 mm Boost (3 mm)",
+      "brand": "SXT",
+      "category": "Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci Frana Disc",
+      "price": 55.0,
+      "price_net": 45.45,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 12,
+      "weight_kg": 0.62,
+      "url": "https://www.bikestylish.ro/kit-conversie-butuc-spate-braco-142-148-mm-boost-3-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/kit-conversie-butuc-spate-braco-142-148-mm-boost-3-mm~8289379.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/kit-conversie-butuc-spate-braco-142-148-mm-boost-3-mm~8289379.jpg"
+      ],
+      "tags": [
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "SXT"
+      ]
+    },
+    {
+      "id": "IVC648",
+      "sku": "IVC648",
+      "ean": "8053329967600",
+      "name": "Cheie Angrenaj E-Bike 18-53T",
+      "brand": "SXT",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "COMPONENTE > Unelte Service > Unelte Speciale Biciclete",
+      "price": 199.0,
+      "price_net": 164.46,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 1.45,
+      "url": "https://www.bikestylish.ro/cheie-angrenaj-e-bike-18-53t.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/cheie-angrenaj-e-bike-18-53t~8289382.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/cheie-angrenaj-e-bike-18-53t~8289382.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/cheie-angrenaj-e-bike-18-53t~8290213.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "E-Bike",
+        "SXT",
+        "Unelte Speciale Biciclete"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
+      }
+    },
+    {
+      "id": "IVG047",
+      "sku": "IVG047",
+      "ean": "8055320654206",
+      "name": "Manusi B-RACE BUMP Negru/Rosu M",
+      "brand": "SXT",
+      "category": "Manusi Ciclism",
+      "category_path": "ECHIPAMENTE > Manusi Ciclism",
+      "price": 45.0,
+      "price_net": 37.19,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 11,
+      "url": "https://www.bikestylish.ro/manusi-b-race-bump-negru-rosu-m.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/manusi-b-race-bump-negru-rosu-m~8289385.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/manusi-b-race-bump-negru-rosu-m~8289385.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/manusi-b-race-bump-negru-rosu-m~8290216.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/manusi-b-race-bump-negru-rosu-m~8290219.jpg"
+      ],
+      "tags": [
+        "ECHIPAMENTE",
+        "Manusi Ciclism",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "I9F035",
+      "sku": "I9F035",
+      "ean": "8051772123307",
+      "name": "Far cu Baterii BONIN OMEGA 1Watt",
+      "brand": "SXT",
+      "category": "Lumini Fata",
+      "category_path": "ACCESORII > Lumini - Accesorii > Lumini Fata",
+      "price": 35.0,
+      "price_net": 28.93,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 8,
+      "url": "https://www.bikestylish.ro/far-cu-baterii-bonin-omega-1watt.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/far-cu-baterii-bonin-omega-1watt~8289388.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/far-cu-baterii-bonin-omega-1watt~8289388.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "Lumini Fata",
+        "SXT"
+      ]
+    },
+    {
+      "id": "IVT006",
+      "sku": "IVT006",
+      "ean": "8051772126704",
+      "name": "Cheie Butuc/Spite 5,65 mm MAVIC",
+      "brand": "SXT",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "COMPONENTE > Unelte Service > Unelte Speciale Biciclete",
+      "price": 75.0,
+      "price_net": 61.98,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "url": "https://www.bikestylish.ro/cheie-butuc-spite-5-65-mm-mavic.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/cheie-butuc-spite-5-65-mm-mavic~8289391.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/cheie-butuc-spite-5-65-mm-mavic~8289391.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "Unelte Speciale Biciclete"
+      ]
+    },
+    {
+      "id": "C161120",
+      "sku": "C161120",
+      "ean": "4524667299165",
+      "name": "Schimbator Spate SHIMANO XT Shadow black RD- 780 GS 10 vit.",
+      "brand": "SHIMANO",
+      "category": "Schimbatoare Spate",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > Schimbatoare - Accesorii > Schimbatoare Spate",
+      "price": 440.0,
+      "price_net": 363.64,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "url": "https://www.bikestylish.ro/schimbator-spate-shimano-xt-shadow-black-rd-780-gs-10-vit.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/schimbator-spate-shimano-xt-shadow-black-rd-780-gs-10-vit~8289394.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/schimbator-spate-shimano-xt-shadow-black-rd-780-gs-10-vit~8289394.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/schimbator-spate-shimano-xt-shadow-black-rd-780-gs-10-vit~8290222.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SHIMANO",
+        "Schimbatoare Spate"
+      ],
+      "specs": {
+        "color": "Black"
+      }
+    },
+    {
+      "id": "C781190",
+      "sku": "C781190",
+      "ean": "8050148691570",
+      "name": "Butuc Fata MICHE 550 XM-H Boost Thrue Axle 32 H TX-15 110mm",
+      "brand": "SXT",
+      "category": "Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci Frana Disc",
+      "price": 370.0,
+      "price_net": 305.79,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "url": "https://www.bikestylish.ro/butuc-fata-miche-550-xm-h-boost-thrue-axle-32-h-tx-15-110mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-fata-miche-550-xm-h-boost-thrue-axle-32-h-tx-15-110mm~8289397.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-fata-miche-550-xm-h-boost-thrue-axle-32-h-tx-15-110mm~8289397.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-fata-miche-550-xm-h-boost-thrue-axle-32-h-tx-15-110mm~8290225.jpg"
+      ],
+      "tags": [
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "SXT"
+      ]
+    },
+    {
+      "id": "C114272",
+      "sku": "C114272",
+      "ean": "4550170444129",
+      "name": "Butuc Spate SHIMANO XT 12v Disc CL, 32H 157x12 mm Thru-Axle",
+      "brand": "SHIMANO",
+      "category": "Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci Frana Disc",
+      "price": 599.0,
+      "price_net": 495.04,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "url": "https://www.bikestylish.ro/butuc-spate-shimano-xt-12v-disc-cl-32h-157x12-mm-thru-axle.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-spate-shimano-xt-12v-disc-cl-32h-157x12-mm-thru-axle~8289400.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-spate-shimano-xt-12v-disc-cl-32h-157x12-mm-thru-axle~8289400.jpg"
+      ],
+      "tags": [
+        "12 viteze",
+        "Butuci Frana Disc",
+        "COMPONENTE",
+        "SHIMANO"
+      ],
+      "specs": {
+        "speeds": 12,
+        "dimensions": "157 x 12"
+      }
+    },
+    {
+      "id": "ISS020",
+      "sku": "ISS020",
+      "ean": "8055320653681",
+      "name": "Scaun Transport Jucarie pentru Biciclete Copii Roz",
+      "brand": "SXT",
+      "category": "Roti Ajutatoare - Articole Copii",
+      "category_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
+      "price": 45.0,
+      "price_net": 37.19,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 15,
+      "weight_kg": 2.97,
+      "url": "https://www.bikestylish.ro/scaun-transport-jucarie-pentru-biciclete-copii-roz.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/scaun-transport-jucarie-pentru-biciclete-copii-roz~8289406.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/scaun-transport-jucarie-pentru-biciclete-copii-roz~8289406.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "Copii",
+        "Roti Ajutatoare - Articole Copii",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "Copii"
+        ],
+        "color": "Roz"
+      }
+    },
+    {
+      "id": "D103526",
+      "sku": "D103526",
+      "ean": "8581501035262",
+      "name": "Butuc Fata 36H SXT 10x100x160 mm S01E Silver",
+      "brand": "SXT",
+      "category": "Butuci V-Break - Dinam",
+      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci V-Break - Dinam",
+      "price": 55.0,
+      "price_net": 45.45,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 13,
+      "url": "https://www.bikestylish.ro/butuc-fata-36h-sxt-10x100x160-mm-s01e-silver.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-fata-36h-sxt-10x100x160-mm-s01e-silver~8289409.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-fata-36h-sxt-10x100x160-mm-s01e-silver~8289409.jpg"
+      ],
+      "tags": [
+        "Butuci V-Break - Dinam",
+        "COMPONENTE",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Silver",
+        "dimensions": "10 x 100"
+      }
+    },
     {
       "id": "D001384",
       "sku": "D001384",
@@ -663,8 +1000,8 @@
       "ean": "8053329965811",
       "name": "Anvelopa IMPAC 6x1/4 (32-86) GREY IS300",
       "brand": "SXT",
-      "category": "Anvelope pe Sarma",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma",
+      "category": "Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
       "price": 80.0,
       "price_net": 66.12,
       "currency": "RON",
@@ -675,9 +1012,8 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-impac-6x1-4-32-86-grey-is300~8289484.jpg"
       ],
-      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
       "tags": [
-        "Anvelope pe Sarma",
+        "Anvelope pe Sârmă",
         "COMPONENTE",
         "SXT"
       ],
@@ -867,8 +1203,8 @@
       "ean": "2801455000007",
       "name": "Anvelopa KUJO ONE 0 ONE A 16x1.75 (47-305)",
       "brand": "KUJO",
-      "category": "Anvelope pe Sarma",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma",
+      "category": "Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
@@ -881,10 +1217,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-kujo-one-0-one-a-16x1-75-47-305~8289505.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-kujo-one-0-one-a-16x1-75-47-305~8290360.jpg"
       ],
-      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
       "tags": [
         "16 inch",
-        "Anvelope pe Sarma",
+        "Anvelope pe Sârmă",
         "COMPONENTE",
         "KUJO"
       ],
@@ -905,7 +1240,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 412,
+      "stock_quantity": 409,
       "weight_kg": 0.14,
       "url": "https://www.bikestylish.ro/camera-kujo-8-1-2x2-0-48-52-134-ventil-drept-av-22-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/camera-kujo-8-1-2x2-0-48-52-134-ventil-drept-av-22-mm~8289508.jpg",
@@ -967,7 +1302,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 131,
+      "stock_quantity": 130,
       "weight_kg": 0.39,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-black-flat-9-16-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-aluminiu-sxt-black-flat-9-16-negru~8289514.jpg",
@@ -1264,8 +1599,8 @@
       "ean": "193751002574",
       "name": "Anvelopa TANNUS Airless E-bike 20x2.0 Negru 675 grame",
       "brand": "TANNUS",
-      "category": "Anvelope pe Sarma",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma",
+      "category": "Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
       "price": 335.0,
       "price_net": 276.86,
       "currency": "RON",
@@ -1281,10 +1616,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-tannus-airless-e-bike-20x2-0-negru-675-grame~8291026.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-tannus-airless-e-bike-20x2-0-negru-675-grame~8291029.jpg"
       ],
-      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
       "tags": [
         "20 inch",
-        "Anvelope pe Sarma",
+        "Anvelope pe Sârmă",
         "COMPONENTE",
         "E-Bike",
         "TANNUS"
@@ -1310,7 +1644,7 @@
       "price_net": 78.51,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 52,
+      "stock_quantity": 50,
       "weight_kg": 0.19,
       "url": "https://www.bikestylish.ro/adaptor-ghidon-m-wave-cp-lift-1-1-8.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/adaptor-ghidon-m-wave-cp-lift-1-1-8~8290426.jpg",
@@ -3148,8 +3482,8 @@
       "ean": "2801448000007",
       "name": "Anvelopa KUJO MR. ROBSEN 29 x 2.10(54-622)",
       "brand": "KUJO",
-      "category": "Anvelope pe Sarma",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma",
+      "category": "Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
       "price": 59.0,
       "price_net": 48.76,
       "currency": "RON",
@@ -3163,10 +3497,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kujo-mr-robsen-29-x-2-10-54-622~8291314.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kujo-mr-robsen-29-x-2-10-54-622~8291317.jpg"
       ],
-      "category_description": "Wire bead bicycle tires - standard mounting, budget-friendly",
       "tags": [
         "29 inch",
-        "Anvelope pe Sarma",
+        "Anvelope pe Sârmă",
         "COMPONENTE",
         "KUJO"
       ],
@@ -3702,7 +4035,7 @@
       "price_net": 238.84,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-26-559x19c-32h-neuro-disc-2r.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-26-559x19c-32h-neuro-disc-2r~8290687.jpg",
       "images": [
@@ -4009,7 +4342,7 @@
       "price_net": 115.7,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/ghidon-m-wave-hb-c2-1-660-31-8-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ghidon-m-wave-hb-c2-1-660-31-8-mm-negru~8290720.jpg",
@@ -4889,32 +5222,6 @@
       }
     },
     {
-      "id": "44511",
-      "sku": "44511",
-      "name": "Sa SELLE SMP Tour 1065 KIM Negru",
-      "brand": "SXT",
-      "category": "Sei",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
-      "price": 54.99,
-      "price_net": 45.45,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
-      "url": "https://www.bikestylish.ro/sa-selle-smp-tour-1065-kim-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/sa-selle-smp-tour-1065-kim-negru~8290813.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/sa-selle-smp-tour-1065-kim-negru~8290813.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SXT",
-        "Sei"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
       "id": "AE685FSA",
       "sku": "AE685FSA",
       "ean": "2801541000003",
@@ -5112,8 +5419,8 @@
       "price": 999.0,
       "price_net": 825.62,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 6.0,
       "url": "https://www.bikestylish.ro/stand-de-lucru-universal-pliabil-m-wave-top-assist-2-max-50-kg.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/stand-de-lucru-universal-pliabil-m-wave-top-assist-2-max-50-kg~8290840.jpg",
@@ -6914,320 +7221,6 @@
       "specs": {
         "color": "Negru"
       }
-    },
-    {
-      "id": "719321",
-      "sku": "719321",
-      "ean": "2801530000007",
-      "name": "Manusi Ciclism SXT PRO CYCLING AERO Negru - L",
-      "brand": "SXT",
-      "category": "Manusi Ciclism",
-      "category_path": "ECHIPAMENTE > Manusi Ciclism",
-      "price": 60.0,
-      "price_net": 49.59,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 79,
-      "url": "https://www.bikestylish.ro/manusi-ciclism-sxt-pro-cycling-aero-negru-l.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/manusi-ciclism-sxt-pro-cycling-aero-negru-l~8292130.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/manusi-ciclism-sxt-pro-cycling-aero-negru-l~8292130.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/manusi-ciclism-sxt-pro-cycling-aero-negru-l~8292715.jpg"
-      ],
-      "tags": [
-        "ECHIPAMENTE",
-        "Manusi Ciclism",
-        "SXT"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "719322",
-      "sku": "719322",
-      "ean": "2801531000006",
-      "name": "Manusi Ciclism SXT PRO CYCLING AERO - Negru - XL",
-      "brand": "SXT",
-      "category": "Manusi Ciclism",
-      "category_path": "ECHIPAMENTE > Manusi Ciclism",
-      "price": 60.0,
-      "price_net": 49.59,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 23,
-      "url": "https://www.bikestylish.ro/manusi-ciclism-sxt-pro-cycling-aero-negru-xl.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/manusi-ciclism-sxt-pro-cycling-aero-negru-xl~8292133.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/manusi-ciclism-sxt-pro-cycling-aero-negru-xl~8292133.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/manusi-ciclism-sxt-pro-cycling-aero-negru-xl~8292718.jpg"
-      ],
-      "tags": [
-        "ECHIPAMENTE",
-        "Manusi Ciclism",
-        "SXT"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "388278",
-      "sku": "388278",
-      "ean": "2801339000000",
-      "name": "Roata Spate SXT 27.5(584x19C) BASIC QR 36H",
-      "brand": "SXT",
-      "category": "Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > Roti > Roti Spate",
-      "price": 245.0,
-      "price_net": 202.48,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
-      "url": "https://www.bikestylish.ro/roata-spate-sxt-27-5-584x19c-basic-qr-36h.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-sxt-27-5-584x19c-basic-qr-36h~8292136.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-sxt-27-5-584x19c-basic-qr-36h~8292136.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-27-5-584x19c-basic-qr-36h~8292727.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-sxt-27-5-584x19c-basic-qr-36h~8292739.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-sxt-27-5-584x19c-basic-qr-36h~8292736.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/roata-spate-sxt-27-5-584x19c-basic-qr-36h~8292721.jpg"
-      ],
-      "category_description": "Rear wheels - complete, ready to mount",
-      "tags": [
-        "COMPONENTE",
-        "Roti Spate",
-        "SXT"
-      ],
-      "specs": {
-        "dimensions": "584 x 19"
-      }
-    },
-    {
-      "id": "HBT30RN32",
-      "sku": "HBT30RN32",
-      "ean": "4710944247657",
-      "name": "Butuc Spate Single Speed/Fixed STURMEY- ARCHER HBT30 32H Negru",
-      "category": "Butuci V-Break - Dinam",
-      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci V-Break - Dinam",
-      "price": 198.0,
-      "price_net": 163.64,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/butuc-spate-single-speed-fixed-sturmey-archer-hbt30-32h-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/butuc-spate-single-speed-fixed-sturmey-archer-hbt30-32h-negru~8292142.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/butuc-spate-single-speed-fixed-sturmey-archer-hbt30-32h-negru~8292142.jpg"
-      ],
-      "tags": [
-        "Butuci V-Break - Dinam",
-        "COMPONENTE",
-        "Fixie"
-      ],
-      "specs": {
-        "bike_type": [
-          "Fixie"
-        ],
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "680306",
-      "sku": "680306",
-      "ean": "2801514000009",
-      "name": "Schimbator Spate VENTURA 6 -7 v Ax",
-      "brand": "VENTURA",
-      "category": "Schimbatoare Spate",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > Schimbatoare - Accesorii > Schimbatoare Spate",
-      "price": 45.0,
-      "price_net": 37.19,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 9,
-      "weight_kg": 0.3,
-      "url": "https://www.bikestylish.ro/schimbator-spate-ventura-6-7-v-ax.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/schimbator-spate-ventura-6-7-v-ax~8292145.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/schimbator-spate-ventura-6-7-v-ax~8292145.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "Schimbatoare Spate",
-        "VENTURA"
-      ]
-    },
-    {
-      "id": "38827450",
-      "sku": "38827450",
-      "ean": "2801338000001",
-      "name": "Set Roti 27.5-32H SXT CONCEPT- R 27.5.042",
-      "brand": "SXT",
-      "category": "Seturi Roti",
-      "category_path": "COMPONENTE > Roti - Componente > Roti > Seturi Roti",
-      "price": 799.0,
-      "price_net": 660.33,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
-      "url": "https://www.bikestylish.ro/set-roti-27-5-32h-sxt-concept-r-27-5-042.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-27-5-32h-sxt-concept-r-27-5-042~8292148.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-27-5-32h-sxt-concept-r-27-5-042~8292148.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/set-roti-27-5-32h-sxt-concept-r-27-5-042~8292745.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-27-5-32h-sxt-concept-r-27-5-042~8292748.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/set-roti-27-5-32h-sxt-concept-r-27-5-042~8292751.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/set-roti-27-5-32h-sxt-concept-r-27-5-042~8292754.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SXT",
-        "Seturi Roti"
-      ]
-    },
-    {
-      "id": "B14GRC258N",
-      "sku": "B14GRC258N",
-      "name": "Spita MACH1 GALVA - 258 x 2 mm Negru",
-      "brand": "MACH1",
-      "category": "Spite UCP",
-      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite UCP",
-      "price": 1.5,
-      "price_net": 1.24,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 318,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/spita-mach1-galva-258-x-2-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/spita-mach1-galva-258-x-2-mm-negru~8292151.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/spita-mach1-galva-258-x-2-mm-negru~8292151.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "MACH1",
-        "Spite UCP"
-      ],
-      "specs": {
-        "color": "Negru",
-        "dimensions": "258 x 2"
-      }
-    },
-    {
-      "id": "B14GRC260N",
-      "sku": "B14GRC260N",
-      "name": "Spita MACH1 GALVA - 260 x 2 mm Negru",
-      "brand": "MACH1",
-      "category": "Spite UCP",
-      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite UCP",
-      "price": 0.8,
-      "price_net": 0.66,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 200,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/spita-mach1-galva-260-x-2-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/spita-mach1-galva-260-x-2-mm-negru~8292154.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/spita-mach1-galva-260-x-2-mm-negru~8292154.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "MACH1",
-        "Spite UCP"
-      ],
-      "specs": {
-        "color": "Negru",
-        "dimensions": "260 x 2"
-      }
-    },
-    {
-      "id": "B14GRC261",
-      "sku": "B14GRC261",
-      "name": "Spita MACH1 GALVA - 261 x 2 mm Negru",
-      "brand": "MACH1",
-      "category": "Spite UCP",
-      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite UCP",
-      "price": 1.5,
-      "price_net": 1.24,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 1832,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/spita-mach1-galva-261-x-2-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/spita-mach1-galva-261-x-2-mm-negru~8292157.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/spita-mach1-galva-261-x-2-mm-negru~8292157.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "MACH1",
-        "Spite UCP"
-      ],
-      "specs": {
-        "color": "Negru",
-        "dimensions": "261 x 2"
-      }
-    },
-    {
-      "id": "B14GRC262",
-      "sku": "B14GRC262",
-      "name": "Spita MACH1 GALVA - 262 x 2 mm Negru",
-      "brand": "MACH1",
-      "category": "Spite UCP",
-      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite UCP",
-      "price": 1.5,
-      "price_net": 1.24,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 200,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/spita-mach1-galva-262-x-2-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/spita-mach1-galva-262-x-2-mm-negru~8292160.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/spita-mach1-galva-262-x-2-mm-negru~8292160.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "MACH1",
-        "Spite UCP"
-      ],
-      "specs": {
-        "color": "Negru",
-        "dimensions": "262 x 2"
-      }
-    },
-    {
-      "id": "390579",
-      "sku": "390579",
-      "ean": "887539034542",
-      "name": "Cuveti Semi Integrati Tapered NECO 1.1/8\"-1.5\" b",
-      "brand": "NECO",
-      "category": "Cuveti(HeadSet)",
-      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > Cuveti(HeadSet)",
-      "price": 75.0,
-      "price_net": 61.98,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.19,
-      "url": "https://www.bikestylish.ro/cuveti-semi-integrati-tapered-neco-1-1-8-1-5-b.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/cuveti-semi-integrati-tapered-neco-1-1-8-1-5-b~8292172.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/cuveti-semi-integrati-tapered-neco-1-1-8-1-5-b~8292172.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/cuveti-semi-integrati-tapered-neco-1-1-8-1-5-b~8292766.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/cuveti-semi-integrati-tapered-neco-1-1-8-1-5-b~8292757.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/cuveti-semi-integrati-tapered-neco-1-1-8-1-5-b~8292760.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/cuveti-semi-integrati-tapered-neco-1-1-8-1-5-b~8292763.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "Cuveti(HeadSet)",
-        "NECO"
-      ],
-      "specs": {
-        "color": "Red"
-      }
     }
   ],
   "categories": [
@@ -7237,6 +7230,13 @@
       "full_path": "ACCESORII > Aparatori Noroi > Accesorii Aparatori Noroi",
       "product_count": 1,
       "in_stock_count": 1
+    },
+    {
+      "id": "accesorii-camere-biciclete",
+      "name": "Accesorii Camere Biciclete",
+      "full_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta > Accesorii Camere Biciclete",
+      "product_count": 18,
+      "in_stock_count": 13
     },
     {
       "id": "accesorii-e-bike",
@@ -7345,8 +7345,8 @@
     },
     {
       "id": "anvelope-pe-sarma",
-      "name": "Anvelope pe Sarma",
-      "full_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sarma",
+      "name": "Anvelope pe Sârmă",
+      "full_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
       "product_count": 181,
       "in_stock_count": 127
     },
@@ -7495,7 +7495,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 114,
-      "in_stock_count": 77
+      "in_stock_count": 76
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7530,7 +7530,7 @@
       "name": "Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta",
       "product_count": 87,
-      "in_stock_count": 57
+      "in_stock_count": 56
     },
     {
       "id": "capete-cablu-manta",
@@ -7831,7 +7831,7 @@
       "name": "Manete Schimbator",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > Schimbatoare - Accesorii > Manete Schimbator",
       "product_count": 28,
-      "in_stock_count": 22
+      "in_stock_count": 20
     },
     {
       "id": "mansoane",
@@ -7929,7 +7929,7 @@
       "name": "Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
       "product_count": 143,
-      "in_stock_count": 112
+      "in_stock_count": 111
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7964,14 +7964,14 @@
       "name": "Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Pipe Ghidon",
       "product_count": 46,
-      "in_stock_count": 36
+      "in_stock_count": 35
     },
     {
       "id": "placute-frana-disc",
       "name": "Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > Placute Frana Disc",
       "product_count": 29,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "pompe-ciclism",
@@ -8110,8 +8110,8 @@
       "id": "sei",
       "name": "Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
-      "product_count": 96,
-      "in_stock_count": 84
+      "product_count": 95,
+      "in_stock_count": 83
     },
     {
       "id": "sei-tije-coliere",
@@ -8244,7 +8244,7 @@
       "name": "Trotinete Electrice",
       "full_path": "e- MOBILITY > Trotinete Electrice",
       "product_count": 39,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "truse-unelte-mini-truse",
@@ -8265,7 +8265,7 @@
       "name": "Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > Unelte Speciale Biciclete",
       "product_count": 180,
-      "in_stock_count": 149
+      "in_stock_count": 146
     },
     {
       "id": "urechi-protectii-cadre",
