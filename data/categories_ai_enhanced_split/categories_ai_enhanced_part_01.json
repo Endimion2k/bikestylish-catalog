@@ -1,76 +1,13 @@
 {
-  "last_updated": "2026-03-18T03:53:23.686049+00:00",
-  "total_categories": 152,
+  "last_updated": "2026-03-19T03:53:09.122341+00:00",
+  "total_categories": 154,
   "categories": [
-    {
-      "id": "accesorii-aparatori-noroi",
-      "name": "Accesorii Aparatori Noroi",
-      "full_path": "ACCESORII > Aparatori Noroi > Accesorii Aparatori Noroi",
-      "product_count": 1,
-      "in_stock_count": 1
-    },
-    {
-      "id": "accesorii-camere-biciclete",
-      "name": "Accesorii Camere Biciclete",
-      "full_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta > Accesorii Camere Biciclete",
-      "product_count": 18,
-      "in_stock_count": 13
-    },
-    {
-      "id": "accesorii-e-bike",
-      "name": "Accesorii E-Bike",
-      "full_path": "e- MOBILITY > Accesorii E-Bike",
-      "product_count": 7,
-      "in_stock_count": 4
-    },
-    {
-      "id": "accesorii-lumini",
-      "name": "Accesorii Lumini",
-      "full_path": "ACCESORII > Lumini - Accesorii > Accesorii Lumini",
-      "product_count": 9,
-      "in_stock_count": 5
-    },
-    {
-      "id": "accesorii-pedale",
-      "name": "Accesorii Pedale",
-      "full_path": "COMPONENTE > Pedale - Accesorii > Accesorii Pedale",
-      "product_count": 15,
-      "in_stock_count": 12
-    },
-    {
-      "id": "adaptoare-frana",
-      "name": "Adaptoare Frana",
-      "full_path": "COMPONENTE > Sisteme Franare > Adaptoare Frana",
-      "product_count": 15,
-      "in_stock_count": 15
-    },
     {
       "id": "amenajare-magazin",
       "name": "Amenajare Magazin",
       "full_path": "COMPONENTE > Amenajare Magazin",
       "product_count": 21,
       "in_stock_count": 9
-    },
-    {
-      "id": "angrenaje-monobloace",
-      "name": "Angrenaje - Monobloace",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "angrenaje-e-bike",
-      "name": "Angrenaje E-Bike",
-      "full_path": "e- MOBILITY > Angrenaje E-Bike",
-      "product_count": 7,
-      "in_stock_count": 3
-    },
-    {
-      "id": "antifurturi-u-lock",
-      "name": "Antifurturi  U-Lock",
-      "full_path": "ACCESORII > Antifurturi - Alarme > Antifurturi  U-Lock",
-      "product_count": 5,
-      "in_stock_count": 5
     },
     {
       "id": "antifurturi-alarme",
@@ -80,116 +17,11 @@
       "in_stock_count": 3
     },
     {
-      "id": "antifurturi-lant",
-      "name": "Antifurturi Lant",
-      "full_path": "ACCESORII > Antifurturi - Alarme > Antifurturi Lant",
-      "product_count": 7,
-      "in_stock_count": 6
-    },
-    {
-      "id": "antifurturi-pliabile",
-      "name": "Antifurturi Pliabile",
-      "full_path": "ACCESORII > Antifurturi - Alarme > Antifurturi Pliabile",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "antifurturi-cu-cheie",
-      "name": "Antifurturi cu Cheie",
-      "full_path": "ACCESORII > Antifurturi - Alarme > Antifurturi cu Cheie",
-      "product_count": 20,
-      "in_stock_count": 13
-    },
-    {
-      "id": "antifurturi-cu-cifru",
-      "name": "Antifurturi cu Cifru",
-      "full_path": "ACCESORII > Antifurturi - Alarme > Antifurturi cu Cifru",
-      "product_count": 11,
-      "in_stock_count": 7
-    },
-    {
       "id": "anvelope-camere",
       "name": "Anvelope - Camere",
       "full_path": "COMPONENTE > Anvelope - Camere",
       "product_count": 2,
       "in_stock_count": 2
-    },
-    {
-      "id": "anvelope-pliabile",
-      "name": "Anvelope Pliabile",
-      "full_path": "COMPONENTE > Anvelope - Camere > Anvelope Pliabile",
-      "product_count": 82,
-      "in_stock_count": 42
-    },
-    {
-      "id": "anvelope-pe-sarma",
-      "name": "Anvelope pe Sârmă",
-      "full_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
-      "product_count": 181,
-      "in_stock_count": 127
-    },
-    {
-      "id": "aparatori-angrenaj-accesorii",
-      "name": "Aparatori Angrenaj - Accesorii",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Aparatori Angrenaj - Accesorii",
-      "product_count": 9,
-      "in_stock_count": 5
-    },
-    {
-      "id": "aparatori-noroi-fata",
-      "name": "Aparatori Noroi Fata",
-      "full_path": "ACCESORII > Aparatori Noroi > Aparatori Noroi Fata",
-      "product_count": 8,
-      "in_stock_count": 6
-    },
-    {
-      "id": "aparatori-noroi-spate",
-      "name": "Aparatori Noroi Spate",
-      "full_path": "ACCESORII > Aparatori Noroi > Aparatori Noroi Spate",
-      "product_count": 11,
-      "in_stock_count": 9
-    },
-    {
-      "id": "axe-accesorii-butuci",
-      "name": "Axe - Accesorii Butuci",
-      "full_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Axe - Accesorii Butuci",
-      "product_count": 60,
-      "in_stock_count": 41
-    },
-    {
-      "id": "axe-suruburi-piulite",
-      "name": "Axe - Suruburi - Piulite",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Axe - Suruburi - Piulite",
-      "product_count": 8,
-      "in_stock_count": 5
-    },
-    {
-      "id": "bagaje-cadru",
-      "name": "Bagaje Cadru",
-      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > Bagaje Cadru",
-      "product_count": 16,
-      "in_stock_count": 16
-    },
-    {
-      "id": "bagaje-ghidon",
-      "name": "Bagaje Ghidon",
-      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > Bagaje Ghidon",
-      "product_count": 9,
-      "in_stock_count": 9
-    },
-    {
-      "id": "bagaje-spate",
-      "name": "Bagaje Spate",
-      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > Bagaje Spate",
-      "product_count": 39,
-      "in_stock_count": 34
-    },
-    {
-      "id": "banda-janta-tubeless",
-      "name": "Banda Janta - Tubeless",
-      "full_path": "COMPONENTE > Anvelope - Camere > Banda Janta - Tubeless",
-      "product_count": 44,
-      "in_stock_count": 32
     },
     {
       "id": "bandane-caciuli-sepci",
@@ -199,178 +31,10 @@
       "in_stock_count": 6
     },
     {
-      "id": "bar-tape-accesorii",
-      "name": "Bar Tape - Accesorii",
-      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Bar Tape - Accesorii",
-      "product_count": 33,
-      "in_stock_count": 9
-    },
-    {
-      "id": "baterii-incarcatoare-e-bike",
-      "name": "Baterii -incarcatoare E-Bike",
-      "full_path": "e- MOBILITY > Baterii -incarcatoare E-Bike",
-      "product_count": 3,
-      "in_stock_count": 0
-    },
-    {
-      "id": "biciclete-single-speed-fixie",
-      "name": "Biciclete Single - SPEED - Fixie",
-      "full_path": "BICICLETE > Biciclete Single - SPEED - Fixie",
-      "product_count": 18,
-      "in_stock_count": 0
-    },
-    {
       "id": "bidoane-suporti-bidon",
       "name": "Bidoane - Suporti Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon",
       "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "bidoane-ciclism",
-      "name": "Bidoane Ciclism",
-      "full_path": "ACCESORII > Bidoane - Suporti Bidon > Bidoane Ciclism",
-      "product_count": 22,
-      "in_stock_count": 21
-    },
-    {
-      "id": "bike-care-ingrijire",
-      "name": "Bike Care - Ingrijire",
-      "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
-      "product_count": 9,
-      "in_stock_count": 6
-    },
-    {
-      "id": "bike-computer",
-      "name": "Bike Computer",
-      "full_path": "ACCESORII > Electronice > Bike Computer",
-      "product_count": 7,
-      "in_stock_count": 7
-    },
-    {
-      "id": "bike-lube-lubrefiere",
-      "name": "Bike Lube - Lubrefiere",
-      "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
-      "product_count": 17,
-      "in_stock_count": 10
-    },
-    {
-      "id": "bike-maintenance-intretinere",
-      "name": "Bike Maintenance - Intretinere",
-      "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
-      "product_count": 22,
-      "in_stock_count": 12
-    },
-    {
-      "id": "brate-angrenaje",
-      "name": "Brate Angrenaje",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Brate Angrenaje",
-      "product_count": 48,
-      "in_stock_count": 25
-    },
-    {
-      "id": "butuci-frana-disc",
-      "name": "Butuci Frana Disc",
-      "full_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci Frana Disc",
-      "product_count": 114,
-      "in_stock_count": 76
-    },
-    {
-      "id": "butuci-v-break-dinam",
-      "name": "Butuci V-Break - Dinam",
-      "full_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci V-Break - Dinam",
-      "product_count": 52,
-      "in_stock_count": 41
-    },
-    {
-      "id": "cabluri",
-      "name": "Cabluri",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Cabluri - Mantale - Capete > Cabluri",
-      "product_count": 15,
-      "in_stock_count": 10
-    },
-    {
-      "id": "cadre-furci-e-bike",
-      "name": "Cadre - Furci E-Bike",
-      "full_path": "e- MOBILITY > Cadre - Furci E-Bike",
-      "product_count": 11,
-      "in_stock_count": 5
-    },
-    {
-      "id": "cadre-ssp-fixie",
-      "name": "Cadre SSP - Fixie",
-      "full_path": "COMPONENTE > Urechi - Protectii - Cadre > Cadre SSP - Fixie",
-      "product_count": 3,
-      "in_stock_count": 2
-    },
-    {
-      "id": "camere-de-bicicleta",
-      "name": "Camere de Bicicleta",
-      "full_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta",
-      "product_count": 87,
-      "in_stock_count": 56
-    },
-    {
-      "id": "capete-cablu-manta",
-      "name": "Capete Cablu - Manta",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Cabluri - Mantale - Capete > Capete Cablu - Manta",
-      "product_count": 20,
-      "in_stock_count": 17
-    },
-    {
-      "id": "carcase-prinderi-smartphone",
-      "name": "Carcase - Prinderi SmartPhone",
-      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > Carcase - Prinderi SmartPhone",
-      "product_count": 9,
-      "in_stock_count": 7
-    },
-    {
-      "id": "cartuse-co2-accesorii-pompe",
-      "name": "Cartuse CO2 - Accesorii Pompe",
-      "full_path": "ACCESORII > Pompe Ciclism > Cartuse CO2 - Accesorii Pompe",
-      "product_count": 5,
-      "in_stock_count": 4
-    },
-    {
-      "id": "casete-butuci",
-      "name": "Casete Butuci",
-      "full_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Casete Butuci",
-      "product_count": 14,
-      "in_stock_count": 9
-    },
-    {
-      "id": "casti-ciclism",
-      "name": "Casti Ciclism",
-      "full_path": "ECHIPAMENTE > Casti - Ochelari > Casti Ciclism",
-      "product_count": 17,
-      "in_stock_count": 11
-    },
-    {
-      "id": "chei-dinamometrice",
-      "name": "Chei Dinamometrice",
-      "full_path": "COMPONENTE > Unelte Service > Chei Dinamometrice",
-      "product_count": 5,
-      "in_stock_count": 3
-    },
-    {
-      "id": "chei-universale",
-      "name": "Chei Universale",
-      "full_path": "COMPONENTE > Unelte Service > Chei Universale",
-      "product_count": 2,
-      "in_stock_count": 2
-    },
-    {
-      "id": "coliere-tija-sa",
-      "name": "Coliere Tija Sa",
-      "full_path": "COMPONENTE > Sei - Tije - Coliere > Coliere Tija Sa",
-      "product_count": 21,
-      "in_stock_count": 15
-    },
-    {
-      "id": "componente-e-bike",
-      "name": "Componente E-Bike",
-      "full_path": "e- MOBILITY > Componente E-Bike",
-      "product_count": 3,
       "in_stock_count": 0
     },
     {
@@ -381,116 +45,11 @@
       "in_stock_count": 1
     },
     {
-      "id": "cosuri-transport-fata",
-      "name": "Cosuri Transport Fata",
-      "full_path": "ACCESORII > Cosuri Transport > Cosuri Transport Fata",
-      "product_count": 22,
-      "in_stock_count": 19
-    },
-    {
-      "id": "cosuri-transport-spate",
-      "name": "Cosuri Transport Spate",
-      "full_path": "ACCESORII > Cosuri Transport > Cosuri Transport Spate",
-      "product_count": 14,
-      "in_stock_count": 9
-    },
-    {
       "id": "cricuri-bicicleta",
       "name": "Cricuri Bicicleta",
       "full_path": "ACCESORII > Cricuri Bicicleta",
       "product_count": 3,
       "in_stock_count": 3
-    },
-    {
-      "id": "cricuri-mijloc",
-      "name": "Cricuri Mijloc",
-      "full_path": "ACCESORII > Cricuri Bicicleta > Cricuri Mijloc",
-      "product_count": 13,
-      "in_stock_count": 13
-    },
-    {
-      "id": "cricuri-spate",
-      "name": "Cricuri Spate",
-      "full_path": "ACCESORII > Cricuri Bicicleta > Cricuri Spate",
-      "product_count": 15,
-      "in_stock_count": 13
-    },
-    {
-      "id": "cuveti-headset",
-      "name": "Cuveti(HeadSet)",
-      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > Cuveti(HeadSet)",
-      "product_count": 35,
-      "in_stock_count": 22
-    },
-    {
-      "id": "depozitare-biciclete",
-      "name": "Depozitare Biciclete",
-      "full_path": "ACCESORII > Transport - Depozitare > Depozitare Biciclete",
-      "product_count": 21,
-      "in_stock_count": 14
-    },
-    {
-      "id": "discuri-rotoare",
-      "name": "Discuri - Rotoare",
-      "full_path": "COMPONENTE > Sisteme Franare > Discuri - Rotoare",
-      "product_count": 17,
-      "in_stock_count": 11
-    },
-    {
-      "id": "display-manete-e-bike",
-      "name": "Display - Manete E-Bike",
-      "full_path": "e- MOBILITY > Display - Manete E-Bike",
-      "product_count": 10,
-      "in_stock_count": 0
-    },
-    {
-      "id": "echipamente-service-biciclete",
-      "name": "Echipamente Service Biciclete",
-      "full_path": "COMPONENTE > Unelte Service > Echipamente Service Biciclete",
-      "product_count": 1,
-      "in_stock_count": 1
-    },
-    {
-      "id": "flori-furca-distantiere-accesorii",
-      "name": "Flori Furca - Distantiere, Accesorii",
-      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > Flori Furca - Distantiere, Accesorii",
-      "product_count": 13,
-      "in_stock_count": 11
-    },
-    {
-      "id": "foi-angrenaje",
-      "name": "Foi Angrenaje",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Foi Angrenaje",
-      "product_count": 24,
-      "in_stock_count": 11
-    },
-    {
-      "id": "frane-disc",
-      "name": "Frane Disc",
-      "full_path": "COMPONENTE > Sisteme Franare > Frane Disc",
-      "product_count": 15,
-      "in_stock_count": 10
-    },
-    {
-      "id": "frane-v-break",
-      "name": "Frane V - Break",
-      "full_path": "COMPONENTE > Sisteme Franare > Frane V - Break",
-      "product_count": 12,
-      "in_stock_count": 8
-    },
-    {
-      "id": "furci",
-      "name": "Furci",
-      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > Furci",
-      "product_count": 26,
-      "in_stock_count": 18
-    },
-    {
-      "id": "ghidoane",
-      "name": "Ghidoane",
-      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Ghidoane",
-      "product_count": 50,
-      "in_stock_count": 37
     },
     {
       "id": "ghidoane-mansoane-pipe",
@@ -507,25 +66,11 @@
       "in_stock_count": 2
     },
     {
-      "id": "huse-sa",
-      "name": "Huse Sa",
-      "full_path": "COMPONENTE > Sei - Tije - Coliere > Huse Sa",
-      "product_count": 7,
-      "in_stock_count": 7
-    },
-    {
       "id": "ingrijire-lubrefiere-intretinere",
       "name": "Ingrijire - Lubrefiere - Intretinere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere",
       "product_count": 2,
       "in_stock_count": 0
-    },
-    {
-      "id": "intinzatoare-lant-directionare",
-      "name": "Intinzatoare Lant - Directionare",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Lanturi - Componente > Intinzatoare Lant - Directionare",
-      "product_count": 4,
-      "in_stock_count": 3
     },
     {
       "id": "jachete-veste-ciclism",
@@ -535,41 +80,6 @@
       "in_stock_count": 6
     },
     {
-      "id": "jante-fat-bike",
-      "name": "Jante Fat = Bike",
-      "full_path": "COMPONENTE > Roti - Componente > Jante > Jante Fat = Bike",
-      "product_count": 3,
-      "in_stock_count": 3
-    },
-    {
-      "id": "jante-pentru-frane-disc",
-      "name": "Jante pentru Frane Disc",
-      "full_path": "COMPONENTE > Roti - Componente > Jante > Jante pentru Frane Disc",
-      "product_count": 45,
-      "in_stock_count": 24
-    },
-    {
-      "id": "jante-pentru-frane-v-brake",
-      "name": "Jante pentru Frane V-Brake",
-      "full_path": "COMPONENTE > Roti - Componente > Jante > Jante pentru Frane V-Brake",
-      "product_count": 19,
-      "in_stock_count": 14
-    },
-    {
-      "id": "lanturi",
-      "name": "Lanturi",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Lanturi - Componente > Lanturi",
-      "product_count": 73,
-      "in_stock_count": 49
-    },
-    {
-      "id": "lanturi-componente",
-      "name": "Lanturi - Componente",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Lanturi - Componente",
-      "product_count": 2,
-      "in_stock_count": 0
-    },
-    {
       "id": "lumini-accesorii",
       "name": "Lumini - Accesorii",
       "full_path": "ACCESORII > Lumini - Accesorii",
@@ -577,102 +87,11 @@
       "in_stock_count": 2
     },
     {
-      "id": "lumini-fata",
-      "name": "Lumini Fata",
-      "full_path": "ACCESORII > Lumini - Accesorii > Lumini Fata",
-      "product_count": 30,
-      "in_stock_count": 26
-    },
-    {
-      "id": "lumini-spate",
-      "name": "Lumini Spate",
-      "full_path": "ACCESORII > Lumini - Accesorii > Lumini Spate",
-      "product_count": 33,
-      "in_stock_count": 26
-    },
-    {
-      "id": "manete-frana",
-      "name": "Manete Frana",
-      "full_path": "COMPONENTE > Sisteme Franare > Manete Frana",
-      "product_count": 19,
-      "in_stock_count": 17
-    },
-    {
-      "id": "manete-frana-schimbator",
-      "name": "Manete Frana  - Schimbator",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Schimbatoare - Accesorii > Manete Frana  - Schimbator",
-      "product_count": 5,
-      "in_stock_count": 3
-    },
-    {
-      "id": "manete-schimbator",
-      "name": "Manete Schimbator",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Schimbatoare - Accesorii > Manete Schimbator",
-      "product_count": 28,
-      "in_stock_count": 20
-    },
-    {
-      "id": "mansoane",
-      "name": "Mansoane",
-      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Mansoane",
-      "product_count": 94,
-      "in_stock_count": 82
-    },
-    {
-      "id": "mantale",
-      "name": "Mantale",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Cabluri - Mantale - Capete > Mantale",
-      "product_count": 14,
-      "in_stock_count": 12
-    },
-    {
       "id": "manusi-ciclism",
       "name": "Manusi Ciclism",
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
       "product_count": 50,
       "in_stock_count": 44
-    },
-    {
-      "id": "mini-pompe",
-      "name": "Mini Pompe",
-      "full_path": "ACCESORII > Pompe Ciclism > Mini Pompe",
-      "product_count": 13,
-      "in_stock_count": 11
-    },
-    {
-      "id": "monobloace-b-b",
-      "name": "Monobloace - B.B.",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Monobloace - B.B.",
-      "product_count": 48,
-      "in_stock_count": 43
-    },
-    {
-      "id": "motoare-e-bike",
-      "name": "Motoare E-Bike",
-      "full_path": "e- MOBILITY > Motoare E-Bike",
-      "product_count": 9,
-      "in_stock_count": 1
-    },
-    {
-      "id": "nipluri-accesorii",
-      "name": "Nipluri - Accesorii",
-      "full_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Nipluri - Accesorii",
-      "product_count": 16,
-      "in_stock_count": 8
-    },
-    {
-      "id": "ochelari-ciclism",
-      "name": "Ochelari Ciclism",
-      "full_path": "ECHIPAMENTE > Casti - Ochelari > Ochelari Ciclism",
-      "product_count": 3,
-      "in_stock_count": 0
-    },
-    {
-      "id": "oglinzi",
-      "name": "Oglinzi",
-      "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
-      "product_count": 24,
-      "in_stock_count": 22
     },
     {
       "id": "pantaloni-ciclism",
@@ -689,88 +108,11 @@
       "in_stock_count": 1
     },
     {
-      "id": "pedale-click",
-      "name": "Pedale Click",
-      "full_path": "COMPONENTE > Pedale - Accesorii > Pedale Click",
-      "product_count": 27,
-      "in_stock_count": 19
-    },
-    {
-      "id": "pedale-duble",
-      "name": "Pedale Duble",
-      "full_path": "COMPONENTE > Pedale - Accesorii > Pedale Duble",
-      "product_count": 14,
-      "in_stock_count": 10
-    },
-    {
-      "id": "pedale-platforma",
-      "name": "Pedale Platforma",
-      "full_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
-      "product_count": 143,
-      "in_stock_count": 111
-    },
-    {
-      "id": "pedaliere-angrenaje",
-      "name": "Pedaliere - Angrenaje",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Pedaliere - Angrenaje",
-      "product_count": 60,
-      "in_stock_count": 39
-    },
-    {
-      "id": "pinioane",
-      "name": "Pinioane",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Pinioane",
-      "product_count": 3,
-      "in_stock_count": 3
-    },
-    {
-      "id": "pinioane-casetate",
-      "name": "Pinioane Casetate",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Pinioane > Pinioane Casetate",
-      "product_count": 9,
-      "in_stock_count": 5
-    },
-    {
-      "id": "pionioane-filetate",
-      "name": "Pionioane Filetate",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Pinioane > Pionioane Filetate",
-      "product_count": 41,
-      "in_stock_count": 32
-    },
-    {
-      "id": "pipe-ghidon",
-      "name": "Pipe Ghidon",
-      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Pipe Ghidon",
-      "product_count": 46,
-      "in_stock_count": 35
-    },
-    {
-      "id": "placute-frana-disc",
-      "name": "Placute Frana Disc",
-      "full_path": "COMPONENTE > Sisteme Franare > Placute Frana Disc",
-      "product_count": 29,
-      "in_stock_count": 19
-    },
-    {
       "id": "pompe-ciclism",
       "name": "Pompe Ciclism",
       "full_path": "ACCESORII > Pompe Ciclism",
       "product_count": 5,
       "in_stock_count": 2
-    },
-    {
-      "id": "pompe-furca-tubeless",
-      "name": "Pompe Furca - Tubeless",
-      "full_path": "ACCESORII > Pompe Ciclism > Pompe Furca - Tubeless",
-      "product_count": 6,
-      "in_stock_count": 4
-    },
-    {
-      "id": "pompe-podea",
-      "name": "Pompe Podea",
-      "full_path": "ACCESORII > Pompe Ciclism > Pompe Podea",
-      "product_count": 8,
-      "in_stock_count": 3
     },
     {
       "id": "portbagaje",
@@ -780,74 +122,11 @@
       "in_stock_count": 7
     },
     {
-      "id": "portbagaje-fata",
-      "name": "Portbagaje Fata",
-      "full_path": "ACCESORII > Portbagaje > Portbagaje Fata",
-      "product_count": 4,
-      "in_stock_count": 3
-    },
-    {
-      "id": "portbagaje-spate",
-      "name": "Portbagaje Spate",
-      "full_path": "ACCESORII > Portbagaje > Portbagaje Spate",
-      "product_count": 15,
-      "in_stock_count": 11
-    },
-    {
-      "id": "protectii-antipana",
-      "name": "Protectii Antipana",
-      "full_path": "COMPONENTE > Anvelope - Camere > Protectii Antipana",
-      "product_count": 45,
-      "in_stock_count": 28
-    },
-    {
-      "id": "protectii-lant-cadru",
-      "name": "Protectii Lant - Cadru",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Lanturi - Componente > Protectii Lant - Cadru",
-      "product_count": 10,
-      "in_stock_count": 6
-    },
-    {
-      "id": "reflectorizante",
-      "name": "Reflectorizante",
-      "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > Reflectorizante",
-      "product_count": 23,
-      "in_stock_count": 20
-    },
-    {
-      "id": "roti",
-      "name": "Roti",
-      "full_path": "COMPONENTE > Roti - Componente > Roti",
-      "product_count": 4,
-      "in_stock_count": 3
-    },
-    {
       "id": "roti-ajutatoare-articole-copii",
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
       "product_count": 14,
       "in_stock_count": 14
-    },
-    {
-      "id": "roti-fata",
-      "name": "Roti Fata",
-      "full_path": "COMPONENTE > Roti - Componente > Roti > Roti Fata",
-      "product_count": 36,
-      "in_stock_count": 31
-    },
-    {
-      "id": "roti-spate",
-      "name": "Roti Spate",
-      "full_path": "COMPONENTE > Roti - Componente > Roti > Roti Spate",
-      "product_count": 50,
-      "in_stock_count": 39
-    },
-    {
-      "id": "rucsaci",
-      "name": "Rucsaci",
-      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > Rucsaci",
-      "product_count": 4,
-      "in_stock_count": 3
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -857,81 +136,11 @@
       "in_stock_count": 2
     },
     {
-      "id": "rulmenti-headset",
-      "name": "Rulmenti(HeadSet)",
-      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > Rulmenti(HeadSet)",
-      "product_count": 6,
-      "in_stock_count": 4
-    },
-    {
-      "id": "saboti-frana",
-      "name": "Saboti Frana",
-      "full_path": "COMPONENTE > Sisteme Franare > Saboti Frana",
-      "product_count": 13,
-      "in_stock_count": 8
-    },
-    {
-      "id": "schimbatoare-fata",
-      "name": "Schimbatoare Fata",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Schimbatoare - Accesorii > Schimbatoare Fata",
-      "product_count": 7,
-      "in_stock_count": 6
-    },
-    {
-      "id": "schimbatoare-spate",
-      "name": "Schimbatoare Spate",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Schimbatoare - Accesorii > Schimbatoare Spate",
-      "product_count": 30,
-      "in_stock_count": 23
-    },
-    {
-      "id": "sei",
-      "name": "Sei",
-      "full_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
-      "product_count": 95,
-      "in_stock_count": 83
-    },
-    {
       "id": "sei-tije-coliere",
       "name": "Sei - Tije - Coliere",
       "full_path": "COMPONENTE > Sei - Tije - Coliere",
       "product_count": 1,
       "in_stock_count": 1
-    },
-    {
-      "id": "set-lumini",
-      "name": "Set Lumini",
-      "full_path": "ACCESORII > Lumini - Accesorii > Set Lumini",
-      "product_count": 24,
-      "in_stock_count": 23
-    },
-    {
-      "id": "seturi-aparatori-noroi",
-      "name": "Seturi Aparatori Noroi",
-      "full_path": "ACCESORII > Aparatori Noroi > Seturi Aparatori Noroi",
-      "product_count": 26,
-      "in_stock_count": 23
-    },
-    {
-      "id": "seturi-roti",
-      "name": "Seturi Roti",
-      "full_path": "COMPONENTE > Roti - Componente > Roti > Seturi Roti",
-      "product_count": 24,
-      "in_stock_count": 17
-    },
-    {
-      "id": "sistem-velo-fit",
-      "name": "Sistem VELO - FIT",
-      "full_path": "COMPONENTE > Sei - Tije - Coliere > Sistem VELO - FIT",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "sonerii",
-      "name": "Sonerii",
-      "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > Sonerii",
-      "product_count": 47,
-      "in_stock_count": 38
     },
     {
       "id": "sonerii-oglinzi-reflectorizante",
@@ -941,74 +150,11 @@
       "in_stock_count": 2
     },
     {
-      "id": "spite-stainless",
-      "name": "Spite Stainless",
-      "full_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
-      "product_count": 165,
-      "in_stock_count": 95
-    },
-    {
-      "id": "spite-stainless-2-3-mm",
-      "name": "Spite Stainless - 2,3 mm",
-      "full_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless - 2,3 mm",
-      "product_count": 10,
-      "in_stock_count": 6
-    },
-    {
-      "id": "spite-stainless-aero",
-      "name": "Spite Stainless Aero",
-      "full_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless Aero",
-      "product_count": 24,
-      "in_stock_count": 1
-    },
-    {
-      "id": "spite-ucp",
-      "name": "Spite UCP",
-      "full_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite UCP",
-      "product_count": 59,
-      "in_stock_count": 27
-    },
-    {
-      "id": "suporturi-bidon",
-      "name": "Suporturi Bidon",
-      "full_path": "ACCESORII > Bidoane - Suporti Bidon > Suporturi Bidon",
-      "product_count": 50,
-      "in_stock_count": 48
-    },
-    {
-      "id": "suruburi-piulite-saibe",
-      "name": "Suruburi - Piulite - Saibe",
-      "full_path": "COMPONENTE > Unelte Service > Suruburi - Piulite - Saibe",
-      "product_count": 9,
-      "in_stock_count": 2
-    },
-    {
-      "id": "suspensii-spate",
-      "name": "Suspensii Spate",
-      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > Suspensii Spate",
-      "product_count": 2,
-      "in_stock_count": 1
-    },
-    {
-      "id": "tije-sa",
-      "name": "Tije Sa",
-      "full_path": "COMPONENTE > Sei - Tije - Coliere > Tije Sa",
-      "product_count": 48,
-      "in_stock_count": 36
-    },
-    {
       "id": "transport-depozitare",
       "name": "Transport - Depozitare",
       "full_path": "ACCESORII > Transport - Depozitare",
       "product_count": 4,
       "in_stock_count": 4
-    },
-    {
-      "id": "transport-biciclete",
-      "name": "Transport Biciclete",
-      "full_path": "ACCESORII > Transport - Depozitare > Transport Biciclete",
-      "product_count": 5,
-      "in_stock_count": 1
     },
     {
       "id": "tricouri-ciclism",
@@ -1018,32 +164,11 @@
       "in_stock_count": 3
     },
     {
-      "id": "trotinete-electrice",
-      "name": "Trotinete Electrice",
-      "full_path": "e- MOBILITY > Trotinete Electrice",
-      "product_count": 39,
-      "in_stock_count": 12
-    },
-    {
-      "id": "truse-unelte-mini-truse",
-      "name": "Truse Unelte - Mini Truse",
-      "full_path": "COMPONENTE > Unelte Service > Truse Unelte - Mini Truse",
-      "product_count": 14,
-      "in_stock_count": 9
-    },
-    {
       "id": "unelte-service",
       "name": "Unelte Service",
       "full_path": "COMPONENTE > Unelte Service",
       "product_count": 5,
       "in_stock_count": 5
-    },
-    {
-      "id": "unelte-speciale-biciclete",
-      "name": "Unelte Speciale Biciclete",
-      "full_path": "COMPONENTE > Unelte Service > Unelte Speciale Biciclete",
-      "product_count": 180,
-      "in_stock_count": 146
     },
     {
       "id": "urechi-protectii-cadre",
@@ -1053,18 +178,907 @@
       "in_stock_count": 1
     },
     {
-      "id": "urechi-cadru",
-      "name": "Urechi Cadru",
-      "full_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "product_count": 1072,
-      "in_stock_count": 284
-    },
-    {
       "id": "e-mobility",
       "name": "e- MOBILITY",
       "full_path": "e- MOBILITY",
       "product_count": 1,
       "in_stock_count": 0
+    },
+    {
+      "id": "accesorii-camere-biciclete",
+      "name": "◼  Accesorii Camere Biciclete",
+      "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
+      "product_count": 18,
+      "in_stock_count": 13
+    },
+    {
+      "id": "accesorii-aparatori-noroi",
+      "name": "➤ Accesorii Aparatori Noroi",
+      "full_path": "ACCESORII > Aparatori Noroi > ➤ Accesorii Aparatori Noroi",
+      "product_count": 1,
+      "in_stock_count": 1
+    },
+    {
+      "id": "accesorii-e-bike",
+      "name": "➤ Accesorii E-Bike",
+      "full_path": "e- MOBILITY > ➤ Accesorii E-Bike",
+      "product_count": 7,
+      "in_stock_count": 4
+    },
+    {
+      "id": "accesorii-lumini",
+      "name": "➤ Accesorii Lumini",
+      "full_path": "ACCESORII > Lumini - Accesorii > ➤ Accesorii Lumini",
+      "product_count": 9,
+      "in_stock_count": 5
+    },
+    {
+      "id": "accesorii-pedale",
+      "name": "➤ Accesorii Pedale",
+      "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Accesorii Pedale",
+      "product_count": 15,
+      "in_stock_count": 12
+    },
+    {
+      "id": "adaptoare-frana",
+      "name": "➤ Adaptoare Frana",
+      "full_path": "COMPONENTE > Sisteme Franare > ➤ Adaptoare Frana",
+      "product_count": 15,
+      "in_stock_count": 15
+    },
+    {
+      "id": "angrenaje-e-bike",
+      "name": "➤ Angrenaje E-Bike",
+      "full_path": "e- MOBILITY > ➤ Angrenaje E-Bike",
+      "product_count": 7,
+      "in_stock_count": 3
+    },
+    {
+      "id": "antifurturi-u-lock",
+      "name": "➤ Antifurturi  U-Lock",
+      "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi  U-Lock",
+      "product_count": 5,
+      "in_stock_count": 5
+    },
+    {
+      "id": "antifurturi-lant",
+      "name": "➤ Antifurturi Lant",
+      "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi Lant",
+      "product_count": 7,
+      "in_stock_count": 6
+    },
+    {
+      "id": "antifurturi-pliabile",
+      "name": "➤ Antifurturi Pliabile",
+      "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi Pliabile",
+      "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
+      "id": "antifurturi-cu-cheie",
+      "name": "➤ Antifurturi cu Cheie",
+      "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
+      "product_count": 20,
+      "in_stock_count": 13
+    },
+    {
+      "id": "antifurturi-cu-cifru",
+      "name": "➤ Antifurturi cu Cifru",
+      "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
+      "product_count": 11,
+      "in_stock_count": 7
+    },
+    {
+      "id": "anvelope-pliabile",
+      "name": "➤ Anvelope Pliabile",
+      "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
+      "product_count": 82,
+      "in_stock_count": 42
+    },
+    {
+      "id": "anvelope-pe-sarma",
+      "name": "➤ Anvelope pe Sârmă",
+      "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
+      "product_count": 181,
+      "in_stock_count": 127
+    },
+    {
+      "id": "aparatori-angrenaj-accesorii",
+      "name": "➤ Aparatori Angrenaj - Accesorii",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Aparatori Angrenaj - Accesorii",
+      "product_count": 9,
+      "in_stock_count": 5
+    },
+    {
+      "id": "aparatori-noroi-fata",
+      "name": "➤ Aparatori Noroi Fata",
+      "full_path": "ACCESORII > Aparatori Noroi > ➤ Aparatori Noroi Fata",
+      "product_count": 8,
+      "in_stock_count": 6
+    },
+    {
+      "id": "aparatori-noroi-spate",
+      "name": "➤ Aparatori Noroi Spate",
+      "full_path": "ACCESORII > Aparatori Noroi > ➤ Aparatori Noroi Spate",
+      "product_count": 11,
+      "in_stock_count": 9
+    },
+    {
+      "id": "axe-accesorii-butuci",
+      "name": "➤ Axe - Accesorii Butuci",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
+      "product_count": 60,
+      "in_stock_count": 41
+    },
+    {
+      "id": "axe-suruburi-piulite",
+      "name": "➤ Axe - Suruburi - Piulite",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Axe - Suruburi - Piulite",
+      "product_count": 8,
+      "in_stock_count": 5
+    },
+    {
+      "id": "bagaje-cadru",
+      "name": "➤ Bagaje Cadru",
+      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
+      "product_count": 16,
+      "in_stock_count": 16
+    },
+    {
+      "id": "bagaje-ghidon",
+      "name": "➤ Bagaje Ghidon",
+      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
+      "product_count": 9,
+      "in_stock_count": 9
+    },
+    {
+      "id": "bagaje-spate",
+      "name": "➤ Bagaje Spate",
+      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "product_count": 39,
+      "in_stock_count": 33
+    },
+    {
+      "id": "banda-janta-tubeless",
+      "name": "➤ Banda Janta - Tubeless",
+      "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
+      "product_count": 44,
+      "in_stock_count": 31
+    },
+    {
+      "id": "bar-tape-accesorii",
+      "name": "➤ Bar Tape - Accesorii",
+      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
+      "product_count": 33,
+      "in_stock_count": 9
+    },
+    {
+      "id": "baterii-incarcatoare-e-bike",
+      "name": "➤ Baterii -incarcatoare E-Bike",
+      "full_path": "e- MOBILITY > ➤ Baterii -incarcatoare E-Bike",
+      "product_count": 3,
+      "in_stock_count": 0
+    },
+    {
+      "id": "biciclete-single-speed-fixie",
+      "name": "➤ Biciclete Single - SPEED - Fixie",
+      "full_path": "BICICLETE > ➤ Biciclete Single - SPEED - Fixie",
+      "product_count": 18,
+      "in_stock_count": 0
+    },
+    {
+      "id": "bidoane-ciclism",
+      "name": "➤ Bidoane Ciclism",
+      "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
+      "product_count": 22,
+      "in_stock_count": 21
+    },
+    {
+      "id": "bike-care-ingrijire",
+      "name": "➤ Bike Care - Ingrijire",
+      "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Care - Ingrijire",
+      "product_count": 9,
+      "in_stock_count": 6
+    },
+    {
+      "id": "bike-computer",
+      "name": "➤ Bike Computer",
+      "full_path": "ACCESORII > Electronice > ➤ Bike Computer",
+      "product_count": 7,
+      "in_stock_count": 7
+    },
+    {
+      "id": "bike-lube-lubrefiere",
+      "name": "➤ Bike Lube - Lubrefiere",
+      "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Lube - Lubrefiere",
+      "product_count": 17,
+      "in_stock_count": 10
+    },
+    {
+      "id": "brate-angrenaje",
+      "name": "➤ Brate Angrenaje",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
+      "product_count": 48,
+      "in_stock_count": 25
+    },
+    {
+      "id": "butuci-frana-disc",
+      "name": "➤ Butuci Frana Disc",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "product_count": 114,
+      "in_stock_count": 76
+    },
+    {
+      "id": "butuci-v-break-dinam",
+      "name": "➤ Butuci V-Break - Dinam",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
+      "product_count": 52,
+      "in_stock_count": 41
+    },
+    {
+      "id": "cabluri",
+      "name": "➤ Cabluri",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Cabluri",
+      "product_count": 15,
+      "in_stock_count": 10
+    },
+    {
+      "id": "cadre-furci-e-bike",
+      "name": "➤ Cadre - Furci E-Bike",
+      "full_path": "e- MOBILITY > ➤ Cadre - Furci E-Bike",
+      "product_count": 11,
+      "in_stock_count": 5
+    },
+    {
+      "id": "cadre-ssp-fixie",
+      "name": "➤ Cadre SSP - Fixie",
+      "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Cadre SSP - Fixie",
+      "product_count": 3,
+      "in_stock_count": 2
+    },
+    {
+      "id": "camere-de-bicicleta",
+      "name": "➤ Camere de Bicicleta",
+      "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
+      "product_count": 87,
+      "in_stock_count": 56
+    },
+    {
+      "id": "capete-cablu-manta",
+      "name": "➤ Capete Cablu - Manta",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Capete Cablu - Manta",
+      "product_count": 20,
+      "in_stock_count": 17
+    },
+    {
+      "id": "carcase-prinderi-smartphone",
+      "name": "➤ Carcase - Prinderi SmartPhone",
+      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Carcase - Prinderi SmartPhone",
+      "product_count": 9,
+      "in_stock_count": 7
+    },
+    {
+      "id": "cartuse-co2-accesorii-pompe",
+      "name": "➤ Cartuse CO2 - Accesorii Pompe",
+      "full_path": "ACCESORII > Pompe Ciclism > ➤ Cartuse CO2 - Accesorii Pompe",
+      "product_count": 5,
+      "in_stock_count": 4
+    },
+    {
+      "id": "casete-butuci",
+      "name": "➤ Casete Butuci",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Casete Butuci",
+      "product_count": 14,
+      "in_stock_count": 9
+    },
+    {
+      "id": "casti-ciclism",
+      "name": "➤ Casti Ciclism",
+      "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
+      "product_count": 17,
+      "in_stock_count": 11
+    },
+    {
+      "id": "chei-dinamometrice",
+      "name": "➤ Chei Dinamometrice",
+      "full_path": "COMPONENTE > Unelte Service > ➤ Chei Dinamometrice",
+      "product_count": 5,
+      "in_stock_count": 3
+    },
+    {
+      "id": "chei-universale",
+      "name": "➤ Chei Universale",
+      "full_path": "COMPONENTE > Unelte Service > ➤ Chei Universale",
+      "product_count": 2,
+      "in_stock_count": 2
+    },
+    {
+      "id": "coliere-tija-sa",
+      "name": "➤ Coliere Tija Sa",
+      "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
+      "product_count": 21,
+      "in_stock_count": 15
+    },
+    {
+      "id": "componente-e-bike",
+      "name": "➤ Componente E-Bike",
+      "full_path": "e- MOBILITY > ➤ Componente E-Bike",
+      "product_count": 3,
+      "in_stock_count": 0
+    },
+    {
+      "id": "cosuri-transport-fata",
+      "name": "➤ Cosuri Transport Fata",
+      "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
+      "product_count": 22,
+      "in_stock_count": 19
+    },
+    {
+      "id": "cosuri-transport-spate",
+      "name": "➤ Cosuri Transport Spate",
+      "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Spate",
+      "product_count": 14,
+      "in_stock_count": 9
+    },
+    {
+      "id": "cricuri-mijloc",
+      "name": "➤ Cricuri Mijloc",
+      "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Mijloc",
+      "product_count": 13,
+      "in_stock_count": 13
+    },
+    {
+      "id": "cricuri-spate",
+      "name": "➤ Cricuri Spate",
+      "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
+      "product_count": 15,
+      "in_stock_count": 13
+    },
+    {
+      "id": "cuveti-headset",
+      "name": "➤ Cuveti(HeadSet)",
+      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
+      "product_count": 35,
+      "in_stock_count": 21
+    },
+    {
+      "id": "discuri-rotoare",
+      "name": "➤ Discuri - Rotoare",
+      "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
+      "product_count": 17,
+      "in_stock_count": 10
+    },
+    {
+      "id": "display-manete-e-bike",
+      "name": "➤ Display - Manete E-Bike",
+      "full_path": "e- MOBILITY > ➤ Display - Manete E-Bike",
+      "product_count": 10,
+      "in_stock_count": 0
+    },
+    {
+      "id": "echipamente-service-biciclete",
+      "name": "➤ Echipamente Service Biciclete",
+      "full_path": "COMPONENTE > Unelte Service > ➤ Echipamente Service Biciclete",
+      "product_count": 1,
+      "in_stock_count": 1
+    },
+    {
+      "id": "flori-furca-distantiere-accesorii",
+      "name": "➤ Flori Furca - Distantiere - Accesorii",
+      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
+      "product_count": 13,
+      "in_stock_count": 11
+    },
+    {
+      "id": "foi-angrenaje",
+      "name": "➤ Foi Angrenaje",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
+      "product_count": 24,
+      "in_stock_count": 11
+    },
+    {
+      "id": "frane-disc",
+      "name": "➤ Frane Disc",
+      "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
+      "product_count": 15,
+      "in_stock_count": 10
+    },
+    {
+      "id": "frane-v-break",
+      "name": "➤ Frane V - Break",
+      "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
+      "product_count": 12,
+      "in_stock_count": 8
+    },
+    {
+      "id": "furci",
+      "name": "➤ Furci",
+      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
+      "product_count": 26,
+      "in_stock_count": 18
+    },
+    {
+      "id": "ghidoane",
+      "name": "➤ Ghidoane",
+      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
+      "product_count": 50,
+      "in_stock_count": 37
+    },
+    {
+      "id": "huse-sa",
+      "name": "➤ Huse Sa",
+      "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Huse Sa",
+      "product_count": 7,
+      "in_stock_count": 7
+    },
+    {
+      "id": "intinzatoare-lant-directionare",
+      "name": "➤ Intinzatoare Lant - Directionare",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Intinzatoare Lant - Directionare",
+      "product_count": 4,
+      "in_stock_count": 3
+    },
+    {
+      "id": "jante-fat-bike",
+      "name": "➤ Jante Fat  Bike",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante Fat  Bike",
+      "product_count": 3,
+      "in_stock_count": 3
+    },
+    {
+      "id": "jante-pentru-frane-disc",
+      "name": "➤ Jante pentru Frane Disc",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "product_count": 45,
+      "in_stock_count": 24
+    },
+    {
+      "id": "jante-pentru-frane-v-brake",
+      "name": "➤ Jante pentru Frane V-Brake",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
+      "product_count": 19,
+      "in_stock_count": 14
+    },
+    {
+      "id": "lanturi",
+      "name": "➤ Lanturi",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
+      "product_count": 73,
+      "in_stock_count": 48
+    },
+    {
+      "id": "lumini-fata",
+      "name": "➤ Lumini Fata",
+      "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
+      "product_count": 30,
+      "in_stock_count": 26
+    },
+    {
+      "id": "lumini-spate",
+      "name": "➤ Lumini Spate",
+      "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
+      "product_count": 33,
+      "in_stock_count": 26
+    },
+    {
+      "id": "manete-frana",
+      "name": "➤ Manete Frana",
+      "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
+      "product_count": 19,
+      "in_stock_count": 17
+    },
+    {
+      "id": "manete-frana-schimbator",
+      "name": "➤ Manete Frana  - Schimbator",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Manete Frana  - Schimbator",
+      "product_count": 5,
+      "in_stock_count": 3
+    },
+    {
+      "id": "manete-schimbator",
+      "name": "➤ Manete Schimbator",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Manete Schimbator",
+      "product_count": 28,
+      "in_stock_count": 20
+    },
+    {
+      "id": "mansoane",
+      "name": "➤ Mansoane",
+      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
+      "product_count": 94,
+      "in_stock_count": 82
+    },
+    {
+      "id": "mantale",
+      "name": "➤ Mantale",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Mantale",
+      "product_count": 14,
+      "in_stock_count": 12
+    },
+    {
+      "id": "mini-pompe",
+      "name": "➤ Mini Pompe",
+      "full_path": "ACCESORII > Pompe Ciclism > ➤ Mini Pompe",
+      "product_count": 13,
+      "in_stock_count": 11
+    },
+    {
+      "id": "monobloace-b-b",
+      "name": "➤ Monobloace - B.B.",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
+      "product_count": 48,
+      "in_stock_count": 43
+    },
+    {
+      "id": "motoare-e-bike",
+      "name": "➤ Motoare E-Bike",
+      "full_path": "e- MOBILITY > ➤ Motoare E-Bike",
+      "product_count": 9,
+      "in_stock_count": 1
+    },
+    {
+      "id": "nipluri-accesorii",
+      "name": "➤ Nipluri - Accesorii",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Nipluri - Accesorii",
+      "product_count": 16,
+      "in_stock_count": 8
+    },
+    {
+      "id": "ochelari-ciclism",
+      "name": "➤ Ochelari Ciclism",
+      "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Ochelari Ciclism",
+      "product_count": 3,
+      "in_stock_count": 0
+    },
+    {
+      "id": "oglinzi",
+      "name": "➤ Oglinzi",
+      "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
+      "product_count": 24,
+      "in_stock_count": 22
+    },
+    {
+      "id": "pedale-click",
+      "name": "➤ Pedale Click",
+      "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
+      "product_count": 27,
+      "in_stock_count": 19
+    },
+    {
+      "id": "pedale-duble",
+      "name": "➤ Pedale Duble",
+      "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Duble",
+      "product_count": 14,
+      "in_stock_count": 10
+    },
+    {
+      "id": "pedale-platforma",
+      "name": "➤ Pedale Platforma",
+      "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "product_count": 143,
+      "in_stock_count": 110
+    },
+    {
+      "id": "pedaliere-angrenaje",
+      "name": "➤ Pedaliere - Angrenaje",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
+      "product_count": 60,
+      "in_stock_count": 39
+    },
+    {
+      "id": "pinioane-casetate",
+      "name": "➤ Pinioane Casetate",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pinioane Casetate",
+      "product_count": 9,
+      "in_stock_count": 5
+    },
+    {
+      "id": "pionioane-filetate",
+      "name": "➤ Pionioane Filetate",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
+      "product_count": 41,
+      "in_stock_count": 32
+    },
+    {
+      "id": "pipe-ghidon",
+      "name": "➤ Pipe Ghidon",
+      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
+      "product_count": 46,
+      "in_stock_count": 35
+    },
+    {
+      "id": "placute-frana-disc",
+      "name": "➤ Placute Frana Disc",
+      "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
+      "product_count": 29,
+      "in_stock_count": 19
+    },
+    {
+      "id": "pompe-furca-tubeless",
+      "name": "➤ Pompe Furca - Tubeless",
+      "full_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Furca - Tubeless",
+      "product_count": 6,
+      "in_stock_count": 4
+    },
+    {
+      "id": "pompe-podea",
+      "name": "➤ Pompe Podea",
+      "full_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Podea",
+      "product_count": 8,
+      "in_stock_count": 3
+    },
+    {
+      "id": "portbagaje-fata",
+      "name": "➤ Portbagaje Fata",
+      "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Fata",
+      "product_count": 4,
+      "in_stock_count": 3
+    },
+    {
+      "id": "portbagaje-spate",
+      "name": "➤ Portbagaje Spate",
+      "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
+      "product_count": 15,
+      "in_stock_count": 11
+    },
+    {
+      "id": "protectii-antipana",
+      "name": "➤ Protectii Antipana",
+      "full_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
+      "product_count": 45,
+      "in_stock_count": 28
+    },
+    {
+      "id": "protectii-lant-cadru",
+      "name": "➤ Protectii Lant - Cadru",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Protectii Lant - Cadru",
+      "product_count": 10,
+      "in_stock_count": 6
+    },
+    {
+      "id": "reflectorizante",
+      "name": "➤ Reflectorizante",
+      "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
+      "product_count": 23,
+      "in_stock_count": 20
+    },
+    {
+      "id": "roti-fata",
+      "name": "➤ Roti Fata",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "product_count": 36,
+      "in_stock_count": 31
+    },
+    {
+      "id": "roti-spate",
+      "name": "➤ Roti Spate",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "product_count": 50,
+      "in_stock_count": 38
+    },
+    {
+      "id": "rucsaci",
+      "name": "➤ Rucsaci",
+      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Rucsaci",
+      "product_count": 4,
+      "in_stock_count": 3
+    },
+    {
+      "id": "rulmenti-headset",
+      "name": "➤ Rulmenti(HeadSet)",
+      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Rulmenti(HeadSet)",
+      "product_count": 6,
+      "in_stock_count": 4
+    },
+    {
+      "id": "saboti-frana",
+      "name": "➤ Saboti Frana",
+      "full_path": "COMPONENTE > Sisteme Franare > ➤ Saboti Frana",
+      "product_count": 13,
+      "in_stock_count": 8
+    },
+    {
+      "id": "scaune-bicicleta-copii",
+      "name": "➤ Scaune Bicicleta Copii",
+      "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii > ➤ Scaune Bicicleta Copii",
+      "product_count": 2,
+      "in_stock_count": 1
+    },
+    {
+      "id": "schimbatoare-fata",
+      "name": "➤ Schimbatoare Fata",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Fata",
+      "product_count": 7,
+      "in_stock_count": 6
+    },
+    {
+      "id": "schimbatoare-spate",
+      "name": "➤ Schimbatoare Spate",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
+      "product_count": 30,
+      "in_stock_count": 23
+    },
+    {
+      "id": "sei",
+      "name": "➤ Sei",
+      "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
+      "product_count": 95,
+      "in_stock_count": 83
+    },
+    {
+      "id": "set-lumini",
+      "name": "➤ Set Lumini",
+      "full_path": "ACCESORII > Lumini - Accesorii > ➤ Set Lumini",
+      "product_count": 24,
+      "in_stock_count": 23
+    },
+    {
+      "id": "seturi-aparatori-noroi",
+      "name": "➤ Seturi Aparatori Noroi",
+      "full_path": "ACCESORII > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
+      "product_count": 26,
+      "in_stock_count": 23
+    },
+    {
+      "id": "seturi-roti",
+      "name": "➤ Seturi Roti",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
+      "product_count": 24,
+      "in_stock_count": 17
+    },
+    {
+      "id": "sistem-velo-fit",
+      "name": "➤ Sistem VELO - FIT",
+      "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sistem VELO - FIT",
+      "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
+      "id": "sonerii",
+      "name": "➤ Sonerii",
+      "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
+      "product_count": 47,
+      "in_stock_count": 38
+    },
+    {
+      "id": "spite-stainless",
+      "name": "➤ Spite Stainless",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "product_count": 165,
+      "in_stock_count": 95
+    },
+    {
+      "id": "spite-stainless-2-3-mm",
+      "name": "➤ Spite Stainless - 2,3 mm",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless - 2,3 mm",
+      "product_count": 10,
+      "in_stock_count": 6
+    },
+    {
+      "id": "spite-stainless-aero",
+      "name": "➤ Spite Stainless Aero",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "product_count": 24,
+      "in_stock_count": 1
+    },
+    {
+      "id": "spite-ucp",
+      "name": "➤ Spite UCP",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "product_count": 59,
+      "in_stock_count": 27
+    },
+    {
+      "id": "suporturi-bidon",
+      "name": "➤ Suporturi Bidon",
+      "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
+      "product_count": 50,
+      "in_stock_count": 48
+    },
+    {
+      "id": "suruburi-piulite-saibe",
+      "name": "➤ Suruburi - Piulite - Saibe",
+      "full_path": "COMPONENTE > Unelte Service > ➤ Suruburi - Piulite - Saibe",
+      "product_count": 9,
+      "in_stock_count": 2
+    },
+    {
+      "id": "tije-sa",
+      "name": "➤ Tije Sa",
+      "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
+      "product_count": 48,
+      "in_stock_count": 34
+    },
+    {
+      "id": "transport-biciclete",
+      "name": "➤ Transport Biciclete",
+      "full_path": "ACCESORII > Transport - Depozitare > ➤ Transport Biciclete",
+      "product_count": 5,
+      "in_stock_count": 1
+    },
+    {
+      "id": "transport-copii",
+      "name": "➤ Transport Copii",
+      "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii > ➤ Transport Copii",
+      "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
+      "id": "trotinete-electrice",
+      "name": "➤ Trotinete Electrice",
+      "full_path": "e- MOBILITY > ➤ Trotinete Electrice",
+      "product_count": 39,
+      "in_stock_count": 12
+    },
+    {
+      "id": "truse-unelte-mini-truse",
+      "name": "➤ Truse Unelte - Mini Truse",
+      "full_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
+      "product_count": 14,
+      "in_stock_count": 9
+    },
+    {
+      "id": "unelte-speciale-biciclete",
+      "name": "➤ Unelte Speciale Biciclete",
+      "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "product_count": 180,
+      "in_stock_count": 145
+    },
+    {
+      "id": "urechi-cadru",
+      "name": "➤ Urechi Cadru",
+      "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "product_count": 1072,
+      "in_stock_count": 284
+    },
+    {
+      "id": "bike-maintenance-intretinere",
+      "name": "➤Bike Maintenance - Intretinere",
+      "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
+      "product_count": 22,
+      "in_stock_count": 12
+    },
+    {
+      "id": "depozitare-biciclete",
+      "name": "➤Depozitare Biciclete",
+      "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
+      "product_count": 21,
+      "in_stock_count": 14
+    },
+    {
+      "id": "suspensii-spate",
+      "name": "➤Suspensii Spate",
+      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤Suspensii Spate",
+      "product_count": 2,
+      "in_stock_count": 1
+    },
+    {
+      "id": "angrenaje-monobloace",
+      "name": "⬤ Angrenaje - Monobloace",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace",
+      "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
+      "id": "lanturi-componente",
+      "name": "⬤ Lanturi - Componente",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente",
+      "product_count": 2,
+      "in_stock_count": 0
+    },
+    {
+      "id": "pinioane",
+      "name": "⬤ Pinioane",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane",
+      "product_count": 3,
+      "in_stock_count": 3
+    },
+    {
+      "id": "roti",
+      "name": "⬤ Roti",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti",
+      "product_count": 4,
+      "in_stock_count": 3
     }
   ]
 }

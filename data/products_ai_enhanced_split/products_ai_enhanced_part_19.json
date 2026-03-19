@@ -1,14 +1,59 @@
 {
-  "last_updated": "2026-03-18T03:53:23.686049+00:00",
+  "last_updated": "2026-03-19T03:53:09.122341+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 19,
     "total_parts": 20,
     "product_range": "4501-4750",
-    "original_total": 4761
+    "original_total": 4764
   },
   "products": [
+    {
+      "id": "000002",
+      "sku": "000002",
+      "name": "PRODUSE MOSTRA",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 20,
+      "url": "https://www.bikestylish.ro/produse-mostra.html",
+      "image": "None",
+      "images": [
+        "None"
+      ]
+    },
+    {
+      "id": "000004",
+      "sku": "000004",
+      "name": "DISPLAY CARTON GHIDON",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 281,
+      "url": "https://www.bikestylish.ro/display-carton-ghidon.html",
+      "image": "None",
+      "images": [
+        "None"
+      ]
+    },
+    {
+      "id": "000008",
+      "sku": "000008",
+      "name": "CUTIE CARTON PEDALE",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 150,
+      "url": "https://www.bikestylish.ro/cutie-carton-pedale.html",
+      "image": "None",
+      "images": [
+        "None"
+      ]
+    },
     {
       "id": "000110",
       "sku": "000110",
@@ -181,8 +226,8 @@
       "ean": "8581500445116",
       "name": "SA SELLE SMP TOUR 1065 KIM NEGRU",
       "brand": "SXT",
-      "category": "Sei",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
+      "category": "➤ Sei",
+      "category_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "price": 45.0,
       "price_net": 37.19,
       "currency": "RON",
@@ -197,7 +242,7 @@
       "tags": [
         "COMPONENTE",
         "SXT",
-        "Sei"
+        "➤ Sei"
       ],
       "specs": {
         "color": "Negru"
@@ -308,8 +353,8 @@
       "ean": "2802140000005",
       "name": "BUTUC SPATED462SB-SL-CL-B12 S3-S11S 32H NEGRU NOVATEC",
       "brand": "NOVATEC",
-      "category": "Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci Frana Disc",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 470.0,
       "price_net": 388.43,
       "currency": "RON",
@@ -325,9 +370,9 @@
       ],
       "tags": [
         "11 viteze",
-        "Butuci Frana Disc",
         "COMPONENTE",
-        "NOVATEC"
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
       ],
       "specs": {
         "color": "Negru",
@@ -340,8 +385,8 @@
       "ean": "2802141000004",
       "name": "BUTUC SPATE NOVATEC D902SB-CL-X12-A4A-MS, Negru , 32H",
       "brand": "NOVATEC",
-      "category": "Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci Frana Disc",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 599.0,
       "price_net": 495.04,
       "currency": "RON",
@@ -356,9 +401,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-spate-novatec-d902sb-cl-x12-a4a-ms-negru-32h~11426835.jpg"
       ],
       "tags": [
-        "Butuci Frana Disc",
         "COMPONENTE",
-        "NOVATEC"
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
       ],
       "specs": {
         "color": "Negru"
@@ -424,8 +469,8 @@
       "sku": "284000",
       "name": "SPITA CN SPOKE INOX 2x252 MM ALB",
       "brand": "cnSPOKE",
-      "category": "Spite Stainless",
-      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "category": "➤ Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "price": 1.5,
       "price_net": 1.24,
       "currency": "RON",
@@ -438,8 +483,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Spite Stainless",
-        "cnSPOKE"
+        "cnSPOKE",
+        "➤ Spite Stainless"
       ],
       "specs": {
         "color": "Alb"
@@ -450,8 +495,8 @@
       "sku": "284001",
       "name": "SPITA CN SPOKE INOX 2x253 MM ALB",
       "brand": "cnSPOKE",
-      "category": "Spite Stainless",
-      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "category": "➤ Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "price": 1.5,
       "price_net": 1.24,
       "currency": "RON",
@@ -464,8 +509,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Spite Stainless",
-        "cnSPOKE"
+        "cnSPOKE",
+        "➤ Spite Stainless"
       ],
       "specs": {
         "color": "Alb"
@@ -476,8 +521,8 @@
       "sku": "284004",
       "name": "SPITA CN SPOKE 2x259 MM ALB",
       "brand": "cnSPOKE",
-      "category": "Spite Stainless",
-      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "category": "➤ Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "price": 1.49,
       "price_net": 1.23,
       "currency": "RON",
@@ -490,8 +535,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Spite Stainless",
-        "cnSPOKE"
+        "cnSPOKE",
+        "➤ Spite Stainless"
       ],
       "specs": {
         "color": "Alb"
@@ -502,8 +547,8 @@
       "sku": "284011",
       "name": "SPITA CN SPOKE INOX 2x256 MM VERDE",
       "brand": "cnSPOKE",
-      "category": "Spite Stainless",
-      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "category": "➤ Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "price": 1.5,
       "price_net": 1.24,
       "currency": "RON",
@@ -516,8 +561,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Spite Stainless",
-        "cnSPOKE"
+        "cnSPOKE",
+        "➤ Spite Stainless"
       ],
       "specs": {
         "color": "Verde"
@@ -528,8 +573,8 @@
       "sku": "284023",
       "name": "SPITA CN SPOKE INOX 2x258 MM ROSU",
       "brand": "cnSPOKE",
-      "category": "Spite Stainless",
-      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "category": "➤ Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "price": 1.5,
       "price_net": 1.24,
       "currency": "RON",
@@ -542,8 +587,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Spite Stainless",
-        "cnSPOKE"
+        "cnSPOKE",
+        "➤ Spite Stainless"
       ],
       "specs": {
         "color": "Rosu"
@@ -554,8 +599,8 @@
       "sku": "284101",
       "name": "SPITA CN SPOKE INOX 2x251 MM ALB",
       "brand": "cnSPOKE",
-      "category": "Spite Stainless",
-      "category_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
+      "category": "➤ Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "price": 1.5,
       "price_net": 1.24,
       "currency": "RON",
@@ -568,8 +613,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Spite Stainless",
-        "cnSPOKE"
+        "cnSPOKE",
+        "➤ Spite Stainless"
       ],
       "specs": {
         "color": "Alb"
@@ -599,13 +644,13 @@
       "ean": "887539034870",
       "name": "PEDALE SXT STEADY-A 2 NEGRU",
       "brand": "SXT",
-      "category": "Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "price": 65.0,
       "price_net": 53.72,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 61,
+      "stock_quantity": 56,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/pedale-sxt-steady-a-2-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-sxt-steady-a-2-negru~11424657.jpg",
@@ -618,8 +663,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Pedale Platforma",
-        "SXT"
+        "SXT",
+        "➤ Pedale Platforma"
       ],
       "specs": {
         "color": "Negru"
@@ -698,8 +743,8 @@
       "ean": "887539023744",
       "name": "THRU AXLE 12x100 MM NOVATEC",
       "brand": "NOVATEC",
-      "category": "Axe - Accesorii Butuci",
-      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Axe - Accesorii Butuci",
+      "category": "➤ Axe - Accesorii Butuci",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "price": 175.0,
       "price_net": 144.63,
       "currency": "RON",
@@ -716,9 +761,9 @@
       ],
       "tags": [
         "12 inch",
-        "Axe - Accesorii Butuci",
         "COMPONENTE",
-        "NOVATEC"
+        "NOVATEC",
+        "➤ Axe - Accesorii Butuci"
       ],
       "specs": {
         "wheel_size": "12",
@@ -731,8 +776,8 @@
       "ean": "4015493320500",
       "name": "BUTUC NOVATEC ROAD SUPER LIGHT FATA 32H",
       "brand": "NOVATEC",
-      "category": "Butuci V-Break - Dinam",
-      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci V-Break - Dinam",
+      "category": "➤ Butuci V-Break - Dinam",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
       "price": 215.0,
       "price_net": 177.69,
       "currency": "RON",
@@ -746,10 +791,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-novatec-road-super-light-fata-32h~11426625.jpg"
       ],
       "tags": [
-        "Butuci V-Break - Dinam",
         "COMPONENTE",
         "NOVATEC",
-        "Road"
+        "Road",
+        "➤ Butuci V-Break - Dinam"
       ],
       "specs": {
         "bike_type": [
@@ -763,8 +808,8 @@
       "ean": "2801261000000",
       "name": "BUTUC SPATE NOVATEC D442SB- B12 MS Microspline",
       "brand": "NOVATEC",
-      "category": "Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci Frana Disc",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 270.0,
       "price_net": 223.14,
       "currency": "RON",
@@ -777,9 +822,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-spate-novatec-d442sb-b12-ms-microspline~11426577.jpg"
       ],
       "tags": [
-        "Butuci Frana Disc",
         "COMPONENTE",
-        "NOVATEC"
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
       ]
     },
     {
@@ -791,7 +836,7 @@
       "category": "Bidoane - Suporti Bidon",
       "category_path": "ACCESORII > Bidoane - Suporti Bidon",
       "secondary_categories": [
-        "ACCESORII > Bidoane - Suporti Bidon > Suporturi Bidon"
+        "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon"
       ],
       "price": 0.0,
       "price_net": 0.0,
@@ -820,8 +865,8 @@
       "ean": "2802233000004",
       "name": "PINION SAMOX PD-DM-Gen2 15T E-BIKE",
       "brand": "SAMOX",
-      "category": "Pionioane Filetate",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > Pinioane > Pionioane Filetate",
+      "category": "➤ Pionioane Filetate",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
@@ -836,8 +881,8 @@
       "tags": [
         "COMPONENTE",
         "E-Bike",
-        "Pionioane Filetate",
-        "SAMOX"
+        "SAMOX",
+        "➤ Pionioane Filetate"
       ],
       "specs": {
         "bike_type": [
@@ -850,8 +895,8 @@
       "sku": "359464",
       "name": "MONOBLOC PEDALIER 119 MM SXT 2 RULMENTI",
       "brand": "VENTURA",
-      "category": "Monobloace - B.B.",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Monobloace - B.B.",
+      "category": "➤ Monobloace - B.B.",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
       "price": 24.0,
       "price_net": 19.83,
       "currency": "RON",
@@ -864,8 +909,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Monobloace - B.B.",
-        "VENTURA"
+        "VENTURA",
+        "➤ Monobloace - B.B."
       ]
     },
     {
@@ -903,8 +948,8 @@
       "sku": "386175",
       "name": "SET APARATORI FLEXI M-WAVE 28 45 MM SILVER",
       "brand": "M-WAVE",
-      "category": "Seturi Aparatori Noroi",
-      "category_path": "ACCESORII > Aparatori Noroi > Seturi Aparatori Noroi",
+      "category": "➤ Seturi Aparatori Noroi",
+      "category_path": "ACCESORII > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
       "price": 135.0,
       "price_net": 111.57,
       "currency": "RON",
@@ -920,7 +965,7 @@
       "tags": [
         "ACCESORII",
         "M-WAVE",
-        "Seturi Aparatori Noroi"
+        "➤ Seturi Aparatori Noroi"
       ],
       "specs": {
         "color": "Silver"
@@ -931,8 +976,8 @@
       "sku": "386176",
       "name": "Set Aparatori 28-56 mm M-WAVE Negru Flexibile-Cabluri",
       "brand": "M-WAVE",
-      "category": "Seturi Aparatori Noroi",
-      "category_path": "ACCESORII > Aparatori Noroi > Seturi Aparatori Noroi",
+      "category": "➤ Seturi Aparatori Noroi",
+      "category_path": "ACCESORII > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
       "price": 135.0,
       "price_net": 111.57,
       "currency": "RON",
@@ -948,7 +993,7 @@
       "tags": [
         "ACCESORII",
         "M-WAVE",
-        "Seturi Aparatori Noroi"
+        "➤ Seturi Aparatori Noroi"
       ],
       "specs": {
         "color": "Negru"
@@ -959,8 +1004,8 @@
       "sku": "3882699",
       "name": "ROATA FATA 26 KARMA DH",
       "brand": "SXT",
-      "category": "Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > Roti > Roti Fata",
+      "category": "➤ Roti Fata",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "price": 499.0,
       "price_net": 412.4,
       "currency": "RON",
@@ -971,12 +1016,11 @@
       "images": [
         "None"
       ],
-      "category_description": "Front wheels - complete, ready to mount",
       "tags": [
         "COMPONENTE",
         "Downhill",
-        "Roti Fata",
-        "SXT"
+        "SXT",
+        "➤ Roti Fata"
       ],
       "specs": {
         "bike_type": [
@@ -1011,8 +1055,8 @@
       "sku": "404355",
       "name": "PIPA M-WAVE ST-M3.2 100-31.8 1.1/8 mm Negru",
       "brand": "M-WAVE",
-      "category": "Pipe Ghidon",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Pipe Ghidon",
+      "category": "➤ Pipe Ghidon",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
       "price": 110.0,
       "price_net": 90.91,
       "currency": "RON",
@@ -1025,11 +1069,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/pipa-m-wave-st-m3-2-100-31-8-1-1-8-mm-negru~11423169.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/pipa-m-wave-st-m3-2-100-31-8-1-1-8-mm-negru~11423172.jpg"
       ],
-      "category_description": "Stems - connect handlebars to steerer tube",
       "tags": [
         "COMPONENTE",
         "M-WAVE",
-        "Pipe Ghidon"
+        "➤ Pipe Ghidon"
       ],
       "specs": {
         "color": "Negru"
@@ -1041,8 +1084,8 @@
       "ean": "2802161000008",
       "name": "MANSOANE SXT D3 ATTUNE VLG - 1745 AD3 Negru",
       "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Mansoane",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "price": 79.0,
       "price_net": 65.29,
       "currency": "RON",
@@ -1056,11 +1099,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-sxt-d3-attune-vlg-1745-ad3-negru~11423160.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-sxt-d3-attune-vlg-1745-ad3-negru~11423163.jpg"
       ],
-      "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
-        "Mansoane",
-        "SXT"
+        "SXT",
+        "➤ Mansoane"
       ],
       "specs": {
         "color": "Negru"
@@ -1071,8 +1113,8 @@
       "sku": "466929",
       "name": "STOP SPATE PE ARIPA PENTRU DINAM AN LUN",
       "brand": "AN LUN",
-      "category": "Lumini Spate",
-      "category_path": "ACCESORII > Lumini - Accesorii > Lumini Spate",
+      "category": "➤ Lumini Spate",
+      "category_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
       "price": 43.88,
       "price_net": 36.26,
       "currency": "RON",
@@ -1087,7 +1129,7 @@
       "tags": [
         "ACCESORII",
         "AN LUN",
-        "Lumini Spate"
+        "➤ Lumini Spate"
       ]
     },
     {
@@ -1333,8 +1375,8 @@
       "ean": "2802465000001",
       "name": "Janta SXT 24 (507 x 19C) - 36H Negru V-Break",
       "brand": "SXT",
-      "category": "Jante pentru Frane V-Brake",
-      "category_path": "COMPONENTE > Roti - Componente > Jante > Jante pentru Frane V-Brake",
+      "category": "➤ Jante pentru Frane V-Brake",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "price": 95.0,
       "price_net": 78.51,
       "currency": "RON",
@@ -1348,8 +1390,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Jante pentru Frane V-Brake",
-        "SXT"
+        "SXT",
+        "➤ Jante pentru Frane V-Brake"
       ],
       "specs": {
         "color": "Negru",
@@ -1562,8 +1604,8 @@
       "ean": "65061010",
       "name": "CASCA COPII SOCCER 52-57CM M-WAVE",
       "brand": "M-WAVE",
-      "category": "Casti Ciclism",
-      "category_path": "ECHIPAMENTE > Casti - Ochelari > Casti Ciclism",
+      "category": "➤ Casti Ciclism",
+      "category_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
       "price": 78.0,
       "price_net": 64.46,
       "currency": "RON",
@@ -1578,10 +1620,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/casca-copii-soccer-52-57cm-m-wave~11422554.jpg"
       ],
       "tags": [
-        "Casti Ciclism",
         "Copii",
         "ECHIPAMENTE",
-        "M-WAVE"
+        "M-WAVE",
+        "➤ Casti Ciclism"
       ],
       "specs": {
         "bike_type": [
@@ -1595,8 +1637,8 @@
       "ean": "4015493730040",
       "name": "CASCA COPII M-WAVE LITTLE DEVIL S (52-57 cm)",
       "brand": "M-WAVE",
-      "category": "Casti Ciclism",
-      "category_path": "ECHIPAMENTE > Casti - Ochelari > Casti Ciclism",
+      "category": "➤ Casti Ciclism",
+      "category_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
       "price": 78.0,
       "price_net": 64.46,
       "currency": "RON",
@@ -1612,10 +1654,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/casca-copii-m-wave-little-devil-s-52-57-cm~11422545.jpg"
       ],
       "tags": [
-        "Casti Ciclism",
         "Copii",
         "ECHIPAMENTE",
-        "M-WAVE"
+        "M-WAVE",
+        "➤ Casti Ciclism"
       ],
       "specs": {
         "bike_type": [
@@ -2170,8 +2212,8 @@
       "ean": "8581500015401",
       "name": "SET 20 BUCATI-PROTECTIE CADRU SCHIMBATOR NEGRU",
       "brand": "SXT",
-      "category": "Cabluri",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > Cabluri - Mantale - Capete > Cabluri",
+      "category": "➤ Cabluri",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Cabluri",
       "price": 1.0,
       "price_net": 0.83,
       "currency": "RON",
@@ -2184,8 +2226,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Cabluri",
-        "SXT"
+        "SXT",
+        "➤ Cabluri"
       ],
       "specs": {
         "color": "Negru"
@@ -2274,8 +2316,8 @@
       "ean": "8581500018068",
       "name": "APARATORI NOROI 26-27.5 ARBITER",
       "brand": "SXT",
-      "category": "Aparatori Noroi Fata",
-      "category_path": "ACCESORII > Aparatori Noroi > Aparatori Noroi Fata",
+      "category": "➤ Aparatori Noroi Fata",
+      "category_path": "ACCESORII > Aparatori Noroi > ➤ Aparatori Noroi Fata",
       "price": 73.0,
       "price_net": 60.33,
       "currency": "RON",
@@ -2291,8 +2333,8 @@
       ],
       "tags": [
         "ACCESORII",
-        "Aparatori Noroi Fata",
-        "SXT"
+        "SXT",
+        "➤ Aparatori Noroi Fata"
       ]
     },
     {
@@ -2453,8 +2495,8 @@
       "sku": "D1001",
       "name": "Ureche Cadru PILO D1001 FOCUS",
       "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "price": 169.99,
       "price_net": 140.49,
       "currency": "RON",
@@ -2473,7 +2515,7 @@
       "tags": [
         "COMPONENTE",
         "PILO",
-        "Urechi Cadru"
+        "➤ Urechi Cadru"
       ]
     },
     {
@@ -2481,8 +2523,8 @@
       "sku": "D1006",
       "name": "Ureche Cadru PILO D1006",
       "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "price": 170.0,
       "price_net": 140.5,
       "currency": "RON",
@@ -2500,7 +2542,7 @@
       "tags": [
         "COMPONENTE",
         "PILO",
-        "Urechi Cadru"
+        "➤ Urechi Cadru"
       ]
     },
     {
@@ -2508,8 +2550,8 @@
       "sku": "D1007",
       "name": "Ureche Cadru D1007",
       "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "price": 190.0,
       "price_net": 157.02,
       "currency": "RON",
@@ -2528,7 +2570,7 @@
       "tags": [
         "COMPONENTE",
         "PILO",
-        "Urechi Cadru"
+        "➤ Urechi Cadru"
       ]
     },
     {
@@ -2536,8 +2578,8 @@
       "sku": "D1009",
       "name": "URECHE CADRU PILO D1009",
       "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "price": 166.99,
       "price_net": 138.01,
       "currency": "RON",
@@ -2554,7 +2596,7 @@
       "tags": [
         "COMPONENTE",
         "PILO",
-        "Urechi Cadru"
+        "➤ Urechi Cadru"
       ]
     },
     {
@@ -2562,8 +2604,8 @@
       "sku": "D102",
       "name": "Ureche Cadru PILO D102",
       "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "price": 109.99,
       "price_net": 90.9,
       "currency": "RON",
@@ -2579,7 +2621,7 @@
       "tags": [
         "COMPONENTE",
         "PILO",
-        "Urechi Cadru"
+        "➤ Urechi Cadru"
       ]
     },
     {
@@ -2587,8 +2629,8 @@
       "sku": "D1089",
       "name": "Ureche Cadru PILO D1089",
       "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "price": 185.0,
       "price_net": 152.89,
       "currency": "RON",
@@ -2605,7 +2647,7 @@
       "tags": [
         "COMPONENTE",
         "PILO",
-        "Urechi Cadru"
+        "➤ Urechi Cadru"
       ]
     },
     {
@@ -2613,8 +2655,8 @@
       "sku": "D344",
       "name": "Ureche Cadru PILO D344 GHOST",
       "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "price": 129.0,
       "price_net": 106.61,
       "currency": "RON",
@@ -2629,7 +2671,7 @@
       "tags": [
         "COMPONENTE",
         "PILO",
-        "Urechi Cadru"
+        "➤ Urechi Cadru"
       ]
     },
     {
@@ -2637,8 +2679,8 @@
       "sku": "D413",
       "name": "Ureche Cadru PILO D413",
       "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "price": 129.0,
       "price_net": 106.61,
       "currency": "RON",
@@ -2653,7 +2695,7 @@
       "tags": [
         "COMPONENTE",
         "PILO",
-        "Urechi Cadru"
+        "➤ Urechi Cadru"
       ]
     },
     {
@@ -2661,8 +2703,8 @@
       "sku": "D807",
       "name": "Ureche Cadru PILO D807",
       "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "price": 199.0,
       "price_net": 164.46,
       "currency": "RON",
@@ -2680,7 +2722,7 @@
       "tags": [
         "COMPONENTE",
         "PILO",
-        "Urechi Cadru"
+        "➤ Urechi Cadru"
       ]
     },
     {
@@ -2688,8 +2730,8 @@
       "sku": "D824",
       "name": "Ureche Cadru PILO D824",
       "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "price": 199.0,
       "price_net": 164.46,
       "currency": "RON",
@@ -2706,7 +2748,7 @@
       "tags": [
         "COMPONENTE",
         "PILO",
-        "Urechi Cadru"
+        "➤ Urechi Cadru"
       ]
     },
     {
@@ -2956,8 +2998,8 @@
       "ean": "4711126200767",
       "name": "PEDALE HT AN71 TALON Gold",
       "brand": "HT COMPONENTS",
-      "category": "Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "price": 380.0,
       "price_net": 314.05,
       "currency": "RON",
@@ -2972,7 +3014,7 @@
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
-        "Pedale Platforma"
+        "➤ Pedale Platforma"
       ],
       "specs": {
         "color": "Gold"
@@ -2984,8 +3026,8 @@
       "ean": "4715872482026",
       "name": "PEDALE HT AR12 ALB",
       "brand": "HT COMPONENTS",
-      "category": "Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "price": 235.0,
       "price_net": 194.21,
       "currency": "RON",
@@ -3000,7 +3042,7 @@
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
-        "Pedale Platforma"
+        "➤ Pedale Platforma"
       ],
       "specs": {
         "color": "Alb"
@@ -3012,8 +3054,8 @@
       "ean": "4715872481982",
       "name": "PEDALE HT AR12 ROSU(023)",
       "brand": "HT COMPONENTS",
-      "category": "Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "price": 235.0,
       "price_net": 194.21,
       "currency": "RON",
@@ -3028,7 +3070,7 @@
       "tags": [
         "COMPONENTE",
         "HT COMPONENTS",
-        "Pedale Platforma"
+        "➤ Pedale Platforma"
       ],
       "specs": {
         "color": "Rosu"
@@ -3103,8 +3145,8 @@
       "ean": "2802328000001",
       "name": "JANTA MACH1 KLIXX25 27.5(584x25C) 32H",
       "brand": "MACH1",
-      "category": "Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > Jante > Jante pentru Frane Disc",
+      "category": "➤ Jante pentru Frane Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "price": 145.0,
       "price_net": 119.83,
       "currency": "RON",
@@ -3119,8 +3161,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Jante pentru Frane Disc",
-        "MACH1"
+        "MACH1",
+        "➤ Jante pentru Frane Disc"
       ],
       "specs": {
         "dimensions": "584 x 25"
@@ -3195,8 +3237,8 @@
       "ean": "6973146601179",
       "name": "SUPORT BIDON P2R HUGG Negru-Roz",
       "brand": "SXT",
-      "category": "Suporturi Bidon",
-      "category_path": "ACCESORII > Bidoane - Suporti Bidon > Suporturi Bidon",
+      "category": "➤ Suporturi Bidon",
+      "category_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "price": 39.0,
       "price_net": 32.23,
       "currency": "RON",
@@ -3211,7 +3253,7 @@
       "tags": [
         "ACCESORII",
         "SXT",
-        "Suporturi Bidon"
+        "➤ Suporturi Bidon"
       ],
       "specs": {
         "color": "Negru"
@@ -3256,8 +3298,8 @@
       "ean": "4712765145600",
       "name": "Cheie Spite SUPER B TB-5550 - 3.3 mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "COMPONENTE > Unelte Service > Unelte Speciale Biciclete",
+      "category": "➤ Unelte Speciale Biciclete",
+      "category_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "price": 45.0,
       "price_net": 37.19,
       "currency": "RON",
@@ -3273,7 +3315,7 @@
       "tags": [
         "COMPONENTE",
         "SUPER B",
-        "Unelte Speciale Biciclete"
+        "➤ Unelte Speciale Biciclete"
       ]
     },
     {
@@ -3282,8 +3324,8 @@
       "ean": "4712765144337",
       "name": "Cheie Spite SUPER B TB-5517 Shimano",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "COMPONENTE > Unelte Service > Unelte Speciale Biciclete",
+      "category": "➤ Unelte Speciale Biciclete",
+      "category_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -3299,7 +3341,7 @@
       "tags": [
         "COMPONENTE",
         "SUPER B",
-        "Unelte Speciale Biciclete"
+        "➤ Unelte Speciale Biciclete"
       ]
     },
     {
@@ -3307,8 +3349,8 @@
       "sku": "SB19502",
       "name": "CHEIE SPITE SUPER B TB-5523",
       "brand": "SUPER B",
-      "category": "Chei Universale",
-      "category_path": "COMPONENTE > Unelte Service > Chei Universale",
+      "category": "➤ Chei Universale",
+      "category_path": "COMPONENTE > Unelte Service > ➤ Chei Universale",
       "price": 50.84,
       "price_net": 42.02,
       "currency": "RON",
@@ -3322,8 +3364,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Chei Universale",
-        "SUPER B"
+        "SUPER B",
+        "➤ Chei Universale"
       ]
     },
     {
@@ -3332,8 +3374,8 @@
       "ean": "4710944267358",
       "name": "Maneta Schimbator SunRace 2V (DLMS33E RT/L2/L3 ) SRAM® MTB",
       "brand": "SXT",
-      "category": "Manete Frana  - Schimbator",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > Schimbatoare - Accesorii > Manete Frana  - Schimbator",
+      "category": "➤ Manete Frana  - Schimbator",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Manete Frana  - Schimbator",
       "price": 95.0,
       "price_net": 78.51,
       "currency": "RON",
@@ -3349,8 +3391,8 @@
         "2 viteze",
         "COMPONENTE",
         "MTB",
-        "Manete Frana  - Schimbator",
-        "SXT"
+        "SXT",
+        "➤ Manete Frana  - Schimbator"
       ],
       "specs": {
         "bike_type": [
@@ -3415,8 +3457,8 @@
       "ean": "887539013561",
       "name": "Aparatoare Noroi Spate M-WAVE Mud Max QR.R II 26-29 Negru",
       "brand": "M-WAVE",
-      "category": "Aparatori Noroi Spate",
-      "category_path": "ACCESORII > Aparatori Noroi > Aparatori Noroi Spate",
+      "category": "➤ Aparatori Noroi Spate",
+      "category_path": "ACCESORII > Aparatori Noroi > ➤ Aparatori Noroi Spate",
       "price": 109.99,
       "price_net": 90.9,
       "currency": "RON",
@@ -3431,8 +3473,8 @@
       ],
       "tags": [
         "ACCESORII",
-        "Aparatori Noroi Spate",
-        "M-WAVE"
+        "M-WAVE",
+        "➤ Aparatori Noroi Spate"
       ],
       "specs": {
         "color": "Negru"
@@ -3444,8 +3486,8 @@
       "ean": "887539047849",
       "name": "Far cu Baterii M-WAVE Apollon K 1.2",
       "brand": "M-WAVE",
-      "category": "Lumini Fata",
-      "category_path": "ACCESORII > Lumini - Accesorii > Lumini Fata",
+      "category": "➤ Lumini Fata",
+      "category_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
       "price": 60.0,
       "price_net": 49.59,
       "currency": "RON",
@@ -3460,8 +3502,8 @@
       ],
       "tags": [
         "ACCESORII",
-        "Lumini Fata",
-        "M-WAVE"
+        "M-WAVE",
+        "➤ Lumini Fata"
       ]
     },
     {
@@ -3469,8 +3511,8 @@
       "sku": "311925",
       "name": "Pedale SXT N-13 Nylon-Fiber Albastru",
       "brand": "SXT",
-      "category": "Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "price": 100.0,
       "price_net": 82.64,
       "currency": "RON",
@@ -3486,8 +3528,8 @@
       "tags": [
         "COMPONENTE",
         "Nylon",
-        "Pedale Platforma",
-        "SXT"
+        "SXT",
+        "➤ Pedale Platforma"
       ],
       "specs": {
         "material": "Nylon",
@@ -3499,8 +3541,8 @@
       "sku": "311926",
       "name": "Pedale SXT N-13 Nylon-Fiber Galben",
       "brand": "SXT",
-      "category": "Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "price": 100.0,
       "price_net": 82.64,
       "currency": "RON",
@@ -3517,8 +3559,8 @@
       "tags": [
         "COMPONENTE",
         "Nylon",
-        "Pedale Platforma",
-        "SXT"
+        "SXT",
+        "➤ Pedale Platforma"
       ],
       "specs": {
         "material": "Nylon",
@@ -3530,8 +3572,8 @@
       "sku": "311927",
       "name": "Pedale SXT N-13 Nylon-Fiber Verde Neon",
       "brand": "SXT",
-      "category": "Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "price": 100.0,
       "price_net": 82.64,
       "currency": "RON",
@@ -3548,8 +3590,8 @@
       "tags": [
         "COMPONENTE",
         "Nylon",
-        "Pedale Platforma",
-        "SXT"
+        "SXT",
+        "➤ Pedale Platforma"
       ],
       "specs": {
         "material": "Nylon",
@@ -3561,8 +3603,8 @@
       "sku": "311928",
       "name": "Pedale SXT N-13 Nylon-Fiber Rosu",
       "brand": "SXT",
-      "category": "Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "price": 100.0,
       "price_net": 82.64,
       "currency": "RON",
@@ -3579,8 +3621,8 @@
       "tags": [
         "COMPONENTE",
         "Nylon",
-        "Pedale Platforma",
-        "SXT"
+        "SXT",
+        "➤ Pedale Platforma"
       ],
       "specs": {
         "material": "Nylon",
@@ -3592,8 +3634,8 @@
       "sku": "311929",
       "name": "Pedale SXT N-14 Nylon-Fiber Negru",
       "brand": "SXT",
-      "category": "Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "price": 100.0,
       "price_net": 82.64,
       "currency": "RON",
@@ -3610,8 +3652,8 @@
       "tags": [
         "COMPONENTE",
         "Nylon",
-        "Pedale Platforma",
-        "SXT"
+        "SXT",
+        "➤ Pedale Platforma"
       ],
       "specs": {
         "material": "Nylon",
@@ -3623,13 +3665,13 @@
       "sku": "312015",
       "name": "Pedale Plastic SXT 181X Negru 9/16",
       "brand": "SXT",
-      "category": "Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "price": 30.0,
       "price_net": 24.79,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 444,
+      "stock_quantity": 434,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-181x-negru-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-plastic-sxt-181x-negru-9-16~11326230.jpg",
@@ -3639,9 +3681,9 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Pedale Platforma",
         "Plastic",
-        "SXT"
+        "SXT",
+        "➤ Pedale Platforma"
       ],
       "specs": {
         "material": "Plastic",
@@ -3655,8 +3697,8 @@
       "ean": "2802558000000",
       "name": "Pedale Plastic SXT 181X Verde 9/16",
       "brand": "SXT",
-      "category": "Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "price": 30.0,
       "price_net": 24.79,
       "currency": "RON",
@@ -3671,9 +3713,9 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Pedale Platforma",
         "Plastic",
-        "SXT"
+        "SXT",
+        "➤ Pedale Platforma"
       ],
       "specs": {
         "material": "Plastic",
@@ -3687,8 +3729,8 @@
       "ean": "2802559000009",
       "name": "Pedale Plastic SXT 215X Negru 9/16",
       "brand": "SXT",
-      "category": "Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "price": 30.0,
       "price_net": 24.79,
       "currency": "RON",
@@ -3703,9 +3745,9 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Pedale Platforma",
         "Plastic",
-        "SXT"
+        "SXT",
+        "➤ Pedale Platforma"
       ],
       "specs": {
         "material": "Plastic",
@@ -3718,8 +3760,8 @@
       "sku": "470100",
       "name": "Pompa Mini SXT P100 Negru",
       "brand": "SXT",
-      "category": "Mini Pompe",
-      "category_path": "ACCESORII > Pompe Ciclism > Mini Pompe",
+      "category": "➤ Mini Pompe",
+      "category_path": "ACCESORII > Pompe Ciclism > ➤ Mini Pompe",
       "price": 25.0,
       "price_net": 20.66,
       "currency": "RON",
@@ -3733,8 +3775,8 @@
       ],
       "tags": [
         "ACCESORII",
-        "Mini Pompe",
-        "SXT"
+        "SXT",
+        "➤ Mini Pompe"
       ],
       "specs": {
         "color": "Negru"
@@ -3746,8 +3788,8 @@
       "ean": "2802557000001",
       "name": "Ghidon Aluminiu MTB SXT 31.8 -800 mm Verde Apple",
       "brand": "SXT",
-      "category": "Ghidoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Ghidoane",
+      "category": "➤ Ghidoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "price": 155.0,
       "price_net": 128.1,
       "currency": "RON",
@@ -3762,13 +3804,12 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ghidon-aluminiu-mtb-sxt-31-8-800-mm-verde-apple~11326335.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ghidon-aluminiu-mtb-sxt-31-8-800-mm-verde-apple~11326338.jpg"
       ],
-      "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "Aluminiu",
         "COMPONENTE",
-        "Ghidoane",
         "MTB",
-        "SXT"
+        "SXT",
+        "➤ Ghidoane"
       ],
       "specs": {
         "bike_type": [
@@ -3783,8 +3824,8 @@
       "sku": "371725",
       "name": "Saboti Frana SXT 3 Culori 70 mm Negru/Grey/Rosu",
       "brand": "SXT",
-      "category": "Saboti Frana",
-      "category_path": "COMPONENTE > Sisteme Franare > Saboti Frana",
+      "category": "➤ Saboti Frana",
+      "category_path": "COMPONENTE > Sisteme Franare > ➤ Saboti Frana",
       "price": 19.0,
       "price_net": 15.7,
       "currency": "RON",
@@ -3801,7 +3842,7 @@
       "tags": [
         "COMPONENTE",
         "SXT",
-        "Saboti Frana"
+        "➤ Saboti Frana"
       ],
       "specs": {
         "color": "Negru"
@@ -3812,8 +3853,8 @@
       "sku": "410852",
       "name": "Set Capete Manson SXT Barend Roz(2 buc)",
       "brand": "SXT",
-      "category": "Ghidoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Ghidoane",
+      "category": "➤ Ghidoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
@@ -3824,11 +3865,10 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/set-capete-manson-sxt-barend-roz-2-buc~11326518.jpg"
       ],
-      "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
-        "Ghidoane",
-        "SXT"
+        "SXT",
+        "➤ Ghidoane"
       ],
       "specs": {
         "color": "Roz"
@@ -3839,8 +3879,8 @@
       "sku": "410850",
       "name": "Set Capete Manson SXT Barend Negru(2 buc)",
       "brand": "SXT",
-      "category": "Ghidoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Ghidoane",
+      "category": "➤ Ghidoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
@@ -3851,11 +3891,10 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/set-capete-manson-sxt-barend-negru-2-buc~11326533.jpg"
       ],
-      "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
-        "Ghidoane",
-        "SXT"
+        "SXT",
+        "➤ Ghidoane"
       ],
       "specs": {
         "color": "Negru"
@@ -3866,8 +3905,8 @@
       "sku": "410851",
       "name": "Set Capete Manson SXT Barend Verde Apple (2 buc)",
       "brand": "SXT",
-      "category": "Ghidoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Ghidoane",
+      "category": "➤ Ghidoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
@@ -3878,11 +3917,10 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/set-capete-manson-sxt-barend-verde-apple-2-buc~11326539.jpg"
       ],
-      "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
-        "Ghidoane",
-        "SXT"
+        "SXT",
+        "➤ Ghidoane"
       ],
       "specs": {
         "color": "Verde"
@@ -3893,8 +3931,8 @@
       "sku": "410990",
       "name": "Mansoane BMX SXT DS 126 150 mm Purple",
       "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Mansoane",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "price": 39.0,
       "price_net": 32.23,
       "currency": "RON",
@@ -3907,12 +3945,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-bmx-sxt-ds-126-150-mm-purple~11326599.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-bmx-sxt-ds-126-150-mm-purple~11326623.jpg"
       ],
-      "category_description": "Handlebar grips",
       "tags": [
         "BMX",
         "COMPONENTE",
-        "Mansoane",
-        "SXT"
+        "SXT",
+        "➤ Mansoane"
       ],
       "specs": {
         "bike_type": [
@@ -3926,8 +3963,8 @@
       "sku": "410991",
       "name": "Mansoane BMX SXT DS126 150 mm",
       "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Mansoane",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "price": 39.0,
       "price_net": 32.23,
       "currency": "RON",
@@ -3940,12 +3977,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-bmx-sxt-ds126-150-mm~11326719.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-bmx-sxt-ds126-150-mm~11326710.jpg"
       ],
-      "category_description": "Handlebar grips",
       "tags": [
         "BMX",
         "COMPONENTE",
-        "Mansoane",
-        "SXT"
+        "SXT",
+        "➤ Mansoane"
       ],
       "specs": {
         "bike_type": [
@@ -3958,8 +3994,8 @@
       "sku": "410992",
       "name": "Mansoane BMX SXT DS52D Verde",
       "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Mansoane",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "price": 39.0,
       "price_net": 32.23,
       "currency": "RON",
@@ -3972,12 +4008,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/mansoane-bmx-sxt-ds52d-verde~11330634.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/mansoane-bmx-sxt-ds52d-verde~11330637.jpg"
       ],
-      "category_description": "Handlebar grips",
       "tags": [
         "BMX",
         "COMPONENTE",
-        "Mansoane",
-        "SXT"
+        "SXT",
+        "➤ Mansoane"
       ],
       "specs": {
         "bike_type": [
@@ -3991,8 +4026,8 @@
       "sku": "410993",
       "name": "Mansoane BMX SXT DS52D Negru",
       "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Mansoane",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "price": 39.0,
       "price_net": 32.23,
       "currency": "RON",
@@ -4005,12 +4040,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/mansoane-bmx-sxt-ds52d-negru~11330688.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/mansoane-bmx-sxt-ds52d-negru~11330691.jpg"
       ],
-      "category_description": "Handlebar grips",
       "tags": [
         "BMX",
         "COMPONENTE",
-        "Mansoane",
-        "SXT"
+        "SXT",
+        "➤ Mansoane"
       ],
       "specs": {
         "bike_type": [
@@ -4024,8 +4058,8 @@
       "sku": "410129",
       "name": "Mansoane MTB SS45-Lock-On Negru-Rosu",
       "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Mansoane",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "price": 45.0,
       "price_net": 37.19,
       "currency": "RON",
@@ -4038,12 +4072,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-mtb-ss45-lock-on-negru-rosu~11363133.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-mtb-ss45-lock-on-negru-rosu~11363136.jpg"
       ],
-      "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
         "MTB",
-        "Mansoane",
-        "SXT"
+        "SXT",
+        "➤ Mansoane"
       ],
       "specs": {
         "bike_type": [
@@ -4057,8 +4090,8 @@
       "sku": "411001",
       "name": "Mansoane Junior SXT B007 Purple",
       "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Mansoane",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "price": 25.0,
       "price_net": 20.66,
       "currency": "RON",
@@ -4069,12 +4102,11 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/mansoane-junior-sxt-b007-purple~11363151.jpg"
       ],
-      "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
         "Copii",
-        "Mansoane",
-        "SXT"
+        "SXT",
+        "➤ Mansoane"
       ],
       "specs": {
         "bike_type": [
@@ -4088,8 +4120,8 @@
       "sku": "411002",
       "name": "Mansoane Junior SXT B007 Verde",
       "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Mansoane",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "price": 25.0,
       "price_net": 20.66,
       "currency": "RON",
@@ -4100,12 +4132,11 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/mansoane-junior-sxt-b007-verde~11363157.jpg"
       ],
-      "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
         "Copii",
-        "Mansoane",
-        "SXT"
+        "SXT",
+        "➤ Mansoane"
       ],
       "specs": {
         "bike_type": [
@@ -4119,8 +4150,8 @@
       "sku": "411003",
       "name": "Mansoane Junior SXT B007 Rosu",
       "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Mansoane",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "price": 25.0,
       "price_net": 20.66,
       "currency": "RON",
@@ -4132,12 +4163,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-junior-sxt-b007-rosu~11363160.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-junior-sxt-b007-rosu~11363163.jpg"
       ],
-      "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
         "Copii",
-        "Mansoane",
-        "SXT"
+        "SXT",
+        "➤ Mansoane"
       ],
       "specs": {
         "bike_type": [
@@ -4151,8 +4181,8 @@
       "sku": "411004",
       "name": "Mansoane Junior SXT B007 Negru",
       "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Mansoane",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "price": 25.0,
       "price_net": 20.66,
       "currency": "RON",
@@ -4164,12 +4194,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-junior-sxt-b007-negru~11363166.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-junior-sxt-b007-negru~11363169.jpg"
       ],
-      "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
         "Copii",
-        "Mansoane",
-        "SXT"
+        "SXT",
+        "➤ Mansoane"
       ],
       "specs": {
         "bike_type": [
@@ -4184,8 +4213,8 @@
       "ean": "2802182000001",
       "name": "Butuc Spate NOVATEC D462SB-SL-CL-B12-S3S-MS, 12x148 mm 32H Negru Centerlock",
       "brand": "NOVATEC",
-      "category": "Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci Frana Disc",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 549.99,
       "price_net": 454.54,
       "currency": "RON",
@@ -4201,9 +4230,9 @@
       "tags": [
         "12 inch",
         "3 viteze",
-        "Butuci Frana Disc",
         "COMPONENTE",
-        "NOVATEC"
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
       ],
       "specs": {
         "wheel_size": "12",
@@ -4244,8 +4273,8 @@
       "sku": "111111",
       "name": "Set Roti SXT 700(622x18C) - RR511-N",
       "brand": "SXT",
-      "category": "Seturi Roti",
-      "category_path": "COMPONENTE > Roti - Componente > Roti > Seturi Roti",
+      "category": "➤ Seturi Roti",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
       "price": 2200.0,
       "price_net": 1818.18,
       "currency": "RON",
@@ -4263,7 +4292,7 @@
       "tags": [
         "COMPONENTE",
         "SXT",
-        "Seturi Roti"
+        "➤ Seturi Roti"
       ],
       "specs": {
         "dimensions": "622 x 18"
@@ -4275,8 +4304,8 @@
       "ean": "887539050627",
       "name": "Set Valve M-WAVE XPRS",
       "brand": "M-WAVE",
-      "category": "Accesorii Camere Biciclete",
-      "category_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta > Accesorii Camere Biciclete",
+      "category": "◼  Accesorii Camere Biciclete",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "price": 6.0,
       "price_net": 4.96,
       "currency": "RON",
@@ -4290,10 +4319,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/set-valve-m-wave-xprs~11517117.jpg"
       ],
       "tags": [
-        "Accesorii Camere Biciclete",
         "COMPONENTE",
         "M-WAVE",
-        "Schrader"
+        "Schrader",
+        "◼  Accesorii Camere Biciclete"
       ],
       "specs": {
         "valve_type": "Schrader (AV)"
@@ -4305,8 +4334,8 @@
       "ean": "047853630657",
       "name": "Anvelopa KENDA KADRE 26 x 2.10 ( 54-559) K-1027",
       "brand": "KENDA",
-      "category": "Anvelope pe Sârmă",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "price": 80.0,
       "price_net": 66.11,
       "currency": "RON",
@@ -4320,9 +4349,9 @@
       ],
       "tags": [
         "26 inch",
-        "Anvelope pe Sârmă",
         "COMPONENTE",
-        "KENDA"
+        "KENDA",
+        "➤ Anvelope pe Sârmă"
       ],
       "specs": {
         "wheel_size": "26",
@@ -4335,8 +4364,8 @@
       "ean": "4710898412033",
       "name": "Trusa SUPER B TB-DB11",
       "brand": "SUPER B",
-      "category": "Truse Unelte - Mini Truse",
-      "category_path": "COMPONENTE > Unelte Service > Truse Unelte - Mini Truse",
+      "category": "➤ Truse Unelte - Mini Truse",
+      "category_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
       "price": 2420.0,
       "price_net": 2000.0,
       "currency": "RON",
@@ -4353,7 +4382,7 @@
       "tags": [
         "COMPONENTE",
         "SUPER B",
-        "Truse Unelte - Mini Truse"
+        "➤ Truse Unelte - Mini Truse"
       ]
     },
     {
@@ -4386,8 +4415,8 @@
       "ean": "4710898411456",
       "name": "Unealta Reglaj SUPER B TB-1946B",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "COMPONENTE > Unelte Service > Unelte Speciale Biciclete",
+      "category": "➤ Unelte Speciale Biciclete",
+      "category_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "price": 59.0,
       "price_net": 48.76,
       "currency": "RON",
@@ -4403,7 +4432,7 @@
       "tags": [
         "COMPONENTE",
         "SUPER B",
-        "Unelte Speciale Biciclete"
+        "➤ Unelte Speciale Biciclete"
       ]
     },
     {
@@ -4412,8 +4441,8 @@
       "ean": "4710898411593",
       "name": "Unealta SUPER B TB-CR31 E-Bike",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "COMPONENTE > Unelte Service > Unelte Speciale Biciclete",
+      "category": "➤ Unelte Speciale Biciclete",
+      "category_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "price": 80.0,
       "price_net": 66.11,
       "currency": "RON",
@@ -4431,7 +4460,7 @@
         "COMPONENTE",
         "E-Bike",
         "SUPER B",
-        "Unelte Speciale Biciclete"
+        "➤ Unelte Speciale Biciclete"
       ],
       "specs": {
         "bike_type": [
@@ -4445,8 +4474,8 @@
       "ean": "4710898412477",
       "name": "Cheie Pinion SUPER B TB-FW41",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "COMPONENTE > Unelte Service > Unelte Speciale Biciclete",
+      "category": "➤ Unelte Speciale Biciclete",
+      "category_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "price": 109.0,
       "price_net": 90.08,
       "currency": "RON",
@@ -4462,7 +4491,7 @@
       "tags": [
         "COMPONENTE",
         "SUPER B",
-        "Unelte Speciale Biciclete"
+        "➤ Unelte Speciale Biciclete"
       ]
     },
     {
@@ -4470,8 +4499,8 @@
       "sku": "519192-05384",
       "name": "Protectie Antipana TANNUS ARMOUR - 26x1.95-2.50",
       "brand": "TANNUS",
-      "category": "Protectii Antipana",
-      "category_path": "COMPONENTE > Anvelope - Camere > Protectii Antipana",
+      "category": "➤ Protectii Antipana",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
       "price": 234.99,
       "price_net": 194.21,
       "currency": "RON",
@@ -4488,8 +4517,8 @@
       "tags": [
         "26 inch",
         "COMPONENTE",
-        "Protectii Antipana",
-        "TANNUS"
+        "TANNUS",
+        "➤ Protectii Antipana"
       ],
       "specs": {
         "wheel_size": "26",
@@ -4501,8 +4530,8 @@
       "sku": "519195-06145",
       "name": "Protectie Antipana TANNUS ARMOUR 26 x 2.60-3.00",
       "brand": "TANNUS",
-      "category": "Protectii Antipana",
-      "category_path": "COMPONENTE > Anvelope - Camere > Protectii Antipana",
+      "category": "➤ Protectii Antipana",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
       "price": 293.99,
       "price_net": 242.97,
       "currency": "RON",
@@ -4519,8 +4548,8 @@
       "tags": [
         "26 inch",
         "COMPONENTE",
-        "Protectii Antipana",
-        "TANNUS"
+        "TANNUS",
+        "➤ Protectii Antipana"
       ],
       "specs": {
         "wheel_size": "26",
@@ -4532,10 +4561,10 @@
       "sku": "519102-05940",
       "name": "Solutie Antipana Tubeless TANNUS 250ml - ROAD",
       "brand": "TANNUS",
-      "category": "Bike Care - Ingrijire",
-      "category_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
+      "category": "➤ Bike Care - Ingrijire",
+      "category_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Care - Ingrijire",
       "secondary_categories": [
-        "COMPONENTE > Anvelope - Camere > Protectii Antipana"
+        "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana"
       ],
       "price": 70.0,
       "price_net": 57.85,
@@ -4551,10 +4580,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/solutie-antipana-tubeless-tannus-250ml-road~12065544.jpg"
       ],
       "tags": [
-        "Bike Care - Ingrijire",
         "COMPONENTE",
         "Road",
-        "TANNUS"
+        "TANNUS",
+        "➤ Bike Care - Ingrijire"
       ],
       "specs": {
         "bike_type": [
@@ -4567,10 +4596,10 @@
       "sku": "519103 - 05957",
       "name": "Solutie Antipana Tubeless TANNUS 250ml - MTB",
       "brand": "TANNUS",
-      "category": "Bike Maintenance - Intretinere",
-      "category_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
+      "category": "➤Bike Maintenance - Intretinere",
+      "category_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
       "secondary_categories": [
-        "COMPONENTE > Anvelope - Camere > Protectii Antipana"
+        "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana"
       ],
       "price": 70.0,
       "price_net": 57.85,
@@ -4586,10 +4615,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/solutie-antipana-tubeless-tannus-250ml-mtb~12065580.jpg"
       ],
       "tags": [
-        "Bike Maintenance - Intretinere",
         "COMPONENTE",
         "MTB",
-        "TANNUS"
+        "TANNUS",
+        "➤Bike Maintenance - Intretinere"
       ],
       "specs": {
         "bike_type": [
@@ -4602,10 +4631,10 @@
       "sku": "519104-01256",
       "name": "Anvelopa TANNUS Airless 26 X 1.3/8 Wheelchair",
       "brand": "TANNUS",
-      "category": "Protectii Antipana",
-      "category_path": "COMPONENTE > Anvelope - Camere > Protectii Antipana",
+      "category": "➤ Protectii Antipana",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
       "secondary_categories": [
-        "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă"
+        "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă"
       ],
       "price": 350.0,
       "price_net": 289.26,
@@ -4623,8 +4652,8 @@
       "tags": [
         "26 inch",
         "COMPONENTE",
-        "Protectii Antipana",
-        "TANNUS"
+        "TANNUS",
+        "➤ Protectii Antipana"
       ],
       "specs": {
         "wheel_size": "26"
@@ -4635,10 +4664,10 @@
       "sku": "519106-052085",
       "name": "Anvelopa TANNUS Airless 24 X 1.3/8 Wheelchair",
       "brand": "TANNUS",
-      "category": "Protectii Antipana",
-      "category_path": "COMPONENTE > Anvelope - Camere > Protectii Antipana",
+      "category": "➤ Protectii Antipana",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
       "secondary_categories": [
-        "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă"
+        "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă"
       ],
       "price": 350.0,
       "price_net": 289.26,
@@ -4656,8 +4685,8 @@
       "tags": [
         "24 inch",
         "COMPONENTE",
-        "Protectii Antipana",
-        "TANNUS"
+        "TANNUS",
+        "➤ Protectii Antipana"
       ],
       "specs": {
         "wheel_size": "24"
@@ -4669,8 +4698,8 @@
       "ean": "887539006747",
       "name": "Cuveti Integrati TANGE 1-1/8 Negru",
       "brand": "TANGE",
-      "category": "Cuveti(HeadSet)",
-      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > Cuveti(HeadSet)",
+      "category": "➤ Cuveti(HeadSet)",
+      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "price": 125.0,
       "price_net": 103.31,
       "currency": "RON",
@@ -4686,8 +4715,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Cuveti(HeadSet)",
-        "TANGE"
+        "TANGE",
+        "➤ Cuveti(HeadSet)"
       ],
       "specs": {
         "color": "Negru"
@@ -4699,8 +4728,8 @@
       "ean": "887539046873",
       "name": "Pompa Furca BETO 400 PSI-28 BAR",
       "brand": "BETO",
-      "category": "Pompe Furca - Tubeless",
-      "category_path": "ACCESORII > Pompe Ciclism > Pompe Furca - Tubeless",
+      "category": "➤ Pompe Furca - Tubeless",
+      "category_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Furca - Tubeless",
       "price": 132.0,
       "price_net": 109.09,
       "currency": "RON",
@@ -4717,7 +4746,7 @@
       "tags": [
         "ACCESORII",
         "BETO",
-        "Pompe Furca - Tubeless"
+        "➤ Pompe Furca - Tubeless"
       ]
     },
     {
@@ -4726,8 +4755,8 @@
       "ean": "887539052461",
       "name": "Adaptor Frana Disc SXT ADA DB IS2000 PM 140-160 mm",
       "brand": "SXT",
-      "category": "Adaptoare Frana",
-      "category_path": "COMPONENTE > Sisteme Franare > Adaptoare Frana",
+      "category": "➤ Adaptoare Frana",
+      "category_path": "COMPONENTE > Sisteme Franare > ➤ Adaptoare Frana",
       "price": 32.0,
       "price_net": 26.45,
       "currency": "RON",
@@ -4741,9 +4770,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/adaptor-frana-disc-sxt-ada-db-is2000-pm-140-160-mm~12070872.jpg"
       ],
       "tags": [
-        "Adaptoare Frana",
         "COMPONENTE",
-        "SXT"
+        "SXT",
+        "➤ Adaptoare Frana"
       ]
     },
     {
@@ -4752,8 +4781,8 @@
       "ean": "887539007690",
       "name": "Colier Tija Sa ZOOM 34,9 mm Negru",
       "brand": "ZOOM",
-      "category": "Coliere Tija Sa",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Coliere Tija Sa",
+      "category": "➤ Coliere Tija Sa",
+      "category_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "price": 18.0,
       "price_net": 14.88,
       "currency": "RON",
@@ -4768,8 +4797,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Coliere Tija Sa",
-        "ZOOM"
+        "ZOOM",
+        "➤ Coliere Tija Sa"
       ],
       "specs": {
         "color": "Negru"
@@ -4781,8 +4810,8 @@
       "ean": "887539052478",
       "name": "Adaptor Frana Disc SXT ADA DB IS2000 PM 140-160 mm",
       "brand": "SXT",
-      "category": "Adaptoare Frana",
-      "category_path": "COMPONENTE > Sisteme Franare > Adaptoare Frana",
+      "category": "➤ Adaptoare Frana",
+      "category_path": "COMPONENTE > Sisteme Franare > ➤ Adaptoare Frana",
       "price": 32.0,
       "price_net": 26.45,
       "currency": "RON",
@@ -4796,9 +4825,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/adaptor-frana-disc-sxt-ada-db-is2000-pm-140-160-mm~12070980.jpg"
       ],
       "tags": [
-        "Adaptoare Frana",
         "COMPONENTE",
-        "SXT"
+        "SXT",
+        "➤ Adaptoare Frana"
       ]
     },
     {
@@ -4807,8 +4836,8 @@
       "ean": "887539052485",
       "name": "Adaptor Frana Disc SXT ADA DB IS2000 PM 180 mm",
       "brand": "SXT",
-      "category": "Adaptoare Frana",
-      "category_path": "COMPONENTE > Sisteme Franare > Adaptoare Frana",
+      "category": "➤ Adaptoare Frana",
+      "category_path": "COMPONENTE > Sisteme Franare > ➤ Adaptoare Frana",
       "price": 32.0,
       "price_net": 26.45,
       "currency": "RON",
@@ -4822,9 +4851,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/adaptor-frana-disc-sxt-ada-db-is2000-pm-180-mm~12071034.jpg"
       ],
       "tags": [
-        "Adaptoare Frana",
         "COMPONENTE",
-        "SXT"
+        "SXT",
+        "➤ Adaptoare Frana"
       ]
     },
     {
@@ -4833,8 +4862,8 @@
       "ean": "887539052492",
       "name": "Adaptor Frana Disc SXT ADA DB IS2000 PM 203 mm",
       "brand": "SXT",
-      "category": "Adaptoare Frana",
-      "category_path": "COMPONENTE > Sisteme Franare > Adaptoare Frana",
+      "category": "➤ Adaptoare Frana",
+      "category_path": "COMPONENTE > Sisteme Franare > ➤ Adaptoare Frana",
       "price": 32.0,
       "price_net": 26.45,
       "currency": "RON",
@@ -4848,9 +4877,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/adaptor-frana-disc-sxt-ada-db-is2000-pm-203-mm~12071130.jpg"
       ],
       "tags": [
-        "Adaptoare Frana",
         "COMPONENTE",
-        "SXT"
+        "SXT",
+        "➤ Adaptoare Frana"
       ]
     },
     {
@@ -4859,8 +4888,8 @@
       "ean": "887539052508",
       "name": "Adaptor Frana Disc SXT ADA DB PM 140-160 mm",
       "brand": "SXT",
-      "category": "Adaptoare Frana",
-      "category_path": "COMPONENTE > Sisteme Franare > Adaptoare Frana",
+      "category": "➤ Adaptoare Frana",
+      "category_path": "COMPONENTE > Sisteme Franare > ➤ Adaptoare Frana",
       "price": 32.0,
       "price_net": 26.45,
       "currency": "RON",
@@ -4874,9 +4903,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/adaptor-frana-disc-sxt-ada-db-pm-140-160-mm~12071166.jpg"
       ],
       "tags": [
-        "Adaptoare Frana",
         "COMPONENTE",
-        "SXT"
+        "SXT",
+        "➤ Adaptoare Frana"
       ]
     },
     {
@@ -4885,8 +4914,8 @@
       "ean": "887539052515",
       "name": "Adaptor Frana Disc SXT ADA DB PM 160-180 mm",
       "brand": "SXT",
-      "category": "Adaptoare Frana",
-      "category_path": "COMPONENTE > Sisteme Franare > Adaptoare Frana",
+      "category": "➤ Adaptoare Frana",
+      "category_path": "COMPONENTE > Sisteme Franare > ➤ Adaptoare Frana",
       "price": 32.0,
       "price_net": 26.45,
       "currency": "RON",
@@ -4901,9 +4930,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/adaptor-frana-disc-sxt-ada-db-pm-160-180-mm~12071385.jpg"
       ],
       "tags": [
-        "Adaptoare Frana",
         "COMPONENTE",
-        "SXT"
+        "SXT",
+        "➤ Adaptoare Frana"
       ]
     },
     {
@@ -4912,8 +4941,8 @@
       "ean": "887539052522",
       "name": "Adaptor Frana Disc SXT ADA DB PM 160-203 mm",
       "brand": "SXT",
-      "category": "Adaptoare Frana",
-      "category_path": "COMPONENTE > Sisteme Franare > Adaptoare Frana",
+      "category": "➤ Adaptoare Frana",
+      "category_path": "COMPONENTE > Sisteme Franare > ➤ Adaptoare Frana",
       "price": 32.0,
       "price_net": 26.45,
       "currency": "RON",
@@ -4927,9 +4956,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/adaptor-frana-disc-sxt-ada-db-pm-160-203-mm~12071394.jpg"
       ],
       "tags": [
-        "Adaptoare Frana",
         "COMPONENTE",
-        "SXT"
+        "SXT",
+        "➤ Adaptoare Frana"
       ]
     },
     {
@@ -4938,8 +4967,8 @@
       "ean": "887539052539",
       "name": "Adaptor Frana Disc SXT ADA DB PM 180-203 mm",
       "brand": "SXT",
-      "category": "Adaptoare Frana",
-      "category_path": "COMPONENTE > Sisteme Franare > Adaptoare Frana",
+      "category": "➤ Adaptoare Frana",
+      "category_path": "COMPONENTE > Sisteme Franare > ➤ Adaptoare Frana",
       "price": 32.0,
       "price_net": 26.45,
       "currency": "RON",
@@ -4953,9 +4982,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/adaptor-frana-disc-sxt-ada-db-pm-180-203-mm~12071412.jpg"
       ],
       "tags": [
-        "Adaptoare Frana",
         "COMPONENTE",
-        "SXT"
+        "SXT",
+        "➤ Adaptoare Frana"
       ]
     },
     {
@@ -4964,13 +4993,13 @@
       "ean": "887539032876",
       "name": "Ghidon M-WAVE HB-C2.1 640 City / Trekking",
       "brand": "M-WAVE",
-      "category": "Ghidoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Ghidoane",
+      "category": "➤ Ghidoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "price": 91.0,
       "price_net": 75.21,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 7,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/ghidon-m-wave-hb-c2-1-640-city-trekking.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ghidon-m-wave-hb-c2-1-640-city-trekking~12071430.jpg",
@@ -4978,12 +5007,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/ghidon-m-wave-hb-c2-1-640-city-trekking~12071430.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/ghidon-m-wave-hb-c2-1-640-city-trekking~12071433.jpg"
       ],
-      "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "COMPONENTE",
         "City/Trekking",
-        "Ghidoane",
-        "M-WAVE"
+        "M-WAVE",
+        "➤ Ghidoane"
       ],
       "specs": {
         "bike_type": [
@@ -4997,8 +5025,8 @@
       "ean": "887539027384",
       "name": "Stop Spate M-WAVE HELIOS K 1.1 USB SL",
       "brand": "M-WAVE",
-      "category": "Lumini Spate",
-      "category_path": "ACCESORII > Lumini - Accesorii > Lumini Spate",
+      "category": "➤ Lumini Spate",
+      "category_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
       "price": 45.0,
       "price_net": 37.19,
       "currency": "RON",
@@ -5014,8 +5042,8 @@
       ],
       "tags": [
         "ACCESORII",
-        "Lumini Spate",
-        "M-WAVE"
+        "M-WAVE",
+        "➤ Lumini Spate"
       ]
     },
     {
@@ -5024,8 +5052,8 @@
       "ean": "887539025885",
       "name": "Set Reflectorizante SXT F+R+S",
       "brand": "SXT",
-      "category": "Reflectorizante",
-      "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > Reflectorizante",
+      "category": "➤ Reflectorizante",
+      "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "price": 28.0,
       "price_net": 23.14,
       "currency": "RON",
@@ -5042,8 +5070,8 @@
       ],
       "tags": [
         "ACCESORII",
-        "Reflectorizante",
-        "SXT"
+        "SXT",
+        "➤ Reflectorizante"
       ]
     },
     {
@@ -5052,8 +5080,8 @@
       "ean": "887539031909",
       "name": "Stop Spate M-WAVE HELIOS USB Portbagaj",
       "brand": "M-WAVE",
-      "category": "Lumini Spate",
-      "category_path": "ACCESORII > Lumini - Accesorii > Lumini Spate",
+      "category": "➤ Lumini Spate",
+      "category_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -5071,8 +5099,8 @@
       ],
       "tags": [
         "ACCESORII",
-        "Lumini Spate",
-        "M-WAVE"
+        "M-WAVE",
+        "➤ Lumini Spate"
       ]
     },
     {
@@ -5081,8 +5109,8 @@
       "ean": "887539052164",
       "name": "Cos Spate M-WAVE TTRANSPORTER ONE-SNAP Negru",
       "brand": "M-WAVE",
-      "category": "Cosuri Transport Spate",
-      "category_path": "ACCESORII > Cosuri Transport > Cosuri Transport Spate",
+      "category": "➤ Cosuri Transport Spate",
+      "category_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Spate",
       "price": 250.0,
       "price_net": 206.61,
       "currency": "RON",
@@ -5097,8 +5125,8 @@
       ],
       "tags": [
         "ACCESORII",
-        "Cosuri Transport Spate",
-        "M-WAVE"
+        "M-WAVE",
+        "➤ Cosuri Transport Spate"
       ],
       "specs": {
         "color": "Negru"
@@ -5109,8 +5137,8 @@
       "sku": "231452",
       "name": "Lant M-WAVE C 5,5.10 - 1000 mm",
       "brand": "M-WAVE",
-      "category": "Antifurturi Lant",
-      "category_path": "ACCESORII > Antifurturi - Alarme > Antifurturi Lant",
+      "category": "➤ Antifurturi Lant",
+      "category_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi Lant",
       "price": 140.0,
       "price_net": 115.7,
       "currency": "RON",
@@ -5125,8 +5153,8 @@
       ],
       "tags": [
         "ACCESORII",
-        "Antifurturi Lant",
-        "M-WAVE"
+        "M-WAVE",
+        "➤ Antifurturi Lant"
       ]
     },
     {
@@ -5134,8 +5162,8 @@
       "sku": "231453",
       "name": "Lant M-WAVE C 5,5.14 - 1400 mm",
       "brand": "M-WAVE",
-      "category": "Antifurturi Lant",
-      "category_path": "ACCESORII > Antifurturi - Alarme > Antifurturi Lant",
+      "category": "➤ Antifurturi Lant",
+      "category_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi Lant",
       "price": 154.99,
       "price_net": 128.09,
       "currency": "RON",
@@ -5150,8 +5178,8 @@
       ],
       "tags": [
         "ACCESORII",
-        "Antifurturi Lant",
-        "M-WAVE"
+        "M-WAVE",
+        "➤ Antifurturi Lant"
       ]
     },
     {
@@ -5160,8 +5188,8 @@
       "ean": "887539033323",
       "name": "Rola Lant M-WAVE 1-5-6-7 15 m",
       "brand": "M-WAVE",
-      "category": "Lanturi",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > Lanturi - Componente > Lanturi",
+      "category": "➤ Lanturi",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "price": 999.0,
       "price_net": 825.62,
       "currency": "RON",
@@ -5174,11 +5202,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/rola-lant-m-wave-1-5-6-7-15-m~12071673.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/rola-lant-m-wave-1-5-6-7-15-m~12071676.jpg"
       ],
-      "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
         "COMPONENTE",
-        "Lanturi",
-        "M-WAVE"
+        "M-WAVE",
+        "➤ Lanturi"
       ]
     },
     {
@@ -5186,8 +5213,8 @@
       "sku": "381800",
       "name": "Janta SXT E35 27.5(584 x 35C) 32H Negru Asymmetric",
       "brand": "SXT",
-      "category": "Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > Jante > Jante pentru Frane Disc",
+      "category": "➤ Jante pentru Frane Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "price": 215.0,
       "price_net": 177.69,
       "currency": "RON",
@@ -5202,8 +5229,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Jante pentru Frane Disc",
-        "SXT"
+        "SXT",
+        "➤ Jante pentru Frane Disc"
       ],
       "specs": {
         "color": "Negru",
@@ -5215,8 +5242,8 @@
       "sku": "3207052",
       "name": "QR Fata OLD 100 mm SXT Albastru",
       "brand": "SXT",
-      "category": "Axe - Accesorii Butuci",
-      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Axe - Accesorii Butuci",
+      "category": "➤ Axe - Accesorii Butuci",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
@@ -5229,9 +5256,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/qr-fata-old-100-mm-sxt-albastru~12071772.jpg"
       ],
       "tags": [
-        "Axe - Accesorii Butuci",
         "COMPONENTE",
-        "SXT"
+        "SXT",
+        "➤ Axe - Accesorii Butuci"
       ],
       "specs": {
         "color": "Alb"
@@ -5242,8 +5269,8 @@
       "sku": "320156",
       "name": "Butuc Fata NOVATEC D041SB-B15-CL 15 X 110 mm 32 H Negru E-Bike",
       "brand": "NOVATEC",
-      "category": "Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci Frana Disc",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 160.0,
       "price_net": 132.23,
       "currency": "RON",
@@ -5256,10 +5283,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-fata-novatec-d041sb-b15-cl-15-x-110-mm-32-h-negru-e-bike~12071826.jpg"
       ],
       "tags": [
-        "Butuci Frana Disc",
         "COMPONENTE",
         "E-Bike",
-        "NOVATEC"
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
       ],
       "specs": {
         "bike_type": [
@@ -5273,8 +5300,8 @@
       "sku": "350781",
       "name": "Angrenaj Pedalier SXT 46T Metal Silver Rotund",
       "brand": "SXT",
-      "category": "Pedaliere - Angrenaje",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Pedaliere - Angrenaje",
+      "category": "➤ Pedaliere - Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
       "price": 70.0,
       "price_net": 57.85,
       "currency": "RON",
@@ -5288,8 +5315,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Pedaliere - Angrenaje",
-        "SXT"
+        "SXT",
+        "➤ Pedaliere - Angrenaje"
       ],
       "specs": {
         "color": "Silver"
@@ -5301,10 +5328,10 @@
       "ean": "887539045081",
       "name": "Direct Mounts SAMOX PD-DM-Gen4 50 34T",
       "brand": "SAMOX",
-      "category": "Foi Angrenaje",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Foi Angrenaje",
+      "category": "➤ Foi Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "secondary_categories": [
-        "e- MOBILITY > Angrenaje E-Bike"
+        "e- MOBILITY > ➤ Angrenaje E-Bike"
       ],
       "price": 110.0,
       "price_net": 90.91,
@@ -5320,8 +5347,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Foi Angrenaje",
-        "SAMOX"
+        "SAMOX",
+        "➤ Foi Angrenaje"
       ]
     },
     {
@@ -5330,8 +5357,8 @@
       "ean": "887539038090",
       "name": "Portbagaj Spate M-WAVE TRAVELLER HIGH 24-29 Negru",
       "brand": "M-WAVE",
-      "category": "Portbagaje Spate",
-      "category_path": "ACCESORII > Portbagaje > Portbagaje Spate",
+      "category": "➤ Portbagaje Spate",
+      "category_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "price": 180.0,
       "price_net": 148.76,
       "currency": "RON",
@@ -5346,7 +5373,7 @@
       "tags": [
         "ACCESORII",
         "M-WAVE",
-        "Portbagaje Spate"
+        "➤ Portbagaje Spate"
       ],
       "specs": {
         "color": "Negru"
@@ -5358,13 +5385,13 @@
       "ean": "4710898411333",
       "name": "Set Leviere Metal SUPER B TB-TL21",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "COMPONENTE > Unelte Service > Unelte Speciale Biciclete",
+      "category": "➤ Unelte Speciale Biciclete",
+      "category_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 10,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/set-leviere-metal-super-b-tb-tl21.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-leviere-metal-super-b-tb-tl21~12073464.jpg",
@@ -5375,7 +5402,7 @@
       "tags": [
         "COMPONENTE",
         "SUPER B",
-        "Unelte Speciale Biciclete"
+        "➤ Unelte Speciale Biciclete"
       ]
     },
     {
@@ -5384,11 +5411,11 @@
       "ean": "887539051990",
       "name": "Trusa Mini Scule M-WAVE InGrip",
       "brand": "M-WAVE",
-      "category": "Truse Unelte - Mini Truse",
-      "category_path": "COMPONENTE > Unelte Service > Truse Unelte - Mini Truse",
+      "category": "➤ Truse Unelte - Mini Truse",
+      "category_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
       "secondary_categories": [
-        "COMPONENTE > Ghidoane - Mansoane - Pipe > Ghidoane",
-        "COMPONENTE > Ghidoane - Mansoane - Pipe > Mansoane"
+        "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
+        "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane"
       ],
       "price": 199.0,
       "price_net": 164.46,
@@ -5408,7 +5435,7 @@
       "tags": [
         "COMPONENTE",
         "M-WAVE",
-        "Truse Unelte - Mini Truse"
+        "➤ Truse Unelte - Mini Truse"
       ],
       "specs": {
         "color": "Gri"
@@ -5420,13 +5447,13 @@
       "ean": "4015493610014",
       "name": "Ghidolina VELO Gel-Kork Negru",
       "brand": "VELO",
-      "category": "Bar Tape - Accesorii",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Bar Tape - Accesorii",
+      "category": "➤ Bar Tape - Accesorii",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "price": 78.0,
       "price_net": 64.46,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 27,
+      "stock_quantity": 26,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/ghidolina-velo-gel-kork-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ghidolina-velo-gel-kork-negru~12073521.jpg",
@@ -5436,9 +5463,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ghidolina-velo-gel-kork-negru~12073527.jpg"
       ],
       "tags": [
-        "Bar Tape - Accesorii",
         "COMPONENTE",
-        "VELO"
+        "VELO",
+        "➤ Bar Tape - Accesorii"
       ],
       "specs": {
         "color": "Negru"
@@ -5450,8 +5477,8 @@
       "ean": "887539010300",
       "name": "Antifurt cu Cifru M-WAVE DS 12.10 S Roz",
       "brand": "M-WAVE",
-      "category": "Antifurturi cu Cifru",
-      "category_path": "ACCESORII > Antifurturi - Alarme > Antifurturi cu Cifru",
+      "category": "➤ Antifurturi cu Cifru",
+      "category_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -5467,8 +5494,8 @@
       "tags": [
         "10 viteze",
         "ACCESORII",
-        "Antifurturi cu Cifru",
-        "M-WAVE"
+        "M-WAVE",
+        "➤ Antifurturi cu Cifru"
       ],
       "specs": {
         "color": "Roz",
@@ -5481,8 +5508,8 @@
       "ean": "887539010317",
       "name": "Antifurt cu Cifru M-WAVE DS 12.10 S Mov",
       "brand": "M-WAVE",
-      "category": "Antifurturi cu Cifru",
-      "category_path": "ACCESORII > Antifurturi - Alarme > Antifurturi cu Cifru",
+      "category": "➤ Antifurturi cu Cifru",
+      "category_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -5498,8 +5525,8 @@
       "tags": [
         "10 viteze",
         "ACCESORII",
-        "Antifurturi cu Cifru",
-        "M-WAVE"
+        "M-WAVE",
+        "➤ Antifurturi cu Cifru"
       ],
       "specs": {
         "color": "Mov",
@@ -5511,8 +5538,8 @@
       "sku": "587860",
       "name": "Pinion Casetat SHIMANO CS-LG300-9 Cues 11-36T",
       "brand": "SHIMANO",
-      "category": "Pinioane Casetate",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > Pinioane > Pinioane Casetate",
+      "category": "➤ Pinioane Casetate",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pinioane Casetate",
       "price": 120.0,
       "price_net": 99.17,
       "currency": "RON",
@@ -5526,8 +5553,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Pinioane Casetate",
-        "SHIMANO"
+        "SHIMANO",
+        "➤ Pinioane Casetate"
       ]
     },
     {
@@ -5535,8 +5562,8 @@
       "sku": "252060",
       "name": "Tija cu Suspensie SXT 300 x 27.2 mm Silver",
       "brand": "SXT",
-      "category": "Tije Sa",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Tije Sa",
+      "category": "➤ Tije Sa",
+      "category_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "price": 45.0,
       "price_net": 37.19,
       "currency": "RON",
@@ -5551,7 +5578,7 @@
       "tags": [
         "COMPONENTE",
         "SXT",
-        "Tije Sa"
+        "➤ Tije Sa"
       ],
       "specs": {
         "color": "Silver",
@@ -5563,8 +5590,8 @@
       "sku": "252129",
       "name": "Tija cu Suspensie SXT SP-C2 300 x 27.2 mm Silver",
       "brand": "SXT",
-      "category": "Tije Sa",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Tije Sa",
+      "category": "➤ Tije Sa",
+      "category_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "price": 58.0,
       "price_net": 47.93,
       "currency": "RON",
@@ -5580,7 +5607,7 @@
       "tags": [
         "COMPONENTE",
         "SXT",
-        "Tije Sa"
+        "➤ Tije Sa"
       ],
       "specs": {
         "color": "Silver",
@@ -5592,8 +5619,8 @@
       "sku": "251053",
       "name": "Sa SXT Elast - XXL City - 265 mm Negru",
       "brand": "SXT",
-      "category": "Sei",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
+      "category": "➤ Sei",
+      "category_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "price": 78.0,
       "price_net": 64.46,
       "currency": "RON",
@@ -5612,7 +5639,7 @@
         "COMPONENTE",
         "City/Trekking",
         "SXT",
-        "Sei"
+        "➤ Sei"
       ],
       "specs": {
         "bike_type": [
@@ -5627,8 +5654,8 @@
       "ean": "887539052560",
       "name": "Mansoane SXT 118 mm TPR Negru",
       "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Mansoane",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
@@ -5640,11 +5667,10 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-sxt-118-mm-tpr-negru~12073683.jpg"
       ],
-      "category_description": "Handlebar grips",
       "tags": [
         "COMPONENTE",
-        "Mansoane",
-        "SXT"
+        "SXT",
+        "➤ Mansoane"
       ],
       "specs": {
         "color": "Negru"
@@ -5654,13 +5680,13 @@
       "id": "880409",
       "sku": "880409",
       "name": "Cheie Pinioane SXT",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "COMPONENTE > Unelte Service > Unelte Speciale Biciclete",
+      "category": "➤ Unelte Speciale Biciclete",
+      "category_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 91,
+      "stock_quantity": 89,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/cheie-pinioane-sxt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cheie-pinioane-sxt~12073686.jpg",
@@ -5670,7 +5696,7 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Unelte Speciale Biciclete"
+        "➤ Unelte Speciale Biciclete"
       ]
     },
     {
@@ -5678,8 +5704,8 @@
       "sku": "251054",
       "name": "Sa SXT Tour II 275 X 155 mm Negru",
       "brand": "SXT",
-      "category": "Sei",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
+      "category": "➤ Sei",
+      "category_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "price": 80.0,
       "price_net": 66.12,
       "currency": "RON",
@@ -5697,7 +5723,7 @@
       "tags": [
         "COMPONENTE",
         "SXT",
-        "Sei"
+        "➤ Sei"
       ],
       "specs": {
         "color": "Negru"
@@ -5708,8 +5734,8 @@
       "sku": "558144",
       "name": "Anvelopa KUJO One 0 One A 700 x 40C (42-622) Negru",
       "brand": "KUJO",
-      "category": "Anvelope pe Sârmă",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -5724,9 +5750,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kujo-one-0-one-a-700-x-40c-42-622-negru~12073719.jpg"
       ],
       "tags": [
-        "Anvelope pe Sârmă",
         "COMPONENTE",
-        "KUJO"
+        "KUJO",
+        "➤ Anvelope pe Sârmă"
       ],
       "specs": {
         "color": "Negru",
@@ -5739,8 +5765,8 @@
       "ean": "047853637779",
       "name": "Anvelopa KENDA KADRE Sport Protect 29 x 2.20(56-622) K- 1027",
       "brand": "KENDA",
-      "category": "Anvelope pe Sârmă",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "price": 110.0,
       "price_net": 90.91,
       "currency": "RON",
@@ -5755,9 +5781,9 @@
       ],
       "tags": [
         "29 inch",
-        "Anvelope pe Sârmă",
         "COMPONENTE",
-        "KENDA"
+        "KENDA",
+        "➤ Anvelope pe Sârmă"
       ],
       "specs": {
         "wheel_size": "29",
@@ -5769,8 +5795,8 @@
       "sku": "381802",
       "name": "Janta SXT E35 29(622 x 35C) 32H Negru Asymmetric",
       "brand": "SXT",
-      "category": "Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > Jante > Jante pentru Frane Disc",
+      "category": "➤ Jante pentru Frane Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "price": 215.0,
       "price_net": 177.69,
       "currency": "RON",
@@ -5785,8 +5811,8 @@
       ],
       "tags": [
         "COMPONENTE",
-        "Jante pentru Frane Disc",
-        "SXT"
+        "SXT",
+        "➤ Jante pentru Frane Disc"
       ],
       "specs": {
         "color": "Negru",
@@ -5798,8 +5824,8 @@
       "sku": "430784",
       "name": "Cric Aluminiu SXT Strong 97 24-28",
       "brand": "SXT",
-      "category": "Cricuri Spate",
-      "category_path": "ACCESORII > Cricuri Bicicleta > Cricuri Spate",
+      "category": "➤ Cricuri Spate",
+      "category_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "price": 45.0,
       "price_net": 37.19,
       "currency": "RON",
@@ -5814,8 +5840,8 @@
       "tags": [
         "ACCESORII",
         "Aluminiu",
-        "Cricuri Spate",
-        "SXT"
+        "SXT",
+        "➤ Cricuri Spate"
       ],
       "specs": {
         "material": "Aluminiu"
@@ -5826,8 +5852,8 @@
       "sku": "519105-05292",
       "name": "Anvelopa TANNUS Airless 22 X 1.3/8 Wheelchair",
       "brand": "TANNUS",
-      "category": "Anvelope pe Sârmă",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "price": 350.0,
       "price_net": 289.26,
       "currency": "RON",
@@ -5841,9 +5867,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-tannus-airless-22-x-1-3-8-wheelchair~12275712.jpg"
       ],
       "tags": [
-        "Anvelope pe Sârmă",
         "COMPONENTE",
-        "TANNUS"
+        "TANNUS",
+        "➤ Anvelope pe Sârmă"
       ]
     },
     {
@@ -5851,10 +5877,10 @@
       "sku": "11E00491",
       "name": "Anvelopa VITTORIA e-RANDONNEUR 700 x 48C(50-622) Rigid Reflectorizant Negru - Maro",
       "brand": "VITTORIA",
-      "category": "Anvelope pe Sârmă",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "secondary_categories": [
-        "e- MOBILITY > Componente E-Bike"
+        "e- MOBILITY > ➤ Componente E-Bike"
       ],
       "price": 90.0,
       "price_net": 74.38,
@@ -5868,188 +5894,23 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-vittoria-e-randonneur-700-x-48c-50-622-rigid-reflectorizant~12342552.jpg"
       ],
       "tags": [
-        "Anvelope pe Sârmă",
         "COMPONENTE",
-        "VITTORIA"
+        "VITTORIA",
+        "➤ Anvelope pe Sârmă"
       ],
       "specs": {
         "color": "Negru",
         "dimensions": "700 x 48"
       }
-    },
-    {
-      "id": "11E00275",
-      "sku": "11E00275",
-      "name": "Anvelopa VITTORIA Urbano 700x40C(42-622) Negru 965g Rigid",
-      "brand": "VITTORIA",
-      "category": "Anvelope pe Sârmă",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
-      "price": 65.0,
-      "price_net": 53.72,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 97,
-      "weight_kg": 1.0,
-      "url": "https://www.bikestylish.ro/anvelopa-vittoria-urbano-700x40c-42-622-negru-965g-rigid.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-urbano-700x40c-42-622-negru-965g-rigid~12342570.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-urbano-700x40c-42-622-negru-965g-rigid~12342570.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-urbano-700x40c-42-622-negru-965g-rigid~12378843.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-vittoria-urbano-700x40c-42-622-negru-965g-rigid~12378846.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-urbano-700x40c-42-622-negru-965g-rigid~12378849.jpg"
-      ],
-      "tags": [
-        "Anvelope pe Sârmă",
-        "COMPONENTE",
-        "City/Trekking",
-        "VITTORIA"
-      ],
-      "specs": {
-        "bike_type": [
-          "City/Trekking"
-        ],
-        "color": "Negru",
-        "dimensions": "700 x 40"
-      }
-    },
-    {
-      "id": "11E00276",
-      "sku": "11E00276",
-      "name": "Anvelopa VITTORIA Urbano 700x45C(47-622) Negru Rigid",
-      "brand": "VITTORIA",
-      "category": "Anvelope pe Sârmă",
-      "category_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
-      "price": 65.0,
-      "price_net": 53.72,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 83,
-      "weight_kg": 1.0,
-      "url": "https://www.bikestylish.ro/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid~12342588.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid~12342588.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid~12378831.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid~12378834.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid~12378837.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid~12378840.jpg"
-      ],
-      "tags": [
-        "Anvelope pe Sârmă",
-        "COMPONENTE",
-        "City/Trekking",
-        "VITTORIA"
-      ],
-      "specs": {
-        "bike_type": [
-          "City/Trekking"
-        ],
-        "color": "Negru",
-        "dimensions": "700 x 45"
-      }
-    },
-    {
-      "id": "1TE00016",
-      "sku": "1TE00016",
-      "name": "Camera Standard VITTORIA 16x1.5/1.75 AV Schrader 48mm (OEM)",
-      "brand": "VITTORIA",
-      "category": "Camere de Bicicleta",
-      "category_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta",
-      "price": 15.0,
-      "price_net": 12.4,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 130,
-      "weight_kg": 0.5,
-      "url": "https://www.bikestylish.ro/camera-standard-vittoria-16x1-5-1-75-av-schrader-48mm-oem.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-standard-vittoria-16x1-5-1-75-av-schrader-48mm-oem~12347142.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/camera-standard-vittoria-16x1-5-1-75-av-schrader-48mm-oem~12347142.jpg"
-      ],
-      "tags": [
-        "16 inch",
-        "COMPONENTE",
-        "Camere de Bicicleta",
-        "Schrader",
-        "VITTORIA"
-      ],
-      "specs": {
-        "wheel_size": "16",
-        "dimensions": "16 x 1.5",
-        "valve_type": "Schrader (AV)"
-      }
     }
   ],
   "categories": [
-    {
-      "id": "accesorii-aparatori-noroi",
-      "name": "Accesorii Aparatori Noroi",
-      "full_path": "ACCESORII > Aparatori Noroi > Accesorii Aparatori Noroi",
-      "product_count": 1,
-      "in_stock_count": 1
-    },
-    {
-      "id": "accesorii-camere-biciclete",
-      "name": "Accesorii Camere Biciclete",
-      "full_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta > Accesorii Camere Biciclete",
-      "product_count": 18,
-      "in_stock_count": 13
-    },
-    {
-      "id": "accesorii-e-bike",
-      "name": "Accesorii E-Bike",
-      "full_path": "e- MOBILITY > Accesorii E-Bike",
-      "product_count": 7,
-      "in_stock_count": 4
-    },
-    {
-      "id": "accesorii-lumini",
-      "name": "Accesorii Lumini",
-      "full_path": "ACCESORII > Lumini - Accesorii > Accesorii Lumini",
-      "product_count": 9,
-      "in_stock_count": 5
-    },
-    {
-      "id": "accesorii-pedale",
-      "name": "Accesorii Pedale",
-      "full_path": "COMPONENTE > Pedale - Accesorii > Accesorii Pedale",
-      "product_count": 15,
-      "in_stock_count": 12
-    },
-    {
-      "id": "adaptoare-frana",
-      "name": "Adaptoare Frana",
-      "full_path": "COMPONENTE > Sisteme Franare > Adaptoare Frana",
-      "product_count": 15,
-      "in_stock_count": 15
-    },
     {
       "id": "amenajare-magazin",
       "name": "Amenajare Magazin",
       "full_path": "COMPONENTE > Amenajare Magazin",
       "product_count": 21,
       "in_stock_count": 9
-    },
-    {
-      "id": "angrenaje-monobloace",
-      "name": "Angrenaje - Monobloace",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "angrenaje-e-bike",
-      "name": "Angrenaje E-Bike",
-      "full_path": "e- MOBILITY > Angrenaje E-Bike",
-      "product_count": 7,
-      "in_stock_count": 3
-    },
-    {
-      "id": "antifurturi-u-lock",
-      "name": "Antifurturi  U-Lock",
-      "full_path": "ACCESORII > Antifurturi - Alarme > Antifurturi  U-Lock",
-      "product_count": 5,
-      "in_stock_count": 5
     },
     {
       "id": "antifurturi-alarme",
@@ -6059,116 +5920,11 @@
       "in_stock_count": 3
     },
     {
-      "id": "antifurturi-lant",
-      "name": "Antifurturi Lant",
-      "full_path": "ACCESORII > Antifurturi - Alarme > Antifurturi Lant",
-      "product_count": 7,
-      "in_stock_count": 6
-    },
-    {
-      "id": "antifurturi-pliabile",
-      "name": "Antifurturi Pliabile",
-      "full_path": "ACCESORII > Antifurturi - Alarme > Antifurturi Pliabile",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "antifurturi-cu-cheie",
-      "name": "Antifurturi cu Cheie",
-      "full_path": "ACCESORII > Antifurturi - Alarme > Antifurturi cu Cheie",
-      "product_count": 20,
-      "in_stock_count": 13
-    },
-    {
-      "id": "antifurturi-cu-cifru",
-      "name": "Antifurturi cu Cifru",
-      "full_path": "ACCESORII > Antifurturi - Alarme > Antifurturi cu Cifru",
-      "product_count": 11,
-      "in_stock_count": 7
-    },
-    {
       "id": "anvelope-camere",
       "name": "Anvelope - Camere",
       "full_path": "COMPONENTE > Anvelope - Camere",
       "product_count": 2,
       "in_stock_count": 2
-    },
-    {
-      "id": "anvelope-pliabile",
-      "name": "Anvelope Pliabile",
-      "full_path": "COMPONENTE > Anvelope - Camere > Anvelope Pliabile",
-      "product_count": 82,
-      "in_stock_count": 42
-    },
-    {
-      "id": "anvelope-pe-sarma",
-      "name": "Anvelope pe Sârmă",
-      "full_path": "COMPONENTE > Anvelope - Camere > Anvelope pe Sârmă",
-      "product_count": 181,
-      "in_stock_count": 127
-    },
-    {
-      "id": "aparatori-angrenaj-accesorii",
-      "name": "Aparatori Angrenaj - Accesorii",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Aparatori Angrenaj - Accesorii",
-      "product_count": 9,
-      "in_stock_count": 5
-    },
-    {
-      "id": "aparatori-noroi-fata",
-      "name": "Aparatori Noroi Fata",
-      "full_path": "ACCESORII > Aparatori Noroi > Aparatori Noroi Fata",
-      "product_count": 8,
-      "in_stock_count": 6
-    },
-    {
-      "id": "aparatori-noroi-spate",
-      "name": "Aparatori Noroi Spate",
-      "full_path": "ACCESORII > Aparatori Noroi > Aparatori Noroi Spate",
-      "product_count": 11,
-      "in_stock_count": 9
-    },
-    {
-      "id": "axe-accesorii-butuci",
-      "name": "Axe - Accesorii Butuci",
-      "full_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Axe - Accesorii Butuci",
-      "product_count": 60,
-      "in_stock_count": 41
-    },
-    {
-      "id": "axe-suruburi-piulite",
-      "name": "Axe - Suruburi - Piulite",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Axe - Suruburi - Piulite",
-      "product_count": 8,
-      "in_stock_count": 5
-    },
-    {
-      "id": "bagaje-cadru",
-      "name": "Bagaje Cadru",
-      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > Bagaje Cadru",
-      "product_count": 16,
-      "in_stock_count": 16
-    },
-    {
-      "id": "bagaje-ghidon",
-      "name": "Bagaje Ghidon",
-      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > Bagaje Ghidon",
-      "product_count": 9,
-      "in_stock_count": 9
-    },
-    {
-      "id": "bagaje-spate",
-      "name": "Bagaje Spate",
-      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > Bagaje Spate",
-      "product_count": 39,
-      "in_stock_count": 34
-    },
-    {
-      "id": "banda-janta-tubeless",
-      "name": "Banda Janta - Tubeless",
-      "full_path": "COMPONENTE > Anvelope - Camere > Banda Janta - Tubeless",
-      "product_count": 44,
-      "in_stock_count": 32
     },
     {
       "id": "bandane-caciuli-sepci",
@@ -6178,178 +5934,10 @@
       "in_stock_count": 6
     },
     {
-      "id": "bar-tape-accesorii",
-      "name": "Bar Tape - Accesorii",
-      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Bar Tape - Accesorii",
-      "product_count": 33,
-      "in_stock_count": 9
-    },
-    {
-      "id": "baterii-incarcatoare-e-bike",
-      "name": "Baterii -incarcatoare E-Bike",
-      "full_path": "e- MOBILITY > Baterii -incarcatoare E-Bike",
-      "product_count": 3,
-      "in_stock_count": 0
-    },
-    {
-      "id": "biciclete-single-speed-fixie",
-      "name": "Biciclete Single - SPEED - Fixie",
-      "full_path": "BICICLETE > Biciclete Single - SPEED - Fixie",
-      "product_count": 18,
-      "in_stock_count": 0
-    },
-    {
       "id": "bidoane-suporti-bidon",
       "name": "Bidoane - Suporti Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon",
       "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "bidoane-ciclism",
-      "name": "Bidoane Ciclism",
-      "full_path": "ACCESORII > Bidoane - Suporti Bidon > Bidoane Ciclism",
-      "product_count": 22,
-      "in_stock_count": 21
-    },
-    {
-      "id": "bike-care-ingrijire",
-      "name": "Bike Care - Ingrijire",
-      "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
-      "product_count": 9,
-      "in_stock_count": 6
-    },
-    {
-      "id": "bike-computer",
-      "name": "Bike Computer",
-      "full_path": "ACCESORII > Electronice > Bike Computer",
-      "product_count": 7,
-      "in_stock_count": 7
-    },
-    {
-      "id": "bike-lube-lubrefiere",
-      "name": "Bike Lube - Lubrefiere",
-      "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
-      "product_count": 17,
-      "in_stock_count": 10
-    },
-    {
-      "id": "bike-maintenance-intretinere",
-      "name": "Bike Maintenance - Intretinere",
-      "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
-      "product_count": 22,
-      "in_stock_count": 12
-    },
-    {
-      "id": "brate-angrenaje",
-      "name": "Brate Angrenaje",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Brate Angrenaje",
-      "product_count": 48,
-      "in_stock_count": 25
-    },
-    {
-      "id": "butuci-frana-disc",
-      "name": "Butuci Frana Disc",
-      "full_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci Frana Disc",
-      "product_count": 114,
-      "in_stock_count": 76
-    },
-    {
-      "id": "butuci-v-break-dinam",
-      "name": "Butuci V-Break - Dinam",
-      "full_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Butuci V-Break - Dinam",
-      "product_count": 52,
-      "in_stock_count": 41
-    },
-    {
-      "id": "cabluri",
-      "name": "Cabluri",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Cabluri - Mantale - Capete > Cabluri",
-      "product_count": 15,
-      "in_stock_count": 10
-    },
-    {
-      "id": "cadre-furci-e-bike",
-      "name": "Cadre - Furci E-Bike",
-      "full_path": "e- MOBILITY > Cadre - Furci E-Bike",
-      "product_count": 11,
-      "in_stock_count": 5
-    },
-    {
-      "id": "cadre-ssp-fixie",
-      "name": "Cadre SSP - Fixie",
-      "full_path": "COMPONENTE > Urechi - Protectii - Cadre > Cadre SSP - Fixie",
-      "product_count": 3,
-      "in_stock_count": 2
-    },
-    {
-      "id": "camere-de-bicicleta",
-      "name": "Camere de Bicicleta",
-      "full_path": "COMPONENTE > Anvelope - Camere > Camere de Bicicleta",
-      "product_count": 87,
-      "in_stock_count": 56
-    },
-    {
-      "id": "capete-cablu-manta",
-      "name": "Capete Cablu - Manta",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Cabluri - Mantale - Capete > Capete Cablu - Manta",
-      "product_count": 20,
-      "in_stock_count": 17
-    },
-    {
-      "id": "carcase-prinderi-smartphone",
-      "name": "Carcase - Prinderi SmartPhone",
-      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > Carcase - Prinderi SmartPhone",
-      "product_count": 9,
-      "in_stock_count": 7
-    },
-    {
-      "id": "cartuse-co2-accesorii-pompe",
-      "name": "Cartuse CO2 - Accesorii Pompe",
-      "full_path": "ACCESORII > Pompe Ciclism > Cartuse CO2 - Accesorii Pompe",
-      "product_count": 5,
-      "in_stock_count": 4
-    },
-    {
-      "id": "casete-butuci",
-      "name": "Casete Butuci",
-      "full_path": "COMPONENTE > Roti - Componente > Butuci - Accesorii > Casete Butuci",
-      "product_count": 14,
-      "in_stock_count": 9
-    },
-    {
-      "id": "casti-ciclism",
-      "name": "Casti Ciclism",
-      "full_path": "ECHIPAMENTE > Casti - Ochelari > Casti Ciclism",
-      "product_count": 17,
-      "in_stock_count": 11
-    },
-    {
-      "id": "chei-dinamometrice",
-      "name": "Chei Dinamometrice",
-      "full_path": "COMPONENTE > Unelte Service > Chei Dinamometrice",
-      "product_count": 5,
-      "in_stock_count": 3
-    },
-    {
-      "id": "chei-universale",
-      "name": "Chei Universale",
-      "full_path": "COMPONENTE > Unelte Service > Chei Universale",
-      "product_count": 2,
-      "in_stock_count": 2
-    },
-    {
-      "id": "coliere-tija-sa",
-      "name": "Coliere Tija Sa",
-      "full_path": "COMPONENTE > Sei - Tije - Coliere > Coliere Tija Sa",
-      "product_count": 21,
-      "in_stock_count": 15
-    },
-    {
-      "id": "componente-e-bike",
-      "name": "Componente E-Bike",
-      "full_path": "e- MOBILITY > Componente E-Bike",
-      "product_count": 3,
       "in_stock_count": 0
     },
     {
@@ -6360,116 +5948,11 @@
       "in_stock_count": 1
     },
     {
-      "id": "cosuri-transport-fata",
-      "name": "Cosuri Transport Fata",
-      "full_path": "ACCESORII > Cosuri Transport > Cosuri Transport Fata",
-      "product_count": 22,
-      "in_stock_count": 19
-    },
-    {
-      "id": "cosuri-transport-spate",
-      "name": "Cosuri Transport Spate",
-      "full_path": "ACCESORII > Cosuri Transport > Cosuri Transport Spate",
-      "product_count": 14,
-      "in_stock_count": 9
-    },
-    {
       "id": "cricuri-bicicleta",
       "name": "Cricuri Bicicleta",
       "full_path": "ACCESORII > Cricuri Bicicleta",
       "product_count": 3,
       "in_stock_count": 3
-    },
-    {
-      "id": "cricuri-mijloc",
-      "name": "Cricuri Mijloc",
-      "full_path": "ACCESORII > Cricuri Bicicleta > Cricuri Mijloc",
-      "product_count": 13,
-      "in_stock_count": 13
-    },
-    {
-      "id": "cricuri-spate",
-      "name": "Cricuri Spate",
-      "full_path": "ACCESORII > Cricuri Bicicleta > Cricuri Spate",
-      "product_count": 15,
-      "in_stock_count": 13
-    },
-    {
-      "id": "cuveti-headset",
-      "name": "Cuveti(HeadSet)",
-      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > Cuveti(HeadSet)",
-      "product_count": 35,
-      "in_stock_count": 22
-    },
-    {
-      "id": "depozitare-biciclete",
-      "name": "Depozitare Biciclete",
-      "full_path": "ACCESORII > Transport - Depozitare > Depozitare Biciclete",
-      "product_count": 21,
-      "in_stock_count": 14
-    },
-    {
-      "id": "discuri-rotoare",
-      "name": "Discuri - Rotoare",
-      "full_path": "COMPONENTE > Sisteme Franare > Discuri - Rotoare",
-      "product_count": 17,
-      "in_stock_count": 11
-    },
-    {
-      "id": "display-manete-e-bike",
-      "name": "Display - Manete E-Bike",
-      "full_path": "e- MOBILITY > Display - Manete E-Bike",
-      "product_count": 10,
-      "in_stock_count": 0
-    },
-    {
-      "id": "echipamente-service-biciclete",
-      "name": "Echipamente Service Biciclete",
-      "full_path": "COMPONENTE > Unelte Service > Echipamente Service Biciclete",
-      "product_count": 1,
-      "in_stock_count": 1
-    },
-    {
-      "id": "flori-furca-distantiere-accesorii",
-      "name": "Flori Furca - Distantiere, Accesorii",
-      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > Flori Furca - Distantiere, Accesorii",
-      "product_count": 13,
-      "in_stock_count": 11
-    },
-    {
-      "id": "foi-angrenaje",
-      "name": "Foi Angrenaje",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Foi Angrenaje",
-      "product_count": 24,
-      "in_stock_count": 11
-    },
-    {
-      "id": "frane-disc",
-      "name": "Frane Disc",
-      "full_path": "COMPONENTE > Sisteme Franare > Frane Disc",
-      "product_count": 15,
-      "in_stock_count": 10
-    },
-    {
-      "id": "frane-v-break",
-      "name": "Frane V - Break",
-      "full_path": "COMPONENTE > Sisteme Franare > Frane V - Break",
-      "product_count": 12,
-      "in_stock_count": 8
-    },
-    {
-      "id": "furci",
-      "name": "Furci",
-      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > Furci",
-      "product_count": 26,
-      "in_stock_count": 18
-    },
-    {
-      "id": "ghidoane",
-      "name": "Ghidoane",
-      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Ghidoane",
-      "product_count": 50,
-      "in_stock_count": 37
     },
     {
       "id": "ghidoane-mansoane-pipe",
@@ -6486,25 +5969,11 @@
       "in_stock_count": 2
     },
     {
-      "id": "huse-sa",
-      "name": "Huse Sa",
-      "full_path": "COMPONENTE > Sei - Tije - Coliere > Huse Sa",
-      "product_count": 7,
-      "in_stock_count": 7
-    },
-    {
       "id": "ingrijire-lubrefiere-intretinere",
       "name": "Ingrijire - Lubrefiere - Intretinere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere",
       "product_count": 2,
       "in_stock_count": 0
-    },
-    {
-      "id": "intinzatoare-lant-directionare",
-      "name": "Intinzatoare Lant - Directionare",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Lanturi - Componente > Intinzatoare Lant - Directionare",
-      "product_count": 4,
-      "in_stock_count": 3
     },
     {
       "id": "jachete-veste-ciclism",
@@ -6514,41 +5983,6 @@
       "in_stock_count": 6
     },
     {
-      "id": "jante-fat-bike",
-      "name": "Jante Fat = Bike",
-      "full_path": "COMPONENTE > Roti - Componente > Jante > Jante Fat = Bike",
-      "product_count": 3,
-      "in_stock_count": 3
-    },
-    {
-      "id": "jante-pentru-frane-disc",
-      "name": "Jante pentru Frane Disc",
-      "full_path": "COMPONENTE > Roti - Componente > Jante > Jante pentru Frane Disc",
-      "product_count": 45,
-      "in_stock_count": 24
-    },
-    {
-      "id": "jante-pentru-frane-v-brake",
-      "name": "Jante pentru Frane V-Brake",
-      "full_path": "COMPONENTE > Roti - Componente > Jante > Jante pentru Frane V-Brake",
-      "product_count": 19,
-      "in_stock_count": 14
-    },
-    {
-      "id": "lanturi",
-      "name": "Lanturi",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Lanturi - Componente > Lanturi",
-      "product_count": 73,
-      "in_stock_count": 49
-    },
-    {
-      "id": "lanturi-componente",
-      "name": "Lanturi - Componente",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Lanturi - Componente",
-      "product_count": 2,
-      "in_stock_count": 0
-    },
-    {
       "id": "lumini-accesorii",
       "name": "Lumini - Accesorii",
       "full_path": "ACCESORII > Lumini - Accesorii",
@@ -6556,102 +5990,11 @@
       "in_stock_count": 2
     },
     {
-      "id": "lumini-fata",
-      "name": "Lumini Fata",
-      "full_path": "ACCESORII > Lumini - Accesorii > Lumini Fata",
-      "product_count": 30,
-      "in_stock_count": 26
-    },
-    {
-      "id": "lumini-spate",
-      "name": "Lumini Spate",
-      "full_path": "ACCESORII > Lumini - Accesorii > Lumini Spate",
-      "product_count": 33,
-      "in_stock_count": 26
-    },
-    {
-      "id": "manete-frana",
-      "name": "Manete Frana",
-      "full_path": "COMPONENTE > Sisteme Franare > Manete Frana",
-      "product_count": 19,
-      "in_stock_count": 17
-    },
-    {
-      "id": "manete-frana-schimbator",
-      "name": "Manete Frana  - Schimbator",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Schimbatoare - Accesorii > Manete Frana  - Schimbator",
-      "product_count": 5,
-      "in_stock_count": 3
-    },
-    {
-      "id": "manete-schimbator",
-      "name": "Manete Schimbator",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Schimbatoare - Accesorii > Manete Schimbator",
-      "product_count": 28,
-      "in_stock_count": 20
-    },
-    {
-      "id": "mansoane",
-      "name": "Mansoane",
-      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Mansoane",
-      "product_count": 94,
-      "in_stock_count": 82
-    },
-    {
-      "id": "mantale",
-      "name": "Mantale",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Cabluri - Mantale - Capete > Mantale",
-      "product_count": 14,
-      "in_stock_count": 12
-    },
-    {
       "id": "manusi-ciclism",
       "name": "Manusi Ciclism",
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
       "product_count": 50,
       "in_stock_count": 44
-    },
-    {
-      "id": "mini-pompe",
-      "name": "Mini Pompe",
-      "full_path": "ACCESORII > Pompe Ciclism > Mini Pompe",
-      "product_count": 13,
-      "in_stock_count": 11
-    },
-    {
-      "id": "monobloace-b-b",
-      "name": "Monobloace - B.B.",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Monobloace - B.B.",
-      "product_count": 48,
-      "in_stock_count": 43
-    },
-    {
-      "id": "motoare-e-bike",
-      "name": "Motoare E-Bike",
-      "full_path": "e- MOBILITY > Motoare E-Bike",
-      "product_count": 9,
-      "in_stock_count": 1
-    },
-    {
-      "id": "nipluri-accesorii",
-      "name": "Nipluri - Accesorii",
-      "full_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Nipluri - Accesorii",
-      "product_count": 16,
-      "in_stock_count": 8
-    },
-    {
-      "id": "ochelari-ciclism",
-      "name": "Ochelari Ciclism",
-      "full_path": "ECHIPAMENTE > Casti - Ochelari > Ochelari Ciclism",
-      "product_count": 3,
-      "in_stock_count": 0
-    },
-    {
-      "id": "oglinzi",
-      "name": "Oglinzi",
-      "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
-      "product_count": 24,
-      "in_stock_count": 22
     },
     {
       "id": "pantaloni-ciclism",
@@ -6668,88 +6011,11 @@
       "in_stock_count": 1
     },
     {
-      "id": "pedale-click",
-      "name": "Pedale Click",
-      "full_path": "COMPONENTE > Pedale - Accesorii > Pedale Click",
-      "product_count": 27,
-      "in_stock_count": 19
-    },
-    {
-      "id": "pedale-duble",
-      "name": "Pedale Duble",
-      "full_path": "COMPONENTE > Pedale - Accesorii > Pedale Duble",
-      "product_count": 14,
-      "in_stock_count": 10
-    },
-    {
-      "id": "pedale-platforma",
-      "name": "Pedale Platforma",
-      "full_path": "COMPONENTE > Pedale - Accesorii > Pedale Platforma",
-      "product_count": 143,
-      "in_stock_count": 111
-    },
-    {
-      "id": "pedaliere-angrenaje",
-      "name": "Pedaliere - Angrenaje",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Angrenaje - Monobloace > Pedaliere - Angrenaje",
-      "product_count": 60,
-      "in_stock_count": 39
-    },
-    {
-      "id": "pinioane",
-      "name": "Pinioane",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Pinioane",
-      "product_count": 3,
-      "in_stock_count": 3
-    },
-    {
-      "id": "pinioane-casetate",
-      "name": "Pinioane Casetate",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Pinioane > Pinioane Casetate",
-      "product_count": 9,
-      "in_stock_count": 5
-    },
-    {
-      "id": "pionioane-filetate",
-      "name": "Pionioane Filetate",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Pinioane > Pionioane Filetate",
-      "product_count": 41,
-      "in_stock_count": 32
-    },
-    {
-      "id": "pipe-ghidon",
-      "name": "Pipe Ghidon",
-      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > Pipe Ghidon",
-      "product_count": 46,
-      "in_stock_count": 35
-    },
-    {
-      "id": "placute-frana-disc",
-      "name": "Placute Frana Disc",
-      "full_path": "COMPONENTE > Sisteme Franare > Placute Frana Disc",
-      "product_count": 29,
-      "in_stock_count": 19
-    },
-    {
       "id": "pompe-ciclism",
       "name": "Pompe Ciclism",
       "full_path": "ACCESORII > Pompe Ciclism",
       "product_count": 5,
       "in_stock_count": 2
-    },
-    {
-      "id": "pompe-furca-tubeless",
-      "name": "Pompe Furca - Tubeless",
-      "full_path": "ACCESORII > Pompe Ciclism > Pompe Furca - Tubeless",
-      "product_count": 6,
-      "in_stock_count": 4
-    },
-    {
-      "id": "pompe-podea",
-      "name": "Pompe Podea",
-      "full_path": "ACCESORII > Pompe Ciclism > Pompe Podea",
-      "product_count": 8,
-      "in_stock_count": 3
     },
     {
       "id": "portbagaje",
@@ -6759,74 +6025,11 @@
       "in_stock_count": 7
     },
     {
-      "id": "portbagaje-fata",
-      "name": "Portbagaje Fata",
-      "full_path": "ACCESORII > Portbagaje > Portbagaje Fata",
-      "product_count": 4,
-      "in_stock_count": 3
-    },
-    {
-      "id": "portbagaje-spate",
-      "name": "Portbagaje Spate",
-      "full_path": "ACCESORII > Portbagaje > Portbagaje Spate",
-      "product_count": 15,
-      "in_stock_count": 11
-    },
-    {
-      "id": "protectii-antipana",
-      "name": "Protectii Antipana",
-      "full_path": "COMPONENTE > Anvelope - Camere > Protectii Antipana",
-      "product_count": 45,
-      "in_stock_count": 28
-    },
-    {
-      "id": "protectii-lant-cadru",
-      "name": "Protectii Lant - Cadru",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Lanturi - Componente > Protectii Lant - Cadru",
-      "product_count": 10,
-      "in_stock_count": 6
-    },
-    {
-      "id": "reflectorizante",
-      "name": "Reflectorizante",
-      "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > Reflectorizante",
-      "product_count": 23,
-      "in_stock_count": 20
-    },
-    {
-      "id": "roti",
-      "name": "Roti",
-      "full_path": "COMPONENTE > Roti - Componente > Roti",
-      "product_count": 4,
-      "in_stock_count": 3
-    },
-    {
       "id": "roti-ajutatoare-articole-copii",
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
       "product_count": 14,
       "in_stock_count": 14
-    },
-    {
-      "id": "roti-fata",
-      "name": "Roti Fata",
-      "full_path": "COMPONENTE > Roti - Componente > Roti > Roti Fata",
-      "product_count": 36,
-      "in_stock_count": 31
-    },
-    {
-      "id": "roti-spate",
-      "name": "Roti Spate",
-      "full_path": "COMPONENTE > Roti - Componente > Roti > Roti Spate",
-      "product_count": 50,
-      "in_stock_count": 39
-    },
-    {
-      "id": "rucsaci",
-      "name": "Rucsaci",
-      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > Rucsaci",
-      "product_count": 4,
-      "in_stock_count": 3
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -6836,81 +6039,11 @@
       "in_stock_count": 2
     },
     {
-      "id": "rulmenti-headset",
-      "name": "Rulmenti(HeadSet)",
-      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > Rulmenti(HeadSet)",
-      "product_count": 6,
-      "in_stock_count": 4
-    },
-    {
-      "id": "saboti-frana",
-      "name": "Saboti Frana",
-      "full_path": "COMPONENTE > Sisteme Franare > Saboti Frana",
-      "product_count": 13,
-      "in_stock_count": 8
-    },
-    {
-      "id": "schimbatoare-fata",
-      "name": "Schimbatoare Fata",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Schimbatoare - Accesorii > Schimbatoare Fata",
-      "product_count": 7,
-      "in_stock_count": 6
-    },
-    {
-      "id": "schimbatoare-spate",
-      "name": "Schimbatoare Spate",
-      "full_path": "COMPONENTE > Schimbatoare - Transmisii > Schimbatoare - Accesorii > Schimbatoare Spate",
-      "product_count": 30,
-      "in_stock_count": 23
-    },
-    {
-      "id": "sei",
-      "name": "Sei",
-      "full_path": "COMPONENTE > Sei - Tije - Coliere > Sei",
-      "product_count": 95,
-      "in_stock_count": 83
-    },
-    {
       "id": "sei-tije-coliere",
       "name": "Sei - Tije - Coliere",
       "full_path": "COMPONENTE > Sei - Tije - Coliere",
       "product_count": 1,
       "in_stock_count": 1
-    },
-    {
-      "id": "set-lumini",
-      "name": "Set Lumini",
-      "full_path": "ACCESORII > Lumini - Accesorii > Set Lumini",
-      "product_count": 24,
-      "in_stock_count": 23
-    },
-    {
-      "id": "seturi-aparatori-noroi",
-      "name": "Seturi Aparatori Noroi",
-      "full_path": "ACCESORII > Aparatori Noroi > Seturi Aparatori Noroi",
-      "product_count": 26,
-      "in_stock_count": 23
-    },
-    {
-      "id": "seturi-roti",
-      "name": "Seturi Roti",
-      "full_path": "COMPONENTE > Roti - Componente > Roti > Seturi Roti",
-      "product_count": 24,
-      "in_stock_count": 17
-    },
-    {
-      "id": "sistem-velo-fit",
-      "name": "Sistem VELO - FIT",
-      "full_path": "COMPONENTE > Sei - Tije - Coliere > Sistem VELO - FIT",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "sonerii",
-      "name": "Sonerii",
-      "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > Sonerii",
-      "product_count": 47,
-      "in_stock_count": 38
     },
     {
       "id": "sonerii-oglinzi-reflectorizante",
@@ -6920,74 +6053,11 @@
       "in_stock_count": 2
     },
     {
-      "id": "spite-stainless",
-      "name": "Spite Stainless",
-      "full_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless",
-      "product_count": 165,
-      "in_stock_count": 95
-    },
-    {
-      "id": "spite-stainless-2-3-mm",
-      "name": "Spite Stainless - 2,3 mm",
-      "full_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless - 2,3 mm",
-      "product_count": 10,
-      "in_stock_count": 6
-    },
-    {
-      "id": "spite-stainless-aero",
-      "name": "Spite Stainless Aero",
-      "full_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite Stainless Aero",
-      "product_count": 24,
-      "in_stock_count": 1
-    },
-    {
-      "id": "spite-ucp",
-      "name": "Spite UCP",
-      "full_path": "COMPONENTE > Roti - Componente > Spite si Nipluri > Spite UCP",
-      "product_count": 59,
-      "in_stock_count": 27
-    },
-    {
-      "id": "suporturi-bidon",
-      "name": "Suporturi Bidon",
-      "full_path": "ACCESORII > Bidoane - Suporti Bidon > Suporturi Bidon",
-      "product_count": 50,
-      "in_stock_count": 48
-    },
-    {
-      "id": "suruburi-piulite-saibe",
-      "name": "Suruburi - Piulite - Saibe",
-      "full_path": "COMPONENTE > Unelte Service > Suruburi - Piulite - Saibe",
-      "product_count": 9,
-      "in_stock_count": 2
-    },
-    {
-      "id": "suspensii-spate",
-      "name": "Suspensii Spate",
-      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > Suspensii Spate",
-      "product_count": 2,
-      "in_stock_count": 1
-    },
-    {
-      "id": "tije-sa",
-      "name": "Tije Sa",
-      "full_path": "COMPONENTE > Sei - Tije - Coliere > Tije Sa",
-      "product_count": 48,
-      "in_stock_count": 36
-    },
-    {
       "id": "transport-depozitare",
       "name": "Transport - Depozitare",
       "full_path": "ACCESORII > Transport - Depozitare",
       "product_count": 4,
       "in_stock_count": 4
-    },
-    {
-      "id": "transport-biciclete",
-      "name": "Transport Biciclete",
-      "full_path": "ACCESORII > Transport - Depozitare > Transport Biciclete",
-      "product_count": 5,
-      "in_stock_count": 1
     },
     {
       "id": "tricouri-ciclism",
@@ -6997,32 +6067,11 @@
       "in_stock_count": 3
     },
     {
-      "id": "trotinete-electrice",
-      "name": "Trotinete Electrice",
-      "full_path": "e- MOBILITY > Trotinete Electrice",
-      "product_count": 39,
-      "in_stock_count": 12
-    },
-    {
-      "id": "truse-unelte-mini-truse",
-      "name": "Truse Unelte - Mini Truse",
-      "full_path": "COMPONENTE > Unelte Service > Truse Unelte - Mini Truse",
-      "product_count": 14,
-      "in_stock_count": 9
-    },
-    {
       "id": "unelte-service",
       "name": "Unelte Service",
       "full_path": "COMPONENTE > Unelte Service",
       "product_count": 5,
       "in_stock_count": 5
-    },
-    {
-      "id": "unelte-speciale-biciclete",
-      "name": "Unelte Speciale Biciclete",
-      "full_path": "COMPONENTE > Unelte Service > Unelte Speciale Biciclete",
-      "product_count": 180,
-      "in_stock_count": 146
     },
     {
       "id": "urechi-protectii-cadre",
@@ -7032,24 +6081,914 @@
       "in_stock_count": 1
     },
     {
-      "id": "urechi-cadru",
-      "name": "Urechi Cadru",
-      "full_path": "COMPONENTE > Urechi - Protectii - Cadre > Urechi Cadru",
-      "product_count": 1072,
-      "in_stock_count": 284
-    },
-    {
       "id": "e-mobility",
       "name": "e- MOBILITY",
       "full_path": "e- MOBILITY",
       "product_count": 1,
       "in_stock_count": 0
+    },
+    {
+      "id": "accesorii-camere-biciclete",
+      "name": "◼  Accesorii Camere Biciclete",
+      "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
+      "product_count": 18,
+      "in_stock_count": 13
+    },
+    {
+      "id": "accesorii-aparatori-noroi",
+      "name": "➤ Accesorii Aparatori Noroi",
+      "full_path": "ACCESORII > Aparatori Noroi > ➤ Accesorii Aparatori Noroi",
+      "product_count": 1,
+      "in_stock_count": 1
+    },
+    {
+      "id": "accesorii-e-bike",
+      "name": "➤ Accesorii E-Bike",
+      "full_path": "e- MOBILITY > ➤ Accesorii E-Bike",
+      "product_count": 7,
+      "in_stock_count": 4
+    },
+    {
+      "id": "accesorii-lumini",
+      "name": "➤ Accesorii Lumini",
+      "full_path": "ACCESORII > Lumini - Accesorii > ➤ Accesorii Lumini",
+      "product_count": 9,
+      "in_stock_count": 5
+    },
+    {
+      "id": "accesorii-pedale",
+      "name": "➤ Accesorii Pedale",
+      "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Accesorii Pedale",
+      "product_count": 15,
+      "in_stock_count": 12
+    },
+    {
+      "id": "adaptoare-frana",
+      "name": "➤ Adaptoare Frana",
+      "full_path": "COMPONENTE > Sisteme Franare > ➤ Adaptoare Frana",
+      "product_count": 15,
+      "in_stock_count": 15
+    },
+    {
+      "id": "angrenaje-e-bike",
+      "name": "➤ Angrenaje E-Bike",
+      "full_path": "e- MOBILITY > ➤ Angrenaje E-Bike",
+      "product_count": 7,
+      "in_stock_count": 3
+    },
+    {
+      "id": "antifurturi-u-lock",
+      "name": "➤ Antifurturi  U-Lock",
+      "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi  U-Lock",
+      "product_count": 5,
+      "in_stock_count": 5
+    },
+    {
+      "id": "antifurturi-lant",
+      "name": "➤ Antifurturi Lant",
+      "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi Lant",
+      "product_count": 7,
+      "in_stock_count": 6
+    },
+    {
+      "id": "antifurturi-pliabile",
+      "name": "➤ Antifurturi Pliabile",
+      "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi Pliabile",
+      "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
+      "id": "antifurturi-cu-cheie",
+      "name": "➤ Antifurturi cu Cheie",
+      "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
+      "product_count": 20,
+      "in_stock_count": 13
+    },
+    {
+      "id": "antifurturi-cu-cifru",
+      "name": "➤ Antifurturi cu Cifru",
+      "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
+      "product_count": 11,
+      "in_stock_count": 7
+    },
+    {
+      "id": "anvelope-pliabile",
+      "name": "➤ Anvelope Pliabile",
+      "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
+      "product_count": 82,
+      "in_stock_count": 42
+    },
+    {
+      "id": "anvelope-pe-sarma",
+      "name": "➤ Anvelope pe Sârmă",
+      "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
+      "product_count": 181,
+      "in_stock_count": 127
+    },
+    {
+      "id": "aparatori-angrenaj-accesorii",
+      "name": "➤ Aparatori Angrenaj - Accesorii",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Aparatori Angrenaj - Accesorii",
+      "product_count": 9,
+      "in_stock_count": 5
+    },
+    {
+      "id": "aparatori-noroi-fata",
+      "name": "➤ Aparatori Noroi Fata",
+      "full_path": "ACCESORII > Aparatori Noroi > ➤ Aparatori Noroi Fata",
+      "product_count": 8,
+      "in_stock_count": 6
+    },
+    {
+      "id": "aparatori-noroi-spate",
+      "name": "➤ Aparatori Noroi Spate",
+      "full_path": "ACCESORII > Aparatori Noroi > ➤ Aparatori Noroi Spate",
+      "product_count": 11,
+      "in_stock_count": 9
+    },
+    {
+      "id": "axe-accesorii-butuci",
+      "name": "➤ Axe - Accesorii Butuci",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
+      "product_count": 60,
+      "in_stock_count": 41
+    },
+    {
+      "id": "axe-suruburi-piulite",
+      "name": "➤ Axe - Suruburi - Piulite",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Axe - Suruburi - Piulite",
+      "product_count": 8,
+      "in_stock_count": 5
+    },
+    {
+      "id": "bagaje-cadru",
+      "name": "➤ Bagaje Cadru",
+      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
+      "product_count": 16,
+      "in_stock_count": 16
+    },
+    {
+      "id": "bagaje-ghidon",
+      "name": "➤ Bagaje Ghidon",
+      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
+      "product_count": 9,
+      "in_stock_count": 9
+    },
+    {
+      "id": "bagaje-spate",
+      "name": "➤ Bagaje Spate",
+      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "product_count": 39,
+      "in_stock_count": 33
+    },
+    {
+      "id": "banda-janta-tubeless",
+      "name": "➤ Banda Janta - Tubeless",
+      "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
+      "product_count": 44,
+      "in_stock_count": 31
+    },
+    {
+      "id": "bar-tape-accesorii",
+      "name": "➤ Bar Tape - Accesorii",
+      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
+      "product_count": 33,
+      "in_stock_count": 9
+    },
+    {
+      "id": "baterii-incarcatoare-e-bike",
+      "name": "➤ Baterii -incarcatoare E-Bike",
+      "full_path": "e- MOBILITY > ➤ Baterii -incarcatoare E-Bike",
+      "product_count": 3,
+      "in_stock_count": 0
+    },
+    {
+      "id": "biciclete-single-speed-fixie",
+      "name": "➤ Biciclete Single - SPEED - Fixie",
+      "full_path": "BICICLETE > ➤ Biciclete Single - SPEED - Fixie",
+      "product_count": 18,
+      "in_stock_count": 0
+    },
+    {
+      "id": "bidoane-ciclism",
+      "name": "➤ Bidoane Ciclism",
+      "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
+      "product_count": 22,
+      "in_stock_count": 21
+    },
+    {
+      "id": "bike-care-ingrijire",
+      "name": "➤ Bike Care - Ingrijire",
+      "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Care - Ingrijire",
+      "product_count": 9,
+      "in_stock_count": 6
+    },
+    {
+      "id": "bike-computer",
+      "name": "➤ Bike Computer",
+      "full_path": "ACCESORII > Electronice > ➤ Bike Computer",
+      "product_count": 7,
+      "in_stock_count": 7
+    },
+    {
+      "id": "bike-lube-lubrefiere",
+      "name": "➤ Bike Lube - Lubrefiere",
+      "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Lube - Lubrefiere",
+      "product_count": 17,
+      "in_stock_count": 10
+    },
+    {
+      "id": "brate-angrenaje",
+      "name": "➤ Brate Angrenaje",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
+      "product_count": 48,
+      "in_stock_count": 25
+    },
+    {
+      "id": "butuci-frana-disc",
+      "name": "➤ Butuci Frana Disc",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "product_count": 114,
+      "in_stock_count": 76
+    },
+    {
+      "id": "butuci-v-break-dinam",
+      "name": "➤ Butuci V-Break - Dinam",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
+      "product_count": 52,
+      "in_stock_count": 41
+    },
+    {
+      "id": "cabluri",
+      "name": "➤ Cabluri",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Cabluri",
+      "product_count": 15,
+      "in_stock_count": 10
+    },
+    {
+      "id": "cadre-furci-e-bike",
+      "name": "➤ Cadre - Furci E-Bike",
+      "full_path": "e- MOBILITY > ➤ Cadre - Furci E-Bike",
+      "product_count": 11,
+      "in_stock_count": 5
+    },
+    {
+      "id": "cadre-ssp-fixie",
+      "name": "➤ Cadre SSP - Fixie",
+      "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Cadre SSP - Fixie",
+      "product_count": 3,
+      "in_stock_count": 2
+    },
+    {
+      "id": "camere-de-bicicleta",
+      "name": "➤ Camere de Bicicleta",
+      "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
+      "product_count": 87,
+      "in_stock_count": 56
+    },
+    {
+      "id": "capete-cablu-manta",
+      "name": "➤ Capete Cablu - Manta",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Capete Cablu - Manta",
+      "product_count": 20,
+      "in_stock_count": 17
+    },
+    {
+      "id": "carcase-prinderi-smartphone",
+      "name": "➤ Carcase - Prinderi SmartPhone",
+      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Carcase - Prinderi SmartPhone",
+      "product_count": 9,
+      "in_stock_count": 7
+    },
+    {
+      "id": "cartuse-co2-accesorii-pompe",
+      "name": "➤ Cartuse CO2 - Accesorii Pompe",
+      "full_path": "ACCESORII > Pompe Ciclism > ➤ Cartuse CO2 - Accesorii Pompe",
+      "product_count": 5,
+      "in_stock_count": 4
+    },
+    {
+      "id": "casete-butuci",
+      "name": "➤ Casete Butuci",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Casete Butuci",
+      "product_count": 14,
+      "in_stock_count": 9
+    },
+    {
+      "id": "casti-ciclism",
+      "name": "➤ Casti Ciclism",
+      "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
+      "product_count": 17,
+      "in_stock_count": 11
+    },
+    {
+      "id": "chei-dinamometrice",
+      "name": "➤ Chei Dinamometrice",
+      "full_path": "COMPONENTE > Unelte Service > ➤ Chei Dinamometrice",
+      "product_count": 5,
+      "in_stock_count": 3
+    },
+    {
+      "id": "chei-universale",
+      "name": "➤ Chei Universale",
+      "full_path": "COMPONENTE > Unelte Service > ➤ Chei Universale",
+      "product_count": 2,
+      "in_stock_count": 2
+    },
+    {
+      "id": "coliere-tija-sa",
+      "name": "➤ Coliere Tija Sa",
+      "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
+      "product_count": 21,
+      "in_stock_count": 15
+    },
+    {
+      "id": "componente-e-bike",
+      "name": "➤ Componente E-Bike",
+      "full_path": "e- MOBILITY > ➤ Componente E-Bike",
+      "product_count": 3,
+      "in_stock_count": 0
+    },
+    {
+      "id": "cosuri-transport-fata",
+      "name": "➤ Cosuri Transport Fata",
+      "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
+      "product_count": 22,
+      "in_stock_count": 19
+    },
+    {
+      "id": "cosuri-transport-spate",
+      "name": "➤ Cosuri Transport Spate",
+      "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Spate",
+      "product_count": 14,
+      "in_stock_count": 9
+    },
+    {
+      "id": "cricuri-mijloc",
+      "name": "➤ Cricuri Mijloc",
+      "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Mijloc",
+      "product_count": 13,
+      "in_stock_count": 13
+    },
+    {
+      "id": "cricuri-spate",
+      "name": "➤ Cricuri Spate",
+      "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
+      "product_count": 15,
+      "in_stock_count": 13
+    },
+    {
+      "id": "cuveti-headset",
+      "name": "➤ Cuveti(HeadSet)",
+      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
+      "product_count": 35,
+      "in_stock_count": 21
+    },
+    {
+      "id": "discuri-rotoare",
+      "name": "➤ Discuri - Rotoare",
+      "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
+      "product_count": 17,
+      "in_stock_count": 10
+    },
+    {
+      "id": "display-manete-e-bike",
+      "name": "➤ Display - Manete E-Bike",
+      "full_path": "e- MOBILITY > ➤ Display - Manete E-Bike",
+      "product_count": 10,
+      "in_stock_count": 0
+    },
+    {
+      "id": "echipamente-service-biciclete",
+      "name": "➤ Echipamente Service Biciclete",
+      "full_path": "COMPONENTE > Unelte Service > ➤ Echipamente Service Biciclete",
+      "product_count": 1,
+      "in_stock_count": 1
+    },
+    {
+      "id": "flori-furca-distantiere-accesorii",
+      "name": "➤ Flori Furca - Distantiere - Accesorii",
+      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
+      "product_count": 13,
+      "in_stock_count": 11
+    },
+    {
+      "id": "foi-angrenaje",
+      "name": "➤ Foi Angrenaje",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
+      "product_count": 24,
+      "in_stock_count": 11
+    },
+    {
+      "id": "frane-disc",
+      "name": "➤ Frane Disc",
+      "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
+      "product_count": 15,
+      "in_stock_count": 10
+    },
+    {
+      "id": "frane-v-break",
+      "name": "➤ Frane V - Break",
+      "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
+      "product_count": 12,
+      "in_stock_count": 8
+    },
+    {
+      "id": "furci",
+      "name": "➤ Furci",
+      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
+      "product_count": 26,
+      "in_stock_count": 18
+    },
+    {
+      "id": "ghidoane",
+      "name": "➤ Ghidoane",
+      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
+      "product_count": 50,
+      "in_stock_count": 37
+    },
+    {
+      "id": "huse-sa",
+      "name": "➤ Huse Sa",
+      "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Huse Sa",
+      "product_count": 7,
+      "in_stock_count": 7
+    },
+    {
+      "id": "intinzatoare-lant-directionare",
+      "name": "➤ Intinzatoare Lant - Directionare",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Intinzatoare Lant - Directionare",
+      "product_count": 4,
+      "in_stock_count": 3
+    },
+    {
+      "id": "jante-fat-bike",
+      "name": "➤ Jante Fat  Bike",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante Fat  Bike",
+      "product_count": 3,
+      "in_stock_count": 3
+    },
+    {
+      "id": "jante-pentru-frane-disc",
+      "name": "➤ Jante pentru Frane Disc",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "product_count": 45,
+      "in_stock_count": 24
+    },
+    {
+      "id": "jante-pentru-frane-v-brake",
+      "name": "➤ Jante pentru Frane V-Brake",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
+      "product_count": 19,
+      "in_stock_count": 14
+    },
+    {
+      "id": "lanturi",
+      "name": "➤ Lanturi",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
+      "product_count": 73,
+      "in_stock_count": 48
+    },
+    {
+      "id": "lumini-fata",
+      "name": "➤ Lumini Fata",
+      "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
+      "product_count": 30,
+      "in_stock_count": 26
+    },
+    {
+      "id": "lumini-spate",
+      "name": "➤ Lumini Spate",
+      "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
+      "product_count": 33,
+      "in_stock_count": 26
+    },
+    {
+      "id": "manete-frana",
+      "name": "➤ Manete Frana",
+      "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
+      "product_count": 19,
+      "in_stock_count": 17
+    },
+    {
+      "id": "manete-frana-schimbator",
+      "name": "➤ Manete Frana  - Schimbator",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Manete Frana  - Schimbator",
+      "product_count": 5,
+      "in_stock_count": 3
+    },
+    {
+      "id": "manete-schimbator",
+      "name": "➤ Manete Schimbator",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Manete Schimbator",
+      "product_count": 28,
+      "in_stock_count": 20
+    },
+    {
+      "id": "mansoane",
+      "name": "➤ Mansoane",
+      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
+      "product_count": 94,
+      "in_stock_count": 82
+    },
+    {
+      "id": "mantale",
+      "name": "➤ Mantale",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Mantale",
+      "product_count": 14,
+      "in_stock_count": 12
+    },
+    {
+      "id": "mini-pompe",
+      "name": "➤ Mini Pompe",
+      "full_path": "ACCESORII > Pompe Ciclism > ➤ Mini Pompe",
+      "product_count": 13,
+      "in_stock_count": 11
+    },
+    {
+      "id": "monobloace-b-b",
+      "name": "➤ Monobloace - B.B.",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
+      "product_count": 48,
+      "in_stock_count": 43
+    },
+    {
+      "id": "motoare-e-bike",
+      "name": "➤ Motoare E-Bike",
+      "full_path": "e- MOBILITY > ➤ Motoare E-Bike",
+      "product_count": 9,
+      "in_stock_count": 1
+    },
+    {
+      "id": "nipluri-accesorii",
+      "name": "➤ Nipluri - Accesorii",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Nipluri - Accesorii",
+      "product_count": 16,
+      "in_stock_count": 8
+    },
+    {
+      "id": "ochelari-ciclism",
+      "name": "➤ Ochelari Ciclism",
+      "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Ochelari Ciclism",
+      "product_count": 3,
+      "in_stock_count": 0
+    },
+    {
+      "id": "oglinzi",
+      "name": "➤ Oglinzi",
+      "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
+      "product_count": 24,
+      "in_stock_count": 22
+    },
+    {
+      "id": "pedale-click",
+      "name": "➤ Pedale Click",
+      "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
+      "product_count": 27,
+      "in_stock_count": 19
+    },
+    {
+      "id": "pedale-duble",
+      "name": "➤ Pedale Duble",
+      "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Duble",
+      "product_count": 14,
+      "in_stock_count": 10
+    },
+    {
+      "id": "pedale-platforma",
+      "name": "➤ Pedale Platforma",
+      "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "product_count": 143,
+      "in_stock_count": 110
+    },
+    {
+      "id": "pedaliere-angrenaje",
+      "name": "➤ Pedaliere - Angrenaje",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
+      "product_count": 60,
+      "in_stock_count": 39
+    },
+    {
+      "id": "pinioane-casetate",
+      "name": "➤ Pinioane Casetate",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pinioane Casetate",
+      "product_count": 9,
+      "in_stock_count": 5
+    },
+    {
+      "id": "pionioane-filetate",
+      "name": "➤ Pionioane Filetate",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
+      "product_count": 41,
+      "in_stock_count": 32
+    },
+    {
+      "id": "pipe-ghidon",
+      "name": "➤ Pipe Ghidon",
+      "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
+      "product_count": 46,
+      "in_stock_count": 35
+    },
+    {
+      "id": "placute-frana-disc",
+      "name": "➤ Placute Frana Disc",
+      "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
+      "product_count": 29,
+      "in_stock_count": 19
+    },
+    {
+      "id": "pompe-furca-tubeless",
+      "name": "➤ Pompe Furca - Tubeless",
+      "full_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Furca - Tubeless",
+      "product_count": 6,
+      "in_stock_count": 4
+    },
+    {
+      "id": "pompe-podea",
+      "name": "➤ Pompe Podea",
+      "full_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Podea",
+      "product_count": 8,
+      "in_stock_count": 3
+    },
+    {
+      "id": "portbagaje-fata",
+      "name": "➤ Portbagaje Fata",
+      "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Fata",
+      "product_count": 4,
+      "in_stock_count": 3
+    },
+    {
+      "id": "portbagaje-spate",
+      "name": "➤ Portbagaje Spate",
+      "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
+      "product_count": 15,
+      "in_stock_count": 11
+    },
+    {
+      "id": "protectii-antipana",
+      "name": "➤ Protectii Antipana",
+      "full_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
+      "product_count": 45,
+      "in_stock_count": 28
+    },
+    {
+      "id": "protectii-lant-cadru",
+      "name": "➤ Protectii Lant - Cadru",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Protectii Lant - Cadru",
+      "product_count": 10,
+      "in_stock_count": 6
+    },
+    {
+      "id": "reflectorizante",
+      "name": "➤ Reflectorizante",
+      "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
+      "product_count": 23,
+      "in_stock_count": 20
+    },
+    {
+      "id": "roti-fata",
+      "name": "➤ Roti Fata",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "product_count": 36,
+      "in_stock_count": 31
+    },
+    {
+      "id": "roti-spate",
+      "name": "➤ Roti Spate",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "product_count": 50,
+      "in_stock_count": 38
+    },
+    {
+      "id": "rucsaci",
+      "name": "➤ Rucsaci",
+      "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Rucsaci",
+      "product_count": 4,
+      "in_stock_count": 3
+    },
+    {
+      "id": "rulmenti-headset",
+      "name": "➤ Rulmenti(HeadSet)",
+      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Rulmenti(HeadSet)",
+      "product_count": 6,
+      "in_stock_count": 4
+    },
+    {
+      "id": "saboti-frana",
+      "name": "➤ Saboti Frana",
+      "full_path": "COMPONENTE > Sisteme Franare > ➤ Saboti Frana",
+      "product_count": 13,
+      "in_stock_count": 8
+    },
+    {
+      "id": "scaune-bicicleta-copii",
+      "name": "➤ Scaune Bicicleta Copii",
+      "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii > ➤ Scaune Bicicleta Copii",
+      "product_count": 2,
+      "in_stock_count": 1
+    },
+    {
+      "id": "schimbatoare-fata",
+      "name": "➤ Schimbatoare Fata",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Fata",
+      "product_count": 7,
+      "in_stock_count": 6
+    },
+    {
+      "id": "schimbatoare-spate",
+      "name": "➤ Schimbatoare Spate",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
+      "product_count": 30,
+      "in_stock_count": 23
+    },
+    {
+      "id": "sei",
+      "name": "➤ Sei",
+      "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
+      "product_count": 95,
+      "in_stock_count": 83
+    },
+    {
+      "id": "set-lumini",
+      "name": "➤ Set Lumini",
+      "full_path": "ACCESORII > Lumini - Accesorii > ➤ Set Lumini",
+      "product_count": 24,
+      "in_stock_count": 23
+    },
+    {
+      "id": "seturi-aparatori-noroi",
+      "name": "➤ Seturi Aparatori Noroi",
+      "full_path": "ACCESORII > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
+      "product_count": 26,
+      "in_stock_count": 23
+    },
+    {
+      "id": "seturi-roti",
+      "name": "➤ Seturi Roti",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
+      "product_count": 24,
+      "in_stock_count": 17
+    },
+    {
+      "id": "sistem-velo-fit",
+      "name": "➤ Sistem VELO - FIT",
+      "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sistem VELO - FIT",
+      "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
+      "id": "sonerii",
+      "name": "➤ Sonerii",
+      "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
+      "product_count": 47,
+      "in_stock_count": 38
+    },
+    {
+      "id": "spite-stainless",
+      "name": "➤ Spite Stainless",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "product_count": 165,
+      "in_stock_count": 95
+    },
+    {
+      "id": "spite-stainless-2-3-mm",
+      "name": "➤ Spite Stainless - 2,3 mm",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless - 2,3 mm",
+      "product_count": 10,
+      "in_stock_count": 6
+    },
+    {
+      "id": "spite-stainless-aero",
+      "name": "➤ Spite Stainless Aero",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "product_count": 24,
+      "in_stock_count": 1
+    },
+    {
+      "id": "spite-ucp",
+      "name": "➤ Spite UCP",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "product_count": 59,
+      "in_stock_count": 27
+    },
+    {
+      "id": "suporturi-bidon",
+      "name": "➤ Suporturi Bidon",
+      "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
+      "product_count": 50,
+      "in_stock_count": 48
+    },
+    {
+      "id": "suruburi-piulite-saibe",
+      "name": "➤ Suruburi - Piulite - Saibe",
+      "full_path": "COMPONENTE > Unelte Service > ➤ Suruburi - Piulite - Saibe",
+      "product_count": 9,
+      "in_stock_count": 2
+    },
+    {
+      "id": "tije-sa",
+      "name": "➤ Tije Sa",
+      "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
+      "product_count": 48,
+      "in_stock_count": 34
+    },
+    {
+      "id": "transport-biciclete",
+      "name": "➤ Transport Biciclete",
+      "full_path": "ACCESORII > Transport - Depozitare > ➤ Transport Biciclete",
+      "product_count": 5,
+      "in_stock_count": 1
+    },
+    {
+      "id": "transport-copii",
+      "name": "➤ Transport Copii",
+      "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii > ➤ Transport Copii",
+      "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
+      "id": "trotinete-electrice",
+      "name": "➤ Trotinete Electrice",
+      "full_path": "e- MOBILITY > ➤ Trotinete Electrice",
+      "product_count": 39,
+      "in_stock_count": 12
+    },
+    {
+      "id": "truse-unelte-mini-truse",
+      "name": "➤ Truse Unelte - Mini Truse",
+      "full_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
+      "product_count": 14,
+      "in_stock_count": 9
+    },
+    {
+      "id": "unelte-speciale-biciclete",
+      "name": "➤ Unelte Speciale Biciclete",
+      "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "product_count": 180,
+      "in_stock_count": 145
+    },
+    {
+      "id": "urechi-cadru",
+      "name": "➤ Urechi Cadru",
+      "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "product_count": 1072,
+      "in_stock_count": 284
+    },
+    {
+      "id": "bike-maintenance-intretinere",
+      "name": "➤Bike Maintenance - Intretinere",
+      "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
+      "product_count": 22,
+      "in_stock_count": 12
+    },
+    {
+      "id": "depozitare-biciclete",
+      "name": "➤Depozitare Biciclete",
+      "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
+      "product_count": 21,
+      "in_stock_count": 14
+    },
+    {
+      "id": "suspensii-spate",
+      "name": "➤Suspensii Spate",
+      "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤Suspensii Spate",
+      "product_count": 2,
+      "in_stock_count": 1
+    },
+    {
+      "id": "angrenaje-monobloace",
+      "name": "⬤ Angrenaje - Monobloace",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace",
+      "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
+      "id": "lanturi-componente",
+      "name": "⬤ Lanturi - Componente",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente",
+      "product_count": 2,
+      "in_stock_count": 0
+    },
+    {
+      "id": "pinioane",
+      "name": "⬤ Pinioane",
+      "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane",
+      "product_count": 3,
+      "in_stock_count": 3
+    },
+    {
+      "id": "roti",
+      "name": "⬤ Roti",
+      "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti",
+      "product_count": 4,
+      "in_stock_count": 3
     }
   ],
   "brands": [
     "AN LUN",
     "AUTHOR",
     "BAFANG",
+    "BELELLI",
     "BETO",
     "BROSE",
     "CST",
