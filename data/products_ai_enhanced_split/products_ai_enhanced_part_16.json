@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-21T03:45:30.620312+00:00",
+  "last_updated": "2026-03-22T03:50:37.175107+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 16,
     "total_parts": 20,
     "product_range": "3751-4000",
-    "original_total": 4764
+    "original_total": 4763
   },
   "products": [
     {
@@ -257,7 +257,7 @@
       "category": "➤ Butuci Frana Disc",
       "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "secondary_categories": [
-        "e- MOBILITY > ➤ Componente E-Bike"
+        "e- MOBILITY > Componente E-Bike"
       ],
       "price": 539.0,
       "price_net": 445.45,
@@ -1592,7 +1592,7 @@
       "category": "➤ Sei",
       "category_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "secondary_categories": [
-        "e- MOBILITY > ➤ Accesorii E-Bike"
+        "e- MOBILITY > Accesorii E-Bike"
       ],
       "price": 97.9,
       "price_net": 80.91,
@@ -2542,7 +2542,7 @@
       "category": "➤ Anvelope pe Sârmă",
       "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "secondary_categories": [
-        "e- MOBILITY > ➤ Componente E-Bike"
+        "e- MOBILITY > Componente E-Bike"
       ],
       "price": 121.0,
       "price_net": 100.0,
@@ -2638,7 +2638,7 @@
       "category": "➤ Anvelope pe Sârmă",
       "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "secondary_categories": [
-        "e- MOBILITY > ➤ Componente E-Bike"
+        "e- MOBILITY > Componente E-Bike"
       ],
       "price": 121.0,
       "price_net": 100.0,
@@ -4199,7 +4199,7 @@
       "category": "➤ Foi Angrenaje",
       "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "secondary_categories": [
-        "e- MOBILITY > ➤ Angrenaje E-Bike"
+        "e- MOBILITY > Angrenaje E-Bike"
       ],
       "price": 218.9,
       "price_net": 180.91,
@@ -4232,7 +4232,7 @@
       "category": "➤ Foi Angrenaje",
       "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "secondary_categories": [
-        "e- MOBILITY > ➤ Angrenaje E-Bike"
+        "e- MOBILITY > Angrenaje E-Bike"
       ],
       "price": 198.0,
       "price_net": 163.64,
@@ -4755,7 +4755,7 @@
       "category": "➤ Anvelope Pliabile",
       "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
       "secondary_categories": [
-        "e- MOBILITY > ➤ Componente E-Bike"
+        "e- MOBILITY > Componente E-Bike"
       ],
       "price": 412.5,
       "price_net": 340.91,
@@ -4795,7 +4795,7 @@
       "category": "➤ Pionioane Filetate",
       "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "secondary_categories": [
-        "e- MOBILITY > ➤ Componente E-Bike"
+        "e- MOBILITY > Componente E-Bike"
       ],
       "price": 31.9,
       "price_net": 26.36,
@@ -4849,8 +4849,8 @@
       "ean": "2802251000000",
       "name": "Anvelopa Trotineta Electrica 8,5\"",
       "brand": "SXT",
-      "category": "➤ Trotinete Electrice",
-      "category_path": "e- MOBILITY > ➤ Trotinete Electrice",
+      "category": "Trotinete Electrice",
+      "category_path": "e- MOBILITY > Trotinete Electrice",
       "price": 66.0,
       "price_net": 54.55,
       "currency": "RON",
@@ -4864,8 +4864,8 @@
       "tags": [
         "E-Bike",
         "SXT",
-        "e- MOBILITY",
-        "➤ Trotinete Electrice"
+        "Trotinete Electrice",
+        "e- MOBILITY"
       ],
       "specs": {
         "bike_type": [
@@ -5148,8 +5148,8 @@
       "brand": "SXT",
       "category": "➤ Mansoane",
       "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
-      "price": 2.2,
-      "price_net": 1.82,
+      "price": 3.63,
+      "price_net": 3.0,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 468,
@@ -7132,8 +7132,8 @@
       "ean": "2802286000006",
       "name": "Motor BAFANG H600 E-Bike",
       "brand": "SXT",
-      "category": "➤ Motoare E-Bike",
-      "category_path": "e- MOBILITY > ➤ Motoare E-Bike",
+      "category": "Motoare E-Bike",
+      "category_path": "e- MOBILITY > Motoare E-Bike",
       "price": 935.0,
       "price_net": 772.73,
       "currency": "RON",
@@ -7146,9 +7146,9 @@
       ],
       "tags": [
         "E-Bike",
+        "Motoare E-Bike",
         "SXT",
-        "e- MOBILITY",
-        "➤ Motoare E-Bike"
+        "e- MOBILITY"
       ],
       "specs": {
         "bike_type": [
@@ -7162,8 +7162,8 @@
       "ean": "2802287000005",
       "name": "Furca Fixa E-Bike SXT 1.1/8 Aluminiu",
       "brand": "SXT",
-      "category": "➤ Motoare E-Bike",
-      "category_path": "e- MOBILITY > ➤ Motoare E-Bike",
+      "category": "Motoare E-Bike",
+      "category_path": "e- MOBILITY > Motoare E-Bike",
       "price": 605.0,
       "price_net": 500.0,
       "currency": "RON",
@@ -7179,9 +7179,9 @@
       "tags": [
         "Aluminiu",
         "E-Bike",
+        "Motoare E-Bike",
         "SXT",
-        "e- MOBILITY",
-        "➤ Motoare E-Bike"
+        "e- MOBILITY"
       ],
       "specs": {
         "bike_type": [
@@ -7196,8 +7196,8 @@
       "ean": "2802288000004",
       "name": "Cadru Urban Light SXT 700C - E-Bike Bafang Rear Hub Motor 50 cm- M",
       "brand": "SXT",
-      "category": "➤ Cadre - Furci E-Bike",
-      "category_path": "e- MOBILITY > ➤ Cadre - Furci E-Bike",
+      "category": "Cadre - Furci E-Bike",
+      "category_path": "e- MOBILITY > Cadre - Furci E-Bike",
       "price": 2420.0,
       "price_net": 2000.0,
       "currency": "RON",
@@ -7209,11 +7209,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/cadru-urban-light-sxt-700c-e-bike-bafang-rear-hub-motor-50-cm-m~8340817.jpg"
       ],
       "tags": [
+        "Cadre - Furci E-Bike",
         "City/Trekking",
         "E-Bike",
         "SXT",
-        "e- MOBILITY",
-        "➤ Cadre - Furci E-Bike"
+        "e- MOBILITY"
       ],
       "specs": {
         "bike_type": [
@@ -7228,8 +7228,8 @@
       "ean": "2802289000003",
       "name": "Cadru Urban Light SXT 700C - E-Bike Bafang Rear Hub Motor 54 cm - L",
       "brand": "SXT",
-      "category": "➤ Cadre - Furci E-Bike",
-      "category_path": "e- MOBILITY > ➤ Cadre - Furci E-Bike",
+      "category": "Cadre - Furci E-Bike",
+      "category_path": "e- MOBILITY > Cadre - Furci E-Bike",
       "price": 2420.0,
       "price_net": 2000.0,
       "currency": "RON",
@@ -7241,11 +7241,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/cadru-urban-light-sxt-700c-e-bike-bafang-rear-hub-motor-54-cm-l~8340820.jpg"
       ],
       "tags": [
+        "Cadre - Furci E-Bike",
         "City/Trekking",
         "E-Bike",
         "SXT",
-        "e- MOBILITY",
-        "➤ Cadre - Furci E-Bike"
+        "e- MOBILITY"
       ],
       "specs": {
         "bike_type": [
@@ -7260,8 +7260,8 @@
       "ean": "2802290000009",
       "name": "Display BAFANG C11 LCD 36 V",
       "brand": "BAFANG",
-      "category": "➤ Display - Manete E-Bike",
-      "category_path": "e- MOBILITY > ➤ Display - Manete E-Bike",
+      "category": "Display - Manete E-Bike",
+      "category_path": "e- MOBILITY > Display - Manete E-Bike",
       "price": 715.0,
       "price_net": 590.91,
       "currency": "RON",
@@ -7275,9 +7275,9 @@
       ],
       "tags": [
         "BAFANG",
+        "Display - Manete E-Bike",
         "E-Bike",
-        "e- MOBILITY",
-        "➤ Display - Manete E-Bike"
+        "e- MOBILITY"
       ],
       "specs": {
         "bike_type": [
@@ -7291,8 +7291,8 @@
       "ean": "2802291000008",
       "name": "Cablu Conectare Display BAFANG- 610513",
       "brand": "BAFANG",
-      "category": "➤ Componente E-Bike",
-      "category_path": "e- MOBILITY > ➤ Componente E-Bike",
+      "category": "Componente E-Bike",
+      "category_path": "e- MOBILITY > Componente E-Bike",
       "price": 110.0,
       "price_net": 90.91,
       "currency": "RON",
@@ -7305,9 +7305,9 @@
       ],
       "tags": [
         "BAFANG",
+        "Componente E-Bike",
         "E-Bike",
-        "e- MOBILITY",
-        "➤ Componente E-Bike"
+        "e- MOBILITY"
       ],
       "specs": {
         "bike_type": [
@@ -7473,11 +7473,25 @@
   ],
   "categories": [
     {
+      "id": "accesorii-e-bike",
+      "name": "Accesorii E-Bike",
+      "full_path": "e- MOBILITY > Accesorii E-Bike",
+      "product_count": 7,
+      "in_stock_count": 4
+    },
+    {
       "id": "amenajare-magazin",
       "name": "Amenajare Magazin",
       "full_path": "COMPONENTE > Amenajare Magazin",
       "product_count": 21,
       "in_stock_count": 9
+    },
+    {
+      "id": "angrenaje-e-bike",
+      "name": "Angrenaje E-Bike",
+      "full_path": "e- MOBILITY > Angrenaje E-Bike",
+      "product_count": 7,
+      "in_stock_count": 3
     },
     {
       "id": "antifurturi-alarme",
@@ -7501,10 +7515,38 @@
       "in_stock_count": 6
     },
     {
+      "id": "baterii-incarcatoare-e-bike",
+      "name": "Baterii -incarcatoare E-Bike",
+      "full_path": "e- MOBILITY > Baterii -incarcatoare E-Bike",
+      "product_count": 3,
+      "in_stock_count": 0
+    },
+    {
+      "id": "biciclete-single-speed-fixie",
+      "name": "Biciclete Single - SPEED - Fixie",
+      "full_path": "BICICLETE > Biciclete Single - SPEED - Fixie",
+      "product_count": 18,
+      "in_stock_count": 0
+    },
+    {
       "id": "bidoane-suporti-bidon",
       "name": "Bidoane - Suporti Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon",
       "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
+      "id": "cadre-furci-e-bike",
+      "name": "Cadre - Furci E-Bike",
+      "full_path": "e- MOBILITY > Cadre - Furci E-Bike",
+      "product_count": 11,
+      "in_stock_count": 5
+    },
+    {
+      "id": "componente-e-bike",
+      "name": "Componente E-Bike",
+      "full_path": "e- MOBILITY > Componente E-Bike",
+      "product_count": 3,
       "in_stock_count": 0
     },
     {
@@ -7520,6 +7562,13 @@
       "full_path": "ACCESORII > Cricuri Bicicleta",
       "product_count": 3,
       "in_stock_count": 3
+    },
+    {
+      "id": "display-manete-e-bike",
+      "name": "Display - Manete E-Bike",
+      "full_path": "e- MOBILITY > Display - Manete E-Bike",
+      "product_count": 10,
+      "in_stock_count": 0
     },
     {
       "id": "ghidoane-mansoane-pipe",
@@ -7562,6 +7611,13 @@
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
       "product_count": 50,
       "in_stock_count": 44
+    },
+    {
+      "id": "motoare-e-bike",
+      "name": "Motoare E-Bike",
+      "full_path": "e- MOBILITY > Motoare E-Bike",
+      "product_count": 9,
+      "in_stock_count": 1
     },
     {
       "id": "pantaloni-ciclism",
@@ -7634,6 +7690,13 @@
       "in_stock_count": 3
     },
     {
+      "id": "trotinete-electrice",
+      "name": "Trotinete Electrice",
+      "full_path": "e- MOBILITY > Trotinete Electrice",
+      "product_count": 39,
+      "in_stock_count": 12
+    },
+    {
       "id": "unelte-service",
       "name": "Unelte Service",
       "full_path": "COMPONENTE > Unelte Service",
@@ -7669,13 +7732,6 @@
       "in_stock_count": 1
     },
     {
-      "id": "accesorii-e-bike",
-      "name": "➤ Accesorii E-Bike",
-      "full_path": "e- MOBILITY > ➤ Accesorii E-Bike",
-      "product_count": 7,
-      "in_stock_count": 4
-    },
-    {
       "id": "accesorii-lumini",
       "name": "➤ Accesorii Lumini",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Accesorii Lumini",
@@ -7697,13 +7753,6 @@
       "in_stock_count": 15
     },
     {
-      "id": "angrenaje-e-bike",
-      "name": "➤ Angrenaje E-Bike",
-      "full_path": "e- MOBILITY > ➤ Angrenaje E-Bike",
-      "product_count": 7,
-      "in_stock_count": 3
-    },
-    {
       "id": "antifurturi-u-lock",
       "name": "➤ Antifurturi  U-Lock",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi  U-Lock",
@@ -7715,7 +7764,7 @@
       "name": "➤ Antifurturi Lant",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi Lant",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "antifurturi-pliabile",
@@ -7743,7 +7792,7 @@
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
       "product_count": 82,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "anvelope-pe-sarma",
@@ -7792,7 +7841,7 @@
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
       "product_count": 16,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "bagaje-ghidon",
@@ -7821,20 +7870,6 @@
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 33,
       "in_stock_count": 9
-    },
-    {
-      "id": "baterii-incarcatoare-e-bike",
-      "name": "➤ Baterii -incarcatoare E-Bike",
-      "full_path": "e- MOBILITY > ➤ Baterii -incarcatoare E-Bike",
-      "product_count": 3,
-      "in_stock_count": 0
-    },
-    {
-      "id": "biciclete-single-speed-fixie",
-      "name": "➤ Biciclete Single - SPEED - Fixie",
-      "full_path": "BICICLETE > ➤ Biciclete Single - SPEED - Fixie",
-      "product_count": 18,
-      "in_stock_count": 0
     },
     {
       "id": "bidoane-ciclism",
@@ -7891,13 +7926,6 @@
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Cabluri",
       "product_count": 15,
       "in_stock_count": 10
-    },
-    {
-      "id": "cadre-furci-e-bike",
-      "name": "➤ Cadre - Furci E-Bike",
-      "full_path": "e- MOBILITY > ➤ Cadre - Furci E-Bike",
-      "product_count": 11,
-      "in_stock_count": 5
     },
     {
       "id": "cadre-ssp-fixie",
@@ -7970,13 +7998,6 @@
       "in_stock_count": 15
     },
     {
-      "id": "componente-e-bike",
-      "name": "➤ Componente E-Bike",
-      "full_path": "e- MOBILITY > ➤ Componente E-Bike",
-      "product_count": 3,
-      "in_stock_count": 0
-    },
-    {
       "id": "cosuri-transport-fata",
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
@@ -8017,13 +8038,6 @@
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
       "product_count": 17,
       "in_stock_count": 10
-    },
-    {
-      "id": "display-manete-e-bike",
-      "name": "➤ Display - Manete E-Bike",
-      "full_path": "e- MOBILITY > ➤ Display - Manete E-Bike",
-      "product_count": 10,
-      "in_stock_count": 0
     },
     {
       "id": "echipamente-service-biciclete",
@@ -8155,15 +8169,15 @@
       "id": "mansoane",
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
-      "product_count": 94,
-      "in_stock_count": 82
+      "product_count": 93,
+      "in_stock_count": 81
     },
     {
       "id": "mantale",
       "name": "➤ Mantale",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Mantale",
       "product_count": 14,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "mini-pompe",
@@ -8178,13 +8192,6 @@
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
       "product_count": 48,
       "in_stock_count": 43
-    },
-    {
-      "id": "motoare-e-bike",
-      "name": "➤ Motoare E-Bike",
-      "full_path": "e- MOBILITY > ➤ Motoare E-Bike",
-      "product_count": 9,
-      "in_stock_count": 1
     },
     {
       "id": "nipluri-accesorii",
@@ -8344,8 +8351,8 @@
       "id": "saboti-frana",
       "name": "➤ Saboti Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Saboti Frana",
-      "product_count": 13,
-      "in_stock_count": 8
+      "product_count": 14,
+      "in_stock_count": 9
     },
     {
       "id": "scaune-bicicleta-copii",
@@ -8472,13 +8479,6 @@
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii > ➤ Transport Copii",
       "product_count": 1,
       "in_stock_count": 0
-    },
-    {
-      "id": "trotinete-electrice",
-      "name": "➤ Trotinete Electrice",
-      "full_path": "e- MOBILITY > ➤ Trotinete Electrice",
-      "product_count": 39,
-      "in_stock_count": 12
     },
     {
       "id": "truse-unelte-mini-truse",
