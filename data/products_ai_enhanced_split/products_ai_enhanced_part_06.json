@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-22T03:50:37.175107+00:00",
+  "last_updated": "2026-03-23T03:55:43.935268+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 6,
-    "total_parts": 20,
+    "total_parts": 19,
     "product_range": "1251-1500",
-    "original_total": 4763
+    "original_total": 4670
   },
   "products": [
     {
@@ -3418,32 +3418,6 @@
       "specs": {
         "color": "Negru"
       }
-    },
-    {
-      "id": "D001381",
-      "sku": "D001381",
-      "ean": "8581500013810",
-      "name": "Borseta Cadru EXTEND TWINA",
-      "brand": "SXT",
-      "category": "➤ Bagaje Cadru",
-      "category_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
-      "price": 181.5,
-      "price_net": 150.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/borseta-cadru-extend-twina.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/borseta-cadru-extend-twina~8288962.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/borseta-cadru-extend-twina~8288962.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/borseta-cadru-extend-twina~8289550.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/borseta-cadru-extend-twina~8289553.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "SXT",
-        "➤ Bagaje Cadru"
-      ]
     },
     {
       "id": "326274",
@@ -7123,8 +7097,8 @@
       "brand": "SHIMANO",
       "category": "➤ Manete Schimbator",
       "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Manete Schimbator",
-      "price": 38.5,
-      "price_net": 31.82,
+      "price": 45.0,
+      "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 87,
@@ -7297,8 +7271,8 @@
       "price": 658.9,
       "price_net": 544.55,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.62,
       "url": "https://www.bikestylish.ro/pinion-casetat-shimano-xt-11-v-11-46-t-cs-m8000.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-casetat-shimano-xt-11-v-11-46-t-cs-m8000~8289361.jpg",
@@ -7401,6 +7375,35 @@
         "material": "Aluminiu",
         "color": "Silver",
         "valve_type": "Schrader (AV)"
+      }
+    },
+    {
+      "id": "M631.622.32.04-10",
+      "sku": "M631.622.32.04-10",
+      "ean": "M631.622.32.04-10",
+      "name": "Janta MACH1 KARMA 29(622 x 21C) 32H",
+      "brand": "MACH1",
+      "category": "➤ Jante pentru Frane Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "price": 143.0,
+      "price_net": 118.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.55,
+      "url": "https://www.bikestylish.ro/janta-mach1-karma-29-622-x-21c-32h.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach1-karma-29-622-x-21c-32h~12381912.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach1-karma-29-622-x-21c-32h~12381912.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/janta-mach1-karma-29-622-x-21c-32h~8290198.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "MACH1",
+        "➤ Jante pentru Frane Disc"
+      ],
+      "specs": {
+        "dimensions": "622 x 21"
       }
     }
   ],
@@ -7773,7 +7776,7 @@
       "id": "bagaje-cadru",
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
-      "product_count": 16,
+      "product_count": 15,
       "in_stock_count": 15
     },
     {
@@ -7998,7 +8001,7 @@
       "name": "➤ Frane Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
       "product_count": 15,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "frane-v-break",
@@ -8074,8 +8077,8 @@
       "id": "lumini-spate",
       "name": "➤ Lumini Spate",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
-      "product_count": 33,
-      "in_stock_count": 26
+      "product_count": 32,
+      "in_stock_count": 25
     },
     {
       "id": "manete-frana",
@@ -8180,7 +8183,7 @@
       "name": "➤ Pinioane Casetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pinioane Casetate",
       "product_count": 9,
-      "in_stock_count": 5
+      "in_stock_count": 2
     },
     {
       "id": "pionioane-filetate",
@@ -8299,7 +8302,7 @@
       "name": "➤ Schimbatoare Fata",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Fata",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "schimbatoare-spate",
@@ -8361,8 +8364,8 @@
       "id": "spite-stainless-2-3-mm",
       "name": "➤ Spite Stainless - 2,3 mm",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless - 2,3 mm",
-      "product_count": 10,
-      "in_stock_count": 6
+      "product_count": 9,
+      "in_stock_count": 5
     },
     {
       "id": "spite-stainless-aero",

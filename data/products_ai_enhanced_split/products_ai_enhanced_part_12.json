@@ -1,64 +1,14 @@
 {
-  "last_updated": "2026-03-22T03:50:37.175107+00:00",
+  "last_updated": "2026-03-23T03:55:43.935268+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 12,
-    "total_parts": 20,
+    "total_parts": 19,
     "product_range": "2751-3000",
-    "original_total": 4763
+    "original_total": 4670
   },
   "products": [
-    {
-      "id": "D454",
-      "sku": "D454",
-      "ean": "7290107114639",
-      "name": "Ureche Cadru PILO D454 Intense",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 385.0,
-      "price_net": 318.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d454-intense.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d454-intense~8330932.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d454-intense~8330932.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D267",
-      "sku": "D267",
-      "ean": "7290107112550",
-      "name": "Ureche Cadru PILO D267 Astrix",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 385.0,
-      "price_net": 318.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d267-astrix.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d267-astrix~8330935.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d267-astrix~8330935.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D458",
       "sku": "D458",
@@ -6318,6 +6268,57 @@
       "specs": {
         "color": "Silver"
       }
+    },
+    {
+      "id": "D675",
+      "sku": "D675",
+      "ean": "7290107117036",
+      "name": "Ureche Cadru PILO D675 Orbea",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 247.5,
+      "price_net": 204.55,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d675-orbea.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d675-orbea~8331775.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d675-orbea~8331775.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D651",
+      "sku": "D651",
+      "ean": "7290107116787",
+      "name": "Ureche Cadru PILO D651 Scott",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 165.0,
+      "price_net": 136.36,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d651-scott.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d651-scott~8331778.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d651-scott~8331778.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d651-scott~8331781.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6689,7 +6690,7 @@
       "id": "bagaje-cadru",
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
-      "product_count": 16,
+      "product_count": 15,
       "in_stock_count": 15
     },
     {
@@ -6914,7 +6915,7 @@
       "name": "➤ Frane Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
       "product_count": 15,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "frane-v-break",
@@ -6990,8 +6991,8 @@
       "id": "lumini-spate",
       "name": "➤ Lumini Spate",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
-      "product_count": 33,
-      "in_stock_count": 26
+      "product_count": 32,
+      "in_stock_count": 25
     },
     {
       "id": "manete-frana",
@@ -7096,7 +7097,7 @@
       "name": "➤ Pinioane Casetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pinioane Casetate",
       "product_count": 9,
-      "in_stock_count": 5
+      "in_stock_count": 2
     },
     {
       "id": "pionioane-filetate",
@@ -7215,7 +7216,7 @@
       "name": "➤ Schimbatoare Fata",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Fata",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "schimbatoare-spate",
@@ -7277,8 +7278,8 @@
       "id": "spite-stainless-2-3-mm",
       "name": "➤ Spite Stainless - 2,3 mm",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless - 2,3 mm",
-      "product_count": 10,
-      "in_stock_count": 6
+      "product_count": 9,
+      "in_stock_count": 5
     },
     {
       "id": "spite-stainless-aero",

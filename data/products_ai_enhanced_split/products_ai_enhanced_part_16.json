@@ -1,68 +1,14 @@
 {
-  "last_updated": "2026-03-22T03:50:37.175107+00:00",
+  "last_updated": "2026-03-23T03:55:43.935268+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 16,
-    "total_parts": 20,
+    "total_parts": 19,
     "product_range": "3751-4000",
-    "original_total": 4763
+    "original_total": 4670
   },
   "products": [
-    {
-      "id": "3580",
-      "sku": "3580",
-      "name": "Anvelopa CST 20x4.00 (100-406) Negru CTC-06 Rigid",
-      "brand": "CST",
-      "category": "➤ Anvelope pe Sârmă",
-      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "price": 165.0,
-      "price_net": 136.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/anvelopa-cst-20x4-00-100-406-negru-ctc-06-rigid.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-cst-20x4-00-100-406-negru-ctc-06-rigid~8338555.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-cst-20x4-00-100-406-negru-ctc-06-rigid~8338555.jpg"
-      ],
-      "tags": [
-        "20 inch",
-        "COMPONENTE",
-        "CST",
-        "➤ Anvelope pe Sârmă"
-      ],
-      "specs": {
-        "wheel_size": "20",
-        "color": "Negru",
-        "dimensions": "20 x 4.00"
-      }
-    },
-    {
-      "id": "IVC022",
-      "sku": "IVC022",
-      "ean": "8051772126322",
-      "name": "Cheie Ax Pedalier SXT DX- 36 mm",
-      "brand": "SXT",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "price": 192.5,
-      "price_net": 159.09,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/cheie-ax-pedalier-sxt-dx-36-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cheie-ax-pedalier-sxt-dx-36-mm~8338558.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/cheie-ax-pedalier-sxt-dx-36-mm~8338558.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/cheie-ax-pedalier-sxt-dx-36-mm~8338561.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SXT",
-        "➤ Unelte Speciale Biciclete"
-      ]
-    },
     {
       "id": "325360",
       "sku": "325360",
@@ -6652,8 +6598,8 @@
       "brand": "SHIMANO",
       "category": "➤ Pinioane Casetate",
       "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pinioane Casetate",
-      "price": 82.5,
-      "price_net": 68.18,
+      "price": 69.0,
+      "price_net": 57.02,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 15,
@@ -7469,6 +7415,67 @@
       "specs": {
         "dimensions": "000 x 8"
       }
+    },
+    {
+      "id": "700111",
+      "sku": "700111",
+      "name": "Pinion Freewheel 1v SXT Silver 18T",
+      "brand": "SXT",
+      "category": "➤ Pionioane Filetate",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
+      "price": 24.2,
+      "price_net": 20.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 99,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/pinion-freewheel-1v-sxt-silver-18t.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pinion-freewheel-1v-sxt-silver-18t~8340853.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/pinion-freewheel-1v-sxt-silver-18t~8340853.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/pinion-freewheel-1v-sxt-silver-18t~8340856.jpg"
+      ],
+      "tags": [
+        "1 viteze",
+        "COMPONENTE",
+        "SXT",
+        "➤ Pionioane Filetate"
+      ],
+      "specs": {
+        "color": "Silver",
+        "speeds": 1
+      }
+    },
+    {
+      "id": "700112",
+      "sku": "700112",
+      "ean": "2802323000006",
+      "name": "Pinion Freewheel 1v SXT Silver 16T",
+      "brand": "SXT",
+      "category": "➤ Pionioane Filetate",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
+      "price": 24.2,
+      "price_net": 20.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.2,
+      "url": "https://www.bikestylish.ro/pinion-freewheel-1v-sxt-silver-16t.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-freewheel-1v-sxt-silver-16t~8340859.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-freewheel-1v-sxt-silver-16t~8340859.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/pinion-freewheel-1v-sxt-silver-16t~8340862.jpg"
+      ],
+      "tags": [
+        "1 viteze",
+        "COMPONENTE",
+        "SXT",
+        "➤ Pionioane Filetate"
+      ],
+      "specs": {
+        "color": "Silver",
+        "speeds": 1
+      }
     }
   ],
   "categories": [
@@ -7840,7 +7847,7 @@
       "id": "bagaje-cadru",
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
-      "product_count": 16,
+      "product_count": 15,
       "in_stock_count": 15
     },
     {
@@ -8065,7 +8072,7 @@
       "name": "➤ Frane Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
       "product_count": 15,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "frane-v-break",
@@ -8141,8 +8148,8 @@
       "id": "lumini-spate",
       "name": "➤ Lumini Spate",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
-      "product_count": 33,
-      "in_stock_count": 26
+      "product_count": 32,
+      "in_stock_count": 25
     },
     {
       "id": "manete-frana",
@@ -8247,7 +8254,7 @@
       "name": "➤ Pinioane Casetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pinioane Casetate",
       "product_count": 9,
-      "in_stock_count": 5
+      "in_stock_count": 2
     },
     {
       "id": "pionioane-filetate",
@@ -8366,7 +8373,7 @@
       "name": "➤ Schimbatoare Fata",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Fata",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "schimbatoare-spate",
@@ -8428,8 +8435,8 @@
       "id": "spite-stainless-2-3-mm",
       "name": "➤ Spite Stainless - 2,3 mm",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless - 2,3 mm",
-      "product_count": 10,
-      "in_stock_count": 6
+      "product_count": 9,
+      "in_stock_count": 5
     },
     {
       "id": "spite-stainless-aero",
