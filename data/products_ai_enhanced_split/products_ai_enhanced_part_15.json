@@ -1,39 +1,14 @@
 {
-  "last_updated": "2026-03-24T03:49:27.923141+00:00",
+  "last_updated": "2026-03-25T03:50:37.466088+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 15,
     "total_parts": 19,
     "product_range": "3501-3750",
-    "original_total": 4670
+    "original_total": 4669
   },
   "products": [
-    {
-      "id": "D181",
-      "sku": "D181",
-      "ean": "7290107111706",
-      "name": "Ureche Cadru PILO D181 Scott RANSOM",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 319.0,
-      "price_net": 263.64,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d181-scott-ransom.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d181-scott-ransom~8335954.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d181-scott-ransom~8335954.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D71",
       "sku": "D71",
@@ -528,7 +503,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 540,
+      "stock_quantity": 534,
       "weight_kg": 0.26,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-26x1-95-2-50-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/camera-standard-vittoria-26x1-95-2-50-av-schrader-48mm~8336050.jpg",
@@ -7724,6 +7699,34 @@
         "SXT",
         "➤ Unelte Speciale Biciclete"
       ]
+    },
+    {
+      "id": "325360",
+      "sku": "325360",
+      "ean": "4015493320210",
+      "name": "Butuc Fata NOVATEC A 171SB 20H Negru 100 mm",
+      "brand": "NOVATEC",
+      "category": "➤ Butuci V-Break - Dinam",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
+      "price": 198.0,
+      "price_net": 163.64,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 0.12,
+      "url": "https://www.bikestylish.ro/butuc-fata-novatec-a-171sb-20h-negru-100-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/butuc-fata-novatec-a-171sb-20h-negru-100-mm~8338564.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/butuc-fata-novatec-a-171sb-20h-negru-100-mm~8338564.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "NOVATEC",
+        "➤ Butuci V-Break - Dinam"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -8054,7 +8057,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 181,
-      "in_stock_count": 126
+      "in_stock_count": 125
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -8173,7 +8176,7 @@
       "name": "➤ Butuci V-Break - Dinam",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
       "product_count": 52,
-      "in_stock_count": 41
+      "in_stock_count": 42
     },
     {
       "id": "cabluri",
@@ -8193,7 +8196,7 @@
       "id": "camere-de-bicicleta",
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "product_count": 87,
+      "product_count": 86,
       "in_stock_count": 56
     },
     {
@@ -8488,7 +8491,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 143,
-      "in_stock_count": 109
+      "in_stock_count": 108
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8677,7 +8680,7 @@
       "name": "➤ Spite Stainless",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 95
+      "in_stock_count": 94
     },
     {
       "id": "spite-stainless-2-3-mm",

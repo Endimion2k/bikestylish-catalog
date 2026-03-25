@@ -1,47 +1,14 @@
 {
-  "last_updated": "2026-03-24T03:49:27.923141+00:00",
+  "last_updated": "2026-03-25T03:50:37.466088+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 18,
     "total_parts": 19,
     "product_range": "4251-4500",
-    "original_total": 4670
+    "original_total": 4669
   },
   "products": [
-    {
-      "id": "311923",
-      "sku": "311923",
-      "ean": "0664533242469",
-      "name": "Pedale SXT N-13 Nylon-Fiber Purple",
-      "brand": "SXT",
-      "category": "➤ Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
-      "price": 110.0,
-      "price_net": 90.91,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 83,
-      "weight_kg": 0.42,
-      "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-purple.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-sxt-n-13-nylon-fiber-purple~8342788.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-sxt-n-13-nylon-fiber-purple~8342788.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-sxt-n-13-nylon-fiber-purple~11325603.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-sxt-n-13-nylon-fiber-purple~8342791.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-sxt-n-13-nylon-fiber-purple~8342794.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "Nylon",
-        "SXT",
-        "➤ Pedale Platforma"
-      ],
-      "specs": {
-        "material": "Nylon",
-        "color": "Purple"
-      }
-    },
     {
       "id": "311924",
       "sku": "311924",
@@ -2270,7 +2237,7 @@
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 97,
+      "stock_quantity": 95,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/maneta-frana-sxt-2-3-deg-aluminiu-negru-dreapta.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/maneta-frana-sxt-2-3-deg-aluminiu-negru-dreapta~8343673.jpg",
@@ -2813,7 +2780,7 @@
       "price_net": 20.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 26,
+      "stock_quantity": 25,
       "url": "https://www.bikestylish.ro/pinion-freewheel-1v-sxt-16t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pinion-freewheel-1v-sxt-16t~8343796.jpg",
       "images": [
@@ -5969,7 +5936,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 156,
+      "stock_quantity": 155,
       "weight_kg": 0.95,
       "url": "https://www.bikestylish.ro/roti-ajutatoare-pentru-bicicletele-de-copii-cu-viteze-16-20-sxt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/roti-ajutatoare-pentru-bicicletele-de-copii-cu-viteze-16-20-sxt~10362231.jpg",
@@ -7221,6 +7188,38 @@
       "specs": {
         "color": "Grey"
       }
+    },
+    {
+      "id": "311107",
+      "sku": "311107",
+      "ean": "887539034870",
+      "name": "PEDALE SXT STEADY-A 2 NEGRU",
+      "brand": "SXT",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "price": 71.5,
+      "price_net": 59.09,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 56,
+      "weight_kg": 0.3,
+      "url": "https://www.bikestylish.ro/pedale-sxt-steady-a-2-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-sxt-steady-a-2-negru~11424657.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-sxt-steady-a-2-negru~11424657.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-sxt-steady-a-2-negru~11424660.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-sxt-steady-a-2-negru~11424663.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-sxt-steady-a-2-negru~11424402.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-sxt-steady-a-2-negru~11424405.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -7551,7 +7550,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 181,
-      "in_stock_count": 126
+      "in_stock_count": 125
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7670,7 +7669,7 @@
       "name": "➤ Butuci V-Break - Dinam",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
       "product_count": 52,
-      "in_stock_count": 41
+      "in_stock_count": 42
     },
     {
       "id": "cabluri",
@@ -7690,7 +7689,7 @@
       "id": "camere-de-bicicleta",
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "product_count": 87,
+      "product_count": 86,
       "in_stock_count": 56
     },
     {
@@ -7985,7 +7984,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 143,
-      "in_stock_count": 109
+      "in_stock_count": 108
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8174,7 +8173,7 @@
       "name": "➤ Spite Stainless",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 95
+      "in_stock_count": 94
     },
     {
       "id": "spite-stainless-2-3-mm",
