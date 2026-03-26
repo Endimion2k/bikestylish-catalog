@@ -1,39 +1,14 @@
 {
-  "last_updated": "2026-03-25T03:50:37.466088+00:00",
+  "last_updated": "2026-03-26T03:59:03.035379+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 12,
     "total_parts": 19,
     "product_range": "2751-3000",
-    "original_total": 4669
+    "original_total": 4672
   },
   "products": [
-    {
-      "id": "D270",
-      "sku": "D270",
-      "ean": "7290107112581",
-      "name": "Ureche Cadru PILO D270 Centurion, Cinelli proxima, Colnago",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 121.0,
-      "price_net": 100.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d270-centurion-cinelli-proxima-colnago.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d270-centurion-cinelli-proxima-colnago~8330941.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d270-centurion-cinelli-proxima-colnago~8330941.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D461",
       "sku": "D461",
@@ -5045,7 +5020,7 @@
       "price_net": 113.64,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d261-kona.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d261-kona~8331604.jpg",
@@ -6323,6 +6298,31 @@
         "PILO",
         "➤ Urechi Cadru"
       ]
+    },
+    {
+      "id": "D672",
+      "sku": "D672",
+      "ean": "7290107117005",
+      "name": "Ureche Cadru PILO D672 Focus",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 121.0,
+      "price_net": 100.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d672-focus.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d672-focus~8331799.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d672-focus~8331799.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6344,8 +6344,8 @@
       "id": "angrenaje-e-bike",
       "name": "Angrenaje E-Bike",
       "full_path": "e- MOBILITY > Angrenaje E-Bike",
-      "product_count": 7,
-      "in_stock_count": 3
+      "product_count": 14,
+      "in_stock_count": 10
     },
     {
       "id": "antifurturi-alarme",
@@ -6401,7 +6401,7 @@
       "name": "Componente E-Bike",
       "full_path": "e- MOBILITY > Componente E-Bike",
       "product_count": 3,
-      "in_stock_count": 0
+      "in_stock_count": 1
     },
     {
       "id": "cosuri-transport",
@@ -6680,7 +6680,7 @@
       "id": "axe-accesorii-butuci",
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
-      "product_count": 60,
+      "product_count": 59,
       "in_stock_count": 41
     },
     {
@@ -6884,7 +6884,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 21
+      "in_stock_count": 23
     },
     {
       "id": "discuri-rotoare",
@@ -6912,28 +6912,28 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 24,
-      "in_stock_count": 11
+      "in_stock_count": 13
     },
     {
       "id": "frane-disc",
       "name": "➤ Frane Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
       "product_count": 15,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "frane-v-break",
       "name": "➤ Frane V - Break",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
       "product_count": 12,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "furci",
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 26,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "ghidoane",
@@ -6968,7 +6968,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 45,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7122,7 +7122,7 @@
       "name": "➤ Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
       "product_count": 29,
-      "in_stock_count": 19
+      "in_stock_count": 17
     },
     {
       "id": "pompe-furca-tubeless",
@@ -7276,7 +7276,7 @@
       "name": "➤ Spite Stainless",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 94
+      "in_stock_count": 85
     },
     {
       "id": "spite-stainless-2-3-mm",
@@ -7345,7 +7345,7 @@
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 180,
+      "product_count": 181,
       "in_stock_count": 144
     },
     {

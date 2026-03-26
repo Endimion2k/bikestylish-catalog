@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-25T03:50:37.466088+00:00",
+  "last_updated": "2026-03-26T03:59:03.035379+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4669
+    "original_total": 4672
   },
   "products": [
     {
@@ -53,7 +53,7 @@
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/sa-cu-arc-ventura-245-210-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sa-cu-arc-ventura-245-210-mm~8324764.jpg",
@@ -478,7 +478,7 @@
       "price_net": 0.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11482,
+      "stock_quantity": 10982,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/niplu-brass-14-2-mm-negru-cnspoke.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/niplu-brass-14-2-mm-negru-cnspoke~8324872.jpg",
@@ -1642,7 +1642,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 81,
+      "stock_quantity": 78,
       "weight_kg": 0.13,
       "url": "https://www.bikestylish.ro/aparatoare-angrenaj-sxt-42-44-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/aparatoare-angrenaj-sxt-42-44-t~8325286.jpg",
@@ -1668,7 +1668,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 96,
+      "stock_quantity": 93,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/aparatoare-angrenaj-sxt-46-48-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/aparatoare-angrenaj-sxt-46-48-t~8325292.jpg",
@@ -2834,7 +2834,7 @@
       "price_net": 48.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/ghidon-touring-sxt-metal-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-touring-sxt-metal-negru~8325664.jpg",
@@ -3268,7 +3268,7 @@
       "price_net": 26.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 81,
+      "stock_quantity": 78,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-4-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-4-negru~8325799.jpg",
@@ -7080,8 +7080,8 @@
       "id": "angrenaje-e-bike",
       "name": "Angrenaje E-Bike",
       "full_path": "e- MOBILITY > Angrenaje E-Bike",
-      "product_count": 7,
-      "in_stock_count": 3
+      "product_count": 14,
+      "in_stock_count": 10
     },
     {
       "id": "antifurturi-alarme",
@@ -7137,7 +7137,7 @@
       "name": "Componente E-Bike",
       "full_path": "e- MOBILITY > Componente E-Bike",
       "product_count": 3,
-      "in_stock_count": 0
+      "in_stock_count": 1
     },
     {
       "id": "cosuri-transport",
@@ -7416,7 +7416,7 @@
       "id": "axe-accesorii-butuci",
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
-      "product_count": 60,
+      "product_count": 59,
       "in_stock_count": 41
     },
     {
@@ -7620,7 +7620,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 21
+      "in_stock_count": 23
     },
     {
       "id": "discuri-rotoare",
@@ -7648,28 +7648,28 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 24,
-      "in_stock_count": 11
+      "in_stock_count": 13
     },
     {
       "id": "frane-disc",
       "name": "➤ Frane Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
       "product_count": 15,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "frane-v-break",
       "name": "➤ Frane V - Break",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
       "product_count": 12,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "furci",
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 26,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "ghidoane",
@@ -7704,7 +7704,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 45,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7858,7 +7858,7 @@
       "name": "➤ Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
       "product_count": 29,
-      "in_stock_count": 19
+      "in_stock_count": 17
     },
     {
       "id": "pompe-furca-tubeless",
@@ -8012,7 +8012,7 @@
       "name": "➤ Spite Stainless",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 94
+      "in_stock_count": 85
     },
     {
       "id": "spite-stainless-2-3-mm",
@@ -8081,7 +8081,7 @@
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 180,
+      "product_count": 181,
       "in_stock_count": 144
     },
     {

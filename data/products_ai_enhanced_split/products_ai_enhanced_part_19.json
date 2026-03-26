@@ -1,79 +1,14 @@
 {
-  "last_updated": "2026-03-25T03:50:37.466088+00:00",
-  "total_products": 169,
+  "last_updated": "2026-03-26T03:59:03.035379+00:00",
+  "total_products": 172,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 19,
     "total_parts": 19,
-    "product_range": "4501-4669",
-    "original_total": 4669
+    "product_range": "4501-4672",
+    "original_total": 4672
   },
   "products": [
-    {
-      "id": "321086",
-      "sku": "321086",
-      "ean": "887539023744",
-      "name": "THRU AXLE 12x100 MM NOVATEC",
-      "brand": "NOVATEC",
-      "category": "➤ Axe - Accesorii Butuci",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
-      "price": 192.5,
-      "price_net": 159.09,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.8,
-      "url": "https://www.bikestylish.ro/thru-axle-12x100-mm-novatec.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/thru-axle-12x100-mm-novatec~11426649.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/thru-axle-12x100-mm-novatec~11426649.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/thru-axle-12x100-mm-novatec~11426652.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/thru-axle-12x100-mm-novatec~11426655.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/thru-axle-12x100-mm-novatec~11426658.jpg"
-      ],
-      "tags": [
-        "12 inch",
-        "COMPONENTE",
-        "NOVATEC",
-        "➤ Axe - Accesorii Butuci"
-      ],
-      "specs": {
-        "wheel_size": "12",
-        "dimensions": "12 x 100"
-      }
-    },
-    {
-      "id": "325268",
-      "sku": "325268",
-      "ean": "4015493320500",
-      "name": "BUTUC NOVATEC ROAD SUPER LIGHT FATA 32H",
-      "brand": "NOVATEC",
-      "category": "➤ Butuci V-Break - Dinam",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
-      "price": 236.5,
-      "price_net": 195.45,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.22,
-      "url": "https://www.bikestylish.ro/butuc-novatec-road-super-light-fata-32h.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/butuc-novatec-road-super-light-fata-32h~11426622.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/butuc-novatec-road-super-light-fata-32h~11426622.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-novatec-road-super-light-fata-32h~11426625.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "NOVATEC",
-        "Road",
-        "➤ Butuci V-Break - Dinam"
-      ],
-      "specs": {
-        "bike_type": [
-          "Road"
-        ]
-      }
-    },
     {
       "id": "326435",
       "sku": "326435",
@@ -195,21 +130,6 @@
       "availability": "in_stock",
       "stock_quantity": 42,
       "url": "https://www.bikestylish.ro/cablu-frana-promax-inox.html",
-      "image": "None",
-      "images": [
-        "None"
-      ]
-    },
-    {
-      "id": "380327",
-      "sku": "380327",
-      "name": "JANTA XCO RIO 27.5",
-      "price": 0.0,
-      "price_net": 0.0,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "url": "https://www.bikestylish.ro/janta-xco-rio-27-5.html",
       "image": "None",
       "images": [
         "None"
@@ -403,28 +323,6 @@
         "AN LUN",
         "➤ Lumini Spate"
       ]
-    },
-    {
-      "id": "514313",
-      "sku": "514313",
-      "name": "CAMERA KENDA 26 x 1.75 - 2.12 AV-35mm OEM",
-      "price": 0.0,
-      "price_net": 0.0,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "url": "https://www.bikestylish.ro/camera-kenda-26-x-1-75-2-12-av-35mm-oem.html",
-      "image": "None",
-      "images": [
-        "None"
-      ],
-      "tags": [
-        "Schrader"
-      ],
-      "specs": {
-        "dimensions": "26 x 1.75 - 2.12",
-        "valve_type": "Schrader (AV)"
-      }
     },
     {
       "id": "519100",
@@ -1328,16 +1226,26 @@
     {
       "id": "IXE010",
       "sku": "IXE010",
+      "ean": "8051772126841",
       "name": "CHEIE SUNTOUR- 4 CLEATS",
-      "price": 0.0,
-      "price_net": 0.0,
+      "brand": "M-WAVE",
+      "category": "➤ Unelte Speciale Biciclete",
+      "category_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "price": 59.0,
+      "price_net": 48.76,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 5,
+      "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/cheie-suntour-4-cleats.html",
-      "image": "None",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/cheie-suntour-4-cleats~12846885.jpg",
       "images": [
-        "None"
+        "https://s2.cdnmpro.com/861667841/p/raw/5/cheie-suntour-4-cleats~12846885.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "➤ Unelte Speciale Biciclete"
       ]
     },
     {
@@ -1759,7 +1667,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 79,
+      "stock_quantity": 78,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-sxt-n-13-nylon-fiber-rosu~11326203.jpg",
@@ -1916,7 +1824,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 467,
+      "stock_quantity": 465,
       "url": "https://www.bikestylish.ro/pompa-mini-sxt-p100-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pompa-mini-sxt-p100-negru~11326305.jpg",
       "images": [
@@ -2246,7 +2154,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 288,
+      "stock_quantity": 287,
       "url": "https://www.bikestylish.ro/mansoane-junior-sxt-b007-purple.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/mansoane-junior-sxt-b007-purple~11363151.jpg",
       "images": [
@@ -2306,7 +2214,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 293,
+      "stock_quantity": 292,
       "url": "https://www.bikestylish.ro/mansoane-junior-sxt-b007-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-junior-sxt-b007-rosu~11363160.jpg",
       "images": [
@@ -3541,7 +3449,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 9,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/set-leviere-metal-super-b-tb-tl21.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-leviere-metal-super-b-tb-tl21~12073464.jpg",
@@ -3694,7 +3602,7 @@
       "price_net": 109.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 20,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/pinion-casetat-shimano-cs-lg300-9-cues-11-36t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pinion-casetat-shimano-cs-lg300-9-cues-11-36t~12073584.jpg",
@@ -4099,7 +4007,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 63,
+      "stock_quantity": 59,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid~12342588.jpg",
@@ -4197,7 +4105,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 1520,
+      "stock_quantity": 1500,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm-oem.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm-oem~12346995.jpg",
@@ -4258,7 +4166,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 1420,
+      "stock_quantity": 1380,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-29x1-95-2-50-av-schrader-48mm-oem.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-standard-vittoria-29x1-95-2-50-av-schrader-48mm-oem~12345645.jpg",
@@ -4483,6 +4391,215 @@
         "SXT",
         "⬤ Roti"
       ]
+    },
+    {
+      "id": "356293",
+      "sku": "356293",
+      "name": "Set Surub +Piulita Foaie Angrenaj SXT Negru",
+      "brand": "SXT",
+      "category": "Angrenaje E-Bike",
+      "category_path": "e- MOBILITY > Angrenaje E-Bike",
+      "price": 49.5,
+      "price_net": 40.91,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 5,
+      "url": "https://www.bikestylish.ro/set-surub-piulita-foaie-angrenaj-sxt-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-surub-piulita-foaie-angrenaj-sxt-negru~12846888.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/set-surub-piulita-foaie-angrenaj-sxt-negru~12846888.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/set-surub-piulita-foaie-angrenaj-sxt-negru~12846891.jpg"
+      ],
+      "tags": [
+        "Angrenaje E-Bike",
+        "E-Bike",
+        "SXT",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ],
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "352603",
+      "sku": "352603",
+      "name": "Brat Angrenaj SXT 170 mm JIS 0 mm Offset Dreapta",
+      "brand": "SXT",
+      "category": "Angrenaje E-Bike",
+      "category_path": "e- MOBILITY > Angrenaje E-Bike",
+      "price": 95.0,
+      "price_net": 78.51,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 5,
+      "url": "https://www.bikestylish.ro/brat-angrenaj-sxt-170-mm-jis-0-mm-offset-dreapta.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/brat-angrenaj-sxt-170-mm-jis-0-mm-offset-dreapta~12846894.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/brat-angrenaj-sxt-170-mm-jis-0-mm-offset-dreapta~12846894.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/brat-angrenaj-sxt-170-mm-jis-0-mm-offset-dreapta~12846897.jpg"
+      ],
+      "tags": [
+        "Angrenaje E-Bike",
+        "E-Bike",
+        "SXT",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
+      }
+    },
+    {
+      "id": "352602",
+      "sku": "352602",
+      "name": "Brat Angrenaj SXT 170 mm JIS 0 mm Offset Stanga",
+      "brand": "SXT",
+      "category": "Angrenaje E-Bike",
+      "category_path": "e- MOBILITY > Angrenaje E-Bike",
+      "price": 95.0,
+      "price_net": 78.51,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 5,
+      "url": "https://www.bikestylish.ro/brat-angrenaj-sxt-170-mm-jis-0-mm-offset-stanga.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/brat-angrenaj-sxt-170-mm-jis-0-mm-offset-stanga~12846906.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/brat-angrenaj-sxt-170-mm-jis-0-mm-offset-stanga~12846906.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/brat-angrenaj-sxt-170-mm-jis-0-mm-offset-stanga~12846909.jpg"
+      ],
+      "tags": [
+        "Angrenaje E-Bike",
+        "E-Bike",
+        "SXT",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
+      }
+    },
+    {
+      "id": "356280",
+      "sku": "356280",
+      "name": "Aparatoare Angrenaj SAMOX PD-G-104-CNC 40T Aluminiu",
+      "brand": "SAMOX",
+      "category": "Angrenaje E-Bike",
+      "category_path": "e- MOBILITY > Angrenaje E-Bike",
+      "price": 99.0,
+      "price_net": 81.82,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 4,
+      "url": "https://www.bikestylish.ro/aparatoare-angrenaj-samox-pd-g-104-cnc-40t-aluminiu.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/aparatoare-angrenaj-samox-pd-g-104-cnc-40t-aluminiu~12846921.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/aparatoare-angrenaj-samox-pd-g-104-cnc-40t-aluminiu~12846921.jpg"
+      ],
+      "tags": [
+        "Aluminiu",
+        "Angrenaje E-Bike",
+        "E-Bike",
+        "SAMOX",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ],
+        "material": "Aluminiu"
+      }
+    },
+    {
+      "id": "356391",
+      "sku": "356391",
+      "name": "Aparatoare Angrenaj SAMOX PD-G-104-CNC BCD 104mm 40 T",
+      "brand": "SAMOX",
+      "category": "Angrenaje E-Bike",
+      "category_path": "e- MOBILITY > Angrenaje E-Bike",
+      "price": 99.0,
+      "price_net": 81.82,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 3,
+      "url": "https://www.bikestylish.ro/aparatoare-angrenaj-samox-pd-g-104-cnc-bcd-104mm-40-t.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/aparatoare-angrenaj-samox-pd-g-104-cnc-bcd-104mm-40-t~12846936.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/aparatoare-angrenaj-samox-pd-g-104-cnc-bcd-104mm-40-t~12846936.jpg"
+      ],
+      "tags": [
+        "Angrenaje E-Bike",
+        "E-Bike",
+        "SAMOX",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
+      }
+    },
+    {
+      "id": "610533",
+      "sku": "610533",
+      "name": "Spider BAFANG - 104",
+      "brand": "BAFANG",
+      "category": "Angrenaje E-Bike",
+      "category_path": "e- MOBILITY > Angrenaje E-Bike",
+      "price": 99.0,
+      "price_net": 81.82,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 6,
+      "url": "https://www.bikestylish.ro/spider-bafang-104.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/spider-bafang-104~12846957.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/spider-bafang-104~12846957.jpg"
+      ],
+      "tags": [
+        "Angrenaje E-Bike",
+        "BAFANG",
+        "E-Bike",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
+      }
+    },
+    {
+      "id": "613521",
+      "sku": "613521",
+      "name": "Spider SAMOX PD-S Brose 49 mm",
+      "brand": "SAMOX",
+      "category": "Angrenaje E-Bike",
+      "category_path": "e- MOBILITY > Angrenaje E-Bike",
+      "price": 99.0,
+      "price_net": 81.82,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "url": "https://www.bikestylish.ro/spider-samox-pd-s-brose-49-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/spider-samox-pd-s-brose-49-mm~12846960.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/spider-samox-pd-s-brose-49-mm~12846960.jpg"
+      ],
+      "tags": [
+        "Angrenaje E-Bike",
+        "E-Bike",
+        "SAMOX",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
+      }
     }
   ],
   "categories": [
@@ -4504,8 +4621,8 @@
       "id": "angrenaje-e-bike",
       "name": "Angrenaje E-Bike",
       "full_path": "e- MOBILITY > Angrenaje E-Bike",
-      "product_count": 7,
-      "in_stock_count": 3
+      "product_count": 14,
+      "in_stock_count": 10
     },
     {
       "id": "antifurturi-alarme",
@@ -4561,7 +4678,7 @@
       "name": "Componente E-Bike",
       "full_path": "e- MOBILITY > Componente E-Bike",
       "product_count": 3,
-      "in_stock_count": 0
+      "in_stock_count": 1
     },
     {
       "id": "cosuri-transport",
@@ -4840,7 +4957,7 @@
       "id": "axe-accesorii-butuci",
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
-      "product_count": 60,
+      "product_count": 59,
       "in_stock_count": 41
     },
     {
@@ -5044,7 +5161,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 21
+      "in_stock_count": 23
     },
     {
       "id": "discuri-rotoare",
@@ -5072,28 +5189,28 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 24,
-      "in_stock_count": 11
+      "in_stock_count": 13
     },
     {
       "id": "frane-disc",
       "name": "➤ Frane Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
       "product_count": 15,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "frane-v-break",
       "name": "➤ Frane V - Break",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
       "product_count": 12,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "furci",
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 26,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "ghidoane",
@@ -5128,7 +5245,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 45,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -5282,7 +5399,7 @@
       "name": "➤ Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
       "product_count": 29,
-      "in_stock_count": 19
+      "in_stock_count": 17
     },
     {
       "id": "pompe-furca-tubeless",
@@ -5436,7 +5553,7 @@
       "name": "➤ Spite Stainless",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 94
+      "in_stock_count": 85
     },
     {
       "id": "spite-stainless-2-3-mm",
@@ -5505,7 +5622,7 @@
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 180,
+      "product_count": 181,
       "in_stock_count": 144
     },
     {

@@ -1,45 +1,14 @@
 {
-  "last_updated": "2026-03-25T03:50:37.466088+00:00",
+  "last_updated": "2026-03-26T03:59:03.035379+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 16,
     "total_parts": 19,
     "product_range": "3751-4000",
-    "original_total": 4669
+    "original_total": 4672
   },
   "products": [
-    {
-      "id": "12670",
-      "sku": "12670",
-      "ean": "6933882571143",
-      "name": "Camera CST 27.5X1.90/2.125 FV 48mm",
-      "brand": "CST",
-      "category": "➤ Camere de Bicicleta",
-      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "price": 22.0,
-      "price_net": 18.18,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 28,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/camera-cst-27-5x1-90-2-125-fv-48mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/camera-cst-27-5x1-90-2-125-fv-48mm~11423151.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/camera-cst-27-5x1-90-2-125-fv-48mm~11423151.jpg"
-      ],
-      "tags": [
-        "27.5 inch",
-        "COMPONENTE",
-        "CST",
-        "Presta",
-        "➤ Camere de Bicicleta"
-      ],
-      "specs": {
-        "wheel_size": "27.5",
-        "valve_type": "Presta (FV)"
-      }
-    },
     {
       "id": "111007",
       "sku": "111007",
@@ -2787,7 +2756,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 10,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/protectie-cadru-velo-260-x-100-x-130-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/protectie-cadru-velo-260-x-100-x-130-mm~8339647.jpg",
@@ -4773,7 +4742,7 @@
       "price_net": 54.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 157,
+      "stock_quantity": 155,
       "url": "https://www.bikestylish.ro/anvelopa-trotineta-electrica-8-5.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-trotineta-electrica-8-5~8340205.jpg",
       "images": [
@@ -6574,7 +6543,7 @@
       "price_net": 57.02,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 12,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/pinion-casetat-7v-shimano-cs-hg200-7-tourney-12-28t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-casetat-7v-shimano-cs-hg200-7-tourney-12-28t~8340679.jpg",
@@ -7476,6 +7445,35 @@
         "SXT",
         "➤ Unelte Speciale Biciclete"
       ]
+    },
+    {
+      "id": "321143",
+      "sku": "321143",
+      "ean": "2802294000005",
+      "name": "Thru Axle SXT M12 x L166 x P1,5 mm",
+      "brand": "SXT",
+      "category": "➤ Axe - Accesorii Butuci",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
+      "price": 121.0,
+      "price_net": 100.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 0.06,
+      "url": "https://www.bikestylish.ro/thru-axle-sxt-m12-x-l166-x-p1-5-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/thru-axle-sxt-m12-x-l166-x-p1-5-mm~8340877.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/thru-axle-sxt-m12-x-l166-x-p1-5-mm~8340877.jpg"
+      ],
+      "tags": [
+        "12 inch",
+        "COMPONENTE",
+        "SXT",
+        "➤ Axe - Accesorii Butuci"
+      ],
+      "specs": {
+        "wheel_size": "12"
+      }
     }
   ],
   "categories": [
@@ -7497,8 +7495,8 @@
       "id": "angrenaje-e-bike",
       "name": "Angrenaje E-Bike",
       "full_path": "e- MOBILITY > Angrenaje E-Bike",
-      "product_count": 7,
-      "in_stock_count": 3
+      "product_count": 14,
+      "in_stock_count": 10
     },
     {
       "id": "antifurturi-alarme",
@@ -7554,7 +7552,7 @@
       "name": "Componente E-Bike",
       "full_path": "e- MOBILITY > Componente E-Bike",
       "product_count": 3,
-      "in_stock_count": 0
+      "in_stock_count": 1
     },
     {
       "id": "cosuri-transport",
@@ -7833,7 +7831,7 @@
       "id": "axe-accesorii-butuci",
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
-      "product_count": 60,
+      "product_count": 59,
       "in_stock_count": 41
     },
     {
@@ -8037,7 +8035,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 21
+      "in_stock_count": 23
     },
     {
       "id": "discuri-rotoare",
@@ -8065,28 +8063,28 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 24,
-      "in_stock_count": 11
+      "in_stock_count": 13
     },
     {
       "id": "frane-disc",
       "name": "➤ Frane Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
       "product_count": 15,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "frane-v-break",
       "name": "➤ Frane V - Break",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
       "product_count": 12,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "furci",
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 26,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "ghidoane",
@@ -8121,7 +8119,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 45,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8275,7 +8273,7 @@
       "name": "➤ Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
       "product_count": 29,
-      "in_stock_count": 19
+      "in_stock_count": 17
     },
     {
       "id": "pompe-furca-tubeless",
@@ -8429,7 +8427,7 @@
       "name": "➤ Spite Stainless",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 94
+      "in_stock_count": 85
     },
     {
       "id": "spite-stainless-2-3-mm",
@@ -8498,7 +8496,7 @@
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 180,
+      "product_count": 181,
       "in_stock_count": 144
     },
     {

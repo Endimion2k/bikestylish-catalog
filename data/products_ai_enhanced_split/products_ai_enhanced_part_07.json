@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-25T03:50:37.466088+00:00",
+  "last_updated": "2026-03-26T03:59:03.035379+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
     "total_parts": 19,
     "product_range": "1501-1750",
-    "original_total": 4669
+    "original_total": 4672
   },
   "products": [
     {
@@ -139,7 +139,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "url": "https://www.bikestylish.ro/far-cu-baterii-bonin-omega-1watt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/far-cu-baterii-bonin-omega-1watt~8289388.jpg",
       "images": [
@@ -890,8 +890,8 @@
       "price": 328.9,
       "price_net": 271.82,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 2.5,
       "url": "https://www.bikestylish.ro/furca-cu-suspensie-zoom-28-1-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/furca-cu-suspensie-zoom-28-1-negru~8289475.jpg",
@@ -1780,8 +1780,8 @@
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/conducta-hidraulica-shimano-1700-mm-sm-bh90-ss.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/conducta-hidraulica-shimano-1700-mm-sm-bh90-ss~8290447.jpg",
       "images": [
@@ -5946,7 +5946,7 @@
       "price_net": 26.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 43,
+      "stock_quantity": 42,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/cheie-angrenaj-sxt-max-50-nm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/cheie-angrenaj-sxt-max-50-nm~8290903.jpg",
@@ -6189,7 +6189,7 @@
       "price_net": 10.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 550,
+      "stock_quantity": 545,
       "url": "https://www.bikestylish.ro/ax-butuc-spate-cu-piulita-sxt-3-8-180-x-135-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ax-butuc-spate-cu-piulita-sxt-3-8-180-x-135-mm~8290930.jpg",
       "images": [
@@ -7203,8 +7203,8 @@
       "id": "angrenaje-e-bike",
       "name": "Angrenaje E-Bike",
       "full_path": "e- MOBILITY > Angrenaje E-Bike",
-      "product_count": 7,
-      "in_stock_count": 3
+      "product_count": 14,
+      "in_stock_count": 10
     },
     {
       "id": "antifurturi-alarme",
@@ -7260,7 +7260,7 @@
       "name": "Componente E-Bike",
       "full_path": "e- MOBILITY > Componente E-Bike",
       "product_count": 3,
-      "in_stock_count": 0
+      "in_stock_count": 1
     },
     {
       "id": "cosuri-transport",
@@ -7539,7 +7539,7 @@
       "id": "axe-accesorii-butuci",
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
-      "product_count": 60,
+      "product_count": 59,
       "in_stock_count": 41
     },
     {
@@ -7743,7 +7743,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 21
+      "in_stock_count": 23
     },
     {
       "id": "discuri-rotoare",
@@ -7771,28 +7771,28 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 24,
-      "in_stock_count": 11
+      "in_stock_count": 13
     },
     {
       "id": "frane-disc",
       "name": "➤ Frane Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
       "product_count": 15,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "frane-v-break",
       "name": "➤ Frane V - Break",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
       "product_count": 12,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "furci",
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 26,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "ghidoane",
@@ -7827,7 +7827,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 45,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7981,7 +7981,7 @@
       "name": "➤ Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
       "product_count": 29,
-      "in_stock_count": 19
+      "in_stock_count": 17
     },
     {
       "id": "pompe-furca-tubeless",
@@ -8135,7 +8135,7 @@
       "name": "➤ Spite Stainless",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 94
+      "in_stock_count": 85
     },
     {
       "id": "spite-stainless-2-3-mm",
@@ -8204,7 +8204,7 @@
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 180,
+      "product_count": 181,
       "in_stock_count": 144
     },
     {
