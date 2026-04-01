@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-31T03:59:19.575758+00:00",
+  "last_updated": "2026-04-01T04:04:25.066397+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 4,
     "total_parts": 19,
     "product_range": "751-1000",
-    "original_total": 4671
+    "original_total": 4660
   },
   "products": [
     {
@@ -518,8 +518,8 @@
       "price": 82.5,
       "price_net": 68.18,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/portbagaj-aluminiu-fata-spate-m-wave-mini-f-r-24-28.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/portbagaj-aluminiu-fata-spate-m-wave-mini-f-r-24-28~8283502.jpg",
@@ -1344,7 +1344,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 73,
+      "stock_quantity": 72,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-sxt-gh-009-sm-1.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-sxt-gh-009-sm-1~8284441.jpg",
@@ -3056,7 +3056,7 @@
       "price_net": 43.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 40,
+      "stock_quantity": 34,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/extensie-schimbator-spate-m-wave-ada-range.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/extensie-schimbator-spate-m-wave-ada-range~8284627.jpg",
@@ -4115,8 +4115,8 @@
       "price": 97.9,
       "price_net": 80.91,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 4,
       "url": "https://www.bikestylish.ro/cheie-indreptat-discul-de-frana-super-b-tb-mw40.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/cheie-indreptat-discul-de-frana-super-b-tb-mw40~8284741.jpg",
       "images": [
@@ -5909,8 +5909,8 @@
       "price": 421.3,
       "price_net": 348.18,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.7,
       "url": "https://www.bikestylish.ro/cheie-dinamometrica-mighty-2-24-nm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cheie-dinamometrica-mighty-2-24-nm~8284936.jpg",
@@ -6129,7 +6129,7 @@
       "price_net": 58.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 51,
+      "stock_quantity": 41,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/set-breloc-bicicleta-aluminiu-ventura-12-buc.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/set-breloc-bicicleta-aluminiu-ventura-12-buc~8286319.jpg",
@@ -7113,7 +7113,7 @@
       "id": "accesorii-e-bike",
       "name": "Accesorii E-Bike",
       "full_path": "e- MOBILITY > Accesorii E-Bike",
-      "product_count": 7,
+      "product_count": 6,
       "in_stock_count": 4
     },
     {
@@ -7155,7 +7155,7 @@
       "id": "baterii-incarcatoare-e-bike",
       "name": "Baterii -incarcatoare E-Bike",
       "full_path": "e- MOBILITY > Baterii -incarcatoare E-Bike",
-      "product_count": 3,
+      "product_count": 2,
       "in_stock_count": 0
     },
     {
@@ -7183,7 +7183,7 @@
       "id": "componente-e-bike",
       "name": "Componente E-Bike",
       "full_path": "e- MOBILITY > Componente E-Bike",
-      "product_count": 3,
+      "product_count": 2,
       "in_stock_count": 1
     },
     {
@@ -7204,7 +7204,7 @@
       "id": "display-manete-e-bike",
       "name": "Display - Manete E-Bike",
       "full_path": "e- MOBILITY > Display - Manete E-Bike",
-      "product_count": 10,
+      "product_count": 3,
       "in_stock_count": 0
     },
     {
@@ -7253,7 +7253,7 @@
       "id": "motoare-e-bike",
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
-      "product_count": 9,
+      "product_count": 6,
       "in_stock_count": 1
     },
     {
@@ -7344,6 +7344,13 @@
       "id": "urechi-protectii-cadre",
       "name": "Urechi - Protectii - Cadre",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre",
+      "product_count": 1,
+      "in_stock_count": 1
+    },
+    {
+      "id": "zona-dealeri",
+      "name": "Zona Dealeri",
+      "full_path": "Zona Dealeri",
       "product_count": 1,
       "in_stock_count": 1
     },
@@ -7443,7 +7450,7 @@
       "name": "➤ Aparatori Angrenaj - Accesorii",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Aparatori Angrenaj - Accesorii",
       "product_count": 9,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "aparatori-noroi-fata",
@@ -7709,7 +7716,7 @@
       "name": "➤ Frane V - Break",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
       "product_count": 12,
-      "in_stock_count": 7
+      "in_stock_count": 8
     },
     {
       "id": "furci",
@@ -7926,7 +7933,7 @@
       "name": "➤ Portbagaje Fata",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Fata",
       "product_count": 4,
-      "in_stock_count": 3
+      "in_stock_count": 2
     },
     {
       "id": "portbagaje-spate",
@@ -7960,15 +7967,15 @@
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
-      "product_count": 36,
-      "in_stock_count": 31
+      "product_count": 37,
+      "in_stock_count": 33
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 50,
-      "in_stock_count": 37
+      "in_stock_count": 38
     },
     {
       "id": "rucsaci",

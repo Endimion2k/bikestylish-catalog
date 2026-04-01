@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-31T03:59:19.575758+00:00",
+  "last_updated": "2026-04-01T04:04:25.066397+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 8,
     "total_parts": 19,
     "product_range": "1751-2000",
-    "original_total": 4671
+    "original_total": 4660
   },
   "products": [
     {
@@ -3774,8 +3774,8 @@
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/sa-ventura-asa-r3-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/sa-ventura-asa-r3-negru~8292571.jpg",
@@ -4200,7 +4200,7 @@
       "price_net": 20.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 33,
+      "stock_quantity": 29,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/mansoane-sxt-twist-shift-l-90-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-twist-shift-l-90-mm-negru~8292619.jpg",
@@ -4283,7 +4283,7 @@
       "price_net": 68.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 20,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/cuveti-semi-integrati-tapered-neco-1-1-8-1-5-h-11-8-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cuveti-semi-integrati-tapered-neco-1-1-8-1-5-h-11-8-mm~8292628.jpg",
@@ -5469,7 +5469,7 @@
       "price_net": 26.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 21,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-12-5-x-1-75-47-203-k-909a.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-kenda-12-5-x-1-75-47-203-k-909a~8324050.jpg",
@@ -6363,7 +6363,7 @@
       "price_net": 70.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 255,
+      "stock_quantity": 251,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -7045,7 +7045,7 @@
       "id": "accesorii-e-bike",
       "name": "Accesorii E-Bike",
       "full_path": "e- MOBILITY > Accesorii E-Bike",
-      "product_count": 7,
+      "product_count": 6,
       "in_stock_count": 4
     },
     {
@@ -7087,7 +7087,7 @@
       "id": "baterii-incarcatoare-e-bike",
       "name": "Baterii -incarcatoare E-Bike",
       "full_path": "e- MOBILITY > Baterii -incarcatoare E-Bike",
-      "product_count": 3,
+      "product_count": 2,
       "in_stock_count": 0
     },
     {
@@ -7115,7 +7115,7 @@
       "id": "componente-e-bike",
       "name": "Componente E-Bike",
       "full_path": "e- MOBILITY > Componente E-Bike",
-      "product_count": 3,
+      "product_count": 2,
       "in_stock_count": 1
     },
     {
@@ -7136,7 +7136,7 @@
       "id": "display-manete-e-bike",
       "name": "Display - Manete E-Bike",
       "full_path": "e- MOBILITY > Display - Manete E-Bike",
-      "product_count": 10,
+      "product_count": 3,
       "in_stock_count": 0
     },
     {
@@ -7185,7 +7185,7 @@
       "id": "motoare-e-bike",
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
-      "product_count": 9,
+      "product_count": 6,
       "in_stock_count": 1
     },
     {
@@ -7276,6 +7276,13 @@
       "id": "urechi-protectii-cadre",
       "name": "Urechi - Protectii - Cadre",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre",
+      "product_count": 1,
+      "in_stock_count": 1
+    },
+    {
+      "id": "zona-dealeri",
+      "name": "Zona Dealeri",
+      "full_path": "Zona Dealeri",
       "product_count": 1,
       "in_stock_count": 1
     },
@@ -7375,7 +7382,7 @@
       "name": "➤ Aparatori Angrenaj - Accesorii",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Aparatori Angrenaj - Accesorii",
       "product_count": 9,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "aparatori-noroi-fata",
@@ -7641,7 +7648,7 @@
       "name": "➤ Frane V - Break",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
       "product_count": 12,
-      "in_stock_count": 7
+      "in_stock_count": 8
     },
     {
       "id": "furci",
@@ -7858,7 +7865,7 @@
       "name": "➤ Portbagaje Fata",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Fata",
       "product_count": 4,
-      "in_stock_count": 3
+      "in_stock_count": 2
     },
     {
       "id": "portbagaje-spate",
@@ -7892,15 +7899,15 @@
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
-      "product_count": 36,
-      "in_stock_count": 31
+      "product_count": 37,
+      "in_stock_count": 33
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 50,
-      "in_stock_count": 37
+      "in_stock_count": 38
     },
     {
       "id": "rucsaci",
