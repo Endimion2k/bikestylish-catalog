@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-01T04:04:25.066397+00:00",
+  "last_updated": "2026-04-02T03:56:43.758040+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
     "total_parts": 19,
     "product_range": "2501-2750",
-    "original_total": 4660
+    "original_total": 4662
   },
   "products": [
     {
@@ -863,8 +863,8 @@
       "price": 85.8,
       "price_net": 70.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.26,
       "url": "https://www.bikestylish.ro/brat-dreapta-samox-13-offset-170-mm-bosch-gen-1-2-4-brose-shape-2.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/brat-dreapta-samox-13-offset-170-mm-bosch-gen-1-2-4-brose-shape-2~8329834.jpg",
@@ -2987,7 +2987,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 108,
+      "stock_quantity": 106,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/ulei-special-m-wave-oil-guard-bio-100-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ulei-special-m-wave-oil-guard-bio-100-ml~8330437.jpg",
@@ -7082,7 +7082,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 181,
-      "in_stock_count": 122
+      "in_stock_count": 121
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7117,7 +7117,7 @@
       "name": "➤ Axe - Suruburi - Piulite",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Axe - Suruburi - Piulite",
       "product_count": 8,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "bagaje-cadru",
@@ -7187,14 +7187,14 @@
       "name": "➤ Brate Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
       "product_count": 48,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "butuci-frana-disc",
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 114,
-      "in_stock_count": 76
+      "in_stock_count": 75
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7271,7 +7271,7 @@
       "name": "➤ Chei Universale",
       "full_path": "COMPONENTE > Unelte Service > ➤ Chei Universale",
       "product_count": 2,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "coliere-tija-sa",
@@ -7355,7 +7355,7 @@
       "name": "➤ Frane V - Break",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
       "product_count": 12,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "furci",
@@ -7635,7 +7635,7 @@
       "name": "➤ Saboti Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Saboti Frana",
       "product_count": 14,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "scaune-bicicleta-copii",
@@ -7733,7 +7733,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 50,
-      "in_stock_count": 48
+      "in_stock_count": 47
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -7747,7 +7747,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "transport-biciclete",
@@ -7781,7 +7781,7 @@
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "product_count": 1072,
+      "product_count": 1074,
       "in_stock_count": 283
     },
     {
