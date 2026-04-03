@@ -1,39 +1,14 @@
 {
-  "last_updated": "2026-04-02T03:56:43.758040+00:00",
+  "last_updated": "2026-04-03T03:57:04.947427+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 12,
     "total_parts": 19,
     "product_range": "2751-3000",
-    "original_total": 4662
+    "original_total": 4659
   },
   "products": [
-    {
-      "id": "D321",
-      "sku": "D321",
-      "ean": "7290107113090",
-      "name": "Ureche Cadru PILO D321 Trek",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 385.0,
-      "price_net": 318.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d321-trek.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d321-trek~8330983.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d321-trek~8330983.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D325",
       "sku": "D325",
@@ -6323,6 +6298,31 @@
         "PILO",
         "➤ Urechi Cadru"
       ]
+    },
+    {
+      "id": "D691",
+      "sku": "D691",
+      "ean": "7290107117258",
+      "name": "Ureche Cadru PILO D691 Proceed",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 328.9,
+      "price_net": 271.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d691-proceed.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d691-proceed~8331886.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d691-proceed~8331886.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6772,7 +6772,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 114,
-      "in_stock_count": 75
+      "in_stock_count": 74
     },
     {
       "id": "butuci-v-break-dinam",
@@ -6974,8 +6974,8 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 45,
-      "in_stock_count": 23
+      "product_count": 42,
+      "in_stock_count": 20
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7094,7 +7094,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 143,
-      "in_stock_count": 108
+      "in_stock_count": 107
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7185,7 +7185,7 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 37,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "roti-spate",
@@ -7360,7 +7360,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 283
+      "in_stock_count": 282
     },
     {
       "id": "bike-maintenance-intretinere",

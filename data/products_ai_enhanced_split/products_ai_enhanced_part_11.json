@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-02T03:56:43.758040+00:00",
+  "last_updated": "2026-04-03T03:57:04.947427+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
     "total_parts": 19,
     "product_range": "2501-2750",
-    "original_total": 4662
+    "original_total": 4659
   },
   "products": [
     {
@@ -162,38 +162,6 @@
       }
     },
     {
-      "id": "MC41.559.28-10",
-      "sku": "MC41.559.28-10",
-      "ean": "MC41.559.28-10",
-      "name": "Janta MACH1 MTB DISC 26(559 x 19C) - 28H Negru Capsata",
-      "brand": "MACH 1",
-      "category": "➤ Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "price": 108.9,
-      "price_net": 90.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/janta-mach1-mtb-disc-26-559-x-19c-28h-negru-capsata.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/janta-mach1-mtb-disc-26-559-x-19c-28h-negru-capsata~8329594.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/janta-mach1-mtb-disc-26-559-x-19c-28h-negru-capsata~8329594.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "MACH 1",
-        "MTB",
-        "➤ Jante pentru Frane Disc"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ],
-        "color": "Negru",
-        "dimensions": "559 x 19"
-      }
-    },
-    {
       "id": "MD13.622.32.02-8",
       "sku": "MD13.622.32.02-8",
       "ean": "2802330000006",
@@ -300,8 +268,8 @@
       "price": 297.0,
       "price_net": 245.45,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 4,
       "url": "https://www.bikestylish.ro/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r~8329642.jpg",
       "images": [
@@ -6551,8 +6519,8 @@
       "price": 273.9,
       "price_net": 226.36,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d285-norco-dh.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d285-norco-dh~8330959.jpg",
@@ -6739,6 +6707,31 @@
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d318-lapierre~8330980.jpg",
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d318-lapierre~8330980.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D321",
+      "sku": "D321",
+      "ean": "7290107113090",
+      "name": "Ureche Cadru PILO D321 Trek",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d321-trek.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d321-trek~8330983.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d321-trek~8330983.jpg"
       ],
       "tags": [
         "COMPONENTE",
@@ -7194,7 +7187,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 114,
-      "in_stock_count": 75
+      "in_stock_count": 74
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7396,8 +7389,8 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 45,
-      "in_stock_count": 23
+      "product_count": 42,
+      "in_stock_count": 20
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7516,7 +7509,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 143,
-      "in_stock_count": 108
+      "in_stock_count": 107
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7607,7 +7600,7 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 37,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "roti-spate",
@@ -7782,7 +7775,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 283
+      "in_stock_count": 282
     },
     {
       "id": "bike-maintenance-intretinere",

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-02T03:56:43.758040+00:00",
+  "last_updated": "2026-04-03T03:57:04.947427+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 2,
     "total_parts": 19,
     "product_range": "251-500",
-    "original_total": 4662
+    "original_total": 4659
   },
   "products": [
     {
@@ -1419,7 +1419,7 @@
       "price_net": 159.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 30,
+      "stock_quantity": 29,
       "weight_kg": 0.34,
       "url": "https://www.bikestylish.ro/pedale-m-wave-freedom-sl-negru-91x96-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-m-wave-freedom-sl-negru-91x96-mm~8280439.jpg",
@@ -2330,7 +2330,7 @@
       "price_net": 259.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 17,
+      "stock_quantity": 16,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/butuc-spate-novatec-d042sb-32h-fd-4-rulmenti.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-spate-novatec-d042sb-32h-fd-4-rulmenti~8280529.jpg",
@@ -3861,8 +3861,8 @@
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 49,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/butuc-spate-casetat-sxt-32h-fd-8-10-11v-2rulmenti.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/butuc-spate-casetat-sxt-32h-fd-8-10-11v-2rulmenti~8281738.jpg",
@@ -5494,7 +5494,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 53,
+      "stock_quantity": 34,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/suport-bidon-aluminiu-m-wave-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/suport-bidon-aluminiu-m-wave-negru~8281900.jpg",
@@ -5791,7 +5791,7 @@
       "price_net": 12.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 7,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/adaptor-suport-bidon-m-wave-ada-flex.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/adaptor-suport-bidon-m-wave-ada-flex~8281930.jpg",
@@ -7698,7 +7698,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 114,
-      "in_stock_count": 75
+      "in_stock_count": 74
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7900,8 +7900,8 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 45,
-      "in_stock_count": 23
+      "product_count": 42,
+      "in_stock_count": 20
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8020,7 +8020,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 143,
-      "in_stock_count": 108
+      "in_stock_count": 107
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8111,7 +8111,7 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 37,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "roti-spate",
@@ -8286,7 +8286,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 283
+      "in_stock_count": 282
     },
     {
       "id": "bike-maintenance-intretinere",
