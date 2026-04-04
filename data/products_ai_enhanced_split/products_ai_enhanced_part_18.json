@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T03:57:04.947427+00:00",
+  "last_updated": "2026-04-04T03:49:30.932956+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -2635,7 +2635,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 122,
+      "stock_quantity": 121,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/mansoane-mtb-sxt-zn-047-130-mm-lock-on-negru~8343862.jpg",
@@ -2740,7 +2740,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 150,
+      "stock_quantity": 149,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-albastru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/mansoane-mtb-sxt-zn-047-130-mm-lock-on-albastru~8343898.jpg",
@@ -3263,8 +3263,8 @@
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-28-622-x-19c-36h-silver-filetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-sxt-28-622-x-19c-36h-silver-filetat~8333668.jpg",
       "images": [
@@ -3441,7 +3441,7 @@
       "price_net": 172.73,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-20-406-x-19c-36h-filetat-ax.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/roata-spate-sxt-20-406-x-19c-36h-filetat-ax~8326705.jpg",
       "images": [
@@ -6890,7 +6890,7 @@
       "price_net": 122.73,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 3,
       "url": "https://www.bikestylish.ro/set-aparatori-28-56-mm-m-wave-negru-flexibile-cabluri.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/set-aparatori-28-56-mm-m-wave-negru-flexibile-cabluri~11423175.jpg",
       "images": [
@@ -7457,7 +7457,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 181,
-      "in_stock_count": 121
+      "in_stock_count": 119
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7583,7 +7583,7 @@
       "name": "➤ Cabluri",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Cabluri",
       "product_count": 15,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "cadre-ssp-fixie",
@@ -7688,7 +7688,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 23
+      "in_stock_count": 22
     },
     {
       "id": "discuri-rotoare",
@@ -7849,7 +7849,7 @@
       "name": "➤ Monobloace - B.B.",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
       "product_count": 48,
-      "in_stock_count": 43
+      "in_stock_count": 42
     },
     {
       "id": "nipluri-accesorii",
@@ -7989,7 +7989,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 50,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "rucsaci",
@@ -8038,7 +8038,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 95,
-      "in_stock_count": 83
+      "in_stock_count": 82
     },
     {
       "id": "set-lumini",
@@ -8101,7 +8101,7 @@
       "name": "➤ Spite UCP",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite UCP",
       "product_count": 59,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "suporturi-bidon",
@@ -8122,7 +8122,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "transport-biciclete",
