@@ -1,68 +1,14 @@
 {
-  "last_updated": "2026-04-05T04:01:16.362536+00:00",
+  "last_updated": "2026-04-06T04:02:43.281933+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 15,
     "total_parts": 19,
     "product_range": "3501-3750",
-    "original_total": 4659
+    "original_total": 4656
   },
   "products": [
-    {
-      "id": "D694",
-      "sku": "D694",
-      "ean": "7290107117289",
-      "name": "Ureche Cadru PILO D694",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 154.0,
-      "price_net": 127.27,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d694.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d694~8336029.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d694~8336029.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d694~8336032.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D726",
-      "sku": "D726",
-      "ean": "7290107117623",
-      "name": "Ureche Cadru PILO D726",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 328.9,
-      "price_net": 271.82,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d726.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d726~8336035.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d726~8336035.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d726~8336038.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d726~8336041.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d726~8336044.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "1TA00028",
       "sku": "1TA00028",
@@ -107,7 +53,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 401,
+      "stock_quantity": 391,
       "weight_kg": 0.26,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-26x1-95-2-50-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/camera-standard-vittoria-26x1-95-2-50-av-schrader-48mm~8336050.jpg",
@@ -7793,6 +7739,64 @@
       "specs": {
         "color": "Rosu"
       }
+    },
+    {
+      "id": "HTANS08V",
+      "sku": "HTANS08V",
+      "ean": "4711126206264",
+      "name": "Pedale HT ANS08 LEAP Verde Apple",
+      "brand": "HT COMPONENTS",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "price": 438.9,
+      "price_net": 362.73,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 6,
+      "weight_kg": 0.5,
+      "url": "https://www.bikestylish.ro/pedale-ht-ans08-leap-verde-apple.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-ans08-leap-verde-apple~8338885.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-ans08-leap-verde-apple~8338885.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-ans08-leap-verde-apple~8338888.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "➤ Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Verde"
+      }
+    },
+    {
+      "id": "HTANS08AB",
+      "sku": "HTANS08AB",
+      "ean": "4711126206271",
+      "name": "Pedale HT ANS08 LEAP Albastru Royal",
+      "brand": "HT COMPONENTS",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "price": 438.9,
+      "price_net": 362.73,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 4,
+      "weight_kg": 0.5,
+      "url": "https://www.bikestylish.ro/pedale-ht-ans08-leap-albastru-royal.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-ans08-leap-albastru-royal~8338891.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-ans08-leap-albastru-royal~8338891.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-ans08-leap-albastru-royal~8338894.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "➤ Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Alb"
+      }
     }
   ],
   "categories": [
@@ -8228,7 +8232,7 @@
       "name": "➤ Bike Lube - Lubrefiere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Lube - Lubrefiere",
       "product_count": 17,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "brate-angrenaje",
@@ -8598,8 +8602,8 @@
       "id": "placute-frana-disc",
       "name": "➤ Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
-      "product_count": 29,
-      "in_stock_count": 17
+      "product_count": 27,
+      "in_stock_count": 15
     },
     {
       "id": "pompe-furca-tubeless",
@@ -8830,7 +8834,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 282
+      "in_stock_count": 281
     },
     {
       "id": "bike-maintenance-intretinere",
