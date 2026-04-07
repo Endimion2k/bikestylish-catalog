@@ -1,39 +1,14 @@
 {
-  "last_updated": "2026-04-06T04:02:43.281933+00:00",
+  "last_updated": "2026-04-07T03:59:06.089438+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 8,
     "total_parts": 19,
     "product_range": "1751-2000",
-    "original_total": 4656
+    "original_total": 4655
   },
   "products": [
-    {
-      "id": "680306",
-      "sku": "680306",
-      "ean": "2801514000009",
-      "name": "Schimbator Spate VENTURA 6 -7 v Ax",
-      "brand": "VENTURA",
-      "category": "➤ Schimbatoare Spate",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
-      "price": 49.5,
-      "price_net": 40.91,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
-      "weight_kg": 0.3,
-      "url": "https://www.bikestylish.ro/schimbator-spate-ventura-6-7-v-ax.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/schimbator-spate-ventura-6-7-v-ax~8292145.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/schimbator-spate-ventura-6-7-v-ax~8292145.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "VENTURA",
-        "➤ Schimbatoare Spate"
-      ]
-    },
     {
       "id": "38827450",
       "sku": "38827450",
@@ -485,8 +460,8 @@
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.75,
       "url": "https://www.bikestylish.ro/janta-mach1-truky-35-27-5-584-x-35c-32h-negru-capsata.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/janta-mach1-truky-35-27-5-584-x-35c-32h-negru-capsata~8292205.jpg",
@@ -4033,7 +4008,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 30,
+      "stock_quantity": 28,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/placute-frana-m-wave-bpd-hp1organice.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/placute-frana-m-wave-bpd-hp1organice~8292607.jpg",
@@ -5310,7 +5285,7 @@
       "price_net": 43.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 40,
+      "stock_quantity": 38,
       "weight_kg": 0.38,
       "url": "https://www.bikestylish.ro/camera-kenda-26-x-3-0-68-559-av-35-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-kenda-26-x-3-0-68-559-av-35-mm~8324005.jpg",
@@ -5586,7 +5561,7 @@
       "price_net": 209.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 14,
       "weight_kg": 1.43,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-gigas-26-x-4-0-98-559-k-1167.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-kenda-gigas-26-x-4-0-98-559-k-1167~8324083.jpg",
@@ -6181,7 +6156,7 @@
       "price_net": 150.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 0.8,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-slant-six-sport-24-x-2-60-66-507.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-kenda-slant-six-sport-24-x-2-60-66-507~8324242.jpg",
@@ -6303,7 +6278,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 249,
+      "stock_quantity": 239,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -6333,7 +6308,7 @@
       "price_net": 30.58,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 218,
+      "stock_quantity": 214,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/camera-kenda-14-x-2-50-av-valva-45.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kenda-14-x-2-50-av-valva-45~8324272.jpg",
@@ -6504,7 +6479,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 21,
       "weight_kg": 0.32,
       "url": "https://www.bikestylish.ro/antifurt-cu-cifru-m-wave-ds-12-10-s-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/antifurt-cu-cifru-m-wave-ds-12-10-s-negru~8324350.jpg",
@@ -6927,8 +6902,8 @@
       "price": 148.5,
       "price_net": 122.73,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 1.25,
       "url": "https://www.bikestylish.ro/sa-m-wave-elast-xxl-city-291-x-276-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/sa-m-wave-elast-xxl-city-291-x-276-mm~8324728.jpg",
@@ -7038,6 +7013,35 @@
         "VENTURA",
         "➤ Sei"
       ]
+    },
+    {
+      "id": "250986",
+      "sku": "250986",
+      "ean": "887539016159",
+      "name": "Colier Tija Sa M-WAVE CLAMPY QR -31.8 mm Negru",
+      "brand": "M-WAVE",
+      "category": "➤ Coliere Tija Sa",
+      "category_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
+      "price": 18.7,
+      "price_net": 15.45,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.05,
+      "url": "https://www.bikestylish.ro/colier-tija-sa-m-wave-clampy-qr-31-8-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/colier-tija-sa-m-wave-clampy-qr-31-8-mm-negru~8324776.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/colier-tija-sa-m-wave-clampy-qr-31-8-mm-negru~8324776.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/colier-tija-sa-m-wave-clampy-qr-31-8-mm-negru~8324779.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "➤ Coliere Tija Sa"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -7354,7 +7358,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 20,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7445,14 +7449,14 @@
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 33,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "bidoane-ciclism",
       "name": "➤ Bidoane Ciclism",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
       "product_count": 22,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "bike-care-ingrijire",
@@ -7472,7 +7476,7 @@
       "id": "bike-lube-lubrefiere",
       "name": "➤ Bike Lube - Lubrefiere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Lube - Lubrefiere",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 9
     },
     {
@@ -7690,7 +7694,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 42,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7725,7 +7729,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "manete-frana-schimbator",
@@ -7809,7 +7813,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 143,
-      "in_stock_count": 107
+      "in_stock_count": 106
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8026,7 +8030,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 50,
-      "in_stock_count": 47
+      "in_stock_count": 46
     },
     {
       "id": "suruburi-piulite-saibe",

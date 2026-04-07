@@ -1,39 +1,14 @@
 {
-  "last_updated": "2026-04-06T04:02:43.281933+00:00",
+  "last_updated": "2026-04-07T03:59:06.089438+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 12,
     "total_parts": 19,
     "product_range": "2751-3000",
-    "original_total": 4656
+    "original_total": 4655
   },
   "products": [
-    {
-      "id": "D329",
-      "sku": "D329",
-      "ean": "7290107113175",
-      "name": "Ureche Cadru PILO D329 Giant",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 165.0,
-      "price_net": 136.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d329-giant.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d329-giant~8330992.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d329-giant~8330992.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D138",
       "sku": "D138",
@@ -6184,7 +6159,7 @@
       "price_net": 136.36,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d684-santa-cruz.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d684-santa-cruz~8331862.jpg",
@@ -6320,6 +6295,32 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d695-haibike~8331895.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d695-haibike~8331898.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d695-haibike~8331901.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D655",
+      "sku": "D655",
+      "ean": "7290107116824",
+      "name": "Ureche Cadru PILO D655 Giant",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 328.9,
+      "price_net": 271.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d655-giant.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d655-giant~8331904.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d655-giant~8331904.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d655-giant~8331907.jpg"
       ],
       "tags": [
         "COMPONENTE",
@@ -6642,7 +6643,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 20,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -6733,14 +6734,14 @@
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 33,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "bidoane-ciclism",
       "name": "➤ Bidoane Ciclism",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
       "product_count": 22,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "bike-care-ingrijire",
@@ -6760,7 +6761,7 @@
       "id": "bike-lube-lubrefiere",
       "name": "➤ Bike Lube - Lubrefiere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Lube - Lubrefiere",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 9
     },
     {
@@ -6978,7 +6979,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 42,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7013,7 +7014,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "manete-frana-schimbator",
@@ -7097,7 +7098,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 143,
-      "in_stock_count": 107
+      "in_stock_count": 106
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7314,7 +7315,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 50,
-      "in_stock_count": 47
+      "in_stock_count": 46
     },
     {
       "id": "suruburi-piulite-saibe",

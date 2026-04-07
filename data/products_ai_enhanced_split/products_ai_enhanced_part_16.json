@@ -1,42 +1,14 @@
 {
-  "last_updated": "2026-04-06T04:02:43.281933+00:00",
+  "last_updated": "2026-04-07T03:59:06.089438+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 16,
     "total_parts": 19,
     "product_range": "3751-4000",
-    "original_total": 4656
+    "original_total": 4655
   },
   "products": [
-    {
-      "id": "HTT2SXP",
-      "sku": "HTT2SXP",
-      "ean": "4711126209173",
-      "name": "Pedale HT T2-SX Purple",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 658.9,
-      "price_net": 544.55,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-t2-sx-purple.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-t2-sx-purple~8338897.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-t2-sx-purple~8338897.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Purple"
-      }
-    },
     {
       "id": "HTT2SXABM",
       "sku": "HTT2SXABM",
@@ -2768,7 +2740,7 @@
       "price_net": 100.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 241,
+      "stock_quantity": 239,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm-rosu-matt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ghidon-aluminiu-mtb-sxt-31-8-800-mm-rosu-matt~8339776.jpg",
@@ -2806,7 +2778,7 @@
       "price_net": 100.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 224,
+      "stock_quantity": 222,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm-albastru-matt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ghidon-aluminiu-mtb-sxt-31-8-800-mm-albastru-matt~8339791.jpg",
@@ -2882,7 +2854,7 @@
       "price_net": 100.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 207,
+      "stock_quantity": 204,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm-mov-matt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ghidon-aluminiu-mtb-sxt-31-8-800-mm-mov-matt~8339821.jpg",
@@ -4790,7 +4762,7 @@
       "price_net": 44.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 85,
+      "stock_quantity": 82,
       "weight_kg": 0.72,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-one-0-one-a-26-x-1-75-47-559.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-kujo-one-0-one-a-26-x-1-75-47-559~8340328.jpg",
@@ -7445,6 +7417,44 @@
         ],
         "color": "Gri"
       }
+    },
+    {
+      "id": "250562",
+      "sku": "250562",
+      "ean": "887539047429",
+      "name": "Sa VELO Stella Urban E-Grip W=207 x L-265 mm Maro",
+      "brand": "VELO",
+      "category": "➤ Sei",
+      "category_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
+      "secondary_categories": [
+        "e- MOBILITY > Accesorii E-Bike"
+      ],
+      "price": 185.9,
+      "price_net": 153.64,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.6,
+      "url": "https://www.bikestylish.ro/sa-velo-stella-urban-e-grip-w-207-x-l-265-mm-maro.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/sa-velo-stella-urban-e-grip-w-207-x-l-265-mm-maro~8341027.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/sa-velo-stella-urban-e-grip-w-207-x-l-265-mm-maro~8341027.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/sa-velo-stella-urban-e-grip-w-207-x-l-265-mm-maro~8341030.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/sa-velo-stella-urban-e-grip-w-207-x-l-265-mm-maro~8341033.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/sa-velo-stella-urban-e-grip-w-207-x-l-265-mm-maro~8341036.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "City/Trekking",
+        "VELO",
+        "➤ Sei"
+      ],
+      "specs": {
+        "bike_type": [
+          "City/Trekking"
+        ],
+        "color": "Gri"
+      }
     }
   ],
   "categories": [
@@ -7761,7 +7771,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 20,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7852,14 +7862,14 @@
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 33,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "bidoane-ciclism",
       "name": "➤ Bidoane Ciclism",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
       "product_count": 22,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "bike-care-ingrijire",
@@ -7879,7 +7889,7 @@
       "id": "bike-lube-lubrefiere",
       "name": "➤ Bike Lube - Lubrefiere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Lube - Lubrefiere",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 9
     },
     {
@@ -8097,7 +8107,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 42,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8132,7 +8142,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "manete-frana-schimbator",
@@ -8216,7 +8226,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 143,
-      "in_stock_count": 107
+      "in_stock_count": 106
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8433,7 +8443,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 50,
-      "in_stock_count": 47
+      "in_stock_count": 46
     },
     {
       "id": "suruburi-piulite-saibe",

@@ -1,29 +1,14 @@
 {
-  "last_updated": "2026-04-06T04:02:43.281933+00:00",
-  "total_products": 156,
+  "last_updated": "2026-04-07T03:59:06.089438+00:00",
+  "total_products": 155,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 19,
     "total_parts": 19,
-    "product_range": "4501-4656",
-    "original_total": 4656
+    "product_range": "4501-4655",
+    "original_total": 4655
   },
   "products": [
-    {
-      "id": "715201",
-      "sku": "715201",
-      "name": "PANTALONI DE CICLISM SXT",
-      "price": 0.0,
-      "price_net": 0.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
-      "url": "https://www.bikestylish.ro/pantaloni-de-ciclism-sxt.html",
-      "image": "None",
-      "images": [
-        "None"
-      ]
-    },
     {
       "id": "719301",
       "sku": "719301",
@@ -751,8 +736,8 @@
       "price": 258.5,
       "price_net": 213.64,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/pedale-ht-ar12-rosu-023.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-ar12-rosu-023~11369070.jpg",
@@ -1181,7 +1166,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 80,
+      "stock_quantity": 79,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-verde-neon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-sxt-n-13-nylon-fiber-verde-neon~11326194.jpg",
@@ -1338,7 +1323,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 431,
+      "stock_quantity": 427,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-215x-negru-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-plastic-sxt-215x-negru-9-16~11326266.jpg",
@@ -2023,8 +2008,8 @@
       "price": 64.9,
       "price_net": 53.64,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/unealta-reglaj-super-b-tb-1946b.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/unealta-reglaj-super-b-tb-1946b~12017508.jpg",
@@ -2822,7 +2807,7 @@
       "price_net": 195.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/janta-sxt-e35-27-5-584-x-35c-32h-negru-asymmetric.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/janta-sxt-e35-27-5-584-x-35c-32h-negru-asymmetric~12071706.jpg",
@@ -4567,7 +4552,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 20,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -4658,14 +4643,14 @@
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 33,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "bidoane-ciclism",
       "name": "➤ Bidoane Ciclism",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
       "product_count": 22,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "bike-care-ingrijire",
@@ -4685,7 +4670,7 @@
       "id": "bike-lube-lubrefiere",
       "name": "➤ Bike Lube - Lubrefiere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Lube - Lubrefiere",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 9
     },
     {
@@ -4903,7 +4888,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 42,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -4938,7 +4923,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "manete-frana-schimbator",
@@ -5022,7 +5007,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 143,
-      "in_stock_count": 107
+      "in_stock_count": 106
     },
     {
       "id": "pedaliere-angrenaje",
@@ -5239,7 +5224,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 50,
-      "in_stock_count": 47
+      "in_stock_count": 46
     },
     {
       "id": "suruburi-piulite-saibe",
