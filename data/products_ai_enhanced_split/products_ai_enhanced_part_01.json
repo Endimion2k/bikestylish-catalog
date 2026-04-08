@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-07T03:59:06.089438+00:00",
+  "last_updated": "2026-04-08T03:59:40.292727+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 1,
     "total_parts": 19,
     "product_range": "1-250",
-    "original_total": 4655
+    "original_total": 4668
   },
   "products": [
     {
@@ -85,7 +85,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 17,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-krackpot-20x1-95-50-406-k-907-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-kenda-krackpot-20x1-95-50-406-k-907-rosu~8278513.jpg",
@@ -279,7 +279,7 @@
       "price_net": 77.69,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 9,
       "url": "https://www.bikestylish.ro/camera-kenda-26-4-5-4-8-av-35-mm-fat-tire.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/camera-kenda-26%E2%80%944-5-4-8-av-35-mm-fat-tire~8278531.jpg",
       "images": [
@@ -339,8 +339,8 @@
       "price": 40.0,
       "price_net": 33.06,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/camera-kenda-27-5-x-2-4-2-8-plus-fv-48-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/camera-kenda-27-5-x-2-4-2-8-plus-fv-48-mm~8278537.jpg",
       "images": [
@@ -461,7 +461,7 @@
       "price_net": 59.5,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 22,
+      "stock_quantity": 18,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-kiniption-20-2-10-54-406-k-1016.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-kiniption-20%E2%80%942-10-54-406-k-1016~8278549.jpg",
@@ -2111,7 +2111,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 33,
+      "stock_quantity": 31,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-26-x-2-10-54-559-k-831a.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kenda-26-x-2-10-54-559-k-831a~8278744.jpg",
@@ -3963,7 +3963,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 53,
+      "stock_quantity": 48,
       "weight_kg": 0.23,
       "url": "https://www.bikestylish.ro/husa-sa-cu-gel-m-wave-anatomic.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/husa-sa-cu-gel-m-wave-anatomic~8278960.jpg",
@@ -3991,7 +3991,7 @@
       "price_net": 32.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 85,
+      "stock_quantity": 83,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/husa-sa-cu-gel-velo-standard-s.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/husa-sa-cu-gel-velo-standard-s~8278963.jpg",
@@ -4020,7 +4020,7 @@
       "price_net": 39.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 23,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/husa-sa-cu-gel-velo-standard-m-l.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/husa-sa-cu-gel-velo-standard-m-l~8278966.jpg",
@@ -7342,8 +7342,8 @@
       "id": "accesorii-e-bike",
       "name": "Accesorii E-Bike",
       "full_path": "e- MOBILITY > Accesorii E-Bike",
-      "product_count": 6,
-      "in_stock_count": 4
+      "product_count": 8,
+      "in_stock_count": 6
     },
     {
       "id": "amenajare-magazin",
@@ -7356,7 +7356,7 @@
       "id": "angrenaje-e-bike",
       "name": "Angrenaje E-Bike",
       "full_path": "e- MOBILITY > Angrenaje E-Bike",
-      "product_count": 14,
+      "product_count": 15,
       "in_stock_count": 10
     },
     {
@@ -7384,8 +7384,8 @@
       "id": "baterii-incarcatoare-e-bike",
       "name": "Baterii -incarcatoare E-Bike",
       "full_path": "e- MOBILITY > Baterii -incarcatoare E-Bike",
-      "product_count": 2,
-      "in_stock_count": 0
+      "product_count": 3,
+      "in_stock_count": 1
     },
     {
       "id": "biciclete-single-speed-fixie",
@@ -7412,8 +7412,8 @@
       "id": "componente-e-bike",
       "name": "Componente E-Bike",
       "full_path": "e- MOBILITY > Componente E-Bike",
-      "product_count": 2,
-      "in_stock_count": 1
+      "product_count": 3,
+      "in_stock_count": 3
     },
     {
       "id": "cosuri-transport",
@@ -7433,8 +7433,8 @@
       "id": "display-manete-e-bike",
       "name": "Display - Manete E-Bike",
       "full_path": "e- MOBILITY > Display - Manete E-Bike",
-      "product_count": 3,
-      "in_stock_count": 0
+      "product_count": 4,
+      "in_stock_count": 3
     },
     {
       "id": "ghidoane-mansoane-pipe",
@@ -7482,8 +7482,8 @@
       "id": "motoare-e-bike",
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
-      "product_count": 6,
-      "in_stock_count": 1
+      "product_count": 12,
+      "in_stock_count": 7
     },
     {
       "id": "pantaloni-ciclism",
@@ -7587,8 +7587,8 @@
       "id": "e-mobility",
       "name": "e- MOBILITY",
       "full_path": "e- MOBILITY",
-      "product_count": 1,
-      "in_stock_count": 0
+      "product_count": 2,
+      "in_stock_count": 1
     },
     {
       "id": "accesorii-camere-biciclete",
@@ -7777,7 +7777,7 @@
       "name": "➤ Brate Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
       "product_count": 48,
-      "in_stock_count": 24
+      "in_stock_count": 25
     },
     {
       "id": "butuci-frana-disc",
@@ -7812,7 +7812,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 86,
-      "in_stock_count": 54
+      "in_stock_count": 53
     },
     {
       "id": "capete-cablu-manta",
@@ -7875,7 +7875,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 22,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "cosuri-transport-spate",
@@ -7924,7 +7924,7 @@
       "name": "➤ Flori Furca - Distantiere - Accesorii",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
       "product_count": 13,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "foi-angrenaje",
@@ -7959,14 +7959,14 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 50,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "huse-sa",
       "name": "➤ Huse Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Huse Sa",
       "product_count": 7,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "intinzatoare-lant-directionare",
@@ -8253,7 +8253,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 95,
-      "in_stock_count": 82
+      "in_stock_count": 81
     },
     {
       "id": "set-lumini",
@@ -8295,7 +8295,7 @@
       "name": "➤ Spite Stainless",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 85
+      "in_stock_count": 84
     },
     {
       "id": "spite-stainless-2-3-mm",
