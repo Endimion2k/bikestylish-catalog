@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-08T03:59:40.292727+00:00",
+  "last_updated": "2026-04-09T03:58:18.504027+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
     "total_parts": 19,
     "product_range": "2251-2500",
-    "original_total": 4668
+    "original_total": 4667
   },
   "products": [
     {
@@ -1343,8 +1343,8 @@
       "price": 198.0,
       "price_net": 163.64,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.6,
       "url": "https://www.bikestylish.ro/janta-mach1-5-50-sl-disc-29-622-x-23c-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/janta-mach1-5-50-sl-disc-29-622-x-23c-32h~8327326.jpg",
@@ -5996,7 +5996,7 @@
       "price_net": 267.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 9,
       "weight_kg": 0.36,
       "url": "https://www.bikestylish.ro/protectie-antipana-tannus-tubeless-pro-27-5-x-2-10-2-60.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/protectie-antipana-tannus-tubeless-pro-27-5-x-2-10-2-60~8329132.jpg",
@@ -7413,7 +7413,7 @@
       "name": "Manusi Ciclism",
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
       "product_count": 50,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "motoare-e-bike",
@@ -7574,7 +7574,7 @@
       "name": "➤ Antifurturi Lant",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi Lant",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "antifurturi-pliabile",
@@ -7735,7 +7735,7 @@
       "name": "➤ Cabluri",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Cabluri",
       "product_count": 15,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "cadre-ssp-fixie",
@@ -7763,7 +7763,7 @@
       "name": "➤ Carcase - Prinderi SmartPhone",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Carcase - Prinderi SmartPhone",
       "product_count": 9,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "cartuse-co2-accesorii-pompe",
@@ -7811,7 +7811,7 @@
       "id": "cosuri-transport-fata",
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
-      "product_count": 22,
+      "product_count": 21,
       "in_stock_count": 18
     },
     {
@@ -7924,7 +7924,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 42,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8309,7 +8309,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 281
+      "in_stock_count": 280
     },
     {
       "id": "bike-maintenance-intretinere",

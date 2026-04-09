@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-08T03:59:40.292727+00:00",
+  "last_updated": "2026-04-09T03:58:18.504027+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 8,
     "total_parts": 19,
     "product_range": "1751-2000",
-    "original_total": 4668
+    "original_total": 4667
   },
   "products": [
     {
@@ -1063,7 +1063,7 @@
       "price_net": 250.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-26-559x19c-basic-ii-fd-36h-casetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/roata-spate-sxt-26-559x19c-basic-ii-fd-36h-casetat~8292271.jpg",
       "images": [
@@ -1125,7 +1125,7 @@
       "price_net": 250.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 15,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-29-622-x-19c-basic-ii-fd-36h-casetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-29-622-x-19c-basic-ii-fd-36h-casetat~8292277.jpg",
       "images": [
@@ -5934,8 +5934,8 @@
       "price": 64.9,
       "price_net": 53.64,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 11,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.9,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-aptor-26-x-2-10-52-559-k-1153.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kenda-aptor-26-x-2-10-52-559-k-1153~8324197.jpg",
@@ -6155,8 +6155,8 @@
       "price": 181.5,
       "price_net": 150.0,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.8,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-slant-six-sport-24-x-2-60-66-507.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-kenda-slant-six-sport-24-x-2-60-66-507~8324242.jpg",
@@ -6278,7 +6278,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 238,
+      "stock_quantity": 235,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -6308,7 +6308,7 @@
       "price_net": 30.58,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 214,
+      "stock_quantity": 211,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/camera-kenda-14-x-2-50-av-valva-45.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kenda-14-x-2-50-av-valva-45~8324272.jpg",
@@ -6571,8 +6571,8 @@
       "price": 126.5,
       "price_net": 104.55,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 1,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/husa-suport-smartphone-m-wave-black-bay.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/husa-suport-smartphone-m-wave-black-bay~8324491.jpg",
@@ -6998,7 +6998,7 @@
       "price_net": 35.45,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 1,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/sa-cu-arc-ventura-245-210-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sa-cu-arc-ventura-245-210-mm~8324764.jpg",
@@ -7183,7 +7183,7 @@
       "name": "Manusi Ciclism",
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
       "product_count": 50,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "motoare-e-bike",
@@ -7344,7 +7344,7 @@
       "name": "➤ Antifurturi Lant",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi Lant",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "antifurturi-pliabile",
@@ -7505,7 +7505,7 @@
       "name": "➤ Cabluri",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Cabluri",
       "product_count": 15,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "cadre-ssp-fixie",
@@ -7533,7 +7533,7 @@
       "name": "➤ Carcase - Prinderi SmartPhone",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Carcase - Prinderi SmartPhone",
       "product_count": 9,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "cartuse-co2-accesorii-pompe",
@@ -7581,7 +7581,7 @@
       "id": "cosuri-transport-fata",
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
-      "product_count": 22,
+      "product_count": 21,
       "in_stock_count": 18
     },
     {
@@ -7694,7 +7694,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 42,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8079,7 +8079,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 281
+      "in_stock_count": 280
     },
     {
       "id": "bike-maintenance-intretinere",

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-08T03:59:40.292727+00:00",
+  "last_updated": "2026-04-09T03:58:18.504027+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 1,
     "total_parts": 19,
     "product_range": "1-250",
-    "original_total": 4668
+    "original_total": 4667
   },
   "products": [
     {
@@ -2826,8 +2826,8 @@
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.87,
       "url": "https://www.bikestylish.ro/antifurt-tip-lant-cu-cheie-m-wave-c-6-8-5.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/antifurt-tip-lant-cu-cheie-m-wave-c-6-8-5~8278822.jpg",
@@ -3081,7 +3081,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 18,
       "weight_kg": 0.43,
       "url": "https://www.bikestylish.ro/antifurt-cu-cheie-m-wave-s-10-18-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/antifurt-cu-cheie-m-wave-s-10-18-rosu~8278846.jpg",
@@ -3173,8 +3173,8 @@
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 0.43,
       "url": "https://www.bikestylish.ro/antifurt-cu-cheie-m-wave-s-10-18-verde.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/antifurt-cu-cheie-m-wave-s-10-18-verde~8278855.jpg",
@@ -3313,7 +3313,7 @@
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 39,
+      "stock_quantity": 38,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/bike-computer-ventura-vi-6-functii.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/bike-computer-ventura-vi-6-functii~8278894.jpg",
@@ -3720,8 +3720,8 @@
       "price": 69.3,
       "price_net": 57.27,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/borseta-smartphone-m-wave-eindhoven-sc-1-xl.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/borseta-smartphone-m-wave-eindhoven-sc-1-xl~8278936.jpg",
@@ -3963,7 +3963,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 48,
+      "stock_quantity": 45,
       "weight_kg": 0.23,
       "url": "https://www.bikestylish.ro/husa-sa-cu-gel-m-wave-anatomic.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/husa-sa-cu-gel-m-wave-anatomic~8278960.jpg",
@@ -6428,7 +6428,7 @@
       "price_net": 53.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 28,
+      "stock_quantity": 26,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/sa-m-wave-comp-x.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/sa-m-wave-comp-x~8280202.jpg",
@@ -6491,7 +6491,7 @@
       "price_net": 41.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 24,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/sa-m-wave-kid-grip-12-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/sa-m-wave-kid-grip-12-16~8280208.jpg",
@@ -7476,7 +7476,7 @@
       "name": "Manusi Ciclism",
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
       "product_count": 50,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "motoare-e-bike",
@@ -7637,7 +7637,7 @@
       "name": "➤ Antifurturi Lant",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi Lant",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "antifurturi-pliabile",
@@ -7798,7 +7798,7 @@
       "name": "➤ Cabluri",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Cabluri",
       "product_count": 15,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "cadre-ssp-fixie",
@@ -7826,7 +7826,7 @@
       "name": "➤ Carcase - Prinderi SmartPhone",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Carcase - Prinderi SmartPhone",
       "product_count": 9,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "cartuse-co2-accesorii-pompe",
@@ -7874,7 +7874,7 @@
       "id": "cosuri-transport-fata",
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
-      "product_count": 22,
+      "product_count": 21,
       "in_stock_count": 18
     },
     {
@@ -7987,7 +7987,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 42,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8372,7 +8372,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 281
+      "in_stock_count": 280
     },
     {
       "id": "bike-maintenance-intretinere",
