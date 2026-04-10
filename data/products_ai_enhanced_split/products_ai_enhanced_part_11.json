@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T03:58:18.504027+00:00",
+  "last_updated": "2026-04-10T04:02:59.667202+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1123,7 +1123,7 @@
       "id": "321135",
       "sku": "321135",
       "ean": "887539033057",
-      "name": "Set QR Antifurt M-WAVE - Negru F+R",
+      "name": "Set QR M-WAVE - Negru F+R",
       "brand": "M-WAVE",
       "category": "➤ Axe - Accesorii Butuci",
       "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
@@ -1131,13 +1131,13 @@
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 19,
+      "stock_quantity": 17,
       "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/set-qr-antifurt-m-wave-negru-f-r.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/set-qr-antifurt-m-wave-negru-f-r~8329957.jpg",
+      "url": "https://www.bikestylish.ro/set-qr-m-wave-negru-f-r.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/set-qr-m-wave-negru-f-r~8329957.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/set-qr-antifurt-m-wave-negru-f-r~8329957.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/set-qr-antifurt-m-wave-negru-f-r~8329960.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/7/set-qr-m-wave-negru-f-r~8329957.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/set-qr-m-wave-negru-f-r~8329960.jpg"
       ],
       "tags": [
         "COMPONENTE",
@@ -1879,8 +1879,8 @@
       "price": 108.9,
       "price_net": 90.0,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d24-corratec-decathlon-falcon-fuji-khs-kona-norco-wheeler.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d24-corratec-decathlon-falcon-fuji-khs-kona-norco~8330164.jpg",
@@ -2868,7 +2868,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 101,
+      "stock_quantity": 96,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/ulei-special-m-wave-oil-guard-bio-100-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ulei-special-m-wave-oil-guard-bio-100-ml~8330437.jpg",
@@ -3812,8 +3812,8 @@
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 2,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d496-ridley.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d496-ridley~8330608.jpg",
       "images": [
@@ -4818,8 +4818,8 @@
       "price": 137.5,
       "price_net": 113.64,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d372-corratec.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d372-corratec~8330743.jpg",
@@ -7294,7 +7294,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 22
+      "in_stock_count": 21
     },
     {
       "id": "discuri-rotoare",
@@ -7728,7 +7728,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "transport-biciclete",
@@ -7763,7 +7763,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 280
+      "in_stock_count": 320
     },
     {
       "id": "bike-maintenance-intretinere",

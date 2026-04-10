@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T03:58:18.504027+00:00",
+  "last_updated": "2026-04-10T04:02:59.667202+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -225,8 +225,8 @@
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 2,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d164-giant.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d164-giant~8331022.jpg",
@@ -981,8 +981,8 @@
       "price": 143.0,
       "price_net": 118.18,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d565-corratec.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d565-corratec~8331118.jpg",
@@ -2532,8 +2532,8 @@
       "price": 132.0,
       "price_net": 109.09,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d135-orbea.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d135-orbea~8331331.jpg",
@@ -3047,8 +3047,8 @@
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d393-merida.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d393-merida~8331391.jpg",
       "images": [
@@ -3936,8 +3936,8 @@
       "price": 328.9,
       "price_net": 271.82,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 2,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d76-dartmoor.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d76-dartmoor~8331526.jpg",
       "images": [
@@ -4507,8 +4507,8 @@
       "price": 137.5,
       "price_net": 113.64,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d250-canyon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d250-canyon~8331595.jpg",
@@ -6313,8 +6313,8 @@
       "price": 328.9,
       "price_net": 271.82,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 2,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d655-giant.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d655-giant~8331904.jpg",
@@ -6895,7 +6895,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 22
+      "in_stock_count": 21
     },
     {
       "id": "discuri-rotoare",
@@ -7329,7 +7329,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "transport-biciclete",
@@ -7364,7 +7364,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 280
+      "in_stock_count": 320
     },
     {
       "id": "bike-maintenance-intretinere",
