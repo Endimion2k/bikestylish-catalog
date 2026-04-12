@@ -1,1784 +1,14 @@
 {
-  "last_updated": "2026-04-11T03:51:26.536728+00:00",
+  "last_updated": "2026-04-12T04:03:40.064859+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 16,
     "total_parts": 19,
     "product_range": "3751-4000",
-    "original_total": 4667
+    "original_total": 4598
   },
   "products": [
-    {
-      "id": "HTT2SXABM",
-      "sku": "HTT2SXABM",
-      "ean": "4711126209203",
-      "name": "Pedale HT T2-SX Albastru Marin",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 658.9,
-      "price_net": 544.55,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-t2-sx-albastru-marin.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-t2-sx-albastru-marin~8338900.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-t2-sx-albastru-marin~8338900.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
-    {
-      "id": "HTT2SXV",
-      "sku": "HTT2SXV",
-      "ean": "4711126209234",
-      "name": "Pedale HT T2-SX Verde Apple",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 658.9,
-      "price_net": 544.55,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-t2-sx-verde-apple.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-t2-sx-verde-apple~8338903.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-t2-sx-verde-apple~8338903.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Verde"
-      }
-    },
-    {
-      "id": "HTT2SXTQ",
-      "sku": "HTT2SXTQ",
-      "ean": "4711126209258",
-      "name": "Pedale HT T2-SX Turq",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 658.9,
-      "price_net": 544.55,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-t2-sx-turq.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-t2-sx-turq~8338906.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-t2-sx-turq~8338906.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ]
-    },
-    {
-      "id": "HTD1O",
-      "sku": "HTD1O",
-      "ean": "4711126206141",
-      "name": "Pedale Duble HT D1 Orange",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 605.0,
-      "price_net": 500.0,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-duble-ht-d1-orange.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-duble-ht-d1-orange~8338912.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-duble-ht-d1-orange~8338912.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-duble-ht-d1-orange~8338915.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-duble-ht-d1-orange~8338918.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Orange"
-      }
-    },
-    {
-      "id": "HTD1V",
-      "sku": "HTD1V",
-      "ean": "4711126206189",
-      "name": "Pedale Duble HT D1 Verde Apple",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 605.0,
-      "price_net": 500.0,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-duble-ht-d1-verde-apple.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-duble-ht-d1-verde-apple~8338921.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-duble-ht-d1-verde-apple~8338921.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-duble-ht-d1-verde-apple~8338924.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-duble-ht-d1-verde-apple~8338927.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Verde"
-      }
-    },
-    {
-      "id": "HTD1AB",
-      "sku": "HTD1AB",
-      "ean": "4711126206196",
-      "name": "Pedale Duble HT D1 Albastru Royal",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 605.0,
-      "price_net": 500.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-duble-ht-d1-albastru-royal.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-duble-ht-d1-albastru-royal~8338930.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-duble-ht-d1-albastru-royal~8338930.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-duble-ht-d1-albastru-royal~8338933.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-duble-ht-d1-albastru-royal~8338936.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
-    {
-      "id": "HTX2N",
-      "sku": "HTX2N",
-      "ean": "4711126204017",
-      "name": "Pedale HT X2 Negru",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 709.5,
-      "price_net": 586.36,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.55,
-      "url": "https://www.bikestylish.ro/pedale-ht-x2-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-x2-negru~8338939.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-x2-negru~8338939.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-x2-negru~8338942.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-x2-negru~8338945.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-x2-negru~8338948.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "HTM2N",
-      "sku": "HTM2N",
-      "ean": "4711126208428",
-      "name": "Pedale HT M2 Negru",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 539.0,
-      "price_net": 445.45,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.35,
-      "url": "https://www.bikestylish.ro/pedale-ht-m2-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-m2-negru~8338951.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-m2-negru~8338951.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-m2-negru~8338954.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-m2-negru~8338957.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "HTM2P",
-      "sku": "HTM2P",
-      "ean": "4711126208442",
-      "name": "Pedale HT M2 Purple",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 544.5,
-      "price_net": 450.0,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.35,
-      "url": "https://www.bikestylish.ro/pedale-ht-m2-purple.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-m2-purple~8338960.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-m2-purple~8338960.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-m2-purple~8338963.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-m2-purple~8338966.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Purple"
-      }
-    },
-    {
-      "id": "HTM2G",
-      "sku": "HTM2G",
-      "ean": "4711126208459",
-      "name": "Pedale HT M2 Gold",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 539.0,
-      "price_net": 445.45,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.35,
-      "url": "https://www.bikestylish.ro/pedale-ht-m2-gold.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-m2-gold~8338969.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-m2-gold~8338969.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-m2-gold~8338972.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-m2-gold~8338975.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Gold"
-      }
-    },
-    {
-      "id": "HTM2AM",
-      "sku": "HTM2AM",
-      "ean": "4711126208473",
-      "name": "Pedale HT M2 Albastru Marine",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 539.0,
-      "price_net": 445.45,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.35,
-      "url": "https://www.bikestylish.ro/pedale-ht-m2-albastru-marine.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-m2-albastru-marine~8338978.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-m2-albastru-marine~8338978.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-m2-albastru-marine~8338981.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-m2-albastru-marine~8338984.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
-    {
-      "id": "HTM2R",
-      "sku": "HTM2R",
-      "ean": "4711126208497",
-      "name": "Pedale HT M2 Rosu",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 539.0,
-      "price_net": 445.45,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.35,
-      "url": "https://www.bikestylish.ro/pedale-ht-m2-rosu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-m2-rosu~8338987.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-m2-rosu~8338987.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-m2-rosu~8338990.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-m2-rosu~8338993.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Rosu"
-      }
-    },
-    {
-      "id": "HTM2V",
-      "sku": "HTM2V",
-      "ean": "4711126208503",
-      "name": "Pedale HT M2 Verde Apple",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 539.0,
-      "price_net": 445.45,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "url": "https://www.bikestylish.ro/pedale-ht-m2-verde-apple.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-m2-verde-apple~8338996.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-m2-verde-apple~8338996.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-m2-verde-apple~8338999.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-m2-verde-apple~8339002.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Verde"
-      }
-    },
-    {
-      "id": "HTM2T",
-      "sku": "HTM2T",
-      "ean": "4711126208527",
-      "name": "Pedale HT M2 Turquoise",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 539.0,
-      "price_net": 445.45,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.35,
-      "url": "https://www.bikestylish.ro/pedale-ht-m2-turquoise.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-m2-turquoise~8339005.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-m2-turquoise~8339005.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-m2-turquoise~8339008.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-m2-turquoise~8339011.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ]
-    },
-    {
-      "id": "HTT2N",
-      "sku": "HTT2N",
-      "ean": "4711126208909",
-      "name": "Pedale HT T2 Negru",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 658.9,
-      "price_net": 544.55,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-t2-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-t2-negru~8339014.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-t2-negru~8339014.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-t2-negru~8339017.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-t2-negru~8339020.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-t2-negru~8339023.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "HTT2P",
-      "sku": "HTT2P",
-      "ean": "4711126208923",
-      "name": "Pedale HT T2 Purple",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Duble",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Duble",
-      "price": 658.9,
-      "price_net": 544.55,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-t2-purple.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-t2-purple~8339026.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-t2-purple~8339026.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-t2-purple~8339029.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-t2-purple~8339032.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-t2-purple~8339035.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-t2-purple~8339038.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Duble"
-      ],
-      "specs": {
-        "color": "Purple"
-      }
-    },
-    {
-      "id": "HTT2AM",
-      "sku": "HTT2AM",
-      "ean": "4711126208954",
-      "name": "Pedale HT T2 Albastru Marine",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Duble",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Duble",
-      "price": 658.9,
-      "price_net": 544.55,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-t2-albastru-marine.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-t2-albastru-marine~8339041.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-t2-albastru-marine~8339041.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-t2-albastru-marine~8339044.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-t2-albastru-marine~8339047.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-t2-albastru-marine~8339050.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-t2-albastru-marine~8339053.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Duble"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
-    {
-      "id": "HTT2R",
-      "sku": "HTT2R",
-      "ean": "4711126208978",
-      "name": "Pedale HT T2 Rosu",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Duble",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Duble",
-      "price": 658.9,
-      "price_net": 544.55,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-t2-rosu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-t2-rosu~8339056.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-t2-rosu~8339056.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-t2-rosu~8339059.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-t2-rosu~8339062.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-t2-rosu~8339065.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Duble"
-      ],
-      "specs": {
-        "color": "Rosu"
-      }
-    },
-    {
-      "id": "HTT2V",
-      "sku": "HTT2V",
-      "ean": "4711126208985",
-      "name": "Pedale HT T2 Verde Apple",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Duble",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Duble",
-      "price": 658.9,
-      "price_net": 544.55,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-t2-verde-apple.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-t2-verde-apple~8339068.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-t2-verde-apple~8339068.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-t2-verde-apple~8339071.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-t2-verde-apple~8339074.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Duble"
-      ],
-      "specs": {
-        "color": "Verde"
-      }
-    },
-    {
-      "id": "HTT2T",
-      "sku": "HTT2T",
-      "ean": "4711126209005",
-      "name": "Pedale HT T2 Turquoise",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Duble",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Duble",
-      "price": 658.9,
-      "price_net": 544.55,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-t2-turquoise.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-t2-turquoise~8339077.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-t2-turquoise~8339077.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-t2-turquoise~8339080.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-t2-turquoise~8339083.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Duble"
-      ]
-    },
-    {
-      "id": "HTX3N",
-      "sku": "HTX3N",
-      "ean": "4711126208671",
-      "name": "Pedale HT X3 Negru",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Duble",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Duble",
-      "price": 878.9,
-      "price_net": 726.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.5,
-      "url": "https://www.bikestylish.ro/pedale-ht-x3-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-x3-negru~8339086.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-x3-negru~8339086.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-x3-negru~8339089.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-x3-negru~8339092.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-x3-negru~8339095.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Duble"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "HTX3AB",
-      "sku": "HTX3AB",
-      "ean": "4711126208725",
-      "name": "Pedale HT X3 Albastru Marine",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Duble",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Duble",
-      "price": 878.9,
-      "price_net": 726.36,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "url": "https://www.bikestylish.ro/pedale-ht-x3-albastru-marine.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-x3-albastru-marine~8339098.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-x3-albastru-marine~8339098.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-x3-albastru-marine~8339101.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-x3-albastru-marine~8339104.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-x3-albastru-marine~8339107.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-x3-albastru-marine~8339110.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Duble"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
-    {
-      "id": "HTX3R",
-      "sku": "HTX3R",
-      "ean": "4711126208749",
-      "name": "Pedale HT X3 Rosu",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Duble",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Duble",
-      "price": 878.9,
-      "price_net": 726.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.5,
-      "url": "https://www.bikestylish.ro/pedale-ht-x3-rosu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-x3-rosu~8339113.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-x3-rosu~8339113.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-x3-rosu~8339116.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-x3-rosu~8339119.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-x3-rosu~8339122.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Duble"
-      ],
-      "specs": {
-        "color": "Rosu"
-      }
-    },
-    {
-      "id": "HTX3P",
-      "sku": "HTX3P",
-      "ean": "4711126208695",
-      "name": "Pedale HT X3 Purple",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Duble",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Duble",
-      "price": 878.9,
-      "price_net": 726.36,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
-      "weight_kg": 0.5,
-      "url": "https://www.bikestylish.ro/pedale-ht-x3-purple.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-x3-purple~8339125.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-x3-purple~8339125.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-x3-purple~8339128.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-x3-purple~8339131.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-x3-purple~8339134.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Duble"
-      ],
-      "specs": {
-        "color": "Purple"
-      }
-    },
-    {
-      "id": "388599",
-      "sku": "388599",
-      "ean": "2802168000001",
-      "name": "Roata Spate 26\" ( 559x19C ) x 36H NEURO DISC - 2R",
-      "brand": "SXT",
-      "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
-      "price": 317.9,
-      "price_net": 262.73,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/roata-spate-26-559x19c-x-36h-neuro-disc-2r.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-26-559x19c-x-36h-neuro-disc-2r~8339146.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-26-559x19c-x-36h-neuro-disc-2r~8339146.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-26-559x19c-x-36h-neuro-disc-2r~8339149.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-26-559x19c-x-36h-neuro-disc-2r~8339152.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/roata-spate-26-559x19c-x-36h-neuro-disc-2r~8339155.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-26-559x19c-x-36h-neuro-disc-2r~8339158.jpg"
-      ],
-      "tags": [
-        "26 inch",
-        "COMPONENTE",
-        "SXT",
-        "➤ Roti Spate"
-      ],
-      "specs": {
-        "wheel_size": "26",
-        "dimensions": "559 x 19"
-      }
-    },
-    {
-      "id": "HTX3G",
-      "sku": "HTX3G",
-      "ean": "4711126208701",
-      "name": "Pedale HT X3 Gold",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Duble",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Duble",
-      "price": 878.9,
-      "price_net": 726.36,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.5,
-      "url": "https://www.bikestylish.ro/pedale-ht-x3-gold.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-x3-gold~8339161.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-x3-gold~8339161.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-x3-gold~8339164.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-x3-gold~8339167.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-x3-gold~8339170.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Duble"
-      ],
-      "specs": {
-        "color": "Gold"
-      }
-    },
-    {
-      "id": "HTX3V",
-      "sku": "HTX3V",
-      "ean": "4711126208756",
-      "name": "Pedale HT X3 Verde Apple",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Duble",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Duble",
-      "price": 878.9,
-      "price_net": 726.36,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "url": "https://www.bikestylish.ro/pedale-ht-x3-verde-apple.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-x3-verde-apple~8339173.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-x3-verde-apple~8339173.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-x3-verde-apple~8339176.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-x3-verde-apple~8339179.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-x3-verde-apple~8339182.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Duble"
-      ],
-      "specs": {
-        "color": "Verde"
-      }
-    },
-    {
-      "id": "700330 -  05650",
-      "sku": "700330 -  05650",
-      "ean": "4067684000227",
-      "name": "Protectie Antipana TANNUS TUBELESS 700 x 33-47(33/47-622)",
-      "brand": "TANNUS",
-      "category": "➤ Protectii Antipana",
-      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
-      "price": 269.0,
-      "price_net": 222.31,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.15,
-      "url": "https://www.bikestylish.ro/protectie-antipana-tannus-tubeless-700-x-33-47-33-47-622.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/protectie-antipana-tannus-tubeless-700-x-33-47-33-47-622~8339185.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/protectie-antipana-tannus-tubeless-700-x-33-47-33-47-622~8339185.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/protectie-antipana-tannus-tubeless-700-x-33-47-33-47-622~8339188.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "TANNUS",
-        "➤ Protectii Antipana"
-      ],
-      "specs": {
-        "dimensions": "700 x 33-47"
-      }
-    },
-    {
-      "id": "470358",
-      "sku": "470358",
-      "ean": "887539042127",
-      "name": "Pompa Mini BETO One Way SP Negru",
-      "brand": "BETO",
-      "category": "➤ Mini Pompe",
-      "category_path": "ACCESORII > Pompe Ciclism > ➤ Mini Pompe",
-      "price": 27.5,
-      "price_net": 22.73,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 33,
-      "weight_kg": 0.14,
-      "url": "https://www.bikestylish.ro/pompa-mini-beto-one-way-sp-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pompa-mini-beto-one-way-sp-negru~8339191.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pompa-mini-beto-one-way-sp-negru~8339191.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pompa-mini-beto-one-way-sp-negru~8339194.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "BETO",
-        "➤ Mini Pompe"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "270061",
-      "sku": "270061",
-      "ean": "887539034948",
-      "name": "Oglinda Bicicleta Flexibila M-WAVE SPY FLEX TF Diam. 80 mm",
-      "brand": "M-WAVE",
-      "category": "➤ Oglinzi",
-      "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
-      "price": 61.6,
-      "price_net": 50.91,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 21,
-      "weight_kg": 0.15,
-      "url": "https://www.bikestylish.ro/oglinda-bicicleta-flexibila-m-wave-spy-flex-tf-diam-80-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/oglinda-bicicleta-flexibila-m-wave-spy-flex-tf-diam-80-mm~8339197.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/oglinda-bicicleta-flexibila-m-wave-spy-flex-tf-diam-80-mm~8339197.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/oglinda-bicicleta-flexibila-m-wave-spy-flex-tf-diam-80-mm~8339200.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/oglinda-bicicleta-flexibila-m-wave-spy-flex-tf-diam-80-mm~8339203.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "M-WAVE",
-        "➤ Oglinzi"
-      ]
-    },
-    {
-      "id": "680196",
-      "sku": "680196",
-      "ean": "2802170000006",
-      "name": "Schimbator Fata SXT Dual Pull 28,6-31,8 mm 42T",
-      "brand": "SXT",
-      "category": "➤ Schimbatoare Fata",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Fata",
-      "price": 49.5,
-      "price_net": 40.91,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 24,
-      "weight_kg": 0.24,
-      "url": "https://www.bikestylish.ro/schimbator-fata-sxt-dual-pull-28-6-31-8-mm-42t.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/schimbator-fata-sxt-dual-pull-28-6-31-8-mm-42t~8339206.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/schimbator-fata-sxt-dual-pull-28-6-31-8-mm-42t~8339206.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SXT",
-        "➤ Schimbatoare Fata"
-      ]
-    },
-    {
-      "id": "370295",
-      "sku": "370295",
-      "ean": "887539014841",
-      "name": "Set Ghidaje Cablu M-WAVE Cable Fix",
-      "brand": "M-WAVE",
-      "category": "➤ Mantale",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Mantale",
-      "price": 26.4,
-      "price_net": 21.82,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 22,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/set-ghidaje-cablu-m-wave-cable-fix.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/set-ghidaje-cablu-m-wave-cable-fix~8339209.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/set-ghidaje-cablu-m-wave-cable-fix~8339209.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/set-ghidaje-cablu-m-wave-cable-fix~8339212.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "M-WAVE",
-        "➤ Mantale"
-      ]
-    },
-    {
-      "id": "251072",
-      "sku": "251072",
-      "ean": "887539036799",
-      "name": "Sa M-WAVE Vacu City XL - 254 x 209 mm E-Bike",
-      "brand": "M-WAVE",
-      "category": "➤ Sei",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
-      "secondary_categories": [
-        "e- MOBILITY > Accesorii E-Bike"
-      ],
-      "price": 97.9,
-      "price_net": 80.91,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 29,
-      "weight_kg": 0.6,
-      "url": "https://www.bikestylish.ro/sa-m-wave-vacu-city-xl-254-x-209-mm-e-bike.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/sa-m-wave-vacu-city-xl-254-x-209-mm-e-bike~8339215.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/sa-m-wave-vacu-city-xl-254-x-209-mm-e-bike~8339215.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/sa-m-wave-vacu-city-xl-254-x-209-mm-e-bike~8339221.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/sa-m-wave-vacu-city-xl-254-x-209-mm-e-bike~8339218.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/sa-m-wave-vacu-city-xl-254-x-209-mm-e-bike~8339224.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "City/Trekking",
-        "E-Bike",
-        "M-WAVE",
-        "➤ Sei"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike",
-          "City/Trekking"
-        ],
-        "dimensions": "254 x 209"
-      }
-    },
-    {
-      "id": "558160",
-      "sku": "558160",
-      "ean": "887539041885",
-      "name": "Anvelopa KUJO One 0 One 700 x 55C (55-622)",
-      "brand": "KUJO",
-      "category": "➤ Anvelope pe Sârmă",
-      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "price": 108.9,
-      "price_net": 90.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
-      "weight_kg": 0.98,
-      "url": "https://www.bikestylish.ro/anvelopa-kujo-one-0-one-700-x-55c-55-622.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kujo-one-0-one-700-x-55c-55-622~8339227.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kujo-one-0-one-700-x-55c-55-622~8339227.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "KUJO",
-        "➤ Anvelope pe Sârmă"
-      ],
-      "specs": {
-        "dimensions": "700 x 55"
-      }
-    },
-    {
-      "id": "470505",
-      "sku": "470505",
-      "ean": "887539039318",
-      "name": "Pompa Podea VENTURA Metal 120 psi/8 bar Negru",
-      "brand": "VENTURA",
-      "category": "➤ Pompe Podea",
-      "category_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Podea",
-      "price": 108.9,
-      "price_net": 90.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
-      "weight_kg": 2.0,
-      "url": "https://www.bikestylish.ro/pompa-podea-ventura-metal-120-psi-8-bar-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pompa-podea-ventura-metal-120-psi-8-bar-negru~8339230.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pompa-podea-ventura-metal-120-psi-8-bar-negru~8339230.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pompa-podea-ventura-metal-120-psi-8-bar-negru~8339233.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pompa-podea-ventura-metal-120-psi-8-bar-negru~8339236.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pompa-podea-ventura-metal-120-psi-8-bar-negru~8339239.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "VENTURA",
-        "➤ Pompe Podea"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "340440",
-      "sku": "340440",
-      "ean": "887539036874",
-      "name": "Bidon Plastic M-WAVE PBO 1000 -Negru",
-      "brand": "M-WAVE",
-      "category": "➤ Bidoane Ciclism",
-      "category_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
-      "price": 24.2,
-      "price_net": 20.0,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
-      "weight_kg": 0.13,
-      "url": "https://www.bikestylish.ro/bidon-plastic-m-wave-pbo-1000-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/bidon-plastic-m-wave-pbo-1000-negru~8339242.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/bidon-plastic-m-wave-pbo-1000-negru~8339242.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/bidon-plastic-m-wave-pbo-1000-negru~8339245.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/bidon-plastic-m-wave-pbo-1000-negru~8339248.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/bidon-plastic-m-wave-pbo-1000-negru~8339251.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "M-WAVE",
-        "Plastic",
-        "➤ Bidoane Ciclism"
-      ],
-      "specs": {
-        "material": "Plastic",
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "340430",
-      "sku": "340430",
-      "ean": "887539036942",
-      "name": "Bidon Plastic M-WAVE PBO 350 Negru",
-      "brand": "M-WAVE",
-      "category": "➤ Bidoane Ciclism",
-      "category_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
-      "price": 19.8,
-      "price_net": 16.36,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 24,
-      "weight_kg": 0.08,
-      "url": "https://www.bikestylish.ro/bidon-plastic-m-wave-pbo-350-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/bidon-plastic-m-wave-pbo-350-negru~8339254.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/bidon-plastic-m-wave-pbo-350-negru~8339254.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/bidon-plastic-m-wave-pbo-350-negru~8339257.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "M-WAVE",
-        "Plastic",
-        "➤ Bidoane Ciclism"
-      ],
-      "specs": {
-        "material": "Plastic",
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "340452",
-      "sku": "340452",
-      "ean": "887539036973",
-      "name": "Bidon Termic M-WAVE PBO 500-ISO Alb",
-      "brand": "M-WAVE",
-      "category": "➤ Bidoane Ciclism",
-      "category_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
-      "price": 38.5,
-      "price_net": 31.82,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 24,
-      "weight_kg": 0.2,
-      "url": "https://www.bikestylish.ro/bidon-termic-m-wave-pbo-500-iso-alb.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/bidon-termic-m-wave-pbo-500-iso-alb~8339260.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/bidon-termic-m-wave-pbo-500-iso-alb~8339260.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/bidon-termic-m-wave-pbo-500-iso-alb~8339263.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/bidon-termic-m-wave-pbo-500-iso-alb~8339266.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "M-WAVE",
-        "➤ Bidoane Ciclism"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
-    {
-      "id": "251073",
-      "sku": "251073",
-      "ean": "2802171000005",
-      "name": "Sa M-WAVE Vacu City XL Sport City",
-      "brand": "M-WAVE",
-      "category": "➤ Sei",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
-      "price": 108.9,
-      "price_net": 90.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 20,
-      "weight_kg": 0.7,
-      "url": "https://www.bikestylish.ro/sa-m-wave-vacu-city-xl-sport-city.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/sa-m-wave-vacu-city-xl-sport-city~8339269.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/sa-m-wave-vacu-city-xl-sport-city~8339269.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/sa-m-wave-vacu-city-xl-sport-city~8339272.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/sa-m-wave-vacu-city-xl-sport-city~8339275.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/sa-m-wave-vacu-city-xl-sport-city~8339278.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "City/Trekking",
-        "M-WAVE",
-        "➤ Sei"
-      ],
-      "specs": {
-        "bike_type": [
-          "City/Trekking"
-        ]
-      }
-    },
-    {
-      "id": "466409",
-      "sku": "466409",
-      "ean": "2802172000004",
-      "name": "Reflectorizant SXT - Rosu",
-      "brand": "SXT",
-      "category": "➤ Reflectorizante",
-      "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
-      "price": 9.9,
-      "price_net": 8.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/reflectorizant-sxt-rosu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/reflectorizant-sxt-rosu~8339281.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/reflectorizant-sxt-rosu~8339281.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/reflectorizant-sxt-rosu~8339284.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "SXT",
-        "➤ Reflectorizante"
-      ],
-      "specs": {
-        "color": "Rosu"
-      }
-    },
-    {
-      "id": "122641",
-      "sku": "122641",
-      "ean": "887539036867",
-      "name": "Borseta Cadru M-WAVE Rough Ride Top 0,75 l",
-      "brand": "M-WAVE",
-      "category": "➤ Bagaje Cadru",
-      "category_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
-      "price": 108.9,
-      "price_net": 90.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
-      "weight_kg": 0.14,
-      "url": "https://www.bikestylish.ro/borseta-cadru-m-wave-rough-ride-top-0-75-l.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/borseta-cadru-m-wave-rough-ride-top-0-75-l~8339287.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/borseta-cadru-m-wave-rough-ride-top-0-75-l~8339287.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/borseta-cadru-m-wave-rough-ride-top-0-75-l~8339293.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/borseta-cadru-m-wave-rough-ride-top-0-75-l~8339290.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "M-WAVE",
-        "➤ Bagaje Cadru"
-      ]
-    },
-    {
-      "id": "120995",
-      "sku": "120995",
-      "ean": "887539036850",
-      "name": "Husa Casca M-WAVE Maastricht",
-      "brand": "M-WAVE",
-      "category": "➤ Reflectorizante",
-      "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
-      "price": 41.8,
-      "price_net": 34.55,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
-      "weight_kg": 0.06,
-      "url": "https://www.bikestylish.ro/husa-casca-m-wave-maastricht.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/husa-casca-m-wave-maastricht~8339296.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/husa-casca-m-wave-maastricht~8339296.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/husa-casca-m-wave-maastricht~8339299.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/husa-casca-m-wave-maastricht~8339302.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/husa-casca-m-wave-maastricht~8339305.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "M-WAVE",
-        "➤ Reflectorizante"
-      ]
-    },
-    {
-      "id": "251029",
-      "sku": "251029",
-      "ean": "2800576000002",
-      "name": "Sa M-WAVE Vacu City S - 275 x 156 mm Negru",
-      "brand": "M-WAVE",
-      "category": "➤ Sei",
-      "category_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
-      "price": 64.9,
-      "price_net": 53.64,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 19,
-      "weight_kg": 0.39,
-      "url": "https://www.bikestylish.ro/sa-m-wave-vacu-city-s-275-x-156-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/sa-m-wave-vacu-city-s-275-x-156-mm-negru~8339317.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/sa-m-wave-vacu-city-s-275-x-156-mm-negru~8339317.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/sa-m-wave-vacu-city-s-275-x-156-mm-negru~8339308.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/sa-m-wave-vacu-city-s-275-x-156-mm-negru~8339311.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/sa-m-wave-vacu-city-s-275-x-156-mm-negru~8339314.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "City/Trekking",
-        "M-WAVE",
-        "➤ Sei"
-      ],
-      "specs": {
-        "bike_type": [
-          "City/Trekking"
-        ],
-        "color": "Negru",
-        "dimensions": "275 x 156"
-      }
-    },
-    {
-      "id": "431530",
-      "sku": "431530",
-      "ean": "2802173000003",
-      "name": "Cos Spate SXT - ACROSS 40",
-      "brand": "SXT",
-      "category": "➤ Cosuri Transport Spate",
-      "category_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Spate",
-      "price": 49.5,
-      "price_net": 40.91,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 33,
-      "weight_kg": 0.5,
-      "url": "https://www.bikestylish.ro/cos-spate-sxt-across-40.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/cos-spate-sxt-across-40~8339320.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/cos-spate-sxt-across-40~8339320.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "SXT",
-        "➤ Cosuri Transport Spate"
-      ]
-    },
-    {
-      "id": "361120",
-      "sku": "361120",
-      "ean": "887539040857",
-      "name": "Adaptor Center Lock SXT ADA DB CL Aluminiu Negru",
-      "brand": "SXT",
-      "category": "➤ Axe - Accesorii Butuci",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
-      "price": 82.5,
-      "price_net": 68.18,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
-      "weight_kg": 0.08,
-      "url": "https://www.bikestylish.ro/adaptor-center-lock-sxt-ada-db-cl-aluminiu-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/adaptor-center-lock-sxt-ada-db-cl-aluminiu-negru~8339323.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/adaptor-center-lock-sxt-ada-db-cl-aluminiu-negru~8339323.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/adaptor-center-lock-sxt-ada-db-cl-aluminiu-negru~8339326.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/adaptor-center-lock-sxt-ada-db-cl-aluminiu-negru~8339329.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/adaptor-center-lock-sxt-ada-db-cl-aluminiu-negru~8339332.jpg"
-      ],
-      "tags": [
-        "Aluminiu",
-        "COMPONENTE",
-        "SXT",
-        "➤ Axe - Accesorii Butuci"
-      ],
-      "specs": {
-        "material": "Aluminiu",
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "223568",
-      "sku": "223568",
-      "ean": "4897029985281",
-      "name": "Prindere MOON RB-43 - Garmin",
-      "brand": "MOON",
-      "category": "➤ Accesorii Lumini",
-      "category_path": "ACCESORII > Lumini - Accesorii > ➤ Accesorii Lumini",
-      "price": 38.5,
-      "price_net": 31.82,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.12,
-      "url": "https://www.bikestylish.ro/prindere-moon-rb-43-garmin.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/prindere-moon-rb-43-garmin~8339338.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/prindere-moon-rb-43-garmin~8339338.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/prindere-moon-rb-43-garmin~8339335.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "MOON",
-        "➤ Accesorii Lumini"
-      ]
-    },
-    {
-      "id": "223567",
-      "sku": "223567",
-      "ean": "4897029985328",
-      "name": "Prindere Clip- On MOON Garmin",
-      "brand": "MOON",
-      "category": "➤ Accesorii Lumini",
-      "category_path": "ACCESORII > Lumini - Accesorii > ➤ Accesorii Lumini",
-      "price": 33.0,
-      "price_net": 27.27,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 20,
-      "weight_kg": 0.12,
-      "url": "https://www.bikestylish.ro/prindere-clip-on-moon-garmin.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/prindere-clip-on-moon-garmin~8339341.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/prindere-clip-on-moon-garmin~8339341.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/prindere-clip-on-moon-garmin~8339344.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/prindere-clip-on-moon-garmin~8339347.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "MOON",
-        "➤ Accesorii Lumini"
-      ]
-    },
-    {
-      "id": "303596",
-      "sku": "303596",
-      "name": "Lant KMC X12 Aurora Blue 126 zale",
-      "brand": "KMC",
-      "category": "➤ Lanturi",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
-      "price": 295.9,
-      "price_net": 244.55,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.33,
-      "url": "https://www.bikestylish.ro/lant-kmc-x12-aurora-blue-126-zale.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/lant-kmc-x12-aurora-blue-126-zale~8339350.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/lant-kmc-x12-aurora-blue-126-zale~8339350.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/lant-kmc-x12-aurora-blue-126-zale~8339353.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-x12-aurora-blue-126-zale~8339356.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/lant-kmc-x12-aurora-blue-126-zale~8339359.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "KMC",
-        "➤ Lanturi"
-      ],
-      "specs": {
-        "color": "Blue"
-      }
-    },
-    {
-      "id": "360758",
-      "sku": "360758",
-      "ean": "887539038243",
-      "name": "Placute Frana M-WAVE SRAM Organice",
-      "brand": "M-WAVE",
-      "category": "➤ Placute Frana Disc",
-      "category_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
-      "price": 38.5,
-      "price_net": 31.82,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 20,
-      "weight_kg": 0.04,
-      "url": "https://www.bikestylish.ro/placute-frana-m-wave-sram-organice.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/placute-frana-m-wave-sram-organice~8339362.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/placute-frana-m-wave-sram-organice~8339362.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/placute-frana-m-wave-sram-organice~8339365.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "M-WAVE",
-        "➤ Placute Frana Disc"
-      ]
-    },
-    {
-      "id": "390493",
-      "sku": "390493",
-      "ean": "4015493390152",
-      "name": "Cuveti Externi NECO 1 Silver Metal",
-      "brand": "NECO",
-      "category": "➤ Cuveti(HeadSet)",
-      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
-      "price": 19.8,
-      "price_net": 16.36,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 18,
-      "weight_kg": 0.12,
-      "url": "https://www.bikestylish.ro/cuveti-externi-neco-1-silver-metal.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cuveti-externi-neco-1-silver-metal~8339368.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/cuveti-externi-neco-1-silver-metal~8339368.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/cuveti-externi-neco-1-silver-metal~8339374.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/cuveti-externi-neco-1-silver-metal~8339371.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "NECO",
-        "➤ Cuveti(HeadSet)"
-      ],
-      "specs": {
-        "color": "Silver"
-      }
-    },
-    {
-      "id": "340150",
-      "sku": "340150",
-      "ean": "887539013745",
-      "name": "Suport Ghidon M-WAVE TO GO Aluminiu Negru",
-      "brand": "M-WAVE",
-      "category": "➤ Suporturi Bidon",
-      "category_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "price": 27.5,
-      "price_net": 22.73,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
-      "weight_kg": 0.2,
-      "url": "https://www.bikestylish.ro/suport-ghidon-m-wave-to-go-aluminiu-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/suport-ghidon-m-wave-to-go-aluminiu-negru~8339383.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/suport-ghidon-m-wave-to-go-aluminiu-negru~8339383.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/suport-ghidon-m-wave-to-go-aluminiu-negru~8339386.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/suport-ghidon-m-wave-to-go-aluminiu-negru~8339389.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/suport-ghidon-m-wave-to-go-aluminiu-negru~8339392.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/suport-ghidon-m-wave-to-go-aluminiu-negru~8339395.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "Aluminiu",
-        "M-WAVE",
-        "➤ Suporturi Bidon"
-      ],
-      "specs": {
-        "material": "Aluminiu",
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "558130",
-      "sku": "558130",
-      "ean": "2802174000002",
-      "name": "Anvelopa KUJO One 0 One A 12.5 x 2.25 ( 62-203)",
-      "brand": "KUJO",
-      "category": "➤ Anvelope pe Sârmă",
-      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "price": 27.5,
-      "price_net": 22.73,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.19,
-      "url": "https://www.bikestylish.ro/anvelopa-kujo-one-0-one-a-12-5-x-2-25-62-203.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-kujo-one-0-one-a-12-5-x-2-25-62-203~8339398.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-kujo-one-0-one-a-12-5-x-2-25-62-203~8339398.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "KUJO",
-        "➤ Anvelope pe Sârmă"
-      ]
-    },
-    {
-      "id": "110985",
-      "sku": "110985",
-      "ean": "2802177000009",
-      "name": "Butuc Fata NOVATEC D041SB-CL 15 x 100 mm Negru, 32H Centerlock",
-      "brand": "NOVATEC",
-      "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
-      "price": 154.0,
-      "price_net": 127.27,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.16,
-      "url": "https://www.bikestylish.ro/butuc-fata-novatec-d041sb-cl-15-x-100-mm-negru-32h-centerlock.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/butuc-fata-novatec-d041sb-cl-15-x-100-mm-negru-32h-centerlock~8339401.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/butuc-fata-novatec-d041sb-cl-15-x-100-mm-negru-32h-centerlock~8339401.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/butuc-fata-novatec-d041sb-cl-15-x-100-mm-negru-32h-centerlock~8339404.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-fata-novatec-d041sb-cl-15-x-100-mm-negru-32h-centerlock~8339407.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "NOVATEC",
-        "➤ Butuci Frana Disc"
-      ],
-      "specs": {
-        "color": "Negru",
-        "dimensions": "15 x 100"
-      }
-    },
-    {
-      "id": "110982",
-      "sku": "110982",
-      "ean": "2802178000008",
-      "name": "Butuc Spate NOVATEC D982TSB-CL-X12-11S centerlock 12 x 142 mm 28H",
-      "brand": "NOVATEC",
-      "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
-      "price": 308.0,
-      "price_net": 254.55,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.36,
-      "url": "https://www.bikestylish.ro/butuc-spate-novatec-d982tsb-cl-x12-11s-centerlock-12-x-142-mm-28h.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-spate-novatec-d982tsb-cl-x12-11s-centerlock-12-x-142-mm-28h~8339410.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-spate-novatec-d982tsb-cl-x12-11s-centerlock-12-x-142-mm-28h~8339410.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/butuc-spate-novatec-d982tsb-cl-x12-11s-centerlock-12-x-142-mm-28h~8339413.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-spate-novatec-d982tsb-cl-x12-11s-centerlock-12-x-142-mm-28h~8339416.jpg"
-      ],
-      "tags": [
-        "11 viteze",
-        "12 inch",
-        "COMPONENTE",
-        "NOVATEC",
-        "➤ Butuci Frana Disc"
-      ],
-      "specs": {
-        "wheel_size": "12",
-        "speeds": 11,
-        "dimensions": "12 x 142"
-      }
-    },
-    {
-      "id": "110986",
-      "sku": "110986",
-      "ean": "2802179000007",
-      "name": "Butuc Spate NOVATEC D982TSB-CL-X12-11S 12 x 142 mm 32H centerlock",
-      "brand": "NOVATEC",
-      "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
-      "price": 308.0,
-      "price_net": 254.55,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.36,
-      "url": "https://www.bikestylish.ro/butuc-spate-novatec-d982tsb-cl-x12-11s-12-x-142-mm-32h-centerlock.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-spate-novatec-d982tsb-cl-x12-11s-12-x-142-mm-32h-centerlock~8339419.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-spate-novatec-d982tsb-cl-x12-11s-12-x-142-mm-32h-centerlock~8339419.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/butuc-spate-novatec-d982tsb-cl-x12-11s-12-x-142-mm-32h-centerlock~8339422.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-spate-novatec-d982tsb-cl-x12-11s-12-x-142-mm-32h-centerlock~8339425.jpg"
-      ],
-      "tags": [
-        "11 viteze",
-        "12 inch",
-        "COMPONENTE",
-        "NOVATEC",
-        "➤ Butuci Frana Disc"
-      ],
-      "specs": {
-        "wheel_size": "12",
-        "speeds": 11,
-        "dimensions": "12 x 142"
-      }
-    },
-    {
-      "id": "111028",
-      "sku": "111028",
-      "ean": "2802180000003",
-      "name": "Butuc Fata NOVATEC D791SB-CL-15 15 x 100 mm 32H centerlock",
-      "brand": "NOVATEC",
-      "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
-      "price": 286.0,
-      "price_net": 236.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.14,
-      "url": "https://www.bikestylish.ro/butuc-fata-novatec-d791sb-cl-15-15-x-100-mm-32h-centerlock.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/butuc-fata-novatec-d791sb-cl-15-15-x-100-mm-32h-centerlock~8339428.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/butuc-fata-novatec-d791sb-cl-15-15-x-100-mm-32h-centerlock~8339428.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/butuc-fata-novatec-d791sb-cl-15-15-x-100-mm-32h-centerlock~8339431.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/butuc-fata-novatec-d791sb-cl-15-15-x-100-mm-32h-centerlock~8339434.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "NOVATEC",
-        "➤ Butuci Frana Disc"
-      ],
-      "specs": {
-        "dimensions": "15 x 100"
-      }
-    },
-    {
-      "id": "388288",
-      "sku": "388288",
-      "ean": "2802181000002",
-      "name": "Set Roti GRAVEL MACH.1-N7921 700x19C 32H Sram- 6 p",
-      "brand": "SXT",
-      "category": "➤ Seturi Roti",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
-      "price": 1452.0,
-      "price_net": 1200.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/set-roti-gravel-mach-1-n7921-700x19c-32h-sram-6-p.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/set-roti-gravel-mach-1-n7921-700x19c-32h-sram-6-p~8339437.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/set-roti-gravel-mach-1-n7921-700x19c-32h-sram-6-p~8339437.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "Gravel",
-        "SXT",
-        "➤ Seturi Roti"
-      ],
-      "specs": {
-        "bike_type": [
-          "Gravel"
-        ],
-        "dimensions": "700 x 19"
-      }
-    },
-    {
-      "id": "110625",
-      "sku": "110625",
-      "ean": "2802185000008",
-      "name": "Butuc Fata JOYTECH D371RCC-12, 6p 24H 12x100 mm,",
-      "brand": "NOVATEC",
-      "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
-      "price": 218.9,
-      "price_net": 180.91,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "url": "https://www.bikestylish.ro/butuc-fata-joytech-d371rcc-12-6p-24h-12x100-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-fata-joytech-d371rcc-12-6p-24h-12x100-mm~8339467.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-fata-joytech-d371rcc-12-6p-24h-12x100-mm~8339467.jpg"
-      ],
-      "tags": [
-        "12 inch",
-        "COMPONENTE",
-        "NOVATEC",
-        "➤ Butuci Frana Disc"
-      ],
-      "specs": {
-        "wheel_size": "12",
-        "dimensions": "12 x 100"
-      }
-    },
-    {
-      "id": "111010",
-      "sku": "111010",
-      "ean": "2802186000007",
-      "name": "Butuc Fata NOVATEC D791SB-12- CL Negru 24H 12x100 mm CenterLock",
-      "brand": "NOVATEC",
-      "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
-      "price": 258.5,
-      "price_net": 213.64,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.14,
-      "url": "https://www.bikestylish.ro/butuc-fata-novatec-d791sb-12-cl-negru-24h-12x100-mm-centerlock.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-fata-novatec-d791sb-12-cl-negru-24h-12x100-mm-centerlock~8339470.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-fata-novatec-d791sb-12-cl-negru-24h-12x100-mm-centerlock~8339470.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/butuc-fata-novatec-d791sb-12-cl-negru-24h-12x100-mm-centerlock~8339473.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-fata-novatec-d791sb-12-cl-negru-24h-12x100-mm-centerlock~8339476.jpg"
-      ],
-      "tags": [
-        "12 inch",
-        "COMPONENTE",
-        "NOVATEC",
-        "➤ Butuci Frana Disc"
-      ],
-      "specs": {
-        "wheel_size": "12",
-        "color": "Negru",
-        "dimensions": "12 x 100"
-      }
-    },
     {
       "id": "111056",
       "sku": "111056",
@@ -3888,38 +2118,6 @@
       }
     },
     {
-      "id": "02649TU",
-      "sku": "02649TU",
-      "ean": "8054145175668",
-      "name": "Mansoane MTB ARIETE BASALTO Negru 130 mm",
-      "brand": "SXT",
-      "category": "➤ Mansoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
-      "price": 108.9,
-      "price_net": 90.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/mansoane-mtb-ariete-basalto-negru-130-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-mtb-ariete-basalto-negru-130-mm~11427123.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-mtb-ariete-basalto-negru-130-mm~11427123.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-mtb-ariete-basalto-negru-130-mm~8340136.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "MTB",
-        "SXT",
-        "➤ Mansoane"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ],
-        "color": "Negru"
-      }
-    },
-    {
       "id": "11A00560",
       "sku": "11A00560",
       "ean": "8022530031363",
@@ -4803,33 +3001,6 @@
         "COMPONENTE",
         "SHIMANO",
         "➤ Frane Disc"
-      ]
-    },
-    {
-      "id": "A013",
-      "sku": "A013",
-      "ean": "8055186692220",
-      "name": "Kit Service Furci Diametrul 36",
-      "brand": "SXT",
-      "category": "➤Bike Maintenance - Intretinere",
-      "category_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
-      "price": 154.0,
-      "price_net": 127.27,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/kit-service-furci-diametrul-36.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/kit-service-furci-diametrul-36~8340337.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/kit-service-furci-diametrul-36~8340337.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/kit-service-furci-diametrul-36~8340340.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/kit-service-furci-diametrul-36~8340343.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/kit-service-furci-diametrul-36~8340346.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SXT",
-        "➤Bike Maintenance - Intretinere"
       ]
     },
     {
@@ -6454,8 +4625,8 @@
       "price": 935.0,
       "price_net": 772.73,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 2,
       "url": "https://www.bikestylish.ro/motor-bafang-h600-e-bike.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/motor-bafang-h600-e-bike~8340805.jpg",
       "images": [
@@ -7463,6 +5634,1762 @@
         ],
         "color": "Gri"
       }
+    },
+    {
+      "id": "244680",
+      "sku": "244680",
+      "ean": "887539047993",
+      "name": "Prindere Ghidon M-WAVE Davenport AeroSpoon Aluminiu",
+      "brand": "M-WAVE",
+      "category": "➤ Bike Computer",
+      "category_path": "ACCESORII > Electronice > ➤ Bike Computer",
+      "secondary_categories": [
+        "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane"
+      ],
+      "price": 108.9,
+      "price_net": 90.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 4,
+      "weight_kg": 0.08,
+      "url": "https://www.bikestylish.ro/prindere-ghidon-m-wave-davenport-aerospoon-aluminiu.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/prindere-ghidon-m-wave-davenport-aerospoon-aluminiu~8341051.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/prindere-ghidon-m-wave-davenport-aerospoon-aluminiu~8341051.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/prindere-ghidon-m-wave-davenport-aerospoon-aluminiu~8341054.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "M-WAVE",
+        "➤ Bike Computer"
+      ],
+      "specs": {
+        "material": "Aluminiu"
+      }
+    },
+    {
+      "id": "244681",
+      "sku": "244681",
+      "ean": "887539048006",
+      "name": "Prindere Ghidon M-WAVE Davenport Arm 2.0 Aluminiu",
+      "brand": "M-WAVE",
+      "category": "➤ Bike Computer",
+      "category_path": "ACCESORII > Electronice > ➤ Bike Computer",
+      "secondary_categories": [
+        "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane"
+      ],
+      "price": 108.9,
+      "price_net": 90.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 0.08,
+      "url": "https://www.bikestylish.ro/prindere-ghidon-m-wave-davenport-arm-2-0-aluminiu.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/prindere-ghidon-m-wave-davenport-arm-2-0-aluminiu~8341057.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/prindere-ghidon-m-wave-davenport-arm-2-0-aluminiu~8341057.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/prindere-ghidon-m-wave-davenport-arm-2-0-aluminiu~8341060.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "M-WAVE",
+        "➤ Bike Computer"
+      ],
+      "specs": {
+        "material": "Aluminiu"
+      }
+    },
+    {
+      "id": "221101",
+      "sku": "221101",
+      "ean": "887539047863",
+      "name": "Set Lumini cu Acumulator M-WAVE Cyclob K",
+      "brand": "M-WAVE",
+      "category": "➤ Set Lumini",
+      "category_path": "ACCESORII > Lumini - Accesorii > ➤ Set Lumini",
+      "price": 151.8,
+      "price_net": 125.45,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 10,
+      "weight_kg": 0.5,
+      "url": "https://www.bikestylish.ro/set-lumini-cu-acumulator-m-wave-cyclob-k.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/set-lumini-cu-acumulator-m-wave-cyclob-k~11396289.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/set-lumini-cu-acumulator-m-wave-cyclob-k~11396289.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/set-lumini-cu-acumulator-m-wave-cyclob-k~11396292.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "➤ Set Lumini"
+      ]
+    },
+    {
+      "id": "122495",
+      "sku": "122495",
+      "ean": "887539047986",
+      "name": "Prindere Portbagaj M-WAVE Amsterdam QR ConLock",
+      "brand": "M-WAVE",
+      "category": "➤ Portbagaje Spate",
+      "category_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
+      "price": 148.5,
+      "price_net": 122.73,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 8,
+      "weight_kg": 0.39,
+      "url": "https://www.bikestylish.ro/prindere-portbagaj-m-wave-amsterdam-qr-conlock.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/prindere-portbagaj-m-wave-amsterdam-qr-conlock~8341066.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/prindere-portbagaj-m-wave-amsterdam-qr-conlock~8341066.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "➤ Portbagaje Spate"
+      ]
+    },
+    {
+      "id": "120934",
+      "sku": "120934",
+      "ean": "887539042509",
+      "name": "Vesta Reflectorizanta M-WAVE Vest Illu - XXS/XS",
+      "brand": "M-WAVE",
+      "category": "➤ Reflectorizante",
+      "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
+      "price": 33.0,
+      "price_net": 27.27,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 87,
+      "weight_kg": 0.08,
+      "url": "https://www.bikestylish.ro/vesta-reflectorizanta-m-wave-vest-illu-xxs-xs.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/vesta-reflectorizanta-m-wave-vest-illu-xxs-xs~8341069.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/vesta-reflectorizanta-m-wave-vest-illu-xxs-xs~8341069.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "➤ Reflectorizante"
+      ]
+    },
+    {
+      "id": "120935",
+      "sku": "120935",
+      "ean": "887539042516",
+      "name": "Vesta Reflectorizanta M-WAVE Vest Illu - S/M",
+      "brand": "M-WAVE",
+      "category": "➤ Reflectorizante",
+      "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
+      "price": 33.0,
+      "price_net": 27.27,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 85,
+      "weight_kg": 0.12,
+      "url": "https://www.bikestylish.ro/vesta-reflectorizanta-m-wave-vest-illu-s-m.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/vesta-reflectorizanta-m-wave-vest-illu-s-m~8341072.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/vesta-reflectorizanta-m-wave-vest-illu-s-m~8341072.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "➤ Reflectorizante"
+      ]
+    },
+    {
+      "id": "120936",
+      "sku": "120936",
+      "ean": "887539042523",
+      "name": "Vesta Reflectorizanta M-WAVE Vest Illu - M/L",
+      "brand": "M-WAVE",
+      "category": "➤ Reflectorizante",
+      "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
+      "price": 41.8,
+      "price_net": 34.55,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 62,
+      "weight_kg": 0.11,
+      "url": "https://www.bikestylish.ro/vesta-reflectorizanta-m-wave-vest-illu-m-l.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/vesta-reflectorizanta-m-wave-vest-illu-m-l~8341075.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/vesta-reflectorizanta-m-wave-vest-illu-m-l~8341075.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "➤ Reflectorizante"
+      ]
+    },
+    {
+      "id": "120937",
+      "sku": "120937",
+      "ean": "887539042530",
+      "name": "Vesta Reflectorizanta M-WAVE Vest Illu - XL/XXL",
+      "brand": "M-WAVE",
+      "category": "➤ Reflectorizante",
+      "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
+      "price": 42.9,
+      "price_net": 35.45,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 50,
+      "weight_kg": 0.18,
+      "url": "https://www.bikestylish.ro/vesta-reflectorizanta-m-wave-vest-illu-xl-xxl.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/vesta-reflectorizanta-m-wave-vest-illu-xl-xxl~8341078.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/vesta-reflectorizanta-m-wave-vest-illu-xl-xxl~8341078.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "➤ Reflectorizante"
+      ]
+    },
+    {
+      "id": "122840",
+      "sku": "122840",
+      "ean": "887539047870",
+      "name": "Geanta Laterala Portbagaj M-WAVE Downtown Single Flex 22 l",
+      "brand": "M-WAVE",
+      "category": "➤ Bagaje Spate",
+      "category_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "price": 198.0,
+      "price_net": 163.64,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 4,
+      "weight_kg": 1.23,
+      "url": "https://www.bikestylish.ro/geanta-laterala-portbagaj-m-wave-downtown-single-flex-22-l.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/geanta-laterala-portbagaj-m-wave-downtown-single-flex-22-l~8341081.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/geanta-laterala-portbagaj-m-wave-downtown-single-flex-22-l~8341081.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "➤ Bagaje Spate"
+      ]
+    },
+    {
+      "id": "388243",
+      "sku": "388243",
+      "ean": "2802459000000",
+      "name": "Roata Fata SXT BASIC II 24 FD 36H",
+      "brand": "SXT",
+      "category": "➤ Roti Fata",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "price": 269.5,
+      "price_net": 222.73,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "url": "https://www.bikestylish.ro/roata-fata-sxt-basic-ii-24-fd-36h.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-sxt-basic-ii-24-fd-36h~12379386.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-sxt-basic-ii-24-fd-36h~12379386.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-fata-sxt-basic-ii-24-fd-36h~12379389.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-fata-sxt-basic-ii-24-fd-36h~12379392.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/roata-fata-sxt-basic-ii-24-fd-36h~12379395.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/roata-fata-sxt-basic-ii-24-fd-36h~12379398.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Roti Fata"
+      ]
+    },
+    {
+      "id": "388244",
+      "sku": "388244",
+      "ean": "2802461000005",
+      "name": "Roata Spate SXT 24(507 x 19C)BASIC II FD 36H Filetat",
+      "brand": "SXT",
+      "category": "➤ Roti Spate",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 1.0,
+      "url": "https://www.bikestylish.ro/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat~12379848.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat~12379848.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat~8341090.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat~12379806.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat~12379809.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat~12379812.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Roti Spate"
+      ],
+      "specs": {
+        "dimensions": "507 x 19"
+      }
+    },
+    {
+      "id": "388245",
+      "sku": "388245",
+      "ean": "2802462000004",
+      "name": "Roata Spate SXT 24(507 x 19C) BASIC II FD 36H Casetat",
+      "brand": "SXT",
+      "category": "➤ Roti Spate",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "price": 275.0,
+      "price_net": 227.27,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "url": "https://www.bikestylish.ro/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-casetat.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-casetat~8341093.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-casetat~8341093.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-casetat~8341096.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-casetat~12379797.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-casetat~12379800.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-casetat~12379803.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Roti Spate"
+      ],
+      "specs": {
+        "dimensions": "507 x 19"
+      }
+    },
+    {
+      "id": "326444",
+      "sku": "326444",
+      "ean": "2802305000000",
+      "name": "Butuc Spate Casetat SXT 32H FD -8, 9,10, 11 v HG",
+      "brand": "SXT",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "price": 93.5,
+      "price_net": 77.27,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 17,
+      "weight_kg": 0.5,
+      "url": "https://www.bikestylish.ro/butuc-spate-casetat-sxt-32h-fd-8-9-10-11-v-hg.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-spate-casetat-sxt-32h-fd-8-9-10-11-v-hg~8341099.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-spate-casetat-sxt-32h-fd-8-9-10-11-v-hg~8341099.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Butuci Frana Disc"
+      ]
+    },
+    {
+      "id": "122662",
+      "sku": "122662",
+      "ean": "887539047924",
+      "name": "Bagaj Ghidon M-WAVE Rough Ride II Front L",
+      "brand": "M-WAVE",
+      "category": "➤ Bagaje Ghidon",
+      "category_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
+      "price": 165.0,
+      "price_net": 136.36,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 3,
+      "weight_kg": 0.32,
+      "url": "https://www.bikestylish.ro/bagaj-ghidon-m-wave-rough-ride-ii-front-l.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/bagaj-ghidon-m-wave-rough-ride-ii-front-l~8341102.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/bagaj-ghidon-m-wave-rough-ride-ii-front-l~8341102.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/bagaj-ghidon-m-wave-rough-ride-ii-front-l~8341105.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "➤ Bagaje Ghidon"
+      ]
+    },
+    {
+      "id": "122663",
+      "sku": "122663",
+      "ean": "887539047931",
+      "name": "Bagaj Ghidon M-WAVE Rough Ride II Front S",
+      "brand": "M-WAVE",
+      "category": "➤ Bagaje Ghidon",
+      "category_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
+      "price": 154.0,
+      "price_net": 127.27,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 0.15,
+      "url": "https://www.bikestylish.ro/bagaj-ghidon-m-wave-rough-ride-ii-front-s.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/bagaj-ghidon-m-wave-rough-ride-ii-front-s~8341108.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/bagaj-ghidon-m-wave-rough-ride-ii-front-s~8341108.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/bagaj-ghidon-m-wave-rough-ride-ii-front-s~8341111.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "➤ Bagaje Ghidon"
+      ]
+    },
+    {
+      "id": "122664",
+      "sku": "122664",
+      "ean": "887539047948",
+      "name": "Bagaj Sa M-WAVE Rough Ride II Saddle L",
+      "brand": "M-WAVE",
+      "category": "➤ Bagaje Spate",
+      "category_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "price": 275.0,
+      "price_net": 227.27,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.56,
+      "url": "https://www.bikestylish.ro/bagaj-sa-m-wave-rough-ride-ii-saddle-l.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/bagaj-sa-m-wave-rough-ride-ii-saddle-l~8341114.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/bagaj-sa-m-wave-rough-ride-ii-saddle-l~8341114.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/bagaj-sa-m-wave-rough-ride-ii-saddle-l~8341117.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "➤ Bagaje Spate"
+      ]
+    },
+    {
+      "id": "SE-52891",
+      "sku": "SE-52891",
+      "name": "Cauciuc Offroad Trotineta Electrica 8.5 X3 Compatibil KugooKirin G2/G2 PRO",
+      "brand": "SXT",
+      "category": "Trotinete Electrice",
+      "category_path": "e- MOBILITY > Trotinete Electrice",
+      "price": 163.9,
+      "price_net": 135.45,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/cauciuc-offroad-trotineta-electrica-8-5-x3-compatibil-kugookirin-g2-g2-pro.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/cauciuc-offroad-trotineta-electrica-8-5-x3-compatibil-kugookirin-g2-g2~8341129.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/cauciuc-offroad-trotineta-electrica-8-5-x3-compatibil-kugookirin-g2-g2~8341129.jpg"
+      ],
+      "tags": [
+        "E-Bike",
+        "Road",
+        "SXT",
+        "Trotinete Electrice",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "Road",
+          "E-Bike"
+        ]
+      }
+    },
+    {
+      "id": "SE-54775",
+      "sku": "SE-54775",
+      "name": "Camera trotineta electrica cu ventil curbat 8.5 X 2 (8 1/2 X 2) (50-134) - VC 90x90Â°",
+      "brand": "SXT",
+      "category": "Trotinete Electrice",
+      "category_path": "e- MOBILITY > Trotinete Electrice",
+      "price": 31.9,
+      "price_net": 26.36,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "url": "https://www.bikestylish.ro/camera-trotineta-electrica-cu-ventil-curbat-8-5-x-2-8-1-2-x-2-50-134-vc-90x90a.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-trotineta-electrica-cu-ventil-curbat-8-5-x-2-8-1-2-x-2-50-134~8341132.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/camera-trotineta-electrica-cu-ventil-curbat-8-5-x-2-8-1-2-x-2-50-134~8341132.jpg"
+      ],
+      "tags": [
+        "E-Bike",
+        "SXT",
+        "Trotinete Electrice",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ],
+        "dimensions": "90 x 90"
+      }
+    },
+    {
+      "id": "HB-L-1",
+      "sku": "HB-L-1",
+      "name": "Cauciuc trotineta electrica 10 x 3 inch, 85/65-6.5 tubeless",
+      "brand": "SXT",
+      "category": "Trotinete Electrice",
+      "category_path": "e- MOBILITY > Trotinete Electrice",
+      "price": 163.9,
+      "price_net": 135.45,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/cauciuc-trotineta-electrica-10-x-3-inch-85-65-6-5-tubeless.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/cauciuc-trotineta-electrica-10-x-3-inch-85-65-6-5-tubeless~8341135.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/cauciuc-trotineta-electrica-10-x-3-inch-85-65-6-5-tubeless~8341135.jpg"
+      ],
+      "tags": [
+        "E-Bike",
+        "SXT",
+        "Trotinete Electrice",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ],
+        "dimensions": "10 x 3"
+      }
+    },
+    {
+      "id": "122660",
+      "sku": "122660",
+      "ean": "887539047900",
+      "name": "Bagaj Cadru Triunghi M-WAVE Rough Ride II",
+      "brand": "M-WAVE",
+      "category": "➤ Bagaje Cadru",
+      "category_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
+      "price": 297.0,
+      "price_net": 245.45,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 4,
+      "weight_kg": 0.23,
+      "url": "https://www.bikestylish.ro/bagaj-cadru-triunghi-m-wave-rough-ride-ii.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/bagaj-cadru-triunghi-m-wave-rough-ride-ii~8341141.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/bagaj-cadru-triunghi-m-wave-rough-ride-ii~8341141.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/bagaj-cadru-triunghi-m-wave-rough-ride-ii~8341144.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "➤ Bagaje Cadru"
+      ]
+    },
+    {
+      "id": "122661",
+      "sku": "122661",
+      "ean": "887539047917",
+      "name": "Bagaj Cadru M-WAVE Rough Ride II",
+      "brand": "M-WAVE",
+      "category": "➤ Bagaje Cadru",
+      "category_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
+      "price": 165.0,
+      "price_net": 136.36,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 7,
+      "weight_kg": 0.11,
+      "url": "https://www.bikestylish.ro/bagaj-cadru-m-wave-rough-ride-ii.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/bagaj-cadru-m-wave-rough-ride-ii~8341147.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/bagaj-cadru-m-wave-rough-ride-ii~8341147.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/bagaj-cadru-m-wave-rough-ride-ii~8341150.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "➤ Bagaje Cadru"
+      ]
+    },
+    {
+      "id": "326551",
+      "sku": "326551",
+      "ean": "887539044978",
+      "name": "Butuc Spate NOVATEC D572RSB 12x148 mm 28H",
+      "brand": "NOVATEC",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "price": 768.9,
+      "price_net": 635.45,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 0.36,
+      "url": "https://www.bikestylish.ro/butuc-spate-novatec-d572rsb-12x148-mm-28h.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/butuc-spate-novatec-d572rsb-12x148-mm-28h~8341153.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/butuc-spate-novatec-d572rsb-12x148-mm-28h~8341153.jpg"
+      ],
+      "tags": [
+        "12 inch",
+        "COMPONENTE",
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 148"
+      }
+    },
+    {
+      "id": "326561",
+      "sku": "326561",
+      "ean": "887539047269",
+      "name": "Butuc Spate NOVATEC D572RSB 12x148 mm 32H",
+      "brand": "NOVATEC",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "price": 768.9,
+      "price_net": 635.45,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 2.0,
+      "url": "https://www.bikestylish.ro/butuc-spate-novatec-d572rsb-12x148-mm-32h.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-spate-novatec-d572rsb-12x148-mm-32h~8341156.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-spate-novatec-d572rsb-12x148-mm-32h~8341156.jpg"
+      ],
+      "tags": [
+        "12 inch",
+        "COMPONENTE",
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 148"
+      }
+    },
+    {
+      "id": "326593",
+      "sku": "326593",
+      "ean": "887539048228",
+      "name": "Butuc Spate NOVATEC D572RSB 12x148 mm 32H Microspline",
+      "brand": "NOVATEC",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "price": 878.9,
+      "price_net": 726.36,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 1.0,
+      "url": "https://www.bikestylish.ro/butuc-spate-novatec-d572rsb-12x148-mm-32h-microspline.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-spate-novatec-d572rsb-12x148-mm-32h-microspline~10193169.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-spate-novatec-d572rsb-12x148-mm-32h-microspline~10193169.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-spate-novatec-d572rsb-12x148-mm-32h-microspline~8341159.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/butuc-spate-novatec-d572rsb-12x148-mm-32h-microspline~8341162.jpg"
+      ],
+      "tags": [
+        "12 inch",
+        "COMPONENTE",
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 148"
+      }
+    },
+    {
+      "id": "326591",
+      "sku": "326591",
+      "ean": "887539048204",
+      "name": "Butuc Spate NOVATEC D572RSB 12x148 mm 28H Microspline",
+      "brand": "NOVATEC",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "price": 878.9,
+      "price_net": 726.36,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 1.0,
+      "url": "https://www.bikestylish.ro/butuc-spate-novatec-d572rsb-12x148-mm-28h-microspline.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-spate-novatec-d572rsb-12x148-mm-28h-microspline~10193166.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-spate-novatec-d572rsb-12x148-mm-28h-microspline~10193166.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-spate-novatec-d572rsb-12x148-mm-28h-microspline~8341165.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/butuc-spate-novatec-d572rsb-12x148-mm-28h-microspline~8341168.jpg"
+      ],
+      "tags": [
+        "12 inch",
+        "COMPONENTE",
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 148"
+      }
+    },
+    {
+      "id": "326552",
+      "sku": "326552",
+      "ean": "887539044985",
+      "name": "Butuc Spate NOVATEC D572RSB 12x148 mm 28H SRAM XDR",
+      "brand": "NOVATEC",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "price": 768.9,
+      "price_net": 635.45,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.35,
+      "url": "https://www.bikestylish.ro/butuc-spate-novatec-d572rsb-12x148-mm-28h-sram-xdr.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/butuc-spate-novatec-d572rsb-12x148-mm-28h-sram-xdr~8341171.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/butuc-spate-novatec-d572rsb-12x148-mm-28h-sram-xdr~8341171.jpg"
+      ],
+      "tags": [
+        "12 inch",
+        "COMPONENTE",
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 148"
+      }
+    },
+    {
+      "id": "326562",
+      "sku": "326562",
+      "ean": "887539047276",
+      "name": "Butuc Spate NOVATEC D572RSB 12x148 mm 32H SRAM XDR",
+      "brand": "NOVATEC",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "price": 768.9,
+      "price_net": 635.45,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 2.0,
+      "url": "https://www.bikestylish.ro/butuc-spate-novatec-d572rsb-12x148-mm-32h-sram-xdr.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/butuc-spate-novatec-d572rsb-12x148-mm-32h-sram-xdr~8341174.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/butuc-spate-novatec-d572rsb-12x148-mm-32h-sram-xdr~8341174.jpg"
+      ],
+      "tags": [
+        "12 inch",
+        "COMPONENTE",
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 148"
+      }
+    },
+    {
+      "id": "326554",
+      "sku": "326554",
+      "ean": "887539045005",
+      "name": "Butuc Spate NOVATEC D572RSB 12x142 mm 28H Centerlock",
+      "brand": "NOVATEC",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "price": 768.9,
+      "price_net": 635.45,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 0.16,
+      "url": "https://www.bikestylish.ro/butuc-spate-novatec-d572rsb-12x142-mm-28h-centerlock.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-spate-novatec-d572rsb-12x142-mm-28h-centerlock~8341177.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-spate-novatec-d572rsb-12x142-mm-28h-centerlock~8341177.jpg"
+      ],
+      "tags": [
+        "12 inch",
+        "COMPONENTE",
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 142"
+      }
+    },
+    {
+      "id": "326555",
+      "sku": "326555",
+      "ean": "887539045012",
+      "name": "Butuc Spate NOVATEC D572RSB 12x142 mm 28H Centerlock SRAM XDR",
+      "brand": "NOVATEC",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "price": 768.9,
+      "price_net": 635.45,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 2.0,
+      "url": "https://www.bikestylish.ro/butuc-spate-novatec-d572rsb-12x142-mm-28h-centerlock-sram-xdr.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-spate-novatec-d572rsb-12x142-mm-28h-centerlock-sram-xdr~8341180.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-spate-novatec-d572rsb-12x142-mm-28h-centerlock-sram-xdr~8341180.jpg"
+      ],
+      "tags": [
+        "12 inch",
+        "COMPONENTE",
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 142"
+      }
+    },
+    {
+      "id": "326550",
+      "sku": "326550",
+      "ean": "887539044961",
+      "name": "Butuc Fata NOVATEC D571SB 15x110 mm 28H",
+      "brand": "NOVATEC",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "price": 407.0,
+      "price_net": 336.36,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 1.0,
+      "url": "https://www.bikestylish.ro/butuc-fata-novatec-d571sb-15x110-mm-28h.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/butuc-fata-novatec-d571sb-15x110-mm-28h~8341183.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/butuc-fata-novatec-d571sb-15x110-mm-28h~8341183.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
+      ],
+      "specs": {
+        "dimensions": "15 x 110"
+      }
+    },
+    {
+      "id": "326560",
+      "sku": "326560",
+      "ean": "887539047252",
+      "name": "Butuc Fata NOVATEC D571SB 15x110 mm 32H",
+      "brand": "NOVATEC",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "price": 407.0,
+      "price_net": 336.36,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 1.0,
+      "url": "https://www.bikestylish.ro/butuc-fata-novatec-d571sb-15x110-mm-32h.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-fata-novatec-d571sb-15x110-mm-32h~8341186.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-fata-novatec-d571sb-15x110-mm-32h~8341186.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
+      ],
+      "specs": {
+        "dimensions": "15 x 110"
+      }
+    },
+    {
+      "id": "326553",
+      "sku": "326553",
+      "ean": "887539044992",
+      "name": "Butuc Fata NOVATEC D571SB 12x100mm 28H CL",
+      "brand": "NOVATEC",
+      "category": "➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "price": 407.0,
+      "price_net": 336.36,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 0.16,
+      "url": "https://www.bikestylish.ro/butuc-fata-novatec-d571sb-12x100mm-28h-cl.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-fata-novatec-d571sb-12x100mm-28h-cl~8341189.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-fata-novatec-d571sb-12x100mm-28h-cl~8341189.jpg"
+      ],
+      "tags": [
+        "12 inch",
+        "COMPONENTE",
+        "NOVATEC",
+        "➤ Butuci Frana Disc"
+      ],
+      "specs": {
+        "wheel_size": "12",
+        "dimensions": "12 x 100"
+      }
+    },
+    {
+      "id": "303923",
+      "sku": "303923",
+      "ean": "4715575887180",
+      "name": "Lant KMC TT11 Neochrome Waxed 11v - 118 z",
+      "brand": "KMC",
+      "category": "➤ Lanturi",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
+      "price": 603.9,
+      "price_net": 499.09,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.3,
+      "url": "https://www.bikestylish.ro/lant-kmc-tt11-neochrome-waxed-11v-118-z.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/lant-kmc-tt11-neochrome-waxed-11v-118-z~8341192.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/lant-kmc-tt11-neochrome-waxed-11v-118-z~8341192.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/lant-kmc-tt11-neochrome-waxed-11v-118-z~11589963.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/lant-kmc-tt11-neochrome-waxed-11v-118-z~11589960.jpg"
+      ],
+      "tags": [
+        "11 viteze",
+        "COMPONENTE",
+        "KMC",
+        "➤ Lanturi"
+      ],
+      "specs": {
+        "speeds": 11
+      }
+    },
+    {
+      "id": "303930",
+      "sku": "303930",
+      "ean": "4715575887203",
+      "name": "Lant KMC TT12 Neochrome Waxed 12v - 126 z",
+      "brand": "KMC",
+      "category": "➤ Lanturi",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
+      "price": 713.9,
+      "price_net": 590.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 0.3,
+      "url": "https://www.bikestylish.ro/lant-kmc-tt12-neochrome-waxed-12v-126-z.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/lant-kmc-tt12-neochrome-waxed-12v-126-z~11590101.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/lant-kmc-tt12-neochrome-waxed-12v-126-z~11590101.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/lant-kmc-tt12-neochrome-waxed-12v-126-z~11589672.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/lant-kmc-tt12-neochrome-waxed-12v-126-z~11589954.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-tt12-neochrome-waxed-12v-126-z~8341195.jpg"
+      ],
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "KMC",
+        "➤ Lanturi"
+      ],
+      "specs": {
+        "speeds": 12
+      }
+    },
+    {
+      "id": "883098",
+      "sku": "883098",
+      "ean": "4715575886350",
+      "name": "Ceara Lant KMC Chain Wax 150ml",
+      "brand": "KMC",
+      "category": "➤ Bike Lube - Lubrefiere",
+      "category_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Lube - Lubrefiere",
+      "secondary_categories": [
+        "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi"
+      ],
+      "price": 97.9,
+      "price_net": 80.91,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 11,
+      "weight_kg": 0.16,
+      "url": "https://www.bikestylish.ro/ceara-lant-kmc-chain-wax-150ml.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ceara-lant-kmc-chain-wax-150ml~8341198.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ceara-lant-kmc-chain-wax-150ml~8341198.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ceara-lant-kmc-chain-wax-150ml~11589957.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "KMC",
+        "➤ Bike Lube - Lubrefiere"
+      ]
+    },
+    {
+      "id": "356204",
+      "sku": "356204",
+      "ean": "887539027018",
+      "name": "Foaie Angrenaj Metal E-Bike 38T SAMOX BCD 104 Metal",
+      "brand": "SAMOX",
+      "category": "➤ Foi Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
+      "price": 148.5,
+      "price_net": 122.73,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/foaie-angrenaj-metal-e-bike-38t-samox-bcd-104-metal.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/foaie-angrenaj-metal-e-bike-38t-samox-bcd-104-metal~8341201.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/foaie-angrenaj-metal-e-bike-38t-samox-bcd-104-metal~8341201.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/foaie-angrenaj-metal-e-bike-38t-samox-bcd-104-metal~8341204.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "E-Bike",
+        "SAMOX",
+        "➤ Foi Angrenaje"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
+      }
+    },
+    {
+      "id": "356205",
+      "sku": "356205",
+      "ean": "887539027025",
+      "name": "Foaie Angrenaj Metal E-Bike 40T SAMOX BCD 104 Metal",
+      "brand": "SAMOX",
+      "category": "➤ Foi Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
+      "price": 42.9,
+      "price_net": 35.45,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/foaie-angrenaj-metal-e-bike-40t-samox-bcd-104-metal.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/foaie-angrenaj-metal-e-bike-40t-samox-bcd-104-metal~8341207.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/foaie-angrenaj-metal-e-bike-40t-samox-bcd-104-metal~8341207.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/foaie-angrenaj-metal-e-bike-40t-samox-bcd-104-metal~8341210.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "E-Bike",
+        "SAMOX",
+        "➤ Foi Angrenaje"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
+      }
+    },
+    {
+      "id": "356216",
+      "sku": "356216",
+      "ean": "887539028589",
+      "name": "Foaie Angrenaj Metal E-Bike 38T SAMOX BCD 104 Metal- Narrow Wide",
+      "brand": "SAMOX",
+      "category": "➤ Foi Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
+      "price": 137.5,
+      "price_net": 113.64,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 0.25,
+      "url": "https://www.bikestylish.ro/foaie-angrenaj-metal-e-bike-38t-samox-bcd-104-metal-narrow-wide.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/foaie-angrenaj-metal-e-bike-38t-samox-bcd-104-metal-narrow-wide~8341213.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/foaie-angrenaj-metal-e-bike-38t-samox-bcd-104-metal-narrow-wide~8341213.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/foaie-angrenaj-metal-e-bike-38t-samox-bcd-104-metal-narrow-wide~8341216.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "E-Bike",
+        "SAMOX",
+        "➤ Foi Angrenaje"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
+      }
+    },
+    {
+      "id": "356243",
+      "sku": "356243",
+      "ean": "887539028633",
+      "name": "Foaie Angrenaj SAMOX PD-R4-A-NW 32T BCD 104 mm Aluminiu- Narrow Wide",
+      "brand": "SAMOX",
+      "category": "➤ Foi Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
+      "price": 181.5,
+      "price_net": 150.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 8,
+      "url": "https://www.bikestylish.ro/foaie-angrenaj-samox-pd-r4-a-nw-32t-bcd-104-mm-aluminiu-narrow-wide.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/foaie-angrenaj-samox-pd-r4-a-nw-32t-bcd-104-mm-aluminiu-narrow-wide~8341219.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/foaie-angrenaj-samox-pd-r4-a-nw-32t-bcd-104-mm-aluminiu-narrow-wide~8341219.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/foaie-angrenaj-samox-pd-r4-a-nw-32t-bcd-104-mm-aluminiu-narrow-wide~8341222.jpg"
+      ],
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Foi Angrenaje"
+      ],
+      "specs": {
+        "material": "Aluminiu"
+      }
+    },
+    {
+      "id": "356244",
+      "sku": "356244",
+      "ean": "887539028640",
+      "name": "Foaie Angrenaj SAMOX PD-R4-A-NW 34T BCD 104 mm Aluminiu- Narrow Wide",
+      "brand": "SAMOX",
+      "category": "➤ Foi Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
+      "price": 181.5,
+      "price_net": 150.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/foaie-angrenaj-samox-pd-r4-a-nw-34t-bcd-104-mm-aluminiu-narrow-wide.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/foaie-angrenaj-samox-pd-r4-a-nw-34t-bcd-104-mm-aluminiu-narrow-wide~8341225.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/foaie-angrenaj-samox-pd-r4-a-nw-34t-bcd-104-mm-aluminiu-narrow-wide~8341225.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/foaie-angrenaj-samox-pd-r4-a-nw-34t-bcd-104-mm-aluminiu-narrow-wide~8341228.jpg"
+      ],
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Foi Angrenaje"
+      ],
+      "specs": {
+        "material": "Aluminiu"
+      }
+    },
+    {
+      "id": "356245",
+      "sku": "356245",
+      "ean": "887539028657",
+      "name": "Foaie Angrenaj SAMOX PD-R4-A-NW 36T BCD 104 mm Aluminiu- Narrow Wide",
+      "brand": "SAMOX",
+      "category": "➤ Foi Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
+      "price": 181.5,
+      "price_net": 150.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/foaie-angrenaj-samox-pd-r4-a-nw-36t-bcd-104-mm-aluminiu-narrow-wide.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/foaie-angrenaj-samox-pd-r4-a-nw-36t-bcd-104-mm-aluminiu-narrow-wide~8341231.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/foaie-angrenaj-samox-pd-r4-a-nw-36t-bcd-104-mm-aluminiu-narrow-wide~8341231.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/foaie-angrenaj-samox-pd-r4-a-nw-36t-bcd-104-mm-aluminiu-narrow-wide~8341234.jpg"
+      ],
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Foi Angrenaje"
+      ],
+      "specs": {
+        "material": "Aluminiu"
+      }
+    },
+    {
+      "id": "356247",
+      "sku": "356247",
+      "ean": "887539028671",
+      "name": "Foaie Angrenaj SAMOX PD-R4-A-NW 40T BCD 104 mm Aluminiu- Narrow Wide",
+      "brand": "SAMOX",
+      "category": "➤ Foi Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 6,
+      "url": "https://www.bikestylish.ro/foaie-angrenaj-samox-pd-r4-a-nw-40t-bcd-104-mm-aluminiu-narrow-wide.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/foaie-angrenaj-samox-pd-r4-a-nw-40t-bcd-104-mm-aluminiu-narrow-wide~8341237.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/foaie-angrenaj-samox-pd-r4-a-nw-40t-bcd-104-mm-aluminiu-narrow-wide~8341237.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/foaie-angrenaj-samox-pd-r4-a-nw-40t-bcd-104-mm-aluminiu-narrow-wide~8341240.jpg"
+      ],
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Foi Angrenaje"
+      ],
+      "specs": {
+        "material": "Aluminiu"
+      }
+    },
+    {
+      "id": "356248",
+      "sku": "356248",
+      "ean": "887539028688",
+      "name": "Foaie Angrenaj SAMOX PD-R4-A-NW 42T BCD 104 mm Aluminiu- Narrow Wide",
+      "brand": "SAMOX",
+      "category": "➤ Foi Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/foaie-angrenaj-samox-pd-r4-a-nw-42t-bcd-104-mm-aluminiu-narrow-wide.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/foaie-angrenaj-samox-pd-r4-a-nw-42t-bcd-104-mm-aluminiu-narrow-wide~8341243.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/foaie-angrenaj-samox-pd-r4-a-nw-42t-bcd-104-mm-aluminiu-narrow-wide~8341243.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/foaie-angrenaj-samox-pd-r4-a-nw-42t-bcd-104-mm-aluminiu-narrow-wide~8341246.jpg"
+      ],
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Foi Angrenaje"
+      ],
+      "specs": {
+        "material": "Aluminiu"
+      }
+    },
+    {
+      "id": "359601",
+      "sku": "359601",
+      "name": "Monobloc Pedalier SAMOX Press Fit BB 92 MTB",
+      "brand": "SAMOX",
+      "category": "➤ Axe - Suruburi - Piulite",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Axe - Suruburi - Piulite",
+      "price": 86.9,
+      "price_net": 71.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/monobloc-pedalier-samox-press-fit-bb-92-mtb.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/monobloc-pedalier-samox-press-fit-bb-92-mtb~8341249.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/monobloc-pedalier-samox-press-fit-bb-92-mtb~8341249.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "MTB",
+        "SAMOX",
+        "➤ Axe - Suruburi - Piulite"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ]
+      }
+    },
+    {
+      "id": "356407",
+      "sku": "356407",
+      "name": "Surub Angrenaj SAMOX BNI M10x14 mm",
+      "brand": "SAMOX",
+      "category": "➤ Axe - Suruburi - Piulite",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Axe - Suruburi - Piulite",
+      "price": 11.0,
+      "price_net": 9.09,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 18,
+      "url": "https://www.bikestylish.ro/surub-angrenaj-samox-bni-m10x14-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/surub-angrenaj-samox-bni-m10x14-mm~8341252.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/surub-angrenaj-samox-bni-m10x14-mm~8341252.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Axe - Suruburi - Piulite"
+      ],
+      "specs": {
+        "dimensions": "10 x 14"
+      }
+    },
+    {
+      "id": "356409",
+      "sku": "356409",
+      "name": "Surub Angrenaj SAMOX JIS M8x15 mm",
+      "brand": "SAMOX",
+      "category": "➤ Axe - Suruburi - Piulite",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Axe - Suruburi - Piulite",
+      "price": 5.5,
+      "price_net": 4.55,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/surub-angrenaj-samox-jis-m8x15-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/surub-angrenaj-samox-jis-m8x15-mm~8341255.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/surub-angrenaj-samox-jis-m8x15-mm~8341255.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Axe - Suruburi - Piulite"
+      ]
+    },
+    {
+      "id": "356408",
+      "sku": "356408",
+      "ean": "2802444000008",
+      "name": "Surub Angrenaj SAMOX Shimano EP800 M20x14,5 mm",
+      "brand": "SAMOX",
+      "category": "➤ Axe - Suruburi - Piulite",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Axe - Suruburi - Piulite",
+      "price": 19.8,
+      "price_net": 16.36,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/surub-angrenaj-samox-shimano-ep800-m20x14-5-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/surub-angrenaj-samox-shimano-ep800-m20x14-5-mm~8341258.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/surub-angrenaj-samox-shimano-ep800-m20x14-5-mm~8341258.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Axe - Suruburi - Piulite"
+      ],
+      "specs": {
+        "dimensions": "20 x 14,5"
+      }
+    },
+    {
+      "id": "356173",
+      "sku": "356173",
+      "ean": "2802435000000",
+      "name": "Angrenaj Pedalier SAMOX 30 T- 165 mm 1 x 9-12v",
+      "brand": "SAMOX",
+      "category": "➤ Pedaliere - Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/angrenaj-pedalier-samox-30-t-165-mm-1-x-9-12v.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/angrenaj-pedalier-samox-30-t-165-mm-1-x-9-12v~8341261.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/angrenaj-pedalier-samox-30-t-165-mm-1-x-9-12v~8341261.jpg"
+      ],
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Pedaliere - Angrenaje"
+      ],
+      "specs": {
+        "speeds": 12
+      }
+    },
+    {
+      "id": "356178",
+      "sku": "356178",
+      "ean": "2802311000001",
+      "name": "Angrenaj Pedalier SAMOX 28 T- 114 mm 1x9-12v",
+      "brand": "SAMOX",
+      "category": "➤ Pedaliere - Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
+      "price": 264.0,
+      "price_net": 218.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.25,
+      "url": "https://www.bikestylish.ro/angrenaj-pedalier-samox-28-t-114-mm-1x9-12v.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/angrenaj-pedalier-samox-28-t-114-mm-1x9-12v~8341264.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/angrenaj-pedalier-samox-28-t-114-mm-1x9-12v~8341264.jpg"
+      ],
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Pedaliere - Angrenaje"
+      ],
+      "specs": {
+        "speeds": 12
+      }
+    },
+    {
+      "id": "356179",
+      "sku": "356179",
+      "name": "Angrenaj Pedalier SAMOX 28 T- 127mm 1x9-12v",
+      "brand": "SAMOX",
+      "category": "➤ Pedaliere - Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
+      "price": 264.0,
+      "price_net": 218.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/angrenaj-pedalier-samox-28-t-127mm-1x9-12v.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/angrenaj-pedalier-samox-28-t-127mm-1x9-12v~8341267.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/angrenaj-pedalier-samox-28-t-127mm-1x9-12v~8341267.jpg"
+      ],
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Pedaliere - Angrenaje"
+      ],
+      "specs": {
+        "speeds": 12
+      }
+    },
+    {
+      "id": "356180",
+      "sku": "356180",
+      "ean": "2802312000000",
+      "name": "Angrenaj Pedalier SAMOX 30 T- 140 mm 1x9-12v",
+      "brand": "SAMOX",
+      "category": "➤ Pedaliere - Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
+      "price": 264.0,
+      "price_net": 218.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.25,
+      "url": "https://www.bikestylish.ro/angrenaj-pedalier-samox-30-t-140-mm-1x9-12v.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/angrenaj-pedalier-samox-30-t-140-mm-1x9-12v~8341270.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/angrenaj-pedalier-samox-30-t-140-mm-1x9-12v~8341270.jpg"
+      ],
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Pedaliere - Angrenaje"
+      ],
+      "specs": {
+        "speeds": 12
+      }
+    },
+    {
+      "id": "356177",
+      "sku": "356177",
+      "name": "Angrenaj Pedalier SAMOX 30 T- 152 mm 1x9-12v",
+      "brand": "SAMOX",
+      "category": "➤ Pedaliere - Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
+      "price": 183.7,
+      "price_net": 151.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/angrenaj-pedalier-samox-30-t-152-mm-1x9-12v.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/angrenaj-pedalier-samox-30-t-152-mm-1x9-12v~8341273.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/angrenaj-pedalier-samox-30-t-152-mm-1x9-12v~8341273.jpg"
+      ],
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Pedaliere - Angrenaje"
+      ],
+      "specs": {
+        "speeds": 12
+      }
+    },
+    {
+      "id": "356181",
+      "sku": "356181",
+      "name": "Angrenaj Pedalier SAMOX 32 T- 160 mm 1x9-12v City",
+      "brand": "SAMOX",
+      "category": "➤ Pedaliere - Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
+      "price": 264.0,
+      "price_net": 218.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/angrenaj-pedalier-samox-32-t-160-mm-1x9-12v-city.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/angrenaj-pedalier-samox-32-t-160-mm-1x9-12v-city~8341276.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/angrenaj-pedalier-samox-32-t-160-mm-1x9-12v-city~8341276.jpg"
+      ],
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "City/Trekking",
+        "SAMOX",
+        "➤ Pedaliere - Angrenaje"
+      ],
+      "specs": {
+        "bike_type": [
+          "City/Trekking"
+        ],
+        "speeds": 12
+      }
+    },
+    {
+      "id": "356182",
+      "sku": "356182",
+      "name": "Angrenaj Pedalier SAMOX 32 T- 165 mm 1x9-12v City",
+      "brand": "SAMOX",
+      "category": "➤ Pedaliere - Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
+      "price": 264.0,
+      "price_net": 218.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/angrenaj-pedalier-samox-32-t-165-mm-1x9-12v-city.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/angrenaj-pedalier-samox-32-t-165-mm-1x9-12v-city~8341279.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/angrenaj-pedalier-samox-32-t-165-mm-1x9-12v-city~8341279.jpg"
+      ],
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "City/Trekking",
+        "SAMOX",
+        "➤ Pedaliere - Angrenaje"
+      ],
+      "specs": {
+        "bike_type": [
+          "City/Trekking"
+        ],
+        "speeds": 12
+      }
+    },
+    {
+      "id": "356183",
+      "sku": "356183",
+      "name": "Angrenaj Pedalier SAMOX 34 T- 170 mm 1x9-12v City",
+      "brand": "SAMOX",
+      "category": "➤ Pedaliere - Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
+      "price": 264.0,
+      "price_net": 218.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/angrenaj-pedalier-samox-34-t-170-mm-1x9-12v-city.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/angrenaj-pedalier-samox-34-t-170-mm-1x9-12v-city~8341282.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/angrenaj-pedalier-samox-34-t-170-mm-1x9-12v-city~8341282.jpg"
+      ],
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "City/Trekking",
+        "SAMOX",
+        "➤ Pedaliere - Angrenaje"
+      ],
+      "specs": {
+        "bike_type": [
+          "City/Trekking"
+        ],
+        "speeds": 12
+      }
+    },
+    {
+      "id": "356174",
+      "sku": "356174",
+      "ean": "2802310000002",
+      "name": "Angrenaj Pedalier SAMOX 40 T-175 mm 1x9-12v Road-Gravel",
+      "brand": "SAMOX",
+      "category": "➤ Pedaliere - Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
+      "price": 605.0,
+      "price_net": 500.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 1.2,
+      "url": "https://www.bikestylish.ro/angrenaj-pedalier-samox-40-t-175-mm-1x9-12v-road-gravel.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/angrenaj-pedalier-samox-40-t-175-mm-1x9-12v-road-gravel~8341285.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/angrenaj-pedalier-samox-40-t-175-mm-1x9-12v-road-gravel~8341285.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/angrenaj-pedalier-samox-40-t-175-mm-1x9-12v-road-gravel~8341288.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/angrenaj-pedalier-samox-40-t-175-mm-1x9-12v-road-gravel~8341291.jpg"
+      ],
+      "tags": [
+        "12 viteze",
+        "COMPONENTE",
+        "Gravel",
+        "Road",
+        "SAMOX",
+        "➤ Pedaliere - Angrenaje"
+      ],
+      "specs": {
+        "bike_type": [
+          "Road",
+          "Gravel"
+        ],
+        "speeds": 12
+      }
+    },
+    {
+      "id": "356422",
+      "sku": "356422",
+      "name": "Brat Stanga SAMOX 13 Offset- 165 mm Bosch, Brose",
+      "brand": "SAMOX",
+      "category": "➤ Brate Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
+      "secondary_categories": [
+        "e- MOBILITY > Angrenaje E-Bike"
+      ],
+      "price": 129.8,
+      "price_net": 107.27,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/brat-stanga-samox-13-offset-165-mm-bosch-brose.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/brat-stanga-samox-13-offset-165-mm-bosch-brose~8341294.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/brat-stanga-samox-13-offset-165-mm-bosch-brose~8341294.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/brat-stanga-samox-13-offset-165-mm-bosch-brose~8341297.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Brate Angrenaje"
+      ]
+    },
+    {
+      "id": "356423",
+      "sku": "356423",
+      "name": "Brat Dreapta SAMOX 13 Offset- 165 mm Bosch, Brose",
+      "brand": "SAMOX",
+      "category": "⬤ Angrenaje - Monobloace",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace",
+      "secondary_categories": [
+        "e- MOBILITY > Angrenaje E-Bike"
+      ],
+      "price": 129.8,
+      "price_net": 107.27,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/brat-dreapta-samox-13-offset-165-mm-bosch-brose.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/brat-dreapta-samox-13-offset-165-mm-bosch-brose~8341300.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/brat-dreapta-samox-13-offset-165-mm-bosch-brose~8341300.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/brat-dreapta-samox-13-offset-165-mm-bosch-brose~8341303.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SAMOX",
+        "⬤ Angrenaje - Monobloace"
+      ]
+    },
+    {
+      "id": "356144",
+      "sku": "356144",
+      "ean": "887539028916",
+      "name": "Brat Stanga SAMOX 13 Offset- 165 mm Ax 24mm(Shimano E8000/7000/6100 SHAPE 3",
+      "brand": "SAMOX",
+      "category": "➤ Brate Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
+      "secondary_categories": [
+        "e- MOBILITY > Angrenaje E-Bike"
+      ],
+      "price": 85.8,
+      "price_net": 70.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/brat-stanga-samox-13-offset-165-mm-ax-24mm-shimano-e8000-7000-6100-shape-3.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/brat-stanga-samox-13-offset-165-mm-ax-24mm-shimano-e8000-7000-6100~8341306.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/brat-stanga-samox-13-offset-165-mm-ax-24mm-shimano-e8000-7000-6100~8341306.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/brat-stanga-samox-13-offset-165-mm-ax-24mm-shimano-e8000-7000-6100~8341309.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/brat-stanga-samox-13-offset-165-mm-ax-24mm-shimano-e8000-7000-6100~8341312.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Brate Angrenaje"
+      ]
+    },
+    {
+      "id": "355619",
+      "sku": "355619",
+      "ean": "887539046088",
+      "name": "Brat Stanga SAMOX 13 Offset- 170 mm BNI (Mini-ISIS) Bosch Gen3 SHAPE 1",
+      "brand": "SAMOX",
+      "category": "➤ Brate Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
+      "secondary_categories": [
+        "e- MOBILITY > Angrenaje E-Bike"
+      ],
+      "price": 85.8,
+      "price_net": 70.91,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "url": "https://www.bikestylish.ro/brat-stanga-samox-13-offset-170-mm-bni-mini-isis-bosch-gen3-shape-1.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/brat-stanga-samox-13-offset-170-mm-bni-mini-isis-bosch-gen3-shape-1~8341315.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/brat-stanga-samox-13-offset-170-mm-bni-mini-isis-bosch-gen3-shape-1~8341315.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/brat-stanga-samox-13-offset-170-mm-bni-mini-isis-bosch-gen3-shape-1~8341318.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/brat-stanga-samox-13-offset-170-mm-bni-mini-isis-bosch-gen3-shape-1~8341321.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Brate Angrenaje"
+      ]
+    },
+    {
+      "id": "355623",
+      "sku": "355623",
+      "ean": "887539046033",
+      "name": "Brat Dreapta SAMOX 13 Offset- 170 mm BNI (Mini-ISIS) Bosch Gen3 SHAPE 1",
+      "brand": "SAMOX",
+      "category": "➤ Brate Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
+      "secondary_categories": [
+        "e- MOBILITY > Angrenaje E-Bike"
+      ],
+      "price": 85.8,
+      "price_net": 70.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/brat-dreapta-samox-13-offset-170-mm-bni-mini-isis-bosch-gen3-shape-1.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/brat-dreapta-samox-13-offset-170-mm-bni-mini-isis-bosch-gen3-shape-1~8341324.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/brat-dreapta-samox-13-offset-170-mm-bni-mini-isis-bosch-gen3-shape-1~8341324.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/brat-dreapta-samox-13-offset-170-mm-bni-mini-isis-bosch-gen3-shape-1~8341327.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/brat-dreapta-samox-13-offset-170-mm-bni-mini-isis-bosch-gen3-shape-1~8341330.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Brate Angrenaje"
+      ]
     }
   ],
   "categories": [
@@ -7491,7 +7418,7 @@
       "id": "antifurturi-alarme",
       "name": "Antifurturi - Alarme",
       "full_path": "ACCESORII > Antifurturi - Alarme",
-      "product_count": 7,
+      "product_count": 5,
       "in_stock_count": 3
     },
     {
@@ -7512,7 +7439,7 @@
       "id": "baterii-incarcatoare-e-bike",
       "name": "Baterii -incarcatoare E-Bike",
       "full_path": "e- MOBILITY > Baterii -incarcatoare E-Bike",
-      "product_count": 3,
+      "product_count": 2,
       "in_stock_count": 1
     },
     {
@@ -7603,7 +7530,7 @@
       "id": "manusi-ciclism",
       "name": "Manusi Ciclism",
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
-      "product_count": 50,
+      "product_count": 47,
       "in_stock_count": 40
     },
     {
@@ -7611,7 +7538,7 @@
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
       "product_count": 12,
-      "in_stock_count": 7
+      "in_stock_count": 8
     },
     {
       "id": "pantaloni-ciclism",
@@ -7631,7 +7558,7 @@
       "id": "pompe-ciclism",
       "name": "Pompe Ciclism",
       "full_path": "ACCESORII > Pompe Ciclism",
-      "product_count": 5,
+      "product_count": 4,
       "in_stock_count": 2
     },
     {
@@ -7687,8 +7614,8 @@
       "id": "trotinete-electrice",
       "name": "Trotinete Electrice",
       "full_path": "e- MOBILITY > Trotinete Electrice",
-      "product_count": 39,
-      "in_stock_count": 16
+      "product_count": 38,
+      "in_stock_count": 17
     },
     {
       "id": "unelte-service",
@@ -7722,7 +7649,7 @@
       "id": "accesorii-camere-biciclete",
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
-      "product_count": 18,
+      "product_count": 16,
       "in_stock_count": 12
     },
     {
@@ -7778,14 +7705,14 @@
       "id": "antifurturi-cu-cheie",
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
-      "product_count": 20,
+      "product_count": 17,
       "in_stock_count": 12
     },
     {
       "id": "antifurturi-cu-cifru",
       "name": "➤ Antifurturi cu Cifru",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
-      "product_count": 11,
+      "product_count": 9,
       "in_stock_count": 6
     },
     {
@@ -7813,14 +7740,14 @@
       "id": "aparatori-noroi-fata",
       "name": "➤ Aparatori Noroi Fata",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Aparatori Noroi Fata",
-      "product_count": 8,
+      "product_count": 7,
       "in_stock_count": 6
     },
     {
       "id": "aparatori-noroi-spate",
       "name": "➤ Aparatori Noroi Spate",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Aparatori Noroi Spate",
-      "product_count": 11,
+      "product_count": 10,
       "in_stock_count": 9
     },
     {
@@ -7835,7 +7762,7 @@
       "name": "➤ Axe - Suruburi - Piulite",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Axe - Suruburi - Piulite",
       "product_count": 8,
-      "in_stock_count": 4
+      "in_stock_count": 5
     },
     {
       "id": "bagaje-cadru",
@@ -7855,14 +7782,14 @@
       "id": "bagaje-spate",
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
-      "product_count": 39,
+      "product_count": 38,
       "in_stock_count": 33
     },
     {
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 44,
+      "product_count": 43,
       "in_stock_count": 31
     },
     {
@@ -7876,7 +7803,7 @@
       "id": "bidoane-ciclism",
       "name": "➤ Bidoane Ciclism",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
-      "product_count": 22,
+      "product_count": 21,
       "in_stock_count": 19
     },
     {
@@ -7911,14 +7838,14 @@
       "id": "butuci-frana-disc",
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
-      "product_count": 114,
+      "product_count": 112,
       "in_stock_count": 74
     },
     {
       "id": "butuci-v-break-dinam",
       "name": "➤ Butuci V-Break - Dinam",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
-      "product_count": 52,
+      "product_count": 49,
       "in_stock_count": 42
     },
     {
@@ -7974,7 +7901,7 @@
       "id": "casti-ciclism",
       "name": "➤ Casti Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 11
     },
     {
@@ -7988,7 +7915,7 @@
       "id": "chei-universale",
       "name": "➤ Chei Universale",
       "full_path": "COMPONENTE > Unelte Service > ➤ Chei Universale",
-      "product_count": 2,
+      "product_count": 1,
       "in_stock_count": 1
     },
     {
@@ -8016,7 +7943,7 @@
       "id": "cricuri-mijloc",
       "name": "➤ Cricuri Mijloc",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Mijloc",
-      "product_count": 13,
+      "product_count": 12,
       "in_stock_count": 11
     },
     {
@@ -8079,7 +8006,7 @@
       "id": "furci",
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
-      "product_count": 26,
+      "product_count": 25,
       "in_stock_count": 17
     },
     {
@@ -8115,14 +8042,14 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 42,
-      "in_stock_count": 18
+      "in_stock_count": 19
     },
     {
       "id": "jante-pentru-frane-v-brake",
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 19,
-      "in_stock_count": 14
+      "in_stock_count": 15
     },
     {
       "id": "lanturi",
@@ -8142,8 +8069,8 @@
       "id": "lumini-spate",
       "name": "➤ Lumini Spate",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
-      "product_count": 32,
-      "in_stock_count": 23
+      "product_count": 30,
+      "in_stock_count": 22
     },
     {
       "id": "manete-frana",
@@ -8156,7 +8083,7 @@
       "id": "manete-frana-schimbator",
       "name": "➤ Manete Frana  - Schimbator",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Manete Frana  - Schimbator",
-      "product_count": 5,
+      "product_count": 3,
       "in_stock_count": 3
     },
     {
@@ -8170,14 +8097,14 @@
       "id": "mansoane",
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
-      "product_count": 93,
+      "product_count": 92,
       "in_stock_count": 81
     },
     {
       "id": "mantale",
       "name": "➤ Mantale",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Mantale",
-      "product_count": 14,
+      "product_count": 13,
       "in_stock_count": 11
     },
     {
@@ -8198,7 +8125,7 @@
       "id": "nipluri-accesorii",
       "name": "➤ Nipluri - Accesorii",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Nipluri - Accesorii",
-      "product_count": 16,
+      "product_count": 13,
       "in_stock_count": 8
     },
     {
@@ -8233,7 +8160,7 @@
       "id": "pedale-platforma",
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
-      "product_count": 143,
+      "product_count": 140,
       "in_stock_count": 106
     },
     {
@@ -8261,14 +8188,14 @@
       "id": "pipe-ghidon",
       "name": "➤ Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
-      "product_count": 46,
+      "product_count": 45,
       "in_stock_count": 34
     },
     {
       "id": "placute-frana-disc",
       "name": "➤ Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
-      "product_count": 27,
+      "product_count": 26,
       "in_stock_count": 15
     },
     {
@@ -8317,22 +8244,22 @@
       "id": "reflectorizante",
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
-      "product_count": 22,
+      "product_count": 21,
       "in_stock_count": 19
     },
     {
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
-      "product_count": 37,
-      "in_stock_count": 32
+      "product_count": 36,
+      "in_stock_count": 33
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
-      "product_count": 50,
-      "in_stock_count": 36
+      "product_count": 47,
+      "in_stock_count": 41
     },
     {
       "id": "rucsaci",
@@ -8359,7 +8286,7 @@
       "id": "scaune-bicicleta-copii",
       "name": "➤ Scaune Bicicleta Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii > ➤ Scaune Bicicleta Copii",
-      "product_count": 2,
+      "product_count": 1,
       "in_stock_count": 1
     },
     {
@@ -8373,7 +8300,7 @@
       "id": "schimbatoare-spate",
       "name": "➤ Schimbatoare Spate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
-      "product_count": 30,
+      "product_count": 27,
       "in_stock_count": 23
     },
     {
@@ -8401,8 +8328,8 @@
       "id": "seturi-roti",
       "name": "➤ Seturi Roti",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
-      "product_count": 24,
-      "in_stock_count": 17
+      "product_count": 22,
+      "in_stock_count": 18
     },
     {
       "id": "sistem-velo-fit",
@@ -8423,7 +8350,7 @@
       "name": "➤ Spite Stainless",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 84
+      "in_stock_count": 86
     },
     {
       "id": "spite-stainless-2-3-mm",
@@ -8450,21 +8377,21 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 50,
+      "product_count": 49,
       "in_stock_count": 46
     },
     {
       "id": "suruburi-piulite-saibe",
       "name": "➤ Suruburi - Piulite - Saibe",
       "full_path": "COMPONENTE > Unelte Service > ➤ Suruburi - Piulite - Saibe",
-      "product_count": 9,
+      "product_count": 6,
       "in_stock_count": 2
     },
     {
       "id": "tije-sa",
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
-      "product_count": 48,
+      "product_count": 47,
       "in_stock_count": 29
     },
     {
@@ -8492,7 +8419,7 @@
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 181,
+      "product_count": 172,
       "in_stock_count": 144
     },
     {
@@ -8506,7 +8433,7 @@
       "id": "bike-maintenance-intretinere",
       "name": "➤Bike Maintenance - Intretinere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
-      "product_count": 22,
+      "product_count": 21,
       "in_stock_count": 11
     },
     {
