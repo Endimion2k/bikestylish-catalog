@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T04:03:15.796320+00:00",
+  "last_updated": "2026-04-15T04:03:12.926382+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -2068,8 +2068,8 @@
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 4,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/janta-mach1-neo-29-622-x-19c-36h-negru-capsata.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/janta-mach1-neo-29-622-x-19c-36h-negru-capsata~8341939.jpg",
@@ -3830,7 +3830,7 @@
       "price_net": 259.09,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-29-622-x-19c-neo-36h-fd-casetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-29-622-x-19c-neo-36h-fd-casetat~8342467.jpg",
       "images": [
@@ -4859,7 +4859,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 24,
+      "stock_quantity": 23,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/tija-sa-sxt-27-2-x-400mm-negru-anodizat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/tija-sa-sxt-27-2-x-400mm-negru-anodizat~8342755.jpg",
@@ -5019,7 +5019,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 69,
+      "stock_quantity": 67,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-grey.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-sxt-n-13-nylon-fiber-grey~8342785.jpg",
@@ -5083,7 +5083,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 78,
+      "stock_quantity": 76,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-cyan.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-sxt-n-13-nylon-fiber-cyan~8342797.jpg",
@@ -7706,7 +7706,7 @@
       "name": "Cadre - Furci E-Bike",
       "full_path": "e- MOBILITY > Cadre - Furci E-Bike",
       "product_count": 11,
-      "in_stock_count": 5
+      "in_stock_count": 7
     },
     {
       "id": "componente-e-bike",
@@ -8287,7 +8287,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 42,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8504,7 +8504,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 47,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "rucsaci",
@@ -8553,7 +8553,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 95,
-      "in_stock_count": 81
+      "in_stock_count": 80
     },
     {
       "id": "set-lumini",

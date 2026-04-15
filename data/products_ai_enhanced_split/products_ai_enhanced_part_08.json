@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T04:03:15.796320+00:00",
+  "last_updated": "2026-04-15T04:03:12.926382+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -201,8 +201,8 @@
       "price": 269.5,
       "price_net": 222.73,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-27-5-584x19c-basic-ii-fd-36h-filetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/roata-spate-sxt-27-5-584x19c-basic-ii-fd-36h-filetat~12379875.jpg",
       "images": [
@@ -931,7 +931,7 @@
       "price_net": 118.18,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 3,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d416-bottecchia-corratec-ns-bikes-viper.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d416-bottecchia-corratec-ns-bikes-viper~8292346.jpg",
@@ -1720,7 +1720,7 @@
       "price_net": 136.36,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 1,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d635-bergamont-boardman.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d635-bergamont-boardman~8292439.jpg",
@@ -3153,7 +3153,7 @@
       "price_net": 68.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/angrenaj-metal-sxt-1v-negru-38t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/angrenaj-metal-sxt-1v-negru-38t~8292601.jpg",
@@ -4320,7 +4320,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 22,
+      "stock_quantity": 18,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-krackpot-20x1-95-50-406-k-907-verde.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kenda-krackpot-20x1-95-50-406-k-907-verde~8323957.jpg",
@@ -4701,7 +4701,7 @@
       "price_net": 58.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 14,
       "weight_kg": 0.75,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-k-rad-20-x-2-35-58-406-k-905.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-kenda-k-rad-20-x-2-35-58-406-k-905~8324071.jpg",
@@ -5479,7 +5479,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 228,
+      "stock_quantity": 222,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -6198,8 +6198,8 @@
       "price": 42.9,
       "price_net": 35.45,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/sa-cu-arc-ventura-245-210-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sa-cu-arc-ventura-245-210-mm~8324764.jpg",
@@ -7140,7 +7140,7 @@
       "name": "Cadre - Furci E-Bike",
       "full_path": "e- MOBILITY > Cadre - Furci E-Bike",
       "product_count": 11,
-      "in_stock_count": 5
+      "in_stock_count": 7
     },
     {
       "id": "componente-e-bike",
@@ -7721,7 +7721,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 42,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7938,7 +7938,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 47,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "rucsaci",
@@ -7987,7 +7987,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 95,
-      "in_stock_count": 81
+      "in_stock_count": 80
     },
     {
       "id": "set-lumini",
