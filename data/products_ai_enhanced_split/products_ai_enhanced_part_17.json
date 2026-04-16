@@ -1,44 +1,14 @@
 {
-  "last_updated": "2026-04-15T04:03:12.926382+00:00",
+  "last_updated": "2026-04-16T04:04:51.902041+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 17,
     "total_parts": 19,
     "product_range": "4001-4250",
-    "original_total": 4598
+    "original_total": 4596
   },
   "products": [
-    {
-      "id": "356724",
-      "sku": "356724",
-      "ean": "87539046583",
-      "name": "Brat Stanga SAMOX 5 Offset- 170 mm Bosch Gen 1+2+4/ Brose SHAPE 2",
-      "brand": "SAMOX",
-      "category": "➤ Brate Angrenaje",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
-      "secondary_categories": [
-        "e- MOBILITY > Angrenaje E-Bike"
-      ],
-      "price": 85.8,
-      "price_net": 70.91,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
-      "weight_kg": 0.25,
-      "url": "https://www.bikestylish.ro/brat-stanga-samox-5-offset-170-mm-bosch-gen-1-2-4-brose-shape-2.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/brat-stanga-samox-5-offset-170-mm-bosch-gen-1-2-4-brose-shape-2~8341333.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/brat-stanga-samox-5-offset-170-mm-bosch-gen-1-2-4-brose-shape-2~8341333.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/brat-stanga-samox-5-offset-170-mm-bosch-gen-1-2-4-brose-shape-2~8341336.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/brat-stanga-samox-5-offset-170-mm-bosch-gen-1-2-4-brose-shape-2~8341339.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SAMOX",
-        "➤ Brate Angrenaje"
-      ]
-    },
     {
       "id": "356729",
       "sku": "356729",
@@ -2230,7 +2200,7 @@
       "price_net": 104.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 385,
+      "stock_quantity": 384,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/set-lumini-cu-acumulator-sxt-550l-10c-usb.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/set-lumini-cu-acumulator-sxt-550l-10c-usb~8342020.jpg",
@@ -3830,7 +3800,7 @@
       "price_net": 259.09,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-29-622-x-19c-neo-36h-fd-casetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-29-622-x-19c-neo-36h-fd-casetat~8342467.jpg",
       "images": [
@@ -3861,7 +3831,7 @@
       "price_net": 259.09,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "url": "https://www.bikestylish.ro/roata-spate-29-622x19c-sxt-basic-only-capsata-36h-fd-filetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-29-622x19c-sxt-basic-only-capsata-36h-fd-filetat~8342482.jpg",
       "images": [
@@ -3893,8 +3863,8 @@
       "price": 275.0,
       "price_net": 227.27,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-fata-29-622x19c-sxt-basic-only-capsata-36h-fd.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-fata-29-622x19c-sxt-basic-only-capsata-36h-fd~8342497.jpg",
       "images": [
@@ -4669,7 +4639,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 114,
+      "stock_quantity": 112,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-002-130-mm-lock-on-dublu-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/mansoane-mtb-sxt-zn-002-130-mm-lock-on-dublu-negru~8342704.jpg",
       "images": [
@@ -4884,8 +4854,8 @@
       "brand": "SXT",
       "category": "➤ Ghidoane",
       "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
-      "price": 97.9,
-      "price_net": 80.91,
+      "price": 99.0,
+      "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 82,
@@ -4919,8 +4889,8 @@
       "brand": "SXT",
       "category": "➤ Ghidoane",
       "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
-      "price": 97.9,
-      "price_net": 80.91,
+      "price": 99.0,
+      "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 246,
@@ -4988,7 +4958,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 97,
+      "stock_quantity": 91,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-sxt-n-13-nylon-fiber-negru~8342782.jpg",
@@ -5050,7 +5020,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 72,
+      "stock_quantity": 71,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-purple.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-sxt-n-13-nylon-fiber-purple~8342788.jpg",
@@ -5621,7 +5591,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 14,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/bidon-plastic-m-wave-pbo-750-transparent-750-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/bidon-plastic-m-wave-pbo-750-transparent-750-ml~8342908.jpg",
@@ -7449,8 +7419,8 @@
       "price": 90.2,
       "price_net": 74.55,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.76,
       "url": "https://www.bikestylish.ro/camera-m-wave-purride-tpu-27-5-x-1-9-2-5-fv-48-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/camera-m-wave-purride-tpu-27-5-x-1-9-2-5-fv-48-mm~8343697.jpg",
@@ -7629,6 +7599,33 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/cheie-super-b-tb-hb08-28-18-mm~8343724.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-super-b-tb-hb08-28-18-mm~8343727.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SUPER B",
+        "➤ Unelte Speciale Biciclete"
+      ]
+    },
+    {
+      "id": "880573",
+      "sku": "880573",
+      "ean": "4712765143101",
+      "name": "Cheie Pedale SUPER B TB-PD10",
+      "brand": "SUPER B",
+      "category": "➤ Unelte Speciale Biciclete",
+      "category_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "price": 159.5,
+      "price_net": 131.82,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 48,
+      "weight_kg": 0.55,
+      "url": "https://www.bikestylish.ro/cheie-pedale-super-b-tb-pd10.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/cheie-pedale-super-b-tb-pd10~8343730.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/cheie-pedale-super-b-tb-pd10~8343730.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/cheie-pedale-super-b-tb-pd10~8343733.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/cheie-pedale-super-b-tb-pd10~8343736.jpg"
       ],
       "tags": [
         "COMPONENTE",
@@ -7972,7 +7969,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 181,
-      "in_stock_count": 119
+      "in_stock_count": 118
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -8042,7 +8039,7 @@
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 33,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "bidoane-ciclism",
@@ -8083,8 +8080,8 @@
       "id": "butuci-frana-disc",
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
-      "product_count": 112,
-      "in_stock_count": 74
+      "product_count": 111,
+      "in_stock_count": 73
     },
     {
       "id": "butuci-v-break-dinam",
@@ -8112,7 +8109,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 86,
-      "in_stock_count": 53
+      "in_stock_count": 52
     },
     {
       "id": "capete-cablu-manta",
@@ -8133,7 +8130,7 @@
       "name": "➤ Cartuse CO2 - Accesorii Pompe",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Cartuse CO2 - Accesorii Pompe",
       "product_count": 5,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "casete-butuci",
@@ -8189,7 +8186,7 @@
       "name": "➤ Cricuri Mijloc",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Mijloc",
       "product_count": 12,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "cricuri-spate",
@@ -8266,7 +8263,7 @@
       "name": "➤ Huse Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Huse Sa",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "intinzatoare-lant-directionare",
@@ -8301,7 +8298,7 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 47
+      "in_stock_count": 46
     },
     {
       "id": "lumini-fata",
@@ -8343,7 +8340,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 92,
-      "in_stock_count": 81
+      "in_stock_count": 80
     },
     {
       "id": "mantale",
@@ -8496,14 +8493,14 @@
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
-      "product_count": 36,
-      "in_stock_count": 33
+      "product_count": 37,
+      "in_stock_count": 32
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
-      "product_count": 47,
+      "product_count": 46,
       "in_stock_count": 40
     },
     {
@@ -8588,7 +8585,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 47,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "spite-stainless",
@@ -8615,8 +8612,8 @@
       "id": "spite-ucp",
       "name": "➤ Spite UCP",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite UCP",
-      "product_count": 59,
-      "in_stock_count": 26
+      "product_count": 58,
+      "in_stock_count": 25
     },
     {
       "id": "suporturi-bidon",

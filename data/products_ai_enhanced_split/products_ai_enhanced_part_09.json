@@ -1,44 +1,14 @@
 {
-  "last_updated": "2026-04-15T04:03:12.926382+00:00",
+  "last_updated": "2026-04-16T04:04:51.902041+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4598
+    "original_total": 4596
   },
   "products": [
-    {
-      "id": "311124",
-      "sku": "311124",
-      "ean": "2802236000001",
-      "name": "Pedale Plastic SXT STADY C ECO Negru",
-      "brand": "SXT",
-      "category": "➤ Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
-      "price": 33.0,
-      "price_net": 27.27,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 36,
-      "weight_kg": 0.25,
-      "url": "https://www.bikestylish.ro/pedale-plastic-sxt-stady-c-eco-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-plastic-sxt-stady-c-eco-negru~8325085.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-plastic-sxt-stady-c-eco-negru~8325085.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "Plastic",
-        "SXT",
-        "➤ Pedale Platforma"
-      ],
-      "specs": {
-        "material": "Plastic",
-        "color": "Negru"
-      }
-    },
     {
       "id": "325162",
       "sku": "325162",
@@ -694,7 +664,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 72,
+      "stock_quantity": 70,
       "weight_kg": 0.13,
       "url": "https://www.bikestylish.ro/aparatoare-angrenaj-sxt-42-44-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/aparatoare-angrenaj-sxt-42-44-t~8325286.jpg",
@@ -720,7 +690,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 86,
+      "stock_quantity": 85,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/aparatoare-angrenaj-sxt-46-48-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/aparatoare-angrenaj-sxt-46-48-t~8325292.jpg",
@@ -2320,7 +2290,7 @@
       "price_net": 26.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 78,
+      "stock_quantity": 77,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-4-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-4-negru~8325799.jpg",
@@ -2459,7 +2429,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 58,
+      "stock_quantity": 56,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/sonerie-metal-m-wave-bell-3d-i-love-my-bike.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/sonerie-metal-m-wave-bell-3d-i-love-my-bike~8325847.jpg",
@@ -2834,7 +2804,7 @@
       "price_net": 38.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 41,
+      "stock_quantity": 40,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/far-pentru-dinam-an-lun-14-lux.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/far-pentru-dinam-an-lun-14-lux~8325997.jpg",
@@ -6978,6 +6948,32 @@
       "specs": {
         "color": "Negru"
       }
+    },
+    {
+      "id": "INOXA-256 mm",
+      "sku": "INOXA-256 mm",
+      "name": "Spita Inox 2 mm cnSPOKE Alb-256 mm",
+      "brand": "cnSPOKE",
+      "category": "➤ Spite Stainless",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/spita-inox-2-mm-cnspoke-alb-256-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/spita-inox-2-mm-cnspoke-alb-256-mm~8327203.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/spita-inox-2-mm-cnspoke-alb-256-mm~8327203.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "cnSPOKE",
+        "➤ Spite Stainless"
+      ],
+      "specs": {
+        "color": "Alb"
+      }
     }
   ],
   "categories": [
@@ -7315,7 +7311,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 181,
-      "in_stock_count": 119
+      "in_stock_count": 118
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7385,7 +7381,7 @@
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 33,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "bidoane-ciclism",
@@ -7426,8 +7422,8 @@
       "id": "butuci-frana-disc",
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
-      "product_count": 112,
-      "in_stock_count": 74
+      "product_count": 111,
+      "in_stock_count": 73
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7455,7 +7451,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 86,
-      "in_stock_count": 53
+      "in_stock_count": 52
     },
     {
       "id": "capete-cablu-manta",
@@ -7476,7 +7472,7 @@
       "name": "➤ Cartuse CO2 - Accesorii Pompe",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Cartuse CO2 - Accesorii Pompe",
       "product_count": 5,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "casete-butuci",
@@ -7532,7 +7528,7 @@
       "name": "➤ Cricuri Mijloc",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Mijloc",
       "product_count": 12,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "cricuri-spate",
@@ -7609,7 +7605,7 @@
       "name": "➤ Huse Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Huse Sa",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "intinzatoare-lant-directionare",
@@ -7644,7 +7640,7 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 47
+      "in_stock_count": 46
     },
     {
       "id": "lumini-fata",
@@ -7686,7 +7682,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 92,
-      "in_stock_count": 81
+      "in_stock_count": 80
     },
     {
       "id": "mantale",
@@ -7839,14 +7835,14 @@
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
-      "product_count": 36,
-      "in_stock_count": 33
+      "product_count": 37,
+      "in_stock_count": 32
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
-      "product_count": 47,
+      "product_count": 46,
       "in_stock_count": 40
     },
     {
@@ -7931,7 +7927,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 47,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "spite-stainless",
@@ -7958,8 +7954,8 @@
       "id": "spite-ucp",
       "name": "➤ Spite UCP",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite UCP",
-      "product_count": 59,
-      "in_stock_count": 26
+      "product_count": 58,
+      "in_stock_count": 25
     },
     {
       "id": "suporturi-bidon",
