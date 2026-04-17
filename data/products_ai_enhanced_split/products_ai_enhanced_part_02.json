@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:04:51.902041+00:00",
+  "last_updated": "2026-04-17T04:04:07.209188+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -49,7 +49,7 @@
       "price_net": 54.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "url": "https://www.bikestylish.ro/solutie-pentru-nipluri-cn-spoke-15-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/solutie-pentru-nipluri-cn-spoke-15-ml~8280316.jpg",
       "images": [
@@ -190,7 +190,7 @@
       "price_net": 8.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 227,
+      "stock_quantity": 225,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/cheie-spite-sxt-10-15g.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-spite-sxt-10-15g~8280337.jpg",
@@ -539,7 +539,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 14,
+      "stock_quantity": 13,
       "weight_kg": 0.37,
       "url": "https://www.bikestylish.ro/lant-m-wave-8-7-6-v-116-zale.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/lant-m-wave-8-7-6-v-116-zale~8280373.jpg",
@@ -4212,8 +4212,8 @@
       "price": 27.5,
       "price_net": 22.73,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/pinion-fixie-1-2x1-8-sxt-14t-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-fixie-1-2x1-8-sxt-14t-silver~8281801.jpg",
@@ -5492,7 +5492,7 @@
       "price_net": 12.73,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/adaptor-suport-bidon-m-wave-ada-flex.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/adaptor-suport-bidon-m-wave-ada-flex~8281930.jpg",
@@ -5695,7 +5695,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 83,
+      "stock_quantity": 81,
       "weight_kg": 0.36,
       "url": "https://www.bikestylish.ro/brat-angrenaj-sxt-metal-plastic-stanga-170-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/brat-angrenaj-sxt-metal-plastic-stanga-170-mm-negru~8281954.jpg",
@@ -5726,7 +5726,7 @@
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 72,
+      "stock_quantity": 70,
       "weight_kg": 0.23,
       "url": "https://www.bikestylish.ro/brat-angrenaj-sxt-aluminiu-stanga-negru-170-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/brat-angrenaj-sxt-aluminiu-stanga-negru-170-mm~8281957.jpg",
@@ -6906,8 +6906,8 @@
       "price": 48.4,
       "price_net": 40.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/monobloc-pedalier-m-wave-carousel-bb-repair-119-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/monobloc-pedalier-m-wave-carousel-bb-repair-119-mm~8282083.jpg",
@@ -7948,7 +7948,7 @@
       "name": "➤ Monobloace - B.B.",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
       "product_count": 48,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "nipluri-accesorii",
@@ -8011,7 +8011,7 @@
       "name": "➤ Pionioane Filetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "product_count": 41,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "pipe-ghidon",
@@ -8025,7 +8025,7 @@
       "name": "➤ Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
       "product_count": 26,
-      "in_stock_count": 15
+      "in_stock_count": 13
     },
     {
       "id": "pompe-furca-tubeless",
@@ -8074,7 +8074,7 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 19
+      "in_stock_count": 20
     },
     {
       "id": "roti-fata",
@@ -8130,7 +8130,7 @@
       "name": "➤ Schimbatoare Spate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 23
+      "in_stock_count": 22
     },
     {
       "id": "sei",
@@ -8172,7 +8172,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 47,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "spite-stainless",
@@ -8207,14 +8207,14 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 49,
-      "in_stock_count": 46
+      "in_stock_count": 45
     },
     {
       "id": "suruburi-piulite-saibe",
       "name": "➤ Suruburi - Piulite - Saibe",
       "full_path": "COMPONENTE > Unelte Service > ➤ Suruburi - Piulite - Saibe",
       "product_count": 6,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "tije-sa",
@@ -8249,7 +8249,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 172,
-      "in_stock_count": 144
+      "in_stock_count": 143
     },
     {
       "id": "urechi-cadru",
