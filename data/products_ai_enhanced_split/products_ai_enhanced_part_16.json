@@ -1,81 +1,14 @@
 {
-  "last_updated": "2026-04-21T04:03:54.529058+00:00",
+  "last_updated": "2026-04-22T04:03:09.063090+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 16,
     "total_parts": 19,
     "product_range": "3751-4000",
-    "original_total": 4596
+    "original_total": 4593
   },
   "products": [
-    {
-      "id": "111002",
-      "sku": "111002",
-      "ean": "2802192000008",
-      "name": "Butuc Spate NOVATEC F172SB-QR-11S 28H",
-      "brand": "NOVATEC",
-      "category": "➤ Butuci V-Break - Dinam",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
-      "price": 423.5,
-      "price_net": 350.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/butuc-spate-novatec-f172sb-qr-11s-28h.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/butuc-spate-novatec-f172sb-qr-11s-28h~8339494.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/butuc-spate-novatec-f172sb-qr-11s-28h~8339494.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-spate-novatec-f172sb-qr-11s-28h~8339497.jpg"
-      ],
-      "tags": [
-        "11 viteze",
-        "COMPONENTE",
-        "NOVATEC",
-        "➤ Butuci V-Break - Dinam"
-      ],
-      "specs": {
-        "speeds": 11
-      }
-    },
-    {
-      "id": "11A00477",
-      "sku": "11A00477",
-      "ean": "8022530029568",
-      "name": "Anvelopa VITTORIA ALWAY 29x2.6(65-622) Rigid Negru E-Bike",
-      "brand": "VITTORIA",
-      "category": "➤ Anvelope pe Sârmă",
-      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "price": 385.0,
-      "price_net": 318.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 1.49,
-      "url": "https://www.bikestylish.ro/anvelopa-vittoria-alway-29x2-6-65-622-rigid-negru-e-bike.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-alway-29x2-6-65-622-rigid-negru-e-bike~8339509.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-alway-29x2-6-65-622-rigid-negru-e-bike~8339509.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-vittoria-alway-29x2-6-65-622-rigid-negru-e-bike~8339512.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-vittoria-alway-29x2-6-65-622-rigid-negru-e-bike~8339515.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-alway-29x2-6-65-622-rigid-negru-e-bike~8339518.jpg"
-      ],
-      "tags": [
-        "29 inch",
-        "COMPONENTE",
-        "E-Bike",
-        "VITTORIA",
-        "➤ Anvelope pe Sârmă"
-      ],
-      "specs": {
-        "wheel_size": "29",
-        "bike_type": [
-          "E-Bike"
-        ],
-        "color": "Negru",
-        "dimensions": "29 x 2.6"
-      }
-    },
     {
       "id": "111344B428111TG",
       "sku": "111344B428111TG",
@@ -1898,7 +1831,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 12,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/saboti-frana-sxt-72-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/saboti-frana-sxt-72-mm-negru~8340070.jpg",
@@ -2613,8 +2546,8 @@
       "price": 737.0,
       "price_net": 609.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/pedale-ht-ans10-oil-slick.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-ans10-oil-slick~8340274.jpg",
       "images": [
@@ -3673,7 +3606,7 @@
       "price_net": 16.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 30,
+      "stock_quantity": 29,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-k4-72x95-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-plastic-sxt-k4-72x95-9-16~8340553.jpg",
@@ -3978,7 +3911,7 @@
       "price_net": 118.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 13,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/etrier-shimano-br-tx805-tourney-tx-f-r.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/etrier-shimano-br-tx805-tourney-tx-f-r~8340664.jpg",
@@ -7392,6 +7325,66 @@
         "SAMOX",
         "➤ Brate Angrenaje"
       ]
+    },
+    {
+      "id": "356723",
+      "sku": "356723",
+      "ean": "887539046576",
+      "name": "Brat Stanga SAMOX 13 Offset- 165 mm Bosch Gen 1+2+4 / Brose SHAPE 2",
+      "brand": "SAMOX",
+      "category": "➤ Brate Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
+      "secondary_categories": [
+        "e- MOBILITY > Angrenaje E-Bike"
+      ],
+      "price": 85.8,
+      "price_net": 70.91,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 5,
+      "weight_kg": 0.25,
+      "url": "https://www.bikestylish.ro/brat-stanga-samox-13-offset-165-mm-bosch-gen-1-2-4-brose-shape-2.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/brat-stanga-samox-13-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341351.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/brat-stanga-samox-13-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341351.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/brat-stanga-samox-13-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341354.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/brat-stanga-samox-13-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341357.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Brate Angrenaje"
+      ]
+    },
+    {
+      "id": "356728",
+      "sku": "356728",
+      "ean": "887539046620",
+      "name": "Brat Dreapta SAMOX 13 Offset- 165 mm Bosch Gen 1+2+4/ Brose SHAPE 2",
+      "brand": "SAMOX",
+      "category": "➤ Brate Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
+      "secondary_categories": [
+        "e- MOBILITY > Angrenaje E-Bike"
+      ],
+      "price": 85.8,
+      "price_net": 70.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.25,
+      "url": "https://www.bikestylish.ro/brat-dreapta-samox-13-offset-165-mm-bosch-gen-1-2-4-brose-shape-2.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/brat-dreapta-samox-13-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341360.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/brat-dreapta-samox-13-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341360.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/brat-dreapta-samox-13-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341363.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/brat-dreapta-samox-13-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341366.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Brate Angrenaje"
+      ]
     }
   ],
   "categories": [
@@ -7532,8 +7525,8 @@
       "id": "manusi-ciclism",
       "name": "Manusi Ciclism",
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
-      "product_count": 47,
-      "in_stock_count": 39
+      "product_count": 45,
+      "in_stock_count": 38
     },
     {
       "id": "motoare-e-bike",
@@ -7617,7 +7610,7 @@
       "name": "Trotinete Electrice",
       "full_path": "e- MOBILITY > Trotinete Electrice",
       "product_count": 38,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "unelte-service",
@@ -7708,7 +7701,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 17,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7729,7 +7722,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 181,
-      "in_stock_count": 116
+      "in_stock_count": 115
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7757,7 +7750,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7953,7 +7946,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 15,
-      "in_stock_count": 12
+      "in_stock_count": 10
     },
     {
       "id": "cuveti-headset",
@@ -7995,7 +7988,7 @@
       "name": "➤ Frane Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
       "product_count": 15,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "frane-v-break",
@@ -8163,7 +8156,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 140,
-      "in_stock_count": 105
+      "in_stock_count": 104
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8380,7 +8373,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 49,
-      "in_stock_count": 45
+      "in_stock_count": 44
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -8429,7 +8422,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 315
+      "in_stock_count": 314
     },
     {
       "id": "bike-maintenance-intretinere",

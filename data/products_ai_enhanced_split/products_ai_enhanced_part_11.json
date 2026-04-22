@@ -1,70 +1,14 @@
 {
-  "last_updated": "2026-04-21T04:03:54.529058+00:00",
+  "last_updated": "2026-04-22T04:03:09.063090+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
     "total_parts": 19,
     "product_range": "2501-2750",
-    "original_total": 4596
+    "original_total": 4593
   },
   "products": [
-    {
-      "id": "B14GRC259N",
-      "sku": "B14GRC259N",
-      "name": "Spita MACH.1 GALVA - 259 x 2 mm Negru",
-      "brand": "MACH 1",
-      "category": "➤ Spite UCP",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite UCP",
-      "price": 1.65,
-      "price_net": 1.36,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 200,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/spita-mach-1-galva-259-x-2-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/spita-mach-1-galva-259-x-2-mm-negru~8330002.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/spita-mach-1-galva-259-x-2-mm-negru~8330002.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "MACH 1",
-        "➤ Spite UCP"
-      ],
-      "specs": {
-        "color": "Negru",
-        "dimensions": "259 x 2"
-      }
-    },
-    {
-      "id": "C644622",
-      "sku": "C644622",
-      "ean": "8051406523169",
-      "name": "Ghidolina DEDA Mistral Alb LB",
-      "brand": "DEDA ELEMENTI",
-      "category": "➤ Bar Tape - Accesorii",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
-      "price": 104.5,
-      "price_net": 86.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.07,
-      "url": "https://www.bikestylish.ro/ghidolina-deda-mistral-alb-lb.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ghidolina-deda-mistral-alb-lb~8330026.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ghidolina-deda-mistral-alb-lb~8330026.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "DEDA ELEMENTI",
-        "➤ Bar Tape - Accesorii"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
     {
       "id": "311523",
       "sku": "311523",
@@ -6549,6 +6493,58 @@
         "PILO",
         "➤ Urechi Cadru"
       ]
+    },
+    {
+      "id": "D612",
+      "sku": "D612",
+      "ean": "7290107116305",
+      "name": "Ureche Cadru PILO D612 Orbea",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 165.0,
+      "price_net": 136.36,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d612-orbea.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d612-orbea~8331154.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d612-orbea~8331154.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D623",
+      "sku": "D623",
+      "ean": "7290107116480",
+      "name": "Ureche Cadru PILO D623 Cube",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d623-cube.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d623-cube~8331157.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d623-cube~8331157.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d623-cube~8331160.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d623-cube~8331163.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6689,8 +6685,8 @@
       "id": "manusi-ciclism",
       "name": "Manusi Ciclism",
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
-      "product_count": 47,
-      "in_stock_count": 39
+      "product_count": 45,
+      "in_stock_count": 38
     },
     {
       "id": "motoare-e-bike",
@@ -6774,7 +6770,7 @@
       "name": "Trotinete Electrice",
       "full_path": "e- MOBILITY > Trotinete Electrice",
       "product_count": 38,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "unelte-service",
@@ -6865,7 +6861,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 17,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -6886,7 +6882,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 181,
-      "in_stock_count": 116
+      "in_stock_count": 115
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -6914,7 +6910,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7110,7 +7106,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 15,
-      "in_stock_count": 12
+      "in_stock_count": 10
     },
     {
       "id": "cuveti-headset",
@@ -7152,7 +7148,7 @@
       "name": "➤ Frane Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
       "product_count": 15,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "frane-v-break",
@@ -7320,7 +7316,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 140,
-      "in_stock_count": 105
+      "in_stock_count": 104
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7537,7 +7533,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 49,
-      "in_stock_count": 45
+      "in_stock_count": 44
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -7586,7 +7582,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 315
+      "in_stock_count": 314
     },
     {
       "id": "bike-maintenance-intretinere",

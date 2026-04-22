@@ -1,76 +1,14 @@
 {
-  "last_updated": "2026-04-21T04:03:54.529058+00:00",
+  "last_updated": "2026-04-22T04:03:09.063090+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 8,
     "total_parts": 19,
     "product_range": "1751-2000",
-    "original_total": 4596
+    "original_total": 4593
   },
   "products": [
-    {
-      "id": "388516",
-      "sku": "388516",
-      "ean": "2801345000001",
-      "name": "Roata Fata SXT 26(559x19C) SXT BASIC II FD 36H",
-      "brand": "SXT",
-      "category": "➤ Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
-      "price": 269.5,
-      "price_net": 222.73,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
-      "url": "https://www.bikestylish.ro/roata-fata-sxt-26-559x19c-sxt-basic-ii-fd-36h.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/roata-fata-sxt-26-559x19c-sxt-basic-ii-fd-36h~12379401.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/roata-fata-sxt-26-559x19c-sxt-basic-ii-fd-36h~12379401.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/roata-fata-sxt-26-559x19c-sxt-basic-ii-fd-36h~12379404.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-fata-sxt-26-559x19c-sxt-basic-ii-fd-36h~8292892.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/roata-fata-sxt-26-559x19c-sxt-basic-ii-fd-36h~8292895.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/roata-fata-sxt-26-559x19c-sxt-basic-ii-fd-36h~8292898.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SXT",
-        "➤ Roti Fata"
-      ],
-      "specs": {
-        "dimensions": "559 x 19"
-      }
-    },
-    {
-      "id": "388517",
-      "sku": "388517",
-      "ean": "2801622000007",
-      "name": "Roata Fata SXT 27.5(584x19C) BASIC II FD -36H",
-      "brand": "SXT",
-      "category": "➤ Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
-      "price": 269.5,
-      "price_net": 222.73,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 9,
-      "url": "https://www.bikestylish.ro/roata-fata-sxt-27-5-584x19c-basic-ii-fd-36h.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-sxt-27-5-584x19c-basic-ii-fd-36h~8292256.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-sxt-27-5-584x19c-basic-ii-fd-36h~8292256.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-sxt-27-5-584x19c-basic-ii-fd-36h~8292910.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/roata-fata-sxt-27-5-584x19c-basic-ii-fd-36h~8292904.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/roata-fata-sxt-27-5-584x19c-basic-ii-fd-36h~8292907.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/roata-fata-sxt-27-5-584x19c-basic-ii-fd-36h~8292913.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SXT",
-        "➤ Roti Fata"
-      ],
-      "specs": {
-        "dimensions": "584 x 19"
-      }
-    },
     {
       "id": "388518",
       "sku": "388518",
@@ -269,7 +207,7 @@
       "price_net": 250.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 14,
+      "stock_quantity": 13,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-29-622-x-19c-basic-ii-fd-36h-casetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-29-622-x-19c-basic-ii-fd-36h-casetat~8292277.jpg",
       "images": [
@@ -1548,8 +1486,8 @@
       "price": 206.8,
       "price_net": 170.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/bara-cadru-vertical-ghidon-cu-sistem-de-pliere-trotineta-electrica-anlen-e9x.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/bara-cadru-vertical-ghidon-cu-sistem-de-pliere-trotineta-electrica~8292421.jpg",
       "images": [
@@ -3126,7 +3064,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 16,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/placute-frana-m-wave-bpd-organic-asp1-organice.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/placute-frana-m-wave-bpd-organic-asp1-organice~8292604.jpg",
@@ -3178,7 +3116,7 @@
       "price_net": 1.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 580,
+      "stock_quantity": 540,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/sabot-frana-sxt-40-mm-1buc.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/sabot-frana-sxt-40-mm-1buc~8292610.jpg",
@@ -4705,7 +4643,7 @@
       "price_net": 209.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 10,
       "weight_kg": 1.43,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-gigas-26-x-4-0-98-559-k-1167.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-kenda-gigas-26-x-4-0-98-559-k-1167~8324083.jpg",
@@ -4984,7 +4922,7 @@
       "price_net": 136.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 19,
+      "stock_quantity": 14,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-slant-six-20-x-2-60-k-1080.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-kenda-slant-six-20-x-2-60-k-1080~8324170.jpg",
@@ -5299,8 +5237,8 @@
       "price": 181.5,
       "price_net": 150.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.8,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-slant-six-sport-24-x-2-60-66-507.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-kenda-slant-six-sport-24-x-2-60-66-507~8324242.jpg",
@@ -5422,7 +5360,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 210,
+      "stock_quantity": 207,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -5597,7 +5535,7 @@
       "price_net": 48.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 6,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/antifurt-cadru-m-wave-ring.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/antifurt-cadru-m-wave-ring~8324344.jpg",
@@ -5623,7 +5561,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 11,
       "weight_kg": 0.32,
       "url": "https://www.bikestylish.ro/antifurt-cu-cifru-m-wave-ds-12-10-s-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/antifurt-cu-cifru-m-wave-ds-12-10-s-negru~8324350.jpg",
@@ -7071,6 +7009,60 @@
       "specs": {
         "material": "Aluminiu"
       }
+    },
+    {
+      "id": "325158",
+      "sku": "325158",
+      "ean": "2800076000007",
+      "name": "Butuc Spate NOVATEC F162SB/AA-11S 36H",
+      "brand": "NOVATEC",
+      "category": "➤ Butuci V-Break - Dinam",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
+      "price": 264.0,
+      "price_net": 218.18,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 4,
+      "weight_kg": 0.31,
+      "url": "https://www.bikestylish.ro/butuc-spate-novatec-f162sb-aa-11s-36h.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-spate-novatec-f162sb-aa-11s-36h~8325106.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-spate-novatec-f162sb-aa-11s-36h~8325106.jpg"
+      ],
+      "tags": [
+        "11 viteze",
+        "COMPONENTE",
+        "NOVATEC",
+        "➤ Butuci V-Break - Dinam"
+      ],
+      "specs": {
+        "speeds": 11
+      }
+    },
+    {
+      "id": "325157",
+      "sku": "325157",
+      "ean": "2800896000003",
+      "name": "Butuc Fata NOVATEC A141SB 32H",
+      "brand": "NOVATEC",
+      "category": "➤ Butuci V-Break - Dinam",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
+      "price": 108.9,
+      "price_net": 90.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 9,
+      "weight_kg": 0.12,
+      "url": "https://www.bikestylish.ro/butuc-fata-novatec-a141sb-32h.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-fata-novatec-a141sb-32h~8325109.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-fata-novatec-a141sb-32h~8325109.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "NOVATEC",
+        "➤ Butuci V-Break - Dinam"
+      ]
     }
   ],
   "categories": [
@@ -7211,8 +7203,8 @@
       "id": "manusi-ciclism",
       "name": "Manusi Ciclism",
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
-      "product_count": 47,
-      "in_stock_count": 39
+      "product_count": 45,
+      "in_stock_count": 38
     },
     {
       "id": "motoare-e-bike",
@@ -7296,7 +7288,7 @@
       "name": "Trotinete Electrice",
       "full_path": "e- MOBILITY > Trotinete Electrice",
       "product_count": 38,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "unelte-service",
@@ -7387,7 +7379,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 17,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7408,7 +7400,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 181,
-      "in_stock_count": 116
+      "in_stock_count": 115
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7436,7 +7428,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7632,7 +7624,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 15,
-      "in_stock_count": 12
+      "in_stock_count": 10
     },
     {
       "id": "cuveti-headset",
@@ -7674,7 +7666,7 @@
       "name": "➤ Frane Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
       "product_count": 15,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "frane-v-break",
@@ -7842,7 +7834,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 140,
-      "in_stock_count": 105
+      "in_stock_count": 104
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8059,7 +8051,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 49,
-      "in_stock_count": 45
+      "in_stock_count": 44
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -8108,7 +8100,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 315
+      "in_stock_count": 314
     },
     {
       "id": "bike-maintenance-intretinere",
