@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T04:03:09.063090+00:00",
+  "last_updated": "2026-04-23T04:04:17.041481+00:00",
   "total_products": 93,
   "source": "sportxteam_feed",
   "part_info": {
@@ -925,8 +925,8 @@
       "price": 176.0,
       "price_net": 145.45,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/butuc-fata-novatec-d041sb-b15-cl-15-x-110-mm-32-h-negru-e-bike.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-fata-novatec-d041sb-b15-cl-15-x-110-mm-32-h-negru-e-bike~12071826.jpg",
@@ -1565,7 +1565,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 47,
+      "stock_quantity": 39,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-urbano-700x40c-42-622-negru-965g-rigid.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-urbano-700x40c-42-622-negru-965g-rigid~12342570.jpg",
@@ -2686,7 +2686,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 9,
       "url": "https://www.bikestylish.ro/manusi-ventura-xs-multicolor.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/manusi-ventura-xs-multicolor~13257705.jpg",
       "images": [
@@ -3062,7 +3062,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 40
+      "in_stock_count": 39
     },
     {
       "id": "axe-suruburi-piulite",
@@ -3146,7 +3146,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 73
+      "in_stock_count": 72
     },
     {
       "id": "butuci-v-break-dinam",
@@ -3258,7 +3258,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 15,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "cuveti-headset",
@@ -3377,7 +3377,7 @@
       "name": "➤ Lumini Spate",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
       "product_count": 30,
-      "in_stock_count": 22
+      "in_stock_count": 21
     },
     {
       "id": "manete-frana",
@@ -3566,7 +3566,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 46,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "rucsaci",
@@ -3608,7 +3608,7 @@
       "name": "➤ Schimbatoare Spate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 22
+      "in_stock_count": 21
     },
     {
       "id": "sei",
@@ -3629,7 +3629,7 @@
       "name": "➤ Seturi Aparatori Noroi",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
       "product_count": 26,
-      "in_stock_count": 22
+      "in_stock_count": 21
     },
     {
       "id": "seturi-roti",
@@ -3685,7 +3685,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 49,
-      "in_stock_count": 44
+      "in_stock_count": 43
     },
     {
       "id": "suruburi-piulite-saibe",
