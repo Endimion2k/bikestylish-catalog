@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T04:04:17.041481+00:00",
+  "last_updated": "2026-04-24T04:06:54.501353+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1228,8 +1228,9 @@
       "price": 209.0,
       "price_net": 172.73,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 2.0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-20-406-x-19c-36h-filetat-ax.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/roata-spate-sxt-20-406-x-19c-36h-filetat-ax~8326705.jpg",
       "images": [
@@ -3014,8 +3015,8 @@
       "brand": "M-WAVE",
       "category": "➤ Reflectorizante",
       "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
-      "price": 24.2,
-      "price_net": 20.0,
+      "price": 18.0,
+      "price_net": 14.88,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 144,
@@ -3124,7 +3125,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 123,
+      "stock_quantity": 122,
       "weight_kg": 0.95,
       "url": "https://www.bikestylish.ro/roti-ajutatoare-pentru-bicicletele-de-copii-cu-viteze-16-20-sxt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/roti-ajutatoare-pentru-bicicletele-de-copii-cu-viteze-16-20-sxt~10362231.jpg",
@@ -3151,8 +3152,8 @@
       "brand": "SXT",
       "category": "Roti Ajutatoare - Articole Copii",
       "category_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
-      "price": 39.6,
-      "price_net": 32.73,
+      "price": 36.0,
+      "price_net": 29.75,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 109,
@@ -3329,8 +3330,8 @@
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/cric-aluminiu-sxt-24-29-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/cric-aluminiu-sxt-24-29-negru~10362267.jpg",
@@ -5952,7 +5953,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 67,
+      "stock_quantity": 66,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-sxt-n-13-nylon-fiber-rosu~11326203.jpg",
@@ -6106,8 +6107,8 @@
       "brand": "SXT",
       "category": "➤ Mini Pompe",
       "category_path": "ACCESORII > Pompe Ciclism > ➤ Mini Pompe",
-      "price": 27.5,
-      "price_net": 22.73,
+      "price": 25.0,
+      "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 459,
@@ -7017,7 +7018,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 17,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7199,7 +7200,7 @@
       "name": "➤ Cartuse CO2 - Accesorii Pompe",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Cartuse CO2 - Accesorii Pompe",
       "product_count": 5,
-      "in_stock_count": 3
+      "in_stock_count": 4
     },
     {
       "id": "casete-butuci",
@@ -7255,7 +7256,7 @@
       "name": "➤ Cricuri Mijloc",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Mijloc",
       "product_count": 12,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "cricuri-spate",
@@ -7353,7 +7354,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 42,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7437,7 +7438,7 @@
       "name": "➤ Nipluri - Accesorii",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Nipluri - Accesorii",
       "product_count": 13,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "ochelari-ciclism",
@@ -7451,7 +7452,7 @@
       "name": "➤ Oglinzi",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
       "product_count": 24,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pedale-click",
@@ -7479,7 +7480,7 @@
       "name": "➤ Pedaliere - Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
       "product_count": 60,
-      "in_stock_count": 39
+      "in_stock_count": 38
     },
     {
       "id": "pinioane-casetate",
@@ -7500,7 +7501,7 @@
       "name": "➤ Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
       "product_count": 45,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "placute-frana-disc",
@@ -7542,7 +7543,7 @@
       "name": "➤ Protectii Antipana",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
       "product_count": 45,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "protectii-lant-cadru",
@@ -7570,7 +7571,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 46,
-      "in_stock_count": 37
+      "in_stock_count": 38
     },
     {
       "id": "rucsaci",
@@ -7612,7 +7613,7 @@
       "name": "➤ Schimbatoare Spate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 21
+      "in_stock_count": 22
     },
     {
       "id": "sei",
@@ -7703,7 +7704,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 47,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "transport-biciclete",
