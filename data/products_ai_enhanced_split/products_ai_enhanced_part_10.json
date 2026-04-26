@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T03:59:33.959910+00:00",
+  "last_updated": "2026-04-26T04:11:04.188540+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -370,8 +370,8 @@
       "brand": "M-WAVE",
       "category": "➤ Rucsaci",
       "category_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Rucsaci",
-      "price": 242.0,
-      "price_net": 200.0,
+      "price": 180.0,
+      "price_net": 148.76,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -2762,8 +2762,8 @@
       "brand": "M-WAVE",
       "category": "➤ Axe - Accesorii Butuci",
       "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
-      "price": 225.5,
-      "price_net": 186.36,
+      "price": 219.0,
+      "price_net": 180.99,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 4,
@@ -5851,8 +5851,8 @@
       "brand": "NOVATEC",
       "category": "➤ Butuci Frana Disc",
       "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
-      "price": 77.0,
-      "price_net": 63.64,
+      "price": 65.0,
+      "price_net": 53.72,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 46,
@@ -6141,15 +6141,16 @@
       "id": "388887",
       "sku": "388887",
       "ean": "2801636000000",
-      "name": "Roata Spate 27.5\"(584 x21C) x 32H NEURO DISC- 2R",
+      "name": "Roata Spate 27.5(584 x21C) x 32H NEURO DISC- 2R",
       "brand": "SXT",
       "category": "➤ Roti Spate",
       "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
-      "price": 297.0,
-      "price_net": 245.45,
+      "price": 350.0,
+      "price_net": 289.26,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 2.0,
       "url": "https://www.bikestylish.ro/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r~8329642.jpg",
       "images": [
@@ -6160,13 +6161,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r~8329654.jpg"
       ],
       "tags": [
-        "27.5 inch",
         "COMPONENTE",
         "SXT",
         "➤ Roti Spate"
       ],
       "specs": {
-        "wheel_size": "27.5",
         "dimensions": "584 x 21"
       }
     },
@@ -6174,12 +6173,12 @@
       "id": "388888",
       "sku": "388888",
       "ean": "2801357000006",
-      "name": "Roata Fata 27.5\"(584x21C) x 32H NEURO DISC- 2R",
+      "name": "Roata Fata 27.5(584x21C) x 32H NEURO DISC- 2R",
       "brand": "SXT",
       "category": "➤ Roti Fata",
       "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
-      "price": 352.0,
-      "price_net": 290.91,
+      "price": 299.0,
+      "price_net": 247.11,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 8,
@@ -6187,19 +6186,15 @@
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-27-5-584x21c-x-32h-neuro-disc-2r~8329660.jpg",
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-27-5-584x21c-x-32h-neuro-disc-2r~8329660.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/roata-fata-27-5-584x21c-x-32h-neuro-disc-2r~8329663.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-27-5-584x21c-x-32h-neuro-disc-2r~8329666.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-fata-27-5-584x21c-x-32h-neuro-disc-2r~8329669.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-fata-27-5-584x21c-x-32h-neuro-disc-2r~8329672.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-fata-27-5-584x21c-x-32h-neuro-disc-2r~8329669.jpg"
       ],
       "tags": [
-        "27.5 inch",
         "COMPONENTE",
         "SXT",
         "➤ Roti Fata"
       ],
       "specs": {
-        "wheel_size": "27.5",
         "dimensions": "584 x 21"
       }
     },
@@ -6211,11 +6206,12 @@
       "brand": "SXT",
       "category": "➤ Roti Fata",
       "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
-      "price": 278.0,
-      "price_net": 229.75,
+      "price": 299.0,
+      "price_net": 247.11,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 8,
+      "weight_kg": 2.0,
       "url": "https://www.bikestylish.ro/roata-fata-27-5-584x21c-sxt-medius-32h-2-rulmenti.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-fata-27-5-584x21c-sxt-medius-32h-2-rulmenti~8329687.jpg",
       "images": [
@@ -8199,7 +8195,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 46,
-      "in_stock_count": 38
+      "in_stock_count": 40
     },
     {
       "id": "rucsaci",
