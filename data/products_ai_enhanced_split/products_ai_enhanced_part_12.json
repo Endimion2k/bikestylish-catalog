@@ -1,40 +1,14 @@
 {
-  "last_updated": "2026-04-27T04:15:02.058271+00:00",
+  "last_updated": "2026-04-28T04:17:41.275883+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 12,
     "total_parts": 19,
     "product_range": "2751-3000",
-    "original_total": 4594
+    "original_total": 4593
   },
   "products": [
-    {
-      "id": "D630",
-      "sku": "D630",
-      "ean": "7290107116558",
-      "name": "Ureche Cadru PILO D630 Thomus",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 328.9,
-      "price_net": 271.82,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d630-thomus.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d630-thomus~8331166.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d630-thomus~8331166.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d630-thomus~8331169.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D638",
       "sku": "D638",
@@ -3245,7 +3219,7 @@
       "price_net": 113.64,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d250-canyon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d250-canyon~8331595.jpg",
@@ -6395,6 +6369,32 @@
       "specs": {
         "color": "Silver"
       }
+    },
+    {
+      "id": "D750",
+      "sku": "D750",
+      "ean": "7290107117883",
+      "name": "Ureche Cadru PILO D750 Neil Pryde",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 165.0,
+      "price_net": 136.36,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d750-neil-pryde.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d750-neil-pryde~8332273.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d750-neil-pryde~8332273.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d750-neil-pryde~8332276.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6542,8 +6542,8 @@
       "id": "motoare-e-bike",
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
-      "product_count": 12,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 7
     },
     {
       "id": "pantaloni-ciclism",
@@ -6781,7 +6781,7 @@
       "name": "➤ Bagaje Ghidon",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
       "product_count": 9,
-      "in_stock_count": 8
+      "in_stock_count": 6
     },
     {
       "id": "bagaje-spate",
@@ -6935,7 +6935,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "cosuri-transport-spate",
@@ -6956,7 +6956,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 15,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "cuveti-headset",
@@ -7166,7 +7166,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 140,
-      "in_stock_count": 104
+      "in_stock_count": 103
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7229,7 +7229,7 @@
       "name": "➤ Portbagaje Spate",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "product_count": 15,
-      "in_stock_count": 10
+      "in_stock_count": 11
     },
     {
       "id": "protectii-antipana",
@@ -7425,7 +7425,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 172,
-      "in_stock_count": 141
+      "in_stock_count": 140
     },
     {
       "id": "urechi-cadru",

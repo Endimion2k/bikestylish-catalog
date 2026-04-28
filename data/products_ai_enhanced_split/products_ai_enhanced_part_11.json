@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-27T04:15:02.058271+00:00",
+  "last_updated": "2026-04-28T04:17:41.275883+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
     "total_parts": 19,
     "product_range": "2501-2750",
-    "original_total": 4594
+    "original_total": 4593
   },
   "products": [
     {
@@ -963,36 +963,6 @@
         "Baterii -incarcatoare E-Bike",
         "E-Bike",
         "SXT",
-        "e- MOBILITY"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ]
-      }
-    },
-    {
-      "id": "D888036",
-      "sku": "D888036",
-      "ean": "8581508880360",
-      "name": "Caseta Motor Spate BAFANG RM G010",
-      "brand": "BAFANG",
-      "category": "Motoare E-Bike",
-      "category_path": "e- MOBILITY > Motoare E-Bike",
-      "price": 108.9,
-      "price_net": 90.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/caseta-motor-spate-bafang-rm-g010.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/caseta-motor-spate-bafang-rm-g010~8330293.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/caseta-motor-spate-bafang-rm-g010~8330293.jpg"
-      ],
-      "tags": [
-        "BAFANG",
-        "E-Bike",
-        "Motoare E-Bike",
         "e- MOBILITY"
       ],
       "specs": {
@@ -6545,6 +6515,32 @@
         "PILO",
         "➤ Urechi Cadru"
       ]
+    },
+    {
+      "id": "D630",
+      "sku": "D630",
+      "ean": "7290107116558",
+      "name": "Ureche Cadru PILO D630 Thomus",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 328.9,
+      "price_net": 271.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d630-thomus.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d630-thomus~8331166.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d630-thomus~8331166.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d630-thomus~8331169.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6692,8 +6688,8 @@
       "id": "motoare-e-bike",
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
-      "product_count": 12,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 7
     },
     {
       "id": "pantaloni-ciclism",
@@ -6931,7 +6927,7 @@
       "name": "➤ Bagaje Ghidon",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
       "product_count": 9,
-      "in_stock_count": 8
+      "in_stock_count": 6
     },
     {
       "id": "bagaje-spate",
@@ -7085,7 +7081,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "cosuri-transport-spate",
@@ -7106,7 +7102,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 15,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "cuveti-headset",
@@ -7316,7 +7312,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 140,
-      "in_stock_count": 104
+      "in_stock_count": 103
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7379,7 +7375,7 @@
       "name": "➤ Portbagaje Spate",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "product_count": 15,
-      "in_stock_count": 10
+      "in_stock_count": 11
     },
     {
       "id": "protectii-antipana",
@@ -7575,7 +7571,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 172,
-      "in_stock_count": 141
+      "in_stock_count": 140
     },
     {
       "id": "urechi-cadru",

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-27T04:15:02.058271+00:00",
+  "last_updated": "2026-04-28T04:17:41.275883+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 8,
     "total_parts": 19,
     "product_range": "1751-2000",
-    "original_total": 4594
+    "original_total": 4593
   },
   "products": [
     {
@@ -1658,8 +1658,8 @@
       "price": 319.0,
       "price_net": 263.64,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/kit-reparat-pedale-ht-nano.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/kit-reparat-pedale-ht-nano~8292445.jpg",
       "images": [
@@ -3033,8 +3033,8 @@
       "price": 82.5,
       "price_net": 68.18,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/angrenaj-metal-sxt-1v-negru-38t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/angrenaj-metal-sxt-1v-negru-38t~8292601.jpg",
@@ -4201,7 +4201,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 14,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-krackpot-20x1-95-50-406-k-907-verde.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kenda-krackpot-20x1-95-50-406-k-907-verde~8323957.jpg",
@@ -4643,7 +4643,7 @@
       "price_net": 209.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 8,
       "weight_kg": 1.43,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-gigas-26-x-4-0-98-559-k-1167.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-kenda-gigas-26-x-4-0-98-559-k-1167~8324083.jpg",
@@ -5360,7 +5360,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 203,
+      "stock_quantity": 202,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -5390,7 +5390,7 @@
       "price_net": 30.58,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 199,
+      "stock_quantity": 198,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/camera-kenda-14-x-2-50-av-valva-45.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kenda-14-x-2-50-av-valva-45~8324272.jpg",
@@ -7210,8 +7210,8 @@
       "id": "motoare-e-bike",
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
-      "product_count": 12,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 7
     },
     {
       "id": "pantaloni-ciclism",
@@ -7449,7 +7449,7 @@
       "name": "➤ Bagaje Ghidon",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
       "product_count": 9,
-      "in_stock_count": 8
+      "in_stock_count": 6
     },
     {
       "id": "bagaje-spate",
@@ -7603,7 +7603,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "cosuri-transport-spate",
@@ -7624,7 +7624,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 15,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "cuveti-headset",
@@ -7834,7 +7834,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 140,
-      "in_stock_count": 104
+      "in_stock_count": 103
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7897,7 +7897,7 @@
       "name": "➤ Portbagaje Spate",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "product_count": 15,
-      "in_stock_count": 10
+      "in_stock_count": 11
     },
     {
       "id": "protectii-antipana",
@@ -8093,7 +8093,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 172,
-      "in_stock_count": 141
+      "in_stock_count": 140
     },
     {
       "id": "urechi-cadru",

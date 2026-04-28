@@ -1,41 +1,14 @@
 {
-  "last_updated": "2026-04-27T04:15:02.058271+00:00",
-  "total_products": 94,
+  "last_updated": "2026-04-28T04:17:41.275883+00:00",
+  "total_products": 93,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 19,
     "total_parts": 19,
-    "product_range": "4501-4594",
-    "original_total": 4594
+    "product_range": "4501-4593",
+    "original_total": 4593
   },
   "products": [
-    {
-      "id": "880321",
-      "sku": "880321",
-      "ean": "4710898412033",
-      "name": "Trusa SUPER B TB-DB11",
-      "brand": "SUPER B",
-      "category": "➤ Truse Unelte - Mini Truse",
-      "category_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
-      "price": 2662.0,
-      "price_net": 2200.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 2.0,
-      "url": "https://www.bikestylish.ro/trusa-super-b-tb-db11.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/trusa-super-b-tb-db11~11998839.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/trusa-super-b-tb-db11~11998839.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/trusa-super-b-tb-db11~11998842.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/trusa-super-b-tb-db11~11998845.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SUPER B",
-        "➤ Truse Unelte - Mini Truse"
-      ]
-    },
     {
       "id": "659689",
       "sku": "659689",
@@ -1480,8 +1453,8 @@
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/cric-aluminiu-sxt-strong-97-24-28.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/cric-aluminiu-sxt-strong-97-24-28~12075462.jpg",
@@ -1564,8 +1537,8 @@
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-urbano-700x40c-42-622-negru-965g-rigid.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-urbano-700x40c-42-622-negru-965g-rigid~12342570.jpg",
@@ -1600,7 +1573,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 19,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid~12342588.jpg",
@@ -2337,8 +2310,8 @@
       "price": 60.0,
       "price_net": 49.59,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/magnet-spite-e-bike-yamaha.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/magnet-spite-e-bike-yamaha~13207290.jpg",
       "images": [
@@ -2870,8 +2843,8 @@
       "id": "motoare-e-bike",
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
-      "product_count": 12,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 7
     },
     {
       "id": "pantaloni-ciclism",
@@ -3109,7 +3082,7 @@
       "name": "➤ Bagaje Ghidon",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
       "product_count": 9,
-      "in_stock_count": 8
+      "in_stock_count": 6
     },
     {
       "id": "bagaje-spate",
@@ -3263,7 +3236,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "cosuri-transport-spate",
@@ -3284,7 +3257,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 15,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "cuveti-headset",
@@ -3494,7 +3467,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 140,
-      "in_stock_count": 104
+      "in_stock_count": 103
     },
     {
       "id": "pedaliere-angrenaje",
@@ -3557,7 +3530,7 @@
       "name": "➤ Portbagaje Spate",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "product_count": 15,
-      "in_stock_count": 10
+      "in_stock_count": 11
     },
     {
       "id": "protectii-antipana",
@@ -3753,7 +3726,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 172,
-      "in_stock_count": 141
+      "in_stock_count": 140
     },
     {
       "id": "urechi-cadru",

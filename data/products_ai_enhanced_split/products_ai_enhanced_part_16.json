@@ -1,48 +1,14 @@
 {
-  "last_updated": "2026-04-27T04:15:02.058271+00:00",
+  "last_updated": "2026-04-28T04:17:41.275883+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 16,
     "total_parts": 19,
     "product_range": "3751-4000",
-    "original_total": 4594
+    "original_total": 4593
   },
   "products": [
-    {
-      "id": "111344B428111TG",
-      "sku": "111344B428111TG",
-      "ean": "8022530013444",
-      "name": "Anvelopa VITTORIA RANDONNEUR 700x28C(28-622) Rigid Reflectorizant",
-      "brand": "VITTORIA",
-      "category": "➤ Anvelope pe Sârmă",
-      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "secondary_categories": [
-        "e- MOBILITY > Componente E-Bike"
-      ],
-      "price": 121.0,
-      "price_net": 100.0,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.51,
-      "url": "https://www.bikestylish.ro/anvelopa-vittoria-randonneur-700x28c-28-622-rigid-reflectorizant.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-vittoria-randonneur-700x28c-28-622-rigid-reflectorizant~8339521.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-vittoria-randonneur-700x28c-28-622-rigid-reflectorizant~8339521.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-randonneur-700x28c-28-622-rigid-reflectorizant~8339530.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-vittoria-randonneur-700x28c-28-622-rigid-reflectorizant~8339524.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-randonneur-700x28c-28-622-rigid-reflectorizant~8339527.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "VITTORIA",
-        "➤ Anvelope pe Sârmă"
-      ],
-      "specs": {
-        "dimensions": "700 x 28"
-      }
-    },
     {
       "id": "111344B437111TG",
       "sku": "111344B437111TG",
@@ -5905,8 +5871,8 @@
       "price": 154.0,
       "price_net": 127.27,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/bagaj-ghidon-m-wave-rough-ride-ii-front-s.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/bagaj-ghidon-m-wave-rough-ride-ii-front-s~8341108.jpg",
@@ -7385,6 +7351,36 @@
         "SAMOX",
         "➤ Brate Angrenaje"
       ]
+    },
+    {
+      "id": "356722",
+      "sku": "356722",
+      "ean": "887539046569",
+      "name": "Brat Stanga SAMOX 5 Offset- 165 mm Bosch Gen 1+2+4 / Brose SHAPE 2",
+      "brand": "SAMOX",
+      "category": "➤ Brate Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
+      "secondary_categories": [
+        "e- MOBILITY > Angrenaje E-Bike"
+      ],
+      "price": 85.8,
+      "price_net": 70.91,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 0.25,
+      "url": "https://www.bikestylish.ro/brat-stanga-samox-5-offset-165-mm-bosch-gen-1-2-4-brose-shape-2.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/brat-stanga-samox-5-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341369.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/brat-stanga-samox-5-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341369.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/brat-stanga-samox-5-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341372.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/brat-stanga-samox-5-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341375.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Brate Angrenaje"
+      ]
     }
   ],
   "categories": [
@@ -7532,8 +7528,8 @@
       "id": "motoare-e-bike",
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
-      "product_count": 12,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 7
     },
     {
       "id": "pantaloni-ciclism",
@@ -7771,7 +7767,7 @@
       "name": "➤ Bagaje Ghidon",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
       "product_count": 9,
-      "in_stock_count": 8
+      "in_stock_count": 6
     },
     {
       "id": "bagaje-spate",
@@ -7925,7 +7921,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "cosuri-transport-spate",
@@ -7946,7 +7942,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 15,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "cuveti-headset",
@@ -8156,7 +8152,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 140,
-      "in_stock_count": 104
+      "in_stock_count": 103
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8219,7 +8215,7 @@
       "name": "➤ Portbagaje Spate",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "product_count": 15,
-      "in_stock_count": 10
+      "in_stock_count": 11
     },
     {
       "id": "protectii-antipana",
@@ -8415,7 +8411,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 172,
-      "in_stock_count": 141
+      "in_stock_count": 140
     },
     {
       "id": "urechi-cadru",

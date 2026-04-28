@@ -1,42 +1,14 @@
 {
-  "last_updated": "2026-04-27T04:15:02.058271+00:00",
+  "last_updated": "2026-04-28T04:17:41.275883+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 14,
     "total_parts": 19,
     "product_range": "3251-3500",
-    "original_total": 4594
+    "original_total": 4593
   },
   "products": [
-    {
-      "id": "D1052",
-      "sku": "D1052",
-      "ean": "7290117590478",
-      "name": "Ureche Cadru PILO D1052 Lapierre",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 209.0,
-      "price_net": 172.73,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1052-lapierre.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1052-lapierre~8334832.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1052-lapierre~8334832.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1052-lapierre~8334835.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1052-lapierre~8334838.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1052-lapierre~8334841.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D1053",
       "sku": "D1053",
@@ -6787,6 +6759,38 @@
       "specs": {
         "dimensions": "559 x 21"
       }
+    },
+    {
+      "id": "1AA00091",
+      "sku": "1AA00091",
+      "ean": "8022530024143",
+      "name": "Set Valve VITTORIA Tubeless Multiway 40 mm",
+      "brand": "VITTORIA",
+      "category": "➤ Banda Janta - Tubeless",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
+      "secondary_categories": [
+        "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
+        "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc"
+      ],
+      "price": 88.0,
+      "price_net": 72.73,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/set-valve-vittoria-tubeless-multiway-40-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/set-valve-vittoria-tubeless-multiway-40-mm~8336509.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/set-valve-vittoria-tubeless-multiway-40-mm~8336509.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/set-valve-vittoria-tubeless-multiway-40-mm~8336512.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/set-valve-vittoria-tubeless-multiway-40-mm~8336515.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/set-valve-vittoria-tubeless-multiway-40-mm~8336518.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/set-valve-vittoria-tubeless-multiway-40-mm~8336521.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "VITTORIA",
+        "➤ Banda Janta - Tubeless"
+      ]
     }
   ],
   "categories": [
@@ -6934,8 +6938,8 @@
       "id": "motoare-e-bike",
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
-      "product_count": 12,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 7
     },
     {
       "id": "pantaloni-ciclism",
@@ -7173,7 +7177,7 @@
       "name": "➤ Bagaje Ghidon",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
       "product_count": 9,
-      "in_stock_count": 8
+      "in_stock_count": 6
     },
     {
       "id": "bagaje-spate",
@@ -7327,7 +7331,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "cosuri-transport-spate",
@@ -7348,7 +7352,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 15,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "cuveti-headset",
@@ -7558,7 +7562,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 140,
-      "in_stock_count": 104
+      "in_stock_count": 103
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7621,7 +7625,7 @@
       "name": "➤ Portbagaje Spate",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "product_count": 15,
-      "in_stock_count": 10
+      "in_stock_count": 11
     },
     {
       "id": "protectii-antipana",
@@ -7817,7 +7821,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 172,
-      "in_stock_count": 141
+      "in_stock_count": 140
     },
     {
       "id": "urechi-cadru",
