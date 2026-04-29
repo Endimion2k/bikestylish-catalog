@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T04:17:41.275883+00:00",
+  "last_updated": "2026-04-29T04:15:04.419193+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -105,7 +105,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 34,
+      "stock_quantity": 23,
       "weight_kg": 0.95,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-mr-ramapo-24x2-10-54-507.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-kujo-mr-ramapo-24x2-10-54-507~8327260.jpg",
@@ -2321,7 +2321,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 12,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/sa-ventura-e-grip-260-x-200-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/sa-ventura-e-grip-260-x-200-mm-negru~8328100.jpg",
@@ -3146,8 +3146,8 @@
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
+      "availability": "limited",
+      "stock_quantity": 2,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/suport-pipa-bike-computer-m-wave-davenport-pentru-garmin.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/suport-pipa-bike-computer-m-wave-davenport-pentru-garmin~8328457.jpg",
@@ -4459,7 +4459,7 @@
       "price_net": 68.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 42,
+      "stock_quantity": 38,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/cric-aluminiu-m-wave-24-29-e-bike.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cric-aluminiu-m-wave-24-29-e-bike~8328958.jpg",
@@ -5855,7 +5855,7 @@
       "price_net": 53.72,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 46,
+      "stock_quantity": 45,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/butuc-fata-d761dse-36h-frana-disc-qr-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-fata-d761dse-36h-frana-disc-qr-negru~8329486.jpg",
@@ -6848,7 +6848,7 @@
       "price_net": 52.07,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 8,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/banda-janta-tubeless-m-wave-30-mm-10-m.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/banda-janta-tubeless-m-wave-30-mm-10-m~8329885.jpg",
@@ -7621,7 +7621,7 @@
       "name": "➤ Antifurturi  U-Lock",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi  U-Lock",
       "product_count": 5,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "antifurturi-lant",
@@ -7663,7 +7663,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 181,
-      "in_stock_count": 115
+      "in_stock_count": 114
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7719,7 +7719,7 @@
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
       "product_count": 38,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "banda-janta-tubeless",
@@ -7866,7 +7866,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "cosuri-transport-spate",
@@ -7894,7 +7894,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "discuri-rotoare",
@@ -8125,7 +8125,7 @@
       "name": "➤ Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
       "product_count": 45,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "placute-frana-disc",
@@ -8188,14 +8188,14 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 37,
-      "in_stock_count": 32
+      "in_stock_count": 30
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 46,
-      "in_stock_count": 40
+      "in_stock_count": 39
     },
     {
       "id": "rucsaci",
@@ -8244,7 +8244,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 95,
-      "in_stock_count": 78
+      "in_stock_count": 77
     },
     {
       "id": "set-lumini",
@@ -8328,7 +8328,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 47,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "transport-biciclete",
@@ -8363,7 +8363,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 314
+      "in_stock_count": 313
     },
     {
       "id": "bike-maintenance-intretinere",
