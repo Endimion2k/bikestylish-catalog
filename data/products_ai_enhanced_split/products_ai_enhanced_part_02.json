@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-29T04:15:04.419193+00:00",
+  "last_updated": "2026-04-30T04:17:04.554215+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 2,
     "total_parts": 19,
     "product_range": "251-500",
-    "original_total": 4593
+    "original_total": 4590
   },
   "products": [
     {
@@ -190,7 +190,7 @@
       "price_net": 8.26,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 210,
+      "stock_quantity": 209,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/cheie-spite-sxt-10-15g.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-spite-sxt-10-15g~8280337.jpg",
@@ -852,8 +852,8 @@
       "price": 64.9,
       "price_net": 53.64,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/aparat-curatat-lanturi-barbieri.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/aparat-curatat-lanturi-barbieri~8280406.jpg",
@@ -1441,7 +1441,7 @@
       "price_net": 28.93,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 96,
+      "stock_quantity": 92,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-cu-pini-sxt-9-16-87x94-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-aluminiu-cu-pini-sxt-9-16-87x94-negru~8280463.jpg",
@@ -1945,7 +1945,7 @@
       "price_net": 77.69,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 11,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-flat-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-aluminiu-sxt-flat-negru~8280517.jpg",
@@ -3250,8 +3250,8 @@
       "brand": "HT COMPONENTS",
       "category": "➤ Pedale Platforma",
       "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
-      "price": 174.9,
-      "price_net": 144.55,
+      "price": 175.0,
+      "price_net": 144.63,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 552,
@@ -4126,7 +4126,7 @@
       "price_net": 57.02,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 19,
       "weight_kg": 0.18,
       "url": "https://www.bikestylish.ro/set-conversie-single-speed-sxt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/set-conversie-single-speed-sxt~8281792.jpg",
@@ -6314,7 +6314,7 @@
       "price_net": 209.09,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 1.06,
       "url": "https://www.bikestylish.ro/angrenaj-pedalier-sxt-30-42-52t-8-v.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/angrenaj-pedalier-sxt-30-42-52t-8-v~8282023.jpg",
@@ -6579,8 +6579,8 @@
       "price": 44.0,
       "price_net": 36.36,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/monobloc-pedalier-neco-122-5-28-5-mm-cupe-metal-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/monobloc-pedalier-neco-122-5-28-5-mm-cupe-metal-silver~8282050.jpg",
@@ -7514,7 +7514,7 @@
       "name": "➤ Antifurturi  U-Lock",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi  U-Lock",
       "product_count": 5,
-      "in_stock_count": 4
+      "in_stock_count": 5
     },
     {
       "id": "antifurturi-lant",
@@ -7668,7 +7668,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 72
+      "in_stock_count": 71
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7696,7 +7696,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 86,
-      "in_stock_count": 49
+      "in_stock_count": 48
     },
     {
       "id": "capete-cablu-manta",
@@ -7822,7 +7822,7 @@
       "name": "➤ Frane Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
       "product_count": 15,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "frane-v-break",
@@ -7948,7 +7948,7 @@
       "name": "➤ Monobloace - B.B.",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
       "product_count": 48,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "nipluri-accesorii",
@@ -8088,7 +8088,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 46,
-      "in_stock_count": 39
+      "in_stock_count": 38
     },
     {
       "id": "rucsaci",
@@ -8249,14 +8249,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 172,
-      "in_stock_count": 140
+      "in_stock_count": 138
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 313
+      "in_stock_count": 312
     },
     {
       "id": "bike-maintenance-intretinere",
