@@ -1,40 +1,14 @@
 {
-  "last_updated": "2026-05-01T04:25:01.397621+00:00",
-  "total_products": 90,
+  "last_updated": "2026-05-02T04:07:16.545033+00:00",
+  "total_products": 139,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 19,
     "total_parts": 19,
-    "product_range": "4501-4590",
-    "original_total": 4590
+    "product_range": "4501-4639",
+    "original_total": 4639
   },
   "products": [
-    {
-      "id": "880418",
-      "sku": "880418",
-      "ean": "4710898412477",
-      "name": "Cheie Pinion SUPER B TB-FW41",
-      "brand": "SUPER B",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "price": 119.9,
-      "price_net": 99.09,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
-      "weight_kg": 0.3,
-      "url": "https://www.bikestylish.ro/cheie-pinion-super-b-tb-fw41.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cheie-pinion-super-b-tb-fw41~12044028.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/cheie-pinion-super-b-tb-fw41~12044028.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/cheie-pinion-super-b-tb-fw41~12044031.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SUPER B",
-        "➤ Unelte Speciale Biciclete"
-      ]
-    },
     {
       "id": "519192-05384",
       "sku": "519192-05384",
@@ -2613,6 +2587,1421 @@
         "PROMAX",
         "➤ Saboti Frana"
       ]
+    },
+    {
+      "id": "401990",
+      "sku": "401990",
+      "name": "Ghidon Aluminiu MTB SXT 31.8 -800 mm",
+      "brand": "SXT",
+      "category": "➤ Ghidoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
+      "price": 99.0,
+      "price_net": 81.82,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 41,
+      "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "MTB",
+        "SXT",
+        "➤ Ghidoane"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "material": "Aluminiu"
+      }
+    },
+    {
+      "id": "529732",
+      "sku": "529732",
+      "name": "Anvelopa + Camera SXT 29 x 2.10(54-622)",
+      "brand": "SXT",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
+      "price": 99.0,
+      "price_net": 81.82,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/anvelopa-camera-sxt-29-x-2-10-54-622.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-camera-sxt-29-x-2-10-54-622~13287873.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-camera-sxt-29-x-2-10-54-622~13287873.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-camera-sxt-29-x-2-10-54-622~13287876.jpg"
+      ],
+      "tags": [
+        "29 inch",
+        "COMPONENTE",
+        "SXT",
+        "➤ Anvelope pe Sârmă"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "dimensions": "29 x 2.10"
+      }
+    },
+    {
+      "id": "529731",
+      "sku": "529731",
+      "name": "Anvelopa + Camera SXT 27.5 x 2.10 (52-584)",
+      "brand": "SXT",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
+      "price": 90.0,
+      "price_net": 74.38,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/anvelopa-camera-sxt-27-5-x-2-10-52-584.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-camera-sxt-27-5-x-2-10-52-584~13287879.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-camera-sxt-27-5-x-2-10-52-584~13287879.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-camera-sxt-27-5-x-2-10-52-584~13287882.jpg"
+      ],
+      "tags": [
+        "27.5 inch",
+        "COMPONENTE",
+        "SXT",
+        "➤ Anvelope pe Sârmă"
+      ],
+      "specs": {
+        "wheel_size": "27.5"
+      }
+    },
+    {
+      "id": "529730",
+      "sku": "529730",
+      "name": "Anvelopa + Camera 26 x 2.10(54-559)",
+      "brand": "SXT",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
+      "price": 70.0,
+      "price_net": 57.85,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/anvelopa-camera-26-x-2-10-54-559.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-camera-26-x-2-10-54-559~13287885.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-camera-26-x-2-10-54-559~13287885.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-camera-26-x-2-10-54-559~13287888.jpg"
+      ],
+      "tags": [
+        "26 inch",
+        "COMPONENTE",
+        "SXT",
+        "➤ Anvelope pe Sârmă"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "dimensions": "26 x 2.10"
+      }
+    },
+    {
+      "id": "252995",
+      "sku": "252995",
+      "name": "Tija Sa SXT - 350 mm-31.6 mm Negru Anodizat",
+      "brand": "SXT",
+      "category": "➤ Tije Sa",
+      "category_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
+      "price": 75.9,
+      "price_net": 62.73,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/tija-sa-sxt-350-mm-31-6-mm-negru-anodizat.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/tija-sa-sxt-350-mm-31-6-mm-negru-anodizat~13287891.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/tija-sa-sxt-350-mm-31-6-mm-negru-anodizat~13287891.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/tija-sa-sxt-350-mm-31-6-mm-negru-anodizat~13287894.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/tija-sa-sxt-350-mm-31-6-mm-negru-anodizat~13287897.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Tije Sa"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "311902",
+      "sku": "311902",
+      "ean": "664533242780",
+      "name": "Pedale Aluminiu SXT ALNC- 1080 MOV 3 Rulmenti 112 x 100 x 19 mm",
+      "brand": "SXT",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "price": 180.0,
+      "price_net": 148.76,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 50,
+      "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-alnc-1080-mov-3-rulmenti-112-x-100-x-19-mm.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "SXT",
+        "➤ Pedale Platforma"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Mov",
+        "dimensions": "112 x 100"
+      }
+    },
+    {
+      "id": "311901",
+      "sku": "311901",
+      "ean": "664533242773",
+      "name": "Pedale Aluminiu SXT ALNC- 1080 Verde Apple 3 Rulmenti 112 x 100 x 19 mm",
+      "brand": "SXT",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "price": 180.0,
+      "price_net": 148.76,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 50,
+      "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-alnc-1080-verde-apple-3-rulmenti-112-x-100-x-19-mm.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "SXT",
+        "➤ Pedale Platforma"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Verde",
+        "dimensions": "112 x 100"
+      }
+    },
+    {
+      "id": "311900",
+      "sku": "311900",
+      "ean": "664533242766",
+      "name": "Pedale Aluminiu SXT ALNC- 1080 Rosu 3 Rulmenti 112 x 100 x 19 mm",
+      "brand": "SXT",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "price": 180.0,
+      "price_net": 148.76,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 50,
+      "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-alnc-1080-rosu-3-rulmenti-112-x-100-x-19-mm.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "SXT",
+        "➤ Pedale Platforma"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Rosu",
+        "dimensions": "112 x 100"
+      }
+    },
+    {
+      "id": "311903",
+      "sku": "311903",
+      "ean": "664533242797",
+      "name": "Pedale Aluminiu SXT ALNC- 1080 Albastru Marin 3 Rulmenti 112 x 100 x 19 mm",
+      "brand": "SXT",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "price": 180.0,
+      "price_net": 148.76,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 50,
+      "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-alnc-1080-albastru-marin-3-rulmenti-112-x-100-x-19-mm.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "SXT",
+        "➤ Pedale Platforma"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Alb",
+        "dimensions": "112 x 100"
+      }
+    },
+    {
+      "id": "340963",
+      "sku": "340963",
+      "ean": "664533242827",
+      "name": "Suport Bidon Plastic SXT BC 35 Verde Neon",
+      "brand": "SXT",
+      "category": "➤ Suporturi Bidon",
+      "category_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
+      "price": 20.0,
+      "price_net": 16.53,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 300,
+      "url": "https://www.bikestylish.ro/suport-bidon-plastic-sxt-bc-35-verde-neon.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "ACCESORII",
+        "Plastic",
+        "SXT",
+        "➤ Suporturi Bidon"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Verde"
+      }
+    },
+    {
+      "id": "420448",
+      "sku": "420448",
+      "ean": "664533243114",
+      "name": "Sonerie SXT SX20 Negru",
+      "brand": "SXT",
+      "category": "➤ Sonerii",
+      "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
+      "price": 25.0,
+      "price_net": 20.66,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 560,
+      "url": "https://www.bikestylish.ro/sonerie-sxt-sx20-negru.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "ACCESORII",
+        "SXT",
+        "➤ Sonerii"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "420447",
+      "sku": "420447",
+      "ean": "664533243121",
+      "name": "Sonerie SXT FY92",
+      "brand": "SXT",
+      "category": "➤ Sonerii",
+      "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
+      "price": 25.0,
+      "price_net": 20.66,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 500,
+      "url": "https://www.bikestylish.ro/sonerie-sxt-fy92.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "ACCESORII",
+        "SXT",
+        "➤ Sonerii"
+      ]
+    },
+    {
+      "id": "735998",
+      "sku": "735998",
+      "name": "Casca Copii Downhill- MTB SXT - S - M Verde Neon",
+      "brand": "SXT",
+      "category": "➤ Casti Ciclism",
+      "category_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
+      "price": 270.0,
+      "price_net": 223.14,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/casca-copii-downhill-mtb-sxt-s-m-verde-neon.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/casca-copii-downhill-mtb-sxt-s-m-verde-neon~13289280.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/casca-copii-downhill-mtb-sxt-s-m-verde-neon~13289280.jpg"
+      ],
+      "tags": [
+        "Copii",
+        "Downhill",
+        "ECHIPAMENTE",
+        "MTB",
+        "SXT",
+        "➤ Casti Ciclism"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB",
+          "Downhill",
+          "Copii"
+        ],
+        "color": "Verde"
+      }
+    },
+    {
+      "id": "735999",
+      "sku": "735999",
+      "name": "Casca Copii Downhill - MTB SXT - S - M Negru",
+      "brand": "SXT",
+      "category": "➤ Casti Ciclism",
+      "category_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
+      "price": 270.0,
+      "price_net": 223.14,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/casca-copii-downhill-mtb-sxt-s-m-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/casca-copii-downhill-mtb-sxt-s-m-negru~13289277.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/casca-copii-downhill-mtb-sxt-s-m-negru~13289277.jpg"
+      ],
+      "tags": [
+        "Copii",
+        "Downhill",
+        "ECHIPAMENTE",
+        "MTB",
+        "SXT",
+        "➤ Casti Ciclism"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB",
+          "Downhill",
+          "Copii"
+        ],
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "710002",
+      "sku": "710002",
+      "name": "Ochelari 100% STRATA 2 Goggle Alb",
+      "brand": "SXT",
+      "category": "➤ Ochelari Ciclism",
+      "category_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Ochelari Ciclism",
+      "price": 150.0,
+      "price_net": 123.97,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 20,
+      "url": "https://www.bikestylish.ro/ochelari-100-strata-2-goggle-alb.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ochelari-100-strata-2-goggle-alb~13287903.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ochelari-100-strata-2-goggle-alb~13287903.jpg"
+      ],
+      "tags": [
+        "ECHIPAMENTE",
+        "SXT",
+        "➤ Ochelari Ciclism"
+      ],
+      "specs": {
+        "color": "Alb"
+      }
+    },
+    {
+      "id": "7310001",
+      "sku": "7310001",
+      "name": "Ochelari 100% STRATA 2 Goggle Portocaliu",
+      "brand": "SXT",
+      "category": "➤ Ochelari Ciclism",
+      "category_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Ochelari Ciclism",
+      "price": 150.0,
+      "price_net": 123.97,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 20,
+      "url": "https://www.bikestylish.ro/ochelari-100-strata-2-goggle-portocaliu.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ochelari-100-strata-2-goggle-portocaliu~13287912.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ochelari-100-strata-2-goggle-portocaliu~13287912.jpg"
+      ],
+      "tags": [
+        "ECHIPAMENTE",
+        "SXT",
+        "➤ Ochelari Ciclism"
+      ],
+      "specs": {
+        "color": "Portocaliu"
+      }
+    },
+    {
+      "id": "710003",
+      "sku": "710003",
+      "name": "Ochelari 100% STRATA 2 Goggle Rosu",
+      "brand": "SXT",
+      "category": "➤ Ochelari Ciclism",
+      "category_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Ochelari Ciclism",
+      "price": 150.0,
+      "price_net": 123.97,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 20,
+      "url": "https://www.bikestylish.ro/ochelari-100-strata-2-goggle-rosu.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ochelari-100-strata-2-goggle-rosu~13287909.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ochelari-100-strata-2-goggle-rosu~13287909.jpg"
+      ],
+      "tags": [
+        "ECHIPAMENTE",
+        "SXT",
+        "➤ Ochelari Ciclism"
+      ],
+      "specs": {
+        "color": "Rosu"
+      }
+    },
+    {
+      "id": "710004",
+      "sku": "710004",
+      "name": "Ochelari 100% STRATA 2 Goggle Albastru",
+      "brand": "SXT",
+      "category": "➤ Ochelari Ciclism",
+      "category_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Ochelari Ciclism",
+      "price": 150.0,
+      "price_net": 123.97,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 20,
+      "url": "https://www.bikestylish.ro/ochelari-100-strata-2-goggle-albastru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ochelari-100-strata-2-goggle-albastru~13287915.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ochelari-100-strata-2-goggle-albastru~13287915.jpg"
+      ],
+      "tags": [
+        "ECHIPAMENTE",
+        "SXT",
+        "➤ Ochelari Ciclism"
+      ],
+      "specs": {
+        "color": "Alb"
+      }
+    },
+    {
+      "id": "233900",
+      "sku": "233900",
+      "ean": "664533243183",
+      "name": "Antifurt cu Cheie SXT FS5016 12 x 1500 mm",
+      "brand": "SXT",
+      "category": "➤ Antifurturi cu Cheie",
+      "category_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
+      "price": 49.0,
+      "price_net": 40.5,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 200,
+      "url": "https://www.bikestylish.ro/antifurt-cu-cheie-sxt-fs5016-12-x-1500-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/antifurt-cu-cheie-sxt-fs5016-12-x-1500-mm~13289298.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/antifurt-cu-cheie-sxt-fs5016-12-x-1500-mm~13289298.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/antifurt-cu-cheie-sxt-fs5016-12-x-1500-mm~13289301.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "SXT",
+        "➤ Antifurturi cu Cheie"
+      ],
+      "specs": {
+        "dimensions": "12 x 1500"
+      }
+    },
+    {
+      "id": "231102",
+      "sku": "231102",
+      "ean": "664533243176",
+      "name": "Antifurt cu Cifru SXT CH5016-5D 12 x 1200 mm Verde",
+      "brand": "SXT",
+      "category": "➤ Antifurturi cu Cifru",
+      "category_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
+      "price": 49.0,
+      "price_net": 40.5,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/antifurt-cu-cifru-sxt-ch5016-5d-12-x-1200-mm-verde.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/antifurt-cu-cifru-sxt-ch5016-5d-12-x-1200-mm-verde~13289322.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/antifurt-cu-cifru-sxt-ch5016-5d-12-x-1200-mm-verde~13289322.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "SXT",
+        "➤ Antifurturi cu Cifru"
+      ],
+      "specs": {
+        "color": "Verde",
+        "dimensions": "12 x 1200"
+      }
+    },
+    {
+      "id": "231101",
+      "sku": "231101",
+      "ean": "664533243169",
+      "name": "Antifurt cu Cifru SXT CH5016-5D 12 x 1200 mm Negru",
+      "brand": "SXT",
+      "category": "➤ Antifurturi cu Cifru",
+      "category_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
+      "price": 49.0,
+      "price_net": 40.5,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/antifurt-cu-cifru-sxt-ch5016-5d-12-x-1200-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/antifurt-cu-cifru-sxt-ch5016-5d-12-x-1200-mm-negru~13289316.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/antifurt-cu-cifru-sxt-ch5016-5d-12-x-1200-mm-negru~13289316.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/antifurt-cu-cifru-sxt-ch5016-5d-12-x-1200-mm-negru~13289319.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "SXT",
+        "➤ Antifurturi cu Cifru"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "12 x 1200"
+      }
+    },
+    {
+      "id": "231100",
+      "sku": "231100",
+      "ean": "664533243152",
+      "name": "Antifurt cu Cifru SXT FS5110-5D 15 x 1200 mm Negru",
+      "brand": "SXT",
+      "category": "➤ Antifurturi cu Cifru",
+      "category_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
+      "price": 65.0,
+      "price_net": 53.72,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/antifurt-cu-cifru-sxt-fs5110-5d-15-x-1200-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/antifurt-cu-cifru-sxt-fs5110-5d-15-x-1200-mm-negru~13289310.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/antifurt-cu-cifru-sxt-fs5110-5d-15-x-1200-mm-negru~13289310.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/antifurt-cu-cifru-sxt-fs5110-5d-15-x-1200-mm-negru~13289313.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "SXT",
+        "➤ Antifurturi cu Cifru"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "15 x 1200"
+      }
+    },
+    {
+      "id": "470102",
+      "sku": "470102",
+      "ean": "664533243145",
+      "name": "Pompa Podea SXT 6438F Negru",
+      "brand": "SXT",
+      "category": "➤ Pompe Podea",
+      "category_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Podea",
+      "price": 89.0,
+      "price_net": 73.55,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 200,
+      "url": "https://www.bikestylish.ro/pompa-podea-sxt-6438f-negru.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "ACCESORII",
+        "SXT",
+        "➤ Pompe Podea"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "470101",
+      "sku": "470101",
+      "ean": "664533243138",
+      "name": "Pompa Podea SXT Air Pump Negru",
+      "brand": "SXT",
+      "category": "➤ Pompe Podea",
+      "category_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Podea",
+      "price": 109.0,
+      "price_net": 90.08,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/pompa-podea-sxt-air-pump-negru.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "ACCESORII",
+        "SXT",
+        "➤ Pompe Podea"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "410280",
+      "sku": "410280",
+      "ean": "664533243190",
+      "name": "Ghidolina SXT PG Negru-Negru",
+      "brand": "SXT",
+      "category": "➤ Bar Tape - Accesorii",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
+      "price": 99.0,
+      "price_net": 81.82,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 50,
+      "url": "https://www.bikestylish.ro/ghidolina-sxt-pg-negru-negru.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Bar Tape - Accesorii"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "410281",
+      "sku": "410281",
+      "ean": "664533243206",
+      "name": "Ghidolina SXT TK Negru-Rosu",
+      "brand": "SXT",
+      "category": "➤ Bar Tape - Accesorii",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
+      "price": 99.0,
+      "price_net": 81.82,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 50,
+      "url": "https://www.bikestylish.ro/ghidolina-sxt-tk-negru-rosu.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Bar Tape - Accesorii"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "410282",
+      "sku": "410282",
+      "ean": "664533243213",
+      "name": "Ghidolina SXT TK Negru-Verde Neon",
+      "brand": "SXT",
+      "category": "➤ Bar Tape - Accesorii",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
+      "price": 99.0,
+      "price_net": 81.82,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 50,
+      "url": "https://www.bikestylish.ro/ghidolina-sxt-tk-negru-verde-neon.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Bar Tape - Accesorii"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "410283",
+      "sku": "410283",
+      "ean": "664533243220",
+      "name": "Ghidolina SXT TK Negru-Raibow",
+      "brand": "SXT",
+      "category": "➤ Bar Tape - Accesorii",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
+      "price": 99.0,
+      "price_net": 81.82,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 50,
+      "url": "https://www.bikestylish.ro/ghidolina-sxt-tk-negru-raibow.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Bar Tape - Accesorii"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "410284",
+      "sku": "410284",
+      "ean": "664533243237",
+      "name": "Ghidolina SXT TK Negru-Negru",
+      "brand": "SXT",
+      "category": "➤ Bar Tape - Accesorii",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
+      "price": 99.0,
+      "price_net": 81.82,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 50,
+      "url": "https://www.bikestylish.ro/ghidolina-sxt-tk-negru-negru.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Bar Tape - Accesorii"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "311910",
+      "sku": "311910",
+      "ean": "664533242865",
+      "name": "Pedale Plastic SXT 79X Negru Ax 1/2\"",
+      "brand": "SXT",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "price": 25.0,
+      "price_net": 20.66,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 500,
+      "url": "https://www.bikestylish.ro/pedale-plastic-sxt-79x-negru-ax-1-2.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-plastic-sxt-79x-negru-ax-1-2~13289253.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-plastic-sxt-79x-negru-ax-1-2~13289253.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-plastic-sxt-79x-negru-ax-1-2~13289256.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Plastic",
+        "SXT",
+        "➤ Pedale Platforma"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Negru",
+        "thread": "1/2\""
+      }
+    },
+    {
+      "id": "311911",
+      "sku": "311911",
+      "ean": "664533242872",
+      "name": "Pedale Plastic SXT 79X Negru Ax 9/16\"",
+      "brand": "SXT",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "price": 25.0,
+      "price_net": 20.66,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 498,
+      "url": "https://www.bikestylish.ro/pedale-plastic-sxt-79x-negru-ax-9-16.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-plastic-sxt-79x-negru-ax-9-16~13289259.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-plastic-sxt-79x-negru-ax-9-16~13289259.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-plastic-sxt-79x-negru-ax-9-16~13289262.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Plastic",
+        "SXT",
+        "➤ Pedale Platforma"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Negru",
+        "thread": "9/16\""
+      }
+    },
+    {
+      "id": "311912",
+      "sku": "311912",
+      "ean": "664533242889",
+      "name": "Pedale Plastic SXT 24X Ax 9/16\" Verde Neon",
+      "brand": "SXT",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "price": 20.0,
+      "price_net": 16.53,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 498,
+      "url": "https://www.bikestylish.ro/pedale-plastic-sxt-24x-ax-9-16-verde-neon.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-plastic-sxt-24x-ax-9-16-verde-neon~13289271.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-plastic-sxt-24x-ax-9-16-verde-neon~13289271.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-plastic-sxt-24x-ax-9-16-verde-neon~13289274.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Plastic",
+        "SXT",
+        "➤ Pedale Platforma"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Verde",
+        "thread": "9/16\""
+      }
+    },
+    {
+      "id": "311913",
+      "sku": "311913",
+      "ean": "664533242896",
+      "name": "Pedale Plastic SXT 24X Ax 9/16\" Roz",
+      "brand": "SXT",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "price": 20.0,
+      "price_net": 16.53,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 500,
+      "url": "https://www.bikestylish.ro/pedale-plastic-sxt-24x-ax-9-16-roz.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-plastic-sxt-24x-ax-9-16-roz~13289265.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-plastic-sxt-24x-ax-9-16-roz~13289265.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-plastic-sxt-24x-ax-9-16-roz~13289268.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Plastic",
+        "SXT",
+        "➤ Pedale Platforma"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Roz",
+        "thread": "9/16\""
+      }
+    },
+    {
+      "id": "410501",
+      "sku": "410501",
+      "ean": "664533242933",
+      "name": "Mansoane SXT 12D3 130 mm",
+      "brand": "SXT",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
+      "price": 85.0,
+      "price_net": 70.25,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 116,
+      "url": "https://www.bikestylish.ro/mansoane-sxt-12d3-130-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-sxt-12d3-130-mm~13288176.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-sxt-12d3-130-mm~13288176.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-sxt-12d3-130-mm~13289250.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-12d3-130-mm~13288179.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Mansoane"
+      ]
+    },
+    {
+      "id": "410500",
+      "sku": "410500",
+      "ean": "664533242926",
+      "name": "Mansoane SXT ZN-011 Negru",
+      "brand": "SXT",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
+      "price": 78.0,
+      "price_net": 64.46,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/mansoane-sxt-zn-011-negru.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Mansoane"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "410503",
+      "sku": "410503",
+      "ean": "664533242957",
+      "name": "Mansoane SXT 11D2 135 mm",
+      "brand": "SXT",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
+      "price": 78.0,
+      "price_net": 64.46,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/mansoane-sxt-11d2-135-mm.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Mansoane"
+      ]
+    },
+    {
+      "id": "410502",
+      "sku": "410502",
+      "ean": "664533242940",
+      "name": "Mansoane SXT 41AD2 132 mm",
+      "brand": "SXT",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
+      "price": 78.0,
+      "price_net": 64.46,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/mansoane-sxt-41ad2-132-mm.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Mansoane"
+      ]
+    },
+    {
+      "id": "404396",
+      "sku": "404396",
+      "ean": "664533242964",
+      "name": "Pipa Downhill - MTB SXT 31.8- 1.1/8 mm",
+      "brand": "SXT",
+      "category": "➤ Pipe Ghidon",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
+      "price": 50.0,
+      "price_net": 41.32,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 200,
+      "url": "https://www.bikestylish.ro/pipa-downhill-mtb-sxt-31-8-1-1-8-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-downhill-mtb-sxt-31-8-1-1-8-mm~13289283.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-downhill-mtb-sxt-31-8-1-1-8-mm~13289283.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/pipa-downhill-mtb-sxt-31-8-1-1-8-mm~13289286.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/pipa-downhill-mtb-sxt-31-8-1-1-8-mm~13289292.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "Downhill",
+        "MTB",
+        "SXT",
+        "➤ Pipe Ghidon"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB",
+          "Downhill"
+        ]
+      }
+    },
+    {
+      "id": "420449",
+      "sku": "420449",
+      "ean": "664533242971",
+      "name": "Sonerie SXT Downhill - MTB Negru",
+      "brand": "SXT",
+      "category": "➤ Sonerii",
+      "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
+      "price": 68.0,
+      "price_net": 56.2,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/sonerie-sxt-downhill-mtb-negru.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "ACCESORII",
+        "Downhill",
+        "MTB",
+        "SXT",
+        "➤ Sonerii"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB",
+          "Downhill"
+        ],
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "390599",
+      "sku": "390599",
+      "ean": "664533242995",
+      "name": "Set Distantiere SXT 5, 8, 10, 20 mm Rosu",
+      "brand": "SXT",
+      "category": "➤ Flori Furca - Distantiere - Accesorii",
+      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
+      "price": 30.0,
+      "price_net": 24.79,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 83,
+      "url": "https://www.bikestylish.ro/set-distantiere-sxt-5-8-10-20-mm-rosu.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Flori Furca - Distantiere - Accesorii"
+      ],
+      "specs": {
+        "color": "Rosu"
+      }
+    },
+    {
+      "id": "390597",
+      "sku": "390597",
+      "ean": "664533243015",
+      "name": "Set Distantiere SXT 5, 8, 10, 20 mm Negru",
+      "brand": "SXT",
+      "category": "➤ Flori Furca - Distantiere - Accesorii",
+      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
+      "price": 30.0,
+      "price_net": 24.79,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 91,
+      "url": "https://www.bikestylish.ro/set-distantiere-sxt-5-8-10-20-mm-negru.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Flori Furca - Distantiere - Accesorii"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "390598",
+      "sku": "390598",
+      "ean": "664533243008",
+      "name": "Set Distantiere SXT 5, 8, 10, 20 mm Albastru",
+      "brand": "SXT",
+      "category": "➤ Flori Furca - Distantiere - Accesorii",
+      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
+      "price": 30.0,
+      "price_net": 24.79,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 81,
+      "url": "https://www.bikestylish.ro/set-distantiere-sxt-5-8-10-20-mm-albastru.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Flori Furca - Distantiere - Accesorii"
+      ],
+      "specs": {
+        "color": "Alb"
+      }
+    },
+    {
+      "id": "390600",
+      "sku": "390600",
+      "ean": "664533242988",
+      "name": "Set Distantiere SXT 5, 8, 10, 20 mm Mov",
+      "brand": "SXT",
+      "category": "➤ Flori Furca - Distantiere - Accesorii",
+      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
+      "price": 30.0,
+      "price_net": 24.79,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 75,
+      "url": "https://www.bikestylish.ro/set-distantiere-sxt-5-8-10-20-mm-mov.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Flori Furca - Distantiere - Accesorii"
+      ],
+      "specs": {
+        "color": "Mov"
+      }
+    },
+    {
+      "id": "356201",
+      "sku": "356201",
+      "ean": "664533243046",
+      "name": "Foaie Angrenaj SXT 32T Purple",
+      "brand": "SXT",
+      "category": "➤ Foi Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
+      "price": 98.0,
+      "price_net": 80.99,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/foaie-angrenaj-sxt-32t-purple.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Foi Angrenaje"
+      ],
+      "specs": {
+        "color": "Purple"
+      }
+    },
+    {
+      "id": "390596",
+      "sku": "390596",
+      "ean": "664533243084",
+      "name": "Capac si Floare Cuvete SXT FORK FIX 1.1/8 Rosu",
+      "brand": "SXT",
+      "category": "➤ Flori Furca - Distantiere - Accesorii",
+      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
+      "price": 30.0,
+      "price_net": 24.79,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 83,
+      "url": "https://www.bikestylish.ro/capac-si-floare-cuvete-sxt-fork-fix-1-1-8-rosu.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Flori Furca - Distantiere - Accesorii"
+      ],
+      "specs": {
+        "color": "Rosu"
+      }
+    },
+    {
+      "id": "390595",
+      "sku": "390595",
+      "ean": "664533243091",
+      "name": "Capac si Floare Cuvete SXT FORK FIX Silver",
+      "brand": "SXT",
+      "category": "➤ Flori Furca - Distantiere - Accesorii",
+      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
+      "price": 30.0,
+      "price_net": 24.79,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/capac-si-floare-cuvete-sxt-fork-fix-silver.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Flori Furca - Distantiere - Accesorii"
+      ],
+      "specs": {
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "390594",
+      "sku": "390594",
+      "ean": "664533243107",
+      "name": "Capac si Floare Cuvete SXT FORK FIX Negru",
+      "brand": "SXT",
+      "category": "➤ Flori Furca - Distantiere - Accesorii",
+      "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
+      "price": 30.0,
+      "price_net": 24.79,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "url": "https://www.bikestylish.ro/capac-si-floare-cuvete-sxt-fork-fix-negru.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Flori Furca - Distantiere - Accesorii"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "340960",
+      "sku": "340960",
+      "ean": "664533242858",
+      "name": "Suport Bidon Aluminiu SXT 030-R Negru Matt",
+      "brand": "SXT",
+      "category": "➤ Suporturi Bidon",
+      "category_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
+      "price": 49.0,
+      "price_net": 40.5,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 200,
+      "url": "https://www.bikestylish.ro/suport-bidon-aluminiu-sxt-030-r-negru-matt.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "SXT",
+        "➤ Suporturi Bidon"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "340961",
+      "sku": "340961",
+      "ean": "664533242841",
+      "name": "Suport Bidon Aluminiu SXT 021 R/L Negru Matt",
+      "brand": "SXT",
+      "category": "➤ Suporturi Bidon",
+      "category_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
+      "price": 49.0,
+      "price_net": 40.5,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 200,
+      "url": "https://www.bikestylish.ro/suport-bidon-aluminiu-sxt-021-r-l-negru-matt.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "SXT",
+        "➤ Suporturi Bidon"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "340962",
+      "sku": "340962",
+      "ean": "664533242834",
+      "name": "Suport Bidon Aluminiu SXT 28 R/L Negru Matt",
+      "brand": "SXT",
+      "category": "➤ Suporturi Bidon",
+      "category_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
+      "price": 49.0,
+      "price_net": 40.5,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 200,
+      "url": "https://www.bikestylish.ro/suport-bidon-aluminiu-sxt-28-r-l-negru-matt.html",
+      "image": "None",
+      "images": [
+        "None"
+      ],
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "SXT",
+        "➤ Suporturi Bidon"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -2928,15 +4317,15 @@
       "id": "antifurturi-cu-cheie",
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
-      "product_count": 17,
-      "in_stock_count": 9
+      "product_count": 18,
+      "in_stock_count": 10
     },
     {
       "id": "antifurturi-cu-cifru",
       "name": "➤ Antifurturi cu Cifru",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
-      "product_count": 9,
-      "in_stock_count": 6
+      "product_count": 12,
+      "in_stock_count": 9
     },
     {
       "id": "anvelope-pliabile",
@@ -2949,8 +4338,8 @@
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "product_count": 181,
-      "in_stock_count": 113
+      "product_count": 184,
+      "in_stock_count": 116
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -3019,8 +4408,8 @@
       "id": "bar-tape-accesorii",
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
-      "product_count": 33,
-      "in_stock_count": 7
+      "product_count": 38,
+      "in_stock_count": 12
     },
     {
       "id": "bidoane-ciclism",
@@ -3124,8 +4513,8 @@
       "id": "casti-ciclism",
       "name": "➤ Casti Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
-      "product_count": 16,
-      "in_stock_count": 10
+      "product_count": 18,
+      "in_stock_count": 12
     },
     {
       "id": "chei-dinamometrice",
@@ -3201,15 +4590,15 @@
       "id": "flori-furca-distantiere-accesorii",
       "name": "➤ Flori Furca - Distantiere - Accesorii",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
-      "product_count": 13,
-      "in_stock_count": 10
+      "product_count": 20,
+      "in_stock_count": 17
     },
     {
       "id": "foi-angrenaje",
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
-      "product_count": 24,
-      "in_stock_count": 13
+      "product_count": 25,
+      "in_stock_count": 14
     },
     {
       "id": "frane-disc",
@@ -3236,8 +4625,8 @@
       "id": "ghidoane",
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
-      "product_count": 50,
-      "in_stock_count": 36
+      "product_count": 51,
+      "in_stock_count": 37
     },
     {
       "id": "huse-sa",
@@ -3279,7 +4668,7 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 45
+      "in_stock_count": 44
     },
     {
       "id": "lumini-fata",
@@ -3320,8 +4709,8 @@
       "id": "mansoane",
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
-      "product_count": 92,
-      "in_stock_count": 79
+      "product_count": 95,
+      "in_stock_count": 82
     },
     {
       "id": "mantale",
@@ -3355,8 +4744,8 @@
       "id": "ochelari-ciclism",
       "name": "➤ Ochelari Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Ochelari Ciclism",
-      "product_count": 3,
-      "in_stock_count": 0
+      "product_count": 7,
+      "in_stock_count": 4
     },
     {
       "id": "oglinzi",
@@ -3383,8 +4772,8 @@
       "id": "pedale-platforma",
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
-      "product_count": 140,
-      "in_stock_count": 103
+      "product_count": 148,
+      "in_stock_count": 111
     },
     {
       "id": "pedaliere-angrenaje",
@@ -3411,8 +4800,8 @@
       "id": "pipe-ghidon",
       "name": "➤ Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
-      "product_count": 45,
-      "in_stock_count": 33
+      "product_count": 46,
+      "in_stock_count": 34
     },
     {
       "id": "placute-frana-disc",
@@ -3432,8 +4821,8 @@
       "id": "pompe-podea",
       "name": "➤ Pompe Podea",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Podea",
-      "product_count": 8,
-      "in_stock_count": 2
+      "product_count": 10,
+      "in_stock_count": 4
     },
     {
       "id": "portbagaje-fata",
@@ -3565,8 +4954,8 @@
       "id": "sonerii",
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
-      "product_count": 47,
-      "in_stock_count": 35
+      "product_count": 50,
+      "in_stock_count": 38
     },
     {
       "id": "spite-stainless",
@@ -3600,8 +4989,8 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 49,
-      "in_stock_count": 42
+      "product_count": 53,
+      "in_stock_count": 46
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -3614,8 +5003,8 @@
       "id": "tije-sa",
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
-      "product_count": 47,
-      "in_stock_count": 27
+      "product_count": 48,
+      "in_stock_count": 30
     },
     {
       "id": "transport-biciclete",
