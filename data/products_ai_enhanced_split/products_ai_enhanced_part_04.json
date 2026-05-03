@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T04:07:16.545033+00:00",
+  "last_updated": "2026-05-03T04:20:09.047527+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -747,7 +747,7 @@
       "price_net": 61.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 21,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/pompa-mini-beto-50-grame-aluminiu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pompa-mini-beto-50-grame-aluminiu~8284414.jpg",
@@ -1344,7 +1344,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 81,
+      "stock_quantity": 65,
       "weight_kg": 0.19,
       "url": "https://www.bikestylish.ro/pompa-mini-beto-hxs-dubla-aluminiu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pompa-mini-beto-hxs-dubla-aluminiu~8284477.jpg",
@@ -2816,8 +2816,8 @@
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.28,
       "url": "https://www.bikestylish.ro/husa-bicicleta-ventura.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/husa-bicicleta-ventura~8284651.jpg",
@@ -4658,7 +4658,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/cheie-imbus-hex-super-b-tb-7631-doua-capete-2-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/cheie-imbus-hex-super-b-tb-7631-doua-capete-2-mm~8284849.jpg",
@@ -4685,8 +4685,8 @@
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/cheie-imbus-hex-super-b-tb-7633-doua-capete-3-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/cheie-imbus-hex-super-b-tb-7633-doua-capete-3-mm~8284852.jpg",
@@ -5302,8 +5302,8 @@
       "price": 25.3,
       "price_net": 20.91,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/presa-de-lant-sxt-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/presa-de-lant-sxt-silver~8284924.jpg",
@@ -7211,7 +7211,7 @@
       "name": "Pompe Ciclism",
       "full_path": "ACCESORII > Pompe Ciclism",
       "product_count": 4,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "portbagaje",
@@ -7491,7 +7491,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 74
+      "in_stock_count": 73
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7575,7 +7575,7 @@
       "name": "➤ Coliere Tija Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "cosuri-transport-fata",
@@ -8093,7 +8093,7 @@
       "name": "➤Depozitare Biciclete",
       "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
       "product_count": 21,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "suspensii-spate",
@@ -8128,7 +8128,7 @@
       "name": "⬤ Roti",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti",
       "product_count": 4,
-      "in_stock_count": 3
+      "in_stock_count": 2
     }
   ],
   "brands": [

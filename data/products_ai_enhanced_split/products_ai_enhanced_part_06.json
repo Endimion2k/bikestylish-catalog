@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T04:07:16.545033+00:00",
+  "last_updated": "2026-05-03T04:20:09.047527+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -860,8 +860,8 @@
       "price": 19.8,
       "price_net": 16.36,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/colier-tija-sa-zoom-31-8-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/colier-tija-sa-zoom-31-8-mm-negru~8287780.jpg",
@@ -946,7 +946,7 @@
       "price_net": 159.09,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/sa-velo-speedflex-vacu-fc.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/sa-velo-speedflex-vacu-fc~8287789.jpg",
@@ -4884,7 +4884,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 17,
+      "stock_quantity": 15,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/colier-tija-sa-sxt-negru-28-6-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/colier-tija-sa-sxt-negru-28-6-mm~8289205.jpg",
@@ -5012,7 +5012,7 @@
       "price_net": 16.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/adaptor-tija-sa-de-la-34-9-mm-la-31-6-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/adaptor-tija-sa-de-la-34-9-mm-la-31-6-mm-negru~8289220.jpg",
@@ -5550,7 +5550,7 @@
       "price_net": 62.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 9,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/set-valve-tubeless-m-wave-fv-35-mm-2-buc.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/set-valve-tubeless-m-wave-fv-35-mm-2-buc~8290057.jpg",
@@ -5608,7 +5608,7 @@
       "price_net": 180.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/borseta-cadru-pt-baterie-m-wave-rough-ride-b-e-bike.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/borseta-cadru-pt-baterie-m-wave-rough-ride-b-e-bike~8289283.jpg",
@@ -6564,7 +6564,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 9,
       "weight_kg": 0.62,
       "url": "https://www.bikestylish.ro/kit-conversie-butuc-spate-braco-142-148-mm-boost-3-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/kit-conversie-butuc-spate-braco-142-148-mm-boost-3-mm~8289379.jpg",
@@ -7505,7 +7505,7 @@
       "name": "Pompe Ciclism",
       "full_path": "ACCESORII > Pompe Ciclism",
       "product_count": 4,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "portbagaje",
@@ -7785,7 +7785,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 74
+      "in_stock_count": 73
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7869,7 +7869,7 @@
       "name": "➤ Coliere Tija Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "cosuri-transport-fata",
@@ -8387,7 +8387,7 @@
       "name": "➤Depozitare Biciclete",
       "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
       "product_count": 21,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "suspensii-spate",
@@ -8422,7 +8422,7 @@
       "name": "⬤ Roti",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti",
       "product_count": 4,
-      "in_stock_count": 3
+      "in_stock_count": 2
     }
   ],
   "brands": [

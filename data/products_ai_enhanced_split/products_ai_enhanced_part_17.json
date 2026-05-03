@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T04:07:16.545033+00:00",
+  "last_updated": "2026-05-03T04:20:09.047527+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -2938,7 +2938,7 @@
       "price_net": 345.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/pedale-ht-an71-talon-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-an71-talon-rosu~8342245.jpg",
@@ -3000,8 +3000,8 @@
       "price": 418.0,
       "price_net": 345.45,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/pedale-ht-an71-talon-purple.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-an71-talon-purple~8342272.jpg",
@@ -4622,7 +4622,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 111,
+      "stock_quantity": 108,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/colier-tija-sa-sxt-31-8mm-xt-c76-negru-qr.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/colier-tija-sa-sxt-31-8mm-xt-c76-negru-qr~8342737.jpg",
@@ -4808,7 +4808,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 200,
+      "stock_quantity": 196,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/pipa-sxt-31-8-1-1-8-38-mm-7-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-sxt-31-8-1-1-8-38-mm-7-negru~8342773.jpg",
@@ -5446,7 +5446,7 @@
       "price_net": 48.76,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 1,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/banda-janta-tubeless-m-wave-27-mm-10-m.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/banda-janta-tubeless-m-wave-27-mm-10-m~8342902.jpg",
@@ -5471,7 +5471,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 10,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/bidon-plastic-m-wave-pbo-750-transparent-750-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/bidon-plastic-m-wave-pbo-750-transparent-750-ml~8342908.jpg",
@@ -5731,8 +5731,8 @@
       "price": 658.9,
       "price_net": 544.55,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 3.0,
       "url": "https://www.bikestylish.ro/set-roti-sxt-r-97-29-622-21c-6p135-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/set-roti-sxt-r-97-29-622-21c-6p135-32h~8342986.jpg",
@@ -7797,7 +7797,7 @@
       "name": "Pompe Ciclism",
       "full_path": "ACCESORII > Pompe Ciclism",
       "product_count": 4,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "portbagaje",
@@ -8077,7 +8077,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 74
+      "in_stock_count": 73
     },
     {
       "id": "butuci-v-break-dinam",
@@ -8161,7 +8161,7 @@
       "name": "➤ Coliere Tija Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "cosuri-transport-fata",
@@ -8679,7 +8679,7 @@
       "name": "➤Depozitare Biciclete",
       "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
       "product_count": 21,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "suspensii-spate",
@@ -8714,7 +8714,7 @@
       "name": "⬤ Roti",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti",
       "product_count": 4,
-      "in_stock_count": 3
+      "in_stock_count": 2
     }
   ],
   "brands": [
