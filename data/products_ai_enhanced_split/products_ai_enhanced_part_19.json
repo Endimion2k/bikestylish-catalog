@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:20:11.108890+00:00",
+  "last_updated": "2026-05-05T04:05:19.075270+00:00",
   "total_products": 139,
   "source": "sportxteam_feed",
   "part_info": {
@@ -51,7 +51,7 @@
       "price_net": 267.26,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 13,
       "weight_kg": 0.72,
       "url": "https://www.bikestylish.ro/protectie-antipana-tannus-armour-26-x-2-60-3-00.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/protectie-antipana-tannus-armour-26-x-2-60-3-00~12065481.jpg",
@@ -733,8 +733,8 @@
       "price": 236.5,
       "price_net": 195.45,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/janta-sxt-e35-27-5-584-x-35c-32h-negru-asymmetric.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/janta-sxt-e35-27-5-584-x-35c-32h-negru-asymmetric~12071706.jpg",
@@ -906,7 +906,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 3,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/set-leviere-metal-super-b-tb-tl21.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-leviere-metal-super-b-tb-tl21~12073464.jpg",
@@ -2591,7 +2591,7 @@
     {
       "id": "401990",
       "sku": "401990",
-      "name": "Ghidon Aluminiu MTB SXT 31.8 -800 mm",
+      "name": "Ghidon Aluminiu MTB SXT 31.8 -800 mm Grey Antracit",
       "brand": "SXT",
       "category": "➤ Ghidoane",
       "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
@@ -2600,10 +2600,11 @@
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 41,
-      "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm.html",
-      "image": "None",
+      "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm-grey-antracit.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ghidon-aluminiu-mtb-sxt-31-8-800-mm-grey-antracit~13591257.jpg",
       "images": [
-        "None"
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ghidon-aluminiu-mtb-sxt-31-8-800-mm-grey-antracit~13591257.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ghidon-aluminiu-mtb-sxt-31-8-800-mm-grey-antracit~13591260.jpg"
       ],
       "tags": [
         "Aluminiu",
@@ -2616,7 +2617,8 @@
         "bike_type": [
           "MTB"
         ],
-        "material": "Aluminiu"
+        "material": "Aluminiu",
+        "color": "Grey"
       }
     },
     {
@@ -2943,7 +2945,7 @@
     {
       "id": "735998",
       "sku": "735998",
-      "name": "Casca Copii Downhill- MTB SXT - S - M Verde Neon",
+      "name": "Casca Downhill- MTB SXT 54-58 Verde Neon",
       "brand": "SXT",
       "category": "➤ Casti Ciclism",
       "category_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
@@ -2951,14 +2953,13 @@
       "price_net": 223.14,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 100,
-      "url": "https://www.bikestylish.ro/casca-copii-downhill-mtb-sxt-s-m-verde-neon.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/casca-copii-downhill-mtb-sxt-s-m-verde-neon~13289280.jpg",
+      "stock_quantity": 90,
+      "url": "https://www.bikestylish.ro/casca-downhill-mtb-sxt-54-58-verde-neon.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/casca-downhill-mtb-sxt-54-58-verde-neon~13289280.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/casca-copii-downhill-mtb-sxt-s-m-verde-neon~13289280.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/0/casca-downhill-mtb-sxt-54-58-verde-neon~13289280.jpg"
       ],
       "tags": [
-        "Copii",
         "Downhill",
         "ECHIPAMENTE",
         "MTB",
@@ -2968,8 +2969,7 @@
       "specs": {
         "bike_type": [
           "MTB",
-          "Downhill",
-          "Copii"
+          "Downhill"
         ],
         "color": "Verde"
       }
@@ -2977,7 +2977,7 @@
     {
       "id": "735999",
       "sku": "735999",
-      "name": "Casca Copii Downhill - MTB SXT - S - M Negru",
+      "name": "Casca Downhill - MTB SXT 54-58 Negru",
       "brand": "SXT",
       "category": "➤ Casti Ciclism",
       "category_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
@@ -2985,14 +2985,13 @@
       "price_net": 223.14,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 100,
-      "url": "https://www.bikestylish.ro/casca-copii-downhill-mtb-sxt-s-m-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/casca-copii-downhill-mtb-sxt-s-m-negru~13289277.jpg",
+      "stock_quantity": 92,
+      "url": "https://www.bikestylish.ro/casca-downhill-mtb-sxt-54-58-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/casca-downhill-mtb-sxt-54-58-negru~13289277.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/casca-copii-downhill-mtb-sxt-s-m-negru~13289277.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/7/casca-downhill-mtb-sxt-54-58-negru~13289277.jpg"
       ],
       "tags": [
-        "Copii",
         "Downhill",
         "ECHIPAMENTE",
         "MTB",
@@ -3002,8 +3001,7 @@
       "specs": {
         "bike_type": [
           "MTB",
-          "Downhill",
-          "Copii"
+          "Downhill"
         ],
         "color": "Negru"
       }
@@ -3019,7 +3017,7 @@
       "price_net": 123.97,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 19,
+      "stock_quantity": 16,
       "url": "https://www.bikestylish.ro/ochelari-100-strata-2-goggle-alb.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ochelari-100-strata-2-goggle-alb~13287903.jpg",
       "images": [
@@ -3045,7 +3043,7 @@
       "price_net": 123.97,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 19,
+      "stock_quantity": 17,
       "url": "https://www.bikestylish.ro/ochelari-100-strata-2-goggle-portocaliu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ochelari-100-strata-2-goggle-portocaliu~13287912.jpg",
       "images": [
@@ -3071,7 +3069,7 @@
       "price_net": 123.97,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 19,
       "url": "https://www.bikestylish.ro/ochelari-100-strata-2-goggle-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ochelari-100-strata-2-goggle-rosu~13287909.jpg",
       "images": [
@@ -3097,7 +3095,7 @@
       "price_net": 123.97,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 17,
       "url": "https://www.bikestylish.ro/ochelari-100-strata-2-goggle-albastru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ochelari-100-strata-2-goggle-albastru~13287915.jpg",
       "images": [
@@ -3180,7 +3178,7 @@
       "price_net": 40.5,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 100,
+      "stock_quantity": 99,
       "url": "https://www.bikestylish.ro/antifurt-cu-cifru-sxt-ch5016-5d-12-x-1200-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/antifurt-cu-cifru-sxt-ch5016-5d-12-x-1200-mm-negru~13289316.jpg",
       "images": [
@@ -3209,7 +3207,7 @@
       "price_net": 53.72,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 100,
+      "stock_quantity": 99,
       "url": "https://www.bikestylish.ro/antifurt-cu-cifru-sxt-fs5110-5d-15-x-1200-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/antifurt-cu-cifru-sxt-fs5110-5d-15-x-1200-mm-negru~13289310.jpg",
       "images": [
@@ -3296,9 +3294,9 @@
       "availability": "in_stock",
       "stock_quantity": 50,
       "url": "https://www.bikestylish.ro/ghidolina-sxt-pg-negru-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ghidolina-sxt-pg-negru-negru~13591017.jpg",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ghidolina-sxt-pg-negru-negru~13591242.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ghidolina-sxt-pg-negru-negru~13591017.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ghidolina-sxt-pg-negru-negru~13591242.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/ghidolina-sxt-pg-negru-negru~13591020.jpg"
       ],
       "tags": [
@@ -3436,7 +3434,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 498,
+      "stock_quantity": 497,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-79x-negru-ax-1-2.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-plastic-sxt-79x-negru-ax-1-2~13289253.jpg",
       "images": [
@@ -3529,7 +3527,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 500,
+      "stock_quantity": 499,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-24x-ax-9-16-roz.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-plastic-sxt-24x-ax-9-16-roz~13289265.jpg",
       "images": [
@@ -3669,7 +3667,7 @@
       "price_net": 41.32,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 200,
+      "stock_quantity": 199,
       "url": "https://www.bikestylish.ro/pipa-downhill-mtb-sxt-31-8-1-1-8-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-downhill-mtb-sxt-31-8-1-1-8-mm~13289283.jpg",
       "images": [
@@ -3737,7 +3735,7 @@
       "price_net": 24.79,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 83,
+      "stock_quantity": 82,
       "url": "https://www.bikestylish.ro/set-distantiere-sxt-5-8-10-20-mm-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/set-distantiere-sxt-5-8-10-20-mm-rosu~13298136.jpg",
       "images": [
@@ -3765,7 +3763,7 @@
       "price_net": 24.79,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 91,
+      "stock_quantity": 90,
       "url": "https://www.bikestylish.ro/set-distantiere-sxt-5-8-10-20-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-distantiere-sxt-5-8-10-20-mm-negru~13297974.jpg",
       "images": [
@@ -3821,7 +3819,7 @@
       "price_net": 24.79,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 75,
+      "stock_quantity": 74,
       "url": "https://www.bikestylish.ro/set-distantiere-sxt-5-8-10-20-mm-mov.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/set-distantiere-sxt-5-8-10-20-mm-mov~13297509.jpg",
       "images": [
@@ -3851,9 +3849,9 @@
       "availability": "in_stock",
       "stock_quantity": 100,
       "url": "https://www.bikestylish.ro/foaie-angrenaj-sxt-32t-purple.html",
-      "image": "None",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/foaie-angrenaj-sxt-32t-purple~13591245.jpg",
       "images": [
-        "None"
+        "https://s2.cdnmpro.com/861667841/p/raw/5/foaie-angrenaj-sxt-32t-purple~13591245.jpg"
       ],
       "tags": [
         "COMPONENTE",
@@ -3872,15 +3870,16 @@
       "brand": "SXT",
       "category": "➤ Flori Furca - Distantiere - Accesorii",
       "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
-      "price": 30.0,
-      "price_net": 24.79,
+      "price": 13.0,
+      "price_net": 10.74,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 83,
       "url": "https://www.bikestylish.ro/capac-si-floare-cuvete-sxt-fork-fix-1-1-8-rosu.html",
-      "image": "None",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/capac-si-floare-cuvete-sxt-fork-fix-1-1-8-rosu~13591269.jpg",
       "images": [
-        "None"
+        "https://s2.cdnmpro.com/861667841/p/raw/9/capac-si-floare-cuvete-sxt-fork-fix-1-1-8-rosu~13591269.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/capac-si-floare-cuvete-sxt-fork-fix-1-1-8-rosu~13591278.jpg"
       ],
       "tags": [
         "COMPONENTE",
@@ -3899,15 +3898,16 @@
       "brand": "SXT",
       "category": "➤ Flori Furca - Distantiere - Accesorii",
       "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
-      "price": 30.0,
-      "price_net": 24.79,
+      "price": 13.0,
+      "price_net": 10.74,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 100,
       "url": "https://www.bikestylish.ro/capac-si-floare-cuvete-sxt-fork-fix-silver.html",
-      "image": "None",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/capac-si-floare-cuvete-sxt-fork-fix-silver~13591266.jpg",
       "images": [
-        "None"
+        "https://s2.cdnmpro.com/861667841/p/raw/6/capac-si-floare-cuvete-sxt-fork-fix-silver~13591266.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/capac-si-floare-cuvete-sxt-fork-fix-silver~13591275.jpg"
       ],
       "tags": [
         "COMPONENTE",
@@ -3926,15 +3926,16 @@
       "brand": "SXT",
       "category": "➤ Flori Furca - Distantiere - Accesorii",
       "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
-      "price": 30.0,
-      "price_net": 24.79,
+      "price": 13.0,
+      "price_net": 10.74,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 100,
       "url": "https://www.bikestylish.ro/capac-si-floare-cuvete-sxt-fork-fix-negru.html",
-      "image": "None",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/capac-si-floare-cuvete-sxt-fork-fix-negru~13591263.jpg",
       "images": [
-        "None"
+        "https://s2.cdnmpro.com/861667841/p/raw/3/capac-si-floare-cuvete-sxt-fork-fix-negru~13591263.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/capac-si-floare-cuvete-sxt-fork-fix-negru~13591272.jpg"
       ],
       "tags": [
         "COMPONENTE",
@@ -3987,7 +3988,7 @@
       "price_net": 40.5,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 200,
+      "stock_quantity": 199,
       "url": "https://www.bikestylish.ro/suport-bidon-aluminiu-sxt-021-r-l-negru-matt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/suport-bidon-aluminiu-sxt-021-r-l-negru-matt~13292571.jpg",
       "images": [
@@ -4371,7 +4372,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 184,
-      "in_stock_count": 116
+      "in_stock_count": 115
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -4434,7 +4435,7 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 43,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "bar-tape-accesorii",
@@ -4483,7 +4484,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 73
+      "in_stock_count": 72
     },
     {
       "id": "butuci-v-break-dinam",
@@ -4602,7 +4603,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "discuri-rotoare",
@@ -4847,7 +4848,7 @@
       "name": "➤ Pompe Furca - Tubeless",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Furca - Tubeless",
       "product_count": 6,
-      "in_stock_count": 3
+      "in_stock_count": 2
     },
     {
       "id": "pompe-podea",
@@ -4868,7 +4869,7 @@
       "name": "➤ Portbagaje Spate",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "product_count": 15,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "protectii-antipana",
@@ -5071,7 +5072,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 312
+      "in_stock_count": 311
     },
     {
       "id": "bike-maintenance-intretinere",

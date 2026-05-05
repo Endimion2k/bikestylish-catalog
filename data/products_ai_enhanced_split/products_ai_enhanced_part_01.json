@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:20:11.108890+00:00",
+  "last_updated": "2026-05-05T04:05:19.075270+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -85,7 +85,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 9,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-krackpot-20x1-95-50-406-k-907-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-kenda-krackpot-20x1-95-50-406-k-907-rosu~8278513.jpg",
@@ -2110,8 +2110,8 @@
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-26-x-2-10-54-559-k-831a.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kenda-26-x-2-10-54-559-k-831a~8278744.jpg",
@@ -2323,7 +2323,7 @@
       "price_net": 10.74,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 19,
+      "stock_quantity": 16,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/set-benzi-reflectorizante-m-wave-snapwrap.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/set-benzi-reflectorizante-m-wave-snapwrap~8278765.jpg",
@@ -3432,7 +3432,7 @@
       "price_net": 190.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 17,
+      "stock_quantity": 16,
       "weight_kg": 1.23,
       "url": "https://www.bikestylish.ro/cutie-portbagaj-plastic-m-wave-amsterdam-box-l-17l.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cutie-portbagaj-plastic-m-wave-amsterdam-box-l-17l~8278918.jpg",
@@ -3818,7 +3818,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 15,
       "weight_kg": 0.23,
       "url": "https://www.bikestylish.ro/husa-sa-cu-gel-m-wave-anatomic.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/husa-sa-cu-gel-m-wave-anatomic~8278960.jpg",
@@ -7148,7 +7148,7 @@
       "price_net": 86.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 22,
+      "stock_quantity": 20,
       "weight_kg": 0.18,
       "url": "https://www.bikestylish.ro/oglinda-bicicleta-m-wave-spy-space-stanga.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/oglinda-bicicleta-m-wave-spy-space-stanga~8280292.jpg",
@@ -7670,7 +7670,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 184,
-      "in_stock_count": 116
+      "in_stock_count": 115
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7733,7 +7733,7 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 43,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "bar-tape-accesorii",
@@ -7782,7 +7782,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 73
+      "in_stock_count": 72
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7901,7 +7901,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "discuri-rotoare",
@@ -8146,7 +8146,7 @@
       "name": "➤ Pompe Furca - Tubeless",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Furca - Tubeless",
       "product_count": 6,
-      "in_stock_count": 3
+      "in_stock_count": 2
     },
     {
       "id": "pompe-podea",
@@ -8167,7 +8167,7 @@
       "name": "➤ Portbagaje Spate",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "product_count": 15,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "protectii-antipana",
@@ -8370,7 +8370,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 312
+      "in_stock_count": 311
     },
     {
       "id": "bike-maintenance-intretinere",
