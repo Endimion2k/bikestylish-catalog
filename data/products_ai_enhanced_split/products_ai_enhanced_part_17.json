@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-05T04:05:19.075270+00:00",
+  "last_updated": "2026-05-06T04:17:49.331449+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 17,
     "total_parts": 19,
     "product_range": "4001-4250",
-    "original_total": 4639
+    "original_total": 4642
   },
   "products": [
     {
@@ -844,7 +844,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 69,
+      "stock_quantity": 53,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-16x1-5-1-75-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/camera-standard-vittoria-16x1-5-1-75-av-schrader-48mm~8341570.jpg",
       "images": [
@@ -1952,7 +1952,7 @@
       "price_net": 23.14,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 317,
+      "stock_quantity": 312,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/set-flash-cu-baterii-sxt-silicone-albastru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-flash-cu-baterii-sxt-silicone-albastru~8341948.jpg",
@@ -1984,7 +1984,7 @@
       "price_net": 23.14,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 34,
+      "stock_quantity": 29,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/set-flash-cu-baterii-sxt-silicone-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/set-flash-cu-baterii-sxt-silicone-negru~8341963.jpg",
@@ -2080,7 +2080,7 @@
       "price_net": 104.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 364,
+      "stock_quantity": 362,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/set-lumini-cu-acumulator-sxt-550l-10c-usb.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/set-lumini-cu-acumulator-sxt-550l-10c-usb~8342020.jpg",
@@ -3710,8 +3710,8 @@
       "price": 313.5,
       "price_net": 259.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-spate-29-622x19c-sxt-basic-only-capsata-36h-fd-filetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-29-622x19c-sxt-basic-only-capsata-36h-fd-filetat~8342482.jpg",
       "images": [
@@ -4115,7 +4115,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/bolt-ureche-cadru-pilo-m8x0-75-pentru-d220.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/bolt-ureche-cadru-pilo-m8x0-75-pentru-d220~8342608.jpg",
@@ -4401,7 +4401,7 @@
       "price_net": 61.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 40,
+      "stock_quantity": 39,
       "url": "https://www.bikestylish.ro/adaptor-remorca-bicicleta-ventura.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/adaptor-remorca-bicicleta-ventura~8342668.jpg",
       "images": [
@@ -4808,7 +4808,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 195,
+      "stock_quantity": 194,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/pipa-sxt-31-8-1-1-8-38-mm-7-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-sxt-31-8-1-1-8-38-mm-7-negru~8342773.jpg",
@@ -4838,7 +4838,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 55,
+      "stock_quantity": 54,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-sxt-n-13-nylon-fiber-negru~8342782.jpg",
@@ -7944,7 +7944,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 18,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7965,7 +7965,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 184,
-      "in_stock_count": 115
+      "in_stock_count": 116
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -8168,7 +8168,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "cosuri-transport-spate",
@@ -8216,8 +8216,8 @@
       "id": "flori-furca-distantiere-accesorii",
       "name": "➤ Flori Furca - Distantiere - Accesorii",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
-      "product_count": 20,
-      "in_stock_count": 17
+      "product_count": 23,
+      "in_stock_count": 20
     },
     {
       "id": "foi-angrenaje",
@@ -8490,14 +8490,14 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 37,
-      "in_stock_count": 30
+      "in_stock_count": 31
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 46,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "rucsaci",
@@ -8518,7 +8518,7 @@
       "name": "➤ Saboti Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Saboti Frana",
       "product_count": 15,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "scaune-bicicleta-copii",
@@ -8546,7 +8546,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 95,
-      "in_stock_count": 77
+      "in_stock_count": 76
     },
     {
       "id": "set-lumini",
@@ -8581,7 +8581,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "spite-stainless",
@@ -8658,7 +8658,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 172,
-      "in_stock_count": 138
+      "in_stock_count": 136
     },
     {
       "id": "urechi-cadru",

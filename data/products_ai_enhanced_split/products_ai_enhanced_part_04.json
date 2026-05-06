@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-05T04:05:19.075270+00:00",
+  "last_updated": "2026-05-06T04:17:49.331449+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 4,
     "total_parts": 19,
     "product_range": "751-1000",
-    "original_total": 4639
+    "original_total": 4642
   },
   "products": [
     {
@@ -310,7 +310,7 @@
       "price_net": 48.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 23,
       "weight_kg": 0.28,
       "url": "https://www.bikestylish.ro/far-pentru-dinam-an-lun-10-lux.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/far-pentru-dinam-an-lun-10-lux~8284366.jpg",
@@ -1104,7 +1104,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 10,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-sxt-gh-237-s-6.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-sxt-gh-237-s-6~8284450.jpg",
@@ -1926,7 +1926,7 @@
       "price_net": 144.55,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "url": "https://www.bikestylish.ro/cutie-cap-valva-ventura-30-bucati-av-fv.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cutie-cap-valva-ventura-30-bucati-av-fv~8284546.jpg",
       "images": [
@@ -2729,7 +2729,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/manusi-ciclism-m-wave-secure-s.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/manusi-ciclism-m-wave-secure-s~8284636.jpg",
@@ -4243,8 +4243,8 @@
       "price": 5.5,
       "price_net": 4.55,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 4,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/levier-plastic-super-b-tb-5569.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/levier-plastic-super-b-tb-5569~8284807.jpg",
@@ -4408,7 +4408,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 14,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/cheie-monobloc-super-b-tb-1065.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/cheie-monobloc-super-b-tb-1065~8284822.jpg",
@@ -4859,7 +4859,7 @@
       "price_net": 271.82,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "url": "https://www.bikestylish.ro/aparat-centrare-janta-butuc-super-b-tb-1930-16-29.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/aparat-centrare-janta-butuc-super-b-tb-1930-16-29~8284870.jpg",
       "images": [
@@ -5817,7 +5817,7 @@
       "price_net": 72.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 40,
+      "stock_quantity": 39,
       "url": "https://www.bikestylish.ro/maneta-frana-schimbator-shimano-st-ef500-3v-stanga.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/maneta-frana-schimbator-shimano-st-ef500-3v-stanga~8286337.jpg",
       "images": [
@@ -7358,7 +7358,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 18,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7379,7 +7379,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 184,
-      "in_stock_count": 115
+      "in_stock_count": 116
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7582,7 +7582,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "cosuri-transport-spate",
@@ -7630,8 +7630,8 @@
       "id": "flori-furca-distantiere-accesorii",
       "name": "➤ Flori Furca - Distantiere - Accesorii",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
-      "product_count": 20,
-      "in_stock_count": 17
+      "product_count": 23,
+      "in_stock_count": 20
     },
     {
       "id": "foi-angrenaje",
@@ -7904,14 +7904,14 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 37,
-      "in_stock_count": 30
+      "in_stock_count": 31
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 46,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "rucsaci",
@@ -7932,7 +7932,7 @@
       "name": "➤ Saboti Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Saboti Frana",
       "product_count": 15,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "scaune-bicicleta-copii",
@@ -7960,7 +7960,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 95,
-      "in_stock_count": 77
+      "in_stock_count": 76
     },
     {
       "id": "set-lumini",
@@ -7995,7 +7995,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "spite-stainless",
@@ -8072,7 +8072,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 172,
-      "in_stock_count": 138
+      "in_stock_count": 136
     },
     {
       "id": "urechi-cadru",
