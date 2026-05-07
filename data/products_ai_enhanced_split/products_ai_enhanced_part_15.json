@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T04:17:49.331449+00:00",
+  "last_updated": "2026-05-07T04:17:17.037529+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -254,7 +254,7 @@
       "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 304,
+      "stock_quantity": 303,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm-negru-matt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-aluminiu-mtb-sxt-31-8-800-mm-negru-matt~8336674.jpg",
@@ -802,7 +802,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 57,
+      "stock_quantity": 53,
       "weight_kg": 0.8,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-barzo-27-5x2-25-55-584-rigid-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-barzo-27-5x2-25-55-584-rigid-negru~8336899.jpg",
@@ -4256,7 +4256,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 79,
+      "stock_quantity": 74,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/camera-kujo-26-x-1-75-2-125-av-33-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kujo-26-x-1-75-2-125-av-33-mm~8338252.jpg",
@@ -4508,8 +4508,8 @@
       "price": 328.9,
       "price_net": 271.82,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-26-559-x-19c-velosteel-36h-p-18t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-sxt-26-559-x-19c-velosteel-36h-p-18t~8338333.jpg",
       "images": [
@@ -4603,7 +4603,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 27,
+      "stock_quantity": 26,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-sxt-gh-011-sr-2.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-sxt-gh-011-sr-2~8338357.jpg",
@@ -6751,7 +6751,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 20,
       "weight_kg": 0.14,
       "url": "https://www.bikestylish.ro/pompa-mini-beto-one-way-sp-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pompa-mini-beto-one-way-sp-negru~8339191.jpg",
@@ -8236,7 +8236,7 @@
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 38,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "bidoane-ciclism",
@@ -8369,7 +8369,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "cosuri-transport-spate",
@@ -8397,7 +8397,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "discuri-rotoare",
@@ -8516,7 +8516,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "manete-frana-schimbator",
@@ -8628,7 +8628,7 @@
       "name": "➤ Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
       "product_count": 46,
-      "in_stock_count": 34
+      "in_stock_count": 33
     },
     {
       "id": "placute-frana-disc",
@@ -8691,14 +8691,14 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 37,
-      "in_stock_count": 31
+      "in_stock_count": 29
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 46,
-      "in_stock_count": 37
+      "in_stock_count": 34
     },
     {
       "id": "rucsaci",
@@ -8740,7 +8740,7 @@
       "name": "➤ Schimbatoare Spate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 22
+      "in_stock_count": 21
     },
     {
       "id": "sei",
@@ -8866,7 +8866,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 311
+      "in_stock_count": 309
     },
     {
       "id": "bike-maintenance-intretinere",
