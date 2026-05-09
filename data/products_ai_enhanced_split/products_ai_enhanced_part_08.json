@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T04:06:23.603852+00:00",
+  "last_updated": "2026-05-09T04:10:47.357248+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -811,8 +811,8 @@
       "price": 143.0,
       "price_net": 118.18,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d416-bottecchia-corratec-ns-bikes-viper.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d416-bottecchia-corratec-ns-bikes-viper~8292346.jpg",
@@ -3336,8 +3336,8 @@
       "price": 18.0,
       "price_net": 14.88,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 19,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/camera-24-x-1-75-2-125-47-57-507-oem-fv-48-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/camera-24-x-1-75-2-125-47-57-507-oem-fv-48-mm~8292634.jpg",
       "images": [
@@ -4612,8 +4612,8 @@
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 9,
+      "availability": "limited",
+      "stock_quantity": 5,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-aptor-24-x-1-95-50-507.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kenda-aptor-24-x-1-95-50-507~8324077.jpg",
       "images": [
@@ -5360,7 +5360,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 179,
+      "stock_quantity": 177,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -5984,8 +5984,8 @@
       "price": 148.5,
       "price_net": 122.73,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 1.25,
       "url": "https://www.bikestylish.ro/sa-m-wave-elast-xxl-city-291-x-276-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/sa-m-wave-elast-xxl-city-291-x-276-mm~8324728.jpg",
@@ -6020,7 +6020,7 @@
       "price_net": 33.06,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 57,
+      "stock_quantity": 56,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/sa-ventura-racing.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/sa-ventura-racing~8324740.jpg",
@@ -6251,7 +6251,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 46,
+      "stock_quantity": 44,
       "weight_kg": 0.32,
       "url": "https://www.bikestylish.ro/tija-sa-m-wave-350-mm-25-4-mm-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/tija-sa-m-wave-350-mm-25-4-mm-silver~8324824.jpg",
@@ -7295,7 +7295,7 @@
       "name": "Unelte Service",
       "full_path": "COMPONENTE > Unelte Service",
       "product_count": 5,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "urechi-protectii-cadre",
@@ -7400,7 +7400,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 184,
-      "in_stock_count": 114
+      "in_stock_count": 113
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7442,7 +7442,7 @@
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
       "product_count": 15,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "bagaje-ghidon",
@@ -7470,7 +7470,7 @@
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 38,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "bidoane-ciclism",
@@ -7505,7 +7505,7 @@
       "name": "➤ Brate Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
       "product_count": 48,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "butuci-frana-disc",
@@ -7785,7 +7785,7 @@
       "name": "➤ Mini Pompe",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Mini Pompe",
       "product_count": 13,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "monobloace-b-b",
@@ -7876,7 +7876,7 @@
       "name": "➤ Pompe Furca - Tubeless",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Furca - Tubeless",
       "product_count": 6,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "pompe-podea",
@@ -7981,7 +7981,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 95,
-      "in_stock_count": 75
+      "in_stock_count": 74
     },
     {
       "id": "set-lumini",
@@ -8093,14 +8093,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 172,
-      "in_stock_count": 136
+      "in_stock_count": 135
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1074,
-      "in_stock_count": 309
+      "in_stock_count": 308
     },
     {
       "id": "bike-maintenance-intretinere",
