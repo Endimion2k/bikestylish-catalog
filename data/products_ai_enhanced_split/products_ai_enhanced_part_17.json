@@ -1,74 +1,14 @@
 {
-  "last_updated": "2026-05-09T04:10:47.357248+00:00",
+  "last_updated": "2026-05-10T04:23:00.519262+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 17,
     "total_parts": 19,
     "product_range": "4001-4250",
-    "original_total": 4642
+    "original_total": 4666
   },
   "products": [
-    {
-      "id": "356727",
-      "sku": "356727",
-      "ean": "887539046613",
-      "name": "Brat Dreapta SAMOX 5 Offset- 165 mm Bosch Gen 1+2+4 / Brose SHAPE 2",
-      "brand": "SAMOX",
-      "category": "➤ Brate Angrenaje",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
-      "secondary_categories": [
-        "e- MOBILITY > Angrenaje E-Bike"
-      ],
-      "price": 85.8,
-      "price_net": 70.91,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.25,
-      "url": "https://www.bikestylish.ro/brat-dreapta-samox-5-offset-165-mm-bosch-gen-1-2-4-brose-shape-2.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/brat-dreapta-samox-5-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341378.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/brat-dreapta-samox-5-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341378.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/brat-dreapta-samox-5-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341381.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/brat-dreapta-samox-5-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~8341384.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SAMOX",
-        "➤ Brate Angrenaje"
-      ]
-    },
-    {
-      "id": "356110",
-      "sku": "356110",
-      "ean": "887539028770",
-      "name": "Brat Stanga SAMOX 0 Offset- 175 mm Bosch Gen 1+2+4 / Brose SHAPE 1",
-      "brand": "SAMOX",
-      "category": "➤ Brate Angrenaje",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
-      "secondary_categories": [
-        "e- MOBILITY > Angrenaje E-Bike"
-      ],
-      "price": 85.8,
-      "price_net": 70.91,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
-      "weight_kg": 0.26,
-      "url": "https://www.bikestylish.ro/brat-stanga-samox-0-offset-175-mm-bosch-gen-1-2-4-brose-shape-1.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/brat-stanga-samox-0-offset-175-mm-bosch-gen-1-2-4-brose-shape-1~8341387.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/brat-stanga-samox-0-offset-175-mm-bosch-gen-1-2-4-brose-shape-1~8341387.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/brat-stanga-samox-0-offset-175-mm-bosch-gen-1-2-4-brose-shape-1~8341390.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/brat-stanga-samox-0-offset-175-mm-bosch-gen-1-2-4-brose-shape-1~8341393.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SAMOX",
-        "➤ Brate Angrenaje"
-      ]
-    },
     {
       "id": "356111",
       "sku": "356111",
@@ -80,8 +20,8 @@
       "secondary_categories": [
         "e- MOBILITY > Angrenaje E-Bike"
       ],
-      "price": 85.8,
-      "price_net": 70.91,
+      "price": 90.0,
+      "price_net": 74.38,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 2,
@@ -110,8 +50,8 @@
       "secondary_categories": [
         "e- MOBILITY > Angrenaje E-Bike"
       ],
-      "price": 85.8,
-      "price_net": 70.91,
+      "price": 80.0,
+      "price_net": 66.11,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 4,
@@ -514,11 +454,12 @@
       "secondary_categories": [
         "e- MOBILITY > Angrenaje E-Bike"
       ],
-      "price": 74.8,
-      "price_net": 61.82,
+      "price": 77.0,
+      "price_net": 63.64,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
+      "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/spider-samox-pd-s-gen3-bosch-cl-47-bcd-104-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/spider-samox-pd-s-gen3-bosch-cl-47-bcd-104-mm~8341516.jpg",
       "images": [
@@ -758,8 +699,8 @@
       "secondary_categories": [
         "e- MOBILITY > Angrenaje E-Bike"
       ],
-      "price": 60.5,
-      "price_net": 50.0,
+      "price": 58.0,
+      "price_net": 47.93,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -2213,7 +2154,7 @@
       "id": "122473",
       "sku": "122473",
       "ean": "887539047979",
-      "name": "Prindere + Cutie Portbagaj M-WAVE Amsterdam Box L QR",
+      "name": "Suport Prindere + Cutie Portbagaj M-WAVE Amsterdam Box L QR",
       "brand": "M-WAVE",
       "category": "➤ Bagaje Spate",
       "category_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
@@ -2223,10 +2164,10 @@
       "availability": "limited",
       "stock_quantity": 2,
       "weight_kg": 2.6,
-      "url": "https://www.bikestylish.ro/prindere-cutie-portbagaj-m-wave-amsterdam-box-l-qr.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/prindere-cutie-portbagaj-m-wave-amsterdam-box-l-qr~8342047.jpg",
+      "url": "https://www.bikestylish.ro/suport-prindere-cutie-portbagaj-m-wave-amsterdam-box-l-qr.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/suport-prindere-cutie-portbagaj-m-wave-amsterdam-box-l-qr~8342047.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/prindere-cutie-portbagaj-m-wave-amsterdam-box-l-qr~8342047.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/7/suport-prindere-cutie-portbagaj-m-wave-amsterdam-box-l-qr~8342047.jpg"
       ],
       "tags": [
         "ACCESORII",
@@ -2355,35 +2296,6 @@
       }
     },
     {
-      "id": "430854",
-      "sku": "430854",
-      "ean": "887539024949",
-      "name": "Cric Spate SXT Column - E1 26-29 18mm",
-      "brand": "SXT",
-      "category": "➤ Cricuri Spate",
-      "category_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
-      "secondary_categories": [
-        "e- MOBILITY > Accesorii E-Bike"
-      ],
-      "price": 97.9,
-      "price_net": 80.91,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.5,
-      "url": "https://www.bikestylish.ro/cric-spate-sxt-column-e1-26-29-18mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/cric-spate-sxt-column-e1-26-29-18mm~8342080.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/cric-spate-sxt-column-e1-26-29-18mm~8342080.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/cric-spate-sxt-column-e1-26-29-18mm~8342083.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "SXT",
-        "➤ Cricuri Spate"
-      ]
-    },
-    {
       "id": "420455",
       "sku": "420455",
       "ean": "887539047504",
@@ -2391,8 +2303,8 @@
       "brand": "M-WAVE",
       "category": "➤ Sonerii",
       "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
-      "price": 71.5,
-      "price_net": 59.09,
+      "price": 70.0,
+      "price_net": 57.85,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -4192,8 +4104,8 @@
       "brand": "SXT",
       "category": "➤ Cuveti(HeadSet)",
       "category_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
-      "price": 33.0,
-      "price_net": 27.27,
+      "price": 27.0,
+      "price_net": 22.31,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 72,
@@ -4991,8 +4903,8 @@
       "brand": "KMC",
       "category": "➤ Lanturi",
       "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
-      "price": 71.5,
-      "price_net": 59.09,
+      "price": 99.0,
+      "price_net": 81.82,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -5091,8 +5003,8 @@
       "secondary_categories": [
         "e- MOBILITY > Accesorii E-Bike"
       ],
-      "price": 104.5,
-      "price_net": 86.36,
+      "price": 87.0,
+      "price_net": 71.9,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -5557,8 +5469,8 @@
       "brand": "SXT",
       "category": "➤ Foi Angrenaje",
       "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
-      "price": 41.8,
-      "price_net": 34.55,
+      "price": 35.0,
+      "price_net": 28.93,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 10,
@@ -7628,6 +7540,96 @@
         "M-WAVE",
         "➤ Banda Janta - Tubeless"
       ]
+    },
+    {
+      "id": "SXTM103",
+      "sku": "SXTM103",
+      "ean": "2802432000003",
+      "name": "Monobloc Pedalier NECO 103mm Negru Cupe Metal/Metal",
+      "brand": "NECO",
+      "category": "➤ Monobloace - B.B.",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
+      "price": 35.2,
+      "price_net": 29.09,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 54,
+      "weight_kg": 0.3,
+      "url": "https://www.bikestylish.ro/monobloc-pedalier-neco-103mm-negru-cupe-metal-metal.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/monobloc-pedalier-neco-103mm-negru-cupe-metal-metal~8343790.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/monobloc-pedalier-neco-103mm-negru-cupe-metal-metal~8343790.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/monobloc-pedalier-neco-103mm-negru-cupe-metal-metal~8343793.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "NECO",
+        "➤ Monobloace - B.B."
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "SXTP16T",
+      "sku": "SXTP16T",
+      "ean": "2802433000002",
+      "name": "Pinion Freewheel 1v SXT 16T",
+      "brand": "SXT",
+      "category": "➤ Pionioane Filetate",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
+      "price": 24.2,
+      "price_net": 20.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/pinion-freewheel-1v-sxt-16t.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pinion-freewheel-1v-sxt-16t~8343796.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/pinion-freewheel-1v-sxt-16t~8343796.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-freewheel-1v-sxt-16t~8343799.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/pinion-freewheel-1v-sxt-16t~8343802.jpg"
+      ],
+      "tags": [
+        "1 viteze",
+        "COMPONENTE",
+        "SXT",
+        "➤ Pionioane Filetate"
+      ],
+      "specs": {
+        "speeds": 1
+      }
+    },
+    {
+      "id": "SXTAG48",
+      "sku": "SXTAG48",
+      "ean": "2802434000001",
+      "name": "Angrenaj Pedalier SXT 48 T Negru Aluminiu/Metal",
+      "brand": "SXT",
+      "category": "➤ Pedaliere - Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 65,
+      "url": "https://www.bikestylish.ro/angrenaj-pedalier-sxt-48-t-negru-aluminiu-metal.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/angrenaj-pedalier-sxt-48-t-negru-aluminiu-metal~8343805.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/angrenaj-pedalier-sxt-48-t-negru-aluminiu-metal~8343805.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/angrenaj-pedalier-sxt-48-t-negru-aluminiu-metal~8343808.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/angrenaj-pedalier-sxt-48-t-negru-aluminiu-metal~8343811.jpg"
+      ],
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "SXT",
+        "➤ Pedaliere - Angrenaje"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -7915,7 +7917,7 @@
       "id": "adaptoare-frana",
       "name": "➤ Adaptoare Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Adaptoare Frana",
-      "product_count": 15,
+      "product_count": 16,
       "in_stock_count": 15
     },
     {
@@ -8020,7 +8022,7 @@
       "id": "bagaje-spate",
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
-      "product_count": 38,
+      "product_count": 39,
       "in_stock_count": 32
     },
     {
@@ -8069,7 +8071,7 @@
       "id": "brate-angrenaje",
       "name": "➤ Brate Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
-      "product_count": 48,
+      "product_count": 53,
       "in_stock_count": 24
     },
     {
@@ -8105,7 +8107,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 86,
-      "in_stock_count": 48
+      "in_stock_count": 47
     },
     {
       "id": "capete-cablu-manta",
@@ -8223,7 +8225,7 @@
       "id": "foi-angrenaje",
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
-      "product_count": 25,
+      "product_count": 30,
       "in_stock_count": 14
     },
     {
@@ -8237,7 +8239,7 @@
       "id": "frane-v-break",
       "name": "➤ Frane V - Break",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
-      "product_count": 12,
+      "product_count": 13,
       "in_stock_count": 6
     },
     {
@@ -8307,7 +8309,7 @@
       "id": "lumini-spate",
       "name": "➤ Lumini Spate",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
-      "product_count": 30,
+      "product_count": 31,
       "in_stock_count": 21
     },
     {
@@ -8335,7 +8337,7 @@
       "id": "mansoane",
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
-      "product_count": 95,
+      "product_count": 96,
       "in_stock_count": 82
     },
     {
@@ -8349,7 +8351,7 @@
       "id": "mini-pompe",
       "name": "➤ Mini Pompe",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Mini Pompe",
-      "product_count": 13,
+      "product_count": 14,
       "in_stock_count": 10
     },
     {
@@ -8405,7 +8407,7 @@
       "id": "pedaliere-angrenaje",
       "name": "➤ Pedaliere - Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
-      "product_count": 60,
+      "product_count": 61,
       "in_stock_count": 38
     },
     {
@@ -8447,7 +8449,7 @@
       "id": "pompe-podea",
       "name": "➤ Pompe Podea",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Podea",
-      "product_count": 10,
+      "product_count": 11,
       "in_stock_count": 4
     },
     {
@@ -8517,7 +8519,7 @@
       "id": "saboti-frana",
       "name": "➤ Saboti Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Saboti Frana",
-      "product_count": 15,
+      "product_count": 17,
       "in_stock_count": 6
     },
     {
@@ -8559,7 +8561,7 @@
       "id": "seturi-aparatori-noroi",
       "name": "➤ Seturi Aparatori Noroi",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
-      "product_count": 26,
+      "product_count": 28,
       "in_stock_count": 21
     },
     {
@@ -8594,7 +8596,7 @@
       "id": "spite-stainless-2-3-mm",
       "name": "➤ Spite Stainless - 2,3 mm",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless - 2,3 mm",
-      "product_count": 9,
+      "product_count": 11,
       "in_stock_count": 5
     },
     {
