@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-10T04:23:00.519262+00:00",
+  "last_updated": "2026-05-11T04:28:08.915247+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
     "total_parts": 19,
     "product_range": "2251-2500",
-    "original_total": 4666
+    "original_total": 4665
   },
   "products": [
     {
@@ -139,8 +139,8 @@
       "brand": "KUJO",
       "category": "➤ Anvelope pe Sârmă",
       "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "price": 86.9,
-      "price_net": 71.82,
+      "price": 80.0,
+      "price_net": 66.12,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -168,8 +168,8 @@
       "brand": "KUJO",
       "category": "➤ Anvelope pe Sârmă",
       "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "price": 60.5,
-      "price_net": 50.0,
+      "price": 50.0,
+      "price_net": 41.32,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -2299,8 +2299,8 @@
       "price": 495.0,
       "price_net": 409.09,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "url": "https://www.bikestylish.ro/roata-spate-29-32h-boost-sxt-148-12-mm-23-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-29-32h-boost-sxt-148-12-mm-23-mm~8328163.jpg",
       "images": [
@@ -3714,8 +3714,8 @@
       "brand": "KUJO",
       "category": "➤ Anvelope pe Sârmă",
       "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "price": 60.5,
-      "price_net": 50.0,
+      "price": 59.0,
+      "price_net": 48.76,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -6095,8 +6095,8 @@
       "price": 350.0,
       "price_net": 289.26,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 20,
       "weight_kg": 2.0,
       "url": "https://www.bikestylish.ro/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r~8329642.jpg",
@@ -7674,7 +7674,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 184,
-      "in_stock_count": 113
+      "in_stock_count": 114
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7702,7 +7702,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "axe-suruburi-piulite",
@@ -8199,14 +8199,14 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 37,
-      "in_stock_count": 30
+      "in_stock_count": 31
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
-      "product_count": 46,
-      "in_stock_count": 34
+      "product_count": 45,
+      "in_stock_count": 39
     },
     {
       "id": "rucsaci",

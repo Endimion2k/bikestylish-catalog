@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-10T04:23:00.519262+00:00",
+  "last_updated": "2026-05-11T04:28:08.915247+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 15,
     "total_parts": 19,
     "product_range": "3501-3750",
-    "original_total": 4666
+    "original_total": 4665
   },
   "products": [
     {
@@ -190,7 +190,7 @@
       "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 303,
+      "stock_quantity": 300,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm-negru-matt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-aluminiu-mtb-sxt-31-8-800-mm-negru-matt~8336674.jpg",
@@ -4444,8 +4444,8 @@
       "price": 328.9,
       "price_net": 271.82,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-26-559-x-19c-velosteel-36h-p-18t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-sxt-26-559-x-19c-velosteel-36h-p-18t~8338333.jpg",
       "images": [
@@ -4539,7 +4539,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 23,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-sxt-gh-011-sr-2.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-sxt-gh-011-sr-2~8338357.jpg",
@@ -8164,7 +8164,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 184,
-      "in_stock_count": 113
+      "in_stock_count": 114
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -8192,7 +8192,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "axe-suruburi-piulite",
@@ -8689,14 +8689,14 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 37,
-      "in_stock_count": 30
+      "in_stock_count": 31
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
-      "product_count": 46,
-      "in_stock_count": 34
+      "product_count": 45,
+      "in_stock_count": 39
     },
     {
       "id": "rucsaci",

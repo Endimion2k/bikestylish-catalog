@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-10T04:23:00.519262+00:00",
+  "last_updated": "2026-05-11T04:28:08.915247+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 18,
     "total_parts": 19,
     "product_range": "4251-4500",
-    "original_total": 4666
+    "original_total": 4665
   },
   "products": [
     {
@@ -1105,8 +1105,8 @@
       "price": 209.0,
       "price_net": 172.73,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 2.0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-20-406-x-19c-36h-filetat-ax.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/roata-spate-sxt-20-406-x-19c-36h-filetat-ax~8326705.jpg",
@@ -2631,35 +2631,6 @@
         "COMPONENTE",
         "SXT",
         "➤ Seturi Roti"
-      ],
-      "specs": {
-        "dimensions": "584 x 17"
-      }
-    },
-    {
-      "id": "1000004",
-      "sku": "1000004",
-      "name": "Roata Spate SXT 27.5(584x17C) XCO RIO NOVATEC 32H CL",
-      "brand": "SXT",
-      "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
-      "price": 399.3,
-      "price_net": 330.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/roata-spate-sxt-27-5-584x17c-xco-rio-novatec-32h-cl.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/roata-spate-sxt-27-5-584x17c-xco-rio-novatec-32h-cl~10362174.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/roata-spate-sxt-27-5-584x17c-xco-rio-novatec-32h-cl~10362174.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-sxt-27-5-584x17c-xco-rio-novatec-32h-cl~10362702.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/roata-spate-sxt-27-5-584x17c-xco-rio-novatec-32h-cl~10362705.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-sxt-27-5-584x17c-xco-rio-novatec-32h-cl~10362708.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SXT",
-        "➤ Roti Spate"
       ],
       "specs": {
         "dimensions": "584 x 17"
@@ -6737,6 +6708,41 @@
           "Road"
         ]
       }
+    },
+    {
+      "id": "519103 - 05957",
+      "sku": "519103 - 05957",
+      "name": "Solutie Antipana Tubeless TANNUS 250ml - MTB",
+      "brand": "TANNUS",
+      "category": "➤Bike Maintenance - Intretinere",
+      "category_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
+      "secondary_categories": [
+        "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana"
+      ],
+      "price": 77.0,
+      "price_net": 63.64,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 0.3,
+      "url": "https://www.bikestylish.ro/solutie-antipana-tubeless-tannus-250ml-mtb.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/solutie-antipana-tubeless-tannus-250ml-mtb~12065574.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/solutie-antipana-tubeless-tannus-250ml-mtb~12065574.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/solutie-antipana-tubeless-tannus-250ml-mtb~12065577.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/solutie-antipana-tubeless-tannus-250ml-mtb~12065580.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "MTB",
+        "TANNUS",
+        "➤Bike Maintenance - Intretinere"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ]
+      }
     }
   ],
   "categories": [
@@ -7074,7 +7080,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 184,
-      "in_stock_count": 113
+      "in_stock_count": 114
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7102,7 +7108,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7599,14 +7605,14 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 37,
-      "in_stock_count": 30
+      "in_stock_count": 31
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
-      "product_count": 46,
-      "in_stock_count": 34
+      "product_count": 45,
+      "in_stock_count": 39
     },
     {
       "id": "rucsaci",

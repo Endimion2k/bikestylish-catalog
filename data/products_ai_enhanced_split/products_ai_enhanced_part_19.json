@@ -1,49 +1,14 @@
 {
-  "last_updated": "2026-05-10T04:23:00.519262+00:00",
-  "total_products": 166,
+  "last_updated": "2026-05-11T04:28:08.915247+00:00",
+  "total_products": 165,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 19,
     "total_parts": 19,
-    "product_range": "4501-4666",
-    "original_total": 4666
+    "product_range": "4501-4665",
+    "original_total": 4665
   },
   "products": [
-    {
-      "id": "519103 - 05957",
-      "sku": "519103 - 05957",
-      "name": "Solutie Antipana Tubeless TANNUS 250ml - MTB",
-      "brand": "TANNUS",
-      "category": "➤Bike Maintenance - Intretinere",
-      "category_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
-      "secondary_categories": [
-        "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana"
-      ],
-      "price": 77.0,
-      "price_net": 63.64,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.3,
-      "url": "https://www.bikestylish.ro/solutie-antipana-tubeless-tannus-250ml-mtb.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/solutie-antipana-tubeless-tannus-250ml-mtb~12065574.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/solutie-antipana-tubeless-tannus-250ml-mtb~12065574.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/solutie-antipana-tubeless-tannus-250ml-mtb~12065577.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/solutie-antipana-tubeless-tannus-250ml-mtb~12065580.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "MTB",
-        "TANNUS",
-        "➤Bike Maintenance - Intretinere"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ]
-      }
-    },
     {
       "id": "519104-01256",
       "sku": "519104-01256",
@@ -2531,8 +2496,8 @@
       "brand": "SXT",
       "category": "➤ Anvelope pe Sârmă",
       "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "price": 99.0,
-      "price_net": 81.82,
+      "price": 77.0,
+      "price_net": 63.64,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 98,
@@ -2564,8 +2529,8 @@
       "brand": "SXT",
       "category": "➤ Anvelope pe Sârmă",
       "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "price": 90.0,
-      "price_net": 74.38,
+      "price": 75.0,
+      "price_net": 61.98,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 96,
@@ -3391,7 +3356,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 498,
+      "stock_quantity": 493,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-79x-negru-ax-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-plastic-sxt-79x-negru-ax-9-16~13289259.jpg",
@@ -5139,7 +5104,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 184,
-      "in_stock_count": 113
+      "in_stock_count": 114
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -5167,7 +5132,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "axe-suruburi-piulite",
@@ -5664,14 +5629,14 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 37,
-      "in_stock_count": 30
+      "in_stock_count": 31
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
-      "product_count": 46,
-      "in_stock_count": 34
+      "product_count": 45,
+      "in_stock_count": 39
     },
     {
       "id": "rucsaci",
