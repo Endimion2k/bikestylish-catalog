@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-12T04:18:02.939318+00:00",
+  "last_updated": "2026-05-13T04:21:31.160840+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
     "total_parts": 19,
     "product_range": "2251-2500",
-    "original_total": 4665
+    "original_total": 4668
   },
   "products": [
     {
@@ -172,7 +172,7 @@
       "price_net": 41.32,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 50,
+      "stock_quantity": 48,
       "weight_kg": 0.9,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-one-0-one-t-700-x-38c-40-622.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kujo-one-0-one-t-700-x-38c-40-622~8327287.jpg",
@@ -728,7 +728,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 30,
+      "stock_quantity": 24,
       "weight_kg": 0.9,
       "url": "https://www.bikestylish.ro/camera-kujo-700x18-25c-fv-48-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-kujo-700x18-25c-fv-48-mm~8327545.jpg",
@@ -1751,8 +1751,8 @@
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 55,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/pinion-e-bike-kmc-15t-1-2-11-128-bosch-gen-2.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pinion-e-bike-kmc-15t-1-2%E2%80%9411-128-bosch-gen-2~11601144.jpg",
@@ -2268,7 +2268,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 11,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/sa-ventura-e-grip-260-x-200-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/sa-ventura-e-grip-260-x-200-mm-negru~8328100.jpg",
@@ -3121,7 +3121,7 @@
       "price_net": 40.5,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 19,
       "weight_kg": 0.43,
       "url": "https://www.bikestylish.ro/husa-sa-cu-gel-velo-standard-xl-290-260-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/husa-sa-cu-gel-velo-standard-xl-290-260-mm~8328505.jpg",
@@ -3296,7 +3296,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 22,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/adaptor-cu-pipa-metal-m-wave-1-40-270-mm-negru-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/adaptor-cu-pipa-metal-m-wave-1-40-270-mm-negru-negru~8328565.jpg",
@@ -4256,7 +4256,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 10,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-steady-flat-2-epb-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-plastic-sxt-steady-flat-2-epb-negru~8328910.jpg",
@@ -5210,7 +5210,7 @@
       "price_net": 409.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 9,
       "url": "https://www.bikestylish.ro/kit-service-brose.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/kit-service-brose~8329264.jpg",
       "images": [
@@ -5802,7 +5802,7 @@
       "price_net": 53.72,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 45,
+      "stock_quantity": 44,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/butuc-fata-d761dse-36h-frana-disc-qr-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-fata-d761dse-36h-frana-disc-qr-negru~8329486.jpg",
@@ -7478,7 +7478,7 @@
       "name": "Manusi Ciclism",
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
       "product_count": 45,
-      "in_stock_count": 37
+      "in_stock_count": 35
     },
     {
       "id": "motoare-e-bike",
@@ -7562,7 +7562,7 @@
       "name": "Trotinete Electrice",
       "full_path": "e- MOBILITY > Trotinete Electrice",
       "product_count": 38,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "unelte-service",
@@ -7681,7 +7681,7 @@
       "name": "➤ Aparatori Angrenaj - Accesorii",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Aparatori Angrenaj - Accesorii",
       "product_count": 9,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "aparatori-noroi-fata",
@@ -7786,7 +7786,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 75
+      "in_stock_count": 72
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7898,7 +7898,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 15,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "cuveti-headset",
@@ -7932,7 +7932,7 @@
       "id": "foi-angrenaje",
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
-      "product_count": 30,
+      "product_count": 31,
       "in_stock_count": 22
     },
     {
@@ -8038,7 +8038,7 @@
       "name": "➤ Manete Schimbator",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Manete Schimbator",
       "product_count": 28,
-      "in_stock_count": 23
+      "in_stock_count": 22
     },
     {
       "id": "mansoane",
@@ -8115,7 +8115,7 @@
       "name": "➤ Pedaliere - Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
       "product_count": 61,
-      "in_stock_count": 43
+      "in_stock_count": 42
     },
     {
       "id": "pinioane-casetate",
@@ -8136,7 +8136,7 @@
       "name": "➤ Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
       "product_count": 46,
-      "in_stock_count": 39
+      "in_stock_count": 38
     },
     {
       "id": "placute-frana-disc",
@@ -8157,7 +8157,7 @@
       "name": "➤ Pompe Podea",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Podea",
       "product_count": 11,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "portbagaje-fata",
@@ -8255,7 +8255,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 95,
-      "in_stock_count": 83
+      "in_stock_count": 80
     },
     {
       "id": "set-lumini",
@@ -8276,7 +8276,7 @@
       "name": "➤ Seturi Roti",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
       "product_count": 22,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "sistem-velo-fit",
@@ -8373,8 +8373,8 @@
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "product_count": 1074,
-      "in_stock_count": 308
+      "product_count": 1076,
+      "in_stock_count": 306
     },
     {
       "id": "bike-maintenance-intretinere",
