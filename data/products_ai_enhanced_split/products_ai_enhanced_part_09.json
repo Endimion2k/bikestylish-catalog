@@ -1,38 +1,14 @@
 {
-  "last_updated": "2026-05-13T04:21:31.160840+00:00",
+  "last_updated": "2026-05-14T04:21:07.912458+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4668
+    "original_total": 4667
   },
   "products": [
-    {
-      "id": "327018",
-      "sku": "327018",
-      "ean": "2800080000000",
-      "name": "Rulment Japonez Sigilat NOVATEC Typ 6802",
-      "brand": "NOVATEC",
-      "category": "➤ Axe - Accesorii Butuci",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
-      "price": 82.5,
-      "price_net": 68.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/rulment-japonez-sigilat-novatec-typ-6802.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/rulment-japonez-sigilat-novatec-typ-6802~8325115.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/rulment-japonez-sigilat-novatec-typ-6802~8325115.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "NOVATEC",
-        "➤ Axe - Accesorii Butuci"
-      ]
-    },
     {
       "id": "327015",
       "sku": "327015",
@@ -240,7 +216,7 @@
       "price_net": 179.09,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "weight_kg": 0.43,
       "url": "https://www.bikestylish.ro/pedale-ht-pa12a-roz-pini-detasabili.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-pa12a-roz-pini-detasabili~8325151.jpg",
@@ -553,7 +529,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 54,
+      "stock_quantity": 47,
       "weight_kg": 0.13,
       "url": "https://www.bikestylish.ro/aparatoare-angrenaj-sxt-42-44-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/aparatoare-angrenaj-sxt-42-44-t~8325286.jpg",
@@ -604,8 +580,8 @@
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 9,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/set-protectie-brate-angrenaj-m-wave-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-protectie-brate-angrenaj-m-wave-negru~8325298.jpg",
@@ -3082,8 +3058,8 @@
       "price": 97.9,
       "price_net": 80.91,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 6,
       "weight_kg": 1.1,
       "url": "https://www.bikestylish.ro/pompa-podea-ventura-12-180-metal.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pompa-podea-ventura-12-180-metal~8326102.jpg",
@@ -6970,6 +6946,37 @@
         "SHIMANO",
         "➤ Pedaliere - Angrenaje"
       ]
+    },
+    {
+      "id": "558032",
+      "sku": "558032",
+      "ean": "2801444000001",
+      "name": "Anvelopa KUJO TONY T 18x1.75(47-355)",
+      "brand": "KUJO",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
+      "price": 38.5,
+      "price_net": 31.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.55,
+      "url": "https://www.bikestylish.ro/anvelopa-kujo-tony-t-18x1-75-47-355.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kujo-tony-t-18x1-75-47-355~8327254.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kujo-tony-t-18x1-75-47-355~8327254.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kujo-tony-t-18x1-75-47-355~8327257.jpg"
+      ],
+      "tags": [
+        "18 inch",
+        "COMPONENTE",
+        "KUJO",
+        "➤ Anvelope pe Sârmă"
+      ],
+      "specs": {
+        "wheel_size": "18",
+        "dimensions": "18 x 1.75"
+      }
     }
   ],
   "categories": [
@@ -7195,7 +7202,7 @@
       "name": "Trotinete Electrice",
       "full_path": "e- MOBILITY > Trotinete Electrice",
       "product_count": 38,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "unelte-service",
@@ -7370,7 +7377,7 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 43,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "bar-tape-accesorii",
@@ -7530,7 +7537,7 @@
       "id": "cricuri-spate",
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
-      "product_count": 15,
+      "product_count": 14,
       "in_stock_count": 11
     },
     {
@@ -7699,7 +7706,7 @@
       "name": "➤ Monobloace - B.B.",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
       "product_count": 48,
-      "in_stock_count": 43
+      "in_stock_count": 44
     },
     {
       "id": "nipluri-accesorii",
@@ -7720,7 +7727,7 @@
       "name": "➤ Oglinzi",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
       "product_count": 24,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pedale-click",
@@ -7790,7 +7797,7 @@
       "name": "➤ Pompe Podea",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Podea",
       "product_count": 11,
-      "in_stock_count": 4
+      "in_stock_count": 5
     },
     {
       "id": "portbagaje-fata",
@@ -7839,7 +7846,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 45,
-      "in_stock_count": 39
+      "in_stock_count": 38
     },
     {
       "id": "rucsaci",
@@ -7888,7 +7895,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 95,
-      "in_stock_count": 80
+      "in_stock_count": 81
     },
     {
       "id": "set-lumini",
@@ -7972,7 +7979,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 36
+      "in_stock_count": 35
     },
     {
       "id": "transport-biciclete",
@@ -8014,7 +8021,7 @@
       "name": "➤Bike Maintenance - Intretinere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
       "product_count": 21,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "depozitare-biciclete",
