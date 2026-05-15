@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-14T04:21:07.912458+00:00",
+  "last_updated": "2026-05-15T04:24:12.256806+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4667
+    "original_total": 4669
   },
   "products": [
     {
@@ -215,8 +215,8 @@
       "price": 216.7,
       "price_net": 179.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 4,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.43,
       "url": "https://www.bikestylish.ro/pedale-ht-pa12a-roz-pini-detasabili.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-pa12a-roz-pini-detasabili~8325151.jpg",
@@ -380,7 +380,7 @@
       "price_net": 8.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 90,
+      "stock_quantity": 88,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/piulita-spate-butuc-single-speed.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/piulita-spate-butuc-single-speed~8325220.jpg",
@@ -1054,7 +1054,7 @@
       "price_net": 72.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 22,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/aparatoare-noroi-fata-m-wave-mud-max-plus-qr-f-26-29-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/aparatoare-noroi-fata-m-wave-mud-max-plus-qr-f-26-29-negru~8325499.jpg",
@@ -2043,8 +2043,8 @@
       "price": 40.0,
       "price_net": 33.06,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/mansoane-velo-cork.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-velo-cork~8325763.jpg",
@@ -7236,7 +7236,7 @@
       "id": "accesorii-camere-biciclete",
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
-      "product_count": 16,
+      "product_count": 17,
       "in_stock_count": 15
     },
     {
@@ -7314,7 +7314,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 184,
-      "in_stock_count": 121
+      "in_stock_count": 120
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7748,7 +7748,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 112
+      "in_stock_count": 111
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7776,7 +7776,7 @@
       "name": "➤ Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
       "product_count": 46,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "placute-frana-disc",
@@ -7895,7 +7895,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 95,
-      "in_stock_count": 81
+      "in_stock_count": 79
     },
     {
       "id": "set-lumini",
@@ -8006,7 +8006,7 @@
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 172,
+      "product_count": 173,
       "in_stock_count": 150
     },
     {
