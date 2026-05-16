@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-15T04:24:12.256806+00:00",
+  "last_updated": "2026-05-16T04:14:53.565150+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 5,
     "total_parts": 19,
     "product_range": "1001-1250",
-    "original_total": 4669
+    "original_total": 4667
   },
   "products": [
     {
@@ -3760,7 +3760,7 @@
       "price_net": 164.46,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/borseta-cadru-impermeabila-m-wave-bp-triangle-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/borseta-cadru-impermeabila-m-wave-bp-triangle-negru~8286874.jpg",
@@ -5100,74 +5100,6 @@
       ],
       "specs": {
         "material": "Aluminiu"
-      }
-    },
-    {
-      "id": "D054030",
-      "sku": "D054030",
-      "ean": "2802006000002",
-      "name": "Pipa Aluminiu BMX SXT Albastru",
-      "brand": "SXT",
-      "category": "Ghidoane - Mansoane - Pipe",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe",
-      "price": 60.5,
-      "price_net": 50.0,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.3,
-      "url": "https://www.bikestylish.ro/pipa-aluminiu-bmx-sxt-albastru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pipa-aluminiu-bmx-sxt-albastru~8287459.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pipa-aluminiu-bmx-sxt-albastru~8287459.jpg"
-      ],
-      "tags": [
-        "Aluminiu",
-        "BMX",
-        "COMPONENTE",
-        "Ghidoane - Mansoane - Pipe",
-        "SXT"
-      ],
-      "specs": {
-        "bike_type": [
-          "BMX"
-        ],
-        "material": "Aluminiu",
-        "color": "Alb"
-      }
-    },
-    {
-      "id": "D054031",
-      "sku": "D054031",
-      "ean": "8581500540309",
-      "name": "Pipa Aluminiu SXT - BMX Fire Rosu",
-      "brand": "SXT",
-      "category": "➤ Pipe Ghidon",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
-      "price": 60.5,
-      "price_net": 50.0,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.3,
-      "url": "https://www.bikestylish.ro/pipa-aluminiu-sxt-bmx-fire-rosu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pipa-aluminiu-sxt-bmx-fire-rosu~8287465.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pipa-aluminiu-sxt-bmx-fire-rosu~8287465.jpg"
-      ],
-      "tags": [
-        "Aluminiu",
-        "BMX",
-        "COMPONENTE",
-        "SXT",
-        "➤ Pipe Ghidon"
-      ],
-      "specs": {
-        "bike_type": [
-          "BMX"
-        ],
-        "material": "Aluminiu",
-        "color": "Rosu"
       }
     },
     {
@@ -7312,6 +7244,68 @@
           "Copii"
         ]
       }
+    },
+    {
+      "id": "340212",
+      "sku": "340212",
+      "ean": "2800878000007",
+      "name": "Suport + Bidon Copii VENTURA PBO 300- HORSE",
+      "brand": "VENTURA",
+      "category": "➤ Suporturi Bidon",
+      "category_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
+      "price": 22.0,
+      "price_net": 18.18,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 47,
+      "weight_kg": 0.07,
+      "url": "https://www.bikestylish.ro/suport-bidon-copii-ventura-pbo-300-horse.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/suport-bidon-copii-ventura-pbo-300-horse~8287690.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/suport-bidon-copii-ventura-pbo-300-horse~8287690.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "Copii",
+        "VENTURA",
+        "➤ Suporturi Bidon"
+      ],
+      "specs": {
+        "bike_type": [
+          "Copii"
+        ]
+      }
+    },
+    {
+      "id": "340964",
+      "sku": "340964",
+      "ean": "2800879000006",
+      "name": "Suport Bidon Aluminiu SXT LIGHT 25",
+      "brand": "SXT",
+      "category": "➤ Suporturi Bidon",
+      "category_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
+      "price": 49.0,
+      "price_net": 40.5,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 57,
+      "weight_kg": 0.05,
+      "url": "https://www.bikestylish.ro/suport-bidon-aluminiu-sxt-light-25.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/suport-bidon-aluminiu-sxt-light-25~8287693.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/suport-bidon-aluminiu-sxt-light-25~8287693.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/suport-bidon-aluminiu-sxt-light-25~8288362.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/suport-bidon-aluminiu-sxt-light-25~8288365.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "SXT",
+        "➤ Suporturi Bidon"
+      ],
+      "specs": {
+        "material": "Aluminiu"
+      }
     }
   ],
   "categories": [
@@ -7369,7 +7363,7 @@
       "name": "Biciclete Single - SPEED - Fixie",
       "full_path": "BICICLETE > Biciclete Single - SPEED - Fixie",
       "product_count": 18,
-      "in_stock_count": 0
+      "in_stock_count": 15
     },
     {
       "id": "bidoane-suporti-bidon",
@@ -7417,8 +7411,8 @@
       "id": "ghidoane-mansoane-pipe",
       "name": "Ghidoane - Mansoane - Pipe",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe",
-      "product_count": 7,
-      "in_stock_count": 7
+      "product_count": 6,
+      "in_stock_count": 6
     },
     {
       "id": "home-trainer-rulou",
@@ -7908,7 +7902,7 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 31,
-      "in_stock_count": 22
+      "in_stock_count": 21
     },
     {
       "id": "frane-disc",
@@ -8055,7 +8049,7 @@
       "name": "➤ Ochelari Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Ochelari Ciclism",
       "product_count": 7,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "oglinzi",
@@ -8110,8 +8104,8 @@
       "id": "pipe-ghidon",
       "name": "➤ Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
-      "product_count": 46,
-      "in_stock_count": 37
+      "product_count": 45,
+      "in_stock_count": 36
     },
     {
       "id": "placute-frana-disc",
@@ -8363,7 +8357,7 @@
       "name": "➤Depozitare Biciclete",
       "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
       "product_count": 21,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "suspensii-spate",
