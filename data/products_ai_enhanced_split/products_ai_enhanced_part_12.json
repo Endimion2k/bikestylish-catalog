@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-16T04:14:53.565150+00:00",
+  "last_updated": "2026-05-17T04:26:25.475682+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 12,
     "total_parts": 19,
     "product_range": "2751-3000",
-    "original_total": 4667
+    "original_total": 4668
   },
   "products": [
     {
@@ -810,8 +810,8 @@
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d29-bianchi-focus-jamis-k2-kinesis-kona-masi-merida-raleigha.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d29-bianchi-focus-jamis-k2-kinesis-kona-masi-merida~8331295.jpg",
       "images": [
@@ -3090,8 +3090,8 @@
       "price": 137.5,
       "price_net": 113.64,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d250-canyon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d250-canyon~8331595.jpg",
@@ -7139,8 +7139,8 @@
       "id": "ochelari-ciclism",
       "name": "➤ Ochelari Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Ochelari Ciclism",
-      "product_count": 7,
-      "in_stock_count": 3
+      "product_count": 8,
+      "in_stock_count": 4
     },
     {
       "id": "oglinzi",
@@ -7434,7 +7434,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 306
+      "in_stock_count": 304
     },
     {
       "id": "bike-maintenance-intretinere",
