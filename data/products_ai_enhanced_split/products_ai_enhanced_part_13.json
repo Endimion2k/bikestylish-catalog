@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-19T04:27:13.556576+00:00",
+  "last_updated": "2026-05-20T04:28:13.435300+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 13,
     "total_parts": 19,
     "product_range": "3001-3250",
-    "original_total": 4668
+    "original_total": 4672
   },
   "products": [
     {
@@ -655,8 +655,8 @@
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 2,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d779-scott.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d779-scott~8332558.jpg",
@@ -684,8 +684,8 @@
       "price": 302.5,
       "price_net": 250.0,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d780-scott-scale-spark-and-contessa-boost-carbon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d780-scott-scale-spark-and-contessa-boost-carbon~8332573.jpg",
@@ -914,8 +914,8 @@
       "price": 242.0,
       "price_net": 200.0,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d789-canyon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d789-canyon~8332666.jpg",
@@ -1673,8 +1673,8 @@
       "price": 137.5,
       "price_net": 113.64,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d822-giant.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d822-giant~8332951.jpg",
@@ -1727,8 +1727,8 @@
       "price": 154.0,
       "price_net": 127.27,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d825-orbea.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d825-orbea~8332969.jpg",
@@ -1915,7 +1915,7 @@
       "price_net": 136.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 6,
+      "stock_quantity": 11,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d834-bulls.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d834-bulls~8333026.jpg",
@@ -2451,8 +2451,8 @@
       "price": 187.0,
       "price_net": 154.55,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 8,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d853-husqvarna.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d853-husqvarna~8333206.jpg",
@@ -4461,8 +4461,8 @@
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d936-cannondale.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d936-cannondale~8333908.jpg",
@@ -6433,8 +6433,8 @@
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1039-canyon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1039-canyon~8334721.jpg",
@@ -6949,7 +6949,7 @@
       "name": "Biciclete Single - SPEED - Fixie",
       "full_path": "BICICLETE > Biciclete Single - SPEED - Fixie",
       "product_count": 18,
-      "in_stock_count": 15
+      "in_stock_count": 16
     },
     {
       "id": "bidoane-suporti-bidon",
@@ -7040,7 +7040,7 @@
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
       "product_count": 11,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "pantaloni-ciclism",
@@ -7257,7 +7257,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 39
+      "in_stock_count": 38
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7488,14 +7488,14 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 31,
-      "in_stock_count": 21
+      "in_stock_count": 24
     },
     {
       "id": "frane-disc",
       "name": "➤ Frane Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
       "product_count": 15,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "frane-v-break",
@@ -7544,7 +7544,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 42,
-      "in_stock_count": 15
+      "in_stock_count": 13
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7663,7 +7663,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 111
+      "in_stock_count": 110
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7753,15 +7753,15 @@
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
-      "product_count": 37,
+      "product_count": 39,
       "in_stock_count": 31
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
-      "product_count": 45,
-      "in_stock_count": 38
+      "product_count": 47,
+      "in_stock_count": 37
     },
     {
       "id": "rucsaci",
@@ -7894,7 +7894,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 35
+      "in_stock_count": 33
     },
     {
       "id": "transport-biciclete",
@@ -7922,14 +7922,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 173,
-      "in_stock_count": 150
+      "in_stock_count": 149
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 305
+      "in_stock_count": 326
     },
     {
       "id": "bike-maintenance-intretinere",
@@ -7943,7 +7943,7 @@
       "name": "➤Depozitare Biciclete",
       "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
       "product_count": 21,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "suspensii-spate",
