@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-21T04:31:45.116293+00:00",
+  "last_updated": "2026-05-22T04:28:27.181284+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 18,
     "total_parts": 19,
     "product_range": "4251-4500",
-    "original_total": 4672
+    "original_total": 4675
   },
   "products": [
     {
@@ -241,7 +241,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 43,
+      "stock_quantity": 18,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/mansoane-mtb-sxt-zn-047-130-mm-lock-on-negru~8343862.jpg",
@@ -311,7 +311,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 146,
+      "stock_quantity": 134,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california~8343886.jpg",
@@ -346,7 +346,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 123,
+      "stock_quantity": 113,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-albastru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/mansoane-mtb-sxt-zn-047-130-mm-lock-on-albastru~8343898.jpg",
@@ -415,7 +415,7 @@
       "price_net": 180.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 22,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-alnc-2032-negru-3-rulmenti-120-x-110-x-20-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-aluminiu-sxt-alnc-2032-negru-3-rulmenti-120-x-110-x-20-mm~8343922.jpg",
@@ -2442,8 +2442,8 @@
       "price": 154.0,
       "price_net": 127.27,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "url": "https://www.bikestylish.ro/caseta-butuc-novatec-f-sh-aluminiu-5-pawls.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/caseta-butuc-novatec-f-sh-aluminiu-5-pawls~10362156.jpg",
       "images": [
@@ -2747,8 +2747,8 @@
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.46,
       "url": "https://www.bikestylish.ro/janta-sxt-xr21-29-622-21c-32h-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/janta-sxt-xr21-29-622-21c-32h-negru~10362204.jpg",
@@ -5671,7 +5671,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 72,
+      "stock_quantity": 70,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-14-nylon-fiber-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-sxt-n-14-nylon-fiber-negru~11326212.jpg",
@@ -6452,7 +6452,7 @@
       "price_net": 53.64,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/unealta-reglaj-super-b-tb-1946b.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/unealta-reglaj-super-b-tb-1946b~12017508.jpg",
@@ -7089,7 +7089,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 184,
-      "in_stock_count": 119
+      "in_stock_count": 118
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7131,7 +7131,7 @@
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
       "product_count": 15,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "bagaje-ghidon",
@@ -7201,7 +7201,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 70
+      "in_stock_count": 69
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7376,7 +7376,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 38
+      "in_stock_count": 39
     },
     {
       "id": "huse-sa",
@@ -7593,7 +7593,7 @@
       "name": "➤ Protectii Antipana",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
       "product_count": 45,
-      "in_stock_count": 23
+      "in_stock_count": 22
     },
     {
       "id": "protectii-lant-cadru",
@@ -7677,7 +7677,7 @@
       "name": "➤ Set Lumini",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Set Lumini",
       "product_count": 24,
-      "in_stock_count": 23
+      "in_stock_count": 22
     },
     {
       "id": "seturi-aparatori-noroi",
@@ -7690,7 +7690,7 @@
       "id": "seturi-roti",
       "name": "➤ Seturi Roti",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
-      "product_count": 22,
+      "product_count": 25,
       "in_stock_count": 16
     },
     {
@@ -7712,7 +7712,7 @@
       "name": "➤ Spite Stainless",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 96
+      "in_stock_count": 95
     },
     {
       "id": "spite-stainless-2-3-mm",
@@ -7740,7 +7740,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 53,
-      "in_stock_count": 48
+      "in_stock_count": 45
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -7789,7 +7789,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 326
+      "in_stock_count": 325
     },
     {
       "id": "bike-maintenance-intretinere",
