@@ -1,105 +1,14 @@
 {
-  "last_updated": "2026-05-22T04:28:27.181284+00:00",
+  "last_updated": "2026-05-23T04:18:28.949731+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
     "total_parts": 19,
     "product_range": "2501-2750",
-    "original_total": 4675
+    "original_total": 4672
   },
   "products": [
-    {
-      "id": "C102725",
-      "sku": "C102725",
-      "ean": "4550170229061",
-      "name": "Ulei Mineral SHIMANO 500 mi Rosu",
-      "brand": "SHIMANO",
-      "category": "➤ Bike Lube - Lubrefiere",
-      "category_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Lube - Lubrefiere",
-      "price": 93.5,
-      "price_net": 77.27,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.5,
-      "url": "https://www.bikestylish.ro/ulei-mineral-shimano-500-mi-rosu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ulei-mineral-shimano-500-mi-rosu~8330089.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ulei-mineral-shimano-500-mi-rosu~8330089.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SHIMANO",
-        "➤ Bike Lube - Lubrefiere"
-      ],
-      "specs": {
-        "color": "Rosu"
-      }
-    },
-    {
-      "id": "303616",
-      "sku": "303616",
-      "ean": "4715575883922",
-      "name": "Lant KMC X9 Grey (OEM )- 116 zale",
-      "brand": "KMC",
-      "category": "➤ Lanturi",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
-      "price": 75.9,
-      "price_net": 62.73,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.35,
-      "url": "https://www.bikestylish.ro/lant-kmc-x9-grey-oem-116-zale.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-x9-grey-oem-116-zale~8330095.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-x9-grey-oem-116-zale~8330095.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "KMC",
-        "➤ Lanturi"
-      ],
-      "specs": {
-        "color": "Grey"
-      }
-    },
-    {
-      "id": "525055",
-      "sku": "525055",
-      "ean": "2801418000006",
-      "name": "Anvelopa Plina Trotineta Fagure 8,5x2.0 Negru",
-      "brand": "SXT",
-      "category": "Trotinete Electrice",
-      "category_path": "e- MOBILITY > Trotinete Electrice",
-      "secondary_categories": [
-        "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă"
-      ],
-      "price": 55.0,
-      "price_net": 45.45,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 28,
-      "url": "https://www.bikestylish.ro/anvelopa-plina-trotineta-fagure-8-5x2-0-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-plina-trotineta-fagure-8-5x2-0-negru~8330107.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-plina-trotineta-fagure-8-5x2-0-negru~8330107.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-plina-trotineta-fagure-8-5x2-0-negru~8330110.jpg"
-      ],
-      "tags": [
-        "E-Bike",
-        "SXT",
-        "Trotinete Electrice",
-        "e- MOBILITY"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ],
-        "color": "Negru"
-      }
-    },
     {
       "id": "D220",
       "sku": "D220",
@@ -6022,8 +5931,8 @@
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d558-canyon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d558-canyon~8331112.jpg",
@@ -6516,6 +6425,81 @@
         "PILO",
         "➤ Urechi Cadru"
       ]
+    },
+    {
+      "id": "D70",
+      "sku": "D70",
+      "ean": "7290107110594",
+      "name": "Ureche Cadru PILO D70 K2",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d70-k2.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d70-k2~8331196.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d70-k2~8331196.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D48",
+      "sku": "D48",
+      "ean": "7290107110372",
+      "name": "Ureche Cadru PILO D48 BH, Fuji, KHS, KTM, Kona, Mondraker, Mongoose, Norco, Saracenâ€¦",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 95.7,
+      "price_net": 79.09,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d48-bh-fuji-khs-ktm-kona-mondraker-mongoose-norco-saracena.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d48-bh-fuji-khs-ktm-kona-mondraker-mongoose-norco~8331199.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d48-bh-fuji-khs-ktm-kona-mondraker-mongoose-norco~8331199.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D483",
+      "sku": "D483",
+      "ean": "7290107114943",
+      "name": "Ureche Cadru PILO D483 Foundry",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d483-foundry.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d483-foundry~8331202.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d483-foundry~8331202.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6853,7 +6837,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 184,
-      "in_stock_count": 118
+      "in_stock_count": 117
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -6894,8 +6878,8 @@
       "id": "bagaje-cadru",
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
-      "product_count": 15,
-      "in_stock_count": 12
+      "product_count": 14,
+      "in_stock_count": 11
     },
     {
       "id": "bagaje-ghidon",
@@ -7308,7 +7292,7 @@
       "name": "➤ Pionioane Filetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "product_count": 41,
-      "in_stock_count": 36
+      "in_stock_count": 37
     },
     {
       "id": "pipe-ghidon",
@@ -7434,7 +7418,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 95,
-      "in_stock_count": 78
+      "in_stock_count": 77
     },
     {
       "id": "set-lumini",
@@ -7476,7 +7460,7 @@
       "name": "➤ Spite Stainless",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 95
+      "in_stock_count": 96
     },
     {
       "id": "spite-stainless-2-3-mm",
@@ -7503,8 +7487,8 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 53,
-      "in_stock_count": 45
+      "product_count": 51,
+      "in_stock_count": 43
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -7518,7 +7502,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 33
+      "in_stock_count": 34
     },
     {
       "id": "transport-biciclete",
@@ -7553,7 +7537,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 325
+      "in_stock_count": 324
     },
     {
       "id": "bike-maintenance-intretinere",

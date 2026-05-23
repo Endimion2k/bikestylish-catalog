@@ -1,100 +1,14 @@
 {
-  "last_updated": "2026-05-22T04:28:27.181284+00:00",
+  "last_updated": "2026-05-23T04:18:28.949731+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4675
+    "original_total": 4672
   },
   "products": [
-    {
-      "id": "HTPA03AN",
-      "sku": "HTPA03AN",
-      "ean": "4715872486635",
-      "name": "Pedale HT PA03A Pini Detasabili-Negru",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
-      "price": 231.0,
-      "price_net": 190.91,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-pa03a-pini-detasabili-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-pa03a-pini-detasabili-negru~8325130.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-pa03a-pini-detasabili-negru~8325130.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-pa03a-pini-detasabili-negru~8325133.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Platforma"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "HTPA03AA",
-      "sku": "HTPA03AA",
-      "ean": "4715872486642",
-      "name": "Pedale HT PA03A Pini Detasabili-Alb",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
-      "price": 231.0,
-      "price_net": 190.91,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-pa03a-pini-detasabili-alb.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-pa03a-pini-detasabili-alb~8325136.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-pa03a-pini-detasabili-alb~8325136.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-pa03a-pini-detasabili-alb~8325139.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Platforma"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
-    {
-      "id": "HTPA12AG",
-      "sku": "HTPA12AG",
-      "ean": "4715872481753",
-      "name": "Pedale HT PA12A-Galben Pini Detasabili",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
-      "price": 216.7,
-      "price_net": 179.09,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-pa12a-galben-pini-detasabili.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-pa12a-galben-pini-detasabili~8325142.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-pa12a-galben-pini-detasabili~8325142.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Platforma"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
     {
       "id": "HTPA12AA",
       "sku": "HTPA12AA",
@@ -5958,8 +5872,8 @@
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 200,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-290-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/spita-inox-cnspoke-std14c-2-x-290-mm-negru~8327047.jpg",
@@ -6986,6 +6900,93 @@
       "specs": {
         "wheel_size": "27.5"
       }
+    },
+    {
+      "id": "558056",
+      "sku": "558056",
+      "ean": "2801992000003",
+      "name": "Anvelopa KUJO SUZI S 700x23C (23-622 ) 60 TPI",
+      "brand": "KUJO",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
+      "price": 60.5,
+      "price_net": 50.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 21,
+      "weight_kg": 0.6,
+      "url": "https://www.bikestylish.ro/anvelopa-kujo-suzi-s-700x23c-23-622-60-tpi.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-kujo-suzi-s-700x23c-23-622-60-tpi~8327275.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-kujo-suzi-s-700x23c-23-622-60-tpi~8327275.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-kujo-suzi-s-700x23c-23-622-60-tpi~8327278.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "KUJO",
+        "➤ Anvelope pe Sârmă"
+      ],
+      "specs": {
+        "dimensions": "700 x 23"
+      }
+    },
+    {
+      "id": "558052",
+      "sku": "558052",
+      "ean": "2800373000007",
+      "name": "Anvelopa KUJO ONE 0 ONE T 700x45C (47-622) Reflex-Protectie Antipana",
+      "brand": "KUJO",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
+      "price": 80.0,
+      "price_net": 66.12,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 25,
+      "weight_kg": 1.2,
+      "url": "https://www.bikestylish.ro/anvelopa-kujo-one-0-one-t-700x45c-47-622-reflex-protectie-antipana.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-kujo-one-0-one-t-700x45c-47-622-reflex-protectie-antipana~8327281.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-kujo-one-0-one-t-700x45c-47-622-reflex-protectie-antipana~8327281.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kujo-one-0-one-t-700x45c-47-622-reflex-protectie-antipana~8327284.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "KUJO",
+        "➤ Anvelope pe Sârmă"
+      ],
+      "specs": {
+        "dimensions": "700 x 45"
+      }
+    },
+    {
+      "id": "558045",
+      "sku": "558045",
+      "ean": "2800376000004",
+      "name": "Anvelopa KUJO ONE 0 ONE T 700 x 38C(40-622)",
+      "brand": "KUJO",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
+      "price": 50.0,
+      "price_net": 41.32,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 48,
+      "weight_kg": 0.9,
+      "url": "https://www.bikestylish.ro/anvelopa-kujo-one-0-one-t-700-x-38c-40-622.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kujo-one-0-one-t-700-x-38c-40-622~8327287.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kujo-one-0-one-t-700-x-38c-40-622~8327287.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-kujo-one-0-one-t-700-x-38c-40-622~8327290.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "KUJO",
+        "➤ Anvelope pe Sârmă"
+      ],
+      "specs": {
+        "dimensions": "700 x 38"
+      }
     }
   ],
   "categories": [
@@ -7323,7 +7324,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 184,
-      "in_stock_count": 118
+      "in_stock_count": 117
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7364,8 +7365,8 @@
       "id": "bagaje-cadru",
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
-      "product_count": 15,
-      "in_stock_count": 12
+      "product_count": 14,
+      "in_stock_count": 11
     },
     {
       "id": "bagaje-ghidon",
@@ -7778,7 +7779,7 @@
       "name": "➤ Pionioane Filetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "product_count": 41,
-      "in_stock_count": 36
+      "in_stock_count": 37
     },
     {
       "id": "pipe-ghidon",
@@ -7904,7 +7905,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 95,
-      "in_stock_count": 78
+      "in_stock_count": 77
     },
     {
       "id": "set-lumini",
@@ -7946,7 +7947,7 @@
       "name": "➤ Spite Stainless",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 95
+      "in_stock_count": 96
     },
     {
       "id": "spite-stainless-2-3-mm",
@@ -7973,8 +7974,8 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 53,
-      "in_stock_count": 45
+      "product_count": 51,
+      "in_stock_count": 43
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -7988,7 +7989,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 33
+      "in_stock_count": 34
     },
     {
       "id": "transport-biciclete",
@@ -8023,7 +8024,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 325
+      "in_stock_count": 324
     },
     {
       "id": "bike-maintenance-intretinere",
