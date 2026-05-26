@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-25T04:32:57.679450+00:00",
+  "last_updated": "2026-05-26T04:27:30.619040+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4672
+    "original_total": 4680
   },
   "products": [
     {
@@ -1553,7 +1553,7 @@
       "price_net": 48.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 8,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/ghidon-touring-sxt-metal-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-touring-sxt-metal-negru~8325664.jpg",
@@ -1987,7 +1987,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 49,
+      "stock_quantity": 45,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-4-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-4-negru~8325799.jpg",
@@ -2663,8 +2663,8 @@
       "price": 3.3,
       "price_net": 2.73,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/suport-far-sxt-lp-metal-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/suport-far-sxt-lp-metal-negru~8326024.jpg",
@@ -3496,8 +3496,8 @@
       "price": 45.0,
       "price_net": 37.19,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 2,
       "weight_kg": 0.16,
       "url": "https://www.bikestylish.ro/presa-de-lant-m-wave-pin-pusher-paul.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/presa-de-lant-m-wave-pin-pusher-paul~8326519.jpg",
@@ -7261,7 +7261,7 @@
       "name": "➤ Accesorii Lumini",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Accesorii Lumini",
       "product_count": 9,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "accesorii-pedale",
@@ -7316,15 +7316,15 @@
       "id": "anvelope-pliabile",
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
-      "product_count": 82,
+      "product_count": 88,
       "in_stock_count": 41
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "product_count": 184,
-      "in_stock_count": 117
+      "product_count": 185,
+      "in_stock_count": 116
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7463,7 +7463,7 @@
       "id": "camere-de-bicicleta",
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "product_count": 86,
+      "product_count": 87,
       "in_stock_count": 54
     },
     {
@@ -7499,7 +7499,7 @@
       "name": "➤ Casti Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
       "product_count": 18,
-      "in_stock_count": 12
+      "in_stock_count": 10
     },
     {
       "id": "chei-dinamometrice",
@@ -7758,7 +7758,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 110
+      "in_stock_count": 109
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8017,7 +8017,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 173,
-      "in_stock_count": 147
+      "in_stock_count": 148
     },
     {
       "id": "urechi-cadru",
