@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T04:32:11.625604+00:00",
+  "last_updated": "2026-05-28T04:29:22.072518+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -108,8 +108,8 @@
       "price": 132.0,
       "price_net": 109.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/kit-conversie-novatec-10-thru-axle-crmo.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/kit-conversie-novatec-10-thru-axle-crmo~8287714.jpg",
@@ -905,7 +905,7 @@
       "price_net": 70.25,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 15,
       "weight_kg": 0.6,
       "url": "https://www.bikestylish.ro/sa-m-wave-vacu-city-ii-260x210-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/sa-m-wave-vacu-city-ii-260x210-mm~8287798.jpg",
@@ -1095,7 +1095,7 @@
       "price_net": 185.95,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "url": "https://www.bikestylish.ro/roata-fata-sxt-26-559-x-19c-sxt-basic-qr-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/roata-fata-sxt-26-559-x-19c-sxt-basic-qr-36h~8287819.jpg",
       "images": [
@@ -2133,7 +2133,7 @@
       "price_net": 77.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 19,
       "weight_kg": 0.78,
       "url": "https://www.bikestylish.ro/cadru-baza-portbagaj-m-wave-racky-baseplate.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/cadru-baza-portbagaj-m-wave-racky-baseplate~8287924.jpg",
@@ -2188,7 +2188,7 @@
       "price_net": 21.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 77,
+      "stock_quantity": 76,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/suport-bidon-plastic-m-wave-bc-29.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/suport-bidon-plastic-m-wave-bc-29~8287930.jpg",
@@ -2247,7 +2247,7 @@
       "price_net": 570247.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 7,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/cutter-conducte-hidraulice-super-b-tb-hc20.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cutter-conducte-hidraulice-super-b-tb-hc20~8287936.jpg",
@@ -3346,7 +3346,7 @@
       "price_net": 63.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 95,
+      "stock_quantity": 92,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/schimbator-spate-ventura-7-8-9-v-45t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/schimbator-spate-ventura-7-8-9-v-45t~8289058.jpg",
@@ -4854,7 +4854,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 79,
+      "stock_quantity": 78,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/oglinda-bicicleta-sxt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/oglinda-bicicleta-sxt~8289223.jpg",
@@ -7333,7 +7333,7 @@
       "name": "Amenajare Magazin",
       "full_path": "COMPONENTE > Amenajare Magazin",
       "product_count": 21,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "angrenaje-e-bike",
@@ -7683,7 +7683,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7704,7 +7704,7 @@
       "name": "➤ Bagaje Ghidon",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
       "product_count": 9,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "bagaje-spate",
@@ -7732,7 +7732,7 @@
       "name": "➤ Bidoane Ciclism",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
       "product_count": 21,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "bike-care-ingrijire",
@@ -7767,14 +7767,14 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 69
+      "in_stock_count": 68
     },
     {
       "id": "butuci-v-break-dinam",
       "name": "➤ Butuci V-Break - Dinam",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
       "product_count": 49,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "cabluri",
@@ -8068,7 +8068,7 @@
       "name": "➤ Oglinzi",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
       "product_count": 24,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "pedale-click",
@@ -8096,7 +8096,7 @@
       "name": "➤ Pedaliere - Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
       "product_count": 61,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "pinioane-casetate",
@@ -8117,7 +8117,7 @@
       "name": "➤ Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
       "product_count": 45,
-      "in_stock_count": 36
+      "in_stock_count": 35
     },
     {
       "id": "placute-frana-disc",
@@ -8187,7 +8187,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 47,
-      "in_stock_count": 43
+      "in_stock_count": 42
     },
     {
       "id": "rucsaci",
@@ -8348,14 +8348,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 173,
-      "in_stock_count": 149
+      "in_stock_count": 147
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 323
+      "in_stock_count": 322
     },
     {
       "id": "bike-maintenance-intretinere",
