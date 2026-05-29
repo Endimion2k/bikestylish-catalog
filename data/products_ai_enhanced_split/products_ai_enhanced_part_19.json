@@ -1,40 +1,14 @@
 {
-  "last_updated": "2026-05-28T04:29:22.072518+00:00",
-  "total_products": 187,
+  "last_updated": "2026-05-29T04:31:15.209578+00:00",
+  "total_products": 193,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 19,
     "total_parts": 19,
-    "product_range": "4501-4687",
-    "original_total": 4687
+    "product_range": "4501-4693",
+    "original_total": 4693
   },
   "products": [
-    {
-      "id": "361032",
-      "sku": "361032",
-      "ean": "887539052478",
-      "name": "Adaptor Frana Disc SXT ADA DB IS2000 PM 140-160 mm",
-      "brand": "SXT",
-      "category": "➤ Adaptoare Frana",
-      "category_path": "COMPONENTE > Sisteme Franare > ➤ Adaptoare Frana",
-      "price": 35.2,
-      "price_net": 29.09,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 24,
-      "weight_kg": 0.04,
-      "url": "https://www.bikestylish.ro/adaptor-frana-disc-sxt-ada-db-is2000-pm-140-160-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/adaptor-frana-disc-sxt-ada-db-is2000-pm-140-160-mm~12070977.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/adaptor-frana-disc-sxt-ada-db-is2000-pm-140-160-mm~12070977.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/adaptor-frana-disc-sxt-ada-db-is2000-pm-140-160-mm~12070980.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SXT",
-        "➤ Adaptoare Frana"
-      ]
-    },
     {
       "id": "361033",
       "sku": "361033",
@@ -452,8 +426,8 @@
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 9,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/qr-fata-old-100-mm-sxt-albastru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/qr-fata-old-100-mm-sxt-albastru~12071772.jpg",
@@ -542,7 +516,7 @@
       "price_net": 100.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/direct-mounts-samox-pd-dm-gen4-50-34t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/direct-mounts-samox-pd-dm-gen4-50-34t~12072363.jpg",
@@ -830,7 +804,7 @@
       "price_net": 70.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 9,
       "weight_kg": 0.95,
       "url": "https://www.bikestylish.ro/sa-sxt-elast-xxl-city-265-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/sa-sxt-elast-xxl-city-265-mm-negru~12073671.jpg",
@@ -1252,7 +1226,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 1180,
+      "stock_quantity": 1220,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm-oem.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm-oem~12346995.jpg",
@@ -2665,7 +2639,7 @@
       "price_net": 223.14,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 68,
+      "stock_quantity": 63,
       "url": "https://www.bikestylish.ro/casca-downhill-mtb-sxt-54-58-verde-neon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/casca-downhill-mtb-sxt-54-58-verde-neon~13289280.jpg",
       "images": [
@@ -2701,7 +2675,7 @@
       "price_net": 223.14,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 70,
+      "stock_quantity": 67,
       "url": "https://www.bikestylish.ro/casca-downhill-mtb-sxt-54-58-negru-led.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/casca-downhill-mtb-sxt-54-58-negru-led~13289277.jpg",
       "images": [
@@ -2736,8 +2710,8 @@
       "price": 150.0,
       "price_net": 123.97,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/ochelari-100-strata-2-goggle-alb.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ochelari-100-strata-2-goggle-alb~13287903.jpg",
       "images": [
@@ -2788,8 +2762,8 @@
       "price": 150.0,
       "price_net": 123.97,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
+      "availability": "limited",
+      "stock_quantity": 2,
       "url": "https://www.bikestylish.ro/ochelari-100-strata-2-goggle-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ochelari-100-strata-2-goggle-rosu~13287909.jpg",
       "images": [
@@ -3097,7 +3071,7 @@
       "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 39,
+      "stock_quantity": 37,
       "url": "https://www.bikestylish.ro/ghidolina-sxt-tk-negru-raibow.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ghidolina-sxt-tk-negru-raibow~13590996.jpg",
       "images": [
@@ -3251,7 +3225,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 482,
+      "stock_quantity": 481,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-24x-ax-9-16-roz.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-plastic-sxt-24x-ax-9-16-roz~13289265.jpg",
@@ -3912,7 +3886,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/brat-dreapta-samox-13-offset-165-mm-bosch-gen-1-2-4-brose-shape-2.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/brat-dreapta-samox-13-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~13793892.jpg",
@@ -4123,7 +4097,7 @@
       "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 32,
+      "stock_quantity": 26,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/pompa-podea-beto-air-jet-160-psi-11-bar.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pompa-podea-beto-air-jet-160-psi-11-bar~13793952.jpg",
@@ -4235,7 +4209,7 @@
       "price_net": 86.78,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 9,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/direct-mounts-samox-pd-dm-gen4-53-36t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/direct-mounts-samox-pd-dm-gen4-53-36t~13793997.jpg",
@@ -4262,7 +4236,7 @@
       "price_net": 30.58,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/foaie-angrenaj-metal-e-bike-38t-samox-bcd-104.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/foaie-angrenaj-metal-e-bike-38t-samox-bcd-104~13794000.jpg",
@@ -4586,7 +4560,7 @@
       "price_net": 71.9,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 22,
+      "stock_quantity": 17,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/cric-spate-sxt-column-e1-26-29-18mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/cric-spate-sxt-column-e1-26-29-18mm~13794105.jpg",
@@ -4751,7 +4725,7 @@
       "price_net": 123.97,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 17,
+      "stock_quantity": 9,
       "url": "https://www.bikestylish.ro/ochelari-100-strata-2-goggle-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ochelari-100-strata-2-goggle-negru~14126592.jpg",
       "images": [
@@ -4779,10 +4753,11 @@
       "availability": "in_stock",
       "stock_quantity": 30,
       "url": "https://www.bikestylish.ro/roata-fata-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14223600.jpg",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14300796.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14223600.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14300796.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/roata-fata-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14223603.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14223600.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/roata-fata-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14252985.jpg"
       ],
       "tags": [
@@ -4807,10 +4782,11 @@
       "availability": "in_stock",
       "stock_quantity": 30,
       "url": "https://www.bikestylish.ro/roata-fata-26-559x21c-sxt-basic-only-capsata-36h-fd-bile.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14223606.jpg",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/roata-fata-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14300793.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14223606.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/roata-fata-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14300793.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/roata-fata-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14223609.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14223606.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/roata-fata-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14252982.jpg"
       ],
       "tags": [
@@ -4837,11 +4813,12 @@
       "availability": "in_stock",
       "stock_quantity": 30,
       "url": "https://www.bikestylish.ro/roata-spate-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14223612.jpg",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14300790.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14223612.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14300790.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/roata-spate-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14223615.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14252979.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14252979.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-27-5-584x21c-sxt-basic-only-capsata-36h-fd-bile~14223612.jpg"
       ],
       "tags": [
         "27.5 inch",
@@ -4867,11 +4844,12 @@
       "availability": "in_stock",
       "stock_quantity": 30,
       "url": "https://www.bikestylish.ro/roata-spate-26-559x21c-sxt-basic-only-capsata-36h-fd-bile.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14223636.jpg",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14300787.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14223636.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14300787.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14223639.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14252976.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14252976.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-26-559x21c-sxt-basic-only-capsata-36h-fd-bile~14223636.jpg"
       ],
       "tags": [
         "26 inch",
@@ -4897,10 +4875,11 @@
       "availability": "in_stock",
       "stock_quantity": 30,
       "url": "https://www.bikestylish.ro/set-roti-26-36h-sxt-concept-r-26-042.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-26-36h-sxt-concept-r-26-042~14235168.jpg",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-26-36h-sxt-concept-r-26-042~14300778.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-26-36h-sxt-concept-r-26-042~14235168.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-26-36h-sxt-concept-r-26-042~14300778.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/set-roti-26-36h-sxt-concept-r-26-042~14235171.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-26-36h-sxt-concept-r-26-042~14235168.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/set-roti-26-36h-sxt-concept-r-26-042~14235174.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/set-roti-26-36h-sxt-concept-r-26-042~14252970.jpg"
       ],
@@ -4923,10 +4902,11 @@
       "availability": "in_stock",
       "stock_quantity": 30,
       "url": "https://www.bikestylish.ro/set-roti-27-5-36h-sxt-concept-r-26-042.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/set-roti-27-5-36h-sxt-concept-r-26-042~14235177.jpg",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/set-roti-27-5-36h-sxt-concept-r-26-042~14300769.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/set-roti-27-5-36h-sxt-concept-r-26-042~14235177.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/set-roti-27-5-36h-sxt-concept-r-26-042~14300769.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/set-roti-27-5-36h-sxt-concept-r-26-042~14235180.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/set-roti-27-5-36h-sxt-concept-r-26-042~14235177.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/set-roti-27-5-36h-sxt-concept-r-26-042~14235183.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/set-roti-27-5-36h-sxt-concept-r-26-042~14252967.jpg"
       ],
@@ -4949,10 +4929,11 @@
       "availability": "in_stock",
       "stock_quantity": 30,
       "url": "https://www.bikestylish.ro/set-roti-29-36h-sxt-concept-r-26-042.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/set-roti-29-36h-sxt-concept-r-26-042~14235186.jpg",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/set-roti-29-36h-sxt-concept-r-26-042~14300760.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/set-roti-29-36h-sxt-concept-r-26-042~14235186.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/set-roti-29-36h-sxt-concept-r-26-042~14300760.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/set-roti-29-36h-sxt-concept-r-26-042~14235189.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/set-roti-29-36h-sxt-concept-r-26-042~14235186.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/set-roti-29-36h-sxt-concept-r-26-042~14235192.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/set-roti-29-36h-sxt-concept-r-26-042~14252964.jpg"
       ],
@@ -5244,7 +5225,8 @@
       "price_net": 23.97,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 23,
+      "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/camera-tannus-26-x1-10-1-50-av-48-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/camera-tannus-26-x1-10-1-50-av-48-mm~14288529.jpg",
       "images": [
@@ -5416,6 +5398,211 @@
       "specs": {
         "color": "Negru",
         "dimensions": "559 x 21"
+      }
+    },
+    {
+      "id": "11A00601",
+      "sku": "11A00601",
+      "name": "Anvelopa VITTORIA Rubino Tube-Type 700 x28C(28-622) Negru-Maro Pliabil",
+      "brand": "VITTORIA",
+      "category": "➤ Anvelope Pliabile",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
+      "price": 240.0,
+      "price_net": 198.35,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-rubino-tube-type-700-x28c-28-622-negru-maro-pliabil.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-rubino-tube-type-700-x28c-28-622-negru-maro-pliabil~14300277.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-rubino-tube-type-700-x28c-28-622-negru-maro-pliabil~14300277.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-rubino-tube-type-700-x28c-28-622-negru-maro-pliabil~14296350.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "VITTORIA",
+        "➤ Anvelope Pliabile"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "700 x 28"
+      }
+    },
+    {
+      "id": "11A00602",
+      "sku": "11A00602",
+      "name": "Anvelopa VITTORIA Rubino Tube-Type 700 x30C(30-622) Negru-Negru Pliabil",
+      "brand": "VITTORIA",
+      "category": "➤ Anvelope Pliabile",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
+      "price": 240.0,
+      "price_net": 198.35,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-rubino-tube-type-700-x30c-30-622-negru-negru-pliabil.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-rubino-tube-type-700-x30c-30-622-negru-negru-pliabil~14300280.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-rubino-tube-type-700-x30c-30-622-negru-negru-pliabil~14300280.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-rubino-tube-type-700-x30c-30-622-negru-negru-pliabil~14300283.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "VITTORIA",
+        "➤ Anvelope Pliabile"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "700 x 30"
+      }
+    },
+    {
+      "id": "1TE00097",
+      "sku": "1TE00097",
+      "name": "Camera Standard VITTORIA 27.5x2.50/3.0 AV - 35 mm Grosime 1,5 mm OEM",
+      "brand": "VITTORIA",
+      "category": "➤ Camere de Bicicleta",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
+      "price": 65.0,
+      "price_net": 53.72,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/camera-standard-vittoria-27-5x2-50-3-0-av-35-mm-grosime-1-5-mm-oem.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-standard-vittoria-27-5x2-50-3-0-av-35-mm-grosime-1-5-mm-oem~14300415.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/camera-standard-vittoria-27-5x2-50-3-0-av-35-mm-grosime-1-5-mm-oem~14300415.jpg"
+      ],
+      "tags": [
+        "27.5 inch",
+        "COMPONENTE",
+        "Schrader",
+        "VITTORIA",
+        "➤ Camere de Bicicleta"
+      ],
+      "specs": {
+        "wheel_size": "27.5",
+        "valve_type": "Schrader (AV)"
+      }
+    },
+    {
+      "id": "1TE00018",
+      "sku": "1TE00018",
+      "name": "Camera Standard VITTORIA 20x1.95/2.125 FV Presta 48mm (OEM)",
+      "brand": "VITTORIA",
+      "category": "➤ Camere de Bicicleta",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
+      "price": 18.0,
+      "price_net": 14.88,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/camera-standard-vittoria-20x1-95-2-125-fv-presta-48mm-oem.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/camera-standard-vittoria-20x1-95-2-125-fv-presta-48mm-oem~14300478.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/camera-standard-vittoria-20x1-95-2-125-fv-presta-48mm-oem~14300478.jpg"
+      ],
+      "tags": [
+        "20 inch",
+        "COMPONENTE",
+        "Presta",
+        "VITTORIA",
+        "➤ Camere de Bicicleta"
+      ],
+      "specs": {
+        "wheel_size": "20",
+        "dimensions": "20 x 1.95",
+        "valve_type": "Presta (FV)"
+      }
+    },
+    {
+      "id": "11A00558",
+      "sku": "11A00558",
+      "name": "Anvelopa VITTORIA Barzo 29x2.10(52-622) TLR Negru UCI",
+      "brand": "VITTORIA",
+      "category": "➤ Anvelope Pliabile",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
+      "price": 160.0,
+      "price_net": 132.23,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-barzo-29x2-10-52-622-tlr-negru-uci.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-barzo-29x2-10-52-622-tlr-negru-uci~14300643.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-barzo-29x2-10-52-622-tlr-negru-uci~14300643.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-vittoria-barzo-29x2-10-52-622-tlr-negru-uci~14300646.jpg"
+      ],
+      "tags": [
+        "29 inch",
+        "COMPONENTE",
+        "VITTORIA",
+        "➤ Anvelope Pliabile"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "color": "Negru",
+        "dimensions": "29 x 2.10"
+      }
+    },
+    {
+      "id": "11E00171",
+      "sku": "11E00171",
+      "name": "Anvelopa VITTORIA e-RANDONNEUR 700 x 32C(34-622) Rigid Reflectorizant Negru",
+      "brand": "VITTORIA",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
+      "secondary_categories": [
+        "e- MOBILITY > Componente E-Bike"
+      ],
+      "price": 97.0,
+      "price_net": 80.17,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-e-randonneur-700-x-32c-34-622-rigid-reflectorizant-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-e-randonneur-700-x-32c-34-622-rigid-reflectorizant~14300670.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-e-randonneur-700-x-32c-34-622-rigid-reflectorizant~14300670.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-e-randonneur-700-x-32c-34-622-rigid-reflectorizant~14300673.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "VITTORIA",
+        "➤ Anvelope pe Sârmă"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "700 x 32"
+      }
+    },
+    {
+      "id": "1113SR2332111BK",
+      "sku": "1113SR2332111BK",
+      "name": "Anvelopa VITTORIA Street Runner 26x1.25 Rigid Negru",
+      "brand": "VITTORIA",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
+      "price": 97.0,
+      "price_net": 80.17,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-street-runner-26x1-25-rigid-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-vittoria-street-runner-26x1-25-rigid-negru~14300682.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-vittoria-street-runner-26x1-25-rigid-negru~14300682.jpg"
+      ],
+      "tags": [
+        "26 inch",
+        "COMPONENTE",
+        "VITTORIA",
+        "➤ Anvelope pe Sârmă"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "color": "Negru",
+        "dimensions": "26 x 1.25"
       }
     }
   ],
@@ -5746,15 +5933,15 @@
       "id": "anvelope-pliabile",
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
-      "product_count": 88,
+      "product_count": 91,
       "in_stock_count": 41
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "product_count": 185,
-      "in_stock_count": 114
+      "product_count": 187,
+      "in_stock_count": 116
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -5782,7 +5969,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "axe-suruburi-piulite",
@@ -5796,7 +5983,7 @@
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
       "product_count": 14,
-      "in_stock_count": 11
+      "in_stock_count": 12
     },
     {
       "id": "bagaje-ghidon",
@@ -5893,8 +6080,8 @@
       "id": "camere-de-bicicleta",
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "product_count": 88,
-      "in_stock_count": 55
+      "product_count": 90,
+      "in_stock_count": 54
     },
     {
       "id": "capete-cablu-manta",
@@ -6013,7 +6200,7 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 31,
-      "in_stock_count": 24
+      "in_stock_count": 22
     },
     {
       "id": "frane-disc",
@@ -6160,7 +6347,7 @@
       "name": "➤ Ochelari Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Ochelari Ciclism",
       "product_count": 8,
-      "in_stock_count": 3
+      "in_stock_count": 2
     },
     {
       "id": "oglinzi",
@@ -6174,7 +6361,7 @@
       "name": "➤ Pedale Click",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
       "product_count": 27,
-      "in_stock_count": 19
+      "in_stock_count": 20
     },
     {
       "id": "pedale-duble",
@@ -6286,7 +6473,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 47,
-      "in_stock_count": 42
+      "in_stock_count": 43
     },
     {
       "id": "rucsaci",
@@ -6468,7 +6655,7 @@
       "name": "➤Depozitare Biciclete",
       "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
       "product_count": 21,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "suspensii-spate",

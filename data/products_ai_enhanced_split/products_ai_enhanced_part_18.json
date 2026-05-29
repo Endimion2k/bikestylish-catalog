@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-28T04:29:22.072518+00:00",
+  "last_updated": "2026-05-29T04:31:15.209578+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 18,
     "total_parts": 19,
     "product_range": "4251-4500",
-    "original_total": 4687
+    "original_total": 4693
   },
   "products": [
     {
@@ -3721,7 +3721,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 8,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/sa-selle-smp-tour-1065-kim-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/sa-selle-smp-tour-1065-kim-negru~11426508.jpg",
@@ -3833,24 +3833,6 @@
       ],
       "specs": {
         "color": "Negru"
-      }
-    },
-    {
-      "id": "200400",
-      "sku": "200400",
-      "name": "PROTECTIE ANTIPANA TANNUS ARMOUR 20x4.0 - 4.8 Fat Bike",
-      "price": 0.0,
-      "price_net": 0.0,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "url": "https://www.bikestylish.ro/protectie-antipana-tannus-armour-20x4-0-4-8-fat-bike.html",
-      "image": "None",
-      "images": [
-        "None"
-      ],
-      "specs": {
-        "dimensions": "20 x 4.0 - 4.8"
       }
     },
     {
@@ -5608,7 +5590,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 387,
+      "stock_quantity": 385,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-181x-negru-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-plastic-sxt-181x-negru-9-16~11326230.jpg",
@@ -6740,6 +6722,32 @@
       "specs": {
         "color": "Negru"
       }
+    },
+    {
+      "id": "361032",
+      "sku": "361032",
+      "ean": "887539052478",
+      "name": "Adaptor Frana Disc SXT ADA DB IS2000 PM 140-160 mm",
+      "brand": "SXT",
+      "category": "➤ Adaptoare Frana",
+      "category_path": "COMPONENTE > Sisteme Franare > ➤ Adaptoare Frana",
+      "price": 35.2,
+      "price_net": 29.09,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 24,
+      "weight_kg": 0.04,
+      "url": "https://www.bikestylish.ro/adaptor-frana-disc-sxt-ada-db-is2000-pm-140-160-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/adaptor-frana-disc-sxt-ada-db-is2000-pm-140-160-mm~12070977.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/adaptor-frana-disc-sxt-ada-db-is2000-pm-140-160-mm~12070977.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/adaptor-frana-disc-sxt-ada-db-is2000-pm-140-160-mm~12070980.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Adaptoare Frana"
+      ]
     }
   ],
   "categories": [
@@ -7069,15 +7077,15 @@
       "id": "anvelope-pliabile",
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
-      "product_count": 88,
+      "product_count": 91,
       "in_stock_count": 41
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "product_count": 185,
-      "in_stock_count": 114
+      "product_count": 187,
+      "in_stock_count": 116
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7105,7 +7113,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7119,7 +7127,7 @@
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
       "product_count": 14,
-      "in_stock_count": 11
+      "in_stock_count": 12
     },
     {
       "id": "bagaje-ghidon",
@@ -7216,8 +7224,8 @@
       "id": "camere-de-bicicleta",
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "product_count": 88,
-      "in_stock_count": 55
+      "product_count": 90,
+      "in_stock_count": 54
     },
     {
       "id": "capete-cablu-manta",
@@ -7336,7 +7344,7 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 31,
-      "in_stock_count": 24
+      "in_stock_count": 22
     },
     {
       "id": "frane-disc",
@@ -7483,7 +7491,7 @@
       "name": "➤ Ochelari Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Ochelari Ciclism",
       "product_count": 8,
-      "in_stock_count": 3
+      "in_stock_count": 2
     },
     {
       "id": "oglinzi",
@@ -7497,7 +7505,7 @@
       "name": "➤ Pedale Click",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
       "product_count": 27,
-      "in_stock_count": 19
+      "in_stock_count": 20
     },
     {
       "id": "pedale-duble",
@@ -7609,7 +7617,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 47,
-      "in_stock_count": 42
+      "in_stock_count": 43
     },
     {
       "id": "rucsaci",
@@ -7791,7 +7799,7 @@
       "name": "➤Depozitare Biciclete",
       "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
       "product_count": 21,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "suspensii-spate",

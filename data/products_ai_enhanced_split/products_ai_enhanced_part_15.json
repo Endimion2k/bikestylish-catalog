@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-28T04:29:22.072518+00:00",
+  "last_updated": "2026-05-29T04:31:15.209578+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 15,
     "total_parts": 19,
     "product_range": "3501-3750",
-    "original_total": 4687
+    "original_total": 4693
   },
   "products": [
     {
@@ -207,8 +207,8 @@
       "brand": "VITTORIA",
       "category": "➤ Anvelope pe Sârmă",
       "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "price": 143.0,
-      "price_net": 118.18,
+      "price": 99.0,
+      "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 8,
@@ -3711,7 +3711,7 @@
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 24,
-      "weight_kg": 0.33,
+      "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/protectie-antipana-tannus-armour-27-5-x-2-6-3.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/protectie-antipana-tannus-armour-27-5-x-2-6-3~10168077.jpg",
       "images": [
@@ -3928,7 +3928,7 @@
       "price_net": 10.74,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 48,
+      "stock_quantity": 43,
       "weight_kg": 0.13,
       "url": "https://www.bikestylish.ro/capac-si-floare-cuvete-sxt-fork-fix-1-1-8-negru-anodizat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/capac-si-floare-cuvete-sxt-fork-fix-1-1-8-negru-anodizat~8338234.jpg",
@@ -3984,8 +3984,8 @@
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/camera-kujo-26-x-1-75-2-125-av-33-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kujo-26-x-1-75-2-125-av-33-mm~8338252.jpg",
@@ -4332,7 +4332,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 206,
+      "stock_quantity": 204,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-sxt-gh-011-sr-2.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-sxt-gh-011-sr-2~8338357.jpg",
@@ -4632,7 +4632,7 @@
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 14,
-      "weight_kg": 0.37,
+      "weight_kg": 0.48,
       "url": "https://www.bikestylish.ro/protectie-antipana-tannus-armour-20-x-4-0-4-8-fat-bike.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/protectie-antipana-tannus-armour-20-x-4-0-4-8-fat-bike~8338447.jpg",
       "images": [
@@ -8127,15 +8127,15 @@
       "id": "anvelope-pliabile",
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
-      "product_count": 88,
+      "product_count": 91,
       "in_stock_count": 41
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "product_count": 185,
-      "in_stock_count": 114
+      "product_count": 187,
+      "in_stock_count": 116
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -8163,7 +8163,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "axe-suruburi-piulite",
@@ -8177,7 +8177,7 @@
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
       "product_count": 14,
-      "in_stock_count": 11
+      "in_stock_count": 12
     },
     {
       "id": "bagaje-ghidon",
@@ -8274,8 +8274,8 @@
       "id": "camere-de-bicicleta",
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "product_count": 88,
-      "in_stock_count": 55
+      "product_count": 90,
+      "in_stock_count": 54
     },
     {
       "id": "capete-cablu-manta",
@@ -8394,7 +8394,7 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 31,
-      "in_stock_count": 24
+      "in_stock_count": 22
     },
     {
       "id": "frane-disc",
@@ -8541,7 +8541,7 @@
       "name": "➤ Ochelari Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Ochelari Ciclism",
       "product_count": 8,
-      "in_stock_count": 3
+      "in_stock_count": 2
     },
     {
       "id": "oglinzi",
@@ -8555,7 +8555,7 @@
       "name": "➤ Pedale Click",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
       "product_count": 27,
-      "in_stock_count": 19
+      "in_stock_count": 20
     },
     {
       "id": "pedale-duble",
@@ -8667,7 +8667,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 47,
-      "in_stock_count": 42
+      "in_stock_count": 43
     },
     {
       "id": "rucsaci",
@@ -8849,7 +8849,7 @@
       "name": "➤Depozitare Biciclete",
       "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
       "product_count": 21,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "suspensii-spate",
