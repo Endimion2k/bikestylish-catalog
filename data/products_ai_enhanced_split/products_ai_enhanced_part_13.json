@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T04:32:27.415684+00:00",
+  "last_updated": "2026-06-03T04:32:56.324133+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -184,8 +184,8 @@
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d763-fuji.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d763-fuji~8332399.jpg",
@@ -3367,8 +3367,8 @@
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d879-orbea.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d879-orbea~8333539.jpg",
@@ -7167,7 +7167,7 @@
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "product_count": 17,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "accesorii-aparatori-noroi",
@@ -7244,7 +7244,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 187,
-      "in_stock_count": 115
+      "in_stock_count": 114
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7384,7 +7384,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 90,
-      "in_stock_count": 54
+      "in_stock_count": 53
     },
     {
       "id": "capete-cablu-manta",
@@ -7580,7 +7580,7 @@
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "lumini-spate",
@@ -7615,7 +7615,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 85
+      "in_stock_count": 84
     },
     {
       "id": "mantale",
@@ -7713,7 +7713,7 @@
       "name": "➤ Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
       "product_count": 26,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pompe-furca-tubeless",
@@ -7832,7 +7832,7 @@
       "name": "➤ Set Lumini",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Set Lumini",
       "product_count": 24,
-      "in_stock_count": 22
+      "in_stock_count": 20
     },
     {
       "id": "seturi-aparatori-noroi",
@@ -7937,14 +7937,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 173,
-      "in_stock_count": 146
+      "in_stock_count": 143
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 322
+      "in_stock_count": 321
     },
     {
       "id": "bike-maintenance-intretinere",
