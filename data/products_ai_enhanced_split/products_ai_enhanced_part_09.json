@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T04:32:56.324133+00:00",
+  "last_updated": "2026-06-04T04:32:44.520928+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -474,7 +474,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 14,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/monobloc-pedalier-m-wave-carousel-bb-bsa-sq-110-5-20-5-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/monobloc-pedalier-m-wave-carousel-bb-bsa-sq-110-5-20-5-mm~8325334.jpg",
@@ -634,7 +634,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 14,
+      "stock_quantity": 10,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/disc-frana-promax-140-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/disc-frana-promax-140-mm~8325394.jpg",
@@ -659,8 +659,8 @@
       "price": 66.0,
       "price_net": 54.55,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/disc-frana-promax-160-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/disc-frana-promax-160-mm~8325406.jpg",
@@ -1987,7 +1987,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 45,
+      "stock_quantity": 39,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-4-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-4-negru~8325799.jpg",
@@ -2759,7 +2759,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 57,
+      "stock_quantity": 52,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/pompa-mini-beto-360-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pompa-mini-beto-360-t~8326048.jpg",
@@ -2976,7 +2976,7 @@
       "price_net": 44.54,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 8,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/set-extensie-valve-m-wave-aluminiu-50-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/set-extensie-valve-m-wave-aluminiu-50-mm-negru~8326150.jpg",
@@ -3299,7 +3299,7 @@
       "price_net": 71.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 9,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/set-pini-schimbabili-presa-de-lant-super-b-tb-1103-10-buc.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-pini-schimbabili-presa-de-lant-super-b-tb-1103-10-buc~8326438.jpg",
@@ -7317,14 +7317,14 @@
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
       "product_count": 91,
-      "in_stock_count": 41
+      "in_stock_count": 53
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 187,
-      "in_stock_count": 114
+      "in_stock_count": 120
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7464,7 +7464,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 90,
-      "in_stock_count": 53
+      "in_stock_count": 60
     },
     {
       "id": "capete-cablu-manta",
@@ -7597,7 +7597,7 @@
       "name": "➤ Frane V - Break",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
       "product_count": 13,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "furci",
@@ -7653,7 +7653,7 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 57
+      "in_stock_count": 56
     },
     {
       "id": "lumini-fata",
@@ -7716,7 +7716,7 @@
       "name": "➤ Monobloace - B.B.",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
       "product_count": 48,
-      "in_stock_count": 43
+      "in_stock_count": 42
     },
     {
       "id": "nipluri-accesorii",
@@ -7765,7 +7765,7 @@
       "name": "➤ Pedaliere - Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
       "product_count": 61,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "pinioane-casetate",
@@ -7821,14 +7821,14 @@
       "name": "➤ Portbagaje Spate",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "product_count": 15,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "protectii-antipana",
       "name": "➤ Protectii Antipana",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
       "product_count": 45,
-      "in_stock_count": 31
+      "in_stock_count": 32
     },
     {
       "id": "protectii-lant-cadru",
@@ -7912,7 +7912,7 @@
       "name": "➤ Set Lumini",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Set Lumini",
       "product_count": 24,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "seturi-aparatori-noroi",
@@ -7940,7 +7940,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 44
+      "in_stock_count": 43
     },
     {
       "id": "spite-stainless",
@@ -8017,7 +8017,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 173,
-      "in_stock_count": 143
+      "in_stock_count": 142
     },
     {
       "id": "urechi-cadru",
