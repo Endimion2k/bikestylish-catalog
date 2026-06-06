@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T04:31:47.518093+00:00",
+  "last_updated": "2026-06-06T04:24:40.491448+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -80,8 +80,8 @@
       "price": 108.9,
       "price_net": 90.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/kit-conversie-novatec-x12-ta-crmo-thru-axle-old-135-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/kit-conversie-novatec-x12-ta-crmo-thru-axle-old-135-mm~8287711.jpg",
       "images": [
@@ -2963,8 +2963,8 @@
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 1,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/adaptor-ghidon-aluminiu-m-wave-31-8-25-4-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/adaptor-ghidon-aluminiu-m-wave-31-8-25-4-mm~8289016.jpg",
@@ -7683,7 +7683,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 36
+      "in_stock_count": 35
     },
     {
       "id": "axe-suruburi-piulite",
