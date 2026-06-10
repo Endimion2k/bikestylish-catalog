@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T04:27:01.436275+00:00",
+  "last_updated": "2026-06-10T04:32:13.712730+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -659,8 +659,8 @@
       "price": 66.0,
       "price_net": 54.55,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/disc-frana-promax-160-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/disc-frana-promax-160-mm~8325406.jpg",
@@ -1987,7 +1987,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 39,
+      "stock_quantity": 37,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-4-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-4-negru~8325799.jpg",
@@ -2126,7 +2126,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 29,
+      "stock_quantity": 25,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/sonerie-metal-m-wave-bell-3d-i-love-my-bike.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/sonerie-metal-m-wave-bell-3d-i-love-my-bike~8325847.jpg",
@@ -2151,8 +2151,8 @@
       "price": 53.9,
       "price_net": 44.55,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 4,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/sonerie-electrica-m-wave.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sonerie-electrica-m-wave~8325874.jpg",
@@ -2211,7 +2211,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 54,
+      "stock_quantity": 53,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/cric-aluminiu-sxt-strong-r-26-29.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/cric-aluminiu-sxt-strong-r-26-29~8325889.jpg",
@@ -2759,7 +2759,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 52,
+      "stock_quantity": 50,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/pompa-mini-beto-360-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pompa-mini-beto-360-t~8326048.jpg",
@@ -2948,8 +2948,8 @@
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 18,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/set-banda-janta-cu-adeziv-m-wave-rt-hp-glue-16-12-29-20-203-622-16-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/set-banda-janta-cu-adeziv-m-wave-rt-hp-glue-16-12-29-20-203-622-16-mm~8326147.jpg",
@@ -7170,7 +7170,7 @@
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
       "product_count": 14,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -7303,7 +7303,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 18,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7324,7 +7324,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 187,
-      "in_stock_count": 119
+      "in_stock_count": 116
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7373,7 +7373,7 @@
       "name": "➤ Bagaje Ghidon",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
       "product_count": 9,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "bagaje-spate",
@@ -7387,7 +7387,7 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 43,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "bar-tape-accesorii",
@@ -7562,7 +7562,7 @@
       "name": "➤ Discuri - Rotoare",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
       "product_count": 17,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "echipamente-service-biciclete",
@@ -7604,7 +7604,7 @@
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 25,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "ghidoane",
@@ -7646,7 +7646,7 @@
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 19,
-      "in_stock_count": 15
+      "in_stock_count": 17
     },
     {
       "id": "lanturi",
@@ -7695,7 +7695,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 83
+      "in_stock_count": 82
     },
     {
       "id": "mantale",
@@ -7730,7 +7730,7 @@
       "name": "➤ Ochelari Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Ochelari Ciclism",
       "product_count": 8,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "oglinzi",
@@ -7940,7 +7940,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 43
+      "in_stock_count": 42
     },
     {
       "id": "spite-stainless",
@@ -8024,7 +8024,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 320
+      "in_stock_count": 319
     },
     {
       "id": "bike-maintenance-intretinere",
