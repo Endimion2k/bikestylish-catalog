@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T04:32:13.712730+00:00",
+  "last_updated": "2026-06-11T04:33:10.448369+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -4396,8 +4396,8 @@
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-aptor-24-x-1-95-50-507.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kenda-aptor-24-x-1-95-50-507~8324077.jpg",
       "images": [
@@ -4706,7 +4706,7 @@
       "price_net": 136.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 36,
+      "stock_quantity": 32,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-slant-six-20-x-2-60-k-1080.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-kenda-slant-six-20-x-2-60-k-1080~8324170.jpg",
@@ -4896,7 +4896,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/camera-kenda-20-x-2-125-2-35-55-58-406-av-35-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/camera-kenda-20-x-2-125-2-35-55-58-406-av-35-mm~8324221.jpg",
@@ -5144,7 +5144,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 145,
+      "stock_quantity": 142,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -5174,7 +5174,7 @@
       "price_net": 30.58,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 1139,
+      "stock_quantity": 1134,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/camera-kenda-14-x-2-50-av-valva-45.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kenda-14-x-2-50-av-valva-45~8324272.jpg",
@@ -5206,7 +5206,7 @@
       "price_net": 200.0,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "weight_kg": 4.0,
       "url": "https://www.bikestylish.ro/scaun-bicicleta-spate-pentru-copii-prindere-pe-cadru-light-n.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/scaun-bicicleta-spate-pentru-copii-prindere-pe-cadru-light-n~8324311.jpg",
@@ -5804,7 +5804,7 @@
       "price_net": 33.06,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 53,
+      "stock_quantity": 50,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/sa-ventura-racing.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/sa-ventura-racing~8324740.jpg",
@@ -7270,7 +7270,7 @@
       "name": "Unelte Service",
       "full_path": "COMPONENTE > Unelte Service",
       "product_count": 5,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "urechi-protectii-cadre",
@@ -7375,7 +7375,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 187,
-      "in_stock_count": 116
+      "in_stock_count": 115
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7634,7 +7634,7 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 31,
-      "in_stock_count": 22
+      "in_stock_count": 21
     },
     {
       "id": "frane-disc",
@@ -7704,7 +7704,7 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 55
+      "in_stock_count": 54
     },
     {
       "id": "lumini-fata",
@@ -7781,7 +7781,7 @@
       "name": "➤ Ochelari Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Ochelari Ciclism",
       "product_count": 8,
-      "in_stock_count": 1
+      "in_stock_count": 0
     },
     {
       "id": "oglinzi",
@@ -8075,7 +8075,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 319
+      "in_stock_count": 318
     },
     {
       "id": "bike-maintenance-intretinere",
