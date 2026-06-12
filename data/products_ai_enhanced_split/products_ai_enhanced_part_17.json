@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T04:33:10.448369+00:00",
+  "last_updated": "2026-06-12T04:32:22.251242+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -701,7 +701,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 78,
+      "stock_quantity": 72,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-24x1-95-2-125-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/camera-standard-vittoria-24x1-95-2-125-av-schrader-48mm~8341579.jpg",
       "images": [
@@ -4920,8 +4920,8 @@
       "price": 13.2,
       "price_net": 10.91,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/kit-reparatii-super-b-tb-1118-autoadeziv.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/kit-reparatii-super-b-tb-1118-autoadeziv~8342842.jpg",
@@ -5644,7 +5644,7 @@
       "price_net": 180.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 19,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/janta-aluminiu-sxt-fatbike-20-36h-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/janta-aluminiu-sxt-fatbike-20-36h-negru~8343022.jpg",
@@ -5675,7 +5675,7 @@
       "price_net": 57.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 172,
+      "stock_quantity": 169,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/sa-sxt-v2150-275-x-150-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/sa-sxt-v2150-275-x-150-mm~8343028.jpg",
@@ -5706,7 +5706,7 @@
       "price_net": 72.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 166,
+      "stock_quantity": 165,
       "weight_kg": 0.49,
       "url": "https://www.bikestylish.ro/sa-sxt-v-3663-270-x-150-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/sa-sxt-v-3663-270-x-150-mm~8343040.jpg",
@@ -5738,7 +5738,7 @@
       "price_net": 65.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 79,
+      "stock_quantity": 76,
       "weight_kg": 0.28,
       "url": "https://www.bikestylish.ro/sa-sxt-v3111-270-x-170mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/sa-sxt-v3111-270-x-170mm~8343061.jpg",
@@ -5770,7 +5770,7 @@
       "price_net": 72.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 140,
+      "stock_quantity": 138,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/sa-sxt-v3661-270-x-150-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/sa-sxt-v3661-270-x-150-mm~8343079.jpg",
@@ -6831,7 +6831,7 @@
       "price_net": 38.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 79,
+      "stock_quantity": 77,
       "url": "https://www.bikestylish.ro/manete-frana-sxt-aps-3-4-aluminiu-silver-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/manete-frana-sxt-aps-3-4-aluminiu-silver-negru~8343655.jpg",
       "images": [
@@ -8039,7 +8039,7 @@
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 38,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "bidoane-ciclism",
@@ -8074,7 +8074,7 @@
       "name": "➤ Brate Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
       "product_count": 53,
-      "in_stock_count": 28
+      "in_stock_count": 29
     },
     {
       "id": "butuci-frana-disc",
@@ -8284,7 +8284,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 48,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8550,7 +8550,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 95,
-      "in_stock_count": 75
+      "in_stock_count": 74
     },
     {
       "id": "set-lumini",
@@ -8662,14 +8662,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 173,
-      "in_stock_count": 142
+      "in_stock_count": 141
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 318
+      "in_stock_count": 319
     },
     {
       "id": "bike-maintenance-intretinere",
