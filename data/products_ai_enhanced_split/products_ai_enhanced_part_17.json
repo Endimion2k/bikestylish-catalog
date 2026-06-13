@@ -1,43 +1,14 @@
 {
-  "last_updated": "2026-06-12T04:32:22.251242+00:00",
+  "last_updated": "2026-06-13T04:31:55.677756+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 17,
     "total_parts": 19,
     "product_range": "4001-4250",
-    "original_total": 4693
+    "original_total": 4691
   },
   "products": [
-    {
-      "id": "355613",
-      "sku": "355613",
-      "ean": "887539046118",
-      "name": "Brat Dreapta SAMOX 13 Offset- 170 mm Bosch Gen 1+2+4+5 / Brose SHAPE 1",
-      "brand": "SAMOX",
-      "category": "➤ Brate Angrenaje",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
-      "secondary_categories": [
-        "e- MOBILITY > Angrenaje E-Bike"
-      ],
-      "price": 85.8,
-      "price_net": 70.91,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/brat-dreapta-samox-13-offset-170-mm-bosch-gen-1-2-4-5-brose-shape-1.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/brat-dreapta-samox-13-offset-170-mm-bosch-gen-1-2-4-5-brose-shape-1~8341450.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/brat-dreapta-samox-13-offset-170-mm-bosch-gen-1-2-4-5-brose-shape-1~8341450.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/brat-dreapta-samox-13-offset-170-mm-bosch-gen-1-2-4-5-brose-shape-1~8341453.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/brat-dreapta-samox-13-offset-170-mm-bosch-gen-1-2-4-5-brose-shape-1~8341456.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SAMOX",
-        "➤ Brate Angrenaje"
-      ]
-    },
     {
       "id": "356112",
       "sku": "356112",
@@ -4541,7 +4512,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 168,
+      "stock_quantity": 163,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/pipa-sxt-31-8-1-1-8-38-mm-7-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-sxt-31-8-1-1-8-38-mm-7-negru~8342773.jpg",
@@ -4602,7 +4573,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 33,
+      "stock_quantity": 31,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-grey.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-sxt-n-13-nylon-fiber-grey~8342785.jpg",
@@ -4633,7 +4604,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 36,
+      "stock_quantity": 33,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-purple.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-sxt-n-13-nylon-fiber-purple~8342788.jpg",
@@ -4666,7 +4637,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 51,
+      "stock_quantity": 49,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-cyan.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-sxt-n-13-nylon-fiber-cyan~8342797.jpg",
@@ -7632,6 +7603,33 @@
           "E-Bike"
         ]
       }
+    },
+    {
+      "id": "D001737",
+      "sku": "D001737",
+      "ean": "8581500017375",
+      "name": "Manusi Ciclism EXTEND SPIREA Purple-Negru S",
+      "brand": "VENTURA",
+      "category": "Manusi Ciclism",
+      "category_path": "ECHIPAMENTE > Manusi Ciclism",
+      "price": 51.7,
+      "price_net": 42.73,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 6,
+      "url": "https://www.bikestylish.ro/manusi-ciclism-extend-spirea-purple-negru-s.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/manusi-ciclism-extend-spirea-purple-negru-s~8343832.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/manusi-ciclism-extend-spirea-purple-negru-s~8343832.jpg"
+      ],
+      "tags": [
+        "ECHIPAMENTE",
+        "Manusi Ciclism",
+        "VENTURA"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -7815,7 +7813,7 @@
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
       "product_count": 14,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -8081,7 +8079,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 68
+      "in_stock_count": 67
     },
     {
       "id": "butuci-v-break-dinam",
@@ -8619,8 +8617,8 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 51,
-      "in_stock_count": 43
+      "product_count": 49,
+      "in_stock_count": 41
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -8669,7 +8667,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 319
+      "in_stock_count": 318
     },
     {
       "id": "bike-maintenance-intretinere",

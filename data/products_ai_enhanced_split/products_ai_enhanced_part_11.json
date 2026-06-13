@@ -1,40 +1,14 @@
 {
-  "last_updated": "2026-06-12T04:32:22.251242+00:00",
+  "last_updated": "2026-06-13T04:31:55.677756+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
     "total_parts": 19,
     "product_range": "2501-2750",
-    "original_total": 4693
+    "original_total": 4691
   },
   "products": [
-    {
-      "id": "D220",
-      "sku": "D220",
-      "ean": "7290107112093",
-      "name": "Ureche Cadru PILO D220 CUBE, SPECIALIZED, STEVENS, MacMahone, Maxx",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 198.0,
-      "price_net": 163.64,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d220-cube-specialized-stevens-macmahone-maxx.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d220-cube-specialized-stevens-macmahone-maxx~8330113.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d220-cube-specialized-stevens-macmahone-maxx~8330113.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d220-cube-specialized-stevens-macmahone-maxx~8330116.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "1875",
       "sku": "1875",
@@ -6157,8 +6131,8 @@
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d601-yt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d601-yt~8331142.jpg",
       "images": [
@@ -6500,6 +6474,31 @@
         "PILO",
         "➤ Urechi Cadru"
       ]
+    },
+    {
+      "id": "D487",
+      "sku": "D487",
+      "ean": "7290107114981",
+      "name": "Ureche Cadru PILO D487 Open",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 247.5,
+      "price_net": 204.55,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d487-open.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d487-open~8331205.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d487-open~8331205.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6683,7 +6682,7 @@
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
       "product_count": 14,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -6949,7 +6948,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 68
+      "in_stock_count": 67
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7487,8 +7486,8 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 51,
-      "in_stock_count": 43
+      "product_count": 49,
+      "in_stock_count": 41
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -7537,7 +7536,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 319
+      "in_stock_count": 318
     },
     {
       "id": "bike-maintenance-intretinere",

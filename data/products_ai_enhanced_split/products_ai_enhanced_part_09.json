@@ -1,42 +1,14 @@
 {
-  "last_updated": "2026-06-12T04:32:22.251242+00:00",
+  "last_updated": "2026-06-13T04:31:55.677756+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4693
+    "original_total": 4691
   },
   "products": [
-    {
-      "id": "HTPA12AA",
-      "sku": "HTPA12AA",
-      "ean": "4715872481784",
-      "name": "Pedale HT PA12A Albe Pini Detasabili",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
-      "price": 216.7,
-      "price_net": 179.09,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-pa12a-albe-pini-detasabili.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-pa12a-albe-pini-detasabili~8325145.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-pa12a-albe-pini-detasabili~8325145.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Platforma"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
     {
       "id": "HTPA12AM",
       "sku": "HTPA12AM",
@@ -6987,6 +6959,35 @@
       "specs": {
         "dimensions": "700 x 38"
       }
+    },
+    {
+      "id": "M39SL2932N",
+      "sku": "M39SL2932N",
+      "name": "Janta MACH1 3.9 SL DISC 29(622 x 19C) 32H Negru Anodizat Capsata",
+      "brand": "MACH 1",
+      "category": "➤ Jante pentru Frane Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "price": 154.0,
+      "price_net": 127.27,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.5,
+      "url": "https://www.bikestylish.ro/janta-mach1-3-9-sl-disc-29-622-x-19c-32h-negru-anodizat-capsata.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/janta-mach1-3-9-sl-disc-29-622-x-19c-32h-negru-anodizat-capsata~8327308.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/janta-mach1-3-9-sl-disc-29-622-x-19c-32h-negru-anodizat-capsata~8327308.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/janta-mach1-3-9-sl-disc-29-622-x-19c-32h-negru-anodizat-capsata~8327311.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "MACH 1",
+        "➤ Jante pentru Frane Disc"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "622 x 19"
+      }
     }
   ],
   "categories": [
@@ -7170,7 +7171,7 @@
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
       "product_count": 14,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -7436,7 +7437,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 68
+      "in_stock_count": 67
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7974,8 +7975,8 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 51,
-      "in_stock_count": 43
+      "product_count": 49,
+      "in_stock_count": 41
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -8024,7 +8025,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 319
+      "in_stock_count": 318
     },
     {
       "id": "bike-maintenance-intretinere",

@@ -1,43 +1,14 @@
 {
-  "last_updated": "2026-06-12T04:32:22.251242+00:00",
+  "last_updated": "2026-06-13T04:31:55.677756+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
     "total_parts": 19,
     "product_range": "2251-2500",
-    "original_total": 4693
+    "original_total": 4691
   },
   "products": [
-    {
-      "id": "M39SL2932N",
-      "sku": "M39SL2932N",
-      "name": "Janta MACH1 3.9 SL DISC 29(622 x 19C) 32H Negru Anodizat Capsata",
-      "brand": "MACH 1",
-      "category": "➤ Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "price": 154.0,
-      "price_net": 127.27,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.5,
-      "url": "https://www.bikestylish.ro/janta-mach1-3-9-sl-disc-29-622-x-19c-32h-negru-anodizat-capsata.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/janta-mach1-3-9-sl-disc-29-622-x-19c-32h-negru-anodizat-capsata~8327308.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/janta-mach1-3-9-sl-disc-29-622-x-19c-32h-negru-anodizat-capsata~8327308.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/janta-mach1-3-9-sl-disc-29-622-x-19c-32h-negru-anodizat-capsata~8327311.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "MACH 1",
-        "➤ Jante pentru Frane Disc"
-      ],
-      "specs": {
-        "color": "Negru",
-        "dimensions": "622 x 19"
-      }
-    },
     {
       "id": "M655.622.32",
       "sku": "M655.622.32",
@@ -4708,7 +4679,7 @@
       "price_net": 180.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 33,
+      "stock_quantity": 29,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/janta-mach1-truky-30-27-5-584-x-30c-32h-negru-capsata.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/janta-mach1-truky-30-27-5-584-x-30c-32h-negru-capsata~8329177.jpg",
@@ -5916,7 +5887,7 @@
       "price_net": 289.26,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 10,
       "weight_kg": 2.0,
       "url": "https://www.bikestylish.ro/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r~8329642.jpg",
@@ -7335,6 +7306,32 @@
         ],
         "color": "Negru"
       }
+    },
+    {
+      "id": "D220",
+      "sku": "D220",
+      "ean": "7290107112093",
+      "name": "Ureche Cadru PILO D220 CUBE, SPECIALIZED, STEVENS, MacMahone, Maxx",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 198.0,
+      "price_net": 163.64,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 5,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d220-cube-specialized-stevens-macmahone-maxx.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d220-cube-specialized-stevens-macmahone-maxx~8330113.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d220-cube-specialized-stevens-macmahone-maxx~8330113.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d220-cube-specialized-stevens-macmahone-maxx~8330116.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7518,7 +7515,7 @@
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
       "product_count": 14,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -7784,7 +7781,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 68
+      "in_stock_count": 67
     },
     {
       "id": "butuci-v-break-dinam",
@@ -8322,8 +8319,8 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 51,
-      "in_stock_count": 43
+      "product_count": 49,
+      "in_stock_count": 41
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -8372,7 +8369,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 319
+      "in_stock_count": 318
     },
     {
       "id": "bike-maintenance-intretinere",

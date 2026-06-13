@@ -1,44 +1,14 @@
 {
-  "last_updated": "2026-06-12T04:32:22.251242+00:00",
+  "last_updated": "2026-06-13T04:31:55.677756+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 15,
     "total_parts": 19,
     "product_range": "3501-3750",
-    "original_total": 4693
+    "original_total": 4691
   },
   "products": [
-    {
-      "id": "659888",
-      "sku": "659888",
-      "name": "Cuvete Trotineta Electrica ANLEN E9X",
-      "brand": "SXT",
-      "category": "Trotinete Electrice",
-      "category_path": "e- MOBILITY > Trotinete Electrice",
-      "price": 53.9,
-      "price_net": 44.55,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
-      "url": "https://www.bikestylish.ro/cuvete-trotineta-electrica-anlen-e9x.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/cuvete-trotineta-electrica-anlen-e9x~8336689.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/cuvete-trotineta-electrica-anlen-e9x~8336689.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/cuvete-trotineta-electrica-anlen-e9x~8336692.jpg"
-      ],
-      "tags": [
-        "E-Bike",
-        "SXT",
-        "Trotinete Electrice",
-        "e- MOBILITY"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ]
-      }
-    },
     {
       "id": "11A00394",
       "sku": "11A00394",
@@ -7798,6 +7768,31 @@
         "SXT",
         "➤ Lumini Spate"
       ]
+    },
+    {
+      "id": "519840",
+      "sku": "519840",
+      "ean": "2802207000009",
+      "name": "Banda Janta Tubeless SXT 30 mm - 10 m",
+      "brand": "SXT",
+      "category": "➤ Banda Janta - Tubeless",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
+      "price": 63.0,
+      "price_net": 52.07,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.07,
+      "url": "https://www.bikestylish.ro/banda-janta-tubeless-sxt-30-mm-10-m.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/banda-janta-tubeless-sxt-30-mm-10-m~8339641.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/banda-janta-tubeless-sxt-30-mm-10-m~8339641.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Banda Janta - Tubeless"
+      ]
     }
   ],
   "categories": [
@@ -7981,7 +7976,7 @@
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
       "product_count": 14,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -8247,7 +8242,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 68
+      "in_stock_count": 67
     },
     {
       "id": "butuci-v-break-dinam",
@@ -8785,8 +8780,8 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 51,
-      "in_stock_count": 43
+      "product_count": 49,
+      "in_stock_count": 41
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -8835,7 +8830,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 319
+      "in_stock_count": 318
     },
     {
       "id": "bike-maintenance-intretinere",

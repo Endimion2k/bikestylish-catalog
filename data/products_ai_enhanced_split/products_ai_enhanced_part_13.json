@@ -1,43 +1,14 @@
 {
-  "last_updated": "2026-06-12T04:32:22.251242+00:00",
+  "last_updated": "2026-06-13T04:31:55.677756+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 13,
     "total_parts": 19,
     "product_range": "3001-3250",
-    "original_total": 4693
+    "original_total": 4691
   },
   "products": [
-    {
-      "id": "D758",
-      "sku": "D758",
-      "ean": "7290107118002",
-      "name": "Ureche Cadru PILO D758 Fantic",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 165.0,
-      "price_net": 136.36,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d758-fantic.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d758-fantic~8332345.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d758-fantic~8332345.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d758-fantic~8332348.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d758-fantic~8332351.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d758-fantic~8332354.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d758-fantic~8332357.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D759",
       "sku": "D759",
@@ -6907,6 +6878,33 @@
           "MTB"
         ]
       }
+    },
+    {
+      "id": "D1060",
+      "sku": "D1060",
+      "ean": "7290117590553",
+      "name": "Ureche Cadru PILO D1060 Lapierre",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 132.0,
+      "price_net": 109.09,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1060-lapierre.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d1060-lapierre~8334949.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d1060-lapierre~8334949.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1060-lapierre~8334952.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1060-lapierre~8334955.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7090,7 +7088,7 @@
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
       "product_count": 14,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -7356,7 +7354,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 68
+      "in_stock_count": 67
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7894,8 +7892,8 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 51,
-      "in_stock_count": 43
+      "product_count": 49,
+      "in_stock_count": 41
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -7944,7 +7942,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 319
+      "in_stock_count": 318
     },
     {
       "id": "bike-maintenance-intretinere",
