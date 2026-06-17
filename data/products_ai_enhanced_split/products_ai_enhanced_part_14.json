@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T04:34:58.334584+00:00",
+  "last_updated": "2026-06-17T04:33:05.369199+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -4964,8 +4964,8 @@
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.26,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-26x1-95-2-50-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/camera-standard-vittoria-26x1-95-2-50-av-schrader-48mm~8336050.jpg",
@@ -4997,7 +4997,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 179,
+      "stock_quantity": 167,
       "weight_kg": 0.27,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm~8336053.jpg",
@@ -5028,7 +5028,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 135,
+      "stock_quantity": 111,
       "weight_kg": 0.26,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-27-5x1-95-2-50-fv-presta-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/camera-standard-vittoria-27-5x1-95-2-50-fv-presta-48mm~8336056.jpg",
@@ -5059,7 +5059,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 248,
+      "stock_quantity": 238,
       "weight_kg": 0.29,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-29x1-95-2-50-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/camera-standard-vittoria-29x1-95-2-50-av-schrader-48mm~8336059.jpg",
@@ -5091,7 +5091,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 232,
+      "stock_quantity": 162,
       "weight_kg": 0.29,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-29x1-95-2-50-fv-presta-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-standard-vittoria-29x1-95-2-50-fv-presta-48mm~8336062.jpg",
@@ -5119,8 +5119,8 @@
       "brand": "VITTORIA",
       "category": "➤ Camere de Bicicleta",
       "category_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "price": 30.8,
-      "price_net": 25.45,
+      "price": 27.0,
+      "price_net": 22.31,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 146,
@@ -5178,8 +5178,8 @@
       "brand": "VITTORIA",
       "category": "➤ Camere de Bicicleta",
       "category_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "price": 30.8,
-      "price_net": 25.45,
+      "price": 27.0,
+      "price_net": 22.31,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 272,
@@ -6183,7 +6183,7 @@
       "price_net": 150.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 7,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/solutie-tubeless-vittoria-1000-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/solutie-tubeless-vittoria-1000-ml~12385935.jpg",
@@ -7152,7 +7152,7 @@
       "name": "➤ Antifurturi cu Cifru",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
       "product_count": 12,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "anvelope-pliabile",
@@ -7166,7 +7166,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 187,
-      "in_stock_count": 115
+      "in_stock_count": 114
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7306,7 +7306,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 90,
-      "in_stock_count": 60
+      "in_stock_count": 58
     },
     {
       "id": "capete-cablu-manta",
@@ -7404,7 +7404,7 @@
       "name": "➤ Discuri - Rotoare",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
       "product_count": 17,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "echipamente-service-biciclete",
@@ -7621,7 +7621,7 @@
       "name": "➤ Pionioane Filetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "product_count": 41,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "pipe-ghidon",
@@ -7635,7 +7635,7 @@
       "name": "➤ Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
       "product_count": 26,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "pompe-furca-tubeless",

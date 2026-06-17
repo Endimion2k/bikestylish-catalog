@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T04:34:58.334584+00:00",
+  "last_updated": "2026-06-17T04:33:05.369199+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -2394,8 +2394,8 @@
       "price": 53.9,
       "price_net": 44.55,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.98,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-bulldozer-26x1-75-47-559.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-kujo-bulldozer-26x1-75-47-559~8286748.jpg",
@@ -3856,7 +3856,7 @@
       "price_net": 16.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 199,
+      "stock_quantity": 198,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/protectie-cadru-lant-m-wave-protecto-xl.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/protectie-cadru-lant-m-wave-protecto-xl~8286892.jpg",
@@ -4314,7 +4314,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 243,
+      "stock_quantity": 233,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/camera-kujo-700-x-28-45c-fv-48-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/camera-kujo-700-x-28-45c-fv-48-mm~8287381.jpg",
@@ -4376,7 +4376,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 303,
+      "stock_quantity": 293,
       "weight_kg": 0.18,
       "url": "https://www.bikestylish.ro/camera-kujo-700-28-45c-av-33-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/camera-kujo-700%E2%80%9428-45c-av-33-mm~8287387.jpg",
@@ -4436,7 +4436,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 9,
       "weight_kg": 0.22,
       "url": "https://www.bikestylish.ro/camera-kujo-24-x-1-75-2-125-av-33-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/camera-kujo-24-x-1-75-2-125-av-33-mm~8287393.jpg",
@@ -5450,7 +5450,7 @@
       "price_net": 204.55,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 3,
       "weight_kg": 2.1,
       "url": "https://www.bikestylish.ro/furca-cu-suspensie-ventura-blast-26-1-1-8-travel-40-mm-disc-v-brake.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/furca-cu-suspensie-ventura-blast-26-1-1-8-travel-40-mm-disc-v-brake~8287516.jpg",
@@ -6145,7 +6145,7 @@
       "price_net": 24.79,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 9,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/cablu-fata-frana-rotor-bmx-sxt-520-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cablu-fata-frana-rotor-bmx-sxt-520-mm~8287588.jpg",
@@ -6178,7 +6178,7 @@
       "price_net": 14.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 19,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/cablu-spate-frana-rotor-bmx-sxt-1200-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/cablu-spate-frana-rotor-bmx-sxt-1200-mm~8287591.jpg",
@@ -6416,7 +6416,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 86,
+      "stock_quantity": 66,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/placute-frana-m-wave-shimano-tektro-promax-organice.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/placute-frana-m-wave-shimano-tektro-promax-organice~8287612.jpg",
@@ -7639,7 +7639,7 @@
       "name": "➤ Antifurturi cu Cifru",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
       "product_count": 12,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "anvelope-pliabile",
@@ -7653,7 +7653,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 187,
-      "in_stock_count": 115
+      "in_stock_count": 114
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7793,7 +7793,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 90,
-      "in_stock_count": 60
+      "in_stock_count": 58
     },
     {
       "id": "capete-cablu-manta",
@@ -7891,7 +7891,7 @@
       "name": "➤ Discuri - Rotoare",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
       "product_count": 17,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "echipamente-service-biciclete",
@@ -8108,7 +8108,7 @@
       "name": "➤ Pionioane Filetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "product_count": 41,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "pipe-ghidon",
@@ -8122,7 +8122,7 @@
       "name": "➤ Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
       "product_count": 26,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "pompe-furca-tubeless",
