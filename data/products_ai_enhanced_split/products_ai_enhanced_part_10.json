@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T04:33:05.369199+00:00",
+  "last_updated": "2026-06-18T04:32:35.316349+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1163,8 +1163,8 @@
       "price": 93.5,
       "price_net": 77.27,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 4,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.26,
       "url": "https://www.bikestylish.ro/ghidon-mtb-zoom-620-31-8-mm-negru-9.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-mtb-zoom-620-31-8-mm-negru-9~8327734.jpg",
@@ -2059,7 +2059,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 9,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/sa-ventura-e-grip-260-x-200-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/sa-ventura-e-grip-260-x-200-mm-negru~8328100.jpg",
@@ -4197,7 +4197,7 @@
       "price_net": 68.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 26,
+      "stock_quantity": 25,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/cric-aluminiu-m-wave-24-29-e-bike.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cric-aluminiu-m-wave-24-29-e-bike~8328958.jpg",
@@ -4461,7 +4461,7 @@
       "price_net": 213.64,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 2,
       "weight_kg": 0.62,
       "url": "https://www.bikestylish.ro/protectie-antipana-tannus-armour-27-5x1-95-2-50.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/protectie-antipana-tannus-armour-27-5x1-95-2-50~8329108.jpg",
@@ -7669,7 +7669,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 187,
-      "in_stock_count": 114
+      "in_stock_count": 113
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7956,7 +7956,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 39
+      "in_stock_count": 38
     },
     {
       "id": "huse-sa",
@@ -8362,14 +8362,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 173,
-      "in_stock_count": 141
+      "in_stock_count": 140
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 316
+      "in_stock_count": 317
     },
     {
       "id": "bike-maintenance-intretinere",
