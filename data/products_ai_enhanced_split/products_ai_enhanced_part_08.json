@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T04:32:35.316349+00:00",
+  "last_updated": "2026-06-19T04:33:40.074757+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -668,7 +668,7 @@
       "price_net": 140.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d484-canyon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d484-canyon~8292358.jpg",
@@ -725,7 +725,7 @@
       "price_net": 136.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 8,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d578-focus-kalkhoff-raleigh-univega.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d578-focus-kalkhoff-raleigh-univega~8292364.jpg",
@@ -749,8 +749,8 @@
       "price": 143.0,
       "price_net": 118.18,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d593-cube-aim-2015.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d593-cube-aim-2015~8292367.jpg",
@@ -2006,8 +2006,8 @@
       "price": 143.0,
       "price_net": 118.18,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d722-focus.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d722-focus~8292514.jpg",
@@ -2981,8 +2981,8 @@
       "price": 62.0,
       "price_net": 51.24,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/far-pentru-dinam-m-wave-apollon-d-50-lux-standlight.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/far-pentru-dinam-m-wave-apollon-d-50-lux-standlight~8292622.jpg",
@@ -5117,7 +5117,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 129,
+      "stock_quantity": 126,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -6064,7 +6064,7 @@
       "price_net": 10.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 14,
+      "stock_quantity": 13,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/adaptor-tija-sa-sxt-de-la-28-6-mm-la-27-2-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/adaptor-tija-sa-sxt-de-la-28-6-mm-la-27-2-mm~8324830.jpg",
@@ -6750,7 +6750,7 @@
       "price_net": 57.85,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 91,
+      "stock_quantity": 90,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/butuc-spate-aluminiu-qr-sxt-36-h-fd-filetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/butuc-spate-aluminiu-qr-sxt-36-h-fd-filetat~8325103.jpg",
@@ -7334,7 +7334,7 @@
       "name": "➤ Antifurturi  U-Lock",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi  U-Lock",
       "product_count": 5,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "antifurturi-lant",
@@ -7712,7 +7712,7 @@
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "lumini-spate",
@@ -7747,7 +7747,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 82
+      "in_stock_count": 81
     },
     {
       "id": "mantale",
@@ -7901,14 +7901,14 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 39,
-      "in_stock_count": 34
+      "in_stock_count": 33
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 47,
-      "in_stock_count": 42
+      "in_stock_count": 37
     },
     {
       "id": "rucsaci",
@@ -8076,7 +8076,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 317
+      "in_stock_count": 315
     },
     {
       "id": "bike-maintenance-intretinere",

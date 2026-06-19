@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T04:32:35.316349+00:00",
+  "last_updated": "2026-06-19T04:33:40.074757+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1253,8 +1253,8 @@
       "price": 225.0,
       "price_net": 185.95,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-27-5-584x19c-basic-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/roata-spate-sxt-27-5-584x19c-basic-36h~8287834.jpg",
       "images": [
@@ -1284,8 +1284,8 @@
       "price": 225.0,
       "price_net": 185.95,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-26-559x19c-basic-qr-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-26-559x19c-basic-qr-36h~8287837.jpg",
       "images": [
@@ -1316,7 +1316,7 @@
       "price_net": 185.95,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 2,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-28-29-622-x-19c-basic-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-sxt-28-29-622-x-19c-basic-36h~8287840.jpg",
       "images": [
@@ -1346,8 +1346,8 @@
       "price": 27.5,
       "price_net": 22.73,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/mansoane-junior-sxt-115-mm-galben.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-junior-sxt-115-mm-galben~8287843.jpg",
@@ -2015,7 +2015,7 @@
       "price_net": 16.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 74,
+      "stock_quantity": 73,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/suport-bidon-plastic-m-wave-bc-26-lateral.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/suport-bidon-plastic-m-wave-bc-26-lateral~8287909.jpg",
@@ -5049,7 +5049,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 19,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/maneta-frana-copii-m-wave-dreapta-plastic-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/maneta-frana-copii-m-wave-dreapta-plastic-negru~8289244.jpg",
@@ -5083,7 +5083,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 22,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/maneta-frana-copii-m-wave-stanga-plastic-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/maneta-frana-copii-m-wave-stanga-plastic-negru~8289247.jpg",
@@ -7163,7 +7163,7 @@
       "price_net": 39.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 54,
+      "stock_quantity": 50,
       "weight_kg": 0.13,
       "url": "https://www.bikestylish.ro/disc-frana-sxt-bd-140-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/disc-frana-sxt-bd-140-mm~8289472.jpg",
@@ -7613,7 +7613,7 @@
       "name": "➤ Antifurturi  U-Lock",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi  U-Lock",
       "product_count": 5,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "antifurturi-lant",
@@ -7991,7 +7991,7 @@
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "lumini-spate",
@@ -8026,7 +8026,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 82
+      "in_stock_count": 81
     },
     {
       "id": "mantale",
@@ -8180,14 +8180,14 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 39,
-      "in_stock_count": 34
+      "in_stock_count": 33
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 47,
-      "in_stock_count": 42
+      "in_stock_count": 37
     },
     {
       "id": "rucsaci",
@@ -8355,7 +8355,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1076,
-      "in_stock_count": 317
+      "in_stock_count": 315
     },
     {
       "id": "bike-maintenance-intretinere",
