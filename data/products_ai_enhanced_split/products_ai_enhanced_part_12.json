@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T04:26:54.088547+00:00",
+  "last_updated": "2026-06-26T04:30:14.283208+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -3065,8 +3065,8 @@
       "price": 137.5,
       "price_net": 113.64,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d261-kona.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d261-kona~8331604.jpg",
@@ -6577,7 +6577,7 @@
       "name": "Pompe Ciclism",
       "full_path": "ACCESORII > Pompe Ciclism",
       "product_count": 4,
-      "in_stock_count": 1
+      "in_stock_count": 2
     },
     {
       "id": "portbagaje",
@@ -6724,7 +6724,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 18,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -6759,7 +6759,7 @@
       "name": "➤ Aparatori Noroi Fata",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Aparatori Noroi Fata",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 7
     },
     {
       "id": "aparatori-noroi-spate",
@@ -6787,14 +6787,14 @@
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
       "product_count": 14,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "bagaje-ghidon",
       "name": "➤ Bagaje Ghidon",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
       "product_count": 9,
-      "in_stock_count": 4
+      "in_stock_count": 5
     },
     {
       "id": "bagaje-spate",
@@ -6899,7 +6899,7 @@
       "name": "➤ Carcase - Prinderi SmartPhone",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Carcase - Prinderi SmartPhone",
       "product_count": 9,
-      "in_stock_count": 6
+      "in_stock_count": 7
     },
     {
       "id": "cartuse-co2-accesorii-pompe",
@@ -7039,7 +7039,7 @@
       "name": "➤ Huse Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Huse Sa",
       "product_count": 7,
-      "in_stock_count": 5
+      "in_stock_count": 6
     },
     {
       "id": "intinzatoare-lant-directionare",
@@ -7074,14 +7074,14 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 51
+      "in_stock_count": 50
     },
     {
       "id": "lumini-fata",
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 24
+      "in_stock_count": 25
     },
     {
       "id": "lumini-spate",
@@ -7130,7 +7130,7 @@
       "name": "➤ Mini Pompe",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Mini Pompe",
       "product_count": 14,
-      "in_stock_count": 12
+      "in_stock_count": 13
     },
     {
       "id": "monobloace-b-b",
@@ -7319,7 +7319,7 @@
       "name": "➤ Schimbatoare Spate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "sei",
@@ -7445,7 +7445,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1079,
-      "in_stock_count": 334
+      "in_stock_count": 333
     },
     {
       "id": "bike-maintenance-intretinere",
