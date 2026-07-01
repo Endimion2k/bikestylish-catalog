@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-30T04:27:15.940790+00:00",
+  "last_updated": "2026-07-01T04:33:14.945687+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 2,
     "total_parts": 19,
     "product_range": "251-500",
-    "original_total": 4694
+    "original_total": 4695
   },
   "products": [
     {
@@ -3740,8 +3740,8 @@
       "price": 450.0,
       "price_net": 371.9,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "url": "https://www.bikestylish.ro/butuc-spate-road-novatec-f482sb-aa-11s-24-h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-spate-road-novatec-f482sb-aa-11s-24-h~8281756.jpg",
       "images": [
@@ -5487,7 +5487,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 82,
+      "stock_quantity": 62,
       "weight_kg": 0.17,
       "url": "https://www.bikestylish.ro/aparatoare-angrenaj-sxt-38-40-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/aparatoare-angrenaj-sxt-38-40-t~8281936.jpg",
@@ -7550,7 +7550,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 187,
-      "in_stock_count": 112
+      "in_stock_count": 114
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7746,7 +7746,7 @@
       "name": "➤ Coliere Tija Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "cosuri-transport-fata",
@@ -7781,7 +7781,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "discuri-rotoare",
@@ -7789,13 +7789,6 @@
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
       "product_count": 17,
       "in_stock_count": 9
-    },
-    {
-      "id": "echipamente-service-biciclete",
-      "name": "➤ Echipamente Service Biciclete",
-      "full_path": "COMPONENTE > Unelte Service > ➤ Echipamente Service Biciclete",
-      "product_count": 1,
-      "in_stock_count": 1
     },
     {
       "id": "flori-furca-distantiere-accesorii",
@@ -7844,7 +7837,7 @@
       "name": "➤ Huse Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Huse Sa",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "intinzatoare-lant-directionare",
@@ -8081,8 +8074,8 @@
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
-      "product_count": 47,
-      "in_stock_count": 37
+      "product_count": 48,
+      "in_stock_count": 38
     },
     {
       "id": "rucsaci",
@@ -8235,8 +8228,8 @@
       "id": "truse-unelte-mini-truse",
       "name": "➤ Truse Unelte - Mini Truse",
       "full_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
-      "product_count": 14,
-      "in_stock_count": 10
+      "product_count": 15,
+      "in_stock_count": 11
     },
     {
       "id": "unelte-speciale-biciclete",
