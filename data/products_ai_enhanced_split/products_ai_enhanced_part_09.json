@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T04:25:31.434801+00:00",
+  "last_updated": "2026-07-03T04:18:51.375593+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -470,8 +470,8 @@
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.28,
       "url": "https://www.bikestylish.ro/monobloc-pedalier-m-wave-carousel-bb-bsa-sq-127-5-31-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/monobloc-pedalier-m-wave-carousel-bb-bsa-sq-127-5-31-mm~8325337.jpg",
@@ -1877,7 +1877,7 @@
       "price_net": 33.06,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/mansoane-velo-cork.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-velo-cork~8325763.jpg",
@@ -1959,7 +1959,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 29,
+      "stock_quantity": 28,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-4-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-4-negru~8325799.jpg",
@@ -2183,7 +2183,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 46,
+      "stock_quantity": 45,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/cric-aluminiu-sxt-strong-r-26-29.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/cric-aluminiu-sxt-strong-r-26-29~8325889.jpg",
@@ -3611,7 +3611,7 @@
       "price_net": 43.64,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 2,
       "url": "https://www.bikestylish.ro/cutie-piulite-hexagonale-cu-autoblocare-m-5-m-wave-100buc-cutie.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cutie-piulite-hexagonale-cu-autoblocare-m-5-m-wave-100buc-cutie~8326576.jpg",
       "images": [
@@ -3636,7 +3636,7 @@
       "price_net": 47.27,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "weight_kg": 0.22,
       "url": "https://www.bikestylish.ro/cutie-piulite-hexagonale-cu-autoblocare-m-6-m-wave-100buc-cutie.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/cutie-piulite-hexagonale-cu-autoblocare-m-6-m-wave-100buc-cutie~8326579.jpg",
@@ -3662,7 +3662,7 @@
       "price_net": 16.36,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "url": "https://www.bikestylish.ro/cutie-saibe-din-otel-inoxidabil-m-5-m-wave-100-buc-cutie.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/cutie-saibe-din-otel-inoxidabil-m-5-m-wave-100-buc-cutie~8326582.jpg",
       "images": [
@@ -7381,7 +7381,7 @@
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
       "product_count": 39,
-      "in_stock_count": 35
+      "in_stock_count": 33
     },
     {
       "id": "banda-janta-tubeless",
@@ -7437,7 +7437,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 66
+      "in_stock_count": 65
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7710,7 +7710,7 @@
       "name": "➤ Monobloace - B.B.",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
       "product_count": 48,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "nipluri-accesorii",
@@ -7752,7 +7752,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 105
+      "in_stock_count": 104
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7934,7 +7934,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 40
+      "in_stock_count": 39
     },
     {
       "id": "spite-stainless",
@@ -7983,7 +7983,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "transport-biciclete",
@@ -8011,7 +8011,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 173,
-      "in_stock_count": 136
+      "in_stock_count": 137
     },
     {
       "id": "urechi-cadru",
