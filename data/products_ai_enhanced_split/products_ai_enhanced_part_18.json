@@ -1,41 +1,14 @@
 {
-  "last_updated": "2026-07-04T04:16:12.095220+00:00",
+  "last_updated": "2026-07-05T04:24:42.385534+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 18,
     "total_parts": 19,
     "product_range": "4251-4500",
-    "original_total": 4695
+    "original_total": 4709
   },
   "products": [
-    {
-      "id": "D001598",
-      "sku": "D001598",
-      "ean": "8581500015982",
-      "name": "Manusi Ciclism EXTEND GRISP XXL Negru/Negru",
-      "brand": "VENTURA",
-      "category": "Manusi Ciclism",
-      "category_path": "ECHIPAMENTE > Manusi Ciclism",
-      "price": 51.7,
-      "price_net": 42.73,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/manusi-ciclism-extend-grisp-xxl-negru-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/manusi-ciclism-extend-grisp-xxl-negru-negru~8343835.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/manusi-ciclism-extend-grisp-xxl-negru-negru~8343835.jpg"
-      ],
-      "tags": [
-        "ECHIPAMENTE",
-        "Manusi Ciclism",
-        "VENTURA"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
     {
       "id": "401992",
       "sku": "401992",
@@ -6745,6 +6718,32 @@
         "SXT",
         "➤ Adaptoare Frana"
       ]
+    },
+    {
+      "id": "361035",
+      "sku": "361035",
+      "ean": "887539052508",
+      "name": "Adaptor Frana Disc SXT ADA DB PM 140-160 mm",
+      "brand": "SXT",
+      "category": "➤ Adaptoare Frana",
+      "category_path": "COMPONENTE > Sisteme Franare > ➤ Adaptoare Frana",
+      "price": 35.2,
+      "price_net": 29.09,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 23,
+      "weight_kg": 0.04,
+      "url": "https://www.bikestylish.ro/adaptor-frana-disc-sxt-ada-db-pm-140-160-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/adaptor-frana-disc-sxt-ada-db-pm-140-160-mm~12071163.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/adaptor-frana-disc-sxt-ada-db-pm-140-160-mm~12071163.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/adaptor-frana-disc-sxt-ada-db-pm-140-160-mm~12071166.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Adaptoare Frana"
+      ]
     }
   ],
   "categories": [
@@ -7060,7 +7059,7 @@
       "id": "antifurturi-cu-cheie",
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
-      "product_count": 18,
+      "product_count": 20,
       "in_stock_count": 7
     },
     {
@@ -7144,7 +7143,7 @@
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 43,
+      "product_count": 44,
       "in_stock_count": 25
     },
     {
@@ -7285,13 +7284,13 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 15
+      "in_stock_count": 16
     },
     {
       "id": "cosuri-transport-spate",
       "name": "➤ Cosuri Transport Spate",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Spate",
-      "product_count": 14,
+      "product_count": 15,
       "in_stock_count": 11
     },
     {
@@ -7333,7 +7332,7 @@
       "id": "foi-angrenaje",
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
-      "product_count": 31,
+      "product_count": 35,
       "in_stock_count": 21
     },
     {
@@ -7390,7 +7389,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 48,
-      "in_stock_count": 17
+      "in_stock_count": 18
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7564,7 +7563,7 @@
       "id": "portbagaje-fata",
       "name": "➤ Portbagaje Fata",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Fata",
-      "product_count": 4,
+      "product_count": 5,
       "in_stock_count": 4
     },
     {
@@ -7725,7 +7724,7 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 49,
+      "product_count": 50,
       "in_stock_count": 38
     },
     {
@@ -7760,14 +7759,14 @@
       "id": "truse-unelte-mini-truse",
       "name": "➤ Truse Unelte - Mini Truse",
       "full_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
-      "product_count": 15,
+      "product_count": 16,
       "in_stock_count": 11
     },
     {
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 173,
+      "product_count": 176,
       "in_stock_count": 137
     },
     {

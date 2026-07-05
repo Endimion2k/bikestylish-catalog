@@ -1,40 +1,14 @@
 {
-  "last_updated": "2026-07-04T04:16:12.095220+00:00",
+  "last_updated": "2026-07-05T04:24:42.385534+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 3,
     "total_parts": 19,
     "product_range": "501-750",
-    "original_total": 4695
+    "original_total": 4709
   },
   "products": [
-    {
-      "id": "360595",
-      "sku": "360595",
-      "ean": "2800793000007",
-      "name": "Etrier Frana Disc Mecanica SXT Spate",
-      "brand": "SXT",
-      "category": "➤ Frane Disc",
-      "category_path": "COMPONENTE > Sisteme Franare > ➤ Frane Disc",
-      "price": 71.5,
-      "price_net": 59.09,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 70,
-      "weight_kg": 0.25,
-      "url": "https://www.bikestylish.ro/etrier-frana-disc-mecanica-sxt-spate.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/etrier-frana-disc-mecanica-sxt-spate~8282125.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/etrier-frana-disc-mecanica-sxt-spate~8282125.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/etrier-frana-disc-mecanica-sxt-spate~8282650.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SXT",
-        "➤ Frane Disc"
-      ]
-    },
     {
       "id": "360620",
       "sku": "360620",
@@ -6880,8 +6854,8 @@
       "brand": "SXT",
       "category": "➤ Cosuri Transport Fata",
       "category_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
-      "price": 27.5,
-      "price_net": 22.73,
+      "price": 29.0,
+      "price_net": 23.97,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 34,
@@ -6913,8 +6887,8 @@
       "brand": "SXT",
       "category": "➤ Cosuri Transport Fata",
       "category_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
-      "price": 33.0,
-      "price_net": 27.27,
+      "price": 29.0,
+      "price_net": 23.97,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 5,
@@ -6946,8 +6920,8 @@
       "brand": "SXT",
       "category": "➤ Cosuri Transport Fata",
       "category_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
-      "price": 33.0,
-      "price_net": 27.27,
+      "price": 29.0,
+      "price_net": 23.97,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -7288,6 +7262,39 @@
         "material": "Aluminiu",
         "color": "Negru"
       }
+    },
+    {
+      "id": "440158",
+      "sku": "440158",
+      "ean": "4015493440017",
+      "name": "Portbagaj Aluminiu Spate M-WAVE SCREW-ON II A 26-28 Negru",
+      "brand": "M-WAVE",
+      "category": "➤ Portbagaje Spate",
+      "category_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
+      "price": 126.5,
+      "price_net": 104.55,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 6,
+      "weight_kg": 0.9,
+      "url": "https://www.bikestylish.ro/portbagaj-aluminiu-spate-m-wave-screw-on-ii-a-26-28-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/portbagaj-aluminiu-spate-m-wave-screw-on-ii-a-26-28-negru~8283490.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/portbagaj-aluminiu-spate-m-wave-screw-on-ii-a-26-28-negru~8283490.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/portbagaj-aluminiu-spate-m-wave-screw-on-ii-a-26-28-negru~8284321.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/portbagaj-aluminiu-spate-m-wave-screw-on-ii-a-26-28-negru~11426502.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/portbagaj-aluminiu-spate-m-wave-screw-on-ii-a-26-28-negru~11426505.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "Aluminiu",
+        "M-WAVE",
+        "➤ Portbagaje Spate"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -7603,7 +7610,7 @@
       "id": "antifurturi-cu-cheie",
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
-      "product_count": 18,
+      "product_count": 20,
       "in_stock_count": 7
     },
     {
@@ -7687,7 +7694,7 @@
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 43,
+      "product_count": 44,
       "in_stock_count": 25
     },
     {
@@ -7828,13 +7835,13 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 15
+      "in_stock_count": 16
     },
     {
       "id": "cosuri-transport-spate",
       "name": "➤ Cosuri Transport Spate",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Spate",
-      "product_count": 14,
+      "product_count": 15,
       "in_stock_count": 11
     },
     {
@@ -7876,7 +7883,7 @@
       "id": "foi-angrenaje",
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
-      "product_count": 31,
+      "product_count": 35,
       "in_stock_count": 21
     },
     {
@@ -7933,7 +7940,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 48,
-      "in_stock_count": 17
+      "in_stock_count": 18
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8107,7 +8114,7 @@
       "id": "portbagaje-fata",
       "name": "➤ Portbagaje Fata",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Fata",
-      "product_count": 4,
+      "product_count": 5,
       "in_stock_count": 4
     },
     {
@@ -8268,7 +8275,7 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 49,
+      "product_count": 50,
       "in_stock_count": 38
     },
     {
@@ -8303,14 +8310,14 @@
       "id": "truse-unelte-mini-truse",
       "name": "➤ Truse Unelte - Mini Truse",
       "full_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
-      "product_count": 15,
+      "product_count": 16,
       "in_stock_count": 11
     },
     {
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 173,
+      "product_count": 176,
       "in_stock_count": 137
     },
     {

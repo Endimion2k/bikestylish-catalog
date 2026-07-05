@@ -1,43 +1,14 @@
 {
-  "last_updated": "2026-07-04T04:16:12.095220+00:00",
+  "last_updated": "2026-07-05T04:24:42.385534+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
     "total_parts": 19,
     "product_range": "2501-2750",
-    "original_total": 4695
+    "original_total": 4709
   },
   "products": [
-    {
-      "id": "1875",
-      "sku": "1875",
-      "name": "Anvelopa CST 20x4.00 (100-406) Negru BFT C1752 Rigid",
-      "brand": "CST",
-      "category": "➤ Anvelope pe Sârmă",
-      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "price": 165.0,
-      "price_net": 136.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/anvelopa-cst-20x4-00-100-406-negru-bft-c1752-rigid.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-cst-20x4-00-100-406-negru-bft-c1752-rigid~8330119.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-cst-20x4-00-100-406-negru-bft-c1752-rigid~8330119.jpg"
-      ],
-      "tags": [
-        "20 inch",
-        "COMPONENTE",
-        "CST",
-        "➤ Anvelope pe Sârmă"
-      ],
-      "specs": {
-        "wheel_size": "20",
-        "color": "Negru",
-        "dimensions": "20 x 4.00"
-      }
-    },
     {
       "id": "12034",
       "sku": "12034",
@@ -6499,6 +6470,31 @@
         "PILO",
         "➤ Urechi Cadru"
       ]
+    },
+    {
+      "id": "D490",
+      "sku": "D490",
+      "ean": "7290107115018",
+      "name": "Ureche Cadru PILO D490 Trek Allant, Chelsea, Crossrip",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 121.0,
+      "price_net": 100.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d490-trek-allant-chelsea-crossrip.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d490-trek-allant-chelsea-crossrip~8331208.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d490-trek-allant-chelsea-crossrip~8331208.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6814,7 +6810,7 @@
       "id": "antifurturi-cu-cheie",
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
-      "product_count": 18,
+      "product_count": 20,
       "in_stock_count": 7
     },
     {
@@ -6898,7 +6894,7 @@
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 43,
+      "product_count": 44,
       "in_stock_count": 25
     },
     {
@@ -7039,13 +7035,13 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 15
+      "in_stock_count": 16
     },
     {
       "id": "cosuri-transport-spate",
       "name": "➤ Cosuri Transport Spate",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Spate",
-      "product_count": 14,
+      "product_count": 15,
       "in_stock_count": 11
     },
     {
@@ -7087,7 +7083,7 @@
       "id": "foi-angrenaje",
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
-      "product_count": 31,
+      "product_count": 35,
       "in_stock_count": 21
     },
     {
@@ -7144,7 +7140,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 48,
-      "in_stock_count": 17
+      "in_stock_count": 18
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7318,7 +7314,7 @@
       "id": "portbagaje-fata",
       "name": "➤ Portbagaje Fata",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Fata",
-      "product_count": 4,
+      "product_count": 5,
       "in_stock_count": 4
     },
     {
@@ -7479,7 +7475,7 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 49,
+      "product_count": 50,
       "in_stock_count": 38
     },
     {
@@ -7514,14 +7510,14 @@
       "id": "truse-unelte-mini-truse",
       "name": "➤ Truse Unelte - Mini Truse",
       "full_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
-      "product_count": 15,
+      "product_count": 16,
       "in_stock_count": 11
     },
     {
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 173,
+      "product_count": 176,
       "in_stock_count": 137
     },
     {

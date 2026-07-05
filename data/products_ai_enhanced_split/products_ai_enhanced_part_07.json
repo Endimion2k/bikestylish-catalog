@@ -1,50 +1,14 @@
 {
-  "last_updated": "2026-07-04T04:16:12.095220+00:00",
+  "last_updated": "2026-07-05T04:24:42.385534+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
     "total_parts": 19,
     "product_range": "1501-1750",
-    "original_total": 4695
+    "original_total": 4709
   },
   "products": [
-    {
-      "id": "310050",
-      "sku": "310050",
-      "ean": "887539013233",
-      "name": "Platforma M-WAVE TRANSFORMER Plastic Negru",
-      "brand": "M-WAVE",
-      "category": "➤ Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
-      "secondary_categories": [
-        "COMPONENTE > Pedale - Accesorii > ➤ Accesorii Pedale"
-      ],
-      "price": 68.2,
-      "price_net": 56.36,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.15,
-      "url": "https://www.bikestylish.ro/platforma-m-wave-transformer-plastic-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/platforma-m-wave-transformer-plastic-negru~8289499.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/platforma-m-wave-transformer-plastic-negru~8289499.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/platforma-m-wave-transformer-plastic-negru~8290351.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/platforma-m-wave-transformer-plastic-negru~8290345.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/platforma-m-wave-transformer-plastic-negru~8290348.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "M-WAVE",
-        "Plastic",
-        "➤ Pedale Platforma"
-      ],
-      "specs": {
-        "material": "Plastic",
-        "color": "Negru"
-      }
-    },
     {
       "id": "C763552",
       "sku": "C763552",
@@ -1180,8 +1144,8 @@
       "brand": "BROSE",
       "category": "Motoare E-Bike",
       "category_path": "e- MOBILITY > Motoare E-Bike",
-      "price": 658.9,
-      "price_net": 544.55,
+      "price": 690.0,
+      "price_net": 570.25,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -4785,8 +4749,8 @@
       "brand": "SXT",
       "category": "➤ Unelte Speciale Biciclete",
       "category_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "price": 31.9,
-      "price_net": 26.36,
+      "price": 32.0,
+      "price_net": 26.45,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 19,
@@ -7214,6 +7178,33 @@
       "specs": {
         "color": "Alb"
       }
+    },
+    {
+      "id": "HTAHPR",
+      "sku": "HTAHPR",
+      "ean": "4711126202112",
+      "name": "Pini Pedale HT AHP M4*5mm 40 buc Rosu",
+      "brand": "HT COMPONENTS",
+      "category": "➤ Accesorii Pedale",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Accesorii Pedale",
+      "price": 82.5,
+      "price_net": 68.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/pini-pedale-ht-ahp-m4-5mm-40-buc-rosu.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pini-pedale-ht-ahp-m4-5mm-40-buc-rosu~8292286.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/pini-pedale-ht-ahp-m4-5mm-40-buc-rosu~8292286.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "➤ Accesorii Pedale"
+      ],
+      "specs": {
+        "color": "Rosu"
+      }
     }
   ],
   "categories": [
@@ -7529,7 +7520,7 @@
       "id": "antifurturi-cu-cheie",
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
-      "product_count": 18,
+      "product_count": 20,
       "in_stock_count": 7
     },
     {
@@ -7613,7 +7604,7 @@
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 43,
+      "product_count": 44,
       "in_stock_count": 25
     },
     {
@@ -7754,13 +7745,13 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 15
+      "in_stock_count": 16
     },
     {
       "id": "cosuri-transport-spate",
       "name": "➤ Cosuri Transport Spate",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Spate",
-      "product_count": 14,
+      "product_count": 15,
       "in_stock_count": 11
     },
     {
@@ -7802,7 +7793,7 @@
       "id": "foi-angrenaje",
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
-      "product_count": 31,
+      "product_count": 35,
       "in_stock_count": 21
     },
     {
@@ -7859,7 +7850,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 48,
-      "in_stock_count": 17
+      "in_stock_count": 18
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8033,7 +8024,7 @@
       "id": "portbagaje-fata",
       "name": "➤ Portbagaje Fata",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Fata",
-      "product_count": 4,
+      "product_count": 5,
       "in_stock_count": 4
     },
     {
@@ -8194,7 +8185,7 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 49,
+      "product_count": 50,
       "in_stock_count": 38
     },
     {
@@ -8229,14 +8220,14 @@
       "id": "truse-unelte-mini-truse",
       "name": "➤ Truse Unelte - Mini Truse",
       "full_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
-      "product_count": 15,
+      "product_count": 16,
       "in_stock_count": 11
     },
     {
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 173,
+      "product_count": 176,
       "in_stock_count": 137
     },
     {

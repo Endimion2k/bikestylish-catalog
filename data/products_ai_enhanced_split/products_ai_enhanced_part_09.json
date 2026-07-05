@@ -1,42 +1,14 @@
 {
-  "last_updated": "2026-07-04T04:16:12.095220+00:00",
+  "last_updated": "2026-07-05T04:24:42.385534+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4695
+    "original_total": 4709
   },
   "products": [
-    {
-      "id": "HTPA12AM",
-      "sku": "HTPA12AM",
-      "ean": "4715872483719",
-      "name": "Pedale HT PA12A - Mov Pini Detasabili",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
-      "price": 216.7,
-      "price_net": 179.09,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.43,
-      "url": "https://www.bikestylish.ro/pedale-ht-pa12a-mov-pini-detasabili.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-pa12a-mov-pini-detasabili~8325148.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-pa12a-mov-pini-detasabili~8325148.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Platforma"
-      ],
-      "specs": {
-        "color": "Mov"
-      }
-    },
     {
       "id": "HTPA12ARZ",
       "sku": "HTPA12ARZ",
@@ -2391,8 +2363,8 @@
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 1,
       "url": "https://www.bikestylish.ro/sistem-prindere-clip-on-ventura.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/sistem-prindere-clip-on-ventura~8325979.jpg",
       "images": [
@@ -6988,6 +6960,37 @@
         "color": "Negru",
         "dimensions": "622 x 19"
       }
+    },
+    {
+      "id": "M655.622.32",
+      "sku": "M655.622.32",
+      "ean": "M655.622.32.14-8",
+      "name": "Janta MACH1 KLIXX DISC 29(622 x 23C) - 32H Negru Anodizat Capsata",
+      "brand": "MACH 1",
+      "category": "➤ Jante pentru Frane Disc",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "price": 148.5,
+      "price_net": 122.73,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/janta-mach1-klixx-disc-29-622-x-23c-32h-negru-anodizat-capsata.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/janta-mach1-klixx-disc-29-622-x-23c-32h-negru-anodizat-capsata~8327314.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/janta-mach1-klixx-disc-29-622-x-23c-32h-negru-anodizat-capsata~8327314.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/janta-mach1-klixx-disc-29-622-x-23c-32h-negru-anodizat-capsata~8327317.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/janta-mach1-klixx-disc-29-622-x-23c-32h-negru-anodizat-capsata~8327320.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/janta-mach1-klixx-disc-29-622-x-23c-32h-negru-anodizat-capsata~8327323.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "MACH 1",
+        "➤ Jante pentru Frane Disc"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "622 x 23"
+      }
     }
   ],
   "categories": [
@@ -7303,7 +7306,7 @@
       "id": "antifurturi-cu-cheie",
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
-      "product_count": 18,
+      "product_count": 20,
       "in_stock_count": 7
     },
     {
@@ -7387,7 +7390,7 @@
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 43,
+      "product_count": 44,
       "in_stock_count": 25
     },
     {
@@ -7528,13 +7531,13 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 15
+      "in_stock_count": 16
     },
     {
       "id": "cosuri-transport-spate",
       "name": "➤ Cosuri Transport Spate",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Spate",
-      "product_count": 14,
+      "product_count": 15,
       "in_stock_count": 11
     },
     {
@@ -7576,7 +7579,7 @@
       "id": "foi-angrenaje",
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
-      "product_count": 31,
+      "product_count": 35,
       "in_stock_count": 21
     },
     {
@@ -7633,7 +7636,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 48,
-      "in_stock_count": 17
+      "in_stock_count": 18
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7807,7 +7810,7 @@
       "id": "portbagaje-fata",
       "name": "➤ Portbagaje Fata",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Fata",
-      "product_count": 4,
+      "product_count": 5,
       "in_stock_count": 4
     },
     {
@@ -7968,7 +7971,7 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 49,
+      "product_count": 50,
       "in_stock_count": 38
     },
     {
@@ -8003,14 +8006,14 @@
       "id": "truse-unelte-mini-truse",
       "name": "➤ Truse Unelte - Mini Truse",
       "full_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
-      "product_count": 15,
+      "product_count": 16,
       "in_stock_count": 11
     },
     {
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 173,
+      "product_count": 176,
       "in_stock_count": 137
     },
     {

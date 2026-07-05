@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-04T04:16:12.095220+00:00",
+  "last_updated": "2026-07-05T04:24:42.385534+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 1,
     "total_parts": 19,
     "product_range": "1-250",
-    "original_total": 4695
+    "original_total": 4709
   },
   "products": [
     {
@@ -2846,8 +2846,8 @@
       "brand": "M-WAVE",
       "category": "➤ Antifurturi  U-Lock",
       "category_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi  U-Lock",
-      "price": 82.5,
-      "price_net": 68.18,
+      "price": 83.0,
+      "price_net": 68.59,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 2,
@@ -2951,37 +2951,6 @@
       ],
       "specs": {
         "color": "Alb"
-      }
-    },
-    {
-      "id": "233863",
-      "sku": "233863",
-      "ean": "887539009137",
-      "name": "Antifurt cu Cheie M-WAVE S 10.18 Rosu",
-      "brand": "M-WAVE",
-      "category": "➤ Antifurturi cu Cheie",
-      "category_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
-      "price": 38.5,
-      "price_net": 31.82,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.43,
-      "url": "https://www.bikestylish.ro/antifurt-cu-cheie-m-wave-s-10-18-rosu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/antifurt-cu-cheie-m-wave-s-10-18-rosu~8278846.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/antifurt-cu-cheie-m-wave-s-10-18-rosu~8278846.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/antifurt-cu-cheie-m-wave-s-10-18-rosu~8279422.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/antifurt-cu-cheie-m-wave-s-10-18-rosu~8279425.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/antifurt-cu-cheie-m-wave-s-10-18-rosu~8279428.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "M-WAVE",
-        "➤ Antifurturi cu Cheie"
-      ],
-      "specs": {
-        "color": "Rosu"
       }
     },
     {
@@ -7331,6 +7300,32 @@
       "specs": {
         "color": "Silver"
       }
+    },
+    {
+      "id": "880340",
+      "sku": "880340",
+      "ean": "2800018000003",
+      "name": "Solutie pentru Nipluri cn SPOKE 15 ml",
+      "brand": "cnSPOKE",
+      "category": "➤ Nipluri - Accesorii",
+      "category_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Nipluri - Accesorii",
+      "price": 66.0,
+      "price_net": 54.55,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 6,
+      "url": "https://www.bikestylish.ro/solutie-pentru-nipluri-cn-spoke-15-ml.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/solutie-pentru-nipluri-cn-spoke-15-ml~8280316.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/solutie-pentru-nipluri-cn-spoke-15-ml~8280316.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/solutie-pentru-nipluri-cn-spoke-15-ml~8281225.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/solutie-pentru-nipluri-cn-spoke-15-ml~8281228.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "cnSPOKE",
+        "➤ Nipluri - Accesorii"
+      ]
     }
   ],
   "categories": [
@@ -7646,7 +7641,7 @@
       "id": "antifurturi-cu-cheie",
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
-      "product_count": 18,
+      "product_count": 20,
       "in_stock_count": 7
     },
     {
@@ -7730,7 +7725,7 @@
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 43,
+      "product_count": 44,
       "in_stock_count": 25
     },
     {
@@ -7871,13 +7866,13 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 15
+      "in_stock_count": 16
     },
     {
       "id": "cosuri-transport-spate",
       "name": "➤ Cosuri Transport Spate",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Spate",
-      "product_count": 14,
+      "product_count": 15,
       "in_stock_count": 11
     },
     {
@@ -7919,7 +7914,7 @@
       "id": "foi-angrenaje",
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
-      "product_count": 31,
+      "product_count": 35,
       "in_stock_count": 21
     },
     {
@@ -7976,7 +7971,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 48,
-      "in_stock_count": 17
+      "in_stock_count": 18
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8150,7 +8145,7 @@
       "id": "portbagaje-fata",
       "name": "➤ Portbagaje Fata",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Fata",
-      "product_count": 4,
+      "product_count": 5,
       "in_stock_count": 4
     },
     {
@@ -8311,7 +8306,7 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 49,
+      "product_count": 50,
       "in_stock_count": 38
     },
     {
@@ -8346,14 +8341,14 @@
       "id": "truse-unelte-mini-truse",
       "name": "➤ Truse Unelte - Mini Truse",
       "full_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
-      "product_count": 15,
+      "product_count": 16,
       "in_stock_count": 11
     },
     {
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 173,
+      "product_count": 176,
       "in_stock_count": 137
     },
     {

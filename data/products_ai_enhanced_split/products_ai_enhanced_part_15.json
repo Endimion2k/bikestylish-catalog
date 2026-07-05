@@ -1,46 +1,14 @@
 {
-  "last_updated": "2026-07-04T04:16:12.095220+00:00",
+  "last_updated": "2026-07-05T04:24:42.385534+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 15,
     "total_parts": 19,
     "product_range": "3501-3750",
-    "original_total": 4695
+    "original_total": 4709
   },
   "products": [
-    {
-      "id": "11A00394",
-      "sku": "11A00394",
-      "ean": "8022530026826",
-      "name": "Anvelopa VITTORIA Corsa N.EXT Tube-Type 700 x 28C(28-622)",
-      "brand": "VITTORIA",
-      "category": "➤ Anvelope Pliabile",
-      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
-      "price": 357.5,
-      "price_net": 295.45,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
-      "weight_kg": 0.22,
-      "url": "https://www.bikestylish.ro/anvelopa-vittoria-corsa-n-ext-tube-type-700-x-28c-28-622.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-vittoria-corsa-n-ext-tube-type-700-x-28c-28-622~8336695.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-vittoria-corsa-n-ext-tube-type-700-x-28c-28-622~8336695.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-corsa-n-ext-tube-type-700-x-28c-28-622~12392568.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-corsa-n-ext-tube-type-700-x-28c-28-622~8336698.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-vittoria-corsa-n-ext-tube-type-700-x-28c-28-622~12392571.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-vittoria-corsa-n-ext-tube-type-700-x-28c-28-622~12392574.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "VITTORIA",
-        "➤ Anvelope Pliabile"
-      ],
-      "specs": {
-        "dimensions": "700 x 28"
-      }
-    },
     {
       "id": "11A00393",
       "sku": "11A00393",
@@ -4961,8 +4929,8 @@
       "secondary_categories": [
         "e- MOBILITY > Angrenaje E-Bike"
       ],
-      "price": 85.8,
-      "price_net": 70.91,
+      "price": 104.5,
+      "price_net": 86.36,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -7659,13 +7627,13 @@
     {
       "id": "SB3803",
       "sku": "SB3803",
-      "ean": "4712947227131",
+      "ean": "887539054304",
       "name": "Trusa Scule SUPER B TBA 300 Hobby 21 pcs",
       "brand": "SUPER B",
       "category": "➤ Truse Unelte - Mini Truse",
       "category_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
-      "price": 500.5,
-      "price_net": 413.64,
+      "price": 450.0,
+      "price_net": 371.9,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -7787,6 +7755,31 @@
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/banda-janta-tubeless-sxt-30-mm-10-m~8339641.jpg",
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/banda-janta-tubeless-sxt-30-mm-10-m~8339641.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Banda Janta - Tubeless"
+      ]
+    },
+    {
+      "id": "519841",
+      "sku": "519841",
+      "ean": "2802208000008",
+      "name": "Banda Janta Tubeless SXT 35 mm - 10 m",
+      "brand": "SXT",
+      "category": "➤ Banda Janta - Tubeless",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
+      "price": 75.9,
+      "price_net": 62.73,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 7,
+      "weight_kg": 0.08,
+      "url": "https://www.bikestylish.ro/banda-janta-tubeless-sxt-35-mm-10-m.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/banda-janta-tubeless-sxt-35-mm-10-m~8339644.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/banda-janta-tubeless-sxt-35-mm-10-m~8339644.jpg"
       ],
       "tags": [
         "COMPONENTE",
@@ -8108,7 +8101,7 @@
       "id": "antifurturi-cu-cheie",
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
-      "product_count": 18,
+      "product_count": 20,
       "in_stock_count": 7
     },
     {
@@ -8192,7 +8185,7 @@
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 43,
+      "product_count": 44,
       "in_stock_count": 25
     },
     {
@@ -8333,13 +8326,13 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 15
+      "in_stock_count": 16
     },
     {
       "id": "cosuri-transport-spate",
       "name": "➤ Cosuri Transport Spate",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Spate",
-      "product_count": 14,
+      "product_count": 15,
       "in_stock_count": 11
     },
     {
@@ -8381,7 +8374,7 @@
       "id": "foi-angrenaje",
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
-      "product_count": 31,
+      "product_count": 35,
       "in_stock_count": 21
     },
     {
@@ -8438,7 +8431,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 48,
-      "in_stock_count": 17
+      "in_stock_count": 18
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8612,7 +8605,7 @@
       "id": "portbagaje-fata",
       "name": "➤ Portbagaje Fata",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Fata",
-      "product_count": 4,
+      "product_count": 5,
       "in_stock_count": 4
     },
     {
@@ -8773,7 +8766,7 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 49,
+      "product_count": 50,
       "in_stock_count": 38
     },
     {
@@ -8808,14 +8801,14 @@
       "id": "truse-unelte-mini-truse",
       "name": "➤ Truse Unelte - Mini Truse",
       "full_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
-      "product_count": 15,
+      "product_count": 16,
       "in_stock_count": 11
     },
     {
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 173,
+      "product_count": 176,
       "in_stock_count": 137
     },
     {
