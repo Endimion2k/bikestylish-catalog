@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T04:22:29.621591+00:00",
+  "last_updated": "2026-07-08T04:03:48.218584+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -396,7 +396,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 14,
+      "stock_quantity": 10,
       "weight_kg": 0.9,
       "url": "https://www.bikestylish.ro/camera-kujo-700x18-25c-fv-48-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-kujo-700x18-25c-fv-48-mm~8327545.jpg",
@@ -1936,7 +1936,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/sa-ventura-e-grip-260-x-200-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/sa-ventura-e-grip-260-x-200-mm-negru~8328100.jpg",
@@ -2964,7 +2964,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 14,
+      "stock_quantity": 13,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/adaptor-cu-pipa-metal-m-wave-1-40-270-mm-negru-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/adaptor-cu-pipa-metal-m-wave-1-40-270-mm-negru-negru~8328565.jpg",
@@ -3386,7 +3386,7 @@
       "price_net": 48.76,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 26,
+      "stock_quantity": 23,
       "weight_kg": 0.99,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-attachi-24x2-10-52-507.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kujo-attachi-24x2-10-52-507~8328694.jpg",
@@ -4438,7 +4438,7 @@
       "price_net": 267.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 36,
+      "stock_quantity": 35,
       "weight_kg": 0.38,
       "url": "https://www.bikestylish.ro/protectie-antipana-tannus-tubeless-pro-29-x-2-10-2-60.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/protectie-antipana-tannus-tubeless-pro-29-x-2-10-2-60~8329147.jpg",
@@ -4877,8 +4877,8 @@
       "price": 495.0,
       "price_net": 409.09,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 4,
       "url": "https://www.bikestylish.ro/kit-service-brose.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/kit-service-brose~8329264.jpg",
       "images": [
@@ -5703,7 +5703,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/protectie-cadru-m-wave-protecto-cut-to-fit-400x90-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/protectie-cadru-m-wave-protecto-cut-to-fit-400x90-mm~8329582.jpg",
@@ -7466,7 +7466,7 @@
       "name": "Manusi Ciclism",
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
       "product_count": 45,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "motoare-e-bike",
@@ -7543,7 +7543,7 @@
       "name": "Tricouri Ciclism",
       "full_path": "ECHIPAMENTE > Tricouri Ciclism",
       "product_count": 3,
-      "in_stock_count": 3
+      "in_stock_count": 2
     },
     {
       "id": "trotinete-electrice",
@@ -7802,7 +7802,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 90,
-      "in_stock_count": 52
+      "in_stock_count": 51
     },
     {
       "id": "capete-cablu-manta",
@@ -7949,7 +7949,7 @@
       "name": "➤ Huse Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Huse Sa",
       "product_count": 7,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "intinzatoare-lant-directionare",
@@ -7998,7 +7998,7 @@
       "name": "➤ Lumini Spate",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "manete-frana",
@@ -8026,7 +8026,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 97,
-      "in_stock_count": 78
+      "in_stock_count": 77
     },
     {
       "id": "mantale",
@@ -8068,7 +8068,7 @@
       "name": "➤ Oglinzi",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
       "product_count": 25,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "pedale-click",
