@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T04:03:48.218584+00:00",
+  "last_updated": "2026-07-09T04:20:49.727302+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -421,7 +421,7 @@
       "price_net": 25.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 63,
+      "stock_quantity": 62,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/stop-spate-cu-baterii-sxt-portbagaj.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/stop-spate-cu-baterii-sxt-portbagaj~8284396.jpg",
@@ -533,7 +533,7 @@
       "price_net": 153.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 6,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/pompa-mini-shock-beto-dual-function-2-1-aluminiu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pompa-mini-shock-beto-dual-function-2-1-aluminiu~8284408.jpg",
@@ -1192,8 +1192,8 @@
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 12,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.19,
       "url": "https://www.bikestylish.ro/pompa-mini-beto-hxs-dubla-aluminiu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pompa-mini-beto-hxs-dubla-aluminiu~8284477.jpg",
@@ -2761,8 +2761,8 @@
       "price": 270.0,
       "price_net": 223.14,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.78,
       "url": "https://www.bikestylish.ro/casca-downhill-m-wave-all-in-1-m-54-58-cm-negru-mat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/casca-downhill-m-wave-all-in-1-m-54-58-cm-negru-mat~8284660.jpg",
@@ -3525,7 +3525,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 15,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/cheie-trei-brate-allen-super-b-tb-yy15.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-trei-brate-allen-super-b-tb-yy15~8284747.jpg",
@@ -3813,7 +3813,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 34,
+      "stock_quantity": 33,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/scula-pentru-reglat-placute-de-frana-super-b-tb-br10.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/scula-pentru-reglat-placute-de-frana-super-b-tb-br10~8284777.jpg",
@@ -3927,8 +3927,8 @@
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/cheie-pinioane-casetate-super-b-tb-1015.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/cheie-pinioane-casetate-super-b-tb-1015~8284789.jpg",
@@ -4960,7 +4960,7 @@
       "price_net": 62.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 15,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/scula-montat-flori-de-furca-m-wave-tw-f1-1-1-8.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/scula-montat-flori-de-furca-m-wave-tw-f1-1-1-8~8284900.jpg",
@@ -7167,7 +7167,7 @@
       "name": "Manusi Ciclism",
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
       "product_count": 45,
-      "in_stock_count": 30
+      "in_stock_count": 28
     },
     {
       "id": "motoare-e-bike",
@@ -7419,7 +7419,7 @@
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
       "product_count": 42,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "banda-janta-tubeless",
@@ -7503,7 +7503,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 90,
-      "in_stock_count": 51
+      "in_stock_count": 50
     },
     {
       "id": "capete-cablu-manta",
@@ -7538,7 +7538,7 @@
       "name": "➤ Casti Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
       "product_count": 18,
-      "in_stock_count": 10
+      "in_stock_count": 8
     },
     {
       "id": "chei-dinamometrice",
@@ -7685,7 +7685,7 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 50
+      "in_stock_count": 49
     },
     {
       "id": "lumini-fata",
@@ -7741,7 +7741,7 @@
       "name": "➤ Mini Pompe",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Mini Pompe",
       "product_count": 14,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "monobloace-b-b",
@@ -7881,7 +7881,7 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 39,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "roti-spate",
@@ -7930,7 +7930,7 @@
       "name": "➤ Schimbatoare Spate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "sei",
@@ -7972,7 +7972,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 39
+      "in_stock_count": 38
     },
     {
       "id": "spite-stainless",
@@ -8049,7 +8049,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 137
+      "in_stock_count": 136
     },
     {
       "id": "urechi-cadru",
@@ -8070,7 +8070,7 @@
       "name": "➤Depozitare Biciclete",
       "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
       "product_count": 21,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "suspensii-spate",

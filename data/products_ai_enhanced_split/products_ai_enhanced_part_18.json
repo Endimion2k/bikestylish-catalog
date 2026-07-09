@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T04:03:48.218584+00:00",
+  "last_updated": "2026-07-09T04:20:49.727302+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -4094,8 +4094,8 @@
       "price": 548.9,
       "price_net": 453.64,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-fata-26-karma-dh.html",
       "image": "None",
       "images": [
@@ -5246,7 +5246,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 8,
       "weight_kg": 42.0,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-albastru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-sxt-n-13-nylon-fiber-albastru~11326176.jpg",
@@ -5338,7 +5338,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 35,
+      "stock_quantity": 33,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-sxt-n-13-nylon-fiber-rosu~11326203.jpg",
@@ -5496,7 +5496,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 442,
+      "stock_quantity": 439,
       "url": "https://www.bikestylish.ro/pompa-mini-sxt-p100-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pompa-mini-sxt-p100-negru~11326305.jpg",
       "images": [
@@ -5524,7 +5524,7 @@
       "price_net": 104.96,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 239,
+      "stock_quantity": 237,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm-verde-apple.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ghidon-aluminiu-mtb-sxt-31-8-800-mm-verde-apple~11326332.jpg",
@@ -5560,7 +5560,7 @@
       "price_net": 17.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 781,
+      "stock_quantity": 771,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/saboti-frana-sxt-3-culori-70-mm-negru-grey-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/saboti-frana-sxt-3-culori-70-mm-negru-grey-rosu~11326359.jpg",
@@ -5794,7 +5794,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 282,
+      "stock_quantity": 280,
       "url": "https://www.bikestylish.ro/mansoane-mtb-ss45-lock-on-negru-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-mtb-ss45-lock-on-negru-rosu~11363130.jpg",
       "images": [
@@ -6857,7 +6857,7 @@
       "name": "Manusi Ciclism",
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
       "product_count": 45,
-      "in_stock_count": 30
+      "in_stock_count": 28
     },
     {
       "id": "motoare-e-bike",
@@ -7109,7 +7109,7 @@
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
       "product_count": 42,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "banda-janta-tubeless",
@@ -7193,7 +7193,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 90,
-      "in_stock_count": 51
+      "in_stock_count": 50
     },
     {
       "id": "capete-cablu-manta",
@@ -7228,7 +7228,7 @@
       "name": "➤ Casti Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
       "product_count": 18,
-      "in_stock_count": 10
+      "in_stock_count": 8
     },
     {
       "id": "chei-dinamometrice",
@@ -7375,7 +7375,7 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 50
+      "in_stock_count": 49
     },
     {
       "id": "lumini-fata",
@@ -7431,7 +7431,7 @@
       "name": "➤ Mini Pompe",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Mini Pompe",
       "product_count": 14,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "monobloace-b-b",
@@ -7571,7 +7571,7 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 39,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "roti-spate",
@@ -7620,7 +7620,7 @@
       "name": "➤ Schimbatoare Spate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "sei",
@@ -7662,7 +7662,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 39
+      "in_stock_count": 38
     },
     {
       "id": "spite-stainless",
@@ -7739,7 +7739,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 137
+      "in_stock_count": 136
     },
     {
       "id": "urechi-cadru",
@@ -7760,7 +7760,7 @@
       "name": "➤Depozitare Biciclete",
       "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
       "product_count": 21,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "suspensii-spate",
