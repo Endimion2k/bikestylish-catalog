@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T04:22:42.132302+00:00",
+  "last_updated": "2026-07-11T04:03:11.456208+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -527,8 +527,8 @@
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-24x1-95-2-125-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/camera-standard-vittoria-24x1-95-2-125-av-schrader-48mm~8341579.jpg",
       "images": [
@@ -4112,7 +4112,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 19,
+      "stock_quantity": 16,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-045-130-mm-lock-on-dublu-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-mtb-sxt-zn-045-130-mm-lock-on-dublu-negru~8342713.jpg",
@@ -7526,7 +7526,7 @@
       "price_net": 119.83,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 190,
+      "stock_quantity": 189,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-black-shiny-31-8-800mm-rise-30.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ghidon-aluminiu-mtb-sxt-black-shiny-31-8-800mm-rise-30~8343838.jpg",
@@ -7563,7 +7563,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 109,
+      "stock_quantity": 107,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-verde.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-mtb-sxt-zn-047-130-mm-lock-on-verde~8343850.jpg",
@@ -7824,7 +7824,7 @@
       "name": "Pompe Ciclism",
       "full_path": "ACCESORII > Pompe Ciclism",
       "product_count": 4,
-      "in_stock_count": 3
+      "in_stock_count": 2
     },
     {
       "id": "portbagaje",
@@ -7838,7 +7838,7 @@
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
       "product_count": 16,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -7992,7 +7992,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 187,
-      "in_stock_count": 120
+      "in_stock_count": 119
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -8104,7 +8104,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 68
+      "in_stock_count": 67
     },
     {
       "id": "butuci-v-break-dinam",
@@ -8132,7 +8132,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 90,
-      "in_stock_count": 57
+      "in_stock_count": 56
     },
     {
       "id": "capete-cablu-manta",
@@ -8328,7 +8328,7 @@
       "name": "➤ Lumini Spate",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "manete-frana",
@@ -8650,7 +8650,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "transport-biciclete",
