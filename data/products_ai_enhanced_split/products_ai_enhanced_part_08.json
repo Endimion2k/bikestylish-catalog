@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-13T04:14:40.948827+00:00",
+  "last_updated": "2026-07-14T04:00:55.975399+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 8,
     "total_parts": 19,
     "product_range": "1751-2000",
-    "original_total": 4737
+    "original_total": 4747
   },
   "products": [
     {
@@ -523,8 +523,8 @@
       "price": 170.5,
       "price_net": 140.91,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d484-canyon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d484-canyon~8292358.jpg",
@@ -2647,7 +2647,7 @@
       "price_net": 68.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 30,
+      "stock_quantity": 25,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/angrenaj-metal-sxt-1v-negru-38t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/angrenaj-metal-sxt-1v-negru-38t~8292601.jpg",
@@ -3005,7 +3005,7 @@
       "price_net": 23.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 38,
+      "stock_quantity": 28,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/set-flash-cu-baterii-m-wave-cobra-iv-roz.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/set-flash-cu-baterii-m-wave-cobra-iv-roz~8292640.jpg",
@@ -4256,7 +4256,7 @@
       "price_net": 209.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 48,
+      "stock_quantity": 46,
       "weight_kg": 1.43,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-gigas-26-x-4-0-98-559-k-1167.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-kenda-gigas-26-x-4-0-98-559-k-1167~8324083.jpg",
@@ -4973,7 +4973,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 589,
+      "stock_quantity": 585,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -5381,7 +5381,7 @@
       "price_net": 23.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 130,
+      "stock_quantity": 125,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/set-flash-cu-baterii-m-wave-cobra-iv-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/set-flash-cu-baterii-m-wave-cobra-iv-negru~8324587.jpg",
@@ -7285,7 +7285,7 @@
       "id": "e-mobility",
       "name": "e- MOBILITY",
       "full_path": "e- MOBILITY",
-      "product_count": 3,
+      "product_count": 6,
       "in_stock_count": 2
     },
     {
@@ -7517,7 +7517,7 @@
       "name": "➤ Capete Cablu - Manta",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Capete Cablu - Manta",
       "product_count": 20,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -7622,7 +7622,7 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 35,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "frane-disc",
@@ -7643,7 +7643,7 @@
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 25,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "ghidoane",
@@ -7895,7 +7895,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 48,
-      "in_stock_count": 35
+      "in_stock_count": 36
     },
     {
       "id": "rucsaci",
@@ -8062,7 +8062,7 @@
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "product_count": 1088,
+      "product_count": 1095,
       "in_stock_count": 329
     },
     {

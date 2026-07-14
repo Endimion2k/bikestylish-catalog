@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-13T04:14:40.948827+00:00",
+  "last_updated": "2026-07-14T04:00:55.975399+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 6,
     "total_parts": 19,
     "product_range": "1251-1500",
-    "original_total": 4737
+    "original_total": 4747
   },
   "products": [
     {
@@ -816,8 +816,8 @@
       "price": 85.0,
       "price_net": 70.25,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 0.6,
       "url": "https://www.bikestylish.ro/sa-m-wave-vacu-city-ii-260x210-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/sa-m-wave-vacu-city-ii-260x210-mm~8287798.jpg",
@@ -1196,8 +1196,8 @@
       "price": 225.0,
       "price_net": 185.95,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 5,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-26-559x19c-basic-qr-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-26-559x19c-basic-qr-36h~8287837.jpg",
       "images": [
@@ -3018,7 +3018,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 114,
+      "stock_quantity": 112,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/set-leviere-anvelope-3-buc-m-wave-tp-l1-plastic.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-leviere-anvelope-3-buc-m-wave-tp-l1-plastic~8289034.jpg",
@@ -3300,7 +3300,7 @@
       "price_net": 34.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 57,
+      "stock_quantity": 56,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/set-v-brake-aluminiu-m-wave-f-r-silver-113-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/set-v-brake-aluminiu-m-wave-f-r-silver-113-mm~8289067.jpg",
@@ -5544,7 +5544,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-sxt-gh-045-p5-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-sxt-gh-045-p5-silver~8289307.jpg",
@@ -7575,7 +7575,7 @@
       "id": "e-mobility",
       "name": "e- MOBILITY",
       "full_path": "e- MOBILITY",
-      "product_count": 3,
+      "product_count": 6,
       "in_stock_count": 2
     },
     {
@@ -7807,7 +7807,7 @@
       "name": "➤ Capete Cablu - Manta",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Capete Cablu - Manta",
       "product_count": 20,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -7912,7 +7912,7 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 35,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "frane-disc",
@@ -7933,7 +7933,7 @@
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 25,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "ghidoane",
@@ -8185,7 +8185,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 48,
-      "in_stock_count": 35
+      "in_stock_count": 36
     },
     {
       "id": "rucsaci",
@@ -8352,7 +8352,7 @@
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "product_count": 1088,
+      "product_count": 1095,
       "in_stock_count": 329
     },
     {

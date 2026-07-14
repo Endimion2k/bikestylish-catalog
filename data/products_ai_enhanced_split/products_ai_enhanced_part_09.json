@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-13T04:14:40.948827+00:00",
+  "last_updated": "2026-07-14T04:00:55.975399+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4737
+    "original_total": 4747
   },
   "products": [
     {
@@ -1041,8 +1041,8 @@
       "price": 605.0,
       "price_net": 500.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/furca-fixa-road-sxt-700c-1-1-8-aluminiu-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/furca-fixa-road-sxt-700c-1-1-8-aluminiu-negru~8325625.jpg",
@@ -2107,7 +2107,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 200,
+      "stock_quantity": 190,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/cric-aluminiu-sxt-a16-20c.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/cric-aluminiu-sxt-a16-20c~8325895.jpg",
@@ -7251,7 +7251,7 @@
       "id": "e-mobility",
       "name": "e- MOBILITY",
       "full_path": "e- MOBILITY",
-      "product_count": 3,
+      "product_count": 6,
       "in_stock_count": 2
     },
     {
@@ -7483,7 +7483,7 @@
       "name": "➤ Capete Cablu - Manta",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Capete Cablu - Manta",
       "product_count": 20,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -7588,7 +7588,7 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 35,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "frane-disc",
@@ -7609,7 +7609,7 @@
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 25,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "ghidoane",
@@ -7861,7 +7861,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 48,
-      "in_stock_count": 35
+      "in_stock_count": 36
     },
     {
       "id": "rucsaci",
@@ -8028,7 +8028,7 @@
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "product_count": 1088,
+      "product_count": 1095,
       "in_stock_count": 329
     },
     {
