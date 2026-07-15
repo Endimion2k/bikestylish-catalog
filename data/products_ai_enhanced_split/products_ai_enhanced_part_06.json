@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T04:00:55.975399+00:00",
+  "last_updated": "2026-07-15T04:01:32.962643+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -761,7 +761,7 @@
       "price_net": 55.37,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 19,
       "weight_kg": 0.73,
       "url": "https://www.bikestylish.ro/sa-ventura-fc-gel-o-zone.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/sa-ventura-fc-gel-o-zone~8287792.jpg",
@@ -976,7 +976,7 @@
       "price_net": 185.95,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "url": "https://www.bikestylish.ro/roata-fata-sxt-27-5-584x19c-basic-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-sxt-27-5-584x19c-basic-36h~8287816.jpg",
       "images": [
@@ -2472,7 +2472,7 @@
       "price_net": 20.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 138,
+      "stock_quantity": 137,
       "url": "https://www.bikestylish.ro/capete-manta-plastic-5-mm-100-buc.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/capete-manta-plastic-5-mm-100-buc~8288974.jpg",
       "images": [
@@ -3048,8 +3048,8 @@
       "price": 33.0,
       "price_net": 27.27,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 1,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/set-leviere-anvelope-2-buc-m-wave-pro.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/set-leviere-anvelope-2-buc-m-wave-pro~8289037.jpg",
@@ -3300,7 +3300,7 @@
       "price_net": 34.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 56,
+      "stock_quantity": 51,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/set-v-brake-aluminiu-m-wave-f-r-silver-113-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/set-v-brake-aluminiu-m-wave-f-r-silver-113-mm~8289067.jpg",
@@ -3971,7 +3971,7 @@
       "price_net": 131.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 29,
+      "stock_quantity": 28,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/pedale-ht-pa12-sky-blue-292c.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-pa12-sky-blue-292c~8289145.jpg",
@@ -5078,8 +5078,8 @@
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/placute-frana-m-wave-as1-organice-elixir-xx-x0-db.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/placute-frana-m-wave-as1-organice-elixir-xx-x0-db~8289259.jpg",
@@ -6077,8 +6077,8 @@
       "price": 658.9,
       "price_net": 544.55,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 1,
       "weight_kg": 0.62,
       "url": "https://www.bikestylish.ro/pinion-casetat-shimano-xt-11-v-11-46-t-cs-m8000.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-casetat-shimano-xt-11-v-11-46-t-cs-m8000~8289361.jpg",
@@ -7345,7 +7345,7 @@
       "name": "Angrenaje E-Bike",
       "full_path": "e- MOBILITY > Angrenaje E-Bike",
       "product_count": 15,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "antifurturi-alarme",
@@ -7639,7 +7639,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 21,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7674,7 +7674,7 @@
       "name": "➤ Aparatori Noroi Fata",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Aparatori Noroi Fata",
       "product_count": 7,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "aparatori-noroi-spate",
@@ -7751,7 +7751,7 @@
       "name": "➤ Bike Computer",
       "full_path": "ACCESORII > Electronice > ➤ Bike Computer",
       "product_count": 7,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "bike-lube-lubrefiere",
@@ -7765,7 +7765,7 @@
       "name": "➤ Brate Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
       "product_count": 53,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "butuci-frana-disc",
@@ -8024,7 +8024,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 97,
-      "in_stock_count": 78
+      "in_stock_count": 77
     },
     {
       "id": "mantale",
@@ -8087,7 +8087,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 104
+      "in_stock_count": 103
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8101,7 +8101,7 @@
       "name": "➤ Pinioane Casetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pinioane Casetate",
       "product_count": 9,
-      "in_stock_count": 1
+      "in_stock_count": 3
     },
     {
       "id": "pionioane-filetate",
@@ -8122,7 +8122,7 @@
       "name": "➤ Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
       "product_count": 26,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pompe-furca-tubeless",
@@ -8157,7 +8157,7 @@
       "name": "➤ Protectii Antipana",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
       "product_count": 45,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "protectii-lant-cadru",
@@ -8248,7 +8248,7 @@
       "name": "➤ Seturi Aparatori Noroi",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
       "product_count": 29,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "seturi-roti",
@@ -8353,7 +8353,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 329
+      "in_stock_count": 328
     },
     {
       "id": "bike-maintenance-intretinere",

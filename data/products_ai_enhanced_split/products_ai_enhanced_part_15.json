@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T04:00:55.975399+00:00",
+  "last_updated": "2026-07-15T04:01:32.962643+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -3146,8 +3146,8 @@
       "price": 154.0,
       "price_net": 127.27,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.7,
       "url": "https://www.bikestylish.ro/set-aparatori-noroi-26-29-m-wave-mud-max-f-r-adj-l.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/set-aparatori-noroi-26-29-m-wave-mud-max-f-r-adj-l~8338093.jpg",
@@ -3795,7 +3795,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 476,
+      "stock_quantity": 416,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/camera-kujo-26-x-1-75-2-125-av-33-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kujo-26-x-1-75-2-125-av-33-mm~8338252.jpg",
@@ -4475,7 +4475,7 @@
       "price_net": 3.31,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 418,
+      "stock_quantity": 308,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/adaptor-ventil-sxt-dv-fv-av-alama.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/adaptor-ventil-sxt-dv-fv-av-alama~8338480.jpg",
@@ -6744,7 +6744,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 29,
+      "stock_quantity": 27,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/cos-spate-sxt-across-40.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/cos-spate-sxt-across-40~8339320.jpg",
@@ -6885,7 +6885,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 18,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/placute-frana-m-wave-sram-organice.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/placute-frana-m-wave-sram-organice~8339362.jpg",
@@ -7535,7 +7535,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 17,
+      "stock_quantity": 16,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/ureche-cadru-super-b-tb-et05.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-super-b-tb-et05~8339608.jpg",
@@ -7809,7 +7809,7 @@
       "name": "Angrenaje E-Bike",
       "full_path": "e- MOBILITY > Angrenaje E-Bike",
       "product_count": 15,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "antifurturi-alarme",
@@ -8103,7 +8103,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 21,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -8138,7 +8138,7 @@
       "name": "➤ Aparatori Noroi Fata",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Aparatori Noroi Fata",
       "product_count": 7,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "aparatori-noroi-spate",
@@ -8215,7 +8215,7 @@
       "name": "➤ Bike Computer",
       "full_path": "ACCESORII > Electronice > ➤ Bike Computer",
       "product_count": 7,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "bike-lube-lubrefiere",
@@ -8229,7 +8229,7 @@
       "name": "➤ Brate Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
       "product_count": 53,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "butuci-frana-disc",
@@ -8488,7 +8488,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 97,
-      "in_stock_count": 78
+      "in_stock_count": 77
     },
     {
       "id": "mantale",
@@ -8551,7 +8551,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 104
+      "in_stock_count": 103
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8565,7 +8565,7 @@
       "name": "➤ Pinioane Casetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pinioane Casetate",
       "product_count": 9,
-      "in_stock_count": 1
+      "in_stock_count": 3
     },
     {
       "id": "pionioane-filetate",
@@ -8586,7 +8586,7 @@
       "name": "➤ Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
       "product_count": 26,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pompe-furca-tubeless",
@@ -8621,7 +8621,7 @@
       "name": "➤ Protectii Antipana",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
       "product_count": 45,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "protectii-lant-cadru",
@@ -8712,7 +8712,7 @@
       "name": "➤ Seturi Aparatori Noroi",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
       "product_count": 29,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "seturi-roti",
@@ -8817,7 +8817,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 329
+      "in_stock_count": 328
     },
     {
       "id": "bike-maintenance-intretinere",
