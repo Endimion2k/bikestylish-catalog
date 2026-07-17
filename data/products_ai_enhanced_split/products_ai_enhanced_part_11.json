@@ -1,43 +1,14 @@
 {
-  "last_updated": "2026-07-16T04:02:24.939734+00:00",
+  "last_updated": "2026-07-17T04:01:46.811828+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
     "total_parts": 19,
     "product_range": "2501-2750",
-    "original_total": 4747
+    "original_total": 4746
   },
   "products": [
-    {
-      "id": "HTT2SXN",
-      "sku": "HTT2SXN",
-      "ean": "4711126209159",
-      "name": "Pedale HT T2-SX Negru",
-      "brand": "HT COMPONENTS",
-      "category": "➤ Pedale Click",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
-      "price": 658.9,
-      "price_net": 544.55,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-t2-sx-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-t2-sx-negru~8330158.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-t2-sx-negru~8330158.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-t2-sx-negru~8330161.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "HT COMPONENTS",
-        "➤ Pedale Click"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
     {
       "id": "D24",
       "sku": "D24",
@@ -979,7 +950,7 @@
       "price_net": 23.14,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 105,
+      "stock_quantity": 101,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/ulei-special-m-wave-oil-guard-bio-100-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ulei-special-m-wave-oil-guard-bio-100-ml~8330437.jpg",
@@ -6479,6 +6450,31 @@
         "PILO",
         "➤ Urechi Cadru"
       ]
+    },
+    {
+      "id": "D411",
+      "sku": "D411",
+      "ean": "7290107114189",
+      "name": "Ureche Cadru PILO D411 Ibis",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d411-ibis.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d411-ibis~8331229.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d411-ibis~8331229.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6627,7 +6623,7 @@
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
       "product_count": 11,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "pantaloni-ciclism",
@@ -6991,7 +6987,7 @@
       "name": "➤ Casti Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
       "product_count": 18,
-      "in_stock_count": 8
+      "in_stock_count": 6
     },
     {
       "id": "chei-dinamometrice",
@@ -7040,7 +7036,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 14,
-      "in_stock_count": 9
+      "in_stock_count": 10
     },
     {
       "id": "cuveti-headset",
@@ -7243,7 +7239,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 103
+      "in_stock_count": 102
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7327,7 +7323,7 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "roti-fata",
@@ -7347,8 +7343,8 @@
       "id": "rucsaci",
       "name": "➤ Rucsaci",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Rucsaci",
-      "product_count": 4,
-      "in_stock_count": 3
+      "product_count": 3,
+      "in_stock_count": 2
     },
     {
       "id": "rulmenti-headset",
@@ -7425,7 +7421,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "spite-stainless",
@@ -7495,21 +7491,21 @@
       "name": "➤ Truse Unelte - Mini Truse",
       "full_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
       "product_count": 17,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 149
+      "in_stock_count": 148
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 328
+      "in_stock_count": 327
     },
     {
       "id": "bike-maintenance-intretinere",

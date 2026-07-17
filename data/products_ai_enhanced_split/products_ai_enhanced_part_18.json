@@ -1,49 +1,14 @@
 {
-  "last_updated": "2026-07-16T04:02:24.939734+00:00",
+  "last_updated": "2026-07-17T04:01:46.811828+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 18,
     "total_parts": 19,
     "product_range": "4251-4500",
-    "original_total": 4747
+    "original_total": 4746
   },
   "products": [
-    {
-      "id": "410022",
-      "sku": "410022",
-      "ean": "664533242223",
-      "name": "Mansoane MTB SXT ZN-047 - 130 mm Lock-On Rosu California",
-      "brand": "SXT",
-      "category": "➤ Mansoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
-      "price": 60.5,
-      "price_net": 50.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 90,
-      "weight_kg": 0.05,
-      "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california~8343886.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california~8343886.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california~8343889.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california~8343892.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california~8343895.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "MTB",
-        "SXT",
-        "➤ Mansoane"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ],
-        "color": "Rosu"
-      }
-    },
     {
       "id": "410021",
       "sku": "410021",
@@ -125,7 +90,7 @@
       "price_net": 180.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 14,
+      "stock_quantity": 13,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-alnc-2032-negru-3-rulmenti-120-x-110-x-20-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-aluminiu-sxt-alnc-2032-negru-3-rulmenti-120-x-110-x-20-mm~8343922.jpg",
@@ -363,7 +328,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 119,
+      "stock_quantity": 117,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-83-x-74mm-negru-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-plastic-sxt-83-x-74mm-negru-9-16~8343967.jpg",
@@ -501,7 +466,7 @@
       "price_net": 113.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 7,
       "url": "https://www.bikestylish.ro/angrenaj-pedalier-42-34-24t-170mm-shimano-fc-ty501-altus-3-x-6-7-8.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/angrenaj-pedalier-42-34-24t-170mm-shimano-fc-ty501-altus-3-x-6-7-8~8338909.jpg",
       "images": [
@@ -2542,7 +2507,7 @@
       "price_net": 2.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 1000,
+      "stock_quantity": 960,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/catadioptri-cleme-metal-ventura-k.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/catadioptri-cleme-metal-ventura-k~10362222.jpg",
@@ -2596,7 +2561,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 42,
+      "stock_quantity": 41,
       "weight_kg": 0.95,
       "url": "https://www.bikestylish.ro/roti-ajutatoare-pentru-bicicletele-de-copii-cu-viteze-16-20-sxt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/roti-ajutatoare-pentru-bicicletele-de-copii-cu-viteze-16-20-sxt~10362231.jpg",
@@ -2627,7 +2592,7 @@
       "price_net": 29.75,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 126,
+      "stock_quantity": 121,
       "weight_kg": 0.72,
       "url": "https://www.bikestylish.ro/roti-ajutatoare-reglabile-12-20.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/roti-ajutatoare-reglabile-12-20~10362234.jpg",
@@ -5182,8 +5147,8 @@
       "price": 110.0,
       "price_net": 90.91,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 42.0,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-albastru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-sxt-n-13-nylon-fiber-albastru~11326176.jpg",
@@ -5244,7 +5209,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 48,
+      "stock_quantity": 47,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-verde-neon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-sxt-n-13-nylon-fiber-verde-neon~11326194.jpg",
@@ -5338,7 +5303,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 353,
+      "stock_quantity": 351,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-181x-negru-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-plastic-sxt-181x-negru-9-16~11326230.jpg",
@@ -5370,7 +5335,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 462,
+      "stock_quantity": 461,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-181x-verde-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-plastic-sxt-181x-verde-9-16~11326245.jpg",
@@ -5402,7 +5367,7 @@
       "price_net": 0.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 373,
+      "stock_quantity": 371,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-215x-negru-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-plastic-sxt-215x-negru-9-16~11326266.jpg",
@@ -5433,7 +5398,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 439,
+      "stock_quantity": 436,
       "url": "https://www.bikestylish.ro/pompa-mini-sxt-p100-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pompa-mini-sxt-p100-negru~11326305.jpg",
       "images": [
@@ -5854,7 +5819,7 @@
       "price_net": 23.97,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 277,
+      "stock_quantity": 276,
       "url": "https://www.bikestylish.ro/mansoane-junior-sxt-b007-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-junior-sxt-b007-negru~11363166.jpg",
       "images": [
@@ -6036,8 +6001,8 @@
       "price": 2662.0,
       "price_net": 2200.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/trusa-super-b-tb-db11.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/trusa-super-b-tb-db11~11998839.jpg",
@@ -6712,6 +6677,34 @@
         "M-WAVE",
         "➤ Lumini Spate"
       ]
+    },
+    {
+      "id": "466619",
+      "sku": "466619",
+      "ean": "887539025885",
+      "name": "Set Reflectorizante SXT F+R+S",
+      "brand": "SXT",
+      "category": "➤ Reflectorizante",
+      "category_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
+      "price": 20.0,
+      "price_net": 16.53,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.15,
+      "url": "https://www.bikestylish.ro/set-reflectorizante-sxt-f-r-s.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/set-reflectorizante-sxt-f-r-s~12071586.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/set-reflectorizante-sxt-f-r-s~12071586.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/set-reflectorizante-sxt-f-r-s~12071589.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/set-reflectorizante-sxt-f-r-s~12071592.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/set-reflectorizante-sxt-f-r-s~12071595.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "SXT",
+        "➤ Reflectorizante"
+      ]
     }
   ],
   "categories": [
@@ -6860,7 +6853,7 @@
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
       "product_count": 11,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "pantaloni-ciclism",
@@ -7224,7 +7217,7 @@
       "name": "➤ Casti Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
       "product_count": 18,
-      "in_stock_count": 8
+      "in_stock_count": 6
     },
     {
       "id": "chei-dinamometrice",
@@ -7273,7 +7266,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 14,
-      "in_stock_count": 9
+      "in_stock_count": 10
     },
     {
       "id": "cuveti-headset",
@@ -7476,7 +7469,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 103
+      "in_stock_count": 102
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7560,7 +7553,7 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "roti-fata",
@@ -7580,8 +7573,8 @@
       "id": "rucsaci",
       "name": "➤ Rucsaci",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Rucsaci",
-      "product_count": 4,
-      "in_stock_count": 3
+      "product_count": 3,
+      "in_stock_count": 2
     },
     {
       "id": "rulmenti-headset",
@@ -7658,7 +7651,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "spite-stainless",
@@ -7728,21 +7721,21 @@
       "name": "➤ Truse Unelte - Mini Truse",
       "full_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
       "product_count": 17,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 149
+      "in_stock_count": 148
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 328
+      "in_stock_count": 327
     },
     {
       "id": "bike-maintenance-intretinere",

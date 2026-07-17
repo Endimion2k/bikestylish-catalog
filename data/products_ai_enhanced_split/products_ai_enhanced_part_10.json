@@ -1,40 +1,14 @@
 {
-  "last_updated": "2026-07-16T04:02:24.939734+00:00",
+  "last_updated": "2026-07-17T04:01:46.811828+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
     "total_parts": 19,
     "product_range": "2251-2500",
-    "original_total": 4747
+    "original_total": 4746
   },
   "products": [
-    {
-      "id": "122319",
-      "sku": "122319",
-      "ean": "4015493120056",
-      "name": "Husa Protectie Ploaie M-WAVE AMSTERDAM PROTECT",
-      "brand": "M-WAVE",
-      "category": "Rucsaci - Bagaje - Borsete",
-      "category_path": "ACCESORII > Rucsaci - Bagaje - Borsete",
-      "price": 60.5,
-      "price_net": 50.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
-      "weight_kg": 0.15,
-      "url": "https://www.bikestylish.ro/husa-protectie-ploaie-m-wave-amsterdam-protect.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/husa-protectie-ploaie-m-wave-amsterdam-protect~8327401.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/husa-protectie-ploaie-m-wave-amsterdam-protect~8327401.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/husa-protectie-ploaie-m-wave-amsterdam-protect~8327404.jpg"
-      ],
-      "tags": [
-        "ACCESORII",
-        "M-WAVE",
-        "Rucsaci - Bagaje - Borsete"
-      ]
-    },
     {
       "id": "612020",
       "sku": "612020",
@@ -3898,7 +3872,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 1,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-steady-flat-2-epb-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-plastic-sxt-steady-flat-2-epb-negru~8328910.jpg",
@@ -5444,7 +5418,7 @@
       "price_net": 53.72,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 44,
+      "stock_quantity": 43,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/butuc-fata-d761dse-36h-frana-disc-qr-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-fata-d761dse-36h-frana-disc-qr-negru~8329486.jpg",
@@ -5738,7 +5712,7 @@
       "price_net": 289.26,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 2,
       "weight_kg": 2.0,
       "url": "https://www.bikestylish.ro/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-27-5-584-x21c-x-32h-neuro-disc-2r~8329642.jpg",
@@ -7138,7 +7112,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 9,
       "url": "https://www.bikestylish.ro/anvelopa-plina-trotineta-fagure-8-5x2-0-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-plina-trotineta-fagure-8-5x2-0-negru~8330107.jpg",
       "images": [
@@ -7328,6 +7302,35 @@
       "specs": {
         "color": "Rosu"
       }
+    },
+    {
+      "id": "HTT2SXN",
+      "sku": "HTT2SXN",
+      "ean": "4711126209159",
+      "name": "Pedale HT T2-SX Negru",
+      "brand": "HT COMPONENTS",
+      "category": "➤ Pedale Click",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
+      "price": 658.9,
+      "price_net": 544.55,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.45,
+      "url": "https://www.bikestylish.ro/pedale-ht-t2-sx-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-t2-sx-negru~8330158.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-t2-sx-negru~8330158.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-t2-sx-negru~8330161.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "➤ Pedale Click"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -7476,7 +7479,7 @@
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
       "product_count": 11,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "pantaloni-ciclism",
@@ -7840,7 +7843,7 @@
       "name": "➤ Casti Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
       "product_count": 18,
-      "in_stock_count": 8
+      "in_stock_count": 6
     },
     {
       "id": "chei-dinamometrice",
@@ -7889,7 +7892,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 14,
-      "in_stock_count": 9
+      "in_stock_count": 10
     },
     {
       "id": "cuveti-headset",
@@ -8092,7 +8095,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 103
+      "in_stock_count": 102
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8176,7 +8179,7 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "roti-fata",
@@ -8196,8 +8199,8 @@
       "id": "rucsaci",
       "name": "➤ Rucsaci",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Rucsaci",
-      "product_count": 4,
-      "in_stock_count": 3
+      "product_count": 3,
+      "in_stock_count": 2
     },
     {
       "id": "rulmenti-headset",
@@ -8274,7 +8277,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "spite-stainless",
@@ -8344,21 +8347,21 @@
       "name": "➤ Truse Unelte - Mini Truse",
       "full_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
       "product_count": 17,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 149
+      "in_stock_count": 148
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 328
+      "in_stock_count": 327
     },
     {
       "id": "bike-maintenance-intretinere",

@@ -1,41 +1,14 @@
 {
-  "last_updated": "2026-07-16T04:02:24.939734+00:00",
+  "last_updated": "2026-07-17T04:01:46.811828+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 14,
     "total_parts": 19,
     "product_range": "3251-3500",
-    "original_total": 4747
+    "original_total": 4746
   },
   "products": [
-    {
-      "id": "D1066",
-      "sku": "D1066",
-      "ean": "7290117590614",
-      "name": "Ureche Cadru PILO D1066 Centurion",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 165.0,
-      "price_net": 136.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1066-centurion.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1066-centurion~8335012.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1066-centurion~8335012.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1066-centurion~8335015.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1066-centurion~8335018.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D1067",
       "sku": "D1067",
@@ -2369,7 +2342,7 @@
       "price_net": 109.09,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 3,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d127-giant.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d127-giant~8335690.jpg",
@@ -4860,7 +4833,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 112,
+      "stock_quantity": 107,
       "weight_kg": 0.27,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm~8336053.jpg",
@@ -5139,8 +5112,8 @@
       "price": 41.8,
       "price_net": 34.55,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 0.32,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-27-5x2-50-3-0-fv-presta-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/camera-standard-vittoria-27-5x2-50-3-0-fv-presta-48mm~8336080.jpg",
@@ -6530,8 +6503,8 @@
       "brand": "VITTORIA",
       "category": "➤ Anvelope Pliabile",
       "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
-      "price": 176.0,
-      "price_net": 145.45,
+      "price": 139.0,
+      "price_net": 114.88,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 53,
@@ -6852,6 +6825,39 @@
       "specs": {
         "dimensions": "700 x 30"
       }
+    },
+    {
+      "id": "1113M32365111TG",
+      "sku": "1113M32365111TG",
+      "ean": "8022530008051",
+      "name": "Anvelopa VITTORIA Mezcal 29x2.6(65-622) Rigid XC Adventure",
+      "brand": "VITTORIA",
+      "category": "➤ Anvelope pe Sârmă",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
+      "price": 99.0,
+      "price_net": 81.82,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 5,
+      "weight_kg": 0.94,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-mezcal-29x2-6-65-622-rigid-xc-adventure.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-mezcal-29x2-6-65-622-rigid-xc-adventure~8336749.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-mezcal-29x2-6-65-622-rigid-xc-adventure~8336749.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-vittoria-mezcal-29x2-6-65-622-rigid-xc-adventure~8336752.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-vittoria-mezcal-29x2-6-65-622-rigid-xc-adventure~8336755.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-mezcal-29x2-6-65-622-rigid-xc-adventure~8336758.jpg"
+      ],
+      "tags": [
+        "29 inch",
+        "COMPONENTE",
+        "VITTORIA",
+        "➤ Anvelope pe Sârmă"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "dimensions": "29 x 2.6"
+      }
     }
   ],
   "categories": [
@@ -7000,7 +7006,7 @@
       "name": "Motoare E-Bike",
       "full_path": "e- MOBILITY > Motoare E-Bike",
       "product_count": 11,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "pantaloni-ciclism",
@@ -7364,7 +7370,7 @@
       "name": "➤ Casti Ciclism",
       "full_path": "ECHIPAMENTE > Casti - Ochelari > ➤ Casti Ciclism",
       "product_count": 18,
-      "in_stock_count": 8
+      "in_stock_count": 6
     },
     {
       "id": "chei-dinamometrice",
@@ -7413,7 +7419,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 14,
-      "in_stock_count": 9
+      "in_stock_count": 10
     },
     {
       "id": "cuveti-headset",
@@ -7616,7 +7622,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 103
+      "in_stock_count": 102
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7700,7 +7706,7 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "roti-fata",
@@ -7720,8 +7726,8 @@
       "id": "rucsaci",
       "name": "➤ Rucsaci",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Rucsaci",
-      "product_count": 4,
-      "in_stock_count": 3
+      "product_count": 3,
+      "in_stock_count": 2
     },
     {
       "id": "rulmenti-headset",
@@ -7798,7 +7804,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "spite-stainless",
@@ -7868,21 +7874,21 @@
       "name": "➤ Truse Unelte - Mini Truse",
       "full_path": "COMPONENTE > Unelte Service > ➤ Truse Unelte - Mini Truse",
       "product_count": 17,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "unelte-speciale-biciclete",
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 149
+      "in_stock_count": 148
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 328
+      "in_stock_count": 327
     },
     {
       "id": "bike-maintenance-intretinere",
