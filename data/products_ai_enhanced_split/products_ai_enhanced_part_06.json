@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T04:01:46.811828+00:00",
+  "last_updated": "2026-07-18T04:00:32.682644+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -2755,8 +2755,8 @@
       "price": 15.0,
       "price_net": 12.4,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 1,
       "url": "https://www.bikestylish.ro/ax-gaurit-butuc-spate-sxt-qr-m10-x-145-135-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ax-gaurit-butuc-spate-sxt-qr-m10-x-145-135-mm~8289007.jpg",
       "images": [
@@ -2813,7 +2813,7 @@
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 11,
       "weight_kg": 0.23,
       "url": "https://www.bikestylish.ro/brat-angrenaj-stanga-sxt-negru-175-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/brat-angrenaj-stanga-sxt-negru-175-mm~8289013.jpg",
@@ -2902,7 +2902,7 @@
       "price_net": 41.32,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 8,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/sonerie-m-wave-bella-c-yell-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/sonerie-m-wave-bella-c-yell-negru~8289022.jpg",
@@ -2957,7 +2957,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 24,
       "weight_kg": 0.21,
       "url": "https://www.bikestylish.ro/presa-lant-ventura-1-12-v.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/presa-lant-ventura-1-12-v~8289028.jpg",
@@ -4927,7 +4927,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 11,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/maneta-frana-copii-m-wave-dreapta-plastic-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/maneta-frana-copii-m-wave-dreapta-plastic-negru~8289244.jpg",
@@ -4961,7 +4961,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 14,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/maneta-frana-copii-m-wave-stanga-plastic-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/maneta-frana-copii-m-wave-stanga-plastic-negru~8289247.jpg",
@@ -7687,7 +7687,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 41
+      "in_stock_count": 42
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7722,7 +7722,7 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 44,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "bar-tape-accesorii",
@@ -7806,7 +7806,7 @@
       "name": "➤ Capete Cablu - Manta",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Capete Cablu - Manta",
       "product_count": 20,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -7862,7 +7862,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "cosuri-transport-spate",
@@ -8023,7 +8023,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 97,
-      "in_stock_count": 77
+      "in_stock_count": 78
     },
     {
       "id": "mantale",
