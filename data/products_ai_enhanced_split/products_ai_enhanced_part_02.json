@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T04:17:16.449426+00:00",
+  "last_updated": "2026-07-21T04:04:00.417177+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -77,7 +77,7 @@
       "price_net": 8.26,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 101,
+      "stock_quantity": 91,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/cheie-spite-sxt-10-15g.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-spite-sxt-10-15g~8280337.jpg",
@@ -130,7 +130,7 @@
       "price_net": 0.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 6900,
+      "stock_quantity": 6800,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/niplu-cnspoke-14g-b-brass-2-0-x-14-mm-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/niplu-cnspoke-14g-b-brass-2-0-x-14-mm-silver~8280343.jpg",
@@ -1385,7 +1385,7 @@
       "price_net": 43.64,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-non-slip-2.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-aluminiu-sxt-non-slip-2~8280472.jpg",
@@ -1866,7 +1866,7 @@
       "price_net": 209.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 31,
+      "stock_quantity": 29,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/butuc-aluminiu-spate-sxt-32h-fd-d342tse-hl-b12-148-12-mm-bile.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-aluminiu-spate-sxt-32h-fd-d342tse-hl-b12-148-12-mm-bile~8280520.jpg",
@@ -5021,8 +5021,8 @@
       "price": 17.0,
       "price_net": 14.05,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/suport-bidon-aluminiu-sxt-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/suport-bidon-aluminiu-sxt-rosu~8281897.jpg",
@@ -5082,7 +5082,7 @@
       "price_net": 14.05,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 46,
+      "stock_quantity": 43,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/suport-bidon-aluminiu-sxt-albastru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/suport-bidon-aluminiu-sxt-albastru~8281903.jpg",
@@ -5552,7 +5552,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 51,
+      "stock_quantity": 49,
       "weight_kg": 0.36,
       "url": "https://www.bikestylish.ro/brat-angrenaj-sxt-metal-plastic-stanga-170-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/brat-angrenaj-sxt-metal-plastic-stanga-170-mm-negru~8281954.jpg",
@@ -5583,7 +5583,7 @@
       "price_net": 32.23,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 15,
       "weight_kg": 0.23,
       "url": "https://www.bikestylish.ro/brat-angrenaj-sxt-aluminiu-stanga-negru-170-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/brat-angrenaj-sxt-aluminiu-stanga-negru-170-mm~8281957.jpg",
@@ -7039,7 +7039,7 @@
       "price_net": 33.06,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 26,
+      "stock_quantity": 24,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/ulei-mineral-100-ml-m-wave.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ulei-mineral-100-ml-m-wave~8282113.jpg",
@@ -7431,7 +7431,7 @@
       "name": "Trotinete Electrice",
       "full_path": "e- MOBILITY > Trotinete Electrice",
       "product_count": 38,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "unelte-service",
@@ -7606,7 +7606,7 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 44,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "bar-tape-accesorii",
@@ -7669,7 +7669,7 @@
       "name": "➤ Cabluri",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Cabluri",
       "product_count": 15,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "cadre-ssp-fixie",
@@ -7683,7 +7683,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 90,
-      "in_stock_count": 56
+      "in_stock_count": 55
     },
     {
       "id": "capete-cablu-manta",
@@ -7907,7 +7907,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 97,
-      "in_stock_count": 78
+      "in_stock_count": 77
     },
     {
       "id": "mantale",
@@ -7949,14 +7949,14 @@
       "name": "➤ Oglinzi",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
       "product_count": 25,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pedale-click",
       "name": "➤ Pedale Click",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
       "product_count": 27,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "pedale-duble",
@@ -8187,7 +8187,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 51,
-      "in_stock_count": 40
+      "in_stock_count": 38
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -8229,7 +8229,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 148
+      "in_stock_count": 147
     },
     {
       "id": "urechi-cadru",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T04:17:16.449426+00:00",
+  "last_updated": "2026-07-21T04:04:00.417177+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -2585,7 +2585,7 @@
       "price_net": 109.09,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 3,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/thru-axle-12-x-148-mm-boost-standard-170-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/thru-axle-12-x-148-mm-boost-standard-170-mm~8292598.jpg",
@@ -2777,8 +2777,8 @@
       "price": 24.2,
       "price_net": 20.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/mansoane-sxt-twist-shift-l-90-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-twist-shift-l-90-mm-negru~8292619.jpg",
@@ -2832,7 +2832,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 39,
+      "stock_quantity": 34,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/banda-janta-m-wave-27-5-x-24-high-pressure.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/banda-janta-m-wave-27-5-x-24-high-pressure~8292625.jpg",
@@ -4469,7 +4469,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 15,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/camera-kenda-24-x-2-30-2-60-56-62-507-av-35-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-kenda-24-x-2-30-2-60-56-62-507-av-35-mm~8324155.jpg",
@@ -4941,7 +4941,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 573,
+      "stock_quantity": 571,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -4971,7 +4971,7 @@
       "price_net": 30.58,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 1115,
+      "stock_quantity": 1114,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/camera-kenda-14-x-2-50-av-valva-45.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kenda-14-x-2-50-av-valva-45~8324272.jpg",
@@ -7252,7 +7252,7 @@
       "name": "Trotinete Electrice",
       "full_path": "e- MOBILITY > Trotinete Electrice",
       "product_count": 38,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "unelte-service",
@@ -7427,7 +7427,7 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 44,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "bar-tape-accesorii",
@@ -7490,7 +7490,7 @@
       "name": "➤ Cabluri",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Cabluri",
       "product_count": 15,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "cadre-ssp-fixie",
@@ -7504,7 +7504,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 90,
-      "in_stock_count": 56
+      "in_stock_count": 55
     },
     {
       "id": "capete-cablu-manta",
@@ -7728,7 +7728,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 97,
-      "in_stock_count": 78
+      "in_stock_count": 77
     },
     {
       "id": "mantale",
@@ -7770,14 +7770,14 @@
       "name": "➤ Oglinzi",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
       "product_count": 25,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pedale-click",
       "name": "➤ Pedale Click",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
       "product_count": 27,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "pedale-duble",
@@ -8008,7 +8008,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 51,
-      "in_stock_count": 40
+      "in_stock_count": 38
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -8050,7 +8050,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 148
+      "in_stock_count": 147
     },
     {
       "id": "urechi-cadru",
