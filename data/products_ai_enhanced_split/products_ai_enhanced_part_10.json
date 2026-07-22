@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-21T04:04:00.417177+00:00",
+  "last_updated": "2026-07-22T04:05:25.735600+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
     "total_parts": 19,
     "product_range": "2251-2500",
-    "original_total": 4746
+    "original_total": 4748
   },
   "products": [
     {
@@ -4536,8 +4536,8 @@
       "price": 85.0,
       "price_net": 70.25,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 30,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/janta-mach-1-er-10-27-5-584-x-19c-36h-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach-1-er-10-27-5-584-x-19c-36h-negru~8329192.jpg",
@@ -6409,7 +6409,7 @@
       "price_net": 52.07,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 3,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/banda-janta-tubeless-m-wave-30-mm-10-m.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/banda-janta-tubeless-m-wave-30-mm-10-m~8329885.jpg",
@@ -7514,7 +7514,7 @@
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
       "product_count": 16,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -7696,7 +7696,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7913,7 +7913,7 @@
       "name": "➤ Flori Furca - Distantiere - Accesorii",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
       "product_count": 23,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "foi-angrenaje",
@@ -7975,15 +7975,15 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 48,
-      "in_stock_count": 17
+      "product_count": 51,
+      "in_stock_count": 24
     },
     {
       "id": "jante-pentru-frane-v-brake",
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 19,
-      "in_stock_count": 16
+      "in_stock_count": 17
     },
     {
       "id": "lanturi",
@@ -8031,8 +8031,8 @@
       "id": "mansoane",
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
-      "product_count": 97,
-      "in_stock_count": 77
+      "product_count": 96,
+      "in_stock_count": 75
     },
     {
       "id": "mantale",
@@ -8074,7 +8074,7 @@
       "name": "➤ Oglinzi",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
       "product_count": 25,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "pedale-click",
@@ -8361,7 +8361,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 327
+      "in_stock_count": 326
     },
     {
       "id": "bike-maintenance-intretinere",

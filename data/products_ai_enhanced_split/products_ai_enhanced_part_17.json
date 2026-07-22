@@ -1,42 +1,14 @@
 {
-  "last_updated": "2026-07-21T04:04:00.417177+00:00",
+  "last_updated": "2026-07-22T04:05:25.735600+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 17,
     "total_parts": 19,
     "product_range": "4001-4250",
-    "original_total": 4746
+    "original_total": 4748
   },
   "products": [
-    {
-      "id": "613541",
-      "sku": "613541",
-      "ean": "887539037383",
-      "name": "Spider SAMOX PD-S SHIMANO E7000/8000 CL- 50 BCD -104 mm",
-      "brand": "SAMOX",
-      "category": "➤ Pedaliere - Angrenaje",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
-      "secondary_categories": [
-        "e- MOBILITY > Angrenaje E-Bike"
-      ],
-      "price": 137.5,
-      "price_net": 113.64,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/spider-samox-pd-s-shimano-e7000-8000-cl-50-bcd-104-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/spider-samox-pd-s-shimano-e7000-8000-cl-50-bcd-104-mm~8341504.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/spider-samox-pd-s-shimano-e7000-8000-cl-50-bcd-104-mm~8341504.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/spider-samox-pd-s-shimano-e7000-8000-cl-50-bcd-104-mm~8341507.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SAMOX",
-        "➤ Pedaliere - Angrenaje"
-      ]
-    },
     {
       "id": "613542",
       "sku": "613542",
@@ -1391,8 +1363,8 @@
       "price": 170.5,
       "price_net": 140.91,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/janta-mach1-klixx25-29-622-x-25c-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach1-klixx25-29-622-x-25c-32h~8341912.jpg",
@@ -2049,8 +2021,8 @@
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 10,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/janta-mach1-truky-30-27-5-584-x-30c-28h-negru-capsata.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/janta-mach1-truky-30-27-5-584-x-30c-28h-negru-capsata~8342116.jpg",
@@ -2081,8 +2053,8 @@
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 10,
       "weight_kg": 0.7,
       "url": "https://www.bikestylish.ro/janta-mach1-truky-30-29-622-x-30c-28h-negru-capsata.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/janta-mach1-truky-30-29-622-x-30c-28h-negru-capsata~8342128.jpg",
@@ -4084,7 +4056,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-045-130-mm-lock-on-dublu-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-mtb-sxt-zn-045-130-mm-lock-on-dublu-negru~8342713.jpg",
@@ -4119,8 +4091,8 @@
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-046-130-mm-lock-on-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/mansoane-mtb-sxt-zn-046-130-mm-lock-on-negru~8342728.jpg",
@@ -7444,7 +7416,7 @@
       "price_net": 42.73,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 1,
       "url": "https://www.bikestylish.ro/manusi-ciclism-extend-spirea-purple-negru-s.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/manusi-ciclism-extend-spirea-purple-negru-s~8343832.jpg",
       "images": [
@@ -7535,7 +7507,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 103,
+      "stock_quantity": 101,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-verde.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-mtb-sxt-zn-047-130-mm-lock-on-verde~8343850.jpg",
@@ -7605,7 +7577,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 68,
+      "stock_quantity": 61,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-purple.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/mansoane-mtb-sxt-zn-047-130-mm-lock-on-purple~8343874.jpg",
@@ -7640,7 +7612,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 86,
+      "stock_quantity": 84,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california~8343886.jpg",
@@ -7661,6 +7633,41 @@
           "MTB"
         ],
         "color": "Rosu"
+      }
+    },
+    {
+      "id": "410021",
+      "sku": "410021",
+      "ean": "664533242216",
+      "name": "Mansoane MTB SXT ZN-047 - 130 mm Lock-On Albastru",
+      "brand": "SXT",
+      "category": "➤ Mansoane",
+      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
+      "price": 60.5,
+      "price_net": 50.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 58,
+      "weight_kg": 0.05,
+      "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-albastru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/mansoane-mtb-sxt-zn-047-130-mm-lock-on-albastru~8343898.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/mansoane-mtb-sxt-zn-047-130-mm-lock-on-albastru~8343898.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/mansoane-mtb-sxt-zn-047-130-mm-lock-on-albastru~8343901.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/mansoane-mtb-sxt-zn-047-130-mm-lock-on-albastru~8343904.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/mansoane-mtb-sxt-zn-047-130-mm-lock-on-albastru~8343907.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "MTB",
+        "SXT",
+        "➤ Mansoane"
+      ],
+      "specs": {
+        "bike_type": [
+          "MTB"
+        ],
+        "color": "Alb"
       }
     }
   ],
@@ -7845,7 +7852,7 @@
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
       "product_count": 16,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -8027,7 +8034,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "axe-suruburi-piulite",
@@ -8244,7 +8251,7 @@
       "name": "➤ Flori Furca - Distantiere - Accesorii",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
       "product_count": 23,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "foi-angrenaje",
@@ -8306,15 +8313,15 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 48,
-      "in_stock_count": 17
+      "product_count": 51,
+      "in_stock_count": 24
     },
     {
       "id": "jante-pentru-frane-v-brake",
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 19,
-      "in_stock_count": 16
+      "in_stock_count": 17
     },
     {
       "id": "lanturi",
@@ -8362,8 +8369,8 @@
       "id": "mansoane",
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
-      "product_count": 97,
-      "in_stock_count": 77
+      "product_count": 96,
+      "in_stock_count": 75
     },
     {
       "id": "mantale",
@@ -8405,7 +8412,7 @@
       "name": "➤ Oglinzi",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
       "product_count": 25,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "pedale-click",
@@ -8692,7 +8699,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 327
+      "in_stock_count": 326
     },
     {
       "id": "bike-maintenance-intretinere",

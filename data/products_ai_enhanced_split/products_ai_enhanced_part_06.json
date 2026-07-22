@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-21T04:04:00.417177+00:00",
+  "last_updated": "2026-07-22T04:05:25.735600+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 6,
     "total_parts": 19,
     "product_range": "1251-1500",
-    "original_total": 4746
+    "original_total": 4748
   },
   "products": [
     {
@@ -676,7 +676,7 @@
       "price_net": 11.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 71,
+      "stock_quantity": 70,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/tija-sa-sxt-27-2-300-mm-metal-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/tija-sa-sxt-27-2-300-mm-metal-negru~8287783.jpg",
@@ -2755,8 +2755,8 @@
       "price": 15.0,
       "price_net": 12.4,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/ax-gaurit-butuc-spate-sxt-qr-m10-x-145-135-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ax-gaurit-butuc-spate-sxt-qr-m10-x-145-135-mm~8289007.jpg",
       "images": [
@@ -2813,7 +2813,7 @@
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 7,
       "weight_kg": 0.23,
       "url": "https://www.bikestylish.ro/brat-angrenaj-stanga-sxt-negru-175-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/brat-angrenaj-stanga-sxt-negru-175-mm~8289013.jpg",
@@ -4758,7 +4758,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 115,
+      "stock_quantity": 110,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/lant-kmc-z6-114-zale-6-7-8-v.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-z6-114-zale-6-7-8-v~8289226.jpg",
@@ -6812,7 +6812,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "url": "https://www.bikestylish.ro/manusi-ciclism-author-palmair-xl-negru-alb.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/manusi-ciclism-author-palmair-xl-negru-alb~8289448.jpg",
       "images": [
@@ -7505,7 +7505,7 @@
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
       "product_count": 16,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -7687,7 +7687,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7904,7 +7904,7 @@
       "name": "➤ Flori Furca - Distantiere - Accesorii",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Flori Furca - Distantiere - Accesorii",
       "product_count": 23,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "foi-angrenaje",
@@ -7966,15 +7966,15 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 48,
-      "in_stock_count": 17
+      "product_count": 51,
+      "in_stock_count": 24
     },
     {
       "id": "jante-pentru-frane-v-brake",
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 19,
-      "in_stock_count": 16
+      "in_stock_count": 17
     },
     {
       "id": "lanturi",
@@ -8022,8 +8022,8 @@
       "id": "mansoane",
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
-      "product_count": 97,
-      "in_stock_count": 77
+      "product_count": 96,
+      "in_stock_count": 75
     },
     {
       "id": "mantale",
@@ -8065,7 +8065,7 @@
       "name": "➤ Oglinzi",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
       "product_count": 25,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "pedale-click",
@@ -8352,7 +8352,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 327
+      "in_stock_count": 326
     },
     {
       "id": "bike-maintenance-intretinere",
