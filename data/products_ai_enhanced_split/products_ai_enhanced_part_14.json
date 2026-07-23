@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T04:05:25.735600+00:00",
+  "last_updated": "2026-07-23T04:03:59.680075+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1761,8 +1761,8 @@
       "price": 137.5,
       "price_net": 113.64,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d171-canyon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d171-canyon~8335579.jpg",
@@ -3521,8 +3521,8 @@
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d195-cannondale.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d195-cannondale~8335846.jpg",
@@ -3880,8 +3880,8 @@
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "in_stock",
+      "stock_quantity": 6,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d225-canyon-focus.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d225-canyon-focus~8335891.jpg",
@@ -4506,8 +4506,8 @@
       "price": 143.0,
       "price_net": 118.18,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d385.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d385~8336002.jpg",
@@ -4769,7 +4769,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 139,
+      "stock_quantity": 129,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/camera-vittoria-standard-26x1-95-2-50-fv-presta-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/camera-vittoria-standard-26x1-95-2-50-fv-presta-48mm~8336047.jpg",
@@ -5334,7 +5334,7 @@
       "price_net": 71.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 19,
+      "stock_quantity": 15,
       "weight_kg": 0.39,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-zaffiro-v-700x25c-25-622-rigid-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-zaffiro-v-700x25c-25-622-rigid-negru~8336113.jpg",
@@ -6609,7 +6609,7 @@
       "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 286,
+      "stock_quantity": 284,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm-negru-matt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-aluminiu-mtb-sxt-31-8-800-mm-negru-matt~8336674.jpg",
@@ -7033,7 +7033,7 @@
       "name": "Portbagaje",
       "full_path": "ACCESORII > Portbagaje",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "roti-ajutatoare-articole-copii",
@@ -7110,7 +7110,7 @@
       "name": "e- MOBILITY",
       "full_path": "e- MOBILITY",
       "product_count": 6,
-      "in_stock_count": 2
+      "in_stock_count": 5
     },
     {
       "id": "accesorii-camere-biciclete",
@@ -7299,7 +7299,7 @@
       "name": "➤ Brate Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
       "product_count": 53,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "butuci-frana-disc",
@@ -7509,7 +7509,7 @@
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "lanturi",
@@ -7887,14 +7887,14 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 326
+      "in_stock_count": 358
     },
     {
       "id": "bike-maintenance-intretinere",
       "name": "➤Bike Maintenance - Intretinere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
       "product_count": 21,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "depozitare-biciclete",

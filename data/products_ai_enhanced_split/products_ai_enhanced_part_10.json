@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T04:05:25.735600+00:00",
+  "last_updated": "2026-07-23T04:03:59.680075+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -406,7 +406,7 @@
       "price_net": 14.88,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 43,
+      "stock_quantity": 38,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/camera-kujo-12-1-2-1-75-2-1-4-av-33mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/camera-kujo-12-1-2%E2%80%941-75-2-1-4-av-33mm~8327551.jpg",
@@ -1104,7 +1104,7 @@
       "price_net": 67.77,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 29,
+      "stock_quantity": 28,
       "url": "https://www.bikestylish.ro/rola-manta-frana-2p-5-mm-sxt-25-m-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/rola-manta-frana-2p-5-mm-sxt-25-m-negru~8327779.jpg",
       "images": [
@@ -3334,7 +3334,7 @@
       "price_net": 48.76,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 22,
       "weight_kg": 0.99,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-attachi-24x2-10-52-507.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kujo-attachi-24x2-10-52-507~8328694.jpg",
@@ -4536,8 +4536,8 @@
       "price": 85.0,
       "price_net": 70.25,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 30,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/janta-mach-1-er-10-27-5-584-x-19c-36h-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach-1-er-10-27-5-584-x-19c-36h-negru~8329192.jpg",
@@ -6435,7 +6435,7 @@
       "price_net": 52.07,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/banda-janta-tubeless-m-wave-35-mm-10-m.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/banda-janta-tubeless-m-wave-35-mm-10-m~8329891.jpg",
@@ -7507,7 +7507,7 @@
       "name": "Portbagaje",
       "full_path": "ACCESORII > Portbagaje",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "roti-ajutatoare-articole-copii",
@@ -7584,7 +7584,7 @@
       "name": "e- MOBILITY",
       "full_path": "e- MOBILITY",
       "product_count": 6,
-      "in_stock_count": 2
+      "in_stock_count": 5
     },
     {
       "id": "accesorii-camere-biciclete",
@@ -7773,7 +7773,7 @@
       "name": "➤ Brate Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
       "product_count": 53,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "butuci-frana-disc",
@@ -7983,7 +7983,7 @@
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "lanturi",
@@ -8361,14 +8361,14 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 326
+      "in_stock_count": 358
     },
     {
       "id": "bike-maintenance-intretinere",
       "name": "➤Bike Maintenance - Intretinere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
       "product_count": 21,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "depozitare-biciclete",
