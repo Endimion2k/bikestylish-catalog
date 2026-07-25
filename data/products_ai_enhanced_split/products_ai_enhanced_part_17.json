@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T04:03:39.525421+00:00",
+  "last_updated": "2026-07-25T04:02:27.643000+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1270,8 +1270,8 @@
       "price": 231.0,
       "price_net": 190.91,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 10,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/janta-mach1-fzr-xc-29-622-x-23c-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/janta-mach1-fzr-xc-29-622-x-23c-32h~12381897.jpg",
@@ -4023,7 +4023,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 79,
+      "stock_quantity": 78,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-002-130-mm-lock-on-dublu-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/mansoane-mtb-sxt-zn-002-130-mm-lock-on-dublu-negru~8342704.jpg",
       "images": [
@@ -4055,8 +4055,8 @@
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-045-130-mm-lock-on-dublu-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-mtb-sxt-zn-045-130-mm-lock-on-dublu-negru~8342713.jpg",
@@ -4599,7 +4599,7 @@
       "price_net": 71.9,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 14,
+      "stock_quantity": 9,
       "weight_kg": 0.43,
       "url": "https://www.bikestylish.ro/cric-aluminiu-m-wave-column-e2-24-29-e-bike-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/cric-aluminiu-m-wave-column-e2-24-29-e-bike-negru~8342827.jpg",
@@ -7507,7 +7507,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 101,
+      "stock_quantity": 100,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-verde.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-mtb-sxt-zn-047-130-mm-lock-on-verde~8343850.jpg",
@@ -7577,7 +7577,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 54,
+      "stock_quantity": 50,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-purple.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/mansoane-mtb-sxt-zn-047-130-mm-lock-on-purple~8343874.jpg",
@@ -8118,7 +8118,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 67
+      "in_stock_count": 66
     },
     {
       "id": "butuci-v-break-dinam",
@@ -8314,7 +8314,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 51,
-      "in_stock_count": 24
+      "in_stock_count": 25
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8370,7 +8370,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 75
+      "in_stock_count": 72
     },
     {
       "id": "mantale",
