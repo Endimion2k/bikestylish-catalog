@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-27T04:17:05.568890+00:00",
+  "last_updated": "2026-07-28T04:02:19.277161+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
-    "total_parts": 19,
+    "total_parts": 20,
     "product_range": "2251-2500",
-    "original_total": 4748
+    "original_total": 4755
   },
   "products": [
     {
@@ -343,8 +343,8 @@
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.9,
       "url": "https://www.bikestylish.ro/camera-kujo-700x18-25c-fv-48-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-kujo-700x18-25c-fv-48-mm~8327545.jpg",
@@ -406,7 +406,7 @@
       "price_net": 14.88,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 38,
+      "stock_quantity": 36,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/camera-kujo-12-1-2-1-75-2-1-4-av-33mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/camera-kujo-12-1-2%E2%80%941-75-2-1-4-av-33mm~8327551.jpg",
@@ -2545,8 +2545,8 @@
       "price": 93.5,
       "price_net": 77.27,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.18,
       "url": "https://www.bikestylish.ro/semnalizare-spate-ventura-29-leduri-cu-acumulator.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/semnalizare-spate-ventura-29-leduri-cu-acumulator~8328421.jpg",
@@ -2737,7 +2737,7 @@
       "price_net": 40.5,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 11,
       "weight_kg": 0.43,
       "url": "https://www.bikestylish.ro/husa-sa-cu-gel-velo-standard-xl-290-260-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/husa-sa-cu-gel-velo-standard-xl-290-260-mm~8328505.jpg",
@@ -4022,7 +4022,7 @@
       "price_net": 68.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 9,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/cric-aluminiu-m-wave-24-29-e-bike.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cric-aluminiu-m-wave-24-29-e-bike~8328958.jpg",
@@ -4353,7 +4353,7 @@
       "price_net": 267.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 24,
+      "stock_quantity": 23,
       "weight_kg": 0.36,
       "url": "https://www.bikestylish.ro/protectie-antipana-tannus-tubeless-pro-27-5-x-2-10-2-60.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/protectie-antipana-tannus-tubeless-pro-27-5-x-2-10-2-60~8329132.jpg",
@@ -4386,7 +4386,7 @@
       "price_net": 267.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 35,
+      "stock_quantity": 34,
       "weight_kg": 0.38,
       "url": "https://www.bikestylish.ro/protectie-antipana-tannus-tubeless-pro-29-x-2-10-2-60.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/protectie-antipana-tannus-tubeless-pro-29-x-2-10-2-60~8329147.jpg",
@@ -5771,7 +5771,7 @@
       "price_net": 247.11,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 2.0,
       "url": "https://www.bikestylish.ro/roata-fata-27-5-584x21c-sxt-medius-32h-2-rulmenti.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-fata-27-5-584x21c-sxt-medius-32h-2-rulmenti~8329687.jpg",
@@ -7660,14 +7660,14 @@
       "id": "anvelope-pliabile",
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
-      "product_count": 91,
+      "product_count": 93,
       "in_stock_count": 53
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "product_count": 187,
+      "product_count": 188,
       "in_stock_count": 118
     },
     {
@@ -7730,7 +7730,7 @@
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 44,
+      "product_count": 46,
       "in_stock_count": 28
     },
     {
@@ -7780,7 +7780,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 66
+      "in_stock_count": 65
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7807,15 +7807,15 @@
       "id": "camere-de-bicicleta",
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "product_count": 90,
-      "in_stock_count": 55
+      "product_count": 92,
+      "in_stock_count": 54
     },
     {
       "id": "capete-cablu-manta",
       "name": "➤ Capete Cablu - Manta",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Capete Cablu - Manta",
       "product_count": 20,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -8179,7 +8179,7 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "roti-fata",
@@ -8242,7 +8242,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 93,
-      "in_stock_count": 79
+      "in_stock_count": 78
     },
     {
       "id": "set-lumini",
@@ -8277,7 +8277,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "spite-stainless",
@@ -8354,14 +8354,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 147
+      "in_stock_count": 146
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 358
+      "in_stock_count": 357
     },
     {
       "id": "bike-maintenance-intretinere",

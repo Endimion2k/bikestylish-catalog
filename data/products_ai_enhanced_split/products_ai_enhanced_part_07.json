@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-27T04:17:05.568890+00:00",
+  "last_updated": "2026-07-28T04:02:19.277161+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
-    "total_parts": 19,
+    "total_parts": 20,
     "product_range": "1501-1750",
-    "original_total": 4748
+    "original_total": 4755
   },
   "products": [
     {
@@ -176,8 +176,8 @@
       "price": 13.2,
       "price_net": 10.91,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/pinion-1v-sxt-18t-1-2x3-32-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-1v-sxt-18t-1-2x3-32-negru~8289529.jpg",
@@ -1413,8 +1413,8 @@
       "price": 77.0,
       "price_net": 63.64,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.8,
       "url": "https://www.bikestylish.ro/set-aparatori-noroi-lasalle-sports-arizona-26-28-maro.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/set-aparatori-noroi-lasalle-sports-arizona-26-28-maro~8290549.jpg",
@@ -2071,7 +2071,7 @@
       "price_net": 70.25,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 46,
+      "stock_quantity": 43,
       "weight_kg": 0.58,
       "url": "https://www.bikestylish.ro/janta-mach1-er-10-29-622-x-19c-36h-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/janta-mach1-er-10-29-622-x-19c-36h-negru~8290630.jpg",
@@ -6132,7 +6132,7 @@
       "price_net": 26.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 159,
+      "stock_quantity": 156,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-xl-26-4-x101x106-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-plastic-sxt-xl-26-4-x101x106-mm~8292187.jpg",
@@ -6797,7 +6797,7 @@
       "price_net": 210.74,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 20,
       "url": "https://www.bikestylish.ro/roata-fata-sxt-29-622x19c-sxt-basic-ii-fd-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/roata-fata-sxt-29-622x19c-sxt-basic-ii-fd-36h~8292259.jpg",
       "images": [
@@ -6859,7 +6859,7 @@
       "price_net": 219.01,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 20,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-27-5-584x19c-basic-ii-fd-36h-filetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/roata-spate-sxt-27-5-584x19c-basic-ii-fd-36h-filetat~12379875.jpg",
       "images": [
@@ -6952,7 +6952,7 @@
       "price_net": 227.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 20,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-27-5-584-x-19c-basic-ii-fd-36h-casetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/roata-spate-sxt-27-5-584-x-19c-basic-ii-fd-36h-casetat~8292274.jpg",
       "images": [
@@ -7533,14 +7533,14 @@
       "id": "anvelope-pliabile",
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
-      "product_count": 91,
+      "product_count": 93,
       "in_stock_count": 53
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "product_count": 187,
+      "product_count": 188,
       "in_stock_count": 118
     },
     {
@@ -7603,7 +7603,7 @@
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 44,
+      "product_count": 46,
       "in_stock_count": 28
     },
     {
@@ -7653,7 +7653,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 66
+      "in_stock_count": 65
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7680,15 +7680,15 @@
       "id": "camere-de-bicicleta",
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "product_count": 90,
-      "in_stock_count": 55
+      "product_count": 92,
+      "in_stock_count": 54
     },
     {
       "id": "capete-cablu-manta",
       "name": "➤ Capete Cablu - Manta",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Capete Cablu - Manta",
       "product_count": 20,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -8052,7 +8052,7 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "roti-fata",
@@ -8115,7 +8115,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 93,
-      "in_stock_count": 79
+      "in_stock_count": 78
     },
     {
       "id": "set-lumini",
@@ -8150,7 +8150,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "spite-stainless",
@@ -8227,14 +8227,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 147
+      "in_stock_count": 146
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 358
+      "in_stock_count": 357
     },
     {
       "id": "bike-maintenance-intretinere",

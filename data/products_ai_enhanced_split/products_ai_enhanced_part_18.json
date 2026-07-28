@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-27T04:17:05.568890+00:00",
+  "last_updated": "2026-07-28T04:02:19.277161+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 18,
-    "total_parts": 19,
+    "total_parts": 20,
     "product_range": "4251-4500",
-    "original_total": 4748
+    "original_total": 4755
   },
   "products": [
     {
@@ -2526,7 +2526,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 41,
+      "stock_quantity": 39,
       "weight_kg": 0.95,
       "url": "https://www.bikestylish.ro/roti-ajutatoare-pentru-bicicletele-de-copii-cu-viteze-16-20-sxt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/roti-ajutatoare-pentru-bicicletele-de-copii-cu-viteze-16-20-sxt~10362231.jpg",
@@ -2732,7 +2732,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 47,
+      "stock_quantity": 44,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/cric-aluminiu-sxt-24-29-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/cric-aluminiu-sxt-24-29-negru~10362267.jpg",
@@ -3490,8 +3490,8 @@
       "price": 517.0,
       "price_net": 427.27,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.46,
       "url": "https://www.bikestylish.ro/butuc-spated462sb-sl-cl-b12-s3-s11s-32h-negru-novatec.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-spated462sb-sl-cl-b12-s3-s11s-32h-negru-novatec~11426880.jpg",
@@ -3867,8 +3867,8 @@
       "price": 26.4,
       "price_net": 21.82,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "url": "https://www.bikestylish.ro/monobloc-pedalier-119-mm-sxt-2-rulmenti.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/monobloc-pedalier-119-mm-sxt-2-rulmenti~11423292.jpg",
       "images": [
@@ -5174,7 +5174,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 45,
+      "stock_quantity": 44,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-verde-neon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-sxt-n-13-nylon-fiber-verde-neon~11326194.jpg",
@@ -5205,7 +5205,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 32,
+      "stock_quantity": 31,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-sxt-n-13-nylon-fiber-rosu~11326203.jpg",
@@ -5237,7 +5237,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 29,
+      "stock_quantity": 28,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-14-nylon-fiber-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-sxt-n-14-nylon-fiber-negru~11326212.jpg",
@@ -5456,7 +5456,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 497,
+      "stock_quantity": 496,
       "url": "https://www.bikestylish.ro/set-capete-manson-sxt-barend-roz-2-buc.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-capete-manson-sxt-barend-roz-2-buc~11326518.jpg",
       "images": [
@@ -5534,7 +5534,7 @@
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 280,
+      "stock_quantity": 273,
       "url": "https://www.bikestylish.ro/mansoane-bmx-sxt-ds-126-150-mm-purple.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-bmx-sxt-ds-126-150-mm-purple~11326596.jpg",
       "images": [
@@ -7028,14 +7028,14 @@
       "id": "anvelope-pliabile",
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
-      "product_count": 91,
+      "product_count": 93,
       "in_stock_count": 53
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "product_count": 187,
+      "product_count": 188,
       "in_stock_count": 118
     },
     {
@@ -7098,7 +7098,7 @@
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 44,
+      "product_count": 46,
       "in_stock_count": 28
     },
     {
@@ -7148,7 +7148,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 66
+      "in_stock_count": 65
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7175,15 +7175,15 @@
       "id": "camere-de-bicicleta",
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "product_count": 90,
-      "in_stock_count": 55
+      "product_count": 92,
+      "in_stock_count": 54
     },
     {
       "id": "capete-cablu-manta",
       "name": "➤ Capete Cablu - Manta",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Capete Cablu - Manta",
       "product_count": 20,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -7547,7 +7547,7 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "roti-fata",
@@ -7610,7 +7610,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 93,
-      "in_stock_count": 79
+      "in_stock_count": 78
     },
     {
       "id": "set-lumini",
@@ -7645,7 +7645,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "spite-stainless",
@@ -7722,14 +7722,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 147
+      "in_stock_count": 146
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 358
+      "in_stock_count": 357
     },
     {
       "id": "bike-maintenance-intretinere",

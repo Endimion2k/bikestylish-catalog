@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-27T04:17:05.568890+00:00",
+  "last_updated": "2026-07-28T04:02:19.277161+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 6,
-    "total_parts": 19,
+    "total_parts": 20,
     "product_range": "1251-1500",
-    "original_total": 4748
+    "original_total": 4755
   },
   "products": [
     {
@@ -21,7 +21,7 @@
       "price_net": 109.09,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/kit-conversie-novatec-10-thru-axle-crmo.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/kit-conversie-novatec-10-thru-axle-crmo~8287714.jpg",
@@ -676,7 +676,7 @@
       "price_net": 11.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 66,
+      "stock_quantity": 62,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/tija-sa-sxt-27-2-300-mm-metal-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/tija-sa-sxt-27-2-300-mm-metal-negru~8287783.jpg",
@@ -789,7 +789,7 @@
       "price_net": 72.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 10,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/sa-m-wave-vacu-comp-l.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/sa-m-wave-vacu-comp-l~8287795.jpg",
@@ -816,8 +816,8 @@
       "price": 85.0,
       "price_net": 70.25,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.6,
       "url": "https://www.bikestylish.ro/sa-m-wave-vacu-city-ii-260x210-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/sa-m-wave-vacu-city-ii-260x210-mm~8287798.jpg",
@@ -2842,7 +2842,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 19,
+      "stock_quantity": 16,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/adaptor-ghidon-aluminiu-m-wave-31-8-25-4-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/adaptor-ghidon-aluminiu-m-wave-31-8-25-4-mm~8289016.jpg",
@@ -6951,8 +6951,8 @@
       "price": 8.8,
       "price_net": 7.27,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "in_stock",
+      "stock_quantity": 6,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/sonerie-copii-m-wave-fotball.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/sonerie-copii-m-wave-fotball~8289466.jpg",
@@ -7651,14 +7651,14 @@
       "id": "anvelope-pliabile",
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
-      "product_count": 91,
+      "product_count": 93,
       "in_stock_count": 53
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "product_count": 187,
+      "product_count": 188,
       "in_stock_count": 118
     },
     {
@@ -7721,7 +7721,7 @@
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 44,
+      "product_count": 46,
       "in_stock_count": 28
     },
     {
@@ -7771,7 +7771,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 66
+      "in_stock_count": 65
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7798,15 +7798,15 @@
       "id": "camere-de-bicicleta",
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "product_count": 90,
-      "in_stock_count": 55
+      "product_count": 92,
+      "in_stock_count": 54
     },
     {
       "id": "capete-cablu-manta",
       "name": "➤ Capete Cablu - Manta",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Capete Cablu - Manta",
       "product_count": 20,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -8170,7 +8170,7 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "roti-fata",
@@ -8233,7 +8233,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 93,
-      "in_stock_count": 79
+      "in_stock_count": 78
     },
     {
       "id": "set-lumini",
@@ -8268,7 +8268,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "spite-stainless",
@@ -8345,14 +8345,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 147
+      "in_stock_count": 146
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 358
+      "in_stock_count": 357
     },
     {
       "id": "bike-maintenance-intretinere",
