@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T04:03:31.794417+00:00",
+  "last_updated": "2026-07-30T04:02:03.078071+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1165,8 +1165,8 @@
       "price": 225.0,
       "price_net": 185.95,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
+      "availability": "limited",
+      "stock_quantity": 1,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-27-5-584x19c-basic-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/roata-spate-sxt-27-5-584x19c-basic-36h~8287834.jpg",
       "images": [
@@ -2872,8 +2872,8 @@
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/extensii-ghidon-m-wave-be-anatom-magnezium.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/extensii-ghidon-m-wave-be-anatom-magnezium~8289019.jpg",
@@ -5160,7 +5160,7 @@
       "price_net": 79.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 13,
       "weight_kg": 0.19,
       "url": "https://www.bikestylish.ro/cuveti-semi-integrati-m-wave-zs44-44-c.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cuveti-semi-integrati-m-wave-zs44-44-c~8289268.jpg",
@@ -5543,8 +5543,8 @@
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-sxt-gh-045-p5-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-sxt-gh-045-p5-silver~8289307.jpg",
@@ -6342,7 +6342,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "url": "https://www.bikestylish.ro/far-cu-baterii-bonin-omega-1watt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/far-cu-baterii-bonin-omega-1watt~8289388.jpg",
       "images": [
@@ -6613,8 +6613,8 @@
       "price": 27.5,
       "price_net": 22.73,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 1,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/maneta-frana-stanga-sxt-aluminiu-3-4-degete.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/maneta-frana-stanga-sxt-aluminiu-3-4-degete~8289424.jpg",
@@ -7659,7 +7659,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 117
+      "in_stock_count": 116
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7729,7 +7729,7 @@
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 38,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "bidoane-ciclism",
@@ -7897,7 +7897,7 @@
       "name": "➤ Discuri - Rotoare",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
       "product_count": 17,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "flori-furca-distantiere-accesorii",
@@ -7967,7 +7967,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 51,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8002,7 +8002,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 16
+      "in_stock_count": 17
     },
     {
       "id": "manete-frana-schimbator",
@@ -8093,7 +8093,7 @@
       "name": "➤ Pedaliere - Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
       "product_count": 61,
-      "in_stock_count": 42
+      "in_stock_count": 40
     },
     {
       "id": "pinioane-casetate",
@@ -8107,7 +8107,7 @@
       "name": "➤ Pionioane Filetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "product_count": 41,
-      "in_stock_count": 35
+      "in_stock_count": 36
     },
     {
       "id": "pipe-ghidon",
@@ -8359,7 +8359,7 @@
       "name": "➤Bike Maintenance - Intretinere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
       "product_count": 21,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "depozitare-biciclete",

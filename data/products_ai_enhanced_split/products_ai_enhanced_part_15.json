@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T04:03:31.794417+00:00",
+  "last_updated": "2026-07-30T04:02:03.078071+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1001,8 +1001,8 @@
       "price": 50.6,
       "price_net": 41.82,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/lubrifiant-lant-bicicleta-motul-dry-lube-100-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/lubrifiant-lant-bicicleta-motul-dry-lube-100-ml~8337250.jpg",
@@ -3762,7 +3762,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 357,
+      "stock_quantity": 351,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/camera-kujo-26-x-1-75-2-125-av-33-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kujo-26-x-1-75-2-125-av-33-mm~8338252.jpg",
@@ -4192,7 +4192,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 76,
+      "stock_quantity": 75,
       "weight_kg": 0.14,
       "url": "https://www.bikestylish.ro/pipa-sxt-31-8-70-mm-7-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pipa-sxt-31-8-70-mm-7-negru~8338372.jpg",
@@ -4261,7 +4261,7 @@
       "price_net": 62.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 84,
+      "stock_quantity": 81,
       "weight_kg": 0.14,
       "url": "https://www.bikestylish.ro/tija-sa-sxt-350-mm-27-2-mm-negru-anodizat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/tija-sa-sxt-350-mm-27-2-mm-negru-anodizat~12277980.jpg",
@@ -4322,7 +4322,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 51,
+      "stock_quantity": 46,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/placute-frana-m-wave-bpd-metal-s2-sintered-sh.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/placute-frana-m-wave-bpd-metal-s2-sintered-sh~8338417.jpg",
@@ -4442,7 +4442,7 @@
       "price_net": 3.31,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 228,
+      "stock_quantity": 178,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/adaptor-ventil-sxt-dv-fv-av-alama.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/adaptor-ventil-sxt-dv-fv-av-alama~8338480.jpg",
@@ -4549,7 +4549,7 @@
       "price_net": 71.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 8,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-zaffiro-v-700x30c-30-622-rigid-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-zaffiro-v-700x30c-30-622-rigid-negru~8338510.jpg",
@@ -7562,7 +7562,7 @@
       "price_net": 36.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 22,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/stop-spate-baterii-sxt-helios-b-portbagaj.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/stop-spate-baterii-sxt-helios-b-portbagaj~8339635.jpg",
@@ -8126,7 +8126,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 117
+      "in_stock_count": 116
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -8196,7 +8196,7 @@
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 38,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "bidoane-ciclism",
@@ -8364,7 +8364,7 @@
       "name": "➤ Discuri - Rotoare",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
       "product_count": 17,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "flori-furca-distantiere-accesorii",
@@ -8434,7 +8434,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 51,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8469,7 +8469,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 16
+      "in_stock_count": 17
     },
     {
       "id": "manete-frana-schimbator",
@@ -8560,7 +8560,7 @@
       "name": "➤ Pedaliere - Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
       "product_count": 61,
-      "in_stock_count": 42
+      "in_stock_count": 40
     },
     {
       "id": "pinioane-casetate",
@@ -8574,7 +8574,7 @@
       "name": "➤ Pionioane Filetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "product_count": 41,
-      "in_stock_count": 35
+      "in_stock_count": 36
     },
     {
       "id": "pipe-ghidon",
@@ -8826,7 +8826,7 @@
       "name": "➤Bike Maintenance - Intretinere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
       "product_count": 21,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "depozitare-biciclete",
