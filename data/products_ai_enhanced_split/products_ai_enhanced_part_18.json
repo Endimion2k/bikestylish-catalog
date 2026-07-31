@@ -1,48 +1,14 @@
 {
-  "last_updated": "2026-07-30T04:02:03.078071+00:00",
+  "last_updated": "2026-07-31T04:09:14.990483+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 18,
     "total_parts": 20,
     "product_range": "4251-4500",
-    "original_total": 4755
+    "original_total": 4754
   },
   "products": [
-    {
-      "id": "311899",
-      "sku": "311899",
-      "ean": "0664533242582",
-      "name": "Pedale Aluminiu SXT ALNC-553 Negru 3 Rulmenti 105 x 102 x 26 mm",
-      "brand": "SXT",
-      "category": "➤ Pedale Platforma",
-      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
-      "price": 214.5,
-      "price_net": 177.27,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 15,
-      "weight_kg": 0.42,
-      "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-alnc-553-negru-3-rulmenti-105-x-102-x-26-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-aluminiu-sxt-alnc-553-negru-3-rulmenti-105-x-102-x-26-mm~8343910.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-aluminiu-sxt-alnc-553-negru-3-rulmenti-105-x-102-x-26-mm~8343910.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-aluminiu-sxt-alnc-553-negru-3-rulmenti-105-x-102-x-26-mm~8343913.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-aluminiu-sxt-alnc-553-negru-3-rulmenti-105-x-102-x-26-mm~8343916.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-aluminiu-sxt-alnc-553-negru-3-rulmenti-105-x-102-x-26-mm~8343919.jpg"
-      ],
-      "tags": [
-        "Aluminiu",
-        "COMPONENTE",
-        "SXT",
-        "➤ Pedale Platforma"
-      ],
-      "specs": {
-        "material": "Aluminiu",
-        "color": "Negru",
-        "dimensions": "105 x 102"
-      }
-    },
     {
       "id": "311898",
       "sku": "311898",
@@ -5332,7 +5298,7 @@
       "price_net": 0.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 370,
+      "stock_quantity": 367,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-215x-negru-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-plastic-sxt-215x-negru-9-16~11326266.jpg",
@@ -6699,6 +6665,35 @@
         "M-WAVE",
         "➤ Lumini Spate"
       ]
+    },
+    {
+      "id": "431602",
+      "sku": "431602",
+      "ean": "887539052164",
+      "name": "Cos Spate M-WAVE TTRANSPORTER ONE-SNAP Negru",
+      "brand": "M-WAVE",
+      "category": "➤ Cosuri Transport Spate",
+      "category_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Spate",
+      "price": 275.0,
+      "price_net": 227.27,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 3,
+      "weight_kg": 2.8,
+      "url": "https://www.bikestylish.ro/cos-spate-m-wave-ttransporter-one-snap-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/cos-spate-m-wave-ttransporter-one-snap-negru~12071634.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/cos-spate-m-wave-ttransporter-one-snap-negru~12071634.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/cos-spate-m-wave-ttransporter-one-snap-negru~12071637.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "M-WAVE",
+        "➤ Cosuri Transport Spate"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -7029,14 +7024,14 @@
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
       "product_count": 93,
-      "in_stock_count": 52
+      "in_stock_count": 54
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 116
+      "in_stock_count": 117
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7099,14 +7094,14 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 46,
-      "in_stock_count": 27
+      "in_stock_count": 30
     },
     {
       "id": "bar-tape-accesorii",
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 38,
-      "in_stock_count": 11
+      "in_stock_count": 12
     },
     {
       "id": "bidoane-ciclism",
@@ -7176,7 +7171,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 92,
-      "in_stock_count": 53
+      "in_stock_count": 61
     },
     {
       "id": "capete-cablu-manta",
@@ -7239,7 +7234,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "cosuri-transport-spate",
@@ -7309,7 +7304,7 @@
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 25,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "ghidoane",
@@ -7547,14 +7542,14 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 16
     },
     {
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
-      "product_count": 39,
-      "in_stock_count": 31
+      "product_count": 38,
+      "in_stock_count": 30
     },
     {
       "id": "roti-spate",
@@ -7722,7 +7717,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 146
+      "in_stock_count": 147
     },
     {
       "id": "urechi-cadru",

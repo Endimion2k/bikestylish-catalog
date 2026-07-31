@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-30T04:02:03.078071+00:00",
+  "last_updated": "2026-07-31T04:09:14.990483+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 5,
     "total_parts": 20,
     "product_range": "1001-1250",
-    "original_total": 4755
+    "original_total": 4754
   },
   "products": [
     {
@@ -216,7 +216,7 @@
       "price_net": 1.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 226,
+      "stock_quantity": 176,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-260-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/spita-inox-cnspoke-std14c-2-x-260-mm-negru~8286514.jpg",
@@ -244,7 +244,7 @@
       "price_net": 1.37,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 1750,
+      "stock_quantity": 1650,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-262-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/spita-inox-cnspoke-std14c-2-x-262-mm-negru~8286517.jpg",
@@ -300,7 +300,7 @@
       "price_net": 1.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 300,
+      "stock_quantity": 200,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-264-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/spita-inox-cnspoke-std14c-2-x-264-mm-negru~8286523.jpg",
@@ -328,7 +328,7 @@
       "price_net": 1.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 420,
+      "stock_quantity": 320,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-265-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/spita-inox-cnspoke-std14c-2-x-265-mm-negru~8286526.jpg",
@@ -4386,8 +4386,8 @@
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.17,
       "url": "https://www.bikestylish.ro/camera-kujo-20-x-1-75-2-125-av-33-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/camera-kujo-20-x-1-75-2-125-av-33-mm~8287396.jpg",
@@ -7060,7 +7060,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 38,
+      "stock_quantity": 37,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/suport-bidon-copii-ventura-pbo-300-smile.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/suport-bidon-copii-ventura-pbo-300-smile~8287684.jpg",
@@ -7122,7 +7122,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 36,
+      "stock_quantity": 35,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/suport-bidon-copii-ventura-pbo-300-horse.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/suport-bidon-copii-ventura-pbo-300-horse~8287690.jpg",
@@ -7653,14 +7653,14 @@
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
       "product_count": 93,
-      "in_stock_count": 52
+      "in_stock_count": 54
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 116
+      "in_stock_count": 117
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7723,14 +7723,14 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 46,
-      "in_stock_count": 27
+      "in_stock_count": 30
     },
     {
       "id": "bar-tape-accesorii",
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 38,
-      "in_stock_count": 11
+      "in_stock_count": 12
     },
     {
       "id": "bidoane-ciclism",
@@ -7800,7 +7800,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 92,
-      "in_stock_count": 53
+      "in_stock_count": 61
     },
     {
       "id": "capete-cablu-manta",
@@ -7863,7 +7863,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "cosuri-transport-spate",
@@ -7933,7 +7933,7 @@
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 25,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "ghidoane",
@@ -8171,14 +8171,14 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 16
     },
     {
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
-      "product_count": 39,
-      "in_stock_count": 31
+      "product_count": 38,
+      "in_stock_count": 30
     },
     {
       "id": "roti-spate",
@@ -8346,7 +8346,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 146
+      "in_stock_count": 147
     },
     {
       "id": "urechi-cadru",

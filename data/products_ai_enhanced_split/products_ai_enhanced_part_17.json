@@ -1,42 +1,14 @@
 {
-  "last_updated": "2026-07-30T04:02:03.078071+00:00",
+  "last_updated": "2026-07-31T04:09:14.990483+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 17,
     "total_parts": 20,
     "product_range": "4001-4250",
-    "original_total": 4755
+    "original_total": 4754
   },
   "products": [
-    {
-      "id": "613542",
-      "sku": "613542",
-      "ean": "887539037390",
-      "name": "Spider SAMOX PD-S SHIMANO E7000/8000 CL- 53 BCD -104 mm",
-      "brand": "SAMOX",
-      "category": "➤ Pedaliere - Angrenaje",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
-      "secondary_categories": [
-        "e- MOBILITY > Angrenaje E-Bike"
-      ],
-      "price": 137.5,
-      "price_net": 113.64,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/spider-samox-pd-s-shimano-e7000-8000-cl-53-bcd-104-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/spider-samox-pd-s-shimano-e7000-8000-cl-53-bcd-104-mm~8341510.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/spider-samox-pd-s-shimano-e7000-8000-cl-53-bcd-104-mm~8341510.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/spider-samox-pd-s-shimano-e7000-8000-cl-53-bcd-104-mm~8341513.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SAMOX",
-        "➤ Pedaliere - Angrenaje"
-      ]
-    },
     {
       "id": "613537",
       "sku": "613537",
@@ -379,7 +351,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 26,
+      "stock_quantity": 226,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-16x1-5-1-75-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/camera-standard-vittoria-16x1-5-1-75-av-schrader-48mm~8341570.jpg",
       "images": [
@@ -471,8 +443,8 @@
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 300,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-24x1-95-2-125-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/camera-standard-vittoria-24x1-95-2-125-av-schrader-48mm~8341579.jpg",
       "images": [
@@ -707,8 +679,8 @@
       "price": 170.5,
       "price_net": 140.91,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.13,
       "url": "https://www.bikestylish.ro/kit-unelte-vittoria-mtb-tubeless.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/kit-unelte-vittoria-mtb-tubeless~8341669.jpg",
@@ -1615,7 +1587,7 @@
       "price_net": 104.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 166,
+      "stock_quantity": 156,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/set-lumini-cu-acumulator-sxt-550l-10c-usb.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/set-lumini-cu-acumulator-sxt-550l-10c-usb~8342020.jpg",
@@ -4155,7 +4127,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 59,
+      "stock_quantity": 57,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/colier-tija-sa-sxt-34-9mm-xt-c76-negru-qr.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/colier-tija-sa-sxt-34-9mm-xt-c76-negru-qr~8342743.jpg",
@@ -4312,7 +4284,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 150,
+      "stock_quantity": 149,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/pipa-sxt-31-8-1-1-8-38-mm-7-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-sxt-31-8-1-1-8-38-mm-7-negru~8342773.jpg",
@@ -7669,6 +7641,40 @@
         ],
         "color": "Alb"
       }
+    },
+    {
+      "id": "311899",
+      "sku": "311899",
+      "ean": "0664533242582",
+      "name": "Pedale Aluminiu SXT ALNC-553 Negru 3 Rulmenti 105 x 102 x 26 mm",
+      "brand": "SXT",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "price": 214.5,
+      "price_net": 177.27,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 15,
+      "weight_kg": 0.42,
+      "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-alnc-553-negru-3-rulmenti-105-x-102-x-26-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-aluminiu-sxt-alnc-553-negru-3-rulmenti-105-x-102-x-26-mm~8343910.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-aluminiu-sxt-alnc-553-negru-3-rulmenti-105-x-102-x-26-mm~8343910.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-aluminiu-sxt-alnc-553-negru-3-rulmenti-105-x-102-x-26-mm~8343913.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-aluminiu-sxt-alnc-553-negru-3-rulmenti-105-x-102-x-26-mm~8343916.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-aluminiu-sxt-alnc-553-negru-3-rulmenti-105-x-102-x-26-mm~8343919.jpg"
+      ],
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "SXT",
+        "➤ Pedale Platforma"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Negru",
+        "dimensions": "105 x 102"
+      }
     }
   ],
   "categories": [
@@ -7999,14 +8005,14 @@
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
       "product_count": 93,
-      "in_stock_count": 52
+      "in_stock_count": 54
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 116
+      "in_stock_count": 117
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -8069,14 +8075,14 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 46,
-      "in_stock_count": 27
+      "in_stock_count": 30
     },
     {
       "id": "bar-tape-accesorii",
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 38,
-      "in_stock_count": 11
+      "in_stock_count": 12
     },
     {
       "id": "bidoane-ciclism",
@@ -8146,7 +8152,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 92,
-      "in_stock_count": 53
+      "in_stock_count": 61
     },
     {
       "id": "capete-cablu-manta",
@@ -8209,7 +8215,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "cosuri-transport-spate",
@@ -8279,7 +8285,7 @@
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 25,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "ghidoane",
@@ -8517,14 +8523,14 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 16
     },
     {
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
-      "product_count": 39,
-      "in_stock_count": 31
+      "product_count": 38,
+      "in_stock_count": 30
     },
     {
       "id": "roti-spate",
@@ -8692,7 +8698,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 146
+      "in_stock_count": 147
     },
     {
       "id": "urechi-cadru",

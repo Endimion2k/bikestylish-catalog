@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-30T04:02:03.078071+00:00",
+  "last_updated": "2026-07-31T04:09:14.990483+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 1,
     "total_parts": 20,
     "product_range": "1-250",
-    "original_total": 4755
+    "original_total": 4754
   },
   "products": [
     {
@@ -278,8 +278,8 @@
       "price": 94.0,
       "price_net": 77.69,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/camera-kenda-26-4-5-4-8-av-35-mm-fat-tire.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/camera-kenda-26%E2%80%944-5-4-8-av-35-mm-fat-tire~8278531.jpg",
       "images": [
@@ -1907,7 +1907,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 24,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-12-5-x-2-25-62-203-k-850.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-kenda-12-5-x-2-25-62-203-k-850~8278720.jpg",
@@ -2543,7 +2543,7 @@
       "price_net": 113.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/antifurt-cu-cheie-expandabil-m-wave-style-23-10.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/antifurt-cu-cheie-expandabil-m-wave-style-23-10~8278801.jpg",
@@ -2822,8 +2822,8 @@
       "price": 26.4,
       "price_net": 21.82,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/antifurt-cu-cifru-m-wave-pd-3-l.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/antifurt-cu-cifru-m-wave-pd-3-l~8278828.jpg",
@@ -3872,7 +3872,7 @@
       "price_net": 386.36,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "url": "https://www.bikestylish.ro/far-cu-acumulator-moon-adj-1300.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/far-cu-acumulator-moon-adj-1300~8278975.jpg",
       "images": [
@@ -3900,7 +3900,7 @@
       "price_net": 180.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 9,
       "weight_kg": 0.22,
       "url": "https://www.bikestylish.ro/far-cu-acumulator-moon-meteor-400-lumen.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/far-cu-acumulator-moon-meteor-400-lumen~8278978.jpg",
@@ -6670,7 +6670,7 @@
       "price_net": 61.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/tija-sa-cu-suspensie-promax-negru-27-2-x-350-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/tija-sa-cu-suspensie-promax-negru-27-2-x-350-mm~8280253.jpg",
@@ -6814,7 +6814,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 33,
+      "stock_quantity": 32,
       "weight_kg": 0.29,
       "url": "https://www.bikestylish.ro/tija-sa-m-wave-sp-c3-350-28-6-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/tija-sa-m-wave-sp-c3-350-28-6-mm-negru~8280268.jpg",
@@ -7653,14 +7653,14 @@
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
       "product_count": 93,
-      "in_stock_count": 52
+      "in_stock_count": 54
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 116
+      "in_stock_count": 117
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7723,14 +7723,14 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 46,
-      "in_stock_count": 27
+      "in_stock_count": 30
     },
     {
       "id": "bar-tape-accesorii",
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 38,
-      "in_stock_count": 11
+      "in_stock_count": 12
     },
     {
       "id": "bidoane-ciclism",
@@ -7800,7 +7800,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 92,
-      "in_stock_count": 53
+      "in_stock_count": 61
     },
     {
       "id": "capete-cablu-manta",
@@ -7863,7 +7863,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "cosuri-transport-spate",
@@ -7933,7 +7933,7 @@
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 25,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "ghidoane",
@@ -8171,14 +8171,14 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 16
     },
     {
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
-      "product_count": 39,
-      "in_stock_count": 31
+      "product_count": 38,
+      "in_stock_count": 30
     },
     {
       "id": "roti-spate",
@@ -8346,7 +8346,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 146
+      "in_stock_count": 147
     },
     {
       "id": "urechi-cadru",
