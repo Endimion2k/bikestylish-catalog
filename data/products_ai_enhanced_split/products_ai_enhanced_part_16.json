@@ -1,51 +1,14 @@
 {
-  "last_updated": "2026-07-31T04:09:14.990483+00:00",
+  "last_updated": "2026-08-01T04:08:35.252643+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 16,
     "total_parts": 20,
     "product_range": "3751-4000",
-    "original_total": 4754
+    "original_total": 4752
   },
   "products": [
-    {
-      "id": "1AA00466",
-      "sku": "1AA00466",
-      "ean": "8022530031745",
-      "name": "Insertie Antipana VITTORIA Air-Liner Protect Downhill 29x2.4/2.6",
-      "brand": "VITTORIA",
-      "category": "➤ Protectii Antipana",
-      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
-      "price": 324.5,
-      "price_net": 268.18,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 1.25,
-      "url": "https://www.bikestylish.ro/insertie-antipana-vittoria-air-liner-protect-downhill-29x2-4-2-6.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/insertie-antipana-vittoria-air-liner-protect-downhill-29x2-4-2-6~8339689.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/insertie-antipana-vittoria-air-liner-protect-downhill-29x2-4-2-6~8339689.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/insertie-antipana-vittoria-air-liner-protect-downhill-29x2-4-2-6~8339692.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/insertie-antipana-vittoria-air-liner-protect-downhill-29x2-4-2-6~8339695.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/insertie-antipana-vittoria-air-liner-protect-downhill-29x2-4-2-6~8339698.jpg"
-      ],
-      "tags": [
-        "29 inch",
-        "COMPONENTE",
-        "Downhill",
-        "VITTORIA",
-        "➤ Protectii Antipana"
-      ],
-      "specs": {
-        "wheel_size": "29",
-        "bike_type": [
-          "Downhill"
-        ],
-        "dimensions": "29 x 2.4"
-      }
-    },
     {
       "id": "11A00446",
       "sku": "11A00446",
@@ -324,7 +287,7 @@
       "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 211,
+      "stock_quantity": 210,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm-rosu-matt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ghidon-aluminiu-mtb-sxt-31-8-800-mm-rosu-matt~8339776.jpg",
@@ -646,7 +609,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 10,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/set-mini-scule-sxt-10-functii-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/set-mini-scule-sxt-10-functii-negru~8339875.jpg",
@@ -5240,7 +5203,7 @@
       "price_net": 180.91,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat~12379848.jpg",
@@ -7262,7 +7225,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "url": "https://www.bikestylish.ro/spider-samox-pd-s-shimano-e5000-cl-47-bcd-104-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/spider-samox-pd-s-shimano-e5000-cl-47-bcd-104-mm~8341492.jpg",
       "images": [
@@ -7352,6 +7315,35 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/0/spider-samox-pd-s-shimano-e7000-8000-cl-53-bcd-104-mm~8341510.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/spider-samox-pd-s-shimano-e7000-8000-cl-53-bcd-104-mm~8341513.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SAMOX",
+        "➤ Pedaliere - Angrenaje"
+      ]
+    },
+    {
+      "id": "613537",
+      "sku": "613537",
+      "ean": "887539037437",
+      "name": "Spider SAMOX PD-S-Gen3 BOSCH CL-47 BCD 104 mm",
+      "brand": "SAMOX",
+      "category": "➤ Pedaliere - Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
+      "secondary_categories": [
+        "e- MOBILITY > Angrenaje E-Bike"
+      ],
+      "price": 77.0,
+      "price_net": 63.64,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 5,
+      "weight_kg": 0.1,
+      "url": "https://www.bikestylish.ro/spider-samox-pd-s-gen3-bosch-cl-47-bcd-104-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/spider-samox-pd-s-gen3-bosch-cl-47-bcd-104-mm~8341516.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/spider-samox-pd-s-gen3-bosch-cl-47-bcd-104-mm~8341516.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/spider-samox-pd-s-gen3-bosch-cl-47-bcd-104-mm~8341519.jpg"
       ],
       "tags": [
         "COMPONENTE",
@@ -7618,7 +7610,7 @@
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "product_count": 17,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "accesorii-aparatori-noroi",
@@ -7751,7 +7743,7 @@
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
       "product_count": 42,
-      "in_stock_count": 36
+      "in_stock_count": 35
     },
     {
       "id": "banda-janta-tubeless",
@@ -7933,7 +7925,7 @@
       "name": "➤ Discuri - Rotoare",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
       "product_count": 17,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "flori-furca-distantiere-accesorii",
@@ -8003,7 +7995,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 51,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8079,8 +8071,8 @@
       "id": "monobloace-b-b",
       "name": "➤ Monobloace - B.B.",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
-      "product_count": 48,
-      "in_stock_count": 41
+      "product_count": 46,
+      "in_stock_count": 40
     },
     {
       "id": "nipluri-accesorii",
@@ -8220,7 +8212,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 48,
-      "in_stock_count": 39
+      "in_stock_count": 37
     },
     {
       "id": "rucsaci",
@@ -8269,7 +8261,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 93,
-      "in_stock_count": 78
+      "in_stock_count": 77
     },
     {
       "id": "set-lumini",
@@ -8290,7 +8282,7 @@
       "name": "➤ Seturi Roti",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
       "product_count": 25,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "sistem-velo-fit",

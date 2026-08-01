@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-31T04:09:14.990483+00:00",
+  "last_updated": "2026-08-01T04:08:35.252643+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 6,
     "total_parts": 20,
     "product_range": "1251-1500",
-    "original_total": 4754
+    "original_total": 4752
   },
   "products": [
     {
@@ -1165,8 +1165,8 @@
       "price": 225.0,
       "price_net": 185.95,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-27-5-584x19c-basic-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/roata-spate-sxt-27-5-584x19c-basic-36h~8287834.jpg",
       "images": [
@@ -1712,8 +1712,8 @@
       "price": 62.7,
       "price_net": 51.82,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.19,
       "url": "https://www.bikestylish.ro/borseta-sa-m-wave-amsterdam-bottle.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/borseta-sa-m-wave-amsterdam-bottle~8287891.jpg",
@@ -2472,7 +2472,7 @@
       "price_net": 20.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 135,
+      "stock_quantity": 125,
       "url": "https://www.bikestylish.ro/capete-manta-plastic-5-mm-100-buc.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/capete-manta-plastic-5-mm-100-buc~8288974.jpg",
       "images": [
@@ -2902,7 +2902,7 @@
       "price_net": 41.32,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 6,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/sonerie-m-wave-bella-c-yell-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/sonerie-m-wave-bella-c-yell-negru~8289022.jpg",
@@ -2986,7 +2986,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 19,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/leviere-anvelope-super-b-tb-tl08-plastic.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/leviere-anvelope-super-b-tb-tl08-plastic~8289031.jpg",
@@ -3535,7 +3535,7 @@
       "price_net": 16.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 83,
+      "stock_quantity": 82,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/cos-plastic-sxt-galben.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/cos-plastic-sxt-galben~8289094.jpg",
@@ -7037,7 +7037,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 0.53,
       "url": "https://www.bikestylish.ro/set-protectie-brate-angrenaj-n-fun-roz.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/set-protectie-brate-angrenaj-n-fun-roz~8289481.jpg",
@@ -7582,7 +7582,7 @@
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "product_count": 17,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "accesorii-aparatori-noroi",
@@ -7715,7 +7715,7 @@
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
       "product_count": 42,
-      "in_stock_count": 36
+      "in_stock_count": 35
     },
     {
       "id": "banda-janta-tubeless",
@@ -7897,7 +7897,7 @@
       "name": "➤ Discuri - Rotoare",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
       "product_count": 17,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "flori-furca-distantiere-accesorii",
@@ -7967,7 +7967,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 51,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8043,8 +8043,8 @@
       "id": "monobloace-b-b",
       "name": "➤ Monobloace - B.B.",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
-      "product_count": 48,
-      "in_stock_count": 41
+      "product_count": 46,
+      "in_stock_count": 40
     },
     {
       "id": "nipluri-accesorii",
@@ -8184,7 +8184,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 48,
-      "in_stock_count": 39
+      "in_stock_count": 37
     },
     {
       "id": "rucsaci",
@@ -8233,7 +8233,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 93,
-      "in_stock_count": 78
+      "in_stock_count": 77
     },
     {
       "id": "set-lumini",
@@ -8254,7 +8254,7 @@
       "name": "➤ Seturi Roti",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
       "product_count": 25,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "sistem-velo-fit",

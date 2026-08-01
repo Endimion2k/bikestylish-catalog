@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-31T04:09:14.990483+00:00",
+  "last_updated": "2026-08-01T04:08:35.252643+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
     "total_parts": 20,
     "product_range": "1501-1750",
-    "original_total": 4754
+    "original_total": 4752
   },
   "products": [
     {
@@ -2215,7 +2215,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 71,
+      "stock_quantity": 69,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/far-pentru-dinam-m-wave-apollon-d30-6v-3w-30lux.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/far-pentru-dinam-m-wave-apollon-d30-6v-3w-30lux~8290645.jpg",
@@ -2820,33 +2820,6 @@
       }
     },
     {
-      "id": "46647",
-      "sku": "46647",
-      "name": "Monobloc CHIN HAUR 115,5 mm BSA Cupe Nylon",
-      "brand": "SXT",
-      "category": "➤ Monobloace - B.B.",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
-      "price": 38.5,
-      "price_net": 31.82,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
-      "url": "https://www.bikestylish.ro/monobloc-chin-haur-115-5-mm-bsa-cupe-nylon.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/monobloc-chin-haur-115-5-mm-bsa-cupe-nylon~8290708.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/monobloc-chin-haur-115-5-mm-bsa-cupe-nylon~8290708.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "Nylon",
-        "SXT",
-        "➤ Monobloace - B.B."
-      ],
-      "specs": {
-        "material": "Nylon"
-      }
-    },
-    {
       "id": "220401",
       "sku": "220401",
       "ean": "887539034559",
@@ -2978,7 +2951,7 @@
       "price_net": 100.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 11,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/pipa-sxt-st-m3-2-60-31-8-1-1-8-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-sxt-st-m3-2-60-31-8-1-1-8-mm-negru~8290723.jpg",
@@ -6890,7 +6863,7 @@
       "price_net": 219.01,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 19,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-28-29-622-x-19c-basic-ii-fd-36h-filetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-sxt-28-29-622-x-19c-basic-ii-fd-36h-filetat~12379899.jpg",
       "images": [
@@ -7204,6 +7177,35 @@
       "specs": {
         "color": "Negru"
       }
+    },
+    {
+      "id": "HTT2SXAB",
+      "sku": "HTT2SXAB",
+      "ean": "4711126209241",
+      "name": "Pedale HT T2-SX Albastru Royal",
+      "brand": "HT COMPONENTS",
+      "category": "➤ Pedale Click",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
+      "price": 658.9,
+      "price_net": 544.55,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 0.68,
+      "url": "https://www.bikestylish.ro/pedale-ht-t2-sx-albastru-royal.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-t2-sx-albastru-royal~8292304.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-t2-sx-albastru-royal~8292304.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-t2-sx-albastru-royal~8292961.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "HT COMPONENTS",
+        "➤ Pedale Click"
+      ],
+      "specs": {
+        "color": "Alb"
+      }
     }
   ],
   "categories": [
@@ -7464,7 +7466,7 @@
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "product_count": 17,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "accesorii-aparatori-noroi",
@@ -7597,7 +7599,7 @@
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
       "product_count": 42,
-      "in_stock_count": 36
+      "in_stock_count": 35
     },
     {
       "id": "banda-janta-tubeless",
@@ -7779,7 +7781,7 @@
       "name": "➤ Discuri - Rotoare",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
       "product_count": 17,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "flori-furca-distantiere-accesorii",
@@ -7849,7 +7851,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 51,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7925,8 +7927,8 @@
       "id": "monobloace-b-b",
       "name": "➤ Monobloace - B.B.",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
-      "product_count": 48,
-      "in_stock_count": 41
+      "product_count": 46,
+      "in_stock_count": 40
     },
     {
       "id": "nipluri-accesorii",
@@ -8066,7 +8068,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 48,
-      "in_stock_count": 39
+      "in_stock_count": 37
     },
     {
       "id": "rucsaci",
@@ -8115,7 +8117,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 93,
-      "in_stock_count": 78
+      "in_stock_count": 77
     },
     {
       "id": "set-lumini",
@@ -8136,7 +8138,7 @@
       "name": "➤ Seturi Roti",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
       "product_count": 25,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "sistem-velo-fit",

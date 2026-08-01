@@ -1,43 +1,14 @@
 {
-  "last_updated": "2026-07-31T04:09:14.990483+00:00",
+  "last_updated": "2026-08-01T04:08:35.252643+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 17,
     "total_parts": 20,
     "product_range": "4001-4250",
-    "original_total": 4754
+    "original_total": 4752
   },
   "products": [
-    {
-      "id": "613537",
-      "sku": "613537",
-      "ean": "887539037437",
-      "name": "Spider SAMOX PD-S-Gen3 BOSCH CL-47 BCD 104 mm",
-      "brand": "SAMOX",
-      "category": "➤ Pedaliere - Angrenaje",
-      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
-      "secondary_categories": [
-        "e- MOBILITY > Angrenaje E-Bike"
-      ],
-      "price": 77.0,
-      "price_net": 63.64,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
-      "weight_kg": 0.1,
-      "url": "https://www.bikestylish.ro/spider-samox-pd-s-gen3-bosch-cl-47-bcd-104-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/spider-samox-pd-s-gen3-bosch-cl-47-bcd-104-mm~8341516.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/spider-samox-pd-s-gen3-bosch-cl-47-bcd-104-mm~8341516.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/spider-samox-pd-s-gen3-bosch-cl-47-bcd-104-mm~8341519.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SAMOX",
-        "➤ Pedaliere - Angrenaje"
-      ]
-    },
     {
       "id": "613538",
       "sku": "613538",
@@ -1243,7 +1214,7 @@
       "price_net": 190.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 8,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/janta-mach1-fzr-xc-29-622-x-23c-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/janta-mach1-fzr-xc-29-622-x-23c-32h~12381897.jpg",
@@ -1335,8 +1306,8 @@
       "price": 170.5,
       "price_net": 140.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/janta-mach1-klixx25-29-622-x-25c-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach1-klixx25-29-622-x-25c-32h~8341912.jpg",
@@ -3564,7 +3535,7 @@
       "price_net": 153.64,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1277-cube.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d1277-cube~8342599.jpg",
@@ -4284,7 +4255,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 149,
+      "stock_quantity": 146,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/pipa-sxt-31-8-1-1-8-38-mm-7-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-sxt-31-8-1-1-8-38-mm-7-negru~8342773.jpg",
@@ -5481,7 +5452,7 @@
       "price_net": 65.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 53,
+      "stock_quantity": 51,
       "weight_kg": 0.28,
       "url": "https://www.bikestylish.ro/sa-sxt-v3111-270-x-170mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/sa-sxt-v3111-270-x-170mm~8343061.jpg",
@@ -7549,7 +7520,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 49,
+      "stock_quantity": 42,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-purple.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/mansoane-mtb-sxt-zn-047-130-mm-lock-on-purple~8343874.jpg",
@@ -7584,7 +7555,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 84,
+      "stock_quantity": 82,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california~8343886.jpg",
@@ -7674,6 +7645,40 @@
         "material": "Aluminiu",
         "color": "Negru",
         "dimensions": "105 x 102"
+      }
+    },
+    {
+      "id": "311898",
+      "sku": "311898",
+      "ean": "0664533242575",
+      "name": "Pedale Aluminiu SXT ALNC- 2032 Negru 3 Rulmenti 120 x 110 x 20 mm",
+      "brand": "SXT",
+      "category": "➤ Pedale Platforma",
+      "category_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 12,
+      "weight_kg": 0.42,
+      "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-alnc-2032-negru-3-rulmenti-120-x-110-x-20-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-aluminiu-sxt-alnc-2032-negru-3-rulmenti-120-x-110-x-20-mm~8343922.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-aluminiu-sxt-alnc-2032-negru-3-rulmenti-120-x-110-x-20-mm~8343922.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-aluminiu-sxt-alnc-2032-negru-3-rulmenti-120-x-110-x-20-mm~8343925.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-aluminiu-sxt-alnc-2032-negru-3-rulmenti-120-x-110-x-20-mm~8343928.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-aluminiu-sxt-alnc-2032-negru-3-rulmenti-120-x-110-x-20-mm~8343931.jpg"
+      ],
+      "tags": [
+        "Aluminiu",
+        "COMPONENTE",
+        "SXT",
+        "➤ Pedale Platforma"
+      ],
+      "specs": {
+        "material": "Aluminiu",
+        "color": "Negru",
+        "dimensions": "120 x 110"
       }
     }
   ],
@@ -7935,7 +7940,7 @@
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "product_count": 17,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "accesorii-aparatori-noroi",
@@ -8068,7 +8073,7 @@
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
       "product_count": 42,
-      "in_stock_count": 36
+      "in_stock_count": 35
     },
     {
       "id": "banda-janta-tubeless",
@@ -8250,7 +8255,7 @@
       "name": "➤ Discuri - Rotoare",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
       "product_count": 17,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "flori-furca-distantiere-accesorii",
@@ -8320,7 +8325,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 51,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8396,8 +8401,8 @@
       "id": "monobloace-b-b",
       "name": "➤ Monobloace - B.B.",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
-      "product_count": 48,
-      "in_stock_count": 41
+      "product_count": 46,
+      "in_stock_count": 40
     },
     {
       "id": "nipluri-accesorii",
@@ -8537,7 +8542,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 48,
-      "in_stock_count": 39
+      "in_stock_count": 37
     },
     {
       "id": "rucsaci",
@@ -8586,7 +8591,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 93,
-      "in_stock_count": 78
+      "in_stock_count": 77
     },
     {
       "id": "set-lumini",
@@ -8607,7 +8612,7 @@
       "name": "➤ Seturi Roti",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
       "product_count": 25,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "sistem-velo-fit",

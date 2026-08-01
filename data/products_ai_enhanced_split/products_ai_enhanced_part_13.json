@@ -1,41 +1,14 @@
 {
-  "last_updated": "2026-07-31T04:09:14.990483+00:00",
+  "last_updated": "2026-08-01T04:08:35.252643+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 13,
     "total_parts": 20,
     "product_range": "3001-3250",
-    "original_total": 4754
+    "original_total": 4752
   },
   "products": [
-    {
-      "id": "D764",
-      "sku": "D764",
-      "ean": "7290107118095",
-      "name": "Ureche Cadru PILO D764 Ghost",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 247.5,
-      "price_net": 204.55,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d764-ghost.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d764-ghost~8332411.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d764-ghost~8332411.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d764-ghost~8332414.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d764-ghost~8332417.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D766",
       "sku": "D766",
@@ -6906,6 +6879,34 @@
         "PILO",
         "➤ Urechi Cadru"
       ]
+    },
+    {
+      "id": "D1067",
+      "sku": "D1067",
+      "ean": "7290117590621",
+      "name": "Ureche Cadru PILO D1067 Bergamont",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 209.0,
+      "price_net": 172.73,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1067-bergamont.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1067-bergamont~8335021.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1067-bergamont~8335021.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d1067-bergamont~8335024.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d1067-bergamont~8335027.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d1067-bergamont~8335030.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7166,7 +7167,7 @@
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "product_count": 17,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "accesorii-aparatori-noroi",
@@ -7299,7 +7300,7 @@
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
       "product_count": 42,
-      "in_stock_count": 36
+      "in_stock_count": 35
     },
     {
       "id": "banda-janta-tubeless",
@@ -7481,7 +7482,7 @@
       "name": "➤ Discuri - Rotoare",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
       "product_count": 17,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "flori-furca-distantiere-accesorii",
@@ -7551,7 +7552,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 51,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7627,8 +7628,8 @@
       "id": "monobloace-b-b",
       "name": "➤ Monobloace - B.B.",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
-      "product_count": 48,
-      "in_stock_count": 41
+      "product_count": 46,
+      "in_stock_count": 40
     },
     {
       "id": "nipluri-accesorii",
@@ -7768,7 +7769,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 48,
-      "in_stock_count": 39
+      "in_stock_count": 37
     },
     {
       "id": "rucsaci",
@@ -7817,7 +7818,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 93,
-      "in_stock_count": 78
+      "in_stock_count": 77
     },
     {
       "id": "set-lumini",
@@ -7838,7 +7839,7 @@
       "name": "➤ Seturi Roti",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
       "product_count": 25,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "sistem-velo-fit",
