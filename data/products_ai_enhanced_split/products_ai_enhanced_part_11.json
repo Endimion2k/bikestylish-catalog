@@ -1,41 +1,14 @@
 {
-  "last_updated": "2026-08-03T04:13:43.059634+00:00",
+  "last_updated": "2026-08-04T04:03:02.295429+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
     "total_parts": 20,
     "product_range": "2501-2750",
-    "original_total": 4752
+    "original_total": 4751
   },
   "products": [
-    {
-      "id": "D57",
-      "sku": "D57",
-      "ean": "7290107110464",
-      "name": "Ureche Cadru PILO D57 Airborne, GT, KHS",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 108.9,
-      "price_net": 90.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d57-airborne-gt-khs.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d57-airborne-gt-khs~8330167.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d57-airborne-gt-khs~8330167.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d57-airborne-gt-khs~8330170.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d57-airborne-gt-khs~8330173.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D185",
       "sku": "D185",
@@ -6475,6 +6448,31 @@
         "PILO",
         "➤ Urechi Cadru"
       ]
+    },
+    {
+      "id": "D231",
+      "sku": "D231",
+      "ean": "7290107112192",
+      "name": "Ureche Cadru PILO D231 Cannondale",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d231-cannondale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d231-cannondale~8331235.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d231-cannondale~8331235.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6504,7 +6502,7 @@
       "name": "Antifurturi - Alarme",
       "full_path": "ACCESORII > Antifurturi - Alarme",
       "product_count": 5,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "anvelope-camere",
@@ -6791,14 +6789,14 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 21,
-      "in_stock_count": 11
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi-cu-cifru",
       "name": "➤ Antifurturi cu Cifru",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
       "product_count": 13,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "anvelope-pliabile",
@@ -6812,7 +6810,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 117
+      "in_stock_count": 116
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -6952,14 +6950,14 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 92,
-      "in_stock_count": 61
+      "in_stock_count": 60
     },
     {
       "id": "capete-cablu-manta",
       "name": "➤ Capete Cablu - Manta",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Capete Cablu - Manta",
       "product_count": 20,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -7092,7 +7090,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "huse-sa",
@@ -7140,7 +7138,7 @@
       "id": "lumini-fata",
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
-      "product_count": 30,
+      "product_count": 29,
       "in_stock_count": 27
     },
     {
@@ -7309,7 +7307,7 @@
       "name": "➤ Protectii Antipana",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
       "product_count": 45,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "protectii-lant-cadru",
@@ -7498,14 +7496,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 147
+      "in_stock_count": 144
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 357
+      "in_stock_count": 356
     },
     {
       "id": "bike-maintenance-intretinere",
