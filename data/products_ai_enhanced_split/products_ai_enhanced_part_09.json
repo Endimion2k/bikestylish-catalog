@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T04:03:02.295429+00:00",
+  "last_updated": "2026-08-05T04:02:15.671143+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -190,7 +190,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 43,
+      "stock_quantity": 42,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/set-protectie-brate-angrenaj-m-wave-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-protectie-brate-angrenaj-m-wave-negru~8325298.jpg",
@@ -408,7 +408,7 @@
       "price_net": 54.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 7,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/disc-frana-promax-160-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/disc-frana-promax-160-mm~8325406.jpg",
@@ -1300,8 +1300,8 @@
       "price": 58.3,
       "price_net": 48.18,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/ghidon-touring-sxt-metal-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-touring-sxt-metal-negru~8325664.jpg",
@@ -1900,7 +1900,7 @@
       "price_net": 44.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 15,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/sonerie-electrica-m-wave.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sonerie-electrica-m-wave~8325874.jpg",
@@ -2724,7 +2724,7 @@
       "price_net": 44.54,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 3,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/set-extensie-valve-m-wave-aluminiu-50-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/set-extensie-valve-m-wave-aluminiu-50-mm-negru~8326150.jpg",
@@ -3217,7 +3217,7 @@
       "price_net": 32.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 61,
+      "stock_quantity": 60,
       "weight_kg": 0.16,
       "url": "https://www.bikestylish.ro/cheie-monobloc-m-wave.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cheie-monobloc-m-wave~8326516.jpg",
@@ -3245,7 +3245,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 17,
+      "stock_quantity": 16,
       "weight_kg": 0.16,
       "url": "https://www.bikestylish.ro/presa-de-lant-m-wave-pin-pusher-paul.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/presa-de-lant-m-wave-pin-pusher-paul~8326519.jpg",
@@ -6630,7 +6630,7 @@
       "price_net": 68.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 22,
+      "stock_quantity": 20,
       "weight_kg": 1.3,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-mr-robsen-27-5-x-2-10-54-584.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-kujo-mr-robsen-27-5-x-2-10-54-584~8327266.jpg",
@@ -6661,7 +6661,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 19,
       "weight_kg": 0.6,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-suzi-s-700x23c-23-622-60-tpi.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-kujo-suzi-s-700x23c-23-622-60-tpi~8327275.jpg",
@@ -7339,7 +7339,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 116
+      "in_stock_count": 115
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7395,7 +7395,7 @@
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
       "product_count": 42,
-      "in_stock_count": 35
+      "in_stock_count": 34
     },
     {
       "id": "banda-janta-tubeless",
@@ -7479,7 +7479,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 92,
-      "in_stock_count": 60
+      "in_stock_count": 59
     },
     {
       "id": "capete-cablu-manta",
@@ -7619,7 +7619,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 36
+      "in_stock_count": 35
     },
     {
       "id": "huse-sa",
@@ -7703,7 +7703,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 72
+      "in_stock_count": 71
     },
     {
       "id": "mantale",
@@ -7766,7 +7766,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 101
+      "in_stock_count": 100
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7794,7 +7794,7 @@
       "name": "➤ Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
       "product_count": 45,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "placute-frana-disc",
@@ -7927,7 +7927,7 @@
       "name": "➤ Seturi Aparatori Noroi",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
       "product_count": 29,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "seturi-roti",
