@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T04:02:15.671143+00:00",
+  "last_updated": "2026-08-06T04:02:49.083194+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1613,7 +1613,7 @@
       "price_net": 180.91,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 2,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d835-scott.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d835-scott~8333035.jpg",
@@ -5968,8 +5968,8 @@
       "price": 176.0,
       "price_net": 145.45,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1030-mondraker.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d1030-mondraker~8334673.jpg",
@@ -7301,7 +7301,7 @@
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
       "product_count": 42,
-      "in_stock_count": 34
+      "in_stock_count": 35
     },
     {
       "id": "banda-janta-tubeless",
@@ -7609,7 +7609,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 71
+      "in_stock_count": 70
     },
     {
       "id": "mantale",
@@ -7672,7 +7672,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 100
+      "in_stock_count": 98
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7819,7 +7819,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 93,
-      "in_stock_count": 77
+      "in_stock_count": 76
     },
     {
       "id": "set-lumini",
@@ -7938,7 +7938,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 356
+      "in_stock_count": 355
     },
     {
       "id": "bike-maintenance-intretinere",
