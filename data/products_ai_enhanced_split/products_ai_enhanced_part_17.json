@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T03:58:22.032796+00:00",
+  "last_updated": "2026-08-08T03:31:21.302753+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -2907,8 +2907,8 @@
       "price": 825.0,
       "price_net": 681.82,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-29-622-x-30c-txn-12-148-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-sxt-29-622-x-30c-txn-12-148-32h~8342398.jpg",
       "images": [
@@ -3265,8 +3265,8 @@
       "price": 825.0,
       "price_net": 681.82,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-27-5-584x30c-txn-12-148-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-sxt-27-5-584x30c-txn-12-148-32h~8342536.jpg",
       "images": [
@@ -3355,8 +3355,8 @@
       "price": 1045.0,
       "price_net": 863.64,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/butuc-spate-novatec-xd602sb-a-b12-s1112-x148-mm-32h-rosu-sh-ms.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-spate-novatec-xd602sb-a-b12-s1112-x148-mm-32h-rosu-sh-ms~8342575.jpg",
       "images": [
@@ -4319,7 +4319,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 12,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-purple.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-sxt-n-13-nylon-fiber-purple~8342788.jpg",
@@ -4352,7 +4352,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 28,
+      "stock_quantity": 27,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-cyan.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-sxt-n-13-nylon-fiber-cyan~8342797.jpg",
@@ -6782,7 +6782,7 @@
       "price_net": 68.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 64,
+      "stock_quantity": 63,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/cheie-pinion-freewheel-super-b-tb-1018.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/cheie-pinion-freewheel-super-b-tb-1018~8343703.jpg",
@@ -8052,7 +8052,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "axe-suruburi-piulite",
@@ -8136,7 +8136,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 65
+      "in_stock_count": 62
     },
     {
       "id": "butuci-v-break-dinam",
@@ -8549,7 +8549,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 48,
-      "in_stock_count": 37
+      "in_stock_count": 33
     },
     {
       "id": "rucsaci",
@@ -8598,7 +8598,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 93,
-      "in_stock_count": 76
+      "in_stock_count": 75
     },
     {
       "id": "set-lumini",
@@ -8717,14 +8717,14 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 354
+      "in_stock_count": 353
     },
     {
       "id": "bike-maintenance-intretinere",
       "name": "➤Bike Maintenance - Intretinere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
       "product_count": 21,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "depozitare-biciclete",

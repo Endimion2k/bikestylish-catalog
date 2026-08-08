@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T03:58:22.032796+00:00",
+  "last_updated": "2026-08-08T03:31:21.302753+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -739,8 +739,8 @@
       "price": 64.9,
       "price_net": 53.64,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/aparat-curatat-lanturi-barbieri.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/aparat-curatat-lanturi-barbieri~8280406.jpg",
@@ -3335,8 +3335,8 @@
       "price": 495.0,
       "price_net": 409.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/butuc-spate-boost-novatec-d462sb-a5a-b12-32h-fd-148-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-spate-boost-novatec-d462sb-a5a-b12-32h-fd-148-mm~8281720.jpg",
       "images": [
@@ -6736,7 +6736,7 @@
       "price_net": 40.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 27,
+      "stock_quantity": 25,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/monobloc-pedalier-m-wave-carousel-bb-repair-113-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/monobloc-pedalier-m-wave-carousel-bb-repair-113-mm~8282080.jpg",
@@ -7571,7 +7571,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7655,7 +7655,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 65
+      "in_stock_count": 62
     },
     {
       "id": "butuci-v-break-dinam",
@@ -8068,7 +8068,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 48,
-      "in_stock_count": 37
+      "in_stock_count": 33
     },
     {
       "id": "rucsaci",
@@ -8117,7 +8117,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 93,
-      "in_stock_count": 76
+      "in_stock_count": 75
     },
     {
       "id": "set-lumini",
@@ -8236,14 +8236,14 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1095,
-      "in_stock_count": 354
+      "in_stock_count": 353
     },
     {
       "id": "bike-maintenance-intretinere",
       "name": "➤Bike Maintenance - Intretinere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
       "product_count": 21,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "depozitare-biciclete",
