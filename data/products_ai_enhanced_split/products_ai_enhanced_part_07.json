@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-10T03:35:20.531552+00:00",
+  "last_updated": "2026-08-12T03:44:40.824249+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
     "total_parts": 20,
     "product_range": "1501-1750",
-    "original_total": 4751
+    "original_total": 4760
   },
   "products": [
     {
@@ -325,7 +325,7 @@
       "price_net": 86.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 37,
+      "stock_quantity": 35,
       "weight_kg": 0.19,
       "url": "https://www.bikestylish.ro/adaptor-ghidon-m-wave-cp-lift-1-1-8.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/adaptor-ghidon-m-wave-cp-lift-1-1-8~8290426.jpg",
@@ -1865,7 +1865,7 @@
       "price_net": 29.09,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "url": "https://www.bikestylish.ro/ratchet-novatec-27-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ratchet-novatec-27-t~8290600.jpg",
       "images": [
@@ -2643,8 +2643,8 @@
       "price": 350.0,
       "price_net": 289.26,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
+      "availability": "limited",
+      "stock_quantity": 5,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-29-622-x-21c-neuro-disc-32h-2-rulmenti.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-sxt-29-622-x-21c-neuro-disc-32h-2-rulmenti~8290690.jpg",
       "images": [
@@ -3039,7 +3039,7 @@
       "price_net": 100.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 44,
+      "stock_quantity": 43,
       "weight_kg": 0.23,
       "url": "https://www.bikestylish.ro/pipa-sxt-st-m3-2-80-31-8-1-1-8-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pipa-sxt-st-m3-2-80-31-8-1-1-8-mm-negru~12311364.jpg",
@@ -4252,7 +4252,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 86,
+      "stock_quantity": 78,
       "weight_kg": 0.13,
       "url": "https://www.bikestylish.ro/suport-reglabil-pentru-telefon-m-wave-bike-mount-al-60-95-mm-aluminiu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/suport-reglabil-pentru-telefon-m-wave-bike-mount-al-60-95-mm-aluminiu~8290870.jpg",
@@ -4815,7 +4815,7 @@
       "price_net": 10.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 326,
+      "stock_quantity": 321,
       "url": "https://www.bikestylish.ro/ax-butuc-spate-cu-piulita-sxt-3-8-180-x-135-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ax-butuc-spate-cu-piulita-sxt-3-8-180-x-135-mm~8290930.jpg",
       "images": [
@@ -6858,8 +6858,8 @@
       "price": 275.0,
       "price_net": 227.27,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-26-559x19c-basic-ii-fd-36h-casetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/roata-spate-sxt-26-559x19c-basic-ii-fd-36h-casetat~8292271.jpg",
       "images": [
@@ -7579,7 +7579,7 @@
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
       "product_count": 14,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "bagaje-ghidon",
@@ -7599,8 +7599,8 @@
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 46,
-      "in_stock_count": 30
+      "product_count": 49,
+      "in_stock_count": 38
     },
     {
       "id": "bar-tape-accesorii",
@@ -7642,14 +7642,14 @@
       "name": "➤ Brate Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
       "product_count": 53,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "butuci-frana-disc",
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 62
+      "in_stock_count": 61
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7810,7 +7810,7 @@
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 25,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "ghidoane",
@@ -7845,7 +7845,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 51,
-      "in_stock_count": 23
+      "in_stock_count": 22
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7901,7 +7901,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 69
+      "in_stock_count": 67
     },
     {
       "id": "mantale",
@@ -7922,7 +7922,7 @@
       "name": "➤ Monobloace - B.B.",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
       "product_count": 46,
-      "in_stock_count": 40
+      "in_stock_count": 39
     },
     {
       "id": "nipluri-accesorii",
@@ -7992,7 +7992,7 @@
       "name": "➤ Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
       "product_count": 45,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "placute-frana-disc",
@@ -8062,7 +8062,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 48,
-      "in_stock_count": 34
+      "in_stock_count": 32
     },
     {
       "id": "rucsaci",
@@ -8195,7 +8195,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "transport-biciclete",
@@ -8229,7 +8229,7 @@
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "product_count": 1095,
+      "product_count": 1101,
       "in_stock_count": 352
     },
     {

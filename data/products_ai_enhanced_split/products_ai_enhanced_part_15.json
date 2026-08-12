@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-10T03:35:20.531552+00:00",
+  "last_updated": "2026-08-12T03:44:40.824249+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 15,
     "total_parts": 20,
     "product_range": "3501-3750",
-    "original_total": 4751
+    "original_total": 4760
   },
   "products": [
     {
@@ -2466,7 +2466,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 36,
+      "stock_quantity": 34,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-evolution-29x1-9-46-622-negru-950g-rigid.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-vittoria-evolution-29x1-9-46-622-negru-950g-rigid~8337955.jpg",
@@ -2848,7 +2848,7 @@
       "price_net": 29.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 10,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-ergo-132-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/mansoane-sxt-cloud-ergo-132-mm~8338027.jpg",
       "images": [
@@ -4006,7 +4006,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 128,
+      "stock_quantity": 123,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-sxt-gh-011-sr-2.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-sxt-gh-011-sr-2~8338357.jpg",
@@ -4960,8 +4960,8 @@
       "price": 539.0,
       "price_net": 445.45,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/butuc-spate-novatec-d462sb-sl-cl-x12-s3s-11s-negru-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/butuc-spate-novatec-d462sb-sl-cl-x12-s3s-11s-negru-32h~8338774.jpg",
@@ -6775,7 +6775,7 @@
       "price_net": 13.22,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/cuveti-externi-neco-1-silver-metal.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cuveti-externi-neco-1-silver-metal~8339368.jpg",
@@ -7399,7 +7399,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 15,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/ureche-cadru-super-b-tb-et05.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-super-b-tb-et05~8339608.jpg",
@@ -8167,7 +8167,7 @@
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
       "product_count": 14,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "bagaje-ghidon",
@@ -8187,8 +8187,8 @@
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 46,
-      "in_stock_count": 30
+      "product_count": 49,
+      "in_stock_count": 38
     },
     {
       "id": "bar-tape-accesorii",
@@ -8230,14 +8230,14 @@
       "name": "➤ Brate Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
       "product_count": 53,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "butuci-frana-disc",
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 62
+      "in_stock_count": 61
     },
     {
       "id": "butuci-v-break-dinam",
@@ -8398,7 +8398,7 @@
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
       "product_count": 25,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "ghidoane",
@@ -8433,7 +8433,7 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 51,
-      "in_stock_count": 23
+      "in_stock_count": 22
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8489,7 +8489,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 69
+      "in_stock_count": 67
     },
     {
       "id": "mantale",
@@ -8510,7 +8510,7 @@
       "name": "➤ Monobloace - B.B.",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
       "product_count": 46,
-      "in_stock_count": 40
+      "in_stock_count": 39
     },
     {
       "id": "nipluri-accesorii",
@@ -8580,7 +8580,7 @@
       "name": "➤ Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
       "product_count": 45,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "placute-frana-disc",
@@ -8650,7 +8650,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 48,
-      "in_stock_count": 34
+      "in_stock_count": 32
     },
     {
       "id": "rucsaci",
@@ -8783,7 +8783,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "transport-biciclete",
@@ -8817,7 +8817,7 @@
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "product_count": 1095,
+      "product_count": 1101,
       "in_stock_count": 352
     },
     {
