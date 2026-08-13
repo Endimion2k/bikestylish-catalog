@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T03:44:40.824249+00:00",
+  "last_updated": "2026-08-13T03:47:26.045761+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -2434,8 +2434,8 @@
       "price": 35.2,
       "price_net": 29.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.36,
       "url": "https://www.bikestylish.ro/lant-kmc-b1-wide-1v-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-b1-wide-1v-negru~11595405.jpg",
@@ -2734,7 +2734,7 @@
       "price_net": 0.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 200,
+      "stock_quantity": 150,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std13c-2-3-x-291-mm-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/spita-inox-cnspoke-std13c-2-3-x-291-mm-silver~8338009.jpg",
@@ -3686,7 +3686,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 300,
+      "stock_quantity": 280,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/camera-kujo-26-x-1-75-2-125-av-33-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kujo-26-x-1-75-2-125-av-33-mm~8338252.jpg",
@@ -4006,7 +4006,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 123,
+      "stock_quantity": 113,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-sxt-gh-011-sr-2.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-sxt-gh-011-sr-2~8338357.jpg",
@@ -7509,8 +7509,8 @@
       "price": 75.9,
       "price_net": 62.73,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/banda-janta-tubeless-sxt-35-mm-10-m.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/banda-janta-tubeless-sxt-35-mm-10-m~8339644.jpg",
@@ -7731,8 +7731,8 @@
       "price": 324.5,
       "price_net": 268.18,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 1.25,
       "url": "https://www.bikestylish.ro/insertie-antipana-vittoria-air-liner-protect-downhill-29x2-4-2-6.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/insertie-antipana-vittoria-air-liner-protect-downhill-29x2-4-2-6~8339689.jpg",
@@ -8125,7 +8125,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 115
+      "in_stock_count": 113
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -8230,7 +8230,7 @@
       "name": "➤ Brate Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
       "product_count": 53,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "butuci-frana-disc",
@@ -8349,7 +8349,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 14,
-      "in_stock_count": 10
+      "in_stock_count": 8
     },
     {
       "id": "cuveti-headset",
@@ -8405,7 +8405,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 35
+      "in_stock_count": 34
     },
     {
       "id": "huse-sa",
@@ -8447,7 +8447,7 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 58
+      "in_stock_count": 57
     },
     {
       "id": "lumini-fata",
@@ -8468,7 +8468,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "manete-frana-schimbator",
@@ -8573,7 +8573,7 @@
       "name": "➤ Pionioane Filetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "product_count": 41,
-      "in_stock_count": 36
+      "in_stock_count": 35
     },
     {
       "id": "pipe-ghidon",
@@ -8608,7 +8608,7 @@
       "name": "➤ Portbagaje Fata",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Fata",
       "product_count": 5,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "portbagaje-spate",
@@ -8622,7 +8622,7 @@
       "name": "➤ Protectii Antipana",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
       "product_count": 45,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "protectii-lant-cadru",
@@ -8734,7 +8734,7 @@
       "name": "➤ Sonerii",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
       "product_count": 50,
-      "in_stock_count": 40
+      "in_stock_count": 38
     },
     {
       "id": "spite-stainless",
@@ -8769,7 +8769,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 51,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -8818,7 +8818,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1101,
-      "in_stock_count": 352
+      "in_stock_count": 350
     },
     {
       "id": "bike-maintenance-intretinere",
