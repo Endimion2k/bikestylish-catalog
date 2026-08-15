@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T03:45:17.417224+00:00",
+  "last_updated": "2026-08-15T03:15:34.224527+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -498,8 +498,8 @@
       "price": 180.0,
       "price_net": 148.76,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.38,
       "url": "https://www.bikestylish.ro/lant-kmc-x12-silver-black-12-v-126-zale.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-x12-silver-black-12-v-126-zale~8287765.jpg",
@@ -761,7 +761,7 @@
       "price_net": 55.37,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 11,
       "weight_kg": 0.73,
       "url": "https://www.bikestylish.ro/sa-ventura-fc-gel-o-zone.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/sa-ventura-fc-gel-o-zone~8287792.jpg",
@@ -2066,7 +2066,7 @@
       "price_net": 21.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 65,
+      "stock_quantity": 60,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/suport-bidon-plastic-m-wave-bc-29.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/suport-bidon-plastic-m-wave-bc-29~8287930.jpg",
@@ -2675,7 +2675,7 @@
       "price_net": 42.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 19,
+      "stock_quantity": 18,
       "url": "https://www.bikestylish.ro/manusi-ciclism-extend-spiroq-m-grey-lime.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/manusi-ciclism-extend-spiroq-m-grey-lime~8288995.jpg",
       "images": [
@@ -2702,7 +2702,7 @@
       "price_net": 42.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "url": "https://www.bikestylish.ro/manusi-ciclism-extend-spiroq-l-grey-lime.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/manusi-ciclism-extend-spiroq-l-grey-lime~8288998.jpg",
       "images": [
@@ -4927,7 +4927,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 8,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/maneta-frana-copii-m-wave-dreapta-plastic-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/maneta-frana-copii-m-wave-dreapta-plastic-negru~8289244.jpg",
@@ -5907,7 +5907,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 80,
+      "stock_quantity": 79,
       "url": "https://www.bikestylish.ro/maneta-schimbator-shimano-sl-rv200-7r-7viteze-dreapta.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/maneta-schimbator-shimano-sl-rv200-7r-7viteze-dreapta~8289343.jpg",
       "images": [
@@ -6313,7 +6313,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "url": "https://www.bikestylish.ro/manusi-b-race-bump-negru-rosu-m.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/manusi-b-race-bump-negru-rosu-m~8289385.jpg",
       "images": [
@@ -7250,7 +7250,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 64,
+      "stock_quantity": 54,
       "weight_kg": 0.14,
       "url": "https://www.bikestylish.ro/camera-kujo-8-1-2x2-0-48-52-134-ventil-drept-av-22-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/camera-kujo-8-1-2x2-0-48-52-134-ventil-drept-av-22-mm~8289508.jpg",
@@ -7282,7 +7282,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 66,
+      "stock_quantity": 65,
       "url": "https://www.bikestylish.ro/maneta-schimbator-shimano-sl-rv200-l-3v-stanga.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/maneta-schimbator-shimano-sl-rv200-l-3v-stanga~8289511.jpg",
       "images": [
@@ -7474,7 +7474,7 @@
       "name": "Manusi Ciclism",
       "full_path": "ECHIPAMENTE > Manusi Ciclism",
       "product_count": 45,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "motoare-e-bike",
@@ -7733,7 +7733,7 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 49,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "bar-tape-accesorii",
@@ -7894,7 +7894,7 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 14,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "cuveti-headset",
@@ -7992,7 +7992,7 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 57
+      "in_stock_count": 56
     },
     {
       "id": "lumini-fata",
@@ -8048,7 +8048,7 @@
       "name": "➤ Mini Pompe",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Mini Pompe",
       "product_count": 14,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "monobloace-b-b",
@@ -8118,7 +8118,7 @@
       "name": "➤ Pionioane Filetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "product_count": 41,
-      "in_stock_count": 35
+      "in_stock_count": 34
     },
     {
       "id": "pipe-ghidon",
@@ -8356,14 +8356,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 143
+      "in_stock_count": 142
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1101,
-      "in_stock_count": 379
+      "in_stock_count": 378
     },
     {
       "id": "bike-maintenance-intretinere",
