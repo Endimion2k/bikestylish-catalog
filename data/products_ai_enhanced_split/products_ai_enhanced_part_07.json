@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-17T03:19:58.868546+00:00",
+  "last_updated": "2026-08-18T03:17:59.474870+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
     "total_parts": 20,
     "product_range": "1501-1750",
-    "original_total": 4760
+    "original_total": 4759
   },
   "products": [
     {
@@ -2210,7 +2210,7 @@
       "price_net": 90.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 8,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/tija-sa-cu-suspensie-zoom-travel-35-30-9x350-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/tija-sa-cu-suspensie-zoom-travel-35-30-9x350-mm~8290648.jpg",
@@ -2612,8 +2612,8 @@
       "price": 317.9,
       "price_net": 262.73,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 10,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-26-559x21c-32h-neuro-disc-2r.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-26-559x21c-32h-neuro-disc-2r~8290687.jpg",
       "images": [
@@ -2795,8 +2795,8 @@
       "price": 42.9,
       "price_net": 35.45,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.13,
       "url": "https://www.bikestylish.ro/far-cu-baterii-m-wave-apollon-2-negru-1watt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/far-cu-baterii-m-wave-apollon-2-negru-1watt~8290711.jpg",
@@ -2824,8 +2824,8 @@
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-93-x-97-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-aluminiu-sxt-93-x-97-mm-negru~8291503.jpg",
@@ -4106,7 +4106,7 @@
       "price_net": 63.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 19,
+      "stock_quantity": 14,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/stop-spate-portbagaj-m-wave-helios-e-brake-e-bike-21-leds.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/stop-spate-portbagaj-m-wave-helios-e-brake-e-bike-21-leds~8290855.jpg",
@@ -6070,7 +6070,7 @@
       "price_net": 26.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 148,
+      "stock_quantity": 146,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-xl-26-4-x101x106-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-plastic-sxt-xl-26-4-x101x106-mm~8292187.jpg",
@@ -6641,7 +6641,7 @@
       "price_net": 135.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 9,
       "url": "https://www.bikestylish.ro/anvelopa-plina-trotineta-10x2-5c-negru-janta-44-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-plina-trotineta-10x2-5c-negru-janta-44-mm~8292250.jpg",
       "images": [
@@ -7411,7 +7411,7 @@
       "name": "Transport - Depozitare",
       "full_path": "ACCESORII > Transport - Depozitare",
       "product_count": 4,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "tricouri-ciclism",
@@ -7509,7 +7509,7 @@
       "name": "➤ Antifurturi Pliabile",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi Pliabile",
       "product_count": 2,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "antifurturi-cu-cheie",
@@ -7593,14 +7593,14 @@
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
       "product_count": 42,
-      "in_stock_count": 35
+      "in_stock_count": 34
     },
     {
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 49,
-      "in_stock_count": 37
+      "in_stock_count": 38
     },
     {
       "id": "bar-tape-accesorii",
@@ -7677,7 +7677,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 92,
-      "in_stock_count": 59
+      "in_stock_count": 58
     },
     {
       "id": "capete-cablu-manta",
@@ -7859,14 +7859,14 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 56
+      "in_stock_count": 55
     },
     {
       "id": "lumini-fata",
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
       "product_count": 29,
-      "in_stock_count": 26
+      "in_stock_count": 27
     },
     {
       "id": "lumini-spate",
@@ -7964,7 +7964,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 98
+      "in_stock_count": 97
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8034,7 +8034,7 @@
       "name": "➤ Protectii Antipana",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
       "product_count": 45,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "protectii-lant-cadru",
@@ -8055,14 +8055,14 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 38,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
-      "product_count": 48,
-      "in_stock_count": 31
+      "product_count": 47,
+      "in_stock_count": 30
     },
     {
       "id": "rucsaci",
