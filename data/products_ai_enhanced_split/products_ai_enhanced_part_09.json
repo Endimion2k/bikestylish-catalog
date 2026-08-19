@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T03:17:59.474870+00:00",
+  "last_updated": "2026-08-19T03:18:48.474862+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -407,8 +407,8 @@
       "price": 66.0,
       "price_net": 54.55,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/disc-frana-promax-160-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/disc-frana-promax-160-mm~8325406.jpg",
@@ -1735,7 +1735,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 87,
+      "stock_quantity": 85,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-4-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-4-negru~8325799.jpg",
@@ -1900,7 +1900,7 @@
       "price_net": 44.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 14,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/sonerie-electrica-m-wave.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sonerie-electrica-m-wave~8325874.jpg",
@@ -1959,7 +1959,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 10,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/cric-aluminiu-sxt-strong-r-26-29.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/cric-aluminiu-sxt-strong-r-26-29~8325889.jpg",
@@ -2849,7 +2849,7 @@
       "price_net": 31.4,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 127,
+      "stock_quantity": 123,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/ulei-pentru-lant-m-wave-chain-guard-ultra-50-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ulei-pentru-lant-m-wave-chain-guard-ultra-50-ml~8326282.jpg",
@@ -3217,7 +3217,7 @@
       "price_net": 32.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 48,
+      "stock_quantity": 46,
       "weight_kg": 0.16,
       "url": "https://www.bikestylish.ro/cheie-monobloc-m-wave.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cheie-monobloc-m-wave~8326516.jpg",
@@ -3244,8 +3244,8 @@
       "price": 45.0,
       "price_net": 37.19,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.16,
       "url": "https://www.bikestylish.ro/presa-de-lant-m-wave-pin-pusher-paul.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/presa-de-lant-m-wave-pin-pusher-paul~8326519.jpg",
@@ -6599,7 +6599,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 19,
       "weight_kg": 0.95,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-mr-ramapo-24x2-10-54-507.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-kujo-mr-ramapo-24x2-10-54-507~8327260.jpg",
@@ -6630,7 +6630,7 @@
       "price_net": 68.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 14,
       "weight_kg": 1.3,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-mr-robsen-27-5-x-2-10-54-584.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-kujo-mr-robsen-27-5-x-2-10-54-584~8327266.jpg",
@@ -7318,14 +7318,14 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 21,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "antifurturi-cu-cifru",
       "name": "➤ Antifurturi cu Cifru",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
       "product_count": 13,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "anvelope-pliabile",
@@ -7339,7 +7339,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 111
+      "in_stock_count": 110
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7367,7 +7367,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 40
+      "in_stock_count": 39
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7402,7 +7402,7 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 49,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "bar-tape-accesorii",
@@ -7458,7 +7458,7 @@
       "name": "➤ Butuci V-Break - Dinam",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
       "product_count": 49,
-      "in_stock_count": 39
+      "in_stock_count": 38
     },
     {
       "id": "cabluri",
@@ -7661,14 +7661,14 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 55
+      "in_stock_count": 56
     },
     {
       "id": "lumini-fata",
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
       "product_count": 29,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "lumini-spate",
@@ -7682,7 +7682,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "manete-frana-schimbator",
@@ -7864,7 +7864,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 47,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "rucsaci",
@@ -7976,7 +7976,7 @@
       "name": "➤ Spite UCP",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite UCP",
       "product_count": 58,
-      "in_stock_count": 26
+      "in_stock_count": 24
     },
     {
       "id": "suporturi-bidon",
