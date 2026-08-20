@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T03:18:48.474862+00:00",
+  "last_updated": "2026-08-20T03:18:38.196708+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -2916,7 +2916,7 @@
       "price_net": 100.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 10,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/pipa-sxt-st-m3-2-60-31-8-1-1-8-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-sxt-st-m3-2-60-31-8-1-1-8-mm-negru~8290723.jpg",
@@ -3985,8 +3985,8 @@
       "price": 108.9,
       "price_net": 90.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/tija-sa-cu-suspensie-zoom-travel-35-27-2x350-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/tija-sa-cu-suspensie-zoom-travel-35-27-2x350-mm-negru~8290843.jpg",
@@ -4165,7 +4165,7 @@
       "price_net": 20.0,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/bandana-m-wave-neon-yellow.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/bandana-m-wave-neon-yellow~8290861.jpg",
@@ -4252,7 +4252,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 59,
+      "stock_quantity": 58,
       "weight_kg": 0.13,
       "url": "https://www.bikestylish.ro/suport-reglabil-pentru-telefon-m-wave-bike-mount-al-60-95-mm-aluminiu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/suport-reglabil-pentru-telefon-m-wave-bike-mount-al-60-95-mm-aluminiu~8290870.jpg",
@@ -4651,7 +4651,7 @@
       "price_net": 17.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 29,
+      "stock_quantity": 28,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/bandana-m-wave-circles.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/bandana-m-wave-circles~8290912.jpg",
@@ -4677,7 +4677,7 @@
       "price_net": 17.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 24,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/bandana-m-wave-purple-squared.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/bandana-m-wave-purple-squared~8290915.jpg",
@@ -4838,8 +4838,8 @@
       "price": 275.0,
       "price_net": 227.27,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-fata-sxt-26-559-x-21c-karma-32h-2-rul.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/roata-fata-sxt-26-559-x-21c-karma-32h-2-rul~8290933.jpg",
       "images": [
@@ -7355,7 +7355,7 @@
       "name": "Pantaloni Ciclism",
       "full_path": "ECHIPAMENTE > Pantaloni Ciclism",
       "product_count": 5,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "pantofi-ciclism",
@@ -7586,7 +7586,7 @@
       "name": "➤ Bagaje Ghidon",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
       "product_count": 9,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "bagaje-spate",
@@ -7768,7 +7768,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "discuri-rotoare",
@@ -7789,7 +7789,7 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 35,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "frane-disc",
@@ -7880,7 +7880,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 15
+      "in_stock_count": 16
     },
     {
       "id": "manete-frana-schimbator",
@@ -8048,21 +8048,21 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 38,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 47,
-      "in_stock_count": 29
+      "in_stock_count": 30
     },
     {
       "id": "rucsaci",
@@ -8195,7 +8195,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "transport-biciclete",
@@ -8230,7 +8230,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1101,
-      "in_stock_count": 378
+      "in_stock_count": 377
     },
     {
       "id": "bike-maintenance-intretinere",

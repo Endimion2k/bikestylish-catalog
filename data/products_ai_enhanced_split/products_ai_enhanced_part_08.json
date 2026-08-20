@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T03:18:48.474862+00:00",
+  "last_updated": "2026-08-20T03:18:38.196708+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -433,8 +433,8 @@
       "price": 170.5,
       "price_net": 140.91,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d484-canyon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d484-canyon~8292358.jpg",
@@ -1098,8 +1098,8 @@
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d634-haibike-2015-x-duro.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d634-haibike-2015-x-duro~8292436.jpg",
@@ -3890,7 +3890,7 @@
       "price_net": 43.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 14,
       "weight_kg": 0.38,
       "url": "https://www.bikestylish.ro/camera-kenda-26-x-3-0-68-559-av-35-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-kenda-26-x-3-0-68-559-av-35-mm~8324005.jpg",
@@ -4411,7 +4411,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/camera-kenda-24-x-2-30-2-60-56-62-507-av-35-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-kenda-24-x-2-30-2-60-56-62-507-av-35-mm~8324155.jpg",
@@ -4883,7 +4883,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 499,
+      "stock_quantity": 495,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -4913,7 +4913,7 @@
       "price_net": 30.58,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 1092,
+      "stock_quantity": 1082,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/camera-kenda-14-x-2-50-av-valva-45.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kenda-14-x-2-50-av-valva-45~8324272.jpg",
@@ -7184,7 +7184,7 @@
       "name": "Pantaloni Ciclism",
       "full_path": "ECHIPAMENTE > Pantaloni Ciclism",
       "product_count": 5,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "pantofi-ciclism",
@@ -7415,7 +7415,7 @@
       "name": "➤ Bagaje Ghidon",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
       "product_count": 9,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "bagaje-spate",
@@ -7597,7 +7597,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "discuri-rotoare",
@@ -7618,7 +7618,7 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 35,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "frane-disc",
@@ -7709,7 +7709,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 15
+      "in_stock_count": 16
     },
     {
       "id": "manete-frana-schimbator",
@@ -7877,21 +7877,21 @@
       "name": "➤ Reflectorizante",
       "full_path": "ACCESORII > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
       "product_count": 21,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 38,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 47,
-      "in_stock_count": 29
+      "in_stock_count": 30
     },
     {
       "id": "rucsaci",
@@ -8024,7 +8024,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "transport-biciclete",
@@ -8059,7 +8059,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1101,
-      "in_stock_count": 378
+      "in_stock_count": 377
     },
     {
       "id": "bike-maintenance-intretinere",
