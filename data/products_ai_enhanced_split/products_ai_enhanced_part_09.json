@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T03:21:20.900437+00:00",
+  "last_updated": "2026-08-24T03:22:14.009806+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -2583,8 +2583,8 @@
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 30,
       "weight_kg": 1.2,
       "url": "https://www.bikestylish.ro/pompa-podea-beto-metal-dark-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pompa-podea-beto-metal-dark-silver~8326069.jpg",
@@ -7395,7 +7395,7 @@
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
       "product_count": 42,
-      "in_stock_count": 34
+      "in_stock_count": 33
     },
     {
       "id": "banda-janta-tubeless",
@@ -7808,14 +7808,14 @@
       "name": "➤ Pompe Furca - Tubeless",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Furca - Tubeless",
       "product_count": 6,
-      "in_stock_count": 4
+      "in_stock_count": 5
     },
     {
       "id": "pompe-podea",
       "name": "➤ Pompe Podea",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Podea",
       "product_count": 11,
-      "in_stock_count": 6
+      "in_stock_count": 7
     },
     {
       "id": "portbagaje-fata",
