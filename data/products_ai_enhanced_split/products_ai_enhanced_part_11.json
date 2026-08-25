@@ -1,46 +1,14 @@
 {
-  "last_updated": "2026-08-24T03:22:14.009806+00:00",
+  "last_updated": "2026-08-25T03:19:26.387611+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
     "total_parts": 20,
     "product_range": "2501-2750",
-    "original_total": 4758
+    "original_total": 4757
   },
   "products": [
-    {
-      "id": "D185",
-      "sku": "D185",
-      "ean": "7290107111744",
-      "name": "Ureche Cadru PILO D185 TREK MTB 6700 6500",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 121.0,
-      "price_net": 100.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d185-trek-mtb-6700-6500.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d185-trek-mtb-6700-6500~8330176.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d185-trek-mtb-6700-6500~8330176.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d185-trek-mtb-6700-6500~8330179.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "MTB",
-        "PILO",
-        "➤ Urechi Cadru"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ]
-      }
-    },
     {
       "id": "D186",
       "sku": "D186",
@@ -898,7 +866,7 @@
       "price_net": 23.14,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 93,
+      "stock_quantity": 92,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/ulei-special-m-wave-oil-guard-bio-100-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ulei-special-m-wave-oil-guard-bio-100-ml~8330437.jpg",
@@ -6473,6 +6441,31 @@
         "PILO",
         "➤ Urechi Cadru"
       ]
+    },
+    {
+      "id": "D422",
+      "sku": "D422",
+      "ean": "7290107114301",
+      "name": "Ureche Cadru PILO D422 Votec",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d422-votec.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d422-votec~8331238.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d422-votec~8331238.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6733,7 +6726,7 @@
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "product_count": 17,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "accesorii-aparatori-noroi",
@@ -6810,7 +6803,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 110
+      "in_stock_count": 109
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -6852,7 +6845,7 @@
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
       "product_count": 14,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "bagaje-ghidon",
@@ -7034,14 +7027,14 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 14,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "cuveti-headset",
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "discuri-rotoare",
@@ -7132,7 +7125,7 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 55
+      "in_stock_count": 54
     },
     {
       "id": "lumini-fata",
@@ -7146,7 +7139,7 @@
       "name": "➤ Lumini Spate",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 28
+      "in_stock_count": 26
     },
     {
       "id": "manete-frana",
@@ -7237,7 +7230,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 97
+      "in_stock_count": 95
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7265,7 +7258,7 @@
       "name": "➤ Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
       "product_count": 45,
-      "in_stock_count": 36
+      "in_stock_count": 35
     },
     {
       "id": "placute-frana-disc",
@@ -7300,7 +7293,7 @@
       "name": "➤ Portbagaje Spate",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "product_count": 15,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "protectii-antipana",
@@ -7349,7 +7342,7 @@
       "name": "➤ Rulmenti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Rulmenti(HeadSet)",
       "product_count": 6,
-      "in_stock_count": 5
+      "in_stock_count": 3
     },
     {
       "id": "saboti-frana",
@@ -7453,7 +7446,7 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 51,
+      "product_count": 50,
       "in_stock_count": 37
     },
     {
@@ -7503,7 +7496,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1101,
-      "in_stock_count": 377
+      "in_stock_count": 375
     },
     {
       "id": "bike-maintenance-intretinere",

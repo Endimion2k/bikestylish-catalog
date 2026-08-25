@@ -1,41 +1,14 @@
 {
-  "last_updated": "2026-08-24T03:22:14.009806+00:00",
+  "last_updated": "2026-08-25T03:19:26.387611+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 13,
     "total_parts": 20,
     "product_range": "3001-3250",
-    "original_total": 4758
+    "original_total": 4757
   },
   "products": [
-    {
-      "id": "D765",
-      "sku": "D765",
-      "ean": "7290107118101",
-      "name": "Ureche Cadru PILO D765 Merida",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 242.0,
-      "price_net": 200.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d765-merida.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d765-merida~8332432.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d765-merida~8332432.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d765-merida~8332435.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d765-merida~8332438.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D768",
       "sku": "D768",
@@ -6908,6 +6881,34 @@
         "PILO",
         "➤ Urechi Cadru"
       ]
+    },
+    {
+      "id": "D1070",
+      "sku": "D1070",
+      "ean": "7290117590652",
+      "name": "Ureche Cadru PILO D1070 Isaac",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 209.0,
+      "price_net": 172.73,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1070-isaac.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1070-isaac~8335051.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1070-isaac~8335051.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d1070-isaac~8335054.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d1070-isaac~8335057.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d1070-isaac~8335060.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7168,7 +7169,7 @@
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "product_count": 17,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "accesorii-aparatori-noroi",
@@ -7245,7 +7246,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 110
+      "in_stock_count": 109
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7287,7 +7288,7 @@
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
       "product_count": 14,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "bagaje-ghidon",
@@ -7469,14 +7470,14 @@
       "name": "➤ Cricuri Spate",
       "full_path": "ACCESORII > Cricuri Bicicleta > ➤ Cricuri Spate",
       "product_count": 14,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "cuveti-headset",
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "discuri-rotoare",
@@ -7567,7 +7568,7 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 55
+      "in_stock_count": 54
     },
     {
       "id": "lumini-fata",
@@ -7581,7 +7582,7 @@
       "name": "➤ Lumini Spate",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 28
+      "in_stock_count": 26
     },
     {
       "id": "manete-frana",
@@ -7672,7 +7673,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 97
+      "in_stock_count": 95
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7700,7 +7701,7 @@
       "name": "➤ Pipe Ghidon",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Pipe Ghidon",
       "product_count": 45,
-      "in_stock_count": 36
+      "in_stock_count": 35
     },
     {
       "id": "placute-frana-disc",
@@ -7735,7 +7736,7 @@
       "name": "➤ Portbagaje Spate",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "product_count": 15,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "protectii-antipana",
@@ -7784,7 +7785,7 @@
       "name": "➤ Rulmenti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Rulmenti(HeadSet)",
       "product_count": 6,
-      "in_stock_count": 5
+      "in_stock_count": 3
     },
     {
       "id": "saboti-frana",
@@ -7888,7 +7889,7 @@
       "id": "suporturi-bidon",
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 51,
+      "product_count": 50,
       "in_stock_count": 37
     },
     {
@@ -7938,7 +7939,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1101,
-      "in_stock_count": 377
+      "in_stock_count": 375
     },
     {
       "id": "bike-maintenance-intretinere",
