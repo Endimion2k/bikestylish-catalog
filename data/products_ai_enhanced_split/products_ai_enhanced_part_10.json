@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T04:48:48.943297+00:00",
+  "last_updated": "2026-08-28T05:43:44.317019+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -2667,7 +2667,7 @@
       "price_net": 180.91,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 6.0,
       "url": "https://www.bikestylish.ro/scaun-bicicleta-spate-pentru-copii-prindere-pe-cadru-belelli-pepe-standard-blue-light-b.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/scaun-bicicleta-spate-pentru-copii-prindere-pe-cadru-belelli-pepe~8328517.jpg",
@@ -3236,7 +3236,7 @@
       "price_net": 48.76,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 10,
       "weight_kg": 0.99,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-attachi-24x2-10-52-507.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kujo-attachi-24x2-10-52-507~8328694.jpg",
@@ -3748,8 +3748,8 @@
       "price": 13.2,
       "price_net": 10.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/adaptor-tija-sa-de-la-29-2-mm-la-27-2-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/adaptor-tija-sa-de-la-29-2-mm-la-27-2-mm~8328880.jpg",
@@ -5253,8 +5253,8 @@
       "price": 225.5,
       "price_net": 186.36,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/protectie-antipana-tannus-armour-700-x-35-40c.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/protectie-antipana-tannus-armour-700-x-35-40c~10168089.jpg",
@@ -7724,7 +7724,7 @@
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 38,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "bidoane-ciclism",
@@ -8081,7 +8081,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 94
+      "in_stock_count": 93
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8151,7 +8151,7 @@
       "name": "➤ Protectii Antipana",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Protectii Antipana",
       "product_count": 45,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "protectii-lant-cadru",
@@ -8179,7 +8179,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 47,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "rucsaci",
@@ -8298,7 +8298,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 50,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -8312,7 +8312,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "transport-biciclete",
@@ -8340,14 +8340,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 141
+      "in_stock_count": 140
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1101,
-      "in_stock_count": 373
+      "in_stock_count": 372
     },
     {
       "id": "bike-maintenance-intretinere",
