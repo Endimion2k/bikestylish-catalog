@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T05:43:44.317019+00:00",
+  "last_updated": "2026-08-29T03:10:50.171670+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -306,7 +306,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 160,
+      "stock_quantity": 159,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-24x1-95-2-125-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/camera-standard-vittoria-24x1-95-2-125-av-schrader-48mm~8341579.jpg",
       "images": [
@@ -3506,8 +3506,8 @@
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-ergomax-fix-138mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/mansoane-sxt-cloud-ergomax-fix-138mm~8342617.jpg",
@@ -6917,7 +6917,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 52,
+      "stock_quantity": 51,
       "weight_kg": 0.87,
       "url": "https://www.bikestylish.ro/antifurt-tip-lant-m-wave-d-6-8-5-850x6-mm-cifru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/antifurt-tip-lant-m-wave-d-6-8-5-850x6-mm-cifru~8343763.jpg",
@@ -7341,7 +7341,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 81,
+      "stock_quantity": 80,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-verde.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-mtb-sxt-zn-047-130-mm-lock-on-verde~8343850.jpg",
@@ -7446,7 +7446,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 55,
+      "stock_quantity": 53,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california~8343886.jpg",
@@ -8027,7 +8027,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 108
+      "in_stock_count": 107
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -8391,14 +8391,14 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 67
+      "in_stock_count": 66
     },
     {
       "id": "mantale",
       "name": "➤ Mantale",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Mantale",
       "product_count": 13,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "mini-pompe",
@@ -8461,7 +8461,7 @@
       "name": "➤ Pedaliere - Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
       "product_count": 61,
-      "in_stock_count": 40
+      "in_stock_count": 39
     },
     {
       "id": "pinioane-casetate",
@@ -8517,7 +8517,7 @@
       "name": "➤ Portbagaje Spate",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "product_count": 15,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "protectii-antipana",
@@ -8545,7 +8545,7 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 38,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "roti-spate",

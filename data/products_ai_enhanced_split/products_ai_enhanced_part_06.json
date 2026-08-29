@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T05:43:44.317019+00:00",
+  "last_updated": "2026-08-29T03:10:50.171670+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1006,8 +1006,8 @@
       "price": 225.0,
       "price_net": 185.95,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-fata-sxt-26-559-x-19c-sxt-basic-qr-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/roata-fata-sxt-26-559-x-19c-sxt-basic-qr-36h~8287819.jpg",
       "images": [
@@ -1197,7 +1197,7 @@
       "price_net": 185.95,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-26-559x19c-basic-qr-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-26-559x19c-basic-qr-36h~8287837.jpg",
       "images": [
@@ -1864,7 +1864,7 @@
       "price_net": 173.55,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/thru-axle-m-wave-142-148-mm-shimano-p-f-1-5-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/thru-axle-m-wave-142-148-mm-shimano-p-f-1-5-mm~11389053.jpg",
@@ -2957,7 +2957,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 21,
       "weight_kg": 0.21,
       "url": "https://www.bikestylish.ro/presa-lant-ventura-1-12-v.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/presa-lant-ventura-1-12-v~8289028.jpg",
@@ -7221,7 +7221,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 17,
+      "stock_quantity": 12,
       "weight_kg": 0.14,
       "url": "https://www.bikestylish.ro/camera-kujo-8-1-2x2-0-48-52-134-ventil-drept-av-22-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/camera-kujo-8-1-2x2-0-48-52-134-ventil-drept-av-22-mm~8289508.jpg",
@@ -7671,7 +7671,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 108
+      "in_stock_count": 107
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -8035,14 +8035,14 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 67
+      "in_stock_count": 66
     },
     {
       "id": "mantale",
       "name": "➤ Mantale",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Mantale",
       "product_count": 13,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "mini-pompe",
@@ -8105,7 +8105,7 @@
       "name": "➤ Pedaliere - Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
       "product_count": 61,
-      "in_stock_count": 40
+      "in_stock_count": 39
     },
     {
       "id": "pinioane-casetate",
@@ -8161,7 +8161,7 @@
       "name": "➤ Portbagaje Spate",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "product_count": 15,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "protectii-antipana",
@@ -8189,7 +8189,7 @@
       "name": "➤ Roti Fata",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
       "product_count": 38,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "roti-spate",
