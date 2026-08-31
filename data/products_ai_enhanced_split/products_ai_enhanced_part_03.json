@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T03:11:41.318070+00:00",
+  "last_updated": "2026-08-31T03:13:01.057829+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -228,7 +228,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 1,
       "url": "https://www.bikestylish.ro/saboti-pentru-frane-hidraulice-magura-promax.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/saboti-pentru-frane-hidraulice-magura-promax~8282686.jpg",
       "images": [
@@ -867,7 +867,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 40,
+      "stock_quantity": 36,
       "weight_kg": 0.19,
       "url": "https://www.bikestylish.ro/manete-frana-aluminiu-promax-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/manete-frana-aluminiu-promax-silver~8282221.jpg",
@@ -1991,8 +1991,8 @@
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.14,
       "url": "https://www.bikestylish.ro/cuveti-semi-integrati-neco-1-1-8.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/cuveti-semi-integrati-neco-1-1-8~8282947.jpg",
@@ -4856,7 +4856,7 @@
       "price_net": 8.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/sonerie-m-wave-bella-trill-alb-anodizat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/sonerie-m-wave-bella-trill-alb-anodizat~8283247.jpg",
@@ -4916,7 +4916,7 @@
       "price_net": 8.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 36,
+      "stock_quantity": 35,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/sonerie-m-wave-bella-trill-albastru-anodizat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/sonerie-m-wave-bella-trill-albastru-anodizat~8283253.jpg",
@@ -4976,7 +4976,7 @@
       "price_net": 8.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/sonerie-m-wave-bella-trill-orange-anodizat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/sonerie-m-wave-bella-trill-orange-anodizat~8283259.jpg",
@@ -5064,7 +5064,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 51,
+      "stock_quantity": 49,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/sonerie-metal-sxt-i-love-my-bike-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/sonerie-metal-sxt-i-love-my-bike-negru~8283268.jpg",
@@ -7636,7 +7636,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 107
+      "in_stock_count": 104
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7867,7 +7867,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "discuri-rotoare",
@@ -7902,7 +7902,7 @@
       "name": "➤ Frane V - Break",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
       "product_count": 13,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "furci",

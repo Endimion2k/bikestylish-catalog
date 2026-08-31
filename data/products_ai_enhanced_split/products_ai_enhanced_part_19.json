@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T03:11:41.318070+00:00",
+  "last_updated": "2026-08-31T03:13:01.057829+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -454,7 +454,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 10,
       "weight_kg": 0.98,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-one-0-one-a-700-x-40c-42-622-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-kujo-one-0-one-a-700-x-40c-42-622-negru~12073713.jpg",
@@ -1895,8 +1895,8 @@
       "price": 70.0,
       "price_net": 57.85,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 9,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 1.4,
       "url": "https://www.bikestylish.ro/set-anvelopa-camera-26-x-2-10-54-559-av-33-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/set-anvelopa-camera-26-x-2-10-54-559-av-33-mm-negru~13287885.jpg",
@@ -2904,7 +2904,7 @@
       "price_net": 41.32,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 172,
+      "stock_quantity": 171,
       "url": "https://www.bikestylish.ro/pipa-downhill-mtb-sxt-31-8-1-1-8-mm-50-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-downhill-mtb-sxt-31-8-1-1-8-mm-50-mm~13289283.jpg",
       "images": [
@@ -3997,8 +3997,8 @@
       "price": 9.0,
       "price_net": 7.44,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 4,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/pipa-flexibila-sxt-niro-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pipa-flexibila-sxt-niro-silver~13794072.jpg",
@@ -4734,7 +4734,7 @@
       "price_net": 86.78,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 24,
+      "stock_quantity": 22,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/janta-sxt-neo-29-622-x-21c-32-h-negru-capsata.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/janta-sxt-neo-29-622-x-21c-32-h-negru-capsata~14264061.jpg",
@@ -5039,7 +5039,7 @@
       "price_net": 14.88,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 6,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-20x1-95-2-125-fv-presta-48mm-oem.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/camera-standard-vittoria-20x1-95-2-125-fv-presta-48mm-oem~14300478.jpg",
       "images": [
@@ -7495,7 +7495,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 107
+      "in_stock_count": 104
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7726,7 +7726,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "discuri-rotoare",
@@ -7761,7 +7761,7 @@
       "name": "➤ Frane V - Break",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
       "product_count": 13,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "furci",

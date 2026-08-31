@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T03:11:41.318070+00:00",
+  "last_updated": "2026-08-31T03:13:01.057829+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1648,8 +1648,8 @@
       "price": 66.0,
       "price_net": 54.55,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 2,
       "url": "https://www.bikestylish.ro/ghidolina-velo-grip-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ghidolina-velo-grip-negru~8325772.jpg",
       "images": [
@@ -1844,7 +1844,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 10,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/sonerie-metal-m-wave-bell-3d-i-love-my-bike.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/sonerie-metal-m-wave-bell-3d-i-love-my-bike~8325847.jpg",
@@ -3187,7 +3187,7 @@
       "price_net": 32.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 45,
+      "stock_quantity": 44,
       "weight_kg": 0.16,
       "url": "https://www.bikestylish.ro/cheie-monobloc-m-wave.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cheie-monobloc-m-wave~8326516.jpg",
@@ -6689,7 +6689,7 @@
       "price_net": 41.32,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 8,
       "weight_kg": 0.9,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-one-0-one-t-700-x-38c-40-622.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kujo-one-0-one-t-700-x-38c-40-622~8327287.jpg",
@@ -7344,7 +7344,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 107
+      "in_stock_count": 104
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7575,7 +7575,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "discuri-rotoare",
@@ -7610,7 +7610,7 @@
       "name": "➤ Frane V - Break",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Frane V - Break",
       "product_count": 13,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "furci",
