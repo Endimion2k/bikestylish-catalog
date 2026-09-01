@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T03:13:01.057829+00:00",
+  "last_updated": "2026-09-01T03:12:59.523974+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1499,8 +1499,8 @@
       "price": 275.0,
       "price_net": 227.27,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d521-bergamont.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d521-bergamont~8331418.jpg",
       "images": [
@@ -6173,7 +6173,7 @@
       "price_net": 136.36,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 1,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d758-fantic.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d758-fantic~8332345.jpg",
@@ -6694,7 +6694,7 @@
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "product_count": 17,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "accesorii-aparatori-noroi",
@@ -6771,7 +6771,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 104
+      "in_stock_count": 105
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -6876,7 +6876,7 @@
       "name": "➤ Brate Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
       "product_count": 53,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "butuci-frana-disc",
@@ -6974,7 +6974,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "cosuri-transport-spate",
@@ -7051,7 +7051,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "huse-sa",
@@ -7093,7 +7093,7 @@
       "name": "➤ Lanturi",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
       "product_count": 73,
-      "in_stock_count": 54
+      "in_stock_count": 53
     },
     {
       "id": "lumini-fata",
@@ -7128,14 +7128,14 @@
       "name": "➤ Manete Schimbator",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Manete Schimbator",
       "product_count": 28,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "mansoane",
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 66
+      "in_stock_count": 65
     },
     {
       "id": "mantale",
@@ -7198,7 +7198,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 93
+      "in_stock_count": 92
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7219,7 +7219,7 @@
       "name": "➤ Pionioane Filetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "product_count": 41,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "pipe-ghidon",
@@ -7464,7 +7464,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1101,
-      "in_stock_count": 372
+      "in_stock_count": 370
     },
     {
       "id": "bike-maintenance-intretinere",
