@@ -1,42 +1,14 @@
 {
-  "last_updated": "2026-09-01T03:12:59.523974+00:00",
+  "last_updated": "2026-09-02T03:12:22.563519+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 18,
     "total_parts": 20,
     "product_range": "4251-4500",
-    "original_total": 4757
+    "original_total": 4756
   },
   "products": [
-    {
-      "id": "410890",
-      "sku": "410890",
-      "ean": "0664533242520",
-      "name": "Capete Ghidon SXT- Purple",
-      "brand": "SXT",
-      "category": "➤ Ghidoane",
-      "category_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
-      "price": 22.0,
-      "price_net": 18.18,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 166,
-      "weight_kg": 0.09,
-      "url": "https://www.bikestylish.ro/capete-ghidon-sxt-purple.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/capete-ghidon-sxt-purple~8343958.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/capete-ghidon-sxt-purple~8343958.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "SXT",
-        "➤ Ghidoane"
-      ],
-      "specs": {
-        "color": "Purple"
-      }
-    },
     {
       "id": "410896",
       "sku": "410896",
@@ -106,7 +78,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 111,
+      "stock_quantity": 110,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-83-x-74mm-negru-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-plastic-sxt-83-x-74mm-negru-9-16~8343967.jpg",
@@ -292,8 +264,8 @@
       "price": 500.5,
       "price_net": 413.64,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/butuc-spate-boost-novatec-d462sb-a5a-b12-32h-fd-12-x-148-mm-sram.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-spate-boost-novatec-d462sb-a5a-b12-32h-fd-12-x-148-mm-sram~8335627.jpg",
       "images": [
@@ -1987,7 +1959,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 185,
+      "stock_quantity": 183,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/stop-spate-cu-acumulator-sxt-28-led.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/stop-spate-cu-acumulator-sxt-28-led~10362186.jpg",
@@ -2581,7 +2553,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 334,
+      "stock_quantity": 329,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/banda-janta-m-wave-28-29-x-24-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/banda-janta-m-wave-28-29-x-24-mm~10362273.jpg",
@@ -3122,7 +3094,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 598,
+      "stock_quantity": 596,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-16-x-2-50-k-1039-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kenda-16-x-2-50-k-1039-negru~10362354.jpg",
       "images": [
@@ -5054,7 +5026,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 315,
+      "stock_quantity": 314,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-181x-negru-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-plastic-sxt-181x-negru-9-16~11326230.jpg",
@@ -5988,7 +5960,7 @@
       "price_net": 63.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 26,
+      "stock_quantity": 23,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/solutie-antipana-tubeless-tannus-250ml-mtb.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/solutie-antipana-tubeless-tannus-250ml-mtb~12065574.jpg",
@@ -6414,7 +6386,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 9,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/stop-spate-m-wave-helios-k-1-1-usb-sl.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/stop-spate-m-wave-helios-k-1-1-usb-sl~12071499.jpg",
@@ -6677,6 +6649,33 @@
         ],
         "color": "Negru"
       }
+    },
+    {
+      "id": "350781",
+      "sku": "350781",
+      "name": "Angrenaj Pedalier SXT 46T Metal Silver Rotund",
+      "brand": "SXT",
+      "category": "➤ Pedaliere - Angrenaje",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
+      "price": 72.0,
+      "price_net": 59.5,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 6,
+      "weight_kg": 1.0,
+      "url": "https://www.bikestylish.ro/angrenaj-pedalier-sxt-46t-metal-silver-rotund.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/angrenaj-pedalier-sxt-46t-metal-silver-rotund~12071928.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/angrenaj-pedalier-sxt-46t-metal-silver-rotund~12071928.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "SXT",
+        "➤ Pedaliere - Angrenaje"
+      ],
+      "specs": {
+        "color": "Silver"
+      }
     }
   ],
   "categories": [
@@ -6937,7 +6936,7 @@
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "product_count": 17,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "accesorii-aparatori-noroi",
@@ -6993,7 +6992,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 21,
-      "in_stock_count": 8
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7126,7 +7125,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 59
+      "in_stock_count": 58
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7154,7 +7153,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 91,
-      "in_stock_count": 57
+      "in_stock_count": 55
     },
     {
       "id": "capete-cablu-manta",
@@ -7210,14 +7209,14 @@
       "name": "➤ Coliere Tija Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "cosuri-transport-fata",
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 13
+      "in_stock_count": 10
     },
     {
       "id": "cosuri-transport-spate",
@@ -7343,7 +7342,7 @@
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
       "product_count": 29,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "lumini-spate",
@@ -7370,7 +7369,7 @@
       "id": "manete-schimbator",
       "name": "➤ Manete Schimbator",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Manete Schimbator",
-      "product_count": 28,
+      "product_count": 27,
       "in_stock_count": 20
     },
     {
@@ -7378,7 +7377,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 65
+      "in_stock_count": 64
     },
     {
       "id": "mantale",
@@ -7462,7 +7461,7 @@
       "name": "➤ Pionioane Filetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "product_count": 41,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "pipe-ghidon",
@@ -7707,14 +7706,14 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1101,
-      "in_stock_count": 370
+      "in_stock_count": 369
     },
     {
       "id": "bike-maintenance-intretinere",
       "name": "➤Bike Maintenance - Intretinere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
       "product_count": 21,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "depozitare-biciclete",

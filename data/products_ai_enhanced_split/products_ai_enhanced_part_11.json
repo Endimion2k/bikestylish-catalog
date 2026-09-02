@@ -1,40 +1,14 @@
 {
-  "last_updated": "2026-09-01T03:12:59.523974+00:00",
+  "last_updated": "2026-09-02T03:12:22.563519+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
     "total_parts": 20,
     "product_range": "2501-2750",
-    "original_total": 4757
+    "original_total": 4756
   },
   "products": [
-    {
-      "id": "D186",
-      "sku": "D186",
-      "ean": "7290107114493",
-      "name": "Ureche Cadru PILO D186 Pinarello, Norco, Motobecane, Author",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 143.0,
-      "price_net": 118.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d186-pinarello-norco-motobecane-author.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d186-pinarello-norco-motobecane-author~8330182.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d186-pinarello-norco-motobecane-author~8330182.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d186-pinarello-norco-motobecane-author~8330185.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D364",
       "sku": "D364",
@@ -866,7 +840,7 @@
       "price_net": 23.14,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 91,
+      "stock_quantity": 89,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/ulei-special-m-wave-oil-guard-bio-100-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ulei-special-m-wave-oil-guard-bio-100-ml~8330437.jpg",
@@ -6466,6 +6440,31 @@
         "PILO",
         "➤ Urechi Cadru"
       ]
+    },
+    {
+      "id": "D242",
+      "sku": "D242",
+      "ean": "7290107112307",
+      "name": "Ureche Cadru PILO D242 Merida",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 247.5,
+      "price_net": 204.55,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d242-merida.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d242-merida~8331241.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d242-merida~8331241.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6726,7 +6725,7 @@
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "product_count": 17,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "accesorii-aparatori-noroi",
@@ -6782,7 +6781,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 21,
-      "in_stock_count": 8
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -6915,7 +6914,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 59
+      "in_stock_count": 58
     },
     {
       "id": "butuci-v-break-dinam",
@@ -6943,7 +6942,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 91,
-      "in_stock_count": 57
+      "in_stock_count": 55
     },
     {
       "id": "capete-cablu-manta",
@@ -6999,14 +6998,14 @@
       "name": "➤ Coliere Tija Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "cosuri-transport-fata",
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 13
+      "in_stock_count": 10
     },
     {
       "id": "cosuri-transport-spate",
@@ -7132,7 +7131,7 @@
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
       "product_count": 29,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "lumini-spate",
@@ -7159,7 +7158,7 @@
       "id": "manete-schimbator",
       "name": "➤ Manete Schimbator",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Manete Schimbator",
-      "product_count": 28,
+      "product_count": 27,
       "in_stock_count": 20
     },
     {
@@ -7167,7 +7166,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 65
+      "in_stock_count": 64
     },
     {
       "id": "mantale",
@@ -7251,7 +7250,7 @@
       "name": "➤ Pionioane Filetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "product_count": 41,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "pipe-ghidon",
@@ -7496,14 +7495,14 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1101,
-      "in_stock_count": 370
+      "in_stock_count": 369
     },
     {
       "id": "bike-maintenance-intretinere",
       "name": "➤Bike Maintenance - Intretinere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
       "product_count": 21,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "depozitare-biciclete",

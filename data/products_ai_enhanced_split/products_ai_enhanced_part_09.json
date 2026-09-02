@@ -1,41 +1,14 @@
 {
-  "last_updated": "2026-09-01T03:12:59.523974+00:00",
+  "last_updated": "2026-09-02T03:12:22.563519+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 20,
     "product_range": "2001-2250",
-    "original_total": 4757
+    "original_total": 4756
   },
   "products": [
-    {
-      "id": "321154",
-      "sku": "321154",
-      "ean": "887539000066",
-      "name": "Thru Axle NOVATEC QR264 SHI",
-      "brand": "NOVATEC",
-      "category": "➤ Axe - Accesorii Butuci",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
-      "price": 187.0,
-      "price_net": 154.55,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/thru-axle-novatec-qr264-shi.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/thru-axle-novatec-qr264-shi~8325229.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/thru-axle-novatec-qr264-shi~8325229.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/thru-axle-novatec-qr264-shi~8325232.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/thru-axle-novatec-qr264-shi~8325235.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/thru-axle-novatec-qr264-shi~8325238.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "NOVATEC",
-        "➤ Axe - Accesorii Butuci"
-      ]
-    },
     {
       "id": "321028",
       "sku": "321028",
@@ -1705,7 +1678,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 69,
+      "stock_quantity": 65,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-4-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-4-negru~8325799.jpg",
@@ -2137,8 +2110,8 @@
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/sistem-prindere-clip-on-ventura.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/sistem-prindere-clip-on-ventura~8325979.jpg",
       "images": [
@@ -2219,7 +2192,7 @@
       "price_net": 38.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 75,
+      "stock_quantity": 72,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/far-pentru-dinam-an-lun-14-lux.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/far-pentru-dinam-an-lun-14-lux~8325997.jpg",
@@ -2329,7 +2302,7 @@
       "price_net": 25.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 130,
+      "stock_quantity": 129,
       "url": "https://www.bikestylish.ro/stop-spate-cu-baterii-an-lun-vertical.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/stop-spate-cu-baterii-an-lun-vertical~8326015.jpg",
       "images": [
@@ -7007,6 +6980,38 @@
           "E-Bike"
         ]
       }
+    },
+    {
+      "id": "612030",
+      "sku": "612030",
+      "ean": "887539025816",
+      "name": "Protectie Motor M-WAVE E-Protect Center E-Bike",
+      "brand": "M-WAVE",
+      "category": "Accesorii E-Bike",
+      "category_path": "e- MOBILITY > Accesorii E-Bike",
+      "price": 154.0,
+      "price_net": 127.27,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 5,
+      "weight_kg": 0.65,
+      "url": "https://www.bikestylish.ro/protectie-motor-m-wave-e-protect-center-e-bike.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/protectie-motor-m-wave-e-protect-center-e-bike~8327464.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/protectie-motor-m-wave-e-protect-center-e-bike~8327464.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/protectie-motor-m-wave-e-protect-center-e-bike~8327467.jpg"
+      ],
+      "tags": [
+        "Accesorii E-Bike",
+        "E-Bike",
+        "M-WAVE",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
+      }
     }
   ],
   "categories": [
@@ -7267,7 +7272,7 @@
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "product_count": 17,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "accesorii-aparatori-noroi",
@@ -7323,7 +7328,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 21,
-      "in_stock_count": 8
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7456,7 +7461,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 59
+      "in_stock_count": 58
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7484,7 +7489,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 91,
-      "in_stock_count": 57
+      "in_stock_count": 55
     },
     {
       "id": "capete-cablu-manta",
@@ -7540,14 +7545,14 @@
       "name": "➤ Coliere Tija Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "cosuri-transport-fata",
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 13
+      "in_stock_count": 10
     },
     {
       "id": "cosuri-transport-spate",
@@ -7673,7 +7678,7 @@
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
       "product_count": 29,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "lumini-spate",
@@ -7700,7 +7705,7 @@
       "id": "manete-schimbator",
       "name": "➤ Manete Schimbator",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Manete Schimbator",
-      "product_count": 28,
+      "product_count": 27,
       "in_stock_count": 20
     },
     {
@@ -7708,7 +7713,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 65
+      "in_stock_count": 64
     },
     {
       "id": "mantale",
@@ -7792,7 +7797,7 @@
       "name": "➤ Pionioane Filetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "product_count": 41,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "pipe-ghidon",
@@ -8037,14 +8042,14 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1101,
-      "in_stock_count": 370
+      "in_stock_count": 369
     },
     {
       "id": "bike-maintenance-intretinere",
       "name": "➤Bike Maintenance - Intretinere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
       "product_count": 21,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "depozitare-biciclete",

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-01T03:12:59.523974+00:00",
+  "last_updated": "2026-09-02T03:12:22.563519+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 2,
     "total_parts": 20,
     "product_range": "251-500",
-    "original_total": 4757
+    "original_total": 4756
   },
   "products": [
     {
@@ -244,7 +244,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 146,
+      "stock_quantity": 145,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/lant-kmc-z-8-3-grey-6-7-8-v-114-z.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-z-8-3-grey-6-7-8-v-114-z~8280355.jpg",
@@ -569,7 +569,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 80,
+      "stock_quantity": 79,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/lant-kmc-z8-3-silver-grey-7-8-v-114-zale.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/lant-kmc-z8-3-silver-grey-7-8-v-114-zale~8280388.jpg",
@@ -599,7 +599,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 22,
+      "stock_quantity": 21,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/lant-kmc-z7-114-zale.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/lant-kmc-z7-114-zale~8280391.jpg",
@@ -1328,7 +1328,7 @@
       "price_net": 28.93,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 78,
+      "stock_quantity": 76,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-cu-pini-sxt-9-16-87x94-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-aluminiu-cu-pini-sxt-9-16-87x94-negru~8280463.jpg",
@@ -1952,7 +1952,7 @@
       "price_net": 259.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 43,
+      "stock_quantity": 42,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/butuc-spate-novatec-d042sb-32h-fd-4-rulmenti.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-spate-novatec-d042sb-32h-fd-4-rulmenti~8280529.jpg",
@@ -4195,8 +4195,8 @@
       "price": 27.5,
       "price_net": 22.73,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/pinion-fixie-1-2x1-8-sxt-17t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pinion-fixie-1-2x1-8-sxt-17t~8281810.jpg",
@@ -6616,8 +6616,8 @@
       "price": 33.0,
       "price_net": 27.27,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/monobloc-pedalier-neco-122-5-28-mm-negru-cupe-metal-plastic.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/monobloc-pedalier-neco-122-5-28-mm-negru-cupe-metal-plastic~8282068.jpg",
@@ -7063,8 +7063,8 @@
       "price": 159.5,
       "price_net": 131.82,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.95,
       "url": "https://www.bikestylish.ro/ulei-mineral-1000-ml-m-wave.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ulei-mineral-1000-ml-m-wave~8282116.jpg",
@@ -7466,7 +7466,7 @@
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "product_count": 17,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "accesorii-aparatori-noroi",
@@ -7522,7 +7522,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 21,
-      "in_stock_count": 8
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7655,7 +7655,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 59
+      "in_stock_count": 58
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7683,7 +7683,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 91,
-      "in_stock_count": 57
+      "in_stock_count": 55
     },
     {
       "id": "capete-cablu-manta",
@@ -7739,14 +7739,14 @@
       "name": "➤ Coliere Tija Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "cosuri-transport-fata",
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 13
+      "in_stock_count": 10
     },
     {
       "id": "cosuri-transport-spate",
@@ -7872,7 +7872,7 @@
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
       "product_count": 29,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "lumini-spate",
@@ -7899,7 +7899,7 @@
       "id": "manete-schimbator",
       "name": "➤ Manete Schimbator",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Manete Schimbator",
-      "product_count": 28,
+      "product_count": 27,
       "in_stock_count": 20
     },
     {
@@ -7907,7 +7907,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 65
+      "in_stock_count": 64
     },
     {
       "id": "mantale",
@@ -7991,7 +7991,7 @@
       "name": "➤ Pionioane Filetate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Pinioane > ➤ Pionioane Filetate",
       "product_count": 41,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "pipe-ghidon",
@@ -8236,14 +8236,14 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1101,
-      "in_stock_count": 370
+      "in_stock_count": 369
     },
     {
       "id": "bike-maintenance-intretinere",
       "name": "➤Bike Maintenance - Intretinere",
       "full_path": "COMPONENTE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
       "product_count": 21,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "depozitare-biciclete",
