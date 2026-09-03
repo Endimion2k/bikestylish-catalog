@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T03:12:22.563519+00:00",
+  "last_updated": "2026-09-03T04:26:48.494295+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -2473,7 +2473,7 @@
       "price_net": 65.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 42,
+      "stock_quantity": 40,
       "weight_kg": 1.2,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-attachi-27-5-x-2-10-52-584.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-kujo-attachi-27-5-x-2-10-52-584~8286763.jpg",
@@ -3859,8 +3859,8 @@
       "price": 2.2,
       "price_net": 1.82,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/intinzator-lant-sxt-57-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/intinzator-lant-sxt-57-mm~8286901.jpg",
@@ -4009,7 +4009,7 @@
       "price_net": 14.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 6,
       "url": "https://www.bikestylish.ro/surub-monobloc-sxt-isis-m15x1-0x13l-bosch-brose.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/surub-monobloc-sxt-isis-m15x1-0x13l-bosch-brose~8287360.jpg",
       "images": [
@@ -7863,7 +7863,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 10
+      "in_stock_count": 11
     },
     {
       "id": "cosuri-transport-spate",
@@ -7954,7 +7954,7 @@
       "name": "➤ Intinzatoare Lant - Directionare",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Intinzatoare Lant - Directionare",
       "product_count": 4,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "jante-fat-bike",
@@ -8094,7 +8094,7 @@
       "name": "➤ Pedaliere - Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
       "product_count": 61,
-      "in_stock_count": 39
+      "in_stock_count": 38
     },
     {
       "id": "pinioane-casetate",
@@ -8129,7 +8129,7 @@
       "name": "➤ Pompe Furca - Tubeless",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Pompe Furca - Tubeless",
       "product_count": 6,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "pompe-podea",
@@ -8234,14 +8234,14 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 93,
-      "in_stock_count": 75
+      "in_stock_count": 74
     },
     {
       "id": "set-lumini",
       "name": "➤ Set Lumini",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Set Lumini",
       "product_count": 25,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "seturi-aparatori-noroi",
@@ -8318,7 +8318,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "transport-biciclete",
@@ -8346,7 +8346,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 140
+      "in_stock_count": 139
     },
     {
       "id": "urechi-cadru",
