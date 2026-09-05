@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T03:12:05.446600+00:00",
+  "last_updated": "2026-09-05T03:11:21.725319+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -150,8 +150,8 @@
       "price": 46.2,
       "price_net": 38.18,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/disc-frana-sxt-180-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/disc-frana-sxt-180-mm~8282149.jpg",
       "images": [
@@ -280,8 +280,8 @@
       "price": 15.0,
       "price_net": 12.4,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/saboti-frana-70-t-sxt-negru-70-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/saboti-frana-70-t-sxt-negru-70-mm~8282164.jpg",
@@ -2907,7 +2907,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 19,
+      "stock_quantity": 16,
       "weight_kg": 0.18,
       "url": "https://www.bikestylish.ro/adaptor-pipa-sxt-25-4-22-2-aluminiu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/adaptor-pipa-sxt-25-4-22-2-aluminiu~8283043.jpg",
@@ -3528,7 +3528,7 @@
       "price_net": 90.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 83,
+      "stock_quantity": 81,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/pipa-downhill-mtb-zoom-31-8-1-1-8-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pipa-downhill-mtb-zoom-31-8-1-1-8-mm~8283109.jpg",
@@ -4886,7 +4886,7 @@
       "price_net": 8.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 11,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/sonerie-m-wave-bella-trill-rosu-anodizat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/sonerie-m-wave-bella-trill-rosu-anodizat~8283250.jpg",
@@ -5904,7 +5904,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 40,
+      "stock_quantity": 35,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/cric-aluminiu-m-wave-24-29-s.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/cric-aluminiu-m-wave-24-29-s~8283355.jpg",
@@ -7161,7 +7161,7 @@
       "price_net": 103.31,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 17,
+      "stock_quantity": 16,
       "weight_kg": 0.98,
       "url": "https://www.bikestylish.ro/portbagaj-aluminiu-spate-m-wave-one-4-all-20-29.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/portbagaj-aluminiu-spate-m-wave-one-4-all-20-29~8283484.jpg",
@@ -7223,7 +7223,7 @@
       "price_net": 104.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 20,
       "weight_kg": 0.9,
       "url": "https://www.bikestylish.ro/portbagaj-aluminiu-spate-m-wave-screw-on-ii-a-26-28-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/portbagaj-aluminiu-spate-m-wave-screw-on-ii-a-26-28-negru~8283490.jpg",
@@ -7615,7 +7615,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 21,
-      "in_stock_count": 9
+      "in_stock_count": 7
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7629,7 +7629,7 @@
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
       "product_count": 93,
-      "in_stock_count": 54
+      "in_stock_count": 53
     },
     {
       "id": "anvelope-pe-sarma",
@@ -7776,7 +7776,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 91,
-      "in_stock_count": 54
+      "in_stock_count": 52
     },
     {
       "id": "capete-cablu-manta",
@@ -7832,7 +7832,7 @@
       "name": "➤ Coliere Tija Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "cosuri-transport-fata",
@@ -7874,7 +7874,7 @@
       "name": "➤ Discuri - Rotoare",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Discuri - Rotoare",
       "product_count": 17,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "flori-furca-distantiere-accesorii",
@@ -8000,7 +8000,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 64
+      "in_stock_count": 63
     },
     {
       "id": "mantale",
@@ -8098,7 +8098,7 @@
       "name": "➤ Placute Frana Disc",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Placute Frana Disc",
       "product_count": 26,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "pompe-furca-tubeless",
@@ -8161,7 +8161,7 @@
       "name": "➤ Roti Spate",
       "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
       "product_count": 45,
-      "in_stock_count": 30
+      "in_stock_count": 31
     },
     {
       "id": "rucsaci",
@@ -8182,7 +8182,7 @@
       "name": "➤ Saboti Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Saboti Frana",
       "product_count": 17,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "scaune-bicicleta-copii",
