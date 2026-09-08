@@ -1,45 +1,14 @@
 {
-  "last_updated": "2026-09-07T03:12:43.042757+00:00",
+  "last_updated": "2026-09-08T03:11:46.055301+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 17,
     "total_parts": 19,
     "product_range": "4001-4250",
-    "original_total": 4747
+    "original_total": 4746
   },
   "products": [
-    {
-      "id": "1TA00019",
-      "sku": "1TA00019",
-      "ean": "8022530009584",
-      "name": "Camera Standard VITTORIA 20x1.95/2.125 AV Schrader 48mm",
-      "brand": "VITTORIA",
-      "category": "➤ Camere de Bicicleta",
-      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "price": 17.6,
-      "price_net": 14.55,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/camera-standard-vittoria-20x1-95-2-125-av-schrader-48mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/camera-standard-vittoria-20x1-95-2-125-av-schrader-48mm~8341576.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/camera-standard-vittoria-20x1-95-2-125-av-schrader-48mm~8341576.jpg"
-      ],
-      "tags": [
-        "20 inch",
-        "COMPONENTE",
-        "Schrader",
-        "VITTORIA",
-        "➤ Camere de Bicicleta"
-      ],
-      "specs": {
-        "wheel_size": "20",
-        "dimensions": "20 x 1.95",
-        "valve_type": "Schrader (AV)"
-      }
-    },
     {
       "id": "1TA00021",
       "sku": "1TA00021",
@@ -52,7 +21,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 116,
+      "stock_quantity": 111,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-24x1-95-2-125-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/camera-standard-vittoria-24x1-95-2-125-av-schrader-48mm~8341579.jpg",
       "images": [
@@ -559,7 +528,7 @@
       "name": "Roata Fata Fat-Bike SXT 26 - 36H FD 3/8-135-145 mm Ax",
       "brand": "SXT",
       "category": "➤ Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "price": 638.0,
       "price_net": 527.27,
       "currency": "RON",
@@ -571,7 +540,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/roata-fata-fat-bike-sxt-26-36h-fd-3-8-135-145-mm-ax~8341783.jpg"
       ],
       "tags": [
-        "COMPONENTE",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Fata"
       ]
@@ -583,7 +552,7 @@
       "name": "Roata Spate Fat-Bike SXT 26 - 36H FD 3/8 175-215 mm Ax",
       "brand": "SXT",
       "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "price": 764.5,
       "price_net": 631.82,
       "currency": "RON",
@@ -596,7 +565,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-fat-bike-sxt-26-36h-fd-3-8-175-215-mm-ax~8341789.jpg"
       ],
       "tags": [
-        "COMPONENTE",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Spate"
       ]
@@ -846,9 +815,9 @@
       "name": "Janta MACH1 FZR-XC 29(622 x 23C) 32H",
       "brand": "MACH 1",
       "category": "➤ Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "price": 231.0,
-      "price_net": 190.91,
+      "category_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "price": 179.0,
+      "price_net": 147.93,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 5,
@@ -877,9 +846,9 @@
       "name": "Janta MACH1 FZR-XC 27.5(584 x 23C) 32H",
       "brand": "MACH 1",
       "category": "➤ Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "price": 180.0,
-      "price_net": 148.76,
+      "category_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "price": 179.0,
+      "price_net": 147.93,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 28,
@@ -908,7 +877,7 @@
       "name": "Janta MACH1 TOURING 700C(622 x 17C) 32H Negru",
       "brand": "MACH 1",
       "category": "➤ Jante pentru Frane V-Brake",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
+      "category_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "price": 148.5,
       "price_net": 122.73,
       "currency": "RON",
@@ -939,9 +908,9 @@
       "name": "Janta MACH1 KLIXX25 29(622 x 25C) 32H",
       "brand": "MACH 1",
       "category": "➤ Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "price": 170.5,
-      "price_net": 140.91,
+      "category_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "price": 148.5,
+      "price_net": 122.73,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -1029,7 +998,7 @@
       "name": "Janta MACH1 NEO 29(622 x 19C) 36H Negru Capsata",
       "brand": "MACH 1",
       "category": "➤ Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "category_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
@@ -1195,7 +1164,7 @@
       "price_net": 104.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 86,
+      "stock_quantity": 83,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/set-lumini-cu-acumulator-sxt-550l-10c-usb.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/set-lumini-cu-acumulator-sxt-550l-10c-usb~8342020.jpg",
@@ -1219,7 +1188,7 @@
       "name": "Butuc Fata NOVATEC D571SB 12x100mm 24H Straight Pull CL",
       "brand": "NOVATEC",
       "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 495.0,
       "price_net": 409.09,
       "currency": "RON",
@@ -1232,13 +1201,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-fata-novatec-d571sb-12x100mm-24h-straight-pull-cl~8342035.jpg"
       ],
       "tags": [
-        "12 inch",
         "COMPONENTE",
         "NOVATEC",
         "➤ Butuci Frana Disc"
       ],
       "specs": {
-        "wheel_size": "12",
         "dimensions": "12 x 100"
       }
     },
@@ -1249,7 +1216,7 @@
       "name": "Butuc Spate NOVATEC D572RSB 12x142mm 24H Straight Pull CL",
       "brand": "NOVATEC",
       "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 878.9,
       "price_net": 726.36,
       "currency": "RON",
@@ -1262,13 +1229,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/butuc-spate-novatec-d572rsb-12x142mm-24h-straight-pull-cl~8342038.jpg"
       ],
       "tags": [
-        "12 inch",
         "COMPONENTE",
         "NOVATEC",
         "➤ Butuci Frana Disc"
       ],
       "specs": {
-        "wheel_size": "12",
         "dimensions": "12 x 142"
       }
     },
@@ -1416,7 +1381,7 @@
       "name": "Janta Aluminiu SXT FatBike 24-32H Negru",
       "brand": "SXT",
       "category": "➤ Jante Fat  Bike",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante Fat  Bike",
+      "category_path": "COMPONENTE > ⬤ Jante > ➤ Jante Fat  Bike",
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
@@ -1509,8 +1474,8 @@
       "price": 108.9,
       "price_net": 90.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/angrenaj-pedalier-sxt-3x24-34-42-s-170-patrat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/angrenaj-pedalier-sxt-3x24-34-42-s-170-patrat~8342092.jpg",
@@ -1530,7 +1495,7 @@
       "name": "Janta Aluminiu SXT 27.5(584x21C) - 28H Negru",
       "brand": "SXT",
       "category": "➤ Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "category_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "price": 115.5,
       "price_net": 95.45,
       "currency": "RON",
@@ -1562,7 +1527,7 @@
       "name": "Janta MACH1 PULSE 19 700C(622x19C) - 32H Negru Gravel",
       "brand": "MACH 1",
       "category": "➤ Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "category_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "price": 148.5,
       "price_net": 122.73,
       "currency": "RON",
@@ -1597,7 +1562,7 @@
       "name": "Janta MACH1 TRUKY 30 27.5(584 x 30C) 28H Negru Capsata",
       "brand": "MACH 1",
       "category": "➤ Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "category_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "price": 155.0,
       "price_net": 128.1,
       "currency": "RON",
@@ -1629,7 +1594,7 @@
       "name": "Janta MACH1 TRUKY 30 29(622 x 30C) 28H Negru Capsata",
       "brand": "MACH 1",
       "category": "➤ Jante pentru Frane Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "category_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "price": 155.0,
       "price_net": 128.1,
       "currency": "RON",
@@ -2170,7 +2135,7 @@
       "name": "Butuc Fata D761DSE 32H Frana Disc QR Negru",
       "brand": "SXT",
       "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 65.0,
       "price_net": 53.72,
       "currency": "RON",
@@ -2197,7 +2162,7 @@
       "name": "Butuc Spate Casetat SXT 32H FD Bile",
       "brand": "SXT",
       "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 97.0,
       "price_net": 80.17,
       "currency": "RON",
@@ -2537,7 +2502,7 @@
       "name": "Roata Fata SXT 29(622x30C) TXN -15.110 32H",
       "brand": "SXT",
       "category": "➤ Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "price": 605.0,
       "price_net": 500.0,
       "currency": "RON",
@@ -2553,7 +2518,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/roata-fata-sxt-29-622x30c-txn-15-110-32h~8342395.jpg"
       ],
       "tags": [
-        "COMPONENTE",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Fata"
       ],
@@ -2568,7 +2533,7 @@
       "name": "Roata Spate SXT 29(622 x 30C) TXN-12.148 32H",
       "brand": "SXT",
       "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "price": 825.0,
       "price_net": 681.82,
       "currency": "RON",
@@ -2584,7 +2549,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-29-622-x-30c-txn-12-148-32h~8342407.jpg"
       ],
       "tags": [
-        "COMPONENTE",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Spate"
       ],
@@ -2761,7 +2726,7 @@
       "name": "Roata Spate 29\"(622x21C) SXT Basic Only-Capsata-36H-FD -Bile",
       "brand": "SXT",
       "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "price": 313.5,
       "price_net": 259.09,
       "currency": "RON",
@@ -2776,7 +2741,7 @@
       ],
       "tags": [
         "29 inch",
-        "COMPONENTE",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Spate"
       ],
@@ -2792,7 +2757,7 @@
       "name": "Roata Spate 29\"(622x19C) SXT Basic Only-Capsata-36H-FD Filetat",
       "brand": "SXT",
       "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "price": 313.5,
       "price_net": 259.09,
       "currency": "RON",
@@ -2809,7 +2774,7 @@
       ],
       "tags": [
         "29 inch",
-        "COMPONENTE",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Spate"
       ],
@@ -2825,7 +2790,7 @@
       "name": "Roata Fata 29\"(622x21C) SXT Basic Only-Capsata-36H-FD -Bile",
       "brand": "SXT",
       "category": "➤ Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "price": 275.0,
       "price_net": 227.27,
       "currency": "RON",
@@ -2840,7 +2805,7 @@
       ],
       "tags": [
         "29 inch",
-        "COMPONENTE",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Fata"
       ],
@@ -2896,7 +2861,7 @@
       "price_net": 136.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 29,
+      "stock_quantity": 28,
       "url": "https://www.bikestylish.ro/furca-cr-mo-singlespeed-fixie-55-cm-m-1-1-8.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/furca-cr-mo-singlespeed-fixie-55-cm-m-1-1-8~8342524.jpg",
       "images": [
@@ -2926,7 +2891,7 @@
       "name": "Roata Spate SXT 27.5(584x30C) TXN-12.148 32H",
       "brand": "SXT",
       "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "price": 825.0,
       "price_net": 681.82,
       "currency": "RON",
@@ -2942,7 +2907,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-sxt-27-5-584x30c-txn-12-148-32h~8342548.jpg"
       ],
       "tags": [
-        "COMPONENTE",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Spate"
       ],
@@ -2957,7 +2922,7 @@
       "name": "Roata Fata SXT 27.5(584x30C) TXN -15.110 32H",
       "brand": "SXT",
       "category": "➤ Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "price": 605.0,
       "price_net": 500.0,
       "currency": "RON",
@@ -2973,7 +2938,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-sxt-27-5-584x30c-txn-15-110-32h~8342566.jpg"
       ],
       "tags": [
-        "COMPONENTE",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Fata"
       ],
@@ -2988,12 +2953,12 @@
       "name": "Butuc Spate NOVATEC XD602SB/A-B12-S1112 x148 mm 32H Rosu SH- HG",
       "brand": "NOVATEC",
       "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 1045.0,
       "price_net": 863.64,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/butuc-spate-novatec-xd602sb-a-b12-s1112-x148-mm-32h-rosu-sh-hg.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/butuc-spate-novatec-xd602sb-a-b12-s1112-x148-mm-32h-rosu-sh-hg~8342572.jpg",
       "images": [
@@ -3016,7 +2981,7 @@
       "name": "Butuc Spate NOVATEC XD602SB/A-B12-S1112 x148 mm 32H Rosu SH-MS",
       "brand": "NOVATEC",
       "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 1045.0,
       "price_net": 863.64,
       "currency": "RON",
@@ -3044,7 +3009,7 @@
       "name": "Butuc Spate NOVATEC D472TSBT-CL-11S Centerlock Negru , 36H",
       "brand": "NOVATEC",
       "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 192.5,
       "price_net": 159.09,
       "currency": "RON",
@@ -3074,7 +3039,7 @@
       "name": "Butuc Spate NOVATEC D572RSB-B12 12 x 148 mm 32H Negru Sram XD",
       "brand": "NOVATEC",
       "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 768.9,
       "price_net": 635.45,
       "currency": "RON",
@@ -3087,13 +3052,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/butuc-spate-novatec-d572rsb-b12-12-x-148-mm-32h-negru-sram-xd~8342584.jpg"
       ],
       "tags": [
-        "12 inch",
         "COMPONENTE",
         "NOVATEC",
         "➤ Butuci Frana Disc"
       ],
       "specs": {
-        "wheel_size": "12",
         "color": "Negru",
         "dimensions": "12 x 148"
       }
@@ -3105,7 +3068,7 @@
       "name": "Butuc Spate NOVATEC D732TSBT-S3S-B12-11S 12 x 148 mm 32H Negru",
       "brand": "NOVATEC",
       "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 308.0,
       "price_net": 254.55,
       "currency": "RON",
@@ -3117,14 +3080,12 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-spate-novatec-d732tsbt-s3s-b12-11s-12-x-148-mm-32h-negru~8342587.jpg"
       ],
       "tags": [
-        "12 inch",
         "3 viteze",
         "COMPONENTE",
         "NOVATEC",
         "➤ Butuci Frana Disc"
       ],
       "specs": {
-        "wheel_size": "12",
         "color": "Negru",
         "speeds": 3,
         "dimensions": "12 x 148"
@@ -3137,7 +3098,7 @@
       "name": "Butuc Fata NOVATEC D041SB-B15 110 x 15 mm 28H",
       "brand": "NOVATEC",
       "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 308.0,
       "price_net": 254.55,
       "currency": "RON",
@@ -3567,7 +3528,7 @@
       "name": "Janta SXT 28\"/622-40 mm 32H Rosu",
       "brand": "SXT",
       "category": "➤ Jante pentru Frane V-Brake",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
+      "category_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "price": 170.5,
       "price_net": 140.91,
       "currency": "RON",
@@ -3603,7 +3564,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 59,
+      "stock_quantity": 58,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-002-130-mm-lock-on-dublu-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/mansoane-mtb-sxt-zn-002-130-mm-lock-on-dublu-negru~8342704.jpg",
       "images": [
@@ -3735,7 +3696,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 51,
+      "stock_quantity": 49,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/colier-tija-sa-sxt-34-9mm-xt-c76-negru-qr.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/colier-tija-sa-sxt-34-9mm-xt-c76-negru-qr~8342743.jpg",
@@ -4209,7 +4170,7 @@
       "name": "Ax Thru Axle SXT 12 x 120 mm 1,5-12 mm",
       "brand": "SXT",
       "category": "➤ Axe - Accesorii Butuci",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
+      "category_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
@@ -4222,13 +4183,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/ax-thru-axle-sxt-12-x-120-mm-1-5-12-mm~8342833.jpg"
       ],
       "tags": [
-        "12 inch",
         "COMPONENTE",
         "SXT",
         "➤ Axe - Accesorii Butuci"
       ],
       "specs": {
-        "wheel_size": "12",
         "dimensions": "12 x 120"
       }
     },
@@ -4782,7 +4741,7 @@
       "name": "Set Roti SXT R-97 29(622-21C)-CL135-32H centerlock",
       "brand": "SXT",
       "category": "➤ Seturi Roti",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
       "price": 658.9,
       "price_net": 544.55,
       "currency": "RON",
@@ -4799,7 +4758,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/set-roti-sxt-r-97-29-622-21c-cl135-32h-centerlock~8342980.jpg"
       ],
       "tags": [
-        "COMPONENTE",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Seturi Roti"
       ]
@@ -4811,7 +4770,7 @@
       "name": "Set Roti SXT R-97 29(622-21C)-6P135-32H",
       "brand": "SXT",
       "category": "⬤ Roti",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti",
       "price": 658.9,
       "price_net": 544.55,
       "currency": "RON",
@@ -4828,7 +4787,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-sxt-r-97-29-622-21c-6p135-32h~8342998.jpg"
       ],
       "tags": [
-        "COMPONENTE",
+        "ROTI BICICLETA",
         "SXT",
         "⬤ Roti"
       ]
@@ -4871,7 +4830,7 @@
       "name": "Butuc Fata SXT 32H Negru Single- Speed",
       "brand": "SXT",
       "category": "➤ Butuci V-Break - Dinam",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
+      "category_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
@@ -4899,7 +4858,7 @@
       "name": "Butuc Spate SXT 32H 120 mm Negru Free-Fixed",
       "brand": "SXT",
       "category": "➤ Butuci V-Break - Dinam",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
+      "category_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
       "price": 148.5,
       "price_net": 122.73,
       "currency": "RON",
@@ -4959,7 +4918,7 @@
       "name": "Janta Aluminiu SXT FatBike 20 - 32H Negru",
       "brand": "SXT",
       "category": "➤ Jante Fat  Bike",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante Fat  Bike",
+      "category_path": "COMPONENTE > ⬤ Jante > ➤ Jante Fat  Bike",
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
@@ -4990,7 +4949,7 @@
       "name": "Janta Aluminiu SXT FatBike 20 - 36H Negru",
       "brand": "SXT",
       "category": "➤ Jante Fat  Bike",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante Fat  Bike",
+      "category_path": "COMPONENTE > ⬤ Jante > ➤ Jante Fat  Bike",
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
@@ -5089,7 +5048,7 @@
       "price_net": 65.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 28,
+      "stock_quantity": 27,
       "weight_kg": 0.28,
       "url": "https://www.bikestylish.ro/sa-sxt-v3111-270-x-170mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/sa-sxt-v3111-270-x-170mm~8343061.jpg",
@@ -5171,7 +5130,7 @@
       "name": "Set Roti Single Speed/Fixie SXT 700-32H 40 mm Verde",
       "brand": "SXT",
       "category": "➤ Seturi Roti",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
       "price": 825.0,
       "price_net": 681.82,
       "currency": "RON",
@@ -5187,8 +5146,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/set-roti-single-speed-fixie-sxt-700-32h-40-mm-verde~8343112.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Seturi Roti"
       ],
@@ -5206,7 +5165,7 @@
       "name": "Set Roti Single Speed/Fixie SXT 700-32H 40 mm Albastru",
       "brand": "SXT",
       "category": "➤ Seturi Roti",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
       "price": 825.0,
       "price_net": 681.82,
       "currency": "RON",
@@ -5222,8 +5181,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/set-roti-single-speed-fixie-sxt-700-32h-40-mm-albastru~8343136.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Seturi Roti"
       ],
@@ -5241,7 +5200,7 @@
       "name": "Set Roti Single Speed/Fixie SXT 700-32H 40 mm Galben",
       "brand": "SXT",
       "category": "➤ Seturi Roti",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
       "price": 825.0,
       "price_net": 681.82,
       "currency": "RON",
@@ -5257,8 +5216,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/set-roti-single-speed-fixie-sxt-700-32h-40-mm-galben~8343160.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Seturi Roti"
       ],
@@ -5276,7 +5235,7 @@
       "name": "Set Roti Single Speed/Fixie SXT 700-32H 40 mm Rosu",
       "brand": "SXT",
       "category": "➤ Seturi Roti",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
       "price": 825.0,
       "price_net": 681.82,
       "currency": "RON",
@@ -5292,8 +5251,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/set-roti-single-speed-fixie-sxt-700-32h-40-mm-rosu~8343184.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Seturi Roti"
       ],
@@ -5311,7 +5270,7 @@
       "name": "Set Roti Single Speed/Fixie SXT 700-32H 40 mm Negru",
       "brand": "SXT",
       "category": "➤ Seturi Roti",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
       "price": 825.0,
       "price_net": 681.82,
       "currency": "RON",
@@ -5327,8 +5286,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-single-speed-fixie-sxt-700-32h-40-mm-negru~8343208.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Seturi Roti"
       ],
@@ -5346,7 +5305,7 @@
       "name": "Set Roti Single Speed/Fixie SXT 700-32H 40 mm Portocaliu",
       "brand": "SXT",
       "category": "➤ Seturi Roti",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
       "price": 825.0,
       "price_net": 681.82,
       "currency": "RON",
@@ -5362,8 +5321,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/set-roti-single-speed-fixie-sxt-700-32h-40-mm-portocaliu~8343232.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Seturi Roti"
       ],
@@ -5381,7 +5340,7 @@
       "name": "Set Roti SXT Single Speed/Fixie 700-32H 40 mm Silver",
       "brand": "SXT",
       "category": "➤ Seturi Roti",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
       "price": 825.0,
       "price_net": 681.82,
       "currency": "RON",
@@ -5397,8 +5356,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/set-roti-sxt-single-speed-fixie-700-32h-40-mm-silver~8343256.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Seturi Roti"
       ],
@@ -5416,7 +5375,7 @@
       "name": "Roata Fata Single Speed/Fixie SXT 700-32H 40 mm Portocaliu",
       "brand": "SXT",
       "category": "➤ Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "price": 385.0,
       "price_net": 318.18,
       "currency": "RON",
@@ -5432,8 +5391,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/roata-fata-single-speed-fixie-sxt-700-32h-40-mm-portocaliu~8343277.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Fata"
       ],
@@ -5451,7 +5410,7 @@
       "name": "Roata Fata Single Speed/Fixie SXT 700-32H 40 mm Alb",
       "brand": "SXT",
       "category": "➤ Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "price": 385.0,
       "price_net": 318.18,
       "currency": "RON",
@@ -5467,8 +5426,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/roata-fata-single-speed-fixie-sxt-700-32h-40-mm-alb~8343298.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Fata"
       ],
@@ -5486,7 +5445,7 @@
       "name": "Roata Fata Single Speed/Fixie SXT 700-32H 40 mm Silver",
       "brand": "SXT",
       "category": "➤ Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "price": 385.0,
       "price_net": 318.18,
       "currency": "RON",
@@ -5502,8 +5461,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/roata-fata-single-speed-fixie-sxt-700-32h-40-mm-silver~8343322.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Fata"
       ],
@@ -5521,7 +5480,7 @@
       "name": "Roata Fata Single Speed/Fixie SXT 700-32H 40 mm Negru",
       "brand": "SXT",
       "category": "➤ Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "price": 385.0,
       "price_net": 318.18,
       "currency": "RON",
@@ -5537,8 +5496,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-single-speed-fixie-sxt-700-32h-40-mm-negru~8343340.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Fata"
       ],
@@ -5556,7 +5515,7 @@
       "name": "Roata Fata Single Speed/Fixie SXT 700-32H 40 mm Galben",
       "brand": "SXT",
       "category": "➤ Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "price": 385.0,
       "price_net": 318.18,
       "currency": "RON",
@@ -5572,8 +5531,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/roata-fata-single-speed-fixie-sxt-700-32h-40-mm-galben~8343361.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Fata"
       ],
@@ -5591,7 +5550,7 @@
       "name": "Roata Fata Single Speed/Fixie SXT 700-32H 40 mm Verde",
       "brand": "SXT",
       "category": "➤ Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "price": 385.0,
       "price_net": 318.18,
       "currency": "RON",
@@ -5607,8 +5566,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/roata-fata-single-speed-fixie-sxt-700-32h-40-mm-verde~8343379.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Fata"
       ],
@@ -5626,7 +5585,7 @@
       "name": "Roata Fata Single Speed/Fixie SXT 700-32H 40 mm Albastru",
       "brand": "SXT",
       "category": "➤ Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "price": 385.0,
       "price_net": 318.18,
       "currency": "RON",
@@ -5642,8 +5601,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-single-speed-fixie-sxt-700-32h-40-mm-albastru~8343400.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Fata"
       ],
@@ -5661,7 +5620,7 @@
       "name": "Roata Fata Single Speed/Fixie SXT 700-32H 40 mm Rosu",
       "brand": "SXT",
       "category": "➤ Roti Fata",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "price": 385.0,
       "price_net": 318.18,
       "currency": "RON",
@@ -5677,8 +5636,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/roata-fata-single-speed-fixie-sxt-700-32h-40-mm-rosu~8343421.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Fata"
       ],
@@ -5696,7 +5655,7 @@
       "name": "Roata Spate Single Speed/Fixie SXT 700-32H 40 mm Portocaliu",
       "brand": "SXT",
       "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "price": 484.0,
       "price_net": 400.0,
       "currency": "RON",
@@ -5712,8 +5671,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-single-speed-fixie-sxt-700-32h-40-mm-portocaliu~8343442.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Spate"
       ],
@@ -5731,7 +5690,7 @@
       "name": "Roata Spate Single Speed/Fixie SXT 700-32H 40 mm Negru",
       "brand": "SXT",
       "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "price": 484.0,
       "price_net": 400.0,
       "currency": "RON",
@@ -5747,8 +5706,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-single-speed-fixie-sxt-700-32h-40-mm-negru~8343460.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Spate"
       ],
@@ -5766,7 +5725,7 @@
       "name": "Roata Spate Single Speed/Fixie SXT 700-32H 40 mm Silver",
       "brand": "SXT",
       "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "price": 484.0,
       "price_net": 400.0,
       "currency": "RON",
@@ -5782,8 +5741,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/roata-spate-single-speed-fixie-sxt-700-32h-40-mm-silver~8343481.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Spate"
       ],
@@ -5801,7 +5760,7 @@
       "name": "Roata Spate Single Speed/Fixie SXT 700-32H 40 mm Alb",
       "brand": "SXT",
       "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "price": 495.0,
       "price_net": 409.09,
       "currency": "RON",
@@ -5817,8 +5776,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-single-speed-fixie-sxt-700-32h-40-mm-alb~8343499.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Spate"
       ],
@@ -5836,7 +5795,7 @@
       "name": "Roata Spate Single Speed/Fixie SXT 700-32H 40 mm Galben",
       "brand": "SXT",
       "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "price": 484.0,
       "price_net": 400.0,
       "currency": "RON",
@@ -5852,8 +5811,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-single-speed-fixie-sxt-700-32h-40-mm-galben~8343520.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Spate"
       ],
@@ -5871,7 +5830,7 @@
       "name": "Roata Spate Single Speed/Fixie SXT 700-32H 40 mm Verde",
       "brand": "SXT",
       "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "price": 484.0,
       "price_net": 400.0,
       "currency": "RON",
@@ -5887,8 +5846,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/roata-spate-single-speed-fixie-sxt-700-32h-40-mm-verde~8343541.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Spate"
       ],
@@ -5906,7 +5865,7 @@
       "name": "Roata Spate Single Speed/Fixie SXT 700-32H 40 mm Albastru",
       "brand": "SXT",
       "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "price": 484.0,
       "price_net": 400.0,
       "currency": "RON",
@@ -5922,8 +5881,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-single-speed-fixie-sxt-700-32h-40-mm-albastru~8343562.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Spate"
       ],
@@ -5941,7 +5900,7 @@
       "name": "Roata Spate Single Speed/Fixie SXT 700-32H 40 mm Rosu",
       "brand": "SXT",
       "category": "➤ Roti Spate",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "price": 484.0,
       "price_net": 400.0,
       "currency": "RON",
@@ -5957,8 +5916,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-single-speed-fixie-sxt-700-32h-40-mm-rosu~8343583.jpg"
       ],
       "tags": [
-        "COMPONENTE",
         "Fixie",
+        "ROTI BICICLETA",
         "SXT",
         "➤ Roti Spate"
       ],
@@ -6112,7 +6071,7 @@
       "name": "Butuc Spate NOVATEC D572RSB 12x148mm 28H Microspline",
       "brand": "NOVATEC",
       "category": "➤ Butuci Frana Disc",
-      "category_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "category_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "price": 878.9,
       "price_net": 726.36,
       "currency": "RON",
@@ -6127,13 +6086,11 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/butuc-spate-novatec-d572rsb-12x148mm-28h-microspline~10358271.jpg"
       ],
       "tags": [
-        "12 inch",
         "COMPONENTE",
         "NOVATEC",
         "➤ Butuci Frana Disc"
       ],
       "specs": {
-        "wheel_size": "12",
         "dimensions": "12 x 148"
       }
     },
@@ -6609,7 +6566,7 @@
       "price_net": 100.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 83,
+      "stock_quantity": 82,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/cheie-dinamometrica-super-b-tb-tw17-3-20-nm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/cheie-dinamometrica-super-b-tb-tw17-3-20-nm~8343739.jpg",
@@ -6663,7 +6620,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 49,
+      "stock_quantity": 47,
       "weight_kg": 0.87,
       "url": "https://www.bikestylish.ro/antifurt-tip-lant-m-wave-d-6-8-5-850x6-mm-cifru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/antifurt-tip-lant-m-wave-d-6-8-5-850x6-mm-cifru~8343763.jpg",
@@ -7087,7 +7044,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 70,
+      "stock_quantity": 68,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-verde.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-mtb-sxt-zn-047-130-mm-lock-on-verde~8343850.jpg",
@@ -7295,8 +7252,8 @@
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
+      "availability": "limited",
+      "stock_quantity": 2,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-alnc-2032-negru-3-rulmenti-120-x-110-x-20-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-aluminiu-sxt-alnc-2032-negru-3-rulmenti-120-x-110-x-20-mm~8343922.jpg",
@@ -7534,7 +7491,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 109,
+      "stock_quantity": 108,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-83-x-74mm-negru-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-plastic-sxt-83-x-74mm-negru-9-16~8343967.jpg",
@@ -7682,6 +7639,31 @@
         "COMPONENTE",
         "SHIMANO",
         "➤ Pedaliere - Angrenaje"
+      ]
+    },
+    {
+      "id": "680125",
+      "sku": "680125",
+      "ean": "2802451000008",
+      "name": "Manete Schimbator VENTURA 18-21V",
+      "brand": "VENTURA",
+      "category": "➤ Manete Schimbator",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Manete Schimbator",
+      "price": 38.5,
+      "price_net": 31.82,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 16,
+      "url": "https://www.bikestylish.ro/manete-schimbator-ventura-18-21v.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/manete-schimbator-ventura-18-21v~8337079.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/manete-schimbator-ventura-18-21v~8337079.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/manete-schimbator-ventura-18-21v~10039366.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "VENTURA",
+        "➤ Manete Schimbator"
       ]
     }
   ],
@@ -8046,7 +8028,7 @@
     {
       "id": "axe-accesorii-butuci",
       "name": "➤ Axe - Accesorii Butuci",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
+      "full_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
       "in_stock_count": 39
     },
@@ -8130,14 +8112,14 @@
     {
       "id": "butuci-frana-disc",
       "name": "➤ Butuci Frana Disc",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
+      "full_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 58
+      "in_stock_count": 57
     },
     {
       "id": "butuci-v-break-dinam",
       "name": "➤ Butuci V-Break - Dinam",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
+      "full_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
       "product_count": 49,
       "in_stock_count": 38
     },
@@ -8159,7 +8141,7 @@
       "id": "camere-de-bicicleta",
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "product_count": 91,
+      "product_count": 90,
       "in_stock_count": 51
     },
     {
@@ -8186,7 +8168,7 @@
     {
       "id": "casete-butuci",
       "name": "➤ Casete Butuci",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Butuci - Accesorii > ➤ Casete Butuci",
+      "full_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Casete Butuci",
       "product_count": 14,
       "in_stock_count": 9
     },
@@ -8319,21 +8301,21 @@
     {
       "id": "jante-fat-bike",
       "name": "➤ Jante Fat  Bike",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante Fat  Bike",
+      "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante Fat  Bike",
       "product_count": 3,
       "in_stock_count": 3
     },
     {
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 51,
       "in_stock_count": 22
     },
     {
       "id": "jante-pentru-frane-v-brake",
       "name": "➤ Jante pentru Frane V-Brake",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
+      "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 19,
       "in_stock_count": 17
     },
@@ -8410,7 +8392,7 @@
     {
       "id": "nipluri-accesorii",
       "name": "➤ Nipluri - Accesorii",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Nipluri - Accesorii",
+      "full_path": "COMPONENTE > ⬤ Spite si Nipluri > ➤ Nipluri - Accesorii",
       "product_count": 13,
       "in_stock_count": 10
     },
@@ -8454,7 +8436,7 @@
       "name": "➤ Pedaliere - Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Pedaliere - Angrenaje",
       "product_count": 61,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "pinioane-casetate",
@@ -8536,16 +8518,16 @@
     {
       "id": "roti-fata",
       "name": "➤ Roti Fata",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Fata",
+      "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "product_count": 32,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Roti Spate",
+      "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "product_count": 45,
-      "in_stock_count": 31
+      "in_stock_count": 29
     },
     {
       "id": "rucsaci",
@@ -8601,19 +8583,19 @@
       "name": "➤ Set Lumini",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Set Lumini",
       "product_count": 25,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "seturi-aparatori-noroi",
       "name": "➤ Seturi Aparatori Noroi",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
       "product_count": 29,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "seturi-roti",
       "name": "➤ Seturi Roti",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti > ➤ Seturi Roti",
+      "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
       "product_count": 24,
       "in_stock_count": 21
     },
@@ -8634,28 +8616,28 @@
     {
       "id": "spite-stainless",
       "name": "➤ Spite Stainless",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "full_path": "COMPONENTE > ⬤ Spite si Nipluri > ➤ Spite Stainless",
       "product_count": 165,
       "in_stock_count": 96
     },
     {
       "id": "spite-stainless-2-3-mm",
       "name": "➤ Spite Stainless - 2,3 mm",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless - 2,3 mm",
+      "full_path": "COMPONENTE > ⬤ Spite si Nipluri > ➤ Spite Stainless - 2,3 mm",
       "product_count": 11,
       "in_stock_count": 7
     },
     {
       "id": "spite-stainless-aero",
       "name": "➤ Spite Stainless Aero",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "full_path": "COMPONENTE > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
       "product_count": 24,
       "in_stock_count": 1
     },
     {
       "id": "spite-ucp",
       "name": "➤ Spite UCP",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "full_path": "COMPONENTE > ⬤ Spite si Nipluri > ➤ Spite UCP",
       "product_count": 58,
       "in_stock_count": 24
     },
@@ -8706,7 +8688,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 176,
-      "in_stock_count": 139
+      "in_stock_count": 138
     },
     {
       "id": "urechi-cadru",
@@ -8760,7 +8742,7 @@
     {
       "id": "roti",
       "name": "⬤ Roti",
-      "full_path": "COMPONENTE > Roti - Componente > ⬤ Roti",
+      "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti",
       "product_count": 4,
       "in_stock_count": 3
     }
