@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-08T03:11:46.055301+00:00",
+  "last_updated": "2026-09-09T03:12:03.508118+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 6,
     "total_parts": 19,
     "product_range": "1251-1500",
-    "original_total": 4746
+    "original_total": 4750
   },
   "products": [
     {
@@ -676,7 +676,7 @@
       "price_net": 11.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 43,
+      "stock_quantity": 33,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/tija-sa-sxt-27-2-300-mm-metal-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/tija-sa-sxt-27-2-300-mm-metal-negru~8287783.jpg",
@@ -789,7 +789,7 @@
       "price_net": 72.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/sa-m-wave-vacu-comp-l.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/sa-m-wave-vacu-comp-l~8287795.jpg",
@@ -1196,8 +1196,8 @@
       "price": 225.0,
       "price_net": 185.95,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-26-559x19c-basic-qr-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-26-559x19c-basic-qr-36h~8287837.jpg",
       "images": [
@@ -1952,7 +1952,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 34,
+      "stock_quantity": 30,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/set-aparatori-noroi-m-wave-mud-max-universal-26-29-lat-50-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-aparatori-noroi-m-wave-mud-max-universal-26-29-lat-50-mm~8287918.jpg",
@@ -3014,7 +3014,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 49,
+      "stock_quantity": 48,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/set-leviere-anvelope-3-buc-m-wave-tp-l1-plastic.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-leviere-anvelope-3-buc-m-wave-tp-l1-plastic~8289034.jpg",
@@ -5092,8 +5092,8 @@
       "price": 95.7,
       "price_net": 79.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 4,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.19,
       "url": "https://www.bikestylish.ro/cuveti-semi-integrati-m-wave-zs44-44-c.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cuveti-semi-integrati-m-wave-zs44-44-c~8289268.jpg",
@@ -7583,7 +7583,7 @@
       "id": "e-mobility",
       "name": "e- MOBILITY",
       "full_path": "e- MOBILITY",
-      "product_count": 6,
+      "product_count": 7,
       "in_stock_count": 5
     },
     {
@@ -7668,7 +7668,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 188,
-      "in_stock_count": 105
+      "in_stock_count": 104
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7709,7 +7709,7 @@
       "id": "bagaje-cadru",
       "name": "➤ Bagaje Cadru",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
-      "product_count": 14,
+      "product_count": 15,
       "in_stock_count": 9
     },
     {
@@ -7724,13 +7724,13 @@
       "name": "➤ Bagaje Spate",
       "full_path": "ACCESORII > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
       "product_count": 42,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 49,
+      "product_count": 50,
       "in_stock_count": 37
     },
     {
@@ -7780,7 +7780,7 @@
       "name": "➤ Butuci Frana Disc",
       "full_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
       "product_count": 111,
-      "in_stock_count": 57
+      "in_stock_count": 56
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7808,7 +7808,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 90,
-      "in_stock_count": 51
+      "in_stock_count": 50
     },
     {
       "id": "capete-cablu-manta",
@@ -7899,7 +7899,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "discuri-rotoare",
@@ -8052,7 +8052,7 @@
       "id": "monobloace-b-b",
       "name": "➤ Monobloace - B.B.",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
-      "product_count": 46,
+      "product_count": 47,
       "in_stock_count": 37
     },
     {
@@ -8193,7 +8193,7 @@
       "name": "➤ Roti Spate",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "product_count": 45,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "rucsaci",
@@ -8256,7 +8256,7 @@
       "name": "➤ Seturi Aparatori Noroi",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
       "product_count": 29,
-      "in_stock_count": 24
+      "in_stock_count": 25
     },
     {
       "id": "seturi-roti",
