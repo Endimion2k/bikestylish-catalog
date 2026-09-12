@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T03:11:51.103283+00:00",
+  "last_updated": "2026-09-12T03:11:16.380583+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -968,7 +968,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 80,
+      "stock_quantity": 71,
       "weight_kg": 0.22,
       "url": "https://www.bikestylish.ro/camera-kenda-26-x-1-75-2-125-47-57-559-fv-48-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/camera-kenda-26-x-1-75-2-125-47-57-559-fv-48-mm~8278609.jpg",
@@ -1869,7 +1869,7 @@
       "price_net": 164.46,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 223,
+      "stock_quantity": 221,
       "weight_kg": 0.7,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-krusade-sport-20x4-98-406-k-1188-60tpi-e-bike.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kenda-krusade-sport-20x4-98-406-k-1188-60tpi-e-bike~8278717.jpg",
@@ -1932,7 +1932,7 @@
       "price_net": 42.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 148,
+      "stock_quantity": 146,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/camera-kenda-20-x-3-5-4-86-89-406-1mm-av-oem.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/camera-kenda-20-x-3-5-4-86-89-406-1mm-av-oem~8278723.jpg",
@@ -5593,8 +5593,8 @@
       "price": 159.5,
       "price_net": 131.82,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/sa-trekking-velo-fit-traveller-l-150-160-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/sa-trekking-velo-fit-traveller-l-150-160-mm~8280148.jpg",
@@ -6698,7 +6698,7 @@
       "price_net": 66.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 14,
+      "stock_quantity": 13,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/tija-sa-cu-suspensie-m-wave-sp-c1-315-25-4-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/tija-sa-cu-suspensie-m-wave-sp-c1-315-25-4-mm-negru~8280256.jpg",
@@ -6842,7 +6842,7 @@
       "price_net": 10.91,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 1,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/adaptor-tija-sa-sxt-de-la-26-4-mm-la-25-4-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/adaptor-tija-sa-sxt-de-la-26-4-mm-la-25-4-mm~8280271.jpg",
@@ -6891,8 +6891,8 @@
       "price": 13.2,
       "price_net": 10.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/adaptor-tija-sa-sxt-de-la-26-8-mm-la-25-4-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/adaptor-tija-sa-sxt-de-la-26-8-mm-la-25-4-mm~8280277.jpg",
@@ -7197,7 +7197,7 @@
       "price_net": 23.14,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 52,
+      "stock_quantity": 40,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/oglinda-bicicleta-trumpf-anti-glare-cp.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/oglinda-bicicleta-trumpf-anti-glare-cp~8280310.jpg",
@@ -8087,7 +8087,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 94
+      "in_stock_count": 93
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8185,7 +8185,7 @@
       "name": "➤ Roti Spate",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "product_count": 45,
-      "in_stock_count": 31
+      "in_stock_count": 32
     },
     {
       "id": "rucsaci",
@@ -8318,7 +8318,7 @@
       "name": "➤ Tije Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Tije Sa",
       "product_count": 48,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "transport-biciclete",
