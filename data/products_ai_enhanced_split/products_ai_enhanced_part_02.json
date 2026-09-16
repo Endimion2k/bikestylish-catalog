@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-15T03:12:25.208877+00:00",
+  "last_updated": "2026-09-16T03:12:17.379111+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 2,
     "total_parts": 20,
     "product_range": "251-500",
-    "original_total": 4771
+    "original_total": 4781
   },
   "products": [
     {
@@ -769,7 +769,7 @@
       "price_net": 32.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 22,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/protectie-cadru-velo-245x95-110.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/protectie-cadru-velo-245x95-110~8280409.jpg",
@@ -797,8 +797,8 @@
       "price": 19.8,
       "price_net": 16.36,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/protectie-cadru-velo-260-x-95-110.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/protectie-cadru-velo-260-x-95-110~8280412.jpg",
@@ -1832,7 +1832,7 @@
       "price_net": 77.69,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 58,
+      "stock_quantity": 57,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-flat-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-aluminiu-sxt-flat-negru~8280517.jpg",
@@ -1895,7 +1895,7 @@
       "price_net": 128.1,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 15,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/butuc-aluminiu-fata-sxt-32h-fd-d041-b15-boost-2-rulmenti.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/butuc-aluminiu-fata-sxt-32h-fd-d041-b15-boost-2-rulmenti~8280523.jpg",
@@ -3455,7 +3455,7 @@
       "price_net": 90.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 98,
+      "stock_quantity": 97,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/butuc-fata-sxt-32h-fd-2-rulmenti.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-fata-sxt-32h-fd-2-rulmenti~8281735.jpg",
@@ -6084,7 +6084,7 @@
       "price_net": 72.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 60,
+      "stock_quantity": 59,
       "weight_kg": 1.3,
       "url": "https://www.bikestylish.ro/angrenaj-pedalier-m-wave-28-38-48t-3-x-8-v-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/angrenaj-pedalier-m-wave-28-38-48t-3-x-8-v-negru~8282011.jpg",
@@ -7111,7 +7111,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 59,
+      "stock_quantity": 57,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/etrier-frana-disc-mecanica-sxt-fata.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/etrier-frana-disc-mecanica-sxt-fata~8282122.jpg",
@@ -7137,7 +7137,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 99,
+      "stock_quantity": 97,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/etrier-frana-disc-mecanica-sxt-spate.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/etrier-frana-disc-mecanica-sxt-spate~8282125.jpg",
@@ -7308,7 +7308,7 @@
       "name": "Ghidoane - Mansoane - Pipe",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe",
       "product_count": 6,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "home-trainer-rulou",
@@ -7539,7 +7539,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 189,
-      "in_stock_count": 118
+      "in_stock_count": 117
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7629,8 +7629,8 @@
       "id": "bike-computer",
       "name": "➤ Bike Computer",
       "full_path": "ACCESORII > Electronice > ➤ Bike Computer",
-      "product_count": 7,
-      "in_stock_count": 6
+      "product_count": 6,
+      "in_stock_count": 5
     },
     {
       "id": "bike-lube-lubrefiere",
@@ -7819,7 +7819,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "huse-sa",
@@ -7846,8 +7846,8 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 51,
-      "in_stock_count": 22
+      "product_count": 50,
+      "in_stock_count": 21
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7882,7 +7882,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "manete-frana-schimbator",
@@ -8043,7 +8043,7 @@
       "name": "➤ Protectii Lant - Cadru",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Protectii Lant - Cadru",
       "product_count": 10,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "reflectorizante",
@@ -8231,7 +8231,7 @@
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "product_count": 1101,
+      "product_count": 1113,
       "in_stock_count": 365
     },
     {

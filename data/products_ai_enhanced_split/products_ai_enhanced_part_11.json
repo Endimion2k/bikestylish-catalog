@@ -1,82 +1,14 @@
 {
-  "last_updated": "2026-09-15T03:12:25.208877+00:00",
+  "last_updated": "2026-09-16T03:12:17.379111+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
     "total_parts": 20,
     "product_range": "2501-2750",
-    "original_total": 4771
+    "original_total": 4781
   },
   "products": [
-    {
-      "id": "525053",
-      "sku": "525053",
-      "ean": "2801415000009",
-      "name": "Camera Trotineta 10 x 2.0 - Ventil Drept AV -20 mm",
-      "brand": "SXT",
-      "category": "Trotinete Electrice",
-      "category_path": "e- MOBILITY > Trotinete Electrice",
-      "secondary_categories": [
-        "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta"
-      ],
-      "price": 49.5,
-      "price_net": 40.91,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/camera-trotineta-10-x-2-0-ventil-drept-av-20-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/camera-trotineta-10-x-2-0-ventil-drept-av-20-mm~8330230.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/camera-trotineta-10-x-2-0-ventil-drept-av-20-mm~8330230.jpg"
-      ],
-      "tags": [
-        "E-Bike",
-        "SXT",
-        "Schrader",
-        "Trotinete Electrice",
-        "e- MOBILITY"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ],
-        "dimensions": "10 x 2.0",
-        "valve_type": "Schrader (AV)"
-      }
-    },
-    {
-      "id": "525057",
-      "sku": "525057",
-      "ean": "2801680000001",
-      "name": "Anvelopa Plina Trotineta Fagure 8,5x2.0 Rosu",
-      "brand": "SXT",
-      "category": "Trotinete Electrice",
-      "category_path": "e- MOBILITY > Trotinete Electrice",
-      "price": 86.9,
-      "price_net": 71.82,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/anvelopa-plina-trotineta-fagure-8-5x2-0-rosu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-plina-trotineta-fagure-8-5x2-0-rosu~8330239.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-plina-trotineta-fagure-8-5x2-0-rosu~8330239.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-plina-trotineta-fagure-8-5x2-0-rosu~8330242.jpg"
-      ],
-      "tags": [
-        "E-Bike",
-        "SXT",
-        "Trotinete Electrice",
-        "e- MOBILITY"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ],
-        "color": "Rosu"
-      }
-    },
     {
       "id": "659868",
       "sku": "659868",
@@ -6054,31 +5986,6 @@
       ]
     },
     {
-      "id": "D99",
-      "sku": "D99",
-      "name": "Deschizator Beer PILO D99 American",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 154.0,
-      "price_net": 127.27,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/deschizator-beer-pilo-d99-american.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/deschizator-beer-pilo-d99-american~8331211.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/deschizator-beer-pilo-d99-american~8331211.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/deschizator-beer-pilo-d99-american~8331214.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/deschizator-beer-pilo-d99-american~8331217.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
-    {
       "id": "D494",
       "sku": "D494",
       "ean": "7290107115056",
@@ -6457,6 +6364,81 @@
         "PILO",
         "➤ Urechi Cadru"
       ]
+    },
+    {
+      "id": "D264",
+      "sku": "D264",
+      "ean": "7290107112529",
+      "name": "Ureche Cadru PILO D264 Merida",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d264-merida.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d264-merida~8331265.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d264-merida~8331265.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D455",
+      "sku": "D455",
+      "ean": "7290107114646",
+      "name": "Ureche Cadru PILO D455 Kona",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 328.9,
+      "price_net": 271.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d455-kona.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d455-kona~8331268.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d455-kona~8331268.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D459",
+      "sku": "D459",
+      "ean": "7290107114684",
+      "name": "Ureche Cadru PILO D459 Ciocc",
+      "brand": "PILO",
+      "category": "➤ Urechi Cadru",
+      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d459-ciocc.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d459-ciocc~8331271.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d459-ciocc~8331271.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "PILO",
+        "➤ Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6563,7 +6545,7 @@
       "name": "Ghidoane - Mansoane - Pipe",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe",
       "product_count": 6,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "home-trainer-rulou",
@@ -6794,7 +6776,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 189,
-      "in_stock_count": 118
+      "in_stock_count": 117
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -6884,8 +6866,8 @@
       "id": "bike-computer",
       "name": "➤ Bike Computer",
       "full_path": "ACCESORII > Electronice > ➤ Bike Computer",
-      "product_count": 7,
-      "in_stock_count": 6
+      "product_count": 6,
+      "in_stock_count": 5
     },
     {
       "id": "bike-lube-lubrefiere",
@@ -7074,7 +7056,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "huse-sa",
@@ -7101,8 +7083,8 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 51,
-      "in_stock_count": 22
+      "product_count": 50,
+      "in_stock_count": 21
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7137,7 +7119,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "manete-frana-schimbator",
@@ -7298,7 +7280,7 @@
       "name": "➤ Protectii Lant - Cadru",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Protectii Lant - Cadru",
       "product_count": 10,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "reflectorizante",
@@ -7486,7 +7468,7 @@
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "product_count": 1101,
+      "product_count": 1113,
       "in_stock_count": 365
     },
     {

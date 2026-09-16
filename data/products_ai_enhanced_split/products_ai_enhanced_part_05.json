@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-15T03:12:25.208877+00:00",
+  "last_updated": "2026-09-16T03:12:17.379111+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 5,
     "total_parts": 20,
     "product_range": "1001-1250",
-    "original_total": 4771
+    "original_total": 4781
   },
   "products": [
     {
@@ -2851,7 +2851,7 @@
       "price_net": 128.1,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 8,
       "weight_kg": 0.7,
       "url": "https://www.bikestylish.ro/janta-sxt-t-30-29-622-x-30c-32h-negru-anodizat-capsata.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/janta-sxt-t-30-29-622-x-30c-32h-negru-anodizat-capsata~8286796.jpg",
@@ -3775,7 +3775,7 @@
       "price_net": 16.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 174,
+      "stock_quantity": 172,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/protectie-cadru-lant-m-wave-protecto-xl.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/protectie-cadru-lant-m-wave-protecto-xl~8286892.jpg",
@@ -4137,7 +4137,7 @@
       "price_net": 14.88,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 207,
+      "stock_quantity": 199,
       "weight_kg": 0.17,
       "url": "https://www.bikestylish.ro/camera-kujo-14-x-1-75-2-125-av-33-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kujo-14-x-1-75-2-125-av-33-mm~8287372.jpg",
@@ -5192,8 +5192,8 @@
       "price": 40.7,
       "price_net": 33.64,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.17,
       "url": "https://www.bikestylish.ro/set-capete-ghidon-m-wave-aluminiu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-capete-ghidon-m-wave-aluminiu~8287498.jpg",
@@ -6035,7 +6035,7 @@
       "price_net": 41.82,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/capete-manta-5-1-mm-promax-silver-200-buc.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/capete-manta-5-1-mm-promax-silver-200-buc~8288263.jpg",
@@ -6097,7 +6097,7 @@
       "price_net": 14.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 17,
+      "stock_quantity": 16,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/cablu-spate-frana-rotor-bmx-sxt-1200-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/cablu-spate-frana-rotor-bmx-sxt-1200-mm~8287591.jpg",
@@ -7429,7 +7429,7 @@
       "name": "Ghidoane - Mansoane - Pipe",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe",
       "product_count": 6,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "home-trainer-rulou",
@@ -7660,7 +7660,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 189,
-      "in_stock_count": 118
+      "in_stock_count": 117
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7750,8 +7750,8 @@
       "id": "bike-computer",
       "name": "➤ Bike Computer",
       "full_path": "ACCESORII > Electronice > ➤ Bike Computer",
-      "product_count": 7,
-      "in_stock_count": 6
+      "product_count": 6,
+      "in_stock_count": 5
     },
     {
       "id": "bike-lube-lubrefiere",
@@ -7940,7 +7940,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "huse-sa",
@@ -7967,8 +7967,8 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 51,
-      "in_stock_count": 22
+      "product_count": 50,
+      "in_stock_count": 21
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8003,7 +8003,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "manete-frana-schimbator",
@@ -8164,7 +8164,7 @@
       "name": "➤ Protectii Lant - Cadru",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Protectii Lant - Cadru",
       "product_count": 10,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "reflectorizante",
@@ -8352,7 +8352,7 @@
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "product_count": 1101,
+      "product_count": 1113,
       "in_stock_count": 365
     },
     {

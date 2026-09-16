@@ -1,64 +1,14 @@
 {
-  "last_updated": "2026-09-15T03:12:25.208877+00:00",
+  "last_updated": "2026-09-16T03:12:17.379111+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 8,
     "total_parts": 20,
     "product_range": "1751-2000",
-    "original_total": 4771
+    "original_total": 4781
   },
   "products": [
-    {
-      "id": "D347",
-      "sku": "D347",
-      "ean": "7290107113359",
-      "name": "Ureche Cadru PILO D347 Giant",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 137.5,
-      "price_net": 113.64,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d347-giant.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d347-giant~8292334.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d347-giant~8292334.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D374",
-      "sku": "D374",
-      "ean": "7290107113625",
-      "name": "Ureche Cadru PILO D374 Orbea",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 174.9,
-      "price_net": 144.55,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d374-orbea.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d374-orbea~8292337.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d374-orbea~8292337.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D384",
       "sku": "D384",
@@ -437,8 +387,8 @@
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d737-haibike.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d737-haibike~8292382.jpg",
@@ -2623,7 +2573,7 @@
       "price_net": 14.88,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 101,
+      "stock_quantity": 95,
       "url": "https://www.bikestylish.ro/camera-kujo-12-5-x-1-75-2-25-47-62-203-oem-av.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/camera-kujo-12-5-x-1-75-2-25-47-62-203-oem-av~8292631.jpg",
       "images": [
@@ -3779,8 +3729,8 @@
       "price": 31.9,
       "price_net": 26.36,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 9,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-12-5-x-1-75-47-203-k-909a.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-kenda-12-5-x-1-75-47-203-k-909a~8324050.jpg",
@@ -4674,7 +4624,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 438,
+      "stock_quantity": 431,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -4704,7 +4654,7 @@
       "price_net": 30.58,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 1042,
+      "stock_quantity": 1041,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/camera-kenda-14-x-2-50-av-valva-45.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kenda-14-x-2-50-av-valva-45~8324272.jpg",
@@ -6307,7 +6257,7 @@
       "price_net": 57.85,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 77,
+      "stock_quantity": 75,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/butuc-spate-aluminiu-qr-sxt-36-h-fd-filetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/butuc-spate-aluminiu-qr-sxt-36-h-fd-filetat~8325103.jpg",
@@ -7002,7 +6952,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 38,
+      "stock_quantity": 32,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/set-protectie-brate-angrenaj-m-wave-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-protectie-brate-angrenaj-m-wave-negru~8325298.jpg",
@@ -7046,6 +6996,62 @@
         "M-WAVE",
         "➤ Monobloace - B.B."
       ]
+    },
+    {
+      "id": "359456",
+      "sku": "359456",
+      "ean": "887539022976",
+      "name": "Monobloc Pedalier M-WAVE CAROUSEL BB BSA SQ 127,5/31 mm",
+      "brand": "M-WAVE",
+      "category": "➤ Monobloace - B.B.",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
+      "price": 71.5,
+      "price_net": 59.09,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 5,
+      "weight_kg": 0.28,
+      "url": "https://www.bikestylish.ro/monobloc-pedalier-m-wave-carousel-bb-bsa-sq-127-5-31-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/monobloc-pedalier-m-wave-carousel-bb-bsa-sq-127-5-31-mm~8325337.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/monobloc-pedalier-m-wave-carousel-bb-bsa-sq-127-5-31-mm~8325337.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "➤ Monobloace - B.B."
+      ]
+    },
+    {
+      "id": "359340",
+      "sku": "359340",
+      "ean": "2800823000007",
+      "name": "Monobloc Pedalier NECO 113,5-22,5 mm Negru Cupe Metal-Plastic",
+      "brand": "NECO",
+      "category": "➤ Monobloace - B.B.",
+      "category_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
+      "price": 35.2,
+      "price_net": 29.09,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 50,
+      "weight_kg": 0.3,
+      "url": "https://www.bikestylish.ro/monobloc-pedalier-neco-113-5-22-5-mm-negru-cupe-metal-plastic.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/monobloc-pedalier-neco-113-5-22-5-mm-negru-cupe-metal-plastic~8325340.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/monobloc-pedalier-neco-113-5-22-5-mm-negru-cupe-metal-plastic~8325340.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/monobloc-pedalier-neco-113-5-22-5-mm-negru-cupe-metal-plastic~8325343.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "NECO",
+        "Plastic",
+        "➤ Monobloace - B.B."
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -7152,7 +7158,7 @@
       "name": "Ghidoane - Mansoane - Pipe",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe",
       "product_count": 6,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "home-trainer-rulou",
@@ -7383,7 +7389,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 189,
-      "in_stock_count": 118
+      "in_stock_count": 117
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7473,8 +7479,8 @@
       "id": "bike-computer",
       "name": "➤ Bike Computer",
       "full_path": "ACCESORII > Electronice > ➤ Bike Computer",
-      "product_count": 7,
-      "in_stock_count": 6
+      "product_count": 6,
+      "in_stock_count": 5
     },
     {
       "id": "bike-lube-lubrefiere",
@@ -7663,7 +7669,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "huse-sa",
@@ -7690,8 +7696,8 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 51,
-      "in_stock_count": 22
+      "product_count": 50,
+      "in_stock_count": 21
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -7726,7 +7732,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "manete-frana-schimbator",
@@ -7887,7 +7893,7 @@
       "name": "➤ Protectii Lant - Cadru",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Protectii Lant - Cadru",
       "product_count": 10,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "reflectorizante",
@@ -8075,7 +8081,7 @@
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "product_count": 1101,
+      "product_count": 1113,
       "in_stock_count": 365
     },
     {

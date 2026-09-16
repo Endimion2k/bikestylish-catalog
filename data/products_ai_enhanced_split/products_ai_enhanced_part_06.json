@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-15T03:12:25.208877+00:00",
+  "last_updated": "2026-09-16T03:12:17.379111+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 6,
     "total_parts": 20,
     "product_range": "1251-1500",
-    "original_total": 4771
+    "original_total": 4781
   },
   "products": [
     {
@@ -788,8 +788,8 @@
       "price": 88.0,
       "price_net": 72.73,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/sa-m-wave-vacu-comp-l.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/sa-m-wave-vacu-comp-l~8287795.jpg",
@@ -909,7 +909,7 @@
       "price_net": 90.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 0.8,
       "url": "https://www.bikestylish.ro/sa-m-wave-elast-l-city-l-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/sa-m-wave-elast-l-city-l-negru~8287807.jpg",
@@ -4859,8 +4859,8 @@
       "price": 16.5,
       "price_net": 13.64,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/maneta-frana-copii-m-wave-dreapta-plastic-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/maneta-frana-copii-m-wave-dreapta-plastic-negru~8289244.jpg",
@@ -4894,7 +4894,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 59,
+      "stock_quantity": 44,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/maneta-frana-copii-m-wave-stanga-plastic-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/maneta-frana-copii-m-wave-stanga-plastic-negru~8289247.jpg",
@@ -5531,7 +5531,7 @@
       "price_net": 17.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 11,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/bandana-m-wave-skull.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/bandana-m-wave-skull~8289310.jpg",
@@ -5587,7 +5587,7 @@
       "price_net": 17.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 9,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/bandana-m-wave-albastru-rosu-squared.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/bandana-m-wave-albastru-rosu-squared~8289316.jpg",
@@ -6920,7 +6920,7 @@
       "price_net": 39.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 40,
+      "stock_quantity": 38,
       "weight_kg": 0.13,
       "url": "https://www.bikestylish.ro/disc-frana-sxt-bd-140-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/disc-frana-sxt-bd-140-mm~8289472.jpg",
@@ -7437,7 +7437,7 @@
       "name": "Ghidoane - Mansoane - Pipe",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe",
       "product_count": 6,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "home-trainer-rulou",
@@ -7668,7 +7668,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 189,
-      "in_stock_count": 118
+      "in_stock_count": 117
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7758,8 +7758,8 @@
       "id": "bike-computer",
       "name": "➤ Bike Computer",
       "full_path": "ACCESORII > Electronice > ➤ Bike Computer",
-      "product_count": 7,
-      "in_stock_count": 6
+      "product_count": 6,
+      "in_stock_count": 5
     },
     {
       "id": "bike-lube-lubrefiere",
@@ -7948,7 +7948,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "huse-sa",
@@ -7975,8 +7975,8 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 51,
-      "in_stock_count": 22
+      "product_count": 50,
+      "in_stock_count": 21
     },
     {
       "id": "jante-pentru-frane-v-brake",
@@ -8011,7 +8011,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "manete-frana-schimbator",
@@ -8172,7 +8172,7 @@
       "name": "➤ Protectii Lant - Cadru",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Protectii Lant - Cadru",
       "product_count": 10,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "reflectorizante",
@@ -8360,7 +8360,7 @@
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "product_count": 1101,
+      "product_count": 1113,
       "in_stock_count": 365
     },
     {
