@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-16T03:12:17.379111+00:00",
+  "last_updated": "2026-09-17T03:11:50.050856+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 20,
     "product_range": "2001-2250",
-    "original_total": 4781
+    "original_total": 4785
   },
   "products": [
     {
@@ -1453,7 +1453,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 152,
+      "stock_quantity": 146,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-4-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-4-negru~8325799.jpg",
@@ -1739,7 +1739,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 199,
+      "stock_quantity": 198,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/cric-aluminiu-sxt-a16-20c.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/cric-aluminiu-sxt-a16-20c~8325895.jpg",
@@ -1967,7 +1967,7 @@
       "price_net": 38.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 47,
+      "stock_quantity": 46,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/far-pentru-dinam-an-lun-14-lux.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/far-pentru-dinam-an-lun-14-lux~8325997.jpg",
@@ -3016,8 +3016,8 @@
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/cutie-suruburi-din-otel-inoxidabil-m5x12-mm-m-wave-50-buc-cutie.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cutie-suruburi-din-otel-inoxidabil-m5x12-mm-m-wave-50-buc-cutie~8326546.jpg",
       "images": [
@@ -3156,7 +3156,7 @@
       "price_net": 16.36,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 3,
       "url": "https://www.bikestylish.ro/cutie-saibe-din-otel-inoxidabil-m-5-m-wave-100-buc-cutie.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/cutie-saibe-din-otel-inoxidabil-m-5-m-wave-100-buc-cutie~8326582.jpg",
       "images": [
@@ -3218,7 +3218,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 72,
+      "stock_quantity": 71,
       "weight_kg": 0.39,
       "url": "https://www.bikestylish.ro/pinion-filetat-shimano-mf-tz500-6v-14-28-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-filetat-shimano-mf-tz500-6v-14-28-t~8326618.jpg",
@@ -6317,7 +6317,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 11,
       "weight_kg": 0.95,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-mr-ramapo-24x2-10-54-507.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-kujo-mr-ramapo-24x2-10-54-507~8327260.jpg",
@@ -6437,7 +6437,7 @@
       "price_net": 41.32,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 33,
+      "stock_quantity": 27,
       "weight_kg": 0.9,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-one-0-one-t-700-x-38c-40-622.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kujo-one-0-one-t-700-x-38c-40-622~8327287.jpg",
@@ -7379,7 +7379,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 189,
-      "in_stock_count": 117
+      "in_stock_count": 116
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7456,7 +7456,7 @@
       "name": "➤ Bidoane Ciclism",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
       "product_count": 21,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "bike-care-ingrijire",
@@ -7484,7 +7484,7 @@
       "name": "➤ Brate Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Brate Angrenaje",
       "product_count": 53,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "butuci-frana-disc",
@@ -7610,7 +7610,7 @@
       "name": "➤ Cuveti(HeadSet)",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Cuveti(HeadSet)",
       "product_count": 35,
-      "in_stock_count": 29
+      "in_stock_count": 28
     },
     {
       "id": "discuri-rotoare",
@@ -7630,8 +7630,8 @@
       "id": "foi-angrenaje",
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
-      "product_count": 35,
-      "in_stock_count": 25
+      "product_count": 37,
+      "in_stock_count": 27
     },
     {
       "id": "frane-disc",
@@ -7651,8 +7651,8 @@
       "id": "furci",
       "name": "➤ Furci",
       "full_path": "COMPONENTE > Furci - Suspensii - Cuveti > ➤ Furci",
-      "product_count": 25,
-      "in_stock_count": 17
+      "product_count": 26,
+      "in_stock_count": 16
     },
     {
       "id": "ghidoane",
@@ -7953,7 +7953,7 @@
       "name": "➤ Sei",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Sei",
       "product_count": 93,
-      "in_stock_count": 78
+      "in_stock_count": 77
     },
     {
       "id": "set-lumini",
@@ -8030,7 +8030,7 @@
       "name": "➤ Suruburi - Piulite - Saibe",
       "full_path": "COMPONENTE > Unelte Service > ➤ Suruburi - Piulite - Saibe",
       "product_count": 6,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "tije-sa",
@@ -8065,14 +8065,14 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 178,
-      "in_stock_count": 151
+      "in_stock_count": 150
     },
     {
       "id": "urechi-cadru",
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "product_count": 1113,
-      "in_stock_count": 365
+      "product_count": 1114,
+      "in_stock_count": 408
     },
     {
       "id": "bike-maintenance-intretinere",
