@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T03:11:19.184525+00:00",
+  "last_updated": "2026-09-20T03:11:54.929077+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -185,8 +185,8 @@
       "price": 75.9,
       "price_net": 62.73,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/cheie-spite-3-2-3-9-mm-cnspoke.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/cheie-spite-3-2-3-9-mm-cnspoke~8280349.jpg",
@@ -305,7 +305,7 @@
       "price_net": 104.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 74,
+      "stock_quantity": 71,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/lant-kmc-x-11-grey-11-v-114-zale.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/lant-kmc-x-11-grey-11-v-114-zale~8280361.jpg",
@@ -569,7 +569,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 76,
+      "stock_quantity": 73,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/lant-kmc-z8-3-silver-grey-7-8-v-114-zale.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/lant-kmc-z8-3-silver-grey-7-8-v-114-zale~8280388.jpg",
@@ -827,7 +827,7 @@
       "price_net": 71.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 27,
+      "stock_quantity": 26,
       "weight_kg": 0.43,
       "url": "https://www.bikestylish.ro/lant-kmc-x9-grey-114-z.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-x9-grey-114-z~8280415.jpg",
@@ -5640,7 +5640,7 @@
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 46,
+      "stock_quantity": 45,
       "weight_kg": 0.26,
       "url": "https://www.bikestylish.ro/brat-angrenaj-sxt-ab90-stanga-aluminiu-negru-170-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/brat-angrenaj-sxt-ab90-stanga-aluminiu-negru-170-mm~8281963.jpg",
@@ -7735,7 +7735,7 @@
       "name": "➤ Coliere Tija Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "cosuri-transport-fata",
@@ -7791,7 +7791,7 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 37,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "frane-disc",
@@ -8057,7 +8057,7 @@
       "name": "➤ Roti Fata",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "product_count": 32,
-      "in_stock_count": 26
+      "in_stock_count": 27
     },
     {
       "id": "roti-spate",
@@ -8225,7 +8225,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 178,
-      "in_stock_count": 150
+      "in_stock_count": 149
     },
     {
       "id": "urechi-cadru",
