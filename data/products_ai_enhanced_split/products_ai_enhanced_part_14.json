@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T03:11:54.929077+00:00",
+  "last_updated": "2026-09-21T03:13:21.133234+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -4716,8 +4716,8 @@
       "price": 30.0,
       "price_net": 24.79,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.32,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-27-5x2-50-3-0-fv-presta-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/camera-standard-vittoria-27-5x2-50-3-0-fv-presta-48mm~8336080.jpg",
@@ -5594,7 +5594,7 @@
       "price_net": 127.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 19,
+      "stock_quantity": 11,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/solutie-tubeless-vittoria-500-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/solutie-tubeless-vittoria-500-ml~12385938.jpg",
@@ -5619,8 +5619,8 @@
       "brand": "VITTORIA",
       "category": "➤ Banda Janta - Tubeless",
       "category_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "price": 181.5,
-      "price_net": 150.0,
+      "price": 155.0,
+      "price_net": 128.1,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 12,
@@ -7158,7 +7158,7 @@
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "ACCESORII > Roti Ajutatoare - Articole Copii",
       "product_count": 16,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -7291,7 +7291,7 @@
       "name": "➤ Antifurturi cu Cheie",
       "full_path": "ACCESORII > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
       "product_count": 21,
-      "in_stock_count": 10
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7312,7 +7312,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 189,
-      "in_stock_count": 116
+      "in_stock_count": 115
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7452,14 +7452,14 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 91,
-      "in_stock_count": 56
+      "in_stock_count": 55
     },
     {
       "id": "capete-cablu-manta",
       "name": "➤ Capete Cablu - Manta",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > ➤ Capete Cablu - Manta",
       "product_count": 20,
-      "in_stock_count": 17
+      "in_stock_count": 14
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -7802,7 +7802,7 @@
       "name": "➤ Portbagaje Spate",
       "full_path": "ACCESORII > Portbagaje > ➤ Portbagaje Spate",
       "product_count": 15,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "protectii-antipana",
@@ -7900,7 +7900,7 @@
       "name": "➤ Seturi Aparatori Noroi",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
       "product_count": 29,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "seturi-roti",
