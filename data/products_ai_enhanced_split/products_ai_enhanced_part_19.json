@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T03:13:21.133234+00:00",
+  "last_updated": "2026-09-22T03:12:09.805914+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -259,7 +259,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 167,
+      "stock_quantity": 166,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid~12342588.jpg",
@@ -357,7 +357,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 360,
+      "stock_quantity": 300,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm-oem.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm-oem~12346995.jpg",
@@ -417,8 +417,8 @@
       "price": 16.5,
       "price_net": 13.64,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 60,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-29x1-95-2-50-av-schrader-48mm-oem.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-standard-vittoria-29x1-95-2-50-av-schrader-48mm-oem~12345645.jpg",
@@ -1977,7 +1977,7 @@
       "price_net": 40.5,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 74,
+      "stock_quantity": 73,
       "url": "https://www.bikestylish.ro/antifurt-cu-cifru-sxt-ch5016-5d-12-x-1200-mm-verde.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/antifurt-cu-cifru-sxt-ch5016-5d-12-x-1200-mm-verde~13289322.jpg",
       "images": [
@@ -2034,7 +2034,7 @@
       "price_net": 53.72,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 38,
+      "stock_quantity": 35,
       "url": "https://www.bikestylish.ro/antifurt-cu-cifru-sxt-fs5110-5d-15-x-1200-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/antifurt-cu-cifru-sxt-fs5110-5d-15-x-1200-mm-negru~13289310.jpg",
       "images": [
@@ -3045,8 +3045,8 @@
       "price": 45.0,
       "price_net": 37.19,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 1,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/direct-mounts-samox-pd-dm-gen-3-bosch-38-t-cl-47-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/direct-mounts-samox-pd-dm-gen-3-bosch-38-t-cl-47-mm~13793898.jpg",
@@ -4909,7 +4909,7 @@
       "price_net": 26.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 43,
+      "stock_quantity": 42,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/cheie-angrenaj-sxt-shimano-octalink-isis.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-angrenaj-sxt-shimano-octalink-isis~14681397.jpg",
@@ -5119,7 +5119,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 18,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/aparat-masurat-lantul-kmc.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/aparat-masurat-lantul-kmc~14681436.jpg",
@@ -7353,7 +7353,7 @@
       "name": "Unelte Service",
       "full_path": "COMPONENTE > Unelte Service",
       "product_count": 5,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "urechi-protectii-cadre",
@@ -7458,7 +7458,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 189,
-      "in_stock_count": 115
+      "in_stock_count": 114
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7521,14 +7521,14 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 50,
-      "in_stock_count": 39
+      "in_stock_count": 38
     },
     {
       "id": "bar-tape-accesorii",
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 38,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "bidoane-ciclism",
@@ -7598,7 +7598,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 91,
-      "in_stock_count": 55
+      "in_stock_count": 54
     },
     {
       "id": "capete-cablu-manta",
@@ -7619,7 +7619,7 @@
       "name": "➤ Cartuse CO2 - Accesorii Pompe",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Cartuse CO2 - Accesorii Pompe",
       "product_count": 5,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "casete-butuci",
@@ -7710,7 +7710,7 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 37,
-      "in_stock_count": 26
+      "in_stock_count": 27
     },
     {
       "id": "frane-disc",
@@ -8046,7 +8046,7 @@
       "name": "➤ Seturi Aparatori Noroi",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
       "product_count": 29,
-      "in_stock_count": 26
+      "in_stock_count": 27
     },
     {
       "id": "seturi-roti",
@@ -8144,7 +8144,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 178,
-      "in_stock_count": 149
+      "in_stock_count": 148
     },
     {
       "id": "urechi-cadru",

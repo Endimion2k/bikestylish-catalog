@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T03:13:21.133234+00:00",
+  "last_updated": "2026-09-22T03:12:09.805914+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -983,7 +983,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 3,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/pinion-e-bike-kmc-15t-1-2-11-128-bosch-gen-2.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pinion-e-bike-kmc-15t-1-2%E2%80%9411-128-bosch-gen-2~11601144.jpg",
@@ -3640,7 +3640,7 @@
       "price_net": 44.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 16,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/pompa-mini-m-wave-double-shot-b-dubla.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pompa-mini-m-wave-double-shot-b-dubla~8328976.jpg",
@@ -4088,7 +4088,7 @@
       "price_net": 128.1,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 20,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/janta-sxt-t-30-27-5-584-x-30c-32h-negru-capsata-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/janta-sxt-t-30-27-5-584-x-30c-32h-negru-capsata-negru~8329177.jpg",
@@ -4909,7 +4909,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 17,
       "weight_kg": 0.9,
       "url": "https://www.bikestylish.ro/cos-metal-spate-m-wave-41-5x30-5x17-15-cm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cos-metal-spate-m-wave-41-5x30-5x17-15-cm~8329438.jpg",
@@ -5990,8 +5990,8 @@
       "price": 63.0,
       "price_net": 52.07,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/banda-janta-tubeless-m-wave-30-mm-10-m.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/banda-janta-tubeless-m-wave-30-mm-10-m~8329885.jpg",
@@ -6017,7 +6017,7 @@
       "price_net": 52.07,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/banda-janta-tubeless-m-wave-35-mm-10-m.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/banda-janta-tubeless-m-wave-35-mm-10-m~8329891.jpg",
@@ -7511,7 +7511,7 @@
       "name": "Unelte Service",
       "full_path": "COMPONENTE > Unelte Service",
       "product_count": 5,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "urechi-protectii-cadre",
@@ -7616,7 +7616,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 189,
-      "in_stock_count": 115
+      "in_stock_count": 114
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7679,14 +7679,14 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 50,
-      "in_stock_count": 39
+      "in_stock_count": 38
     },
     {
       "id": "bar-tape-accesorii",
       "name": "➤ Bar Tape - Accesorii",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Bar Tape - Accesorii",
       "product_count": 38,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "bidoane-ciclism",
@@ -7756,7 +7756,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 91,
-      "in_stock_count": 55
+      "in_stock_count": 54
     },
     {
       "id": "capete-cablu-manta",
@@ -7777,7 +7777,7 @@
       "name": "➤ Cartuse CO2 - Accesorii Pompe",
       "full_path": "ACCESORII > Pompe Ciclism > ➤ Cartuse CO2 - Accesorii Pompe",
       "product_count": 5,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "casete-butuci",
@@ -7868,7 +7868,7 @@
       "name": "➤ Foi Angrenaje",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Foi Angrenaje",
       "product_count": 37,
-      "in_stock_count": 26
+      "in_stock_count": 27
     },
     {
       "id": "frane-disc",
@@ -8204,7 +8204,7 @@
       "name": "➤ Seturi Aparatori Noroi",
       "full_path": "ACCESORII > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
       "product_count": 29,
-      "in_stock_count": 26
+      "in_stock_count": 27
     },
     {
       "id": "seturi-roti",
@@ -8302,7 +8302,7 @@
       "name": "➤ Unelte Speciale Biciclete",
       "full_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
       "product_count": 178,
-      "in_stock_count": 149
+      "in_stock_count": 148
     },
     {
       "id": "urechi-cadru",
