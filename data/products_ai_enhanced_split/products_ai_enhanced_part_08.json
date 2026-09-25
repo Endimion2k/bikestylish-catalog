@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T03:11:56.180550+00:00",
+  "last_updated": "2026-09-25T03:11:39.643173+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -867,7 +867,7 @@
       "price_net": 136.36,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 3,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d635-bergamont-boardman.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d635-bergamont-boardman~8292439.jpg",
@@ -2212,7 +2212,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 150,
+      "stock_quantity": 145,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-74x95.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-plastic-sxt-74x95~8292589.jpg",
@@ -2269,8 +2269,8 @@
       "price": 132.0,
       "price_net": 109.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/thru-axle-12-x-148-mm-boost-standard-170-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/thru-axle-12-x-148-mm-boost-standard-170-mm~8292598.jpg",
@@ -4090,7 +4090,7 @@
       "price_net": 4.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 179,
+      "stock_quantity": 169,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/insertie-valva-pentru-fv.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/insertie-valva-pentru-fv~8324125.jpg",
@@ -4442,7 +4442,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 21,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-kourier-24x1-375-1-3-8-37-540.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-kenda-kourier-24x1-375-1-3-8-37-540~8324230.jpg",
@@ -5004,7 +5004,7 @@
       "price_net": 16.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 46,
+      "stock_quantity": 41,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/set-flash-cu-baterii-m-wave-cobra-iii.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/set-flash-cu-baterii-m-wave-cobra-iii~8324566.jpg",
@@ -5344,7 +5344,7 @@
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 24,
+      "stock_quantity": 21,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/sa-cu-arc-ventura-245-210-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sa-cu-arc-ventura-245-210-mm~8324764.jpg",
@@ -5430,7 +5430,7 @@
       "price_net": 14.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 11,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/colier-tija-sa-m-wave-clampy-qr-34-9-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/colier-tija-sa-m-wave-clampy-qr-34-9-mm-negru~8324788.jpg",
@@ -6227,7 +6227,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 1,
+      "stock_quantity": 2,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-stady-c-eco-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-plastic-sxt-stady-c-eco-negru~8325085.jpg",
@@ -7417,7 +7417,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7466,7 +7466,7 @@
       "name": "➤ Bidoane Ciclism",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "bike-care-ingrijire",
@@ -7669,7 +7669,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "huse-sa",
@@ -7697,14 +7697,14 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 50,
-      "in_stock_count": 21
+      "in_stock_count": 19
     },
     {
       "id": "jante-pentru-frane-v-brake",
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "lanturi",
@@ -7732,7 +7732,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "manete-frana-schimbator",
@@ -7816,7 +7816,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 93
+      "in_stock_count": 92
     },
     {
       "id": "pedaliere-angrenaje",

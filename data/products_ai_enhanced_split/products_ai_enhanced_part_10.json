@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T03:11:56.180550+00:00",
+  "last_updated": "2026-09-25T03:11:39.643173+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -2917,8 +2917,8 @@
       "price": 59.0,
       "price_net": 48.76,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 1,
       "weight_kg": 0.99,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-attachi-24x2-10-52-507.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kujo-attachi-24x2-10-52-507~8328694.jpg",
@@ -4467,8 +4467,8 @@
       "price": 79.0,
       "price_net": 65.29,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/janta-mach1-er-10-26-559-x-19c-36h-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/janta-mach1-er-10-26-559-x-19c-36h-negru~8329273.jpg",
       "images": [
@@ -4680,7 +4680,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 39,
+      "stock_quantity": 37,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/solutie-tubeless-vittoria-150-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/solutie-tubeless-vittoria-150-ml~12385944.jpg",
@@ -5932,7 +5932,7 @@
       "price_net": 100.0,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 3,
       "weight_kg": 0.39,
       "url": "https://www.bikestylish.ro/pipa-reglabila-promax-aluminiu-85-31-8-mm-1-1-8.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pipa-reglabila-promax-aluminiu-85-31-8-mm-1-1-8~8329852.jpg",
@@ -7644,7 +7644,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7693,7 +7693,7 @@
       "name": "➤ Bidoane Ciclism",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "bike-care-ingrijire",
@@ -7896,7 +7896,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "huse-sa",
@@ -7924,14 +7924,14 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 50,
-      "in_stock_count": 21
+      "in_stock_count": 19
     },
     {
       "id": "jante-pentru-frane-v-brake",
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "lanturi",
@@ -7959,7 +7959,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "manete-frana-schimbator",
@@ -8043,7 +8043,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 93
+      "in_stock_count": 92
     },
     {
       "id": "pedaliere-angrenaje",

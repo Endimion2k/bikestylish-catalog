@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T03:11:56.180550+00:00",
+  "last_updated": "2026-09-25T03:11:39.643173+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1236,8 +1236,8 @@
       "price": 59.0,
       "price_net": 48.76,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 4,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-plastic-rabatabile-sxt-9-16-98x65-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-aluminiu-plastic-rabatabile-sxt-9-16-98x65-mm~8280454.jpg",
@@ -1328,7 +1328,7 @@
       "price_net": 28.93,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 210,
+      "stock_quantity": 207,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-cu-pini-sxt-9-16-87x94-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-aluminiu-cu-pini-sxt-9-16-87x94-negru~8280463.jpg",
@@ -1832,7 +1832,7 @@
       "price_net": 77.69,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 54,
+      "stock_quantity": 53,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-flat-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-aluminiu-sxt-flat-negru~8280517.jpg",
@@ -4699,7 +4699,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 40,
+      "stock_quantity": 37,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/bidon-plastic-m-wave-pbo-700-ns.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/bidon-plastic-m-wave-pbo-700-ns~8282431.jpg",
@@ -4793,8 +4793,8 @@
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/bidon-plastic-m-wave-pbo-750-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/bidon-plastic-m-wave-pbo-750-negru~8282452.jpg",
@@ -5609,7 +5609,7 @@
       "price_net": 31.4,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 14,
       "weight_kg": 0.22,
       "url": "https://www.bikestylish.ro/brat-angrenaj-sxt-as-2-aluminiu-stanga-silver-170-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/brat-angrenaj-sxt-as-2-aluminiu-stanga-silver-170-mm~8281960.jpg",
@@ -5983,8 +5983,8 @@
       "price": 125.0,
       "price_net": 103.31,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.9,
       "url": "https://www.bikestylish.ro/angrenaj-pedalier-m-wave-44-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/angrenaj-pedalier-m-wave-44-t~8281999.jpg",
@@ -6433,7 +6433,7 @@
       "price_net": 36.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 19,
+      "stock_quantity": 18,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/monobloc-pedalier-neco-122-5-28-5-mm-cupe-metal-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/monobloc-pedalier-neco-122-5-28-5-mm-cupe-metal-silver~8282050.jpg",
@@ -7567,7 +7567,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7616,7 +7616,7 @@
       "name": "➤ Bidoane Ciclism",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "bike-care-ingrijire",
@@ -7819,7 +7819,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "huse-sa",
@@ -7847,14 +7847,14 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 50,
-      "in_stock_count": 21
+      "in_stock_count": 19
     },
     {
       "id": "jante-pentru-frane-v-brake",
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "lanturi",
@@ -7882,7 +7882,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "manete-frana-schimbator",
@@ -7966,7 +7966,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 93
+      "in_stock_count": 92
     },
     {
       "id": "pedaliere-angrenaje",

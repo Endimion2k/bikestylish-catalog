@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T03:11:56.180550+00:00",
+  "last_updated": "2026-09-25T03:11:39.643173+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1018,8 +1018,8 @@
       "price": 58.3,
       "price_net": 48.18,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/ghidon-touring-sxt-metal-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-touring-sxt-metal-negru~8325664.jpg",
@@ -1453,7 +1453,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 140,
+      "stock_quantity": 139,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-4-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-4-negru~8325799.jpg",
@@ -1967,7 +1967,7 @@
       "price_net": 38.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 43,
+      "stock_quantity": 40,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/far-pentru-dinam-an-lun-14-lux.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/far-pentru-dinam-an-lun-14-lux~8325997.jpg",
@@ -2052,7 +2052,7 @@
       "price_net": 44.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 11,
       "url": "https://www.bikestylish.ro/stop-spate-pentru-dinam-smart-standlight.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/stop-spate-pentru-dinam-smart-standlight~8326009.jpg",
       "images": [
@@ -2077,7 +2077,7 @@
       "price_net": 25.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 127,
+      "stock_quantity": 125,
       "url": "https://www.bikestylish.ro/stop-spate-cu-baterii-an-lun-vertical.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/stop-spate-cu-baterii-an-lun-vertical~8326015.jpg",
       "images": [
@@ -2302,7 +2302,7 @@
       "price_net": 100.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 29,
+      "stock_quantity": 28,
       "weight_kg": 1.2,
       "url": "https://www.bikestylish.ro/pompa-podea-beto-metal-dark-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pompa-podea-beto-metal-dark-silver~8326069.jpg",
@@ -6316,8 +6316,8 @@
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 11,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.95,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-mr-ramapo-24x2-10-54-507.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-kujo-mr-ramapo-24x2-10-54-507~8327260.jpg",
@@ -7407,7 +7407,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7456,7 +7456,7 @@
       "name": "➤ Bidoane Ciclism",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "bike-care-ingrijire",
@@ -7659,7 +7659,7 @@
       "name": "➤ Ghidoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Ghidoane",
       "product_count": 51,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "huse-sa",
@@ -7687,14 +7687,14 @@
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
       "product_count": 50,
-      "in_stock_count": 21
+      "in_stock_count": 19
     },
     {
       "id": "jante-pentru-frane-v-brake",
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 19,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "lanturi",
@@ -7722,7 +7722,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "manete-frana-schimbator",
@@ -7806,7 +7806,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 93
+      "in_stock_count": 92
     },
     {
       "id": "pedaliere-angrenaje",
