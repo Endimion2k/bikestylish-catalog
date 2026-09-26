@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-25T03:11:39.643173+00:00",
+  "last_updated": "2026-09-26T03:11:39.577956+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 6,
     "total_parts": 20,
     "product_range": "1251-1500",
-    "original_total": 4785
+    "original_total": 4793
   },
   "products": [
     {
@@ -337,7 +337,7 @@
       "price_net": 131.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 96,
+      "stock_quantity": 95,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/pedale-ht-pa12-verde-802c.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-pa12-verde-802c~8287747.jpg",
@@ -368,7 +368,7 @@
       "price_net": 131.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 24,
+      "stock_quantity": 23,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/pedale-ht-pa12-galben-793.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-pa12-galben-793~8287750.jpg",
@@ -399,7 +399,7 @@
       "price_net": 131.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 27,
+      "stock_quantity": 26,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/pedale-ht-pa12-rosu-186c.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-pa12-rosu-186c~8287753.jpg",
@@ -1888,8 +1888,8 @@
       "price": 19.8,
       "price_net": 16.36,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/suport-bidon-plastic-m-wave-bc-26-lateral.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/suport-bidon-plastic-m-wave-bc-26-lateral~8287909.jpg",
@@ -2181,7 +2181,7 @@
       "price_net": 80.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 80,
+      "stock_quantity": 79,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/set-manete-schimbator-sram-mrx-3-x-7-viteze-sh.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/set-manete-schimbator-sram-mrx-3-x-7-viteze-sh~8287942.jpg",
@@ -2837,8 +2837,8 @@
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/adaptor-ghidon-aluminiu-m-wave-31-8-25-4-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/adaptor-ghidon-aluminiu-m-wave-31-8-25-4-mm~8289016.jpg",
@@ -3531,7 +3531,7 @@
       "price_net": 16.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 82,
+      "stock_quantity": 80,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/cos-plastic-sxt-galben.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/cos-plastic-sxt-galben~8289094.jpg",
@@ -4695,7 +4695,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 78,
+      "stock_quantity": 77,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/lant-kmc-z6-114-zale-6-7-8-v.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-z6-114-zale-6-7-8-v~8289226.jpg",
@@ -7183,7 +7183,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 189,
+      "stock_quantity": 179,
       "weight_kg": 0.14,
       "url": "https://www.bikestylish.ro/camera-kujo-8-1-2x2-0-48-52-134-ventil-drept-av-22-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/camera-kujo-8-1-2x2-0-48-52-134-ventil-drept-av-22-mm~8289508.jpg",
@@ -7591,7 +7591,7 @@
       "name": "◼  Accesorii Camere Biciclete",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta > ◼  Accesorii Camere Biciclete",
       "product_count": 17,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "accesorii-aparatori-noroi",
@@ -7668,7 +7668,7 @@
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 189,
-      "in_stock_count": 114
+      "in_stock_count": 113
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7808,7 +7808,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 91,
-      "in_stock_count": 54
+      "in_stock_count": 53
     },
     {
       "id": "capete-cablu-manta",
@@ -7871,7 +7871,7 @@
       "name": "➤ Cosuri Transport Fata",
       "full_path": "ACCESORII > Cosuri Transport > ➤ Cosuri Transport Fata",
       "product_count": 21,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "cosuri-transport-spate",
@@ -7975,15 +7975,15 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 50,
-      "in_stock_count": 19
+      "product_count": 54,
+      "in_stock_count": 23
     },
     {
       "id": "jante-pentru-frane-v-brake",
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
-      "product_count": 19,
-      "in_stock_count": 16
+      "product_count": 23,
+      "in_stock_count": 20
     },
     {
       "id": "lanturi",
@@ -8312,7 +8312,7 @@
       "name": "➤ Suporturi Bidon",
       "full_path": "ACCESORII > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
       "product_count": 50,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "suruburi-piulite-saibe",
@@ -8361,7 +8361,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 408
+      "in_stock_count": 407
     },
     {
       "id": "bike-maintenance-intretinere",
