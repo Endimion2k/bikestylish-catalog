@@ -1,43 +1,14 @@
 {
-  "last_updated": "2026-09-26T03:11:39.577956+00:00",
+  "last_updated": "2026-09-27T03:12:38.905302+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
     "total_parts": 20,
     "product_range": "2251-2500",
-    "original_total": 4793
+    "original_total": 4798
   },
   "products": [
-    {
-      "id": "553020",
-      "sku": "553020",
-      "ean": "698238512022",
-      "name": "Camera KUJO 12.1/2—1.75+2.1/4 AV 33mm",
-      "brand": "KUJO",
-      "category": "➤ Camere de Bicicleta",
-      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
-      "price": 18.0,
-      "price_net": 14.88,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 13,
-      "weight_kg": 0.2,
-      "url": "https://www.bikestylish.ro/camera-kujo-12-1-2-1-75-2-1-4-av-33mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/camera-kujo-12-1-2%E2%80%941-75-2-1-4-av-33mm~8327551.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/camera-kujo-12-1-2%E2%80%941-75-2-1-4-av-33mm~8327551.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "KUJO",
-        "Schrader",
-        "➤ Camere de Bicicleta"
-      ],
-      "specs": {
-        "valve_type": "Schrader (AV)"
-      }
-    },
     {
       "id": "470168",
       "sku": "470168",
@@ -719,7 +690,7 @@
       "price_net": 67.77,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 19,
       "url": "https://www.bikestylish.ro/rola-manta-frana-2p-5-mm-sxt-25-m-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/rola-manta-frana-2p-5-mm-sxt-25-m-negru~8327779.jpg",
       "images": [
@@ -4457,36 +4428,6 @@
       }
     },
     {
-      "id": "M815.559.36.08-10",
-      "sku": "M815.559.36.08-10",
-      "ean": "604606900XX",
-      "name": "Janta MACH1 ER-10 26(559 x 19C) - 36H Negru",
-      "brand": "MACH 1",
-      "category": "➤ Jante pentru Frane V-Brake",
-      "category_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
-      "price": 79.0,
-      "price_net": 65.29,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/janta-mach1-er-10-26-559-x-19c-36h-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/janta-mach1-er-10-26-559-x-19c-36h-negru~8329273.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/janta-mach1-er-10-26-559-x-19c-36h-negru~8329273.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/janta-mach1-er-10-26-559-x-19c-36h-negru~8329276.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/janta-mach1-er-10-26-559-x-19c-36h-negru~8329279.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "MACH 1",
-        "➤ Jante pentru Frane V-Brake"
-      ],
-      "specs": {
-        "color": "Negru",
-        "dimensions": "559 x 19"
-      }
-    },
-    {
       "id": "C102720",
       "sku": "C102720",
       "ean": "4550170451004",
@@ -7279,6 +7220,70 @@
         ],
         "color": "Rosu"
       }
+    },
+    {
+      "id": "659868",
+      "sku": "659868",
+      "ean": "2801480000003",
+      "name": "Maneta Frana M365, M365 Pro, Essential, 1S si Pro 2",
+      "brand": "SXT",
+      "category": "Trotinete Electrice",
+      "category_path": "e- MOBILITY > Trotinete Electrice",
+      "price": 58.3,
+      "price_net": 48.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/maneta-frana-m365-m365-pro-essential-1s-si-pro-2.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/maneta-frana-m365-m365-pro-essential-1s-si-pro-2~8330245.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/maneta-frana-m365-m365-pro-essential-1s-si-pro-2~8330245.jpg"
+      ],
+      "tags": [
+        "1 viteze",
+        "E-Bike",
+        "SXT",
+        "Trotinete Electrice",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ],
+        "speeds": 1
+      }
+    },
+    {
+      "id": "553057",
+      "sku": "553057",
+      "ean": "2801864000001",
+      "name": "Camera SXT 8-1/2x2.0(48/52-134) Ventil Drept AV -22 mm",
+      "brand": "SXT",
+      "category": "Trotinete Electrice",
+      "category_path": "e- MOBILITY > Trotinete Electrice",
+      "price": 27.5,
+      "price_net": 22.73,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/camera-sxt-8-1-2x2-0-48-52-134-ventil-drept-av-22-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/camera-sxt-8-1-2x2-0-48-52-134-ventil-drept-av-22-mm~8330248.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/camera-sxt-8-1-2x2-0-48-52-134-ventil-drept-av-22-mm~8330248.jpg"
+      ],
+      "tags": [
+        "E-Bike",
+        "SXT",
+        "Schrader",
+        "Trotinete Electrice",
+        "e- MOBILITY"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ],
+        "valve_type": "Schrader (AV)"
+      }
     }
   ],
   "categories": [
@@ -7923,15 +7928,15 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 54,
-      "in_stock_count": 23
+      "product_count": 57,
+      "in_stock_count": 30
     },
     {
       "id": "jante-pentru-frane-v-brake",
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 23,
-      "in_stock_count": 20
+      "in_stock_count": 21
     },
     {
       "id": "lanturi",
@@ -8133,15 +8138,15 @@
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
-      "product_count": 32,
-      "in_stock_count": 27
+      "product_count": 33,
+      "in_stock_count": 28
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
-      "product_count": 45,
-      "in_stock_count": 32
+      "product_count": 46,
+      "in_stock_count": 33
     },
     {
       "id": "rucsaci",

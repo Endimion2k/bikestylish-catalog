@@ -1,39 +1,14 @@
 {
-  "last_updated": "2026-09-26T03:11:39.577956+00:00",
+  "last_updated": "2026-09-27T03:12:38.905302+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 8,
     "total_parts": 20,
     "product_range": "1751-2000",
-    "original_total": 4793
+    "original_total": 4798
   },
   "products": [
-    {
-      "id": "D384",
-      "sku": "D384",
-      "ean": "7290107113861",
-      "name": "Ureche Cadru PILO D384 Cube Sting WLS 140 SL 27.5",
-      "brand": "PILO",
-      "category": "➤ Urechi Cadru",
-      "category_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
-      "price": 165.0,
-      "price_net": 136.36,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 4,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d384-cube-sting-wls-140-sl-27-5.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d384-cube-sting-wls-140-sl-27-5~8292340.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d384-cube-sting-wls-140-sl-27-5~8292340.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "PILO",
-        "➤ Urechi Cadru"
-      ]
-    },
     {
       "id": "D392",
       "sku": "D392",
@@ -4624,7 +4599,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 415,
+      "stock_quantity": 414,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -7052,6 +7027,34 @@
         "material": "Plastic",
         "color": "Negru"
       }
+    },
+    {
+      "id": "360691",
+      "sku": "360691",
+      "ean": "887539023287",
+      "name": "Kit Service Frane Hidraulice M-WAVE BRAKE DOC BOX",
+      "brand": "M-WAVE",
+      "category": "➤ Unelte Speciale Biciclete",
+      "category_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "price": 715.0,
+      "price_net": 590.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/kit-service-frane-hidraulice-m-wave-brake-doc-box.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/kit-service-frane-hidraulice-m-wave-brake-doc-box~8325346.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/kit-service-frane-hidraulice-m-wave-brake-doc-box~8325346.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/kit-service-frane-hidraulice-m-wave-brake-doc-box~8325349.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/kit-service-frane-hidraulice-m-wave-brake-doc-box~8325352.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/kit-service-frane-hidraulice-m-wave-brake-doc-box~8325355.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/kit-service-frane-hidraulice-m-wave-brake-doc-box~8325358.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "M-WAVE",
+        "➤ Unelte Speciale Biciclete"
+      ]
     }
   ],
   "categories": [
@@ -7696,15 +7699,15 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 54,
-      "in_stock_count": 23
+      "product_count": 57,
+      "in_stock_count": 30
     },
     {
       "id": "jante-pentru-frane-v-brake",
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 23,
-      "in_stock_count": 20
+      "in_stock_count": 21
     },
     {
       "id": "lanturi",
@@ -7906,15 +7909,15 @@
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
-      "product_count": 32,
-      "in_stock_count": 27
+      "product_count": 33,
+      "in_stock_count": 28
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
-      "product_count": 45,
-      "in_stock_count": 32
+      "product_count": 46,
+      "in_stock_count": 33
     },
     {
       "id": "rucsaci",

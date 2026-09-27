@@ -1,42 +1,14 @@
 {
-  "last_updated": "2026-09-26T03:11:39.577956+00:00",
+  "last_updated": "2026-09-27T03:12:38.905302+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 20,
     "product_range": "2001-2250",
-    "original_total": 4793
+    "original_total": 4798
   },
   "products": [
-    {
-      "id": "360691",
-      "sku": "360691",
-      "ean": "887539023287",
-      "name": "Kit Service Frane Hidraulice M-WAVE BRAKE DOC BOX",
-      "brand": "M-WAVE",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "COMPONENTE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "price": 715.0,
-      "price_net": 590.91,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/kit-service-frane-hidraulice-m-wave-brake-doc-box.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/kit-service-frane-hidraulice-m-wave-brake-doc-box~8325346.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/kit-service-frane-hidraulice-m-wave-brake-doc-box~8325346.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/kit-service-frane-hidraulice-m-wave-brake-doc-box~8325349.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/kit-service-frane-hidraulice-m-wave-brake-doc-box~8325352.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/kit-service-frane-hidraulice-m-wave-brake-doc-box~8325355.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/kit-service-frane-hidraulice-m-wave-brake-doc-box~8325358.jpg"
-      ],
-      "tags": [
-        "COMPONENTE",
-        "M-WAVE",
-        "➤ Unelte Speciale Biciclete"
-      ]
-    },
     {
       "id": "365901",
       "sku": "365901",
@@ -7042,6 +7014,35 @@
         "dimensions": "26 x 1.75-2.125",
         "valve_type": "Presta (FV)"
       }
+    },
+    {
+      "id": "553020",
+      "sku": "553020",
+      "ean": "698238512022",
+      "name": "Camera KUJO 12.1/2—1.75+2.1/4 AV 33mm",
+      "brand": "KUJO",
+      "category": "➤ Camere de Bicicleta",
+      "category_path": "COMPONENTE > Anvelope - Camere > ➤ Camere de Bicicleta",
+      "price": 18.0,
+      "price_net": 14.88,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 13,
+      "weight_kg": 0.2,
+      "url": "https://www.bikestylish.ro/camera-kujo-12-1-2-1-75-2-1-4-av-33mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/camera-kujo-12-1-2%E2%80%941-75-2-1-4-av-33mm~8327551.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/camera-kujo-12-1-2%E2%80%941-75-2-1-4-av-33mm~8327551.jpg"
+      ],
+      "tags": [
+        "COMPONENTE",
+        "KUJO",
+        "Schrader",
+        "➤ Camere de Bicicleta"
+      ],
+      "specs": {
+        "valve_type": "Schrader (AV)"
+      }
     }
   ],
   "categories": [
@@ -7686,15 +7687,15 @@
       "id": "jante-pentru-frane-disc",
       "name": "➤ Jante pentru Frane Disc",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 54,
-      "in_stock_count": 23
+      "product_count": 57,
+      "in_stock_count": 30
     },
     {
       "id": "jante-pentru-frane-v-brake",
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 23,
-      "in_stock_count": 20
+      "in_stock_count": 21
     },
     {
       "id": "lanturi",
@@ -7896,15 +7897,15 @@
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
-      "product_count": 32,
-      "in_stock_count": 27
+      "product_count": 33,
+      "in_stock_count": 28
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
-      "product_count": 45,
-      "in_stock_count": 32
+      "product_count": 46,
+      "in_stock_count": 33
     },
     {
       "id": "rucsaci",
