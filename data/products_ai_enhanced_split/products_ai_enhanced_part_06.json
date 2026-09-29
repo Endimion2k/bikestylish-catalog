@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-28T03:15:50.771751+00:00",
+  "last_updated": "2026-09-29T03:12:21.980673+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 6,
     "total_parts": 20,
     "product_range": "1251-1500",
-    "original_total": 4798
+    "original_total": 4800
   },
   "products": [
     {
@@ -789,7 +789,7 @@
       "price_net": 72.73,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/sa-m-wave-vacu-comp-l.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/sa-m-wave-vacu-comp-l~8287795.jpg",
@@ -1006,8 +1006,8 @@
       "price": 225.0,
       "price_net": 185.95,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 20,
       "url": "https://www.bikestylish.ro/roata-fata-sxt-26-559-x-19c-sxt-basic-qr-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/roata-fata-sxt-26-559-x-19c-sxt-basic-qr-36h~8287819.jpg",
       "images": [
@@ -1196,8 +1196,8 @@
       "price": 225.0,
       "price_net": 185.95,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 20,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-26-559x19c-basic-qr-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-26-559x19c-basic-qr-36h~8287837.jpg",
       "images": [
@@ -1228,7 +1228,7 @@
       "price_net": 185.95,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 29,
+      "stock_quantity": 28,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-28-29-622-x-19c-basic-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-sxt-28-29-622-x-19c-basic-36h~8287840.jpg",
       "images": [
@@ -1952,7 +1952,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 30,
+      "stock_quantity": 29,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/set-aparatori-noroi-m-wave-mud-max-universal-26-29-lat-50-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-aparatori-noroi-m-wave-mud-max-universal-26-29-lat-50-mm~8287918.jpg",
@@ -2644,7 +2644,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.13,
       "url": "https://www.bikestylish.ro/oglinda-bicicleta-m-wave-spy-base-3d.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/oglinda-bicicleta-m-wave-spy-base-3d~8288992.jpg",
@@ -3014,7 +3014,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 140,
+      "stock_quantity": 138,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/set-leviere-anvelope-3-buc-m-wave-tp-l1-plastic.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-leviere-anvelope-3-buc-m-wave-tp-l1-plastic~8289034.jpg",
@@ -4695,7 +4695,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 77,
+      "stock_quantity": 76,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/lant-kmc-z6-114-zale-6-7-8-v.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-z6-114-zale-6-7-8-v~8289226.jpg",
@@ -6036,7 +6036,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 10,
+      "stock_quantity": 9,
       "weight_kg": 0.39,
       "url": "https://www.bikestylish.ro/monobloc-pedalier-ventura-136-37-mm-rotund.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/monobloc-pedalier-ventura-136-37-mm-rotund~8289364.jpg",
@@ -7864,7 +7864,7 @@
       "name": "➤ Coliere Tija Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "cosuri-transport-fata",
@@ -7996,8 +7996,8 @@
       "id": "lumini-fata",
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
-      "product_count": 29,
-      "in_stock_count": 25
+      "product_count": 30,
+      "in_stock_count": 26
     },
     {
       "id": "lumini-spate",
@@ -8095,7 +8095,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 92
+      "in_stock_count": 91
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8186,14 +8186,14 @@
       "name": "➤ Roti Fata",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "product_count": 33,
-      "in_stock_count": 28
+      "in_stock_count": 30
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "product_count": 46,
-      "in_stock_count": 33
+      "in_stock_count": 42
     },
     {
       "id": "rucsaci",
@@ -8214,7 +8214,7 @@
       "name": "➤ Saboti Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Saboti Frana",
       "product_count": 17,
-      "in_stock_count": 11
+      "in_stock_count": 12
     },
     {
       "id": "scaune-bicicleta-copii",
@@ -8235,7 +8235,7 @@
       "name": "➤ Schimbatoare Spate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "sei",
@@ -8262,8 +8262,8 @@
       "id": "seturi-roti",
       "name": "➤ Seturi Roti",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
-      "product_count": 24,
-      "in_stock_count": 21
+      "product_count": 25,
+      "in_stock_count": 22
     },
     {
       "id": "sistem-velo-fit",
@@ -8375,7 +8375,7 @@
       "name": "➤Depozitare Biciclete",
       "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "suspensii-spate",

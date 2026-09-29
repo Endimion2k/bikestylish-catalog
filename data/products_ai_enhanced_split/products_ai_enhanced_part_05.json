@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-28T03:15:50.771751+00:00",
+  "last_updated": "2026-09-29T03:12:21.980673+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 5,
     "total_parts": 20,
     "product_range": "1001-1250",
-    "original_total": 4798
+    "original_total": 4800
   },
   "products": [
     {
@@ -2758,8 +2758,8 @@
       "price": 225.0,
       "price_net": 185.95,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 30,
       "url": "https://www.bikestylish.ro/roata-fata-sxt-26-559-x-19c-sxt-basic-36h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-fata-sxt-26-559-x-19c-sxt-basic-36h~8286787.jpg",
       "images": [
@@ -4387,7 +4387,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 122,
+      "stock_quantity": 112,
       "weight_kg": 0.17,
       "url": "https://www.bikestylish.ro/camera-kujo-20-x-1-75-2-125-av-33-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/camera-kujo-20-x-1-75-2-125-av-33-mm~8287396.jpg",
@@ -6335,7 +6335,7 @@
       "price_net": 24.79,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 161,
+      "stock_quantity": 159,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/placute-frana-m-wave-shimano-tektro-promax-organice.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/placute-frana-m-wave-shimano-tektro-promax-organice~8287612.jpg",
@@ -7856,7 +7856,7 @@
       "name": "➤ Coliere Tija Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "cosuri-transport-fata",
@@ -7988,8 +7988,8 @@
       "id": "lumini-fata",
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
-      "product_count": 29,
-      "in_stock_count": 25
+      "product_count": 30,
+      "in_stock_count": 26
     },
     {
       "id": "lumini-spate",
@@ -8087,7 +8087,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 92
+      "in_stock_count": 91
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8178,14 +8178,14 @@
       "name": "➤ Roti Fata",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "product_count": 33,
-      "in_stock_count": 28
+      "in_stock_count": 30
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "product_count": 46,
-      "in_stock_count": 33
+      "in_stock_count": 42
     },
     {
       "id": "rucsaci",
@@ -8206,7 +8206,7 @@
       "name": "➤ Saboti Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Saboti Frana",
       "product_count": 17,
-      "in_stock_count": 11
+      "in_stock_count": 12
     },
     {
       "id": "scaune-bicicleta-copii",
@@ -8227,7 +8227,7 @@
       "name": "➤ Schimbatoare Spate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "sei",
@@ -8254,8 +8254,8 @@
       "id": "seturi-roti",
       "name": "➤ Seturi Roti",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
-      "product_count": 24,
-      "in_stock_count": 21
+      "product_count": 25,
+      "in_stock_count": 22
     },
     {
       "id": "sistem-velo-fit",
@@ -8367,7 +8367,7 @@
       "name": "➤Depozitare Biciclete",
       "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "suspensii-spate",

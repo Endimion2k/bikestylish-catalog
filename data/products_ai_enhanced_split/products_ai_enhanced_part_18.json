@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-28T03:15:50.771751+00:00",
+  "last_updated": "2026-09-29T03:12:21.980673+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 18,
     "total_parts": 20,
     "product_range": "4251-4500",
-    "original_total": 4798
+    "original_total": 4800
   },
   "products": [
     {
@@ -1412,8 +1412,8 @@
       "price": 877.8,
       "price_net": 725.45,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-27-5-584x30c-txn-12-148-32h-sram.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-sxt-27-5-584x30c-txn-12-148-32h-sram~10362159.jpg",
       "images": [
@@ -1691,7 +1691,7 @@
       "price_net": 14.88,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 119,
+      "stock_quantity": 118,
       "weight_kg": 0.16,
       "url": "https://www.bikestylish.ro/stegulet-reflectorizant-m-wave-150-cm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/stegulet-reflectorizant-m-wave-150-cm~10362213.jpg",
@@ -3637,7 +3637,7 @@
       "price_net": 151.81,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 1,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1009.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1009~11282415.jpg",
@@ -5202,7 +5202,7 @@
       "price_net": 44.0,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 1,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/accesoriu-home-trainer.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/accesoriu-home-trainer~12003702.jpg",
@@ -6492,7 +6492,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 40,
+      "stock_quantity": 38,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/cheie-pinioane-sxt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cheie-pinioane-sxt~12073686.jpg",
@@ -7210,7 +7210,7 @@
       "name": "➤ Coliere Tija Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "cosuri-transport-fata",
@@ -7342,8 +7342,8 @@
       "id": "lumini-fata",
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
-      "product_count": 29,
-      "in_stock_count": 25
+      "product_count": 30,
+      "in_stock_count": 26
     },
     {
       "id": "lumini-spate",
@@ -7441,7 +7441,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 92
+      "in_stock_count": 91
     },
     {
       "id": "pedaliere-angrenaje",
@@ -7532,14 +7532,14 @@
       "name": "➤ Roti Fata",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "product_count": 33,
-      "in_stock_count": 28
+      "in_stock_count": 30
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "product_count": 46,
-      "in_stock_count": 33
+      "in_stock_count": 42
     },
     {
       "id": "rucsaci",
@@ -7560,7 +7560,7 @@
       "name": "➤ Saboti Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Saboti Frana",
       "product_count": 17,
-      "in_stock_count": 11
+      "in_stock_count": 12
     },
     {
       "id": "scaune-bicicleta-copii",
@@ -7581,7 +7581,7 @@
       "name": "➤ Schimbatoare Spate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "sei",
@@ -7608,8 +7608,8 @@
       "id": "seturi-roti",
       "name": "➤ Seturi Roti",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
-      "product_count": 24,
-      "in_stock_count": 21
+      "product_count": 25,
+      "in_stock_count": 22
     },
     {
       "id": "sistem-velo-fit",
@@ -7721,7 +7721,7 @@
       "name": "➤Depozitare Biciclete",
       "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "suspensii-spate",

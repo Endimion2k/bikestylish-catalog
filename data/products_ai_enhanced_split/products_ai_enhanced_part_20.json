@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-28T03:15:50.771751+00:00",
-  "total_products": 48,
+  "last_updated": "2026-09-29T03:12:21.980673+00:00",
+  "total_products": 50,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 20,
     "total_parts": 20,
-    "product_range": "4751-4798",
-    "original_total": 4798
+    "product_range": "4751-4800",
+    "original_total": 4800
   },
   "products": [
     {
@@ -1304,6 +1304,65 @@
       "specs": {
         "dimensions": "507 x 21"
       }
+    },
+    {
+      "id": "7580346",
+      "sku": "7580346",
+      "ean": "2802060000000",
+      "name": "Far cu Baterii SXT 1 Led(20 Lumen) MARO",
+      "brand": "SXT",
+      "category": "➤ Lumini Fata",
+      "category_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
+      "price": 48.4,
+      "price_net": 40.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 21,
+      "url": "https://www.bikestylish.ro/far-cu-baterii-sxt-1-led-20-lumen-maro.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/far-cu-baterii-sxt-1-led-20-lumen-maro~15471510.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/far-cu-baterii-sxt-1-led-20-lumen-maro~15471510.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/far-cu-baterii-sxt-1-led-20-lumen-maro~15471831.jpg"
+      ],
+      "tags": [
+        "ACCESORII",
+        "SXT",
+        "➤ Lumini Fata"
+      ]
+    },
+    {
+      "id": "388202",
+      "sku": "388202",
+      "name": "Set ROTI SXT CX40 28(622 x 17C) 20H - 24H Novatec",
+      "brand": "SXT",
+      "category": "➤ Seturi Roti",
+      "category_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
+      "price": 990.0,
+      "price_net": 818.18,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 3,
+      "url": "https://www.bikestylish.ro/set-roti-sxt-cx40-28-622-x-17c-20h-24h-novatec.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/set-roti-sxt-cx40-28-622-x-17c-20h-24h-novatec~15473946.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/set-roti-sxt-cx40-28-622-x-17c-20h-24h-novatec~15473946.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/set-roti-sxt-cx40-28-622-x-17c-20h-24h-novatec~15474141.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-sxt-cx40-28-622-x-17c-20h-24h-novatec~15474138.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/set-roti-sxt-cx40-28-622-x-17c-20h-24h-novatec~15475479.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/set-roti-sxt-cx40-28-622-x-17c-20h-24h-novatec~15475482.jpg"
+      ],
+      "tags": [
+        "Gravel",
+        "ROTI BICICLETA",
+        "SXT",
+        "➤ Seturi Roti"
+      ],
+      "specs": {
+        "bike_type": [
+          "Gravel"
+        ],
+        "dimensions": "622 x 17"
+      }
     }
   ],
   "categories": [
@@ -1837,7 +1896,7 @@
       "name": "➤ Coliere Tija Sa",
       "full_path": "COMPONENTE > Sei - Tije - Coliere > ➤ Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "cosuri-transport-fata",
@@ -1969,8 +2028,8 @@
       "id": "lumini-fata",
       "name": "➤ Lumini Fata",
       "full_path": "ACCESORII > Lumini - Accesorii > ➤ Lumini Fata",
-      "product_count": 29,
-      "in_stock_count": 25
+      "product_count": 30,
+      "in_stock_count": 26
     },
     {
       "id": "lumini-spate",
@@ -2068,7 +2127,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 92
+      "in_stock_count": 91
     },
     {
       "id": "pedaliere-angrenaje",
@@ -2159,14 +2218,14 @@
       "name": "➤ Roti Fata",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
       "product_count": 33,
-      "in_stock_count": 28
+      "in_stock_count": 30
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
       "product_count": 46,
-      "in_stock_count": 33
+      "in_stock_count": 42
     },
     {
       "id": "rucsaci",
@@ -2187,7 +2246,7 @@
       "name": "➤ Saboti Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Saboti Frana",
       "product_count": 17,
-      "in_stock_count": 11
+      "in_stock_count": 12
     },
     {
       "id": "scaune-bicicleta-copii",
@@ -2208,7 +2267,7 @@
       "name": "➤ Schimbatoare Spate",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "sei",
@@ -2235,8 +2294,8 @@
       "id": "seturi-roti",
       "name": "➤ Seturi Roti",
       "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
-      "product_count": 24,
-      "in_stock_count": 21
+      "product_count": 25,
+      "in_stock_count": 22
     },
     {
       "id": "sistem-velo-fit",
@@ -2348,7 +2407,7 @@
       "name": "➤Depozitare Biciclete",
       "full_path": "ACCESORII > Transport - Depozitare > ➤Depozitare Biciclete",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "suspensii-spate",
