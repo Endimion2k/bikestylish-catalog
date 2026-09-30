@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-29T03:12:21.980673+00:00",
+  "last_updated": "2026-09-30T03:14:36.369392+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 2,
     "total_parts": 20,
     "product_range": "251-500",
-    "original_total": 4800
+    "original_total": 4804
   },
   "products": [
     {
@@ -48,7 +48,7 @@
       "price_net": 68.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "url": "https://www.bikestylish.ro/set-chei-nipluri-cnspoke.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-chei-nipluri-cnspoke~8280334.jpg",
       "images": [
@@ -1676,7 +1676,7 @@
       "price_net": 16.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 128,
+      "stock_quantity": 125,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-k3-79x97-72x95.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-plastic-sxt-k3-79x97-72x95~8280502.jpg",
@@ -2509,7 +2509,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 8,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/qr-spate-135-mm-sxt-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/qr-spate-135-mm-sxt-negru~8280592.jpg",
@@ -2787,8 +2787,8 @@
       "price": 231.0,
       "price_net": 190.91,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 1,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/pedale-ht-pa03a-pini-detasabili-albastru-dark.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-pa03a-pini-detasabili-albastru-dark~8280622.jpg",
@@ -3139,7 +3139,7 @@
       "price_net": 144.63,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 474,
+      "stock_quantity": 473,
       "weight_kg": 0.44,
       "url": "https://www.bikestylish.ro/pedale-ht-pa12a-negru-pini-detasabili.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-pa12a-negru-pini-detasabili~8280658.jpg",
@@ -6192,7 +6192,7 @@
       "price_net": 161.98,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "weight_kg": 0.9,
       "url": "https://www.bikestylish.ro/angrenaj-pedalier-m-wave-34-50t-9-v.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/angrenaj-pedalier-m-wave-34-50t-9-v~8282026.jpg",
@@ -7455,7 +7455,7 @@
       "name": "e- MOBILITY",
       "full_path": "e- MOBILITY",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "accesorii-camere-biciclete",
@@ -7531,14 +7531,14 @@
       "id": "anvelope-pliabile",
       "name": "➤ Anvelope Pliabile",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope Pliabile",
-      "product_count": 93,
-      "in_stock_count": 53
+      "product_count": 94,
+      "in_stock_count": 54
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Anvelope pe Sârmă",
-      "product_count": 189,
+      "product_count": 190,
       "in_stock_count": 113
     },
     {
@@ -7546,7 +7546,7 @@
       "name": "➤ Aparatori Angrenaj - Accesorii",
       "full_path": "COMPONENTE > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Aparatori Angrenaj - Accesorii",
       "product_count": 9,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "aparatori-noroi-fata",
@@ -7567,7 +7567,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "COMPONENTE > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 41
+      "in_stock_count": 40
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7601,8 +7601,8 @@
       "id": "banda-janta-tubeless",
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "COMPONENTE > Anvelope - Camere > ➤ Banda Janta - Tubeless",
-      "product_count": 50,
-      "in_stock_count": 38
+      "product_count": 52,
+      "in_stock_count": 39
     },
     {
       "id": "bar-tape-accesorii",
@@ -7854,7 +7854,7 @@
       "name": "➤ Jante pentru Frane V-Brake",
       "full_path": "COMPONENTE > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
       "product_count": 23,
-      "in_stock_count": 21
+      "in_stock_count": 22
     },
     {
       "id": "lanturi",
@@ -7882,7 +7882,7 @@
       "name": "➤ Manete Frana",
       "full_path": "COMPONENTE > Sisteme Franare > ➤ Manete Frana",
       "product_count": 19,
-      "in_stock_count": 14
+      "in_stock_count": 13
     },
     {
       "id": "manete-frana-schimbator",
@@ -7903,7 +7903,7 @@
       "name": "➤ Mansoane",
       "full_path": "COMPONENTE > Ghidoane - Mansoane - Pipe > ➤ Mansoane",
       "product_count": 96,
-      "in_stock_count": 71
+      "in_stock_count": 70
     },
     {
       "id": "mantale",
@@ -7952,7 +7952,7 @@
       "name": "➤ Pedale Click",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Click",
       "product_count": 27,
-      "in_stock_count": 18
+      "in_stock_count": 19
     },
     {
       "id": "pedale-duble",
@@ -7966,7 +7966,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "COMPONENTE > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 91
+      "in_stock_count": 92
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8055,14 +8055,14 @@
     {
       "id": "roti-fata",
       "name": "➤ Roti Fata",
-      "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Fata",
+      "full_path": "ROTI BICICLETA > ROTI BICICLETA > ⬤ Roti > ➤ Roti Fata",
       "product_count": 33,
       "in_stock_count": 30
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
-      "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Roti Spate",
+      "full_path": "ROTI BICICLETA > ROTI BICICLETA > ⬤ Roti > ➤ Roti Spate",
       "product_count": 46,
       "in_stock_count": 42
     },
@@ -8132,7 +8132,7 @@
     {
       "id": "seturi-roti",
       "name": "➤ Seturi Roti",
-      "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti > ➤ Seturi Roti",
+      "full_path": "ROTI BICICLETA > ROTI BICICLETA > ⬤ Roti > ➤ Seturi Roti",
       "product_count": 25,
       "in_stock_count": 22
     },
@@ -8232,7 +8232,7 @@
       "name": "➤ Urechi Cadru",
       "full_path": "COMPONENTE > Urechi - Protectii - Cadre > ➤ Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 407
+      "in_stock_count": 405
     },
     {
       "id": "bike-maintenance-intretinere",
@@ -8279,7 +8279,7 @@
     {
       "id": "roti",
       "name": "⬤ Roti",
-      "full_path": "ROTI BICICLETA > ROTI > ⬤ Roti",
+      "full_path": "ROTI BICICLETA > ROTI BICICLETA > ⬤ Roti",
       "product_count": 4,
       "in_stock_count": 3
     }
