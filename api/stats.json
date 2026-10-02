@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-10-01T03:16:49.253950+00:00",
+  "last_updated": "2026-10-02T03:12:41.515207+00:00",
   "catalog": {
-    "total_products": 4803,
+    "total_products": 4808,
     "total_categories": 154,
     "total_brands": 37,
     "total_parts": 20,
     "products_per_part": 250
   },
   "availability": {
-    "in_stock": 1802,
-    "limited": 1146,
-    "out_of_stock": 1855
+    "in_stock": 1796,
+    "limited": 1155,
+    "out_of_stock": 1857
   },
   "pricing": {
     "currency": "RON",
     "min_price": 0.3,
     "max_price": 1749998.8,
-    "avg_price": 725.04
+    "avg_price": 723.86
   },
   "top_brands": {
     "PILO": 1102,
-    "SXT": 938,
+    "SXT": 942,
     "M-WAVE": 779,
     "cnSPOKE": 270,
     "VITTORIA": 235,
@@ -33,8 +33,8 @@
     "SHIMANO": 87,
     "KMC": 85,
     "VENTURA": 75,
+    "Unknown": 58,
     "KUJO": 57,
-    "Unknown": 56,
     "PROMAX": 51,
     "AUTHOR": 44,
     "MACH 1": 41,
