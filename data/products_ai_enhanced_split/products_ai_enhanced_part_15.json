@@ -1,123 +1,14 @@
 {
-  "last_updated": "2026-10-02T03:12:41.405049+00:00",
+  "last_updated": "2026-10-03T03:20:52.630671+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 15,
     "total_parts": 20,
     "product_range": "3501-3750",
-    "original_total": 4808
+    "original_total": 4803
   },
   "products": [
-    {
-      "id": "BBM97",
-      "sku": "BBM97",
-      "ean": "4710944233827",
-      "name": "Monobloc Pedalier SUNRACE BBM97 - MTB Shimano",
-      "category": "➤ Monobloace - B.B.",
-      "category_path": "Componente Bicicleta > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > ➤ Monobloace - B.B.",
-      "price": 137.5,
-      "price_net": 113.64,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "url": "https://www.bikestylish.ro/monobloc-pedalier-sunrace-bbm97-mtb-shimano.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/monobloc-pedalier-sunrace-bbm97-mtb-shimano~8337199.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/monobloc-pedalier-sunrace-bbm97-mtb-shimano~8337199.jpg"
-      ],
-      "tags": [
-        "Componente Bicicleta",
-        "MTB",
-        "➤ Monobloace - B.B."
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ]
-      }
-    },
-    {
-      "id": "CN11ES",
-      "sku": "CN11ES",
-      "ean": "4710944264876",
-      "name": "Lant SUNRACE CN11E Silver 11 v 138 z E-Bike",
-      "category": "➤ Lanturi",
-      "category_path": "Componente Bicicleta > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
-      "secondary_categories": [
-        "E-Mobility > Componente E-Bike"
-      ],
-      "price": 154.0,
-      "price_net": 127.27,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
-      "url": "https://www.bikestylish.ro/lant-sunrace-cn11e-silver-11-v-138-z-e-bike.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/lant-sunrace-cn11e-silver-11-v-138-z-e-bike~8337208.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/lant-sunrace-cn11e-silver-11-v-138-z-e-bike~8337208.jpg"
-      ],
-      "tags": [
-        "Componente Bicicleta",
-        "E-Bike",
-        "➤ Lanturi"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ],
-        "color": "Silver"
-      }
-    },
-    {
-      "id": "CNM94",
-      "sku": "CNM94",
-      "ean": "4710944223767",
-      "name": "Lant SUNRACE CNM94 116 Z",
-      "category": "➤ Lanturi",
-      "category_path": "Componente Bicicleta > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
-      "price": 60.5,
-      "price_net": 50.0,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 11,
-      "url": "https://www.bikestylish.ro/lant-sunrace-cnm94-116-z.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/lant-sunrace-cnm94-116-z~8337214.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/lant-sunrace-cnm94-116-z~8337214.jpg"
-      ],
-      "tags": [
-        "Componente Bicicleta",
-        "➤ Lanturi"
-      ]
-    },
-    {
-      "id": "RDRS2",
-      "sku": "RDRS2",
-      "ean": "4710944258448",
-      "name": "Schimbator Spate SUNRACE RDRS2 9/10v Brat Scurt Silver",
-      "category": "➤ Schimbatoare Spate",
-      "category_path": "Componente Bicicleta > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > ➤ Schimbatoare Spate",
-      "price": 275.0,
-      "price_net": 227.27,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "url": "https://www.bikestylish.ro/schimbator-spate-sunrace-rdrs2-9-10v-brat-scurt-silver.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/schimbator-spate-sunrace-rdrs2-9-10v-brat-scurt-silver~8337217.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/schimbator-spate-sunrace-rdrs2-9-10v-brat-scurt-silver~8337217.jpg"
-      ],
-      "tags": [
-        "10 viteze",
-        "Componente Bicicleta",
-        "➤ Schimbatoare Spate"
-      ],
-      "specs": {
-        "color": "Silver",
-        "speeds": 10
-      }
-    },
     {
       "id": "610502",
       "sku": "610502",
@@ -1873,8 +1764,8 @@
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "in_stock",
+      "stock_quantity": 51,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-evolution-29x1-9-46-622-negru-950g-rigid.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-vittoria-evolution-29x1-9-46-622-negru-950g-rigid~8337955.jpg",
@@ -3226,7 +3117,7 @@
       "price_net": 34.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 81,
       "weight_kg": 0.23,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-700x40-52c-fv-presta-rvc-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/camera-standard-vittoria-700x40-52c-fv-presta-rvc-48mm~8338303.jpg",
@@ -3349,8 +3240,8 @@
       "brand": "SXT",
       "category": "➤ Roti Spate",
       "category_path": "Roti - Componente Roti > ⬤ Roti Bicicleta > ➤ Roti Spate",
-      "price": 328.9,
-      "price_net": 271.82,
+      "price": 290.0,
+      "price_net": 239.67,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 1,
@@ -3672,34 +3563,6 @@
       "specs": {
         "color": "Red"
       }
-    },
-    {
-      "id": "38829452",
-      "sku": "38829452",
-      "ean": "2801901000001",
-      "name": "Set Roti 29-32H SXT CONCEPT- R 29.042.27C",
-      "brand": "SXT",
-      "category": "➤ Seturi Roti",
-      "category_path": "Roti - Componente Roti > ⬤ Roti Bicicleta > ➤ Seturi Roti",
-      "price": 935.0,
-      "price_net": 772.73,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 30,
-      "url": "https://www.bikestylish.ro/set-roti-29-32h-sxt-concept-r-29-042-27c.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/set-roti-29-32h-sxt-concept-r-29-042-27c~8338429.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/set-roti-29-32h-sxt-concept-r-29-042-27c~8338429.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/set-roti-29-32h-sxt-concept-r-29-042-27c~8338432.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/set-roti-29-32h-sxt-concept-r-29-042-27c~8338435.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-29-32h-sxt-concept-r-29-042-27c~8338438.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/set-roti-29-32h-sxt-concept-r-29-042-27c~8338441.jpg"
-      ],
-      "tags": [
-        "Roti - Componente Roti",
-        "SXT",
-        "➤ Seturi Roti"
-      ]
     },
     {
       "id": "200400-05629",
@@ -6333,8 +6196,8 @@
       "brand": "SXT",
       "category": "➤ Seturi Roti",
       "category_path": "Roti - Componente Roti > ⬤ Roti Bicicleta > ➤ Seturi Roti",
-      "price": 1452.0,
-      "price_net": 1200.0,
+      "price": 1185.0,
+      "price_net": 979.34,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 4,
@@ -6588,8 +6451,8 @@
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 20,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-randonneur-700x35c-37-622-rigid-reflectorizant.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-randonneur-700x35c-37-622-rigid-reflectorizant~8339533.jpg",
@@ -7420,7 +7283,7 @@
       "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 176,
+      "stock_quantity": 175,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm-albastru-matt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ghidon-aluminiu-mtb-sxt-31-8-800-mm-albastru-matt~8339791.jpg",
@@ -7721,6 +7584,162 @@
       "specs": {
         "color": "Negru"
       }
+    },
+    {
+      "id": "250362",
+      "sku": "250362",
+      "ean": "887539038861",
+      "name": "Sa VELO-FIT TRAVELLER - S 110-120 mm Trekking",
+      "brand": "VELO",
+      "category": "➤ Sei",
+      "category_path": "Componente Bicicleta > Sei - Tije - Coliere > ➤ Sei",
+      "price": 121.0,
+      "price_net": 100.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.35,
+      "url": "https://www.bikestylish.ro/sa-velo-fit-traveller-s-110-120-mm-trekking.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sa-velo-fit-traveller-s-110-120-mm-trekking~8339884.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/sa-velo-fit-traveller-s-110-120-mm-trekking~8339884.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/sa-velo-fit-traveller-s-110-120-mm-trekking~8339890.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/sa-velo-fit-traveller-s-110-120-mm-trekking~8339887.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/sa-velo-fit-traveller-s-110-120-mm-trekking~8339893.jpg"
+      ],
+      "tags": [
+        "City/Trekking",
+        "Componente Bicicleta",
+        "VELO",
+        "➤ Sei"
+      ],
+      "specs": {
+        "bike_type": [
+          "City/Trekking"
+        ]
+      }
+    },
+    {
+      "id": "303598",
+      "sku": "303598",
+      "ean": "4715575884691",
+      "name": "Lant KMC X11R Grey - 118 zale",
+      "brand": "KMC",
+      "category": "➤ Lanturi",
+      "category_path": "Componente Bicicleta > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
+      "price": 148.5,
+      "price_net": 122.73,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 19,
+      "weight_kg": 0.35,
+      "url": "https://www.bikestylish.ro/lant-kmc-x11r-grey-118-zale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/lant-kmc-x11r-grey-118-zale~8339899.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/lant-kmc-x11r-grey-118-zale~8339899.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-x11r-grey-118-zale~8339896.jpg"
+      ],
+      "tags": [
+        "Componente Bicicleta",
+        "KMC",
+        "➤ Lanturi"
+      ],
+      "specs": {
+        "color": "Grey"
+      }
+    },
+    {
+      "id": "M911.622.36",
+      "sku": "M911.622.36",
+      "ean": "M911.622.36",
+      "name": "Janta MACH1 910 29(622 x 23C) 36H",
+      "brand": "MACH 1",
+      "category": "➤ Jante pentru Frane Disc",
+      "category_path": "Roti - Componente Roti > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "price": 181.5,
+      "price_net": 150.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.72,
+      "url": "https://www.bikestylish.ro/janta-mach1-910-29-622-x-23c-36h.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach1-910-29-622-x-23c-36h~8339902.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach1-910-29-622-x-23c-36h~8339902.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/janta-mach1-910-29-622-x-23c-36h~8339905.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/janta-mach1-910-29-622-x-23c-36h~8339908.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/janta-mach1-910-29-622-x-23c-36h~8339911.jpg"
+      ],
+      "tags": [
+        "MACH 1",
+        "Roti - Componente Roti",
+        "➤ Jante pentru Frane Disc"
+      ],
+      "specs": {
+        "dimensions": "622 x 23"
+      }
+    },
+    {
+      "id": "M911.584.36",
+      "sku": "M911.584.36",
+      "ean": "M911.584.36",
+      "name": "Janta MACH1 910 27.5(584 x 23C) 36H",
+      "brand": "MACH 1",
+      "category": "➤ Jante pentru Frane Disc",
+      "category_path": "Roti - Componente Roti > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "price": 176.0,
+      "price_net": 145.45,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.68,
+      "url": "https://www.bikestylish.ro/janta-mach1-910-27-5-584-x-23c-36h.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/janta-mach1-910-27-5-584-x-23c-36h~8339914.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/janta-mach1-910-27-5-584-x-23c-36h~8339914.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/janta-mach1-910-27-5-584-x-23c-36h~8339917.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/janta-mach1-910-27-5-584-x-23c-36h~8339920.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/janta-mach1-910-27-5-584-x-23c-36h~8339923.jpg"
+      ],
+      "tags": [
+        "MACH 1",
+        "Roti - Componente Roti",
+        "➤ Jante pentru Frane Disc"
+      ],
+      "specs": {
+        "dimensions": "584 x 23"
+      }
+    },
+    {
+      "id": "M911.559.36",
+      "sku": "M911.559.36",
+      "ean": "M911.559.36",
+      "name": "Janta MACH1 910 26(559 x 23C) 36H",
+      "brand": "MACH 1",
+      "category": "➤ Jante pentru Frane Disc",
+      "category_path": "Roti - Componente Roti > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "price": 176.0,
+      "price_net": 145.45,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 3,
+      "weight_kg": 0.64,
+      "url": "https://www.bikestylish.ro/janta-mach1-910-26-559-x-23c-36h.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/janta-mach1-910-26-559-x-23c-36h~8339926.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/janta-mach1-910-26-559-x-23c-36h~8339926.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/janta-mach1-910-26-559-x-23c-36h~8339929.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach1-910-26-559-x-23c-36h~8339932.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/janta-mach1-910-26-559-x-23c-36h~8339935.jpg"
+      ],
+      "tags": [
+        "MACH 1",
+        "Roti - Componente Roti",
+        "➤ Jante pentru Frane Disc"
+      ],
+      "specs": {
+        "dimensions": "559 x 23"
+      }
     }
   ],
   "categories": [
@@ -7736,7 +7755,7 @@
       "name": "Amenajare Magazin",
       "full_path": "Componente Bicicleta > Amenajare Magazin",
       "product_count": 21,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "angrenaje-e-bike",
@@ -8002,7 +8021,7 @@
       "name": "➤ Accesorii Pedale",
       "full_path": "Componente Bicicleta > Pedale - Accesorii > ➤ Accesorii Pedale",
       "product_count": 15,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "adaptoare-frana",
@@ -8051,14 +8070,14 @@
       "name": "➤ Anvelope Pliabile",
       "full_path": "Componente Bicicleta > Anvelope - Camere > ➤ Anvelope Pliabile",
       "product_count": 94,
-      "in_stock_count": 53
+      "in_stock_count": 55
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "Componente Bicicleta > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 190,
-      "in_stock_count": 113
+      "in_stock_count": 115
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -8086,7 +8105,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "Roti - Componente Roti > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 39
+      "in_stock_count": 38
     },
     {
       "id": "axe-suruburi-piulite",
@@ -8121,7 +8140,7 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "Componente Bicicleta > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 52,
-      "in_stock_count": 38
+      "in_stock_count": 41
     },
     {
       "id": "bar-tape-accesorii",
@@ -8198,7 +8217,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "Componente Bicicleta > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 90,
-      "in_stock_count": 49
+      "in_stock_count": 53
     },
     {
       "id": "capete-cablu-manta",
@@ -8485,7 +8504,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "Componente Bicicleta > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 92
+      "in_stock_count": 90
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8575,15 +8594,15 @@
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "Roti - Componente Roti > ⬤ Roti Bicicleta > ➤ Roti Fata",
-      "product_count": 34,
+      "product_count": 35,
       "in_stock_count": 32
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "Roti - Componente Roti > ⬤ Roti Bicicleta > ➤ Roti Spate",
-      "product_count": 48,
-      "in_stock_count": 44
+      "product_count": 46,
+      "in_stock_count": 43
     },
     {
       "id": "roti-custom-hand-built",
@@ -8659,8 +8678,8 @@
       "id": "seturi-roti",
       "name": "➤ Seturi Roti",
       "full_path": "Roti - Componente Roti > ⬤ Roti Bicicleta > ➤ Seturi Roti",
-      "product_count": 30,
-      "in_stock_count": 27
+      "product_count": 26,
+      "in_stock_count": 23
     },
     {
       "id": "sistem-velo-fit",

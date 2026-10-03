@@ -1,170 +1,14 @@
 {
-  "last_updated": "2026-10-02T03:12:41.405049+00:00",
+  "last_updated": "2026-10-03T03:20:52.630671+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 16,
     "total_parts": 20,
     "product_range": "3751-4000",
-    "original_total": 4808
+    "original_total": 4803
   },
   "products": [
-    {
-      "id": "250362",
-      "sku": "250362",
-      "ean": "887539038861",
-      "name": "Sa VELO-FIT TRAVELLER - S 110-120 mm Trekking",
-      "brand": "VELO",
-      "category": "➤ Sei",
-      "category_path": "Componente Bicicleta > Sei - Tije - Coliere > ➤ Sei",
-      "price": 121.0,
-      "price_net": 100.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.35,
-      "url": "https://www.bikestylish.ro/sa-velo-fit-traveller-s-110-120-mm-trekking.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sa-velo-fit-traveller-s-110-120-mm-trekking~8339884.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/sa-velo-fit-traveller-s-110-120-mm-trekking~8339884.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/sa-velo-fit-traveller-s-110-120-mm-trekking~8339890.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/sa-velo-fit-traveller-s-110-120-mm-trekking~8339887.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/sa-velo-fit-traveller-s-110-120-mm-trekking~8339893.jpg"
-      ],
-      "tags": [
-        "City/Trekking",
-        "Componente Bicicleta",
-        "VELO",
-        "➤ Sei"
-      ],
-      "specs": {
-        "bike_type": [
-          "City/Trekking"
-        ]
-      }
-    },
-    {
-      "id": "303598",
-      "sku": "303598",
-      "ean": "4715575884691",
-      "name": "Lant KMC X11R Grey - 118 zale",
-      "brand": "KMC",
-      "category": "➤ Lanturi",
-      "category_path": "Componente Bicicleta > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > ➤ Lanturi",
-      "price": 148.5,
-      "price_net": 122.73,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 22,
-      "weight_kg": 0.35,
-      "url": "https://www.bikestylish.ro/lant-kmc-x11r-grey-118-zale.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/lant-kmc-x11r-grey-118-zale~8339899.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/lant-kmc-x11r-grey-118-zale~8339899.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-x11r-grey-118-zale~8339896.jpg"
-      ],
-      "tags": [
-        "Componente Bicicleta",
-        "KMC",
-        "➤ Lanturi"
-      ],
-      "specs": {
-        "color": "Grey"
-      }
-    },
-    {
-      "id": "M911.622.36",
-      "sku": "M911.622.36",
-      "ean": "M911.622.36",
-      "name": "Janta MACH1 910 29(622 x 23C) 36H",
-      "brand": "MACH 1",
-      "category": "➤ Jante pentru Frane Disc",
-      "category_path": "Roti - Componente Roti > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "price": 181.5,
-      "price_net": 150.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.72,
-      "url": "https://www.bikestylish.ro/janta-mach1-910-29-622-x-23c-36h.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach1-910-29-622-x-23c-36h~8339902.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach1-910-29-622-x-23c-36h~8339902.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/janta-mach1-910-29-622-x-23c-36h~8339905.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/janta-mach1-910-29-622-x-23c-36h~8339908.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/janta-mach1-910-29-622-x-23c-36h~8339911.jpg"
-      ],
-      "tags": [
-        "MACH 1",
-        "Roti - Componente Roti",
-        "➤ Jante pentru Frane Disc"
-      ],
-      "specs": {
-        "dimensions": "622 x 23"
-      }
-    },
-    {
-      "id": "M911.584.36",
-      "sku": "M911.584.36",
-      "ean": "M911.584.36",
-      "name": "Janta MACH1 910 27.5(584 x 23C) 36H",
-      "brand": "MACH 1",
-      "category": "➤ Jante pentru Frane Disc",
-      "category_path": "Roti - Componente Roti > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "price": 176.0,
-      "price_net": 145.45,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.68,
-      "url": "https://www.bikestylish.ro/janta-mach1-910-27-5-584-x-23c-36h.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/janta-mach1-910-27-5-584-x-23c-36h~8339914.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/janta-mach1-910-27-5-584-x-23c-36h~8339914.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/janta-mach1-910-27-5-584-x-23c-36h~8339917.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/janta-mach1-910-27-5-584-x-23c-36h~8339920.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/janta-mach1-910-27-5-584-x-23c-36h~8339923.jpg"
-      ],
-      "tags": [
-        "MACH 1",
-        "Roti - Componente Roti",
-        "➤ Jante pentru Frane Disc"
-      ],
-      "specs": {
-        "dimensions": "584 x 23"
-      }
-    },
-    {
-      "id": "M911.559.36",
-      "sku": "M911.559.36",
-      "ean": "M911.559.36",
-      "name": "Janta MACH1 910 26(559 x 23C) 36H",
-      "brand": "MACH 1",
-      "category": "➤ Jante pentru Frane Disc",
-      "category_path": "Roti - Componente Roti > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "price": 176.0,
-      "price_net": 145.45,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
-      "weight_kg": 0.64,
-      "url": "https://www.bikestylish.ro/janta-mach1-910-26-559-x-23c-36h.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/janta-mach1-910-26-559-x-23c-36h~8339926.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/janta-mach1-910-26-559-x-23c-36h~8339926.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/janta-mach1-910-26-559-x-23c-36h~8339929.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach1-910-26-559-x-23c-36h~8339932.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/janta-mach1-910-26-559-x-23c-36h~8339935.jpg"
-      ],
-      "tags": [
-        "MACH 1",
-        "Roti - Componente Roti",
-        "➤ Jante pentru Frane Disc"
-      ],
-      "specs": {
-        "dimensions": "559 x 23"
-      }
-    },
     {
       "id": "A004376",
       "sku": "A004376",
@@ -1473,7 +1317,7 @@
       "price_net": 71.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 8,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/angrenaj-metal-sxt-1v-silver-38t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/angrenaj-metal-sxt-1v-silver-38t~8340301.jpg",
@@ -3685,8 +3529,8 @@
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/thru-axle-sxt-m12-x-l163-x-p1-0-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/thru-axle-sxt-m12-x-l163-x-p1-0-mm~8340880.jpg",
@@ -4479,52 +4323,55 @@
       "id": "388243",
       "sku": "388243",
       "ean": "2802459000000",
-      "name": "Roata Fata SXT BASIC II 24 FD 36H",
+      "name": "Roata Fata SXT BASIC I 24(507 x 19C) 36H QR Bile",
       "brand": "SXT",
       "category": "➤ Roti Fata",
       "category_path": "Roti - Componente Roti > ⬤ Roti Bicicleta > ➤ Roti Fata",
-      "price": 255.0,
-      "price_net": 210.74,
+      "price": 225.0,
+      "price_net": 185.95,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 9,
-      "url": "https://www.bikestylish.ro/roata-fata-sxt-basic-ii-24-fd-36h.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-sxt-basic-ii-24-fd-36h~12379386.jpg",
+      "url": "https://www.bikestylish.ro/roata-fata-sxt-basic-i-24-507-x-19c-36h-qr-bile.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-fata-sxt-basic-i-24-507-x-19c-36h-qr-bile~15615177.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-fata-sxt-basic-ii-24-fd-36h~12379386.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-fata-sxt-basic-ii-24-fd-36h~12379389.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-fata-sxt-basic-ii-24-fd-36h~12379392.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/roata-fata-sxt-basic-ii-24-fd-36h~12379395.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/roata-fata-sxt-basic-ii-24-fd-36h~12379398.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/7/roata-fata-sxt-basic-i-24-507-x-19c-36h-qr-bile~15615177.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/roata-fata-sxt-basic-i-24-507-x-19c-36h-qr-bile~12379398.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-sxt-basic-i-24-507-x-19c-36h-qr-bile~15615180.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-fata-sxt-basic-i-24-507-x-19c-36h-qr-bile~12379389.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-fata-sxt-basic-i-24-507-x-19c-36h-qr-bile~12379392.jpg"
       ],
       "tags": [
         "Roti - Componente Roti",
         "SXT",
         "➤ Roti Fata"
-      ]
+      ],
+      "specs": {
+        "dimensions": "507 x 19"
+      }
     },
     {
       "id": "388244",
       "sku": "388244",
       "ean": "2802461000005",
-      "name": "Roata Spate SXT 24(507 x 19C)BASIC II FD 36H Filetat",
+      "name": "Roata Spate SXT BASIC I 24(507 x 19C) 36H Filetat FD",
       "brand": "SXT",
       "category": "➤ Roti Spate",
       "category_path": "Roti - Componente Roti > ⬤ Roti Bicicleta > ➤ Roti Spate",
-      "price": 218.9,
-      "price_net": 180.91,
+      "price": 235.0,
+      "price_net": 194.21,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 47,
       "weight_kg": 1.0,
-      "url": "https://www.bikestylish.ro/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat~12379848.jpg",
+      "url": "https://www.bikestylish.ro/roata-spate-sxt-basic-i-24-507-x-19c-36h-filetat-fd.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-sxt-basic-i-24-507-x-19c-36h-filetat-fd~15615183.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat~12379848.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat~8341090.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat~12379806.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat~12379809.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-filetat~12379812.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-sxt-basic-i-24-507-x-19c-36h-filetat-fd~15615183.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-sxt-basic-i-24-507-x-19c-36h-filetat-fd~8341090.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-sxt-basic-i-24-507-x-19c-36h-filetat-fd~15615186.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-sxt-basic-i-24-507-x-19c-36h-filetat-fd~12379806.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-sxt-basic-i-24-507-x-19c-36h-filetat-fd~12379809.jpg"
       ],
       "tags": [
         "Roti - Componente Roti",
@@ -4539,24 +4386,24 @@
       "id": "388245",
       "sku": "388245",
       "ean": "2802462000004",
-      "name": "Roata Spate SXT 24(507 x 19C) BASIC II FD 36H Casetat",
+      "name": "Roata Spate SXT BASIC I 24(507 x 19C) 36H Casetat FD HG",
       "brand": "SXT",
       "category": "➤ Roti Spate",
       "category_path": "Roti - Componente Roti > ⬤ Roti Bicicleta > ➤ Roti Spate",
-      "price": 275.0,
-      "price_net": 227.27,
+      "price": 250.0,
+      "price_net": 206.61,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 50,
       "weight_kg": 1.0,
-      "url": "https://www.bikestylish.ro/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-casetat.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-casetat~8341093.jpg",
+      "url": "https://www.bikestylish.ro/roata-spate-sxt-basic-i-24-507-x-19c-36h-casetat-fd-hg.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-sxt-basic-i-24-507-x-19c-36h-casetat-fd-hg~15615189.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-casetat~8341093.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-casetat~8341096.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-casetat~12379797.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-casetat~12379800.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-sxt-24-507-x-19c-basic-ii-fd-36h-casetat~12379803.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/9/roata-spate-sxt-basic-i-24-507-x-19c-36h-casetat-fd-hg~15615189.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-sxt-basic-i-24-507-x-19c-36h-casetat-fd-hg~8341096.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-sxt-basic-i-24-507-x-19c-36h-casetat-fd-hg~15615192.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-basic-i-24-507-x-19c-36h-casetat-fd-hg~12379797.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-sxt-basic-i-24-507-x-19c-36h-casetat-fd-hg~12379800.jpg"
       ],
       "tags": [
         "Roti - Componente Roti",
@@ -7036,8 +6883,8 @@
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 400,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-20x1-95-2-125-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/camera-standard-vittoria-20x1-95-2-125-av-schrader-48mm~8341576.jpg",
@@ -7068,8 +6915,8 @@
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 300,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-24x1-95-2-125-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/camera-standard-vittoria-24x1-95-2-125-av-schrader-48mm~8341579.jpg",
       "images": [
@@ -7324,6 +7171,162 @@
           "MTB"
         ]
       }
+    },
+    {
+      "id": "1AA00468",
+      "sku": "1AA00468",
+      "ean": "8022530031769",
+      "name": "Set Banda Antipana VITTORIA 26 x 1.7-2.2 - 2 buc.",
+      "brand": "VITTORIA",
+      "category": "➤ Protectii Antipana",
+      "category_path": "Componente Bicicleta > Anvelope - Camere > ➤ Protectii Antipana",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/set-banda-antipana-vittoria-26-x-1-7-2-2-2-buc.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/set-banda-antipana-vittoria-26-x-1-7-2-2-2-buc~8341675.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/set-banda-antipana-vittoria-26-x-1-7-2-2-2-buc~8341675.jpg"
+      ],
+      "tags": [
+        "26 inch",
+        "Componente Bicicleta",
+        "VITTORIA",
+        "➤ Protectii Antipana"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "dimensions": "26 x 1.7-2.2"
+      }
+    },
+    {
+      "id": "11A00128",
+      "sku": "11A00128",
+      "ean": "8022530019552",
+      "name": "Anvelopa VITTORIA Pista Control 23-28 TUBULAR N-Cream",
+      "brand": "VITTORIA",
+      "category": "➤ Anvelope Pliabile",
+      "category_path": "Componente Bicicleta > Anvelope - Camere > ➤ Anvelope Pliabile",
+      "price": 654.5,
+      "price_net": 540.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.27,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-pista-control-23-28-tubular-n-cream.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-pista-control-23-28-tubular-n-cream~8341678.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-pista-control-23-28-tubular-n-cream~8341678.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-vittoria-pista-control-23-28-tubular-n-cream~8341681.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-vittoria-pista-control-23-28-tubular-n-cream~8341684.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-pista-control-23-28-tubular-n-cream~8341687.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-pista-control-23-28-tubular-n-cream~8341690.jpg"
+      ],
+      "tags": [
+        "Componente Bicicleta",
+        "VITTORIA",
+        "➤ Anvelope Pliabile"
+      ]
+    },
+    {
+      "id": "11A00527",
+      "sku": "11A00527",
+      "ean": "8022530030625",
+      "name": "Anvelopa VITTORIA 700 x 28C(28-622) RideArmor TLR Negru+Copper",
+      "brand": "VITTORIA",
+      "category": "➤ Anvelope Pliabile",
+      "category_path": "Componente Bicicleta > Anvelope - Camere > ➤ Anvelope Pliabile",
+      "price": 412.5,
+      "price_net": 340.91,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 4,
+      "weight_kg": 0.39,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-700-x-28c-28-622-ridearmor-tlr-negru-copper.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-700-x-28c-28-622-ridearmor-tlr-negru-copper~8341693.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-700-x-28c-28-622-ridearmor-tlr-negru-copper~8341693.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-vittoria-700-x-28c-28-622-ridearmor-tlr-negru-copper~8341696.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-700-x-28c-28-622-ridearmor-tlr-negru-copper~8341699.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-vittoria-700-x-28c-28-622-ridearmor-tlr-negru-copper~8341702.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-vittoria-700-x-28c-28-622-ridearmor-tlr-negru-copper~8341705.jpg"
+      ],
+      "tags": [
+        "Componente Bicicleta",
+        "VITTORIA",
+        "➤ Anvelope Pliabile"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "700 x 28"
+      }
+    },
+    {
+      "id": "11A00529",
+      "sku": "11A00529",
+      "ean": "8022530030649",
+      "name": "Anvelopa VITTORIA 700 x 32C(32-622) RideArmor TLR Negru+Copper",
+      "brand": "VITTORIA",
+      "category": "➤ Anvelope Pliabile",
+      "category_path": "Componente Bicicleta > Anvelope - Camere > ➤ Anvelope Pliabile",
+      "price": 412.5,
+      "price_net": 340.91,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 4,
+      "weight_kg": 0.48,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-700-x-32c-32-622-ridearmor-tlr-negru-copper.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-700-x-32c-32-622-ridearmor-tlr-negru-copper~8341717.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-700-x-32c-32-622-ridearmor-tlr-negru-copper~8341717.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-700-x-32c-32-622-ridearmor-tlr-negru-copper~8341720.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-700-x-32c-32-622-ridearmor-tlr-negru-copper~8341723.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-vittoria-700-x-32c-32-622-ridearmor-tlr-negru-copper~8341726.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-700-x-32c-32-622-ridearmor-tlr-negru-copper~8341729.jpg"
+      ],
+      "tags": [
+        "Componente Bicicleta",
+        "VITTORIA",
+        "➤ Anvelope Pliabile"
+      ],
+      "specs": {
+        "color": "Negru",
+        "dimensions": "700 x 32"
+      }
+    },
+    {
+      "id": "11A00390",
+      "sku": "11A00390",
+      "ean": "8022530026734",
+      "name": "Anvelopa VITTORIA Corsa Pro 700x30C (30-622) TLR",
+      "brand": "VITTORIA",
+      "category": "➤ Anvelope Pliabile",
+      "category_path": "Componente Bicicleta > Anvelope - Camere > ➤ Anvelope Pliabile",
+      "price": 530.0,
+      "price_net": 438.02,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 8,
+      "weight_kg": 0.28,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-corsa-pro-700x30c-30-622-tlr.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-vittoria-corsa-pro-700x30c-30-622-tlr~8341741.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-vittoria-corsa-pro-700x30c-30-622-tlr~8341741.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-vittoria-corsa-pro-700x30c-30-622-tlr~8341744.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-corsa-pro-700x30c-30-622-tlr~8341747.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-corsa-pro-700x30c-30-622-tlr~8341750.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-corsa-pro-700x30c-30-622-tlr~8341753.jpg"
+      ],
+      "tags": [
+        "Componente Bicicleta",
+        "VITTORIA",
+        "➤ Anvelope Pliabile"
+      ],
+      "specs": {
+        "dimensions": "700 x 30"
+      }
     }
   ],
   "categories": [
@@ -7339,7 +7342,7 @@
       "name": "Amenajare Magazin",
       "full_path": "Componente Bicicleta > Amenajare Magazin",
       "product_count": 21,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "angrenaje-e-bike",
@@ -7605,7 +7608,7 @@
       "name": "➤ Accesorii Pedale",
       "full_path": "Componente Bicicleta > Pedale - Accesorii > ➤ Accesorii Pedale",
       "product_count": 15,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "adaptoare-frana",
@@ -7654,14 +7657,14 @@
       "name": "➤ Anvelope Pliabile",
       "full_path": "Componente Bicicleta > Anvelope - Camere > ➤ Anvelope Pliabile",
       "product_count": 94,
-      "in_stock_count": 53
+      "in_stock_count": 55
     },
     {
       "id": "anvelope-pe-sarma",
       "name": "➤ Anvelope pe Sârmă",
       "full_path": "Componente Bicicleta > Anvelope - Camere > ➤ Anvelope pe Sârmă",
       "product_count": 190,
-      "in_stock_count": 113
+      "in_stock_count": 115
     },
     {
       "id": "aparatori-angrenaj-accesorii",
@@ -7689,7 +7692,7 @@
       "name": "➤ Axe - Accesorii Butuci",
       "full_path": "Roti - Componente Roti > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 39
+      "in_stock_count": 38
     },
     {
       "id": "axe-suruburi-piulite",
@@ -7724,7 +7727,7 @@
       "name": "➤ Banda Janta - Tubeless",
       "full_path": "Componente Bicicleta > Anvelope - Camere > ➤ Banda Janta - Tubeless",
       "product_count": 52,
-      "in_stock_count": 38
+      "in_stock_count": 41
     },
     {
       "id": "bar-tape-accesorii",
@@ -7801,7 +7804,7 @@
       "name": "➤ Camere de Bicicleta",
       "full_path": "Componente Bicicleta > Anvelope - Camere > ➤ Camere de Bicicleta",
       "product_count": 90,
-      "in_stock_count": 49
+      "in_stock_count": 53
     },
     {
       "id": "capete-cablu-manta",
@@ -8088,7 +8091,7 @@
       "name": "➤ Pedale Platforma",
       "full_path": "Componente Bicicleta > Pedale - Accesorii > ➤ Pedale Platforma",
       "product_count": 148,
-      "in_stock_count": 92
+      "in_stock_count": 90
     },
     {
       "id": "pedaliere-angrenaje",
@@ -8178,15 +8181,15 @@
       "id": "roti-fata",
       "name": "➤ Roti Fata",
       "full_path": "Roti - Componente Roti > ⬤ Roti Bicicleta > ➤ Roti Fata",
-      "product_count": 34,
+      "product_count": 35,
       "in_stock_count": 32
     },
     {
       "id": "roti-spate",
       "name": "➤ Roti Spate",
       "full_path": "Roti - Componente Roti > ⬤ Roti Bicicleta > ➤ Roti Spate",
-      "product_count": 48,
-      "in_stock_count": 44
+      "product_count": 46,
+      "in_stock_count": 43
     },
     {
       "id": "roti-custom-hand-built",
@@ -8262,8 +8265,8 @@
       "id": "seturi-roti",
       "name": "➤ Seturi Roti",
       "full_path": "Roti - Componente Roti > ⬤ Roti Bicicleta > ➤ Seturi Roti",
-      "product_count": 30,
-      "in_stock_count": 27
+      "product_count": 26,
+      "in_stock_count": 23
     },
     {
       "id": "sistem-velo-fit",
