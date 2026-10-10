@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-09T03:16:04.970967+00:00",
+  "last_updated": "2026-10-10T03:15:36.311875+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 1,
     "total_parts": 20,
     "product_range": "1-250",
-    "original_total": 4811
+    "original_total": 4809
   },
   "products": [
     {
@@ -485,8 +485,8 @@
       "price": 73.0,
       "price_net": 60.33,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 12,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-k-907-krackpot-20x2-25-30tpi.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-kenda-k-907-krackpot-20x2-25-30tpi~8278552.jpg",
       "images": [
@@ -589,7 +589,7 @@
       "price_net": 48.76,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 7,
       "weight_kg": 0.9,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-26x1-75-47-559-k-831a.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kenda-26x1-75-47-559-k-831a~8278564.jpg",
@@ -1628,7 +1628,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 86,
+      "stock_quantity": 83,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/camera-kenda-10-x-2-0-54-152-av-curbat-45.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/camera-kenda-10-x-2-0-54-152-av-curbat-45~8278684.jpg",
@@ -1749,7 +1749,7 @@
       "price_net": 12.4,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 188,
+      "stock_quantity": 168,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/camera-kuj0-700-x-28-45c-28-47-622-630-635-av-35mm-oem.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/camera-kuj0-700-x-28-45c-28-47-622-630-635-av-35mm-oem~8278699.jpg",
@@ -1933,7 +1933,7 @@
       "price_net": 42.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 91,
+      "stock_quantity": 85,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/camera-kenda-20-x-3-5-4-86-89-406-1mm-av-oem.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/camera-kenda-20-x-3-5-4-86-89-406-1mm-av-oem~8278723.jpg",
@@ -2318,8 +2318,8 @@
       "ean": "4015493120209",
       "name": "Set Benzi Reflectorizante M-WAVE SNAPWRAP",
       "brand": "M-WAVE",
-      "category": "➤ Reflectorizante",
-      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
+      "category": "Reflectorizante",
+      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Reflectorizante",
       "price": 13.0,
       "price_net": 10.74,
       "currency": "RON",
@@ -2336,7 +2336,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Reflectorizante"
+        "Reflectorizante"
       ]
     },
     {
@@ -2345,8 +2345,8 @@
       "ean": "4015493330042",
       "name": "Set Stikere Protectie VELO Transparent(9 buc.)",
       "brand": "VELO",
-      "category": "Protectii Lant - Cadru",
-      "category_path": "Componente > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > Protectii Lant - Cadru",
+      "category": "Protectii Lant",
+      "category_path": "Componente > Transmisie > ⬤ Lanturi > Protectii Lant",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -2360,7 +2360,7 @@
       ],
       "tags": [
         "Componente",
-        "Protectii Lant - Cadru",
+        "Protectii Lant",
         "VELO"
       ],
       "specs": {
@@ -2373,8 +2373,8 @@
       "ean": "887539000042",
       "name": "Husa Casca M-WAVE PETER",
       "brand": "M-WAVE",
-      "category": "➤ Reflectorizante",
-      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
+      "category": "Reflectorizante",
+      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Reflectorizante",
       "price": 31.9,
       "price_net": 26.36,
       "currency": "RON",
@@ -2391,7 +2391,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Reflectorizante"
+        "Reflectorizante"
       ]
     },
     {
@@ -2433,8 +2433,8 @@
       "ean": "887539010089",
       "name": "Antifurt Tip Lant cu Cifru M-WAVE D 3,5.9",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi Lant",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi Lant",
+      "category": "Antifurturi Lant",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi Lant",
       "price": 44.0,
       "price_net": 36.36,
       "currency": "RON",
@@ -2450,8 +2450,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi Lant"
+        "Antifurturi Lant",
+        "M-WAVE"
       ]
     },
     {
@@ -2460,8 +2460,8 @@
       "ean": "2801215000001",
       "name": "Antifurt Cadru M-WAVE XL RING",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi  U-Lock",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi  U-Lock",
+      "category": "Antifurturi  U-Lock",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi  U-Lock",
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
@@ -2475,8 +2475,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi  U-Lock"
+        "Antifurturi  U-Lock",
+        "M-WAVE"
       ]
     },
     {
@@ -2485,8 +2485,8 @@
       "ean": "887539022587",
       "name": "Antifurt cu Cheie M-WAVE S 20.18 Nivel securitate 3",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi cu Cheie",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
+      "category": "Antifurturi cu Cheie",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cheie",
       "price": 99.0,
       "price_net": 81.82,
       "currency": "RON",
@@ -2501,8 +2501,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi cu Cheie"
+        "Antifurturi cu Cheie",
+        "M-WAVE"
       ]
     },
     {
@@ -2511,8 +2511,8 @@
       "ean": "887539009335",
       "name": "Antifurt Hexagonal cu Cheie M-WAVE S 12.18",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi cu Cheie",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
+      "category": "Antifurturi cu Cheie",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cheie",
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -2528,8 +2528,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi cu Cheie"
+        "Antifurturi cu Cheie",
+        "M-WAVE"
       ]
     },
     {
@@ -2538,8 +2538,8 @@
       "ean": "887539018467",
       "name": "Antifurt cu Cheie Expandabil M-WAVE STYLE 23.10",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi cu Cheie",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
+      "category": "Antifurturi cu Cheie",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cheie",
       "price": 137.5,
       "price_net": 113.64,
       "currency": "RON",
@@ -2556,8 +2556,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi cu Cheie"
+        "Antifurturi cu Cheie",
+        "M-WAVE"
       ]
     },
     {
@@ -2566,8 +2566,8 @@
       "ean": "2800032000003",
       "name": "Antifurt cu Cheie SXT - Twist Look - 12 x 650 mm",
       "brand": "SXT",
-      "category": "➤ Antifurturi cu Cheie",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
+      "category": "Antifurturi cu Cheie",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cheie",
       "price": 31.9,
       "price_net": 26.36,
       "currency": "RON",
@@ -2583,8 +2583,8 @@
       ],
       "tags": [
         "Accesorii",
-        "SXT",
-        "➤ Antifurturi cu Cheie"
+        "Antifurturi cu Cheie",
+        "SXT"
       ],
       "specs": {
         "dimensions": "12 x 650"
@@ -2596,8 +2596,8 @@
       "ean": "2800825000005",
       "name": "Antifurt cu Cheie SXT 15 x 800 mm",
       "brand": "SXT",
-      "category": "➤ Antifurturi cu Cheie",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
+      "category": "Antifurturi cu Cheie",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cheie",
       "price": 31.9,
       "price_net": 26.36,
       "currency": "RON",
@@ -2612,8 +2612,8 @@
       ],
       "tags": [
         "Accesorii",
-        "SXT",
-        "➤ Antifurturi cu Cheie"
+        "Antifurturi cu Cheie",
+        "SXT"
       ],
       "specs": {
         "dimensions": "15 x 800"
@@ -2625,8 +2625,8 @@
       "ean": "4015493230182",
       "name": "Antifurt cu Cheie M-WAVE \"H 24.10\" cu Armura Articulara",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi cu Cheie",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
+      "category": "Antifurturi cu Cheie",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cheie",
       "price": 82.5,
       "price_net": 68.18,
       "currency": "RON",
@@ -2644,8 +2644,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi cu Cheie"
+        "Antifurturi cu Cheie",
+        "M-WAVE"
       ]
     },
     {
@@ -2654,8 +2654,8 @@
       "ean": "4015493230199",
       "name": "Antifurt cu Cifru M-WAVE \"HD 18.8\" cu Armura Articulara",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi cu Cifru",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
+      "category": "Antifurturi cu Cifru",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cifru",
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -2673,8 +2673,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi cu Cifru"
+        "Antifurturi cu Cifru",
+        "M-WAVE"
       ]
     },
     {
@@ -2683,8 +2683,8 @@
       "ean": "887539018290",
       "name": "Antifurt Tip Lant cu Cheie M-WAVE 10.11",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi Lant",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi Lant",
+      "category": "Antifurturi Lant",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi Lant",
       "price": 126.5,
       "price_net": 104.55,
       "currency": "RON",
@@ -2699,8 +2699,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi Lant"
+        "Antifurturi Lant",
+        "M-WAVE"
       ]
     },
     {
@@ -2709,8 +2709,8 @@
       "ean": "4015493230076",
       "name": "Antifurt cu Cheie M-WAVE HD 18.8 cu Armura Articulara",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi cu Cheie",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
+      "category": "Antifurturi cu Cheie",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cheie",
       "price": 39.6,
       "price_net": 32.73,
       "currency": "RON",
@@ -2727,8 +2727,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi cu Cheie"
+        "Antifurturi cu Cheie",
+        "M-WAVE"
       ]
     },
     {
@@ -2737,8 +2737,8 @@
       "ean": "4015493230601",
       "name": "Antifurt Tip Lant cu Cheie M-WAVE C 6.8,5",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi Lant",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi Lant",
+      "category": "Antifurturi Lant",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi Lant",
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
@@ -2754,8 +2754,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi Lant"
+        "Antifurturi Lant",
+        "M-WAVE"
       ]
     },
     {
@@ -2764,8 +2764,8 @@
       "ean": "4015493230618",
       "name": "Cablu Spiralat M-WAVE \"S 8.18 L\"",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi cu Cifru",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
+      "category": "Antifurturi cu Cifru",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cifru",
       "price": 24.2,
       "price_net": 20.0,
       "currency": "RON",
@@ -2782,8 +2782,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi cu Cifru"
+        "Antifurturi cu Cifru",
+        "M-WAVE"
       ]
     },
     {
@@ -2792,8 +2792,8 @@
       "ean": "2800826000004",
       "name": "Lacat cu Cifru SXT PD 5",
       "brand": "SXT",
-      "category": "➤ Antifurturi cu Cifru",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
+      "category": "Antifurturi cu Cifru",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cifru",
       "price": 46.2,
       "price_net": 38.18,
       "currency": "RON",
@@ -2808,8 +2808,8 @@
       ],
       "tags": [
         "Accesorii",
-        "SXT",
-        "➤ Antifurturi cu Cifru"
+        "Antifurturi cu Cifru",
+        "SXT"
       ]
     },
     {
@@ -2818,8 +2818,8 @@
       "ean": "887539011901",
       "name": "Antifurt cu Cifru M-WAVE PD 3 L",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi cu Cifru",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
+      "category": "Antifurturi cu Cifru",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cifru",
       "price": 26.4,
       "price_net": 21.82,
       "currency": "RON",
@@ -2835,8 +2835,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi cu Cifru"
+        "Antifurturi cu Cifru",
+        "M-WAVE"
       ]
     },
     {
@@ -2845,8 +2845,8 @@
       "ean": "887539010072",
       "name": "Antifurt Cadru U-Lock M-Wave B 247",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi  U-Lock",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi  U-Lock",
+      "category": "Antifurturi  U-Lock",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi  U-Lock",
       "price": 83.0,
       "price_net": 68.59,
       "currency": "RON",
@@ -2862,8 +2862,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi  U-Lock"
+        "Antifurturi  U-Lock",
+        "M-WAVE"
       ]
     },
     {
@@ -2872,8 +2872,8 @@
       "ean": "4015493230069",
       "name": "Antifurt Cadru U-Lock M-WAVE B 245",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi  U-Lock",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi  U-Lock",
+      "category": "Antifurturi  U-Lock",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi  U-Lock",
       "price": 64.9,
       "price_net": 53.64,
       "currency": "RON",
@@ -2889,8 +2889,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi  U-Lock"
+        "Antifurturi  U-Lock",
+        "M-WAVE"
       ]
     },
     {
@@ -2899,8 +2899,8 @@
       "ean": "4015493230106",
       "name": "Antifurt Cadru si Furca M-WAVE BOOSTER 2in1 Negru",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi  U-Lock",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi  U-Lock",
+      "category": "Antifurturi  U-Lock",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi  U-Lock",
       "price": 143.0,
       "price_net": 118.18,
       "currency": "RON",
@@ -2916,8 +2916,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi  U-Lock"
+        "Antifurturi  U-Lock",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -2929,8 +2929,8 @@
       "ean": "887539009182",
       "name": "Antifurt cu Cheie M-WAVE S 10.18 Roz",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi cu Cheie",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
+      "category": "Antifurturi cu Cheie",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cheie",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -2947,8 +2947,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi cu Cheie"
+        "Antifurturi cu Cheie",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Roz"
@@ -2960,8 +2960,8 @@
       "ean": "887539009120",
       "name": "Antifurt cu Cheie M-WAVE S 10.18 Alb",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi cu Cheie",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
+      "category": "Antifurturi cu Cheie",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cheie",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -2978,8 +2978,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi cu Cheie"
+        "Antifurturi cu Cheie",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Alb"
@@ -2991,8 +2991,8 @@
       "ean": "887539010171",
       "name": "Antifurt cu Cheie M-WAVE S 12.6 S Negru",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi cu Cheie",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
+      "category": "Antifurturi cu Cheie",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cheie",
       "price": 42.9,
       "price_net": 35.45,
       "currency": "RON",
@@ -3010,8 +3010,8 @@
       "tags": [
         "6 viteze",
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi cu Cheie"
+        "Antifurturi cu Cheie",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru",
@@ -3024,8 +3024,8 @@
       "ean": "2800645000001",
       "name": "Clema Prindere Sus -40 mm",
       "brand": "M-WAVE",
-      "category": "SERVICE",
-      "category_path": "SERVICE",
+      "category": "Service",
+      "category_path": "Service",
       "price": 44.0,
       "price_net": 36.36,
       "currency": "RON",
@@ -3038,7 +3038,7 @@
       ],
       "tags": [
         "M-WAVE",
-        "SERVICE"
+        "Service"
       ]
     },
     {
@@ -3047,8 +3047,8 @@
       "ean": "2800644000002",
       "name": "Clema Prindere Jos-45 mm",
       "brand": "M-WAVE",
-      "category": "SERVICE",
-      "category_path": "SERVICE",
+      "category": "Service",
+      "category_path": "Service",
       "price": 44.0,
       "price_net": 36.36,
       "currency": "RON",
@@ -3061,7 +3061,7 @@
       ],
       "tags": [
         "M-WAVE",
-        "SERVICE"
+        "Service"
       ]
     },
     {
@@ -3070,8 +3070,8 @@
       "ean": "2800643000003",
       "name": "Suport prindere cu doua carlige(430270)",
       "brand": "M-WAVE",
-      "category": "SERVICE",
-      "category_path": "SERVICE",
+      "category": "Service",
+      "category_path": "Service",
       "price": 132.0,
       "price_net": 109.09,
       "currency": "RON",
@@ -3087,7 +3087,7 @@
       ],
       "tags": [
         "M-WAVE",
-        "SERVICE"
+        "Service"
       ]
     },
     {
@@ -3096,8 +3096,8 @@
       "ean": "4015493240242",
       "name": "Bike Computer VENTURA \"VI\" 6 Functii",
       "brand": "VENTURA",
-      "category": "➤ Bike Computer",
-      "category_path": "Accesorii > Electronice > ➤ Bike Computer",
+      "category": "Bike Computer",
+      "category_path": "Accesorii > Electronice > Bike Computer",
       "price": 42.9,
       "price_net": 35.45,
       "currency": "RON",
@@ -3112,8 +3112,8 @@
       ],
       "tags": [
         "Accesorii",
-        "VENTURA",
-        "➤ Bike Computer"
+        "Bike Computer",
+        "VENTURA"
       ]
     },
     {
@@ -3122,8 +3122,8 @@
       "ean": "887539022273",
       "name": "Borseta Sa M-WAVE BP SADDLE L Negru-Albastru",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 169.0,
       "price_net": 139.67,
       "currency": "RON",
@@ -3141,8 +3141,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -3154,8 +3154,8 @@
       "ean": "887539026134",
       "name": "Borseta Sa M-WAVE BP SADDLE L Galben Neon",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 160.0,
       "price_net": 132.23,
       "currency": "RON",
@@ -3170,8 +3170,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Alb"
@@ -3183,8 +3183,8 @@
       "ean": "887539025908",
       "name": "Borseta Sa M-WAVE BP SADDLE M Negru-Albastru",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 145.0,
       "price_net": 119.83,
       "currency": "RON",
@@ -3201,8 +3201,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -3214,8 +3214,8 @@
       "ean": "887539023188",
       "name": "Bagaj Fata M-WAVE BP FRONT Negru-Albastru",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Cadru",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
+      "category": "Bagaje Cadru",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Cadru",
       "price": 150.0,
       "price_net": 123.97,
       "currency": "RON",
@@ -3233,8 +3233,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Cadru"
+        "Bagaje Cadru",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -3246,8 +3246,8 @@
       "ean": "887539026141",
       "name": "Bagaj Fata M-WAVE BP FRONT Galben Neon",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Ghidon",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
+      "category": "Bagaje Ghidon",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Ghidon",
       "price": 135.0,
       "price_net": 111.57,
       "currency": "RON",
@@ -3263,8 +3263,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Ghidon"
+        "Bagaje Ghidon",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Alb"
@@ -3276,8 +3276,8 @@
       "ean": "887539017453",
       "name": "Geanta Laterala Portbagaj M-WAVE EDMONTON 16 Litri",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 139.7,
       "price_net": 115.45,
       "currency": "RON",
@@ -3294,8 +3294,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ]
     },
     {
@@ -3304,8 +3304,8 @@
       "ean": "887539014957",
       "name": "Geanta Ghidon-Umar M-WAVE ULTRCHT HC",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Ghidon",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
+      "category": "Bagaje Ghidon",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Ghidon",
       "price": 181.5,
       "price_net": 150.0,
       "currency": "RON",
@@ -3321,8 +3321,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Ghidon"
+        "Bagaje Ghidon",
+        "M-WAVE"
       ]
     },
     {
@@ -3331,8 +3331,8 @@
       "ean": "887539009366",
       "name": "Cutie Portbagaj Plastic M-WAVE \"AMSTERDAM BOX L\" 17l",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 231.0,
       "price_net": 190.91,
       "currency": "RON",
@@ -3350,9 +3350,9 @@
       ],
       "tags": [
         "Accesorii",
+        "Bagaje Spate",
         "M-WAVE",
-        "Plastic",
-        "➤ Bagaje Spate"
+        "Plastic"
       ],
       "specs": {
         "material": "Plastic"
@@ -3364,8 +3364,8 @@
       "ean": "887539008024",
       "name": "Cutie Portbagaj Plastic 5L M-WAVE AMSTERDAM EASY BOX S",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 118.0,
       "price_net": 97.52,
       "currency": "RON",
@@ -3382,9 +3382,9 @@
       ],
       "tags": [
         "Accesorii",
+        "Bagaje Spate",
         "M-WAVE",
-        "Plastic",
-        "➤ Bagaje Spate"
+        "Plastic"
       ],
       "specs": {
         "material": "Plastic"
@@ -3396,8 +3396,8 @@
       "ean": "4015493120032",
       "name": "Geanta Portbagaj 3 Piese M-WAVE AMSTERDAM TRIPLE - 62 l",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 313.5,
       "price_net": 259.09,
       "currency": "RON",
@@ -3414,8 +3414,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ]
     },
     {
@@ -3424,8 +3424,8 @@
       "ean": "4015493120513",
       "name": "Geanta Laterala Portbagaj M-WAVE AMSTERDAM SINGLE Stanga",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
@@ -3440,8 +3440,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ]
     },
     {
@@ -3450,8 +3450,8 @@
       "ean": "887539013677",
       "name": "Geanta Laterala Portbagaj M-WAVE AMSTERDAM SINGLE Dreapta",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
@@ -3466,8 +3466,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ]
     },
     {
@@ -3476,8 +3476,8 @@
       "ean": "4015493120889",
       "name": "Geanta Portbagaj-Umar M-WAVE AMSTERDAM EXP",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 148.5,
       "price_net": 122.73,
       "currency": "RON",
@@ -3494,8 +3494,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ]
     },
     {
@@ -3504,8 +3504,8 @@
       "ean": "4015493120988",
       "name": "Borseta Smartphone M-WAVE EINDHOVEN SC 1 XL",
       "brand": "M-WAVE",
-      "category": "➤ Carcase - Prinderi SmartPhone",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Carcase - Prinderi SmartPhone",
+      "category": "Carcase - Prinderi SmartPhone",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Carcase - Prinderi SmartPhone",
       "price": 69.3,
       "price_net": 57.27,
       "currency": "RON",
@@ -3523,9 +3523,9 @@
       ],
       "tags": [
         "Accesorii",
+        "Carcase - Prinderi SmartPhone",
         "Downhill",
-        "M-WAVE",
-        "➤ Carcase - Prinderi SmartPhone"
+        "M-WAVE"
       ],
       "specs": {
         "bike_type": [
@@ -3539,8 +3539,8 @@
       "ean": "887539003654",
       "name": "Suport Smartphone M-WAVE EINDHOVEN GRIP",
       "brand": "M-WAVE",
-      "category": "➤ Carcase - Prinderi SmartPhone",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Carcase - Prinderi SmartPhone",
+      "category": "Carcase - Prinderi SmartPhone",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Carcase - Prinderi SmartPhone",
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -3557,9 +3557,9 @@
       ],
       "tags": [
         "Accesorii",
+        "Carcase - Prinderi SmartPhone",
         "Downhill",
-        "M-WAVE",
-        "➤ Carcase - Prinderi SmartPhone"
+        "M-WAVE"
       ],
       "specs": {
         "bike_type": [
@@ -3574,8 +3574,8 @@
       "ean": "4000444050537",
       "name": "Prindere Pipa M-WAVE BIKE MOUNT AHEAD",
       "brand": "M-WAVE",
-      "category": "➤ Carcase - Prinderi SmartPhone",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Carcase - Prinderi SmartPhone",
+      "category": "Carcase - Prinderi SmartPhone",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Carcase - Prinderi SmartPhone",
       "price": 82.5,
       "price_net": 68.18,
       "currency": "RON",
@@ -3592,9 +3592,9 @@
       ],
       "tags": [
         "Accesorii",
+        "Carcase - Prinderi SmartPhone",
         "E-Bike",
-        "M-WAVE",
-        "➤ Carcase - Prinderi SmartPhone"
+        "M-WAVE"
       ],
       "specs": {
         "bike_type": [
@@ -3608,8 +3608,8 @@
       "ean": "887539002459",
       "name": "Borseta Cadru M-WAVE ROTTERDAM TOP SB XL",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Cadru",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
+      "category": "Bagaje Cadru",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Cadru",
       "price": 85.8,
       "price_net": 70.91,
       "currency": "RON",
@@ -3624,8 +3624,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Cadru"
+        "Bagaje Cadru",
+        "M-WAVE"
       ]
     },
     {
@@ -3634,13 +3634,13 @@
       "ean": "887539025304",
       "name": "Borseta Cadru M-WAVE ROTTERDAM TOP XL",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Cadru",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
+      "category": "Bagaje Cadru",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Cadru",
       "price": 53.9,
       "price_net": 44.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 35,
+      "stock_quantity": 33,
       "weight_kg": 0.16,
       "url": "https://www.bikestylish.ro/borseta-cadru-m-wave-rotterdam-top-xl.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/borseta-cadru-m-wave-rotterdam-top-xl~8278948.jpg",
@@ -3651,8 +3651,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Cadru"
+        "Bagaje Cadru",
+        "M-WAVE"
       ]
     },
     {
@@ -3661,8 +3661,8 @@
       "ean": "4015493120568",
       "name": "Protectie Transmisie M-WAVE",
       "brand": "M-WAVE",
-      "category": "Aparatori Angrenaj - Accesorii",
-      "category_path": "Componente > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > Aparatori Angrenaj - Accesorii",
+      "category": "Accesorii",
+      "category_path": "Componente > Transmisie > ⬤ Angrenaje > Accesorii",
       "price": 53.9,
       "price_net": 44.55,
       "currency": "RON",
@@ -3678,7 +3678,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/protectie-transmisie-m-wave~8279695.jpg"
       ],
       "tags": [
-        "Aparatori Angrenaj - Accesorii",
+        "Accesorii",
         "Componente",
         "M-WAVE"
       ]
@@ -3864,8 +3864,8 @@
       "ean": "4897029981641",
       "name": "Far cu Acumulator MOON ADJ- 1300",
       "brand": "MOON",
-      "category": "➤ Lumini Fata",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Fata",
+      "category": "Lumini Fata",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
       "price": 467.5,
       "price_net": 386.36,
       "currency": "RON",
@@ -3882,8 +3882,8 @@
       ],
       "tags": [
         "Accesorii",
-        "MOON",
-        "➤ Lumini Fata"
+        "Lumini Fata",
+        "MOON"
       ]
     },
     {
@@ -3892,8 +3892,8 @@
       "ean": "4897029983188",
       "name": "Far cu Acumulator MOON METEOR 400 Lumen",
       "brand": "MOON",
-      "category": "➤ Lumini Fata",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Fata",
+      "category": "Lumini Fata",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
@@ -3909,8 +3909,8 @@
       ],
       "tags": [
         "Accesorii",
-        "MOON",
-        "➤ Lumini Fata"
+        "Lumini Fata",
+        "MOON"
       ]
     },
     {
@@ -3919,8 +3919,8 @@
       "ean": "4897029983218",
       "name": "Stop Spate cu Acumulator MOON ALCOR",
       "brand": "MOON",
-      "category": "➤ Lumini Spate",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Spate",
+      "category": "Lumini Spate",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Spate",
       "price": 97.9,
       "price_net": 80.91,
       "currency": "RON",
@@ -3938,8 +3938,8 @@
       ],
       "tags": [
         "Accesorii",
-        "MOON",
-        "➤ Lumini Spate"
+        "Lumini Spate",
+        "MOON"
       ]
     },
     {
@@ -3948,8 +3948,8 @@
       "ean": "4715681188522",
       "name": "Far cu Acumulator SMART SUBURB 800",
       "brand": "SMART",
-      "category": "➤ Lumini Fata",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Fata",
+      "category": "Lumini Fata",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
       "price": 280.5,
       "price_net": 231.82,
       "currency": "RON",
@@ -3967,8 +3967,8 @@
       ],
       "tags": [
         "Accesorii",
-        "SMART",
-        "➤ Lumini Fata"
+        "Lumini Fata",
+        "SMART"
       ]
     },
     {
@@ -3977,8 +3977,8 @@
       "ean": "4715681193069",
       "name": "Far cu Baterii SMART NINE 80",
       "brand": "SMART",
-      "category": "➤ Lumini Fata",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Fata",
+      "category": "Lumini Fata",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -3994,8 +3994,8 @@
       ],
       "tags": [
         "Accesorii",
-        "SMART",
-        "➤ Lumini Fata"
+        "Lumini Fata",
+        "SMART"
       ]
     },
     {
@@ -4004,8 +4004,8 @@
       "ean": "4715681308784",
       "name": "Stop Fata cu Baterii SMART GEM Alb",
       "brand": "SMART",
-      "category": "➤ Lumini Fata",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Fata",
+      "category": "Lumini Fata",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -4019,8 +4019,8 @@
       ],
       "tags": [
         "Accesorii",
-        "SMART",
-        "➤ Lumini Fata"
+        "Lumini Fata",
+        "SMART"
       ],
       "specs": {
         "color": "Alb"
@@ -4032,8 +4032,8 @@
       "ean": "4715681403014",
       "name": "Stop Spate cu Baterii SMART TAIL LIGHT 3 Leduri",
       "brand": "SMART",
-      "category": "➤ Lumini Spate",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Spate",
+      "category": "Lumini Spate",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Spate",
       "price": 30.0,
       "price_net": 24.79,
       "currency": "RON",
@@ -4051,8 +4051,8 @@
       ],
       "tags": [
         "Accesorii",
-        "SMART",
-        "➤ Lumini Spate"
+        "Lumini Spate",
+        "SMART"
       ]
     },
     {
@@ -4061,8 +4061,8 @@
       "ean": "887539020392",
       "name": "Far cu Acumulator M-Wave APOLLON K 20 USB Aluminiu",
       "brand": "M-WAVE",
-      "category": "➤ Lumini Fata",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Fata",
+      "category": "Lumini Fata",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
       "price": 86.9,
       "price_net": 71.82,
       "currency": "RON",
@@ -4080,8 +4080,8 @@
       "tags": [
         "Accesorii",
         "Aluminiu",
-        "M-WAVE",
-        "➤ Lumini Fata"
+        "Lumini Fata",
+        "M-WAVE"
       ],
       "specs": {
         "material": "Aluminiu"
@@ -4093,8 +4093,8 @@
       "ean": "4015493221180",
       "name": "Far cu baterii M-WAVE APOLLON A 1.2 3 WATT",
       "brand": "M-WAVE",
-      "category": "➤ Lumini Fata",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Fata",
+      "category": "Lumini Fata",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -4109,8 +4109,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Lumini Fata"
+        "Lumini Fata",
+        "M-WAVE"
       ]
     },
     {
@@ -4119,8 +4119,8 @@
       "ean": "4015493220459",
       "name": "Far cu Baterii M-WAVE APOLLON 4.3",
       "brand": "M-WAVE",
-      "category": "➤ Lumini Fata",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Fata",
+      "category": "Lumini Fata",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
       "price": 27.5,
       "price_net": 22.73,
       "currency": "RON",
@@ -4135,8 +4135,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Lumini Fata"
+        "Lumini Fata",
+        "M-WAVE"
       ]
     },
     {
@@ -4145,8 +4145,8 @@
       "ean": "887539005436",
       "name": "Stop Spate cu Acumulator M-WAVE HELIOS K 1.1 USB",
       "brand": "M-WAVE",
-      "category": "➤ Lumini Spate",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Spate",
+      "category": "Lumini Spate",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Spate",
       "price": 77.0,
       "price_net": 63.64,
       "currency": "RON",
@@ -4163,8 +4163,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Lumini Spate"
+        "Lumini Spate",
+        "M-WAVE"
       ]
     },
     {
@@ -4173,8 +4173,8 @@
       "ean": "887539002923",
       "name": "Stop Spate cu Baterii M-WAVE HELIOS 2.3",
       "brand": "M-WAVE",
-      "category": "➤ Lumini Spate",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Spate",
+      "category": "Lumini Spate",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Spate",
       "price": 27.5,
       "price_net": 22.73,
       "currency": "RON",
@@ -4191,8 +4191,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Lumini Spate"
+        "Lumini Spate",
+        "M-WAVE"
       ]
     },
     {
@@ -4201,13 +4201,13 @@
       "ean": "887539002862",
       "name": "Stop Spate cu Baterii M-WAVE \"HELIOS 3.2 S\"",
       "brand": "M-WAVE",
-      "category": "➤ Lumini Spate",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Spate",
+      "category": "Lumini Spate",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Spate",
       "price": 29.7,
       "price_net": 24.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 56,
+      "stock_quantity": 54,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/stop-spate-cu-baterii-m-wave-helios-3-2-s.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/stop-spate-cu-baterii-m-wave-helios-3-2-s~8279014.jpg",
@@ -4219,8 +4219,8 @@
       "tags": [
         "2 viteze",
         "Accesorii",
-        "M-WAVE",
-        "➤ Lumini Spate"
+        "Lumini Spate",
+        "M-WAVE"
       ],
       "specs": {
         "speeds": 2
@@ -4232,13 +4232,13 @@
       "ean": "887539022112",
       "name": "Stop Spate cu Baterii M-WAVE HELIOS 5.3",
       "brand": "M-WAVE",
-      "category": "➤ Lumini Spate",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Spate",
+      "category": "Lumini Spate",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Spate",
       "price": 14.3,
       "price_net": 11.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 96,
+      "stock_quantity": 91,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/stop-spate-cu-baterii-m-wave-helios-5-3.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/stop-spate-cu-baterii-m-wave-helios-5-3~8279896.jpg",
@@ -4250,8 +4250,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Lumini Spate"
+        "Lumini Spate",
+        "M-WAVE"
       ]
     },
     {
@@ -4260,8 +4260,8 @@
       "ean": "887539021115",
       "name": "Set lumini cu baterii M-WAVE APOLLON MINI A",
       "brand": "M-WAVE",
-      "category": "➤ Set Lumini",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Set Lumini",
+      "category": "Set Lumini",
+      "category_path": "Accesorii > Lumini - Accesorii > Set Lumini",
       "price": 53.9,
       "price_net": 44.55,
       "currency": "RON",
@@ -4279,7 +4279,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Set Lumini"
+        "Set Lumini"
       ]
     },
     {
@@ -4288,8 +4288,8 @@
       "ean": "887539002855",
       "name": "Set Flash cu Baterii M-WAVE HUNTER",
       "brand": "M-WAVE",
-      "category": "➤ Set Lumini",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Set Lumini",
+      "category": "Set Lumini",
+      "category_path": "Accesorii > Lumini - Accesorii > Set Lumini",
       "price": 28.6,
       "price_net": 23.64,
       "currency": "RON",
@@ -4307,7 +4307,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Set Lumini"
+        "Set Lumini"
       ]
     },
     {
@@ -4316,8 +4316,8 @@
       "ean": "4015493221463",
       "name": "Set Flash cu Baterii M-WAVE COBRA II",
       "brand": "M-WAVE",
-      "category": "➤ Set Lumini",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Set Lumini",
+      "category": "Set Lumini",
+      "category_path": "Accesorii > Lumini - Accesorii > Set Lumini",
       "price": 24.2,
       "price_net": 20.0,
       "currency": "RON",
@@ -4336,7 +4336,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Set Lumini"
+        "Set Lumini"
       ]
     },
     {
@@ -4345,8 +4345,8 @@
       "ean": "887539018382",
       "name": "Set Lumini cu Acumulator M-WAVE ATLAS K 11 USB",
       "brand": "M-WAVE",
-      "category": "➤ Set Lumini",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Set Lumini",
+      "category": "Set Lumini",
+      "category_path": "Accesorii > Lumini - Accesorii > Set Lumini",
       "price": 140.8,
       "price_net": 116.36,
       "currency": "RON",
@@ -4365,7 +4365,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Set Lumini"
+        "Set Lumini"
       ]
     },
     {
@@ -4374,8 +4374,8 @@
       "ean": "887539020408",
       "name": "Set Lumini cu Acumulator M-WAVE ATLAS 20 USB",
       "brand": "M-WAVE",
-      "category": "➤ Set Lumini",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Set Lumini",
+      "category": "Set Lumini",
+      "category_path": "Accesorii > Lumini - Accesorii > Set Lumini",
       "price": 140.8,
       "price_net": 116.36,
       "currency": "RON",
@@ -4394,7 +4394,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Set Lumini"
+        "Set Lumini"
       ]
     },
     {
@@ -4403,13 +4403,13 @@
       "ean": "4015493221081",
       "name": "Set Lumini cu Baterii M-WAVE ATLAS 22",
       "brand": "M-WAVE",
-      "category": "➤ Set Lumini",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Set Lumini",
+      "category": "Set Lumini",
+      "category_path": "Accesorii > Lumini - Accesorii > Set Lumini",
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 65,
+      "stock_quantity": 62,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/set-lumini-cu-baterii-m-wave-atlas-22.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-lumini-cu-baterii-m-wave-atlas-22~8279038.jpg",
@@ -4422,7 +4422,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Set Lumini"
+        "Set Lumini"
       ]
     },
     {
@@ -4459,8 +4459,8 @@
       "ean": "4015493221036",
       "name": "Adaptor prindere Far pe Furca M-WAVE FORK COCKPIT Negru",
       "brand": "M-WAVE",
-      "category": "➤ Lumini Fata",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Fata",
+      "category": "Lumini Fata",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
       "price": 27.5,
       "price_net": 22.73,
       "currency": "RON",
@@ -4475,8 +4475,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Lumini Fata"
+        "Lumini Fata",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -4488,13 +4488,13 @@
       "ean": "4015493220534",
       "name": "Stop Spate cu Baterii VENTURA 5 Leduri",
       "brand": "VENTURA",
-      "category": "➤ Lumini Spate",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Spate",
+      "category": "Lumini Spate",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Spate",
       "price": 12.0,
       "price_net": 9.92,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 14,
+      "stock_quantity": 9,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/stop-spate-cu-baterii-ventura-5-leduri.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/stop-spate-cu-baterii-ventura-5-leduri~8279047.jpg",
@@ -4505,8 +4505,8 @@
       ],
       "tags": [
         "Accesorii",
-        "VENTURA",
-        "➤ Lumini Spate"
+        "Lumini Spate",
+        "VENTURA"
       ]
     },
     {
@@ -4550,8 +4550,8 @@
       "ean": "4015493120049",
       "name": "Geanta Portbagaj 2 Piese M-WAVE AMSTERDAM DOUBLE Negru",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 143.0,
       "price_net": 118.18,
       "currency": "RON",
@@ -4566,8 +4566,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -4579,8 +4579,8 @@
       "ean": "887539009762",
       "name": "Geanta Portbagaj 2 Piese M-WAVE AMSTERDAM DOUBLE Negru-Rosu",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 143.0,
       "price_net": 118.18,
       "currency": "RON",
@@ -4595,8 +4595,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -4608,8 +4608,8 @@
       "ean": "887539009779",
       "name": "Geanta Portbagaj 2 Piese M-WAVE AMSTERDAM DOUBLE Negru-Albastru",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 143.0,
       "price_net": 118.18,
       "currency": "RON",
@@ -4624,8 +4624,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -4637,8 +4637,8 @@
       "ean": "887539009786",
       "name": "Geanta Portbagaj 2 Piese M-WAVE AMSTERDAM DOUBLE Negru-Verde",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 143.0,
       "price_net": 118.18,
       "currency": "RON",
@@ -4653,8 +4653,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -4666,8 +4666,8 @@
       "ean": "4015493120018",
       "name": "Geanta Ghidon/Umar M-WAVE \"UTRECHT TRAVEL\" Negru/Grey",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Ghidon",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
+      "category": "Bagaje Ghidon",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Ghidon",
       "price": 152.9,
       "price_net": 126.36,
       "currency": "RON",
@@ -4683,8 +4683,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Ghidon"
+        "Bagaje Ghidon",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -4696,8 +4696,8 @@
       "ean": "4015493120117",
       "name": "Borseta Cadru Triunghi M-WAVE \"ROTTERDAM TRI\"",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Cadru",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
+      "category": "Bagaje Cadru",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Cadru",
       "price": 30.0,
       "price_net": 24.79,
       "currency": "RON",
@@ -4711,8 +4711,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Cadru"
+        "Bagaje Cadru",
+        "M-WAVE"
       ]
     },
     {
@@ -4721,8 +4721,8 @@
       "ean": "887539009403",
       "name": "Borseta Cadru M-WAVE \"ROTTERDAM TOP L\" Alb/Negru",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Cadru",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
+      "category": "Bagaje Cadru",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Cadru",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -4739,8 +4739,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Cadru"
+        "Bagaje Cadru",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -4752,8 +4752,8 @@
       "ean": "887539009212",
       "name": "Borseta Sa M-WAVE TILBURG L Negru-Albastru",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -4769,8 +4769,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -4782,8 +4782,8 @@
       "ean": "4015493120094",
       "name": "Borseta Sa M-WAVE TILBURG L Negru-Grey",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 36.0,
       "price_net": 29.75,
       "currency": "RON",
@@ -4799,8 +4799,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -4812,8 +4812,8 @@
       "ean": "887539009205",
       "name": "Borseta Sa M-WAVE TILBURG L Negru-Rosu",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -4829,8 +4829,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -4842,8 +4842,8 @@
       "ean": "887539009250",
       "name": "Borseta Sa M-WAVE TILBURG L Negru-Roz",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -4859,8 +4859,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -4872,8 +4872,8 @@
       "ean": "887539009229",
       "name": "Borseta Sa M-WAVE TILBURG L Negru-Verde",
       "brand": "M-WAVE",
-      "category": "➤ Bagaje Spate",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
+      "category": "Bagaje Spate",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -4889,8 +4889,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Bagaje Spate"
+        "Bagaje Spate",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -4902,8 +4902,8 @@
       "ean": "887539010515",
       "name": "Set Flash cu Baterii M-WAVE COBRA IV - Albastru",
       "brand": "M-WAVE",
-      "category": "➤ Set Lumini",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Set Lumini",
+      "category": "Set Lumini",
+      "category_path": "Accesorii > Lumini - Accesorii > Set Lumini",
       "price": 28.6,
       "price_net": 23.64,
       "currency": "RON",
@@ -4920,7 +4920,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Set Lumini"
+        "Set Lumini"
       ],
       "specs": {
         "color": "Alb"
@@ -4932,8 +4932,8 @@
       "ean": "887539010508",
       "name": "Set Flash cu Baterii M-WAVE COBRA IV - Rosu",
       "brand": "M-WAVE",
-      "category": "➤ Set Lumini",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Set Lumini",
+      "category": "Set Lumini",
+      "category_path": "Accesorii > Lumini - Accesorii > Set Lumini",
       "price": 28.6,
       "price_net": 23.64,
       "currency": "RON",
@@ -4950,7 +4950,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Set Lumini"
+        "Set Lumini"
       ],
       "specs": {
         "color": "Rosu"
@@ -4962,8 +4962,8 @@
       "ean": "887539010492",
       "name": "Set Flash cu Baterii M-WAVE COBRA IV - Alb",
       "brand": "M-WAVE",
-      "category": "➤ Set Lumini",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Set Lumini",
+      "category": "Set Lumini",
+      "category_path": "Accesorii > Lumini - Accesorii > Set Lumini",
       "price": 28.6,
       "price_net": 23.64,
       "currency": "RON",
@@ -4980,7 +4980,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Set Lumini"
+        "Set Lumini"
       ],
       "specs": {
         "color": "Alb"
@@ -4992,8 +4992,8 @@
       "ean": "887539010539",
       "name": "Set Flash cu Baterii M-WAVE COBRA IV -Galben",
       "brand": "M-WAVE",
-      "category": "➤ Set Lumini",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Set Lumini",
+      "category": "Set Lumini",
+      "category_path": "Accesorii > Lumini - Accesorii > Set Lumini",
       "price": 28.6,
       "price_net": 23.64,
       "currency": "RON",
@@ -5010,7 +5010,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Set Lumini"
+        "Set Lumini"
       ],
       "specs": {
         "color": "Alb"
@@ -5022,8 +5022,8 @@
       "ean": "887539010522",
       "name": "Set Flash cu Baterii M-WAVE COBRA IV - Verde",
       "brand": "M-WAVE",
-      "category": "➤ Set Lumini",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Set Lumini",
+      "category": "Set Lumini",
+      "category_path": "Accesorii > Lumini - Accesorii > Set Lumini",
       "price": 28.6,
       "price_net": 23.64,
       "currency": "RON",
@@ -5040,7 +5040,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Set Lumini"
+        "Set Lumini"
       ],
       "specs": {
         "color": "Verde"
@@ -5763,7 +5763,7 @@
       "price_net": 227.27,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 0.85,
       "url": "https://www.bikestylish.ro/sa-city-comfort-velo-fit-townie-xxl-200-230-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/sa-city-comfort-velo-fit-townie-xxl-200-230-mm~8280160.jpg",
@@ -6996,8 +6996,8 @@
       "ean": "887539024611",
       "name": "Oglinda Bicicleta M-WAVE SPY SPACE Dreapta",
       "brand": "M-WAVE",
-      "category": "➤ Oglinzi",
-      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
+      "category": "Oglinzi",
+      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
       "price": 104.5,
       "price_net": 86.36,
       "currency": "RON",
@@ -7016,7 +7016,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Oglinzi"
+        "Oglinzi"
       ]
     },
     {
@@ -7025,8 +7025,8 @@
       "ean": "887539024598",
       "name": "Oglinda Bicicleta M-WAVE SPY SPACE IN R = L",
       "brand": "M-WAVE",
-      "category": "➤ Oglinzi",
-      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
+      "category": "Oglinzi",
+      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
       "price": 108.9,
       "price_net": 90.0,
       "currency": "RON",
@@ -7045,7 +7045,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Oglinzi"
+        "Oglinzi"
       ]
     },
     {
@@ -7054,8 +7054,8 @@
       "ean": "887539023041",
       "name": "Oglinda Bicicleta M-WAVE SPY SPACE Stanga",
       "brand": "M-WAVE",
-      "category": "➤ Oglinzi",
-      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
+      "category": "Oglinzi",
+      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
       "price": 104.5,
       "price_net": 86.36,
       "currency": "RON",
@@ -7074,7 +7074,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Oglinzi"
+        "Oglinzi"
       ]
     },
     {
@@ -7083,8 +7083,8 @@
       "ean": "4015493270041",
       "name": "Oglinda Bicicleta M-WAVE SPY MAXI",
       "brand": "M-WAVE",
-      "category": "➤ Oglinzi",
-      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
+      "category": "Oglinzi",
+      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
       "price": 37.0,
       "price_net": 30.58,
       "currency": "RON",
@@ -7102,7 +7102,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Oglinzi"
+        "Oglinzi"
       ]
     },
     {
@@ -7111,8 +7111,8 @@
       "ean": "887539009021",
       "name": "Oglinda Bicicleta M-WAVE 3D SPY OVAL",
       "brand": "M-WAVE",
-      "category": "➤ Oglinzi",
-      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
+      "category": "Oglinzi",
+      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
       "price": 37.4,
       "price_net": 30.91,
       "currency": "RON",
@@ -7130,7 +7130,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Oglinzi"
+        "Oglinzi"
       ]
     },
     {
@@ -7139,8 +7139,8 @@
       "ean": "4015493270003",
       "name": "Oglinda Bicicleta M-WAVE SPY MINI",
       "brand": "M-WAVE",
-      "category": "➤ Oglinzi",
-      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
+      "category": "Oglinzi",
+      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
       "price": 45.0,
       "price_net": 37.19,
       "currency": "RON",
@@ -7159,7 +7159,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Oglinzi"
+        "Oglinzi"
       ]
     },
     {
@@ -7168,8 +7168,8 @@
       "ean": "887539010577",
       "name": "Oglinda Bicicleta M-WAVE SPY MINI SHORT",
       "brand": "M-WAVE",
-      "category": "➤ Oglinzi",
-      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
+      "category": "Oglinzi",
+      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
@@ -7188,7 +7188,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Oglinzi"
+        "Oglinzi"
       ]
     },
     {
@@ -7197,8 +7197,8 @@
       "ean": "4015493270065",
       "name": "Oglinda Bicicleta M-WAVE 3D ,SPY MICRO",
       "brand": "M-WAVE",
-      "category": "➤ Oglinzi",
-      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
+      "category": "Oglinzi",
+      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
       "price": 41.8,
       "price_net": 34.55,
       "currency": "RON",
@@ -7217,7 +7217,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Oglinzi"
+        "Oglinzi"
       ]
     },
     {
@@ -7226,8 +7226,8 @@
       "ean": "887539027995",
       "name": "Oglinda Bicicleta TRUMPF ANTI-GLARE CP",
       "brand": "TRUMPF",
-      "category": "➤ Oglinzi",
-      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
+      "category": "Oglinzi",
+      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
       "price": 28.0,
       "price_net": 23.14,
       "currency": "RON",
@@ -7242,8 +7242,8 @@
       ],
       "tags": [
         "Accesorii",
-        "TRUMPF",
-        "➤ Oglinzi"
+        "Oglinzi",
+        "TRUMPF"
       ]
     },
     {
@@ -7252,8 +7252,8 @@
       "ean": "2800059000000",
       "name": "Niplu cnSPOKE 14G-S UCP 2.0 X 12 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Nipluri - Accesorii",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Nipluri - Accesorii",
+      "category": "Nipluri - Accesorii",
+      "category_path": "Roti > Spite si Nipluri > Nipluri - Accesorii",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -7266,9 +7266,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/niplu-cnspoke-14g-s-ucp-2-0-x-12-mm-silver~8280313.jpg"
       ],
       "tags": [
+        "Nipluri - Accesorii",
         "Roti",
-        "cnSPOKE",
-        "➤ Nipluri - Accesorii"
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -7280,8 +7280,8 @@
       "ean": "2800018000003",
       "name": "Solutie pentru Nipluri cn SPOKE 15 ml",
       "brand": "cnSPOKE",
-      "category": "➤Bike Maintenance - Intretinere",
-      "category_path": "SERVICE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
+      "category": "Bike Maintenance - Intretinere",
+      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
       "price": 66.0,
       "price_net": 54.55,
       "currency": "RON",
@@ -7295,9 +7295,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/solutie-pentru-nipluri-cn-spoke-15-ml~8281228.jpg"
       ],
       "tags": [
-        "SERVICE",
-        "cnSPOKE",
-        "➤Bike Maintenance - Intretinere"
+        "Bike Maintenance - Intretinere",
+        "Service",
+        "cnSPOKE"
       ]
     },
     {
@@ -7306,8 +7306,8 @@
       "ean": "887539006297",
       "name": "Niplu Aluminiu cnSPOKE 14G-A 14 - 2 mm Rosu",
       "brand": "cnSPOKE",
-      "category": "➤ Nipluri - Accesorii",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Nipluri - Accesorii",
+      "category": "Nipluri - Accesorii",
+      "category_path": "Roti > Spite si Nipluri > Nipluri - Accesorii",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -7322,9 +7322,9 @@
       ],
       "tags": [
         "Aluminiu",
+        "Nipluri - Accesorii",
         "Roti",
-        "cnSPOKE",
-        "➤ Nipluri - Accesorii"
+        "cnSPOKE"
       ],
       "specs": {
         "material": "Aluminiu",
@@ -7337,8 +7337,8 @@
       "ean": "2800394000000",
       "name": "Niplu cnSPOKE 14G-S UCP 2.0 X 16mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Nipluri - Accesorii",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Nipluri - Accesorii",
+      "category": "Nipluri - Accesorii",
+      "category_path": "Roti > Spite si Nipluri > Nipluri - Accesorii",
       "price": 0.39,
       "price_net": 0.32,
       "currency": "RON",
@@ -7351,9 +7351,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/niplu-cnspoke-14g-s-ucp-2-0-x-16mm-silver~8280328.jpg"
       ],
       "tags": [
+        "Nipluri - Accesorii",
         "Roti",
-        "cnSPOKE",
-        "➤ Nipluri - Accesorii"
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -7362,11 +7362,32 @@
   ],
   "categories": [
     {
+      "id": "accesorii",
+      "name": "Accesorii",
+      "full_path": "Componente > Transmisie > ⬤ Angrenaje > Accesorii",
+      "product_count": 29,
+      "in_stock_count": 18
+    },
+    {
+      "id": "accesorii-aparatori-noroi",
+      "name": "Accesorii Aparatori Noroi",
+      "full_path": "Accesorii > Aparatori Noroi > Accesorii Aparatori Noroi",
+      "product_count": 1,
+      "in_stock_count": 1
+    },
+    {
       "id": "accesorii-e-bike",
       "name": "Accesorii E-Bike",
       "full_path": "E-Mobility > Accesorii E-Bike",
       "product_count": 8,
       "in_stock_count": 8
+    },
+    {
+      "id": "accesorii-lumini",
+      "name": "Accesorii Lumini",
+      "full_path": "Accesorii > Lumini - Accesorii > Accesorii Lumini",
+      "product_count": 9,
+      "in_stock_count": 6
     },
     {
       "id": "accesorii-pedale",
@@ -7385,9 +7406,16 @@
     {
       "id": "amenajare-magazin",
       "name": "Amenajare Magazin",
-      "full_path": "SERVICE > Amenajare Magazin",
+      "full_path": "Service > Amenajare Magazin",
       "product_count": 18,
       "in_stock_count": 5
+    },
+    {
+      "id": "angrenaje",
+      "name": "Angrenaje",
+      "full_path": "Componente > Transmisie > ⬤ Angrenaje > Angrenaje",
+      "product_count": 115,
+      "in_stock_count": 68
     },
     {
       "id": "angrenaje-e-bike",
@@ -7397,11 +7425,46 @@
       "in_stock_count": 10
     },
     {
+      "id": "antifurturi-u-lock",
+      "name": "Antifurturi  U-Lock",
+      "full_path": "Accesorii > Antifurturi - Alarme > Antifurturi  U-Lock",
+      "product_count": 6,
+      "in_stock_count": 6
+    },
+    {
       "id": "antifurturi-alarme",
       "name": "Antifurturi - Alarme",
       "full_path": "Accesorii > Antifurturi - Alarme",
       "product_count": 5,
       "in_stock_count": 4
+    },
+    {
+      "id": "antifurturi-lant",
+      "name": "Antifurturi Lant",
+      "full_path": "Accesorii > Antifurturi - Alarme > Antifurturi Lant",
+      "product_count": 10,
+      "in_stock_count": 8
+    },
+    {
+      "id": "antifurturi-pliabile",
+      "name": "Antifurturi Pliabile",
+      "full_path": "Accesorii > Antifurturi - Alarme > Antifurturi Pliabile",
+      "product_count": 2,
+      "in_stock_count": 2
+    },
+    {
+      "id": "antifurturi-cu-cheie",
+      "name": "Antifurturi cu Cheie",
+      "full_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cheie",
+      "product_count": 21,
+      "in_stock_count": 8
+    },
+    {
+      "id": "antifurturi-cu-cifru",
+      "name": "Antifurturi cu Cifru",
+      "full_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cifru",
+      "product_count": 13,
+      "in_stock_count": 8
     },
     {
       "id": "anvelope-camere",
@@ -7422,14 +7485,49 @@
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 190,
-      "in_stock_count": 114
+      "in_stock_count": 113
     },
     {
-      "id": "aparatori-angrenaj-accesorii",
-      "name": "Aparatori Angrenaj - Accesorii",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > Aparatori Angrenaj - Accesorii",
-      "product_count": 9,
-      "in_stock_count": 5
+      "id": "aparatori-noroi-fata",
+      "name": "Aparatori Noroi Fata",
+      "full_path": "Accesorii > Aparatori Noroi > Aparatori Noroi Fata",
+      "product_count": 7,
+      "in_stock_count": 7
+    },
+    {
+      "id": "aparatori-noroi-spate",
+      "name": "Aparatori Noroi Spate",
+      "full_path": "Accesorii > Aparatori Noroi > Aparatori Noroi Spate",
+      "product_count": 10,
+      "in_stock_count": 10
+    },
+    {
+      "id": "axe-accesorii-butuci",
+      "name": "Axe - Accesorii Butuci",
+      "full_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
+      "product_count": 59,
+      "in_stock_count": 38
+    },
+    {
+      "id": "bagaje-cadru",
+      "name": "Bagaje Cadru",
+      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Cadru",
+      "product_count": 17,
+      "in_stock_count": 14
+    },
+    {
+      "id": "bagaje-ghidon",
+      "name": "Bagaje Ghidon",
+      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Ghidon",
+      "product_count": 11,
+      "in_stock_count": 10
+    },
+    {
+      "id": "bagaje-spate",
+      "name": "Bagaje Spate",
+      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
+      "product_count": 43,
+      "in_stock_count": 37
     },
     {
       "id": "banda-janta-tubeless",
@@ -7474,16 +7572,65 @@
       "in_stock_count": 0
     },
     {
+      "id": "bidoane-ciclism",
+      "name": "Bidoane Ciclism",
+      "full_path": "Accesorii > Bidoane - Suporti Bidon > Bidoane Ciclism",
+      "product_count": 21,
+      "in_stock_count": 17
+    },
+    {
+      "id": "bike-care-ingrijire",
+      "name": "Bike Care - Ingrijire",
+      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
+      "product_count": 6,
+      "in_stock_count": 4
+    },
+    {
+      "id": "bike-computer",
+      "name": "Bike Computer",
+      "full_path": "Accesorii > Electronice > Bike Computer",
+      "product_count": 6,
+      "in_stock_count": 4
+    },
+    {
+      "id": "bike-lube-lubrefiere",
+      "name": "Bike Lube - Lubrefiere",
+      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "product_count": 13,
+      "in_stock_count": 5
+    },
+    {
+      "id": "bike-maintenance-intretinere",
+      "name": "Bike Maintenance - Intretinere",
+      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
+      "product_count": 14,
+      "in_stock_count": 6
+    },
+    {
+      "id": "butuci-frana-disc",
+      "name": "Butuci Frana Disc",
+      "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
+      "product_count": 122,
+      "in_stock_count": 67
+    },
+    {
       "id": "butuci-pedalieri",
       "name": "Butuci Pedalieri",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > Butuci Pedalieri",
+      "full_path": "Componente > Transmisie > ⬤ Angrenaje > Butuci Pedalieri",
       "product_count": 55,
       "in_stock_count": 46
     },
     {
+      "id": "butuci-v-break-dinam",
+      "name": "Butuci V-Break - Dinam",
+      "full_path": "Roti > Butuci - Accesorii > Butuci V-Break - Dinam",
+      "product_count": 51,
+      "in_stock_count": 41
+    },
+    {
       "id": "cabluri",
       "name": "Cabluri",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > Cabluri",
+      "full_path": "Componente > Transmisie > ⬤ Cabluri - Camasi > Cabluri",
       "product_count": 15,
       "in_stock_count": 10
     },
@@ -7497,23 +7644,58 @@
     {
       "id": "cadre-ssp-fixie",
       "name": "Cadre SSP - Fixie",
-      "full_path": "Componente > Urechi - Protectii - Cadre > Cadre SSP - Fixie",
+      "full_path": "Componente > Urechi - Cadre > Cadre SSP - Fixie",
       "product_count": 3,
       "in_stock_count": 2
+    },
+    {
+      "id": "camasi",
+      "name": "Camasi",
+      "full_path": "Componente > Transmisie > ⬤ Cabluri - Camasi > Camasi",
+      "product_count": 13,
+      "in_stock_count": 13
     },
     {
       "id": "camere-bicicleta",
       "name": "Camere Bicicleta",
       "full_path": "Componente > Anvelope - Camere > Camere Bicicleta",
       "product_count": 108,
-      "in_stock_count": 67
+      "in_stock_count": 66
     },
     {
-      "id": "capete-cablu-manta",
-      "name": "Capete Cablu - Manta",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > Capete Cablu - Manta",
-      "product_count": 20,
-      "in_stock_count": 14
+      "id": "carcase-prinderi-smartphone",
+      "name": "Carcase - Prinderi SmartPhone",
+      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Carcase - Prinderi SmartPhone",
+      "product_count": 9,
+      "in_stock_count": 7
+    },
+    {
+      "id": "cartuse-co2-accesorii-pompe",
+      "name": "Cartuse CO2 - Accesorii Pompe",
+      "full_path": "Accesorii > Pompe Ciclism > Cartuse CO2 - Accesorii Pompe",
+      "product_count": 5,
+      "in_stock_count": 3
+    },
+    {
+      "id": "casete-butuci",
+      "name": "Casete Butuci",
+      "full_path": "Roti > Butuci - Accesorii > Casete Butuci",
+      "product_count": 14,
+      "in_stock_count": 9
+    },
+    {
+      "id": "chei-dinamometrice",
+      "name": "Chei Dinamometrice",
+      "full_path": "Service > Unelte Service > Chei Dinamometrice",
+      "product_count": 5,
+      "in_stock_count": 2
+    },
+    {
+      "id": "chei-universale",
+      "name": "Chei Universale",
+      "full_path": "Service > Unelte Service > Chei Universale",
+      "product_count": 1,
+      "in_stock_count": 1
     },
     {
       "id": "coliere-tija-sa",
@@ -7537,6 +7719,20 @@
       "in_stock_count": 1
     },
     {
+      "id": "cosuri-transport-fata",
+      "name": "Cosuri Transport Fata",
+      "full_path": "Accesorii > Cosuri Transport > Cosuri Transport Fata",
+      "product_count": 21,
+      "in_stock_count": 15
+    },
+    {
+      "id": "cosuri-transport-spate",
+      "name": "Cosuri Transport Spate",
+      "full_path": "Accesorii > Cosuri Transport > Cosuri Transport Spate",
+      "product_count": 15,
+      "in_stock_count": 12
+    },
+    {
       "id": "cricuri-bicicleta",
       "name": "Cricuri Bicicleta",
       "full_path": "Accesorii > Cricuri Bicicleta",
@@ -7544,11 +7740,32 @@
       "in_stock_count": 3
     },
     {
-      "id": "cuveti-headset",
-      "name": "Cuveti(HeadSet)",
-      "full_path": "Componente > Furci - Suspensii - Cuveti > Cuveti(HeadSet)",
+      "id": "cricuri-mijloc",
+      "name": "Cricuri Mijloc",
+      "full_path": "Accesorii > Cricuri Bicicleta > Cricuri Mijloc",
+      "product_count": 12,
+      "in_stock_count": 8
+    },
+    {
+      "id": "cricuri-spate",
+      "name": "Cricuri Spate",
+      "full_path": "Accesorii > Cricuri Bicicleta > Cricuri Spate",
+      "product_count": 14,
+      "in_stock_count": 9
+    },
+    {
+      "id": "cuvete",
+      "name": "Cuvete",
+      "full_path": "Componente > Furci - Suspensii - Cuveti > Cuvete",
       "product_count": 35,
       "in_stock_count": 28
+    },
+    {
+      "id": "depozitare-biciclete",
+      "name": "Depozitare Biciclete",
+      "full_path": "Accesorii > Transport - Depozitare > Depozitare Biciclete",
+      "product_count": 21,
+      "in_stock_count": 17
     },
     {
       "id": "discuri-rotoare",
@@ -7581,7 +7798,7 @@
     {
       "id": "foi-angrenaje",
       "name": "Foi Angrenaje",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > Foi Angrenaje",
+      "full_path": "Componente > Transmisie > ⬤ Angrenaje > Foi Angrenaje",
       "product_count": 37,
       "in_stock_count": 25
     },
@@ -7628,9 +7845,9 @@
       "in_stock_count": 2
     },
     {
-      "id": "intinzatoare-lant-directionare",
-      "name": "Intinzatoare Lant - Directionare",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > Intinzatoare Lant - Directionare",
+      "id": "intinzatoare-lant",
+      "name": "Intinzatoare Lant",
+      "full_path": "Componente > Transmisie > ⬤ Lanturi > Intinzatoare Lant",
       "product_count": 5,
       "in_stock_count": 4
     },
@@ -7642,10 +7859,31 @@
       "in_stock_count": 5
     },
     {
+      "id": "jante-fat-bike",
+      "name": "Jante Fat  Bike",
+      "full_path": "Roti > Jante > Jante Fat  Bike",
+      "product_count": 3,
+      "in_stock_count": 3
+    },
+    {
+      "id": "jante-pentru-frane-disc",
+      "name": "Jante pentru Frane Disc",
+      "full_path": "Roti > Jante > Jante pentru Frane Disc",
+      "product_count": 56,
+      "in_stock_count": 29
+    },
+    {
+      "id": "jante-pentru-frane-v-brake",
+      "name": "Jante pentru Frane V-Brake",
+      "full_path": "Roti > Jante > Jante pentru Frane V-Brake",
+      "product_count": 23,
+      "in_stock_count": 21
+    },
+    {
       "id": "lanturi",
       "name": "Lanturi",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > Lanturi",
-      "product_count": 75,
+      "full_path": "Componente > Transmisie > ⬤ Lanturi > Lanturi",
+      "product_count": 77,
       "in_stock_count": 58
     },
     {
@@ -7654,6 +7892,20 @@
       "full_path": "Accesorii > Lumini - Accesorii",
       "product_count": 4,
       "in_stock_count": 2
+    },
+    {
+      "id": "lumini-fata",
+      "name": "Lumini Fata",
+      "full_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
+      "product_count": 30,
+      "in_stock_count": 26
+    },
+    {
+      "id": "lumini-spate",
+      "name": "Lumini Spate",
+      "full_path": "Accesorii > Lumini - Accesorii > Lumini Spate",
+      "product_count": 31,
+      "in_stock_count": 27
     },
     {
       "id": "manete-frana",
@@ -7665,14 +7917,14 @@
     {
       "id": "manete-frana-schimbator",
       "name": "Manete Frana  - Schimbator",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > Manete Frana  - Schimbator",
+      "full_path": "Componente > Transmisie > ⬤ Schimbatoare > Manete Frana  - Schimbator",
       "product_count": 3,
       "in_stock_count": 3
     },
     {
       "id": "manete-schimbator",
       "name": "Manete Schimbator",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > Manete Schimbator",
+      "full_path": "Componente > Transmisie > ⬤ Schimbatoare > Manete Schimbator",
       "product_count": 27,
       "in_stock_count": 20
     },
@@ -7684,13 +7936,6 @@
       "in_stock_count": 69
     },
     {
-      "id": "mantale",
-      "name": "Mantale",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > Mantale",
-      "product_count": 13,
-      "in_stock_count": 13
-    },
-    {
       "id": "manusi-ciclism",
       "name": "Manusi Ciclism",
       "full_path": "Echipamente > Manusi Ciclism",
@@ -7698,11 +7943,32 @@
       "in_stock_count": 27
     },
     {
+      "id": "mini-pompe",
+      "name": "Mini Pompe",
+      "full_path": "Accesorii > Pompe Ciclism > Mini Pompe",
+      "product_count": 14,
+      "in_stock_count": 14
+    },
+    {
       "id": "motoare-e-bike",
       "name": "Motoare E-Bike",
       "full_path": "E-Mobility > Motoare E-Bike",
       "product_count": 11,
       "in_stock_count": 7
+    },
+    {
+      "id": "nipluri-accesorii",
+      "name": "Nipluri - Accesorii",
+      "full_path": "Roti > Spite si Nipluri > Nipluri - Accesorii",
+      "product_count": 12,
+      "in_stock_count": 9
+    },
+    {
+      "id": "oglinzi",
+      "name": "Oglinzi",
+      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
+      "product_count": 25,
+      "in_stock_count": 21
     },
     {
       "id": "pantaloni-ciclism",
@@ -7736,27 +8002,20 @@
       "id": "pedale-platforma",
       "name": "Pedale Platforma",
       "full_path": "Componente > Pedale - Accesorii > Pedale Platforma",
-      "product_count": 148,
+      "product_count": 147,
       "in_stock_count": 90
-    },
-    {
-      "id": "pedaliere-angrenaje",
-      "name": "Pedaliere - Angrenaje",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > Pedaliere - Angrenaje",
-      "product_count": 114,
-      "in_stock_count": 68
     },
     {
       "id": "pinioane-casetate",
       "name": "Pinioane Casetate",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Pinioane > Pinioane Casetate",
+      "full_path": "Componente > Transmisie > ⬤ Pinioane > Pinioane Casetate",
       "product_count": 10,
       "in_stock_count": 5
     },
     {
       "id": "pionioane-filetate",
       "name": "Pionioane Filetate",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Pinioane > Pionioane Filetate",
+      "full_path": "Componente > Transmisie > ⬤ Pinioane > Pionioane Filetate",
       "product_count": 42,
       "in_stock_count": 30
     },
@@ -7768,9 +8027,9 @@
       "in_stock_count": 38
     },
     {
-      "id": "placute-frana-disc",
-      "name": "Placute Frana Disc",
-      "full_path": "Componente > Sisteme Franare > Placute Frana Disc",
+      "id": "placute-frana",
+      "name": "Placute Frana",
+      "full_path": "Componente > Sisteme Franare > Placute Frana",
       "product_count": 26,
       "in_stock_count": 21
     },
@@ -7782,11 +8041,39 @@
       "in_stock_count": 2
     },
     {
+      "id": "pompe-furca-tubeless",
+      "name": "Pompe Furca - Tubeless",
+      "full_path": "Accesorii > Pompe Ciclism > Pompe Furca - Tubeless",
+      "product_count": 6,
+      "in_stock_count": 4
+    },
+    {
+      "id": "pompe-podea",
+      "name": "Pompe Podea",
+      "full_path": "Accesorii > Pompe Ciclism > Pompe Podea",
+      "product_count": 11,
+      "in_stock_count": 8
+    },
+    {
       "id": "portbagaje",
       "name": "Portbagaje",
       "full_path": "Accesorii > Portbagaje",
       "product_count": 7,
       "in_stock_count": 7
+    },
+    {
+      "id": "portbagaje-fata",
+      "name": "Portbagaje Fata",
+      "full_path": "Accesorii > Portbagaje > Portbagaje Fata",
+      "product_count": 5,
+      "in_stock_count": 5
+    },
+    {
+      "id": "portbagaje-spate",
+      "name": "Portbagaje Spate",
+      "full_path": "Accesorii > Portbagaje > Portbagaje Spate",
+      "product_count": 15,
+      "in_stock_count": 13
     },
     {
       "id": "protectii-antipana",
@@ -7796,18 +8083,53 @@
       "in_stock_count": 26
     },
     {
-      "id": "protectii-lant-cadru",
-      "name": "Protectii Lant - Cadru",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > Protectii Lant - Cadru",
+      "id": "protectii-lant",
+      "name": "Protectii Lant",
+      "full_path": "Componente > Transmisie > ⬤ Lanturi > Protectii Lant",
       "product_count": 10,
       "in_stock_count": 6
+    },
+    {
+      "id": "reflectorizante",
+      "name": "Reflectorizante",
+      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Reflectorizante",
+      "product_count": 21,
+      "in_stock_count": 19
     },
     {
       "id": "roti-ajutatoare-articole-copii",
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "Accesorii > Roti Ajutatoare - Articole Copii",
       "product_count": 16,
-      "in_stock_count": 12
+      "in_stock_count": 11
+    },
+    {
+      "id": "roti-fata",
+      "name": "Roti Fata",
+      "full_path": "Roti > Roti Bicicleta > Roti Fata",
+      "product_count": 37,
+      "in_stock_count": 34
+    },
+    {
+      "id": "roti-spate",
+      "name": "Roti Spate",
+      "full_path": "Roti > Roti Bicicleta > Roti Spate",
+      "product_count": 48,
+      "in_stock_count": 45
+    },
+    {
+      "id": "roti-custom-hand-built",
+      "name": "Roți Custom / Hand-Built",
+      "full_path": "Roti > Roti Bicicleta > Roți Custom / Hand-Built",
+      "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
+      "id": "rucsaci",
+      "name": "Rucsaci",
+      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Rucsaci",
+      "product_count": 3,
+      "in_stock_count": 3
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -7817,18 +8139,11 @@
       "in_stock_count": 2
     },
     {
-      "id": "rulmenti-headset",
-      "name": "Rulmenti(HeadSet)",
-      "full_path": "Componente > Furci - Suspensii - Cuveti > Rulmenti(HeadSet)",
+      "id": "rulmenti",
+      "name": "Rulmenti",
+      "full_path": "Componente > Furci - Suspensii - Cuveti > Rulmenti",
       "product_count": 6,
       "in_stock_count": 4
-    },
-    {
-      "id": "service",
-      "name": "SERVICE",
-      "full_path": "SERVICE",
-      "product_count": 17,
-      "in_stock_count": 13
     },
     {
       "id": "saboti-frana",
@@ -7838,16 +8153,23 @@
       "in_stock_count": 12
     },
     {
+      "id": "scaune-bicicleta-copii",
+      "name": "Scaune Bicicleta Copii",
+      "full_path": "Accesorii > Roti Ajutatoare - Articole Copii > Scaune Bicicleta Copii",
+      "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
       "id": "schimbatoare-fata",
       "name": "Schimbatoare Fata",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > Schimbatoare Fata",
+      "full_path": "Componente > Transmisie > ⬤ Schimbatoare > Schimbatoare Fata",
       "product_count": 7,
       "in_stock_count": 6
     },
     {
       "id": "schimbatoare-spate",
       "name": "Schimbatoare Spate",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > Schimbatoare Spate",
+      "full_path": "Componente > Transmisie > ⬤ Schimbatoare > Schimbatoare Spate",
       "product_count": 27,
       "in_stock_count": 20
     },
@@ -7866,6 +8188,34 @@
       "in_stock_count": 1
     },
     {
+      "id": "service",
+      "name": "Service",
+      "full_path": "Service",
+      "product_count": 17,
+      "in_stock_count": 13
+    },
+    {
+      "id": "set-lumini",
+      "name": "Set Lumini",
+      "full_path": "Accesorii > Lumini - Accesorii > Set Lumini",
+      "product_count": 25,
+      "in_stock_count": 19
+    },
+    {
+      "id": "seturi-aparatori-noroi",
+      "name": "Seturi Aparatori Noroi",
+      "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori Noroi",
+      "product_count": 29,
+      "in_stock_count": 24
+    },
+    {
+      "id": "seturi-roti",
+      "name": "Seturi Roti",
+      "full_path": "Roti > Roti Bicicleta > Seturi Roti",
+      "product_count": 26,
+      "in_stock_count": 23
+    },
+    {
       "id": "sistem-velo-fit",
       "name": "Sistem VELO - FIT",
       "full_path": "Componente > Sei - Tije - Coliere > Sistem VELO - FIT",
@@ -7873,10 +8223,59 @@
       "in_stock_count": 17
     },
     {
+      "id": "sonerii",
+      "name": "Sonerii",
+      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Sonerii",
+      "product_count": 50,
+      "in_stock_count": 42
+    },
+    {
       "id": "sonerii-oglinzi-reflectorizante",
       "name": "Sonerii - Oglinzi - Reflectorizante",
       "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante",
       "product_count": 2,
+      "in_stock_count": 2
+    },
+    {
+      "id": "spite-stainless",
+      "name": "Spite Stainless",
+      "full_path": "Roti > Spite si Nipluri > Spite Stainless",
+      "product_count": 165,
+      "in_stock_count": 94
+    },
+    {
+      "id": "spite-stainless-2-3-mm",
+      "name": "Spite Stainless - 2,3 mm",
+      "full_path": "Roti > Spite si Nipluri > Spite Stainless - 2,3 mm",
+      "product_count": 11,
+      "in_stock_count": 7
+    },
+    {
+      "id": "spite-stainless-aero",
+      "name": "Spite Stainless Aero",
+      "full_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
+      "product_count": 24,
+      "in_stock_count": 1
+    },
+    {
+      "id": "spite-ucp",
+      "name": "Spite UCP",
+      "full_path": "Roti > Spite si Nipluri > Spite UCP",
+      "product_count": 58,
+      "in_stock_count": 26
+    },
+    {
+      "id": "suporturi-bidon",
+      "name": "Suporturi Bidon",
+      "full_path": "Accesorii > Bidoane - Suporti Bidon > Suporturi Bidon",
+      "product_count": 50,
+      "in_stock_count": 40
+    },
+    {
+      "id": "suruburi-piulite-saibe",
+      "name": "Suruburi - Piulite - Saibe",
+      "full_path": "Service > Unelte Service > Suruburi - Piulite - Saibe",
+      "product_count": 6,
       "in_stock_count": 2
     },
     {
@@ -7901,6 +8300,20 @@
       "in_stock_count": 4
     },
     {
+      "id": "transport-biciclete",
+      "name": "Transport Biciclete",
+      "full_path": "Accesorii > Transport - Depozitare > Transport Biciclete",
+      "product_count": 5,
+      "in_stock_count": 1
+    },
+    {
+      "id": "transport-copii",
+      "name": "Transport Copii",
+      "full_path": "Accesorii > Roti Ajutatoare - Articole Copii > Transport Copii",
+      "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
       "id": "tricouri-ciclism",
       "name": "Tricouri Ciclism",
       "full_path": "Echipamente > Tricouri Ciclism",
@@ -7911,27 +8324,41 @@
       "id": "trotinete-electrice",
       "name": "Trotinete Electrice",
       "full_path": "E-Mobility > Trotinete Electrice",
-      "product_count": 38,
+      "product_count": 37,
       "in_stock_count": 13
+    },
+    {
+      "id": "truse-unelte-mini-truse",
+      "name": "Truse Unelte - Mini Truse",
+      "full_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
+      "product_count": 17,
+      "in_stock_count": 16
     },
     {
       "id": "unelte-service",
       "name": "Unelte Service",
-      "full_path": "SERVICE > Unelte Service",
+      "full_path": "Service > Unelte Service",
       "product_count": 5,
       "in_stock_count": 3
     },
     {
-      "id": "urechi-protectii-cadre",
-      "name": "Urechi - Protectii - Cadre",
-      "full_path": "Componente > Urechi - Protectii - Cadre",
+      "id": "unelte-speciale-biciclete",
+      "name": "Unelte Speciale Biciclete",
+      "full_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "product_count": 177,
+      "in_stock_count": 146
+    },
+    {
+      "id": "urechi-cadre",
+      "name": "Urechi - Cadre",
+      "full_path": "Componente > Urechi - Cadre",
       "product_count": 1,
       "in_stock_count": 0
     },
     {
       "id": "urechi-cadru",
       "name": "Urechi Cadru",
-      "full_path": "Componente > Urechi - Protectii - Cadre > Urechi Cadru",
+      "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
       "in_stock_count": 406
     },
@@ -7943,256 +8370,11 @@
       "in_stock_count": 1
     },
     {
-      "id": "accesorii-aparatori-noroi",
-      "name": "➤ Accesorii Aparatori Noroi",
-      "full_path": "Accesorii > Aparatori Noroi > ➤ Accesorii Aparatori Noroi",
-      "product_count": 1,
-      "in_stock_count": 1
-    },
-    {
-      "id": "accesorii-lumini",
-      "name": "➤ Accesorii Lumini",
-      "full_path": "Accesorii > Lumini - Accesorii > ➤ Accesorii Lumini",
-      "product_count": 9,
-      "in_stock_count": 6
-    },
-    {
-      "id": "antifurturi-u-lock",
-      "name": "➤ Antifurturi  U-Lock",
-      "full_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi  U-Lock",
-      "product_count": 6,
-      "in_stock_count": 6
-    },
-    {
-      "id": "antifurturi-lant",
-      "name": "➤ Antifurturi Lant",
-      "full_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi Lant",
-      "product_count": 10,
-      "in_stock_count": 8
-    },
-    {
-      "id": "antifurturi-pliabile",
-      "name": "➤ Antifurturi Pliabile",
-      "full_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi Pliabile",
-      "product_count": 2,
-      "in_stock_count": 2
-    },
-    {
-      "id": "antifurturi-cu-cheie",
-      "name": "➤ Antifurturi cu Cheie",
-      "full_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
-      "product_count": 21,
-      "in_stock_count": 8
-    },
-    {
-      "id": "antifurturi-cu-cifru",
-      "name": "➤ Antifurturi cu Cifru",
-      "full_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
-      "product_count": 13,
-      "in_stock_count": 8
-    },
-    {
-      "id": "aparatori-noroi-fata",
-      "name": "➤ Aparatori Noroi Fata",
-      "full_path": "Accesorii > Aparatori Noroi > ➤ Aparatori Noroi Fata",
-      "product_count": 7,
-      "in_stock_count": 7
-    },
-    {
-      "id": "aparatori-noroi-spate",
-      "name": "➤ Aparatori Noroi Spate",
-      "full_path": "Accesorii > Aparatori Noroi > ➤ Aparatori Noroi Spate",
-      "product_count": 10,
-      "in_stock_count": 10
-    },
-    {
-      "id": "axe-accesorii-butuci",
-      "name": "➤ Axe - Accesorii Butuci",
-      "full_path": "Roti > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
-      "product_count": 59,
-      "in_stock_count": 38
-    },
-    {
-      "id": "bagaje-cadru",
-      "name": "➤ Bagaje Cadru",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
-      "product_count": 17,
-      "in_stock_count": 14
-    },
-    {
-      "id": "bagaje-ghidon",
-      "name": "➤ Bagaje Ghidon",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
-      "product_count": 11,
-      "in_stock_count": 10
-    },
-    {
-      "id": "bagaje-spate",
-      "name": "➤ Bagaje Spate",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
-      "product_count": 43,
-      "in_stock_count": 37
-    },
-    {
-      "id": "bidoane-ciclism",
-      "name": "➤ Bidoane Ciclism",
-      "full_path": "Accesorii > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
-      "product_count": 21,
-      "in_stock_count": 17
-    },
-    {
-      "id": "bike-care-ingrijire",
-      "name": "➤ Bike Care - Ingrijire",
-      "full_path": "SERVICE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Care - Ingrijire",
-      "product_count": 6,
-      "in_stock_count": 4
-    },
-    {
-      "id": "bike-computer",
-      "name": "➤ Bike Computer",
-      "full_path": "Accesorii > Electronice > ➤ Bike Computer",
-      "product_count": 6,
-      "in_stock_count": 4
-    },
-    {
-      "id": "bike-lube-lubrefiere",
-      "name": "➤ Bike Lube - Lubrefiere",
-      "full_path": "SERVICE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Lube - Lubrefiere",
-      "product_count": 13,
-      "in_stock_count": 5
-    },
-    {
-      "id": "butuci-frana-disc",
-      "name": "➤ Butuci Frana Disc",
-      "full_path": "Roti > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
-      "product_count": 122,
-      "in_stock_count": 67
-    },
-    {
-      "id": "butuci-v-break-dinam",
-      "name": "➤ Butuci V-Break - Dinam",
-      "full_path": "Roti > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
-      "product_count": 51,
-      "in_stock_count": 41
-    },
-    {
-      "id": "carcase-prinderi-smartphone",
-      "name": "➤ Carcase - Prinderi SmartPhone",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Carcase - Prinderi SmartPhone",
-      "product_count": 9,
-      "in_stock_count": 7
-    },
-    {
-      "id": "cartuse-co2-accesorii-pompe",
-      "name": "➤ Cartuse CO2 - Accesorii Pompe",
-      "full_path": "Accesorii > Pompe Ciclism > ➤ Cartuse CO2 - Accesorii Pompe",
-      "product_count": 5,
-      "in_stock_count": 3
-    },
-    {
-      "id": "casete-butuci",
-      "name": "➤ Casete Butuci",
-      "full_path": "Roti > ⬤ Butuci - Accesorii > ➤ Casete Butuci",
-      "product_count": 14,
-      "in_stock_count": 9
-    },
-    {
       "id": "casti-ciclism",
       "name": "➤ Casti Ciclism",
       "full_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
       "product_count": 18,
       "in_stock_count": 4
-    },
-    {
-      "id": "chei-dinamometrice",
-      "name": "➤ Chei Dinamometrice",
-      "full_path": "SERVICE > Unelte Service > ➤ Chei Dinamometrice",
-      "product_count": 5,
-      "in_stock_count": 2
-    },
-    {
-      "id": "chei-universale",
-      "name": "➤ Chei Universale",
-      "full_path": "SERVICE > Unelte Service > ➤ Chei Universale",
-      "product_count": 1,
-      "in_stock_count": 1
-    },
-    {
-      "id": "cosuri-transport-fata",
-      "name": "➤ Cosuri Transport Fata",
-      "full_path": "Accesorii > Cosuri Transport > ➤ Cosuri Transport Fata",
-      "product_count": 21,
-      "in_stock_count": 15
-    },
-    {
-      "id": "cosuri-transport-spate",
-      "name": "➤ Cosuri Transport Spate",
-      "full_path": "Accesorii > Cosuri Transport > ➤ Cosuri Transport Spate",
-      "product_count": 15,
-      "in_stock_count": 12
-    },
-    {
-      "id": "cricuri-mijloc",
-      "name": "➤ Cricuri Mijloc",
-      "full_path": "Accesorii > Cricuri Bicicleta > ➤ Cricuri Mijloc",
-      "product_count": 12,
-      "in_stock_count": 9
-    },
-    {
-      "id": "cricuri-spate",
-      "name": "➤ Cricuri Spate",
-      "full_path": "Accesorii > Cricuri Bicicleta > ➤ Cricuri Spate",
-      "product_count": 14,
-      "in_stock_count": 9
-    },
-    {
-      "id": "jante-fat-bike",
-      "name": "➤ Jante Fat  Bike",
-      "full_path": "Roti > ⬤ Jante > ➤ Jante Fat  Bike",
-      "product_count": 3,
-      "in_stock_count": 3
-    },
-    {
-      "id": "jante-pentru-frane-disc",
-      "name": "➤ Jante pentru Frane Disc",
-      "full_path": "Roti > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 56,
-      "in_stock_count": 29
-    },
-    {
-      "id": "jante-pentru-frane-v-brake",
-      "name": "➤ Jante pentru Frane V-Brake",
-      "full_path": "Roti > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
-      "product_count": 23,
-      "in_stock_count": 21
-    },
-    {
-      "id": "lumini-fata",
-      "name": "➤ Lumini Fata",
-      "full_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Fata",
-      "product_count": 30,
-      "in_stock_count": 26
-    },
-    {
-      "id": "lumini-spate",
-      "name": "➤ Lumini Spate",
-      "full_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Spate",
-      "product_count": 31,
-      "in_stock_count": 27
-    },
-    {
-      "id": "mini-pompe",
-      "name": "➤ Mini Pompe",
-      "full_path": "Accesorii > Pompe Ciclism > ➤ Mini Pompe",
-      "product_count": 14,
-      "in_stock_count": 14
-    },
-    {
-      "id": "nipluri-accesorii",
-      "name": "➤ Nipluri - Accesorii",
-      "full_path": "Roti > ⬤ Spite si Nipluri > ➤ Nipluri - Accesorii",
-      "product_count": 12,
-      "in_stock_count": 9
     },
     {
       "id": "ochelari-ciclism",
@@ -8202,212 +8384,9 @@
       "in_stock_count": 0
     },
     {
-      "id": "oglinzi",
-      "name": "➤ Oglinzi",
-      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
-      "product_count": 25,
-      "in_stock_count": 21
-    },
-    {
-      "id": "pompe-furca-tubeless",
-      "name": "➤ Pompe Furca - Tubeless",
-      "full_path": "Accesorii > Pompe Ciclism > ➤ Pompe Furca - Tubeless",
-      "product_count": 6,
-      "in_stock_count": 4
-    },
-    {
-      "id": "pompe-podea",
-      "name": "➤ Pompe Podea",
-      "full_path": "Accesorii > Pompe Ciclism > ➤ Pompe Podea",
-      "product_count": 11,
-      "in_stock_count": 8
-    },
-    {
-      "id": "portbagaje-fata",
-      "name": "➤ Portbagaje Fata",
-      "full_path": "Accesorii > Portbagaje > ➤ Portbagaje Fata",
-      "product_count": 5,
-      "in_stock_count": 5
-    },
-    {
-      "id": "portbagaje-spate",
-      "name": "➤ Portbagaje Spate",
-      "full_path": "Accesorii > Portbagaje > ➤ Portbagaje Spate",
-      "product_count": 15,
-      "in_stock_count": 13
-    },
-    {
-      "id": "reflectorizante",
-      "name": "➤ Reflectorizante",
-      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
-      "product_count": 21,
-      "in_stock_count": 19
-    },
-    {
-      "id": "roti-fata",
-      "name": "➤ Roti Fata",
-      "full_path": "Roti > ⬤ Roti Bicicleta > ➤ Roti Fata",
-      "product_count": 37,
-      "in_stock_count": 34
-    },
-    {
-      "id": "roti-spate",
-      "name": "➤ Roti Spate",
-      "full_path": "Roti > ⬤ Roti Bicicleta > ➤ Roti Spate",
-      "product_count": 48,
-      "in_stock_count": 45
-    },
-    {
-      "id": "roti-custom-hand-built",
-      "name": "➤ Roți Custom / Hand-Built",
-      "full_path": "Roti > ⬤ Roti Bicicleta > ➤ Roți Custom / Hand-Built",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "rucsaci",
-      "name": "➤ Rucsaci",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Rucsaci",
-      "product_count": 3,
-      "in_stock_count": 3
-    },
-    {
-      "id": "scaune-bicicleta-copii",
-      "name": "➤ Scaune Bicicleta Copii",
-      "full_path": "Accesorii > Roti Ajutatoare - Articole Copii > ➤ Scaune Bicicleta Copii",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "set-lumini",
-      "name": "➤ Set Lumini",
-      "full_path": "Accesorii > Lumini - Accesorii > ➤ Set Lumini",
-      "product_count": 25,
-      "in_stock_count": 19
-    },
-    {
-      "id": "seturi-aparatori-noroi",
-      "name": "➤ Seturi Aparatori Noroi",
-      "full_path": "Accesorii > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
-      "product_count": 29,
-      "in_stock_count": 24
-    },
-    {
-      "id": "seturi-roti",
-      "name": "➤ Seturi Roti",
-      "full_path": "Roti > ⬤ Roti Bicicleta > ➤ Seturi Roti",
-      "product_count": 26,
-      "in_stock_count": 23
-    },
-    {
-      "id": "sonerii",
-      "name": "➤ Sonerii",
-      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
-      "product_count": 50,
-      "in_stock_count": 42
-    },
-    {
-      "id": "spite-stainless",
-      "name": "➤ Spite Stainless",
-      "full_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
-      "product_count": 165,
-      "in_stock_count": 94
-    },
-    {
-      "id": "spite-stainless-2-3-mm",
-      "name": "➤ Spite Stainless - 2,3 mm",
-      "full_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless - 2,3 mm",
-      "product_count": 11,
-      "in_stock_count": 7
-    },
-    {
-      "id": "spite-stainless-aero",
-      "name": "➤ Spite Stainless Aero",
-      "full_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
-      "product_count": 24,
-      "in_stock_count": 1
-    },
-    {
-      "id": "spite-ucp",
-      "name": "➤ Spite UCP",
-      "full_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
-      "product_count": 58,
-      "in_stock_count": 26
-    },
-    {
-      "id": "suporturi-bidon",
-      "name": "➤ Suporturi Bidon",
-      "full_path": "Accesorii > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 50,
-      "in_stock_count": 40
-    },
-    {
-      "id": "suruburi-piulite-saibe",
-      "name": "➤ Suruburi - Piulite - Saibe",
-      "full_path": "SERVICE > Unelte Service > ➤ Suruburi - Piulite - Saibe",
-      "product_count": 6,
-      "in_stock_count": 3
-    },
-    {
-      "id": "transport-biciclete",
-      "name": "➤ Transport Biciclete",
-      "full_path": "Accesorii > Transport - Depozitare > ➤ Transport Biciclete",
-      "product_count": 5,
-      "in_stock_count": 1
-    },
-    {
-      "id": "transport-copii",
-      "name": "➤ Transport Copii",
-      "full_path": "Accesorii > Roti Ajutatoare - Articole Copii > ➤ Transport Copii",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "truse-unelte-mini-truse",
-      "name": "➤ Truse Unelte - Mini Truse",
-      "full_path": "SERVICE > Unelte Service > ➤ Truse Unelte - Mini Truse",
-      "product_count": 17,
-      "in_stock_count": 16
-    },
-    {
-      "id": "unelte-speciale-biciclete",
-      "name": "➤ Unelte Speciale Biciclete",
-      "full_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 177,
-      "in_stock_count": 147
-    },
-    {
-      "id": "bike-maintenance-intretinere",
-      "name": "➤Bike Maintenance - Intretinere",
-      "full_path": "SERVICE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
-      "product_count": 14,
-      "in_stock_count": 6
-    },
-    {
-      "id": "depozitare-biciclete",
-      "name": "➤Depozitare Biciclete",
-      "full_path": "Accesorii > Transport - Depozitare > ➤Depozitare Biciclete",
-      "product_count": 21,
-      "in_stock_count": 17
-    },
-    {
-      "id": "angrenaje-monobloace",
-      "name": "⬤ Angrenaje - Monobloace",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "lanturi-componente",
-      "name": "⬤ Lanturi - Componente",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Lanturi - Componente",
-      "product_count": 2,
-      "in_stock_count": 0
-    },
-    {
       "id": "pinioane",
       "name": "⬤ Pinioane",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Pinioane",
+      "full_path": "Componente > Transmisie > ⬤ Pinioane",
       "product_count": 3,
       "in_stock_count": 3
     }

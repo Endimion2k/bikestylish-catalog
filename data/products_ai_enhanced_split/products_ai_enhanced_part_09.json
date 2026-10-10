@@ -1,41 +1,14 @@
 {
-  "last_updated": "2026-10-09T03:16:04.970967+00:00",
+  "last_updated": "2026-10-10T03:15:36.311875+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 20,
     "product_range": "2001-2250",
-    "original_total": 4811
+    "original_total": 4809
   },
   "products": [
-    {
-      "id": "361850",
-      "sku": "361850",
-      "ean": "2801097000007",
-      "name": "Protectie Cauciuc V-Break PROMAX - 25 buc",
-      "brand": "PROMAX",
-      "category": "Frane V - Break",
-      "category_path": "Componente > Sisteme Franare > Frane V - Break",
-      "price": 22.0,
-      "price_net": 18.18,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
-      "weight_kg": 0.06,
-      "url": "https://www.bikestylish.ro/protectie-cauciuc-v-break-promax-25-buc.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/protectie-cauciuc-v-break-promax-25-buc~11431968.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/protectie-cauciuc-v-break-promax-25-buc~11431968.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/protectie-cauciuc-v-break-promax-25-buc~8325409.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/protectie-cauciuc-v-break-promax-25-buc~8325412.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "Frane V - Break",
-        "PROMAX"
-      ]
-    },
     {
       "id": "361020",
       "sku": "361020",
@@ -217,8 +190,8 @@
       "ean": "887539015336",
       "name": "Placute Frana M-WAVE SRAM X0 Organice",
       "brand": "M-WAVE",
-      "category": "Placute Frana Disc",
-      "category_path": "Componente > Sisteme Franare > Placute Frana Disc",
+      "category": "Placute Frana",
+      "category_path": "Componente > Sisteme Franare > Placute Frana",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -231,11 +204,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/placute-frana-m-wave-sram-x0-organice~8325493.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/6/placute-frana-m-wave-sram-x0-organice~8325496.jpg"
       ],
-      "category_description": "Disc brake pads - sintered or organic",
       "tags": [
         "Componente",
         "M-WAVE",
-        "Placute Frana Disc"
+        "Placute Frana"
       ]
     },
     {
@@ -244,8 +216,8 @@
       "ean": "887539022532",
       "name": "Aparatoare Noroi Fata M-WAVE MUD MAX PLUS QR.F 26-29 Negru",
       "brand": "M-WAVE",
-      "category": "➤ Aparatori Noroi Fata",
-      "category_path": "Accesorii > Aparatori Noroi > ➤ Aparatori Noroi Fata",
+      "category": "Aparatori Noroi Fata",
+      "category_path": "Accesorii > Aparatori Noroi > Aparatori Noroi Fata",
       "price": 88.0,
       "price_net": 72.73,
       "currency": "RON",
@@ -261,8 +233,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Aparatori Noroi Fata"
+        "Aparatori Noroi Fata",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -274,8 +246,8 @@
       "ean": "887539013554",
       "name": "Aparatoare Noroi Fata M-WAVE MUD MAX QR.F II 26-29 Negru",
       "brand": "M-WAVE",
-      "category": "➤ Aparatori Noroi Fata",
-      "category_path": "Accesorii > Aparatori Noroi > ➤ Aparatori Noroi Fata",
+      "category": "Aparatori Noroi Fata",
+      "category_path": "Accesorii > Aparatori Noroi > Aparatori Noroi Fata",
       "price": 99.0,
       "price_net": 81.82,
       "currency": "RON",
@@ -290,8 +262,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Aparatori Noroi Fata"
+        "Aparatori Noroi Fata",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -303,8 +275,8 @@
       "ean": "0664533242353",
       "name": "Janta SXT 28 (622-15C) - 40 mm 32H Roz",
       "brand": "SXT",
-      "category": "➤ Jante pentru Frane V-Brake",
-      "category_path": "Roti > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
+      "category": "Jante pentru Frane V-Brake",
+      "category_path": "Roti > Jante > Jante pentru Frane V-Brake",
       "price": 170.5,
       "price_net": 140.91,
       "currency": "RON",
@@ -319,9 +291,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/janta-sxt-28-622-15c-40-mm-32h-roz~8325526.jpg"
       ],
       "tags": [
+        "Jante pentru Frane V-Brake",
         "Roti",
-        "SXT",
-        "➤ Jante pentru Frane V-Brake"
+        "SXT"
       ],
       "specs": {
         "color": "Roz"
@@ -333,8 +305,8 @@
       "ean": "887539006730",
       "name": "Cuveti Integrati TANGE 1.1/8-1.5",
       "brand": "TANGE",
-      "category": "Cuveti(HeadSet)",
-      "category_path": "Componente > Furci - Suspensii - Cuveti > Cuveti(HeadSet)",
+      "category": "Cuvete",
+      "category_path": "Componente > Furci - Suspensii - Cuveti > Cuvete",
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
@@ -349,9 +321,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/cuveti-integrati-tange-1-1-8-1-5~8325559.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/cuveti-integrati-tange-1-1-8-1-5~8325562.jpg"
       ],
+      "category_description": "Headsets - steerer tube bearings",
       "tags": [
         "Componente",
-        "Cuveti(HeadSet)",
+        "Cuvete",
         "TANGE"
       ]
     },
@@ -361,8 +334,8 @@
       "ean": "4015493390640",
       "name": "Cuveti Externi TANGE 1.1/8 Negru",
       "brand": "TANGE",
-      "category": "Cuveti(HeadSet)",
-      "category_path": "Componente > Furci - Suspensii - Cuveti > Cuveti(HeadSet)",
+      "category": "Cuvete",
+      "category_path": "Componente > Furci - Suspensii - Cuveti > Cuvete",
       "price": 154.0,
       "price_net": 127.27,
       "currency": "RON",
@@ -377,9 +350,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/cuveti-externi-tange-1-1-8-negru~8325580.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/3/cuveti-externi-tange-1-1-8-negru~8325583.jpg"
       ],
+      "category_description": "Headsets - steerer tube bearings",
       "tags": [
         "Componente",
-        "Cuveti(HeadSet)",
+        "Cuvete",
         "TANGE"
       ],
       "specs": {
@@ -392,8 +366,8 @@
       "ean": "4015493390633",
       "name": "Cuveti Externi TANGE 1.1/8 Silver",
       "brand": "TANGE",
-      "category": "Cuveti(HeadSet)",
-      "category_path": "Componente > Furci - Suspensii - Cuveti > Cuveti(HeadSet)",
+      "category": "Cuvete",
+      "category_path": "Componente > Furci - Suspensii - Cuveti > Cuvete",
       "price": 192.5,
       "price_net": 159.09,
       "currency": "RON",
@@ -408,9 +382,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/cuveti-externi-tange-1-1-8-silver~8325592.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/cuveti-externi-tange-1-1-8-silver~8325595.jpg"
       ],
+      "category_description": "Headsets - steerer tube bearings",
       "tags": [
         "Componente",
-        "Cuveti(HeadSet)",
+        "Cuvete",
         "TANGE"
       ],
       "specs": {
@@ -423,8 +398,8 @@
       "ean": "4015493390534",
       "name": "Cuveti Externi NECO 1.1/8 Negru",
       "brand": "NECO",
-      "category": "Cuveti(HeadSet)",
-      "category_path": "Componente > Furci - Suspensii - Cuveti > Cuveti(HeadSet)",
+      "category": "Cuvete",
+      "category_path": "Componente > Furci - Suspensii - Cuveti > Cuvete",
       "price": 34.0,
       "price_net": 28.1,
       "currency": "RON",
@@ -438,9 +413,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/cuveti-externi-neco-1-1-8-negru~8325604.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/cuveti-externi-neco-1-1-8-negru~8325601.jpg"
       ],
+      "category_description": "Headsets - steerer tube bearings",
       "tags": [
         "Componente",
-        "Cuveti(HeadSet)",
+        "Cuvete",
         "NECO"
       ],
       "specs": {
@@ -453,8 +429,8 @@
       "ean": "887539016920",
       "name": "Capac si Floare Cuvete M-WAVE FORK FIX 1.1/8 Negru Anodizat",
       "brand": "M-WAVE",
-      "category": "Cuveti(HeadSet)",
-      "category_path": "Componente > Furci - Suspensii - Cuveti > Cuveti(HeadSet)",
+      "category": "Cuvete",
+      "category_path": "Componente > Furci - Suspensii - Cuveti > Cuvete",
       "price": 13.0,
       "price_net": 10.74,
       "currency": "RON",
@@ -467,9 +443,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/capac-si-floare-cuvete-m-wave-fork-fix-1-1-8-negru-anodizat~8325607.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/capac-si-floare-cuvete-m-wave-fork-fix-1-1-8-negru-anodizat~11322975.jpg"
       ],
+      "category_description": "Headsets - steerer tube bearings",
       "tags": [
         "Componente",
-        "Cuveti(HeadSet)",
+        "Cuvete",
         "M-WAVE"
       ],
       "specs": {
@@ -482,8 +459,8 @@
       "ean": "2800746000009",
       "name": "Rulment SXT Integrat 1.1/4\"- 35 mm(A) x 47 mm(B) x 8 mm(C) 45/45*",
       "brand": "SXT",
-      "category": "Rulmenti(HeadSet)",
-      "category_path": "Componente > Furci - Suspensii - Cuveti > Rulmenti(HeadSet)",
+      "category": "Rulmenti",
+      "category_path": "Componente > Furci - Suspensii - Cuveti > Rulmenti",
       "price": 44.0,
       "price_net": 36.36,
       "currency": "RON",
@@ -497,7 +474,7 @@
       ],
       "tags": [
         "Componente",
-        "Rulmenti(HeadSet)",
+        "Rulmenti",
         "SXT"
       ]
     },
@@ -507,8 +484,8 @@
       "ean": "887539006716",
       "name": "Cuveti Externi TANGE 1 Negru",
       "brand": "TANGE",
-      "category": "Cuveti(HeadSet)",
-      "category_path": "Componente > Furci - Suspensii - Cuveti > Cuveti(HeadSet)",
+      "category": "Cuvete",
+      "category_path": "Componente > Furci - Suspensii - Cuveti > Cuvete",
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
@@ -522,9 +499,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/cuveti-externi-tange-1-negru~8325619.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/2/cuveti-externi-tange-1-negru~8325622.jpg"
       ],
+      "category_description": "Headsets - steerer tube bearings",
       "tags": [
         "Componente",
-        "Cuveti(HeadSet)",
+        "Cuvete",
         "TANGE"
       ],
       "specs": {
@@ -1485,8 +1463,8 @@
       "ean": "887539002527",
       "name": "Sonerie Metal M-WAVE BELL 3D I Love my Bike",
       "brand": "M-WAVE",
-      "category": "➤ Sonerii",
-      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
+      "category": "Sonerii",
+      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Sonerii",
       "price": 11.0,
       "price_net": 9.09,
       "currency": "RON",
@@ -1502,7 +1480,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Sonerii"
+        "Sonerii"
       ]
     },
     {
@@ -1511,8 +1489,8 @@
       "ean": "4015493420309",
       "name": "Sonerie Electrica M-WAVE",
       "brand": "M-WAVE",
-      "category": "➤ Sonerii",
-      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
+      "category": "Sonerii",
+      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Sonerii",
       "price": 53.9,
       "price_net": 44.55,
       "currency": "RON",
@@ -1531,7 +1509,7 @@
         "Accesorii",
         "E-Bike",
         "M-WAVE",
-        "➤ Sonerii"
+        "Sonerii"
       ],
       "specs": {
         "bike_type": [
@@ -1545,8 +1523,8 @@
       "ean": "2800220000006",
       "name": "Trompeta Nichelata SXT Corn",
       "brand": "SXT",
-      "category": "➤ Sonerii",
-      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
+      "category": "Sonerii",
+      "category_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Sonerii",
       "price": 27.5,
       "price_net": 22.73,
       "currency": "RON",
@@ -1561,7 +1539,7 @@
       "tags": [
         "Accesorii",
         "SXT",
-        "➤ Sonerii"
+        "Sonerii"
       ]
     },
     {
@@ -1570,8 +1548,8 @@
       "ean": "2800229000007",
       "name": "Cric Aluminiu SXT Strong R 26-29",
       "brand": "SXT",
-      "category": "➤ Cricuri Spate",
-      "category_path": "Accesorii > Cricuri Bicicleta > ➤ Cricuri Spate",
+      "category": "Cricuri Spate",
+      "category_path": "Accesorii > Cricuri Bicicleta > Cricuri Spate",
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -1586,8 +1564,8 @@
       "tags": [
         "Accesorii",
         "Aluminiu",
-        "SXT",
-        "➤ Cricuri Spate"
+        "Cricuri Spate",
+        "SXT"
       ],
       "specs": {
         "material": "Aluminiu"
@@ -1599,8 +1577,8 @@
       "ean": "887539025021",
       "name": "Cric Aluminiu M-WAVE COLUMN C1 24-29",
       "brand": "M-WAVE",
-      "category": "➤ Cricuri Mijloc",
-      "category_path": "Accesorii > Cricuri Bicicleta > ➤ Cricuri Mijloc",
+      "category": "Cricuri Mijloc",
+      "category_path": "Accesorii > Cricuri Bicicleta > Cricuri Mijloc",
       "secondary_categories": [
         "E-Mobility > Accesorii E-Bike"
       ],
@@ -1619,8 +1597,8 @@
       "tags": [
         "Accesorii",
         "Aluminiu",
-        "M-WAVE",
-        "➤ Cricuri Mijloc"
+        "Cricuri Mijloc",
+        "M-WAVE"
       ],
       "specs": {
         "material": "Aluminiu"
@@ -1632,8 +1610,8 @@
       "ean": "887539007546",
       "name": "Cric Aluminiu SXT - A16-20C",
       "brand": "SXT",
-      "category": "➤ Cricuri Mijloc",
-      "category_path": "Accesorii > Cricuri Bicicleta > ➤ Cricuri Mijloc",
+      "category": "Cricuri Mijloc",
+      "category_path": "Accesorii > Cricuri Bicicleta > Cricuri Mijloc",
       "price": 33.0,
       "price_net": 27.27,
       "currency": "RON",
@@ -1649,8 +1627,8 @@
       "tags": [
         "Accesorii",
         "Aluminiu",
-        "SXT",
-        "➤ Cricuri Mijloc"
+        "Cricuri Mijloc",
+        "SXT"
       ],
       "specs": {
         "material": "Aluminiu"
@@ -1662,8 +1640,8 @@
       "ean": "887539000264",
       "name": "Suport Bicicleta M-WAVE EASYSTAND 12-29 Negru",
       "brand": "M-WAVE",
-      "category": "➤Depozitare Biciclete",
-      "category_path": "Accesorii > Transport - Depozitare > ➤Depozitare Biciclete",
+      "category": "Depozitare Biciclete",
+      "category_path": "Accesorii > Transport - Depozitare > Depozitare Biciclete",
       "price": 181.5,
       "price_net": 150.0,
       "currency": "RON",
@@ -1681,8 +1659,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤Depozitare Biciclete"
+        "Depozitare Biciclete",
+        "M-WAVE"
       ],
       "specs": {
         "color": "Negru"
@@ -1694,8 +1672,8 @@
       "ean": "887539022167",
       "name": "Suport Bicicleta EASYSTAND PLUS 12-29 , 2,5 -3,25",
       "brand": "M-WAVE",
-      "category": "➤Depozitare Biciclete",
-      "category_path": "Accesorii > Transport - Depozitare > ➤Depozitare Biciclete",
+      "category": "Depozitare Biciclete",
+      "category_path": "Accesorii > Transport - Depozitare > Depozitare Biciclete",
       "price": 160.0,
       "price_net": 132.23,
       "currency": "RON",
@@ -1712,8 +1690,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤Depozitare Biciclete"
+        "Depozitare Biciclete",
+        "M-WAVE"
       ]
     },
     {
@@ -1750,8 +1728,8 @@
       "ean": "887539013707",
       "name": "Cos Rachita Transport Animale M-WAVE BA PET F + R",
       "brand": "M-WAVE",
-      "category": "➤ Cosuri Transport Spate",
-      "category_path": "Accesorii > Cosuri Transport > ➤ Cosuri Transport Spate",
+      "category": "Cosuri Transport Spate",
+      "category_path": "Accesorii > Cosuri Transport > Cosuri Transport Spate",
       "price": 544.5,
       "price_net": 450.0,
       "currency": "RON",
@@ -1769,8 +1747,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Cosuri Transport Spate"
+        "Cosuri Transport Spate",
+        "M-WAVE"
       ]
     },
     {
@@ -1779,8 +1757,8 @@
       "ean": "887539001353",
       "name": "Sistem Prindere CLIP-ON VENTURA",
       "brand": "VENTURA",
-      "category": "➤ Cosuri Transport Fata",
-      "category_path": "Accesorii > Cosuri Transport > ➤ Cosuri Transport Fata",
+      "category": "Cosuri Transport Fata",
+      "category_path": "Accesorii > Cosuri Transport > Cosuri Transport Fata",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -1794,8 +1772,8 @@
       ],
       "tags": [
         "Accesorii",
-        "VENTURA",
-        "➤ Cosuri Transport Fata"
+        "Cosuri Transport Fata",
+        "VENTURA"
       ]
     },
     {
@@ -1804,8 +1782,8 @@
       "ean": "698238524681",
       "name": "Cos Metal Spate M-WAVE BA-RM CLAMP W",
       "brand": "M-WAVE",
-      "category": "➤ Cosuri Transport Spate",
-      "category_path": "Accesorii > Cosuri Transport > ➤ Cosuri Transport Spate",
+      "category": "Cosuri Transport Spate",
+      "category_path": "Accesorii > Cosuri Transport > Cosuri Transport Spate",
       "price": 103.0,
       "price_net": 85.12,
       "currency": "RON",
@@ -1821,8 +1799,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Cosuri Transport Spate"
+        "Cosuri Transport Spate",
+        "M-WAVE"
       ]
     },
     {
@@ -1831,8 +1809,8 @@
       "ean": "4015493890041",
       "name": "Portbagaj Aluminiu Spate M-WAVE TRAVELLER A BASIC 26 - 28",
       "brand": "M-WAVE",
-      "category": "➤ Portbagaje Spate",
-      "category_path": "Accesorii > Portbagaje > ➤ Portbagaje Spate",
+      "category": "Portbagaje Spate",
+      "category_path": "Accesorii > Portbagaje > Portbagaje Spate",
       "price": 93.5,
       "price_net": 77.27,
       "currency": "RON",
@@ -1848,7 +1826,7 @@
         "Accesorii",
         "Aluminiu",
         "M-WAVE",
-        "➤ Portbagaje Spate"
+        "Portbagaje Spate"
       ],
       "specs": {
         "material": "Aluminiu"
@@ -1860,8 +1838,8 @@
       "ean": "2800257000000",
       "name": "Far pentru Dinam AN LUN 14 LUX",
       "brand": "AN LUN",
-      "category": "➤ Lumini Fata",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Fata",
+      "category": "Lumini Fata",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
       "price": 46.2,
       "price_net": 38.18,
       "currency": "RON",
@@ -1876,7 +1854,7 @@
       "tags": [
         "AN LUN",
         "Accesorii",
-        "➤ Lumini Fata"
+        "Lumini Fata"
       ]
     },
     {
@@ -1885,8 +1863,8 @@
       "ean": "4715681141510",
       "name": "Far SMART D&E E-Bike",
       "brand": "SMART",
-      "category": "➤ Lumini Fata",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Fata",
+      "category": "Lumini Fata",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
       "secondary_categories": [
         "E-Mobility > Accesorii E-Bike"
       ],
@@ -1905,8 +1883,8 @@
       "tags": [
         "Accesorii",
         "E-Bike",
-        "SMART",
-        "➤ Lumini Fata"
+        "Lumini Fata",
+        "SMART"
       ],
       "specs": {
         "bike_type": [
@@ -1920,8 +1898,8 @@
       "ean": "2800612000003",
       "name": "Far cu Baterii AN LUN 1 LED 10-20 LUX",
       "brand": "AN LUN",
-      "category": "➤ Lumini Fata",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Fata",
+      "category": "Lumini Fata",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
       "price": 66.0,
       "price_net": 54.55,
       "currency": "RON",
@@ -1936,7 +1914,7 @@
       "tags": [
         "AN LUN",
         "Accesorii",
-        "➤ Lumini Fata"
+        "Lumini Fata"
       ]
     },
     {
@@ -1945,8 +1923,8 @@
       "ean": "4715681267043",
       "name": "Stop Spate pentru Dinam SMART Standlight",
       "brand": "SMART",
-      "category": "➤ Lumini Spate",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Spate",
+      "category": "Lumini Spate",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Spate",
       "price": 53.9,
       "price_net": 44.55,
       "currency": "RON",
@@ -1960,8 +1938,8 @@
       ],
       "tags": [
         "Accesorii",
-        "SMART",
-        "➤ Lumini Spate"
+        "Lumini Spate",
+        "SMART"
       ]
     },
     {
@@ -1970,8 +1948,8 @@
       "ean": "887539005375",
       "name": "Stop Spate cu Baterii AN LUN Vertical",
       "brand": "AN LUN",
-      "category": "➤ Lumini Spate",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Spate",
+      "category": "Lumini Spate",
+      "category_path": "Accesorii > Lumini - Accesorii > Lumini Spate",
       "price": 30.8,
       "price_net": 25.45,
       "currency": "RON",
@@ -1986,7 +1964,7 @@
       "tags": [
         "AN LUN",
         "Accesorii",
-        "➤ Lumini Spate"
+        "Lumini Spate"
       ]
     },
     {
@@ -1995,8 +1973,8 @@
       "ean": "2800253000004",
       "name": "Suport Far SXT Stainless Steel",
       "brand": "SXT",
-      "category": "➤ Accesorii Lumini",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Accesorii Lumini",
+      "category": "Accesorii Lumini",
+      "category_path": "Accesorii > Lumini - Accesorii > Accesorii Lumini",
       "price": 9.9,
       "price_net": 8.18,
       "currency": "RON",
@@ -2009,9 +1987,9 @@
       ],
       "tags": [
         "Accesorii",
+        "Accesorii Lumini",
         "Otel",
-        "SXT",
-        "➤ Accesorii Lumini"
+        "SXT"
       ],
       "specs": {
         "material": "Otel"
@@ -2023,8 +2001,8 @@
       "ean": "2800613000002",
       "name": "Suport Far SXT - LP Metal Negru",
       "brand": "SXT",
-      "category": "➤ Accesorii Lumini",
-      "category_path": "Accesorii > Lumini - Accesorii > ➤ Accesorii Lumini",
+      "category": "Accesorii Lumini",
+      "category_path": "Accesorii > Lumini - Accesorii > Accesorii Lumini",
       "price": 3.3,
       "price_net": 2.73,
       "currency": "RON",
@@ -2038,8 +2016,8 @@
       ],
       "tags": [
         "Accesorii",
-        "SXT",
-        "➤ Accesorii Lumini"
+        "Accesorii Lumini",
+        "SXT"
       ],
       "specs": {
         "color": "Negru"
@@ -2051,8 +2029,8 @@
       "ean": "4015493640219",
       "name": "Carucior Transport Copii M-WAVE KIDS RIDE EASY, Aluminiu , 20\"",
       "brand": "M-WAVE",
-      "category": "➤ Transport Copii",
-      "category_path": "Accesorii > Roti Ajutatoare - Articole Copii > ➤ Transport Copii",
+      "category": "Transport Copii",
+      "category_path": "Accesorii > Roti Ajutatoare - Articole Copii > Transport Copii",
       "price": 1760.0,
       "price_net": 1454.55,
       "currency": "RON",
@@ -2071,7 +2049,7 @@
         "Aluminiu",
         "Copii",
         "M-WAVE",
-        "➤ Transport Copii"
+        "Transport Copii"
       ],
       "specs": {
         "wheel_size": "20",
@@ -2088,7 +2066,7 @@
       "name": "Cadru Metal SingleSpeed 52 cm, S 1.1/8\"",
       "brand": "SXT",
       "category": "Cadre SSP - Fixie",
-      "category_path": "Componente > Urechi - Protectii - Cadre > Cadre SSP - Fixie",
+      "category_path": "Componente > Urechi - Cadre > Cadre SSP - Fixie",
       "price": 352.0,
       "price_net": 290.91,
       "currency": "RON",
@@ -2118,13 +2096,13 @@
       "ean": "4015493470526",
       "name": "Pompa Mini BETO 360 T",
       "brand": "BETO",
-      "category": "➤ Mini Pompe",
-      "category_path": "Accesorii > Pompe Ciclism > ➤ Mini Pompe",
+      "category": "Mini Pompe",
+      "category_path": "Accesorii > Pompe Ciclism > Mini Pompe",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 101,
+      "stock_quantity": 100,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/pompa-mini-beto-360-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pompa-mini-beto-360-t~8326048.jpg",
@@ -2135,7 +2113,7 @@
       "tags": [
         "Accesorii",
         "BETO",
-        "➤ Mini Pompe"
+        "Mini Pompe"
       ]
     },
     {
@@ -2144,8 +2122,8 @@
       "ean": "4015493470441",
       "name": "Pompa Picior BETO",
       "brand": "BETO",
-      "category": "➤ Pompe Podea",
-      "category_path": "Accesorii > Pompe Ciclism > ➤ Pompe Podea",
+      "category": "Pompe Podea",
+      "category_path": "Accesorii > Pompe Ciclism > Pompe Podea",
       "price": 93.5,
       "price_net": 77.27,
       "currency": "RON",
@@ -2161,7 +2139,7 @@
       "tags": [
         "Accesorii",
         "BETO",
-        "➤ Pompe Podea"
+        "Pompe Podea"
       ]
     },
     {
@@ -2170,8 +2148,8 @@
       "ean": "4015493470625",
       "name": "Pompa Podea BETO Top Quallty",
       "brand": "BETO",
-      "category": "➤ Pompe Podea",
-      "category_path": "Accesorii > Pompe Ciclism > ➤ Pompe Podea",
+      "category": "Pompe Podea",
+      "category_path": "Accesorii > Pompe Ciclism > Pompe Podea",
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
@@ -2186,7 +2164,7 @@
       "tags": [
         "Accesorii",
         "BETO",
-        "➤ Pompe Podea"
+        "Pompe Podea"
       ]
     },
     {
@@ -2195,8 +2173,8 @@
       "ean": "4015493470144",
       "name": "Pompa Podea BETO Metal Dark Silver",
       "brand": "BETO",
-      "category": "➤ Pompe Podea",
-      "category_path": "Accesorii > Pompe Ciclism > ➤ Pompe Podea",
+      "category": "Pompe Podea",
+      "category_path": "Accesorii > Pompe Ciclism > Pompe Podea",
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
@@ -2211,7 +2189,7 @@
       "tags": [
         "Accesorii",
         "BETO",
-        "➤ Pompe Podea"
+        "Pompe Podea"
       ],
       "specs": {
         "color": "Silver"
@@ -2223,13 +2201,13 @@
       "ean": "4015493470496",
       "name": "Pompa Podea BETO 11/160P",
       "brand": "BETO",
-      "category": "➤ Pompe Podea",
-      "category_path": "Accesorii > Pompe Ciclism > ➤ Pompe Podea",
+      "category": "Pompe Podea",
+      "category_path": "Accesorii > Pompe Ciclism > Pompe Podea",
       "price": 80.0,
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 36,
+      "stock_quantity": 35,
       "weight_kg": 0.95,
       "url": "https://www.bikestylish.ro/pompa-podea-beto-11-160p.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pompa-podea-beto-11-160p~8326075.jpg",
@@ -2243,7 +2221,7 @@
       "tags": [
         "Accesorii",
         "BETO",
-        "➤ Pompe Podea"
+        "Pompe Podea"
       ]
     },
     {
@@ -2252,8 +2230,8 @@
       "ean": "887539007805",
       "name": "Manometru Digital BETO",
       "brand": "BETO",
-      "category": "➤ Cartuse CO2 - Accesorii Pompe",
-      "category_path": "Accesorii > Pompe Ciclism > ➤ Cartuse CO2 - Accesorii Pompe",
+      "category": "Cartuse CO2 - Accesorii Pompe",
+      "category_path": "Accesorii > Pompe Ciclism > Cartuse CO2 - Accesorii Pompe",
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
@@ -2270,7 +2248,7 @@
       "tags": [
         "Accesorii",
         "BETO",
-        "➤ Cartuse CO2 - Accesorii Pompe"
+        "Cartuse CO2 - Accesorii Pompe"
       ]
     },
     {
@@ -2279,8 +2257,8 @@
       "ean": "887539028152",
       "name": "Pompa Podea VENTURA 12/180 Metal",
       "brand": "VENTURA",
-      "category": "➤ Pompe Podea",
-      "category_path": "Accesorii > Pompe Ciclism > ➤ Pompe Podea",
+      "category": "Pompe Podea",
+      "category_path": "Accesorii > Pompe Ciclism > Pompe Podea",
       "price": 97.9,
       "price_net": 80.91,
       "currency": "RON",
@@ -2298,8 +2276,8 @@
       ],
       "tags": [
         "Accesorii",
-        "VENTURA",
-        "➤ Pompe Podea"
+        "Pompe Podea",
+        "VENTURA"
       ]
     },
     {
@@ -2431,8 +2409,8 @@
       "ean": "887539021290",
       "name": "Spray cu Silicon M-WAVE SILICONE GUARD 400 ml",
       "brand": "M-WAVE",
-      "category": "SERVICE",
-      "category_path": "SERVICE",
+      "category": "Service",
+      "category_path": "Service",
       "price": 57.2,
       "price_net": 47.27,
       "currency": "RON",
@@ -2447,7 +2425,7 @@
       ],
       "tags": [
         "M-WAVE",
-        "SERVICE"
+        "Service"
       ]
     },
     {
@@ -2456,8 +2434,8 @@
       "ean": "887539021252",
       "name": "Ulei pentru Lant M-WAVE CHAIN GUARD ULTRA 50 ml",
       "brand": "M-WAVE",
-      "category": "➤ Bike Lube - Lubrefiere",
-      "category_path": "SERVICE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Lube - Lubrefiere",
+      "category": "Bike Lube - Lubrefiere",
+      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
       "price": 38.0,
       "price_net": 31.4,
       "currency": "RON",
@@ -2470,9 +2448,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ulei-pentru-lant-m-wave-chain-guard-ultra-50-ml~8326282.jpg"
       ],
       "tags": [
+        "Bike Lube - Lubrefiere",
         "M-WAVE",
-        "SERVICE",
-        "➤ Bike Lube - Lubrefiere"
+        "Service"
       ]
     },
     {
@@ -2481,8 +2459,8 @@
       "ean": "2800243000007",
       "name": "Workstation SUPER B TBA9000 - LIVRARE PE BAZA DE COMANDA",
       "brand": "SUPER B",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
       "price": 21998.9,
       "price_net": 18180.91,
       "currency": "RON",
@@ -2499,9 +2477,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/workstation-super-b-tba9000-livrare-pe-baza-de-comanda~8326297.jpg"
       ],
       "tags": [
-        "SERVICE",
         "SUPER B",
-        "➤ Unelte Speciale Biciclete"
+        "Service",
+        "Unelte Speciale Biciclete"
       ]
     },
     {
@@ -2510,8 +2488,8 @@
       "ean": "4712765145013",
       "name": "Aparat de Centrat Roti SUPER B TB-PF30",
       "brand": "SUPER B",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
       "price": 2695.0,
       "price_net": 2227.27,
       "currency": "RON",
@@ -2528,9 +2506,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/aparat-de-centrat-roti-super-b-tb-pf30~8326348.jpg"
       ],
       "tags": [
-        "SERVICE",
         "SUPER B",
-        "➤ Unelte Speciale Biciclete"
+        "Service",
+        "Unelte Speciale Biciclete"
       ]
     },
     {
@@ -2539,8 +2517,8 @@
       "ean": "4712765148274",
       "name": "Filiera Furci SUPER B TB-1945-4 1 si 1.1/8",
       "brand": "SUPER B",
-      "category": "➤ Truse Unelte - Mini Truse",
-      "category_path": "SERVICE > Unelte Service > ➤ Truse Unelte - Mini Truse",
+      "category": "Truse Unelte - Mini Truse",
+      "category_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
       "price": 2420.0,
       "price_net": 2000.0,
       "currency": "RON",
@@ -2557,9 +2535,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/filiera-furci-super-b-tb-1945-4-1-si-1-1-8~8326384.jpg"
       ],
       "tags": [
-        "SERVICE",
         "SUPER B",
-        "➤ Truse Unelte - Mini Truse"
+        "Service",
+        "Truse Unelte - Mini Truse"
       ]
     },
     {
@@ -2568,8 +2546,8 @@
       "ean": "4712765143668",
       "name": "Trusa Scule Rectificat Filete in Cadru SUPER B TB-98150",
       "brand": "SUPER B",
-      "category": "➤ Truse Unelte - Mini Truse",
-      "category_path": "SERVICE > Unelte Service > ➤ Truse Unelte - Mini Truse",
+      "category": "Truse Unelte - Mini Truse",
+      "category_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
       "price": 1859.0,
       "price_net": 1536.36,
       "currency": "RON",
@@ -2586,9 +2564,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/trusa-scule-rectificat-filete-in-cadru-super-b-tb-98150~8326399.jpg"
       ],
       "tags": [
-        "SERVICE",
         "SUPER B",
-        "➤ Truse Unelte - Mini Truse"
+        "Service",
+        "Truse Unelte - Mini Truse"
       ]
     },
     {
@@ -2597,8 +2575,8 @@
       "ean": "4712765143729",
       "name": "Scula PRESS FIT SUPER B TB-1928A",
       "brand": "SUPER B",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
       "price": 187.0,
       "price_net": 154.55,
       "currency": "RON",
@@ -2615,9 +2593,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/scula-press-fit-super-b-tb-1928a~8326423.jpg"
       ],
       "tags": [
-        "SERVICE",
         "SUPER B",
-        "➤ Unelte Speciale Biciclete"
+        "Service",
+        "Unelte Speciale Biciclete"
       ]
     },
     {
@@ -2626,8 +2604,8 @@
       "ean": "4712765143538",
       "name": "Cheie Trei Brate 6 Functii SUPER B TB-YY25",
       "brand": "SUPER B",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
       "price": 65.0,
       "price_net": 53.72,
       "currency": "RON",
@@ -2643,9 +2621,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/cheie-trei-brate-6-functii-super-b-tb-yy25~8326435.jpg"
       ],
       "tags": [
-        "SERVICE",
         "SUPER B",
-        "➤ Unelte Speciale Biciclete"
+        "Service",
+        "Unelte Speciale Biciclete"
       ]
     },
     {
@@ -2654,8 +2632,8 @@
       "ean": "4712765144085",
       "name": "Set Pini Schimbabili Presa de Lant SUPER B TB-1103 ( 10 buc )",
       "brand": "SUPER B",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
       "price": 86.9,
       "price_net": 71.82,
       "currency": "RON",
@@ -2670,9 +2648,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/set-pini-schimbabili-presa-de-lant-super-b-tb-1103-10-buc~8326444.jpg"
       ],
       "tags": [
-        "SERVICE",
         "SUPER B",
-        "➤ Unelte Speciale Biciclete"
+        "Service",
+        "Unelte Speciale Biciclete"
       ]
     },
     {
@@ -2681,8 +2659,8 @@
       "ean": "4712765146836",
       "name": "Stand de Lucru Universal Pliabil SUPER B TB-WS20 - 35 Kg",
       "brand": "SUPER B",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
       "price": 1320.0,
       "price_net": 1090.91,
       "currency": "RON",
@@ -2698,9 +2676,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/stand-de-lucru-universal-pliabil-super-b-tb-ws20-35-kg~8326456.jpg"
       ],
       "tags": [
-        "SERVICE",
         "SUPER B",
-        "➤ Unelte Speciale Biciclete"
+        "Service",
+        "Unelte Speciale Biciclete"
       ]
     },
     {
@@ -2709,8 +2687,8 @@
       "ean": "4712765148465",
       "name": "Set Reparatii SUPER B TB-1120 9 in 1",
       "brand": "SUPER B",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
       "price": 33.0,
       "price_net": 27.27,
       "currency": "RON",
@@ -2727,9 +2705,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/set-reparatii-super-b-tb-1120-9-in-1~8326471.jpg"
       ],
       "tags": [
-        "SERVICE",
         "SUPER B",
-        "➤ Unelte Speciale Biciclete"
+        "Service",
+        "Unelte Speciale Biciclete"
       ]
     },
     {
@@ -2738,8 +2716,8 @@
       "ean": "4712765146584",
       "name": "Cheie Imbus ( Hex ) SUPER B TB-7632 Doua Capete 2,5 mm",
       "brand": "SUPER B",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -2755,9 +2733,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/cheie-imbus-hex-super-b-tb-7632-doua-capete-2-5-mm~8326483.jpg"
       ],
       "tags": [
-        "SERVICE",
         "SUPER B",
-        "➤ Unelte Speciale Biciclete"
+        "Service",
+        "Unelte Speciale Biciclete"
       ]
     },
     {
@@ -2767,7 +2745,7 @@
       "name": "Bike Fitting System EXUSTAR -",
       "brand": "EXUSTAR",
       "category": "Amenajare Magazin",
-      "category_path": "SERVICE > Amenajare Magazin",
+      "category_path": "Service > Amenajare Magazin",
       "price": 11979.0,
       "price_net": 9900.0,
       "currency": "RON",
@@ -2786,7 +2764,7 @@
       "tags": [
         "Amenajare Magazin",
         "EXUSTAR",
-        "SERVICE"
+        "Service"
       ]
     },
     {
@@ -2795,8 +2773,8 @@
       "ean": "887539029265",
       "name": "Cheie B.B. SXT Silver",
       "brand": "SXT",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
       "price": 75.9,
       "price_net": 62.73,
       "currency": "RON",
@@ -2810,9 +2788,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/cheie-b-b-sxt-silver~8326513.jpg"
       ],
       "tags": [
-        "SERVICE",
         "SXT",
-        "➤ Unelte Speciale Biciclete"
+        "Service",
+        "Unelte Speciale Biciclete"
       ],
       "specs": {
         "color": "Silver"
@@ -2824,8 +2802,8 @@
       "ean": "887539023386",
       "name": "Cheie Monobloc M-WAVE",
       "brand": "M-WAVE",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
       "price": 39.6,
       "price_net": 32.73,
       "currency": "RON",
@@ -2839,8 +2817,8 @@
       ],
       "tags": [
         "M-WAVE",
-        "SERVICE",
-        "➤ Unelte Speciale Biciclete"
+        "Service",
+        "Unelte Speciale Biciclete"
       ]
     },
     {
@@ -2849,10 +2827,10 @@
       "ean": "4015493880424",
       "name": "Presa de Lant M-WAVE PIN PUSHER PAUL",
       "brand": "M-WAVE",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
       "secondary_categories": [
-        "Componente > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > Lanturi"
+        "Componente > Transmisie > ⬤ Lanturi > Lanturi"
       ],
       "price": 45.0,
       "price_net": 37.19,
@@ -2868,8 +2846,8 @@
       ],
       "tags": [
         "M-WAVE",
-        "SERVICE",
-        "➤ Unelte Speciale Biciclete"
+        "Service",
+        "Unelte Speciale Biciclete"
       ]
     },
     {
@@ -2878,8 +2856,8 @@
       "ean": "887539017279",
       "name": "Cheie Dinamometrica Digitala M-WAVE TORQUE ALARM 3-60 Nm",
       "brand": "M-WAVE",
-      "category": "➤ Chei Dinamometrice",
-      "category_path": "SERVICE > Unelte Service > ➤ Chei Dinamometrice",
+      "category": "Chei Dinamometrice",
+      "category_path": "Service > Unelte Service > Chei Dinamometrice",
       "price": 1331.0,
       "price_net": 1100.0,
       "currency": "RON",
@@ -2895,9 +2873,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/cheie-dinamometrica-digitala-m-wave-torque-alarm-3-60-nm~8326531.jpg"
       ],
       "tags": [
+        "Chei Dinamometrice",
         "M-WAVE",
-        "SERVICE",
-        "➤ Chei Dinamometrice"
+        "Service"
       ]
     },
     {
@@ -2906,8 +2884,8 @@
       "ean": "4015493880332",
       "name": "Cutie Suruburi din Otel Inoxidabil ( M5x12 mm) M-WAVE 50 buc/cutie",
       "brand": "M-WAVE",
-      "category": "➤ Suruburi - Piulite - Saibe",
-      "category_path": "SERVICE > Unelte Service > ➤ Suruburi - Piulite - Saibe",
+      "category": "Suruburi - Piulite - Saibe",
+      "category_path": "Service > Unelte Service > Suruburi - Piulite - Saibe",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -2922,8 +2900,8 @@
       "tags": [
         "M-WAVE",
         "Otel",
-        "SERVICE",
-        "➤ Suruburi - Piulite - Saibe"
+        "Service",
+        "Suruburi - Piulite - Saibe"
       ],
       "specs": {
         "material": "Otel"
@@ -2935,8 +2913,8 @@
       "ean": "4015493880349",
       "name": "Cutie Suruburi din Otel Inoxidabil ( M5x16 mm) M-WAVE 50 buc/cutie",
       "brand": "M-WAVE",
-      "category": "➤ Suruburi - Piulite - Saibe",
-      "category_path": "SERVICE > Unelte Service > ➤ Suruburi - Piulite - Saibe",
+      "category": "Suruburi - Piulite - Saibe",
+      "category_path": "Service > Unelte Service > Suruburi - Piulite - Saibe",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -2951,8 +2929,8 @@
       "tags": [
         "M-WAVE",
         "Otel",
-        "SERVICE",
-        "➤ Suruburi - Piulite - Saibe"
+        "Service",
+        "Suruburi - Piulite - Saibe"
       ],
       "specs": {
         "material": "Otel"
@@ -2964,8 +2942,8 @@
       "ean": "4015493880554",
       "name": "Cutie Suruburi din Otel Inoxidabil ( M6x12 mm) M-WAVE 50 buc/cutie",
       "brand": "M-WAVE",
-      "category": "➤ Suruburi - Piulite - Saibe",
-      "category_path": "SERVICE > Unelte Service > ➤ Suruburi - Piulite - Saibe",
+      "category": "Suruburi - Piulite - Saibe",
+      "category_path": "Service > Unelte Service > Suruburi - Piulite - Saibe",
       "price": 46.2,
       "price_net": 38.18,
       "currency": "RON",
@@ -2981,8 +2959,8 @@
       "tags": [
         "M-WAVE",
         "Otel",
-        "SERVICE",
-        "➤ Suruburi - Piulite - Saibe"
+        "Service",
+        "Suruburi - Piulite - Saibe"
       ],
       "specs": {
         "material": "Otel"
@@ -2994,8 +2972,8 @@
       "ean": "4015493880530",
       "name": "Cutie Piulite Hexagonale cu Autoblocare (M 5) M-WAVE 100buc/cutie",
       "brand": "M-WAVE",
-      "category": "➤ Suruburi - Piulite - Saibe",
-      "category_path": "SERVICE > Unelte Service > ➤ Suruburi - Piulite - Saibe",
+      "category": "Suruburi - Piulite - Saibe",
+      "category_path": "Service > Unelte Service > Suruburi - Piulite - Saibe",
       "price": 52.8,
       "price_net": 43.64,
       "currency": "RON",
@@ -3009,8 +2987,8 @@
       ],
       "tags": [
         "M-WAVE",
-        "SERVICE",
-        "➤ Suruburi - Piulite - Saibe"
+        "Service",
+        "Suruburi - Piulite - Saibe"
       ]
     },
     {
@@ -3019,8 +2997,8 @@
       "ean": "4015493880547",
       "name": "Cutie Piulite Hexagonale cu Autoblocare (M 6) M-WAVE 100buc/cutie",
       "brand": "M-WAVE",
-      "category": "➤ Suruburi - Piulite - Saibe",
-      "category_path": "SERVICE > Unelte Service > ➤ Suruburi - Piulite - Saibe",
+      "category": "Suruburi - Piulite - Saibe",
+      "category_path": "Service > Unelte Service > Suruburi - Piulite - Saibe",
       "price": 57.2,
       "price_net": 47.27,
       "currency": "RON",
@@ -3035,8 +3013,8 @@
       ],
       "tags": [
         "M-WAVE",
-        "SERVICE",
-        "➤ Suruburi - Piulite - Saibe"
+        "Service",
+        "Suruburi - Piulite - Saibe"
       ]
     },
     {
@@ -3045,13 +3023,13 @@
       "ean": "4015493880585",
       "name": "Cutie Saibe din Otel Inoxidabil (M 5) M-WAVE 100 buc/cutie",
       "brand": "M-WAVE",
-      "category": "➤ Suruburi - Piulite - Saibe",
-      "category_path": "SERVICE > Unelte Service > ➤ Suruburi - Piulite - Saibe",
+      "category": "Suruburi - Piulite - Saibe",
+      "category_path": "Service > Unelte Service > Suruburi - Piulite - Saibe",
       "price": 19.8,
       "price_net": 16.36,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/cutie-saibe-din-otel-inoxidabil-m-5-m-wave-100-buc-cutie.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/cutie-saibe-din-otel-inoxidabil-m-5-m-wave-100-buc-cutie~8326582.jpg",
       "images": [
@@ -3061,8 +3039,8 @@
       "tags": [
         "M-WAVE",
         "Otel",
-        "SERVICE",
-        "➤ Suruburi - Piulite - Saibe"
+        "Service",
+        "Suruburi - Piulite - Saibe"
       ],
       "specs": {
         "material": "Otel"
@@ -3074,8 +3052,8 @@
       "ean": "4712947220163",
       "name": "Presa de Lant SUPER B TB-CC65 5~12 Viteze",
       "brand": "SUPER B",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
       "price": 196.9,
       "price_net": 162.73,
       "currency": "RON",
@@ -3093,9 +3071,9 @@
       ],
       "tags": [
         "12 viteze",
-        "SERVICE",
         "SUPER B",
-        "➤ Unelte Speciale Biciclete"
+        "Service",
+        "Unelte Speciale Biciclete"
       ],
       "specs": {
         "speeds": 12
@@ -3108,7 +3086,7 @@
       "name": "Pinion Filetat SHIMANO MF-TZ500 6v 14-28 T",
       "brand": "SHIMANO",
       "category": "Pionioane Filetate",
-      "category_path": "Componente > Schimbatoare - Transmisii > ⬤ Pinioane > Pionioane Filetate",
+      "category_path": "Componente > Transmisie > ⬤ Pinioane > Pionioane Filetate",
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -3136,8 +3114,8 @@
       "ean": "2801988000000",
       "name": "Spita cnSPOKE UCP 14C 2 X 178 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3151,8 +3129,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3164,8 +3142,8 @@
       "ean": "2801989000009",
       "name": "Spita cnSPOKE UCP 14C 2 X 180 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3179,8 +3157,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3193,7 +3171,7 @@
       "name": "Pinion Filetat SHIMANO MF-TZ500 7v 14-28 T",
       "brand": "SHIMANO",
       "category": "Pionioane Filetate",
-      "category_path": "Componente > Schimbatoare - Transmisii > ⬤ Pinioane > Pionioane Filetate",
+      "category_path": "Componente > Transmisie > ⬤ Pinioane > Pionioane Filetate",
       "price": 75.0,
       "price_net": 61.98,
       "currency": "RON",
@@ -3220,8 +3198,8 @@
       "sku": "280088",
       "name": "Spita cnSPOKE UCP 14C 2 X 239 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3235,8 +3213,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3247,8 +3225,8 @@
       "sku": "280061",
       "name": "Spita cnSPOKE UCP 14C 2 X 240 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3262,8 +3240,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3274,8 +3252,8 @@
       "sku": "283288",
       "name": "Spita cnSPOKE UCP 14C 2 X 241 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3289,8 +3267,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3301,8 +3279,8 @@
       "sku": "280089",
       "name": "Spita cnSPOKE UCP 14C 2 X 242 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3316,8 +3294,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3328,8 +3306,8 @@
       "sku": "280072",
       "name": "Spita cnSPOKE UCP 14C 2 X 243 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3343,8 +3321,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3355,8 +3333,8 @@
       "sku": "280090",
       "name": "Spita cnSPOKE UCP 14C 2 X 244 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3370,8 +3348,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3382,8 +3360,8 @@
       "sku": "280091",
       "name": "Spita cnSPOKE UCP 14C 2 X 245 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3397,8 +3375,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3409,8 +3387,8 @@
       "sku": "283761",
       "name": "Spita cnSPOKE UCP 14C 2 X 254 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3424,8 +3402,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3436,8 +3414,8 @@
       "sku": "280232",
       "name": "Spita cnSPOKE UCP 14C 2 X 261 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3451,8 +3429,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3463,8 +3441,8 @@
       "sku": "280240",
       "name": "Spita cnSPOKE UCP 14C 2 X 276 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.55,
       "price_net": 0.45,
       "currency": "RON",
@@ -3478,8 +3456,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3490,8 +3468,8 @@
       "sku": "283778",
       "name": "Spita cnSPOKE UCP 14C 2 X 278 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3505,8 +3483,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3517,8 +3495,8 @@
       "sku": "280242",
       "name": "Spita cnSPOKE UCP 14C 2 X 279 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3532,8 +3510,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3544,8 +3522,8 @@
       "sku": "280040",
       "name": "Spita cnSPOKE UCP 14C 2 X 280 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.44,
       "price_net": 0.36,
       "currency": "RON",
@@ -3559,8 +3537,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3571,8 +3549,8 @@
       "sku": "280243",
       "name": "Spita cnSPOKE UCP 14C 2 X 281 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3586,8 +3564,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3598,8 +3576,8 @@
       "sku": "280041",
       "name": "Spita cnSPOKE UCP 14C 2 X 283 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3612,8 +3590,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3624,8 +3602,8 @@
       "sku": "283772",
       "name": "Spita cnSPOKE UCP 14C 2 X 284 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.55,
       "price_net": 0.45,
       "currency": "RON",
@@ -3638,8 +3616,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3650,8 +3628,8 @@
       "sku": "280244",
       "name": "Spita cnSPOKE UCP 14C 2 X 285 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3665,8 +3643,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3677,8 +3655,8 @@
       "sku": "283769",
       "name": "Spita cnSPOKE UCP 14C 2 X 295 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3692,8 +3670,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3704,8 +3682,8 @@
       "sku": "283770",
       "name": "Spita cnSPOKE UCP 14C 2 X 296 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.44,
       "price_net": 0.36,
       "currency": "RON",
@@ -3719,8 +3697,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3731,8 +3709,8 @@
       "sku": "280252",
       "name": "Spita cnSPOKE UCP 14C 2 X 301 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite UCP",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
+      "category": "Spite UCP",
+      "category_path": "Roti > Spite si Nipluri > Spite UCP",
       "price": 0.33,
       "price_net": 0.27,
       "currency": "RON",
@@ -3746,8 +3724,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite UCP"
+        "Spite UCP",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3758,8 +3736,8 @@
       "sku": "283150",
       "name": "Spita Inox cnSPOKE STD14C 2 x 283 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -3773,8 +3751,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3785,8 +3763,8 @@
       "sku": "283344",
       "name": "Spita Inox cnSPOKE STD14C 2 x 284 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -3800,8 +3778,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3812,8 +3790,8 @@
       "sku": "283342",
       "name": "Spita Inox cnSPOKE STD14C 2 x 188 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -3827,8 +3805,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3839,8 +3817,8 @@
       "sku": "283157",
       "name": "Spita Inox cnSPOKE STD14C 2 x 189 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -3854,8 +3832,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3866,8 +3844,8 @@
       "sku": "283366",
       "name": "Spita Inox cnSPOKE STD14C 2 x 190 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -3881,8 +3859,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3893,8 +3871,8 @@
       "sku": "283611",
       "name": "Spita Inox cnSPOKE STD14C 2 x 191 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -3908,8 +3886,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3920,8 +3898,8 @@
       "sku": "283367",
       "name": "Spita Inox cnSPOKE STD14C 2 x 192 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -3935,8 +3913,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3947,8 +3925,8 @@
       "sku": "283158",
       "name": "Spita Inox cnSPOKE STD14C 2 x 193 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -3962,8 +3940,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -3974,8 +3952,8 @@
       "sku": "283619",
       "name": "Spita Inox cnSPOKE STD14C 2 x 231 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -3989,8 +3967,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4001,8 +3979,8 @@
       "sku": "283340",
       "name": "Spita Inox cnSPOKE STD14C 2 x 233 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4016,8 +3994,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4028,8 +4006,8 @@
       "sku": "284616",
       "name": "Spita Inox cnSPOKE STD14C 2 x 235 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4043,8 +4021,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4055,8 +4033,8 @@
       "sku": "283613",
       "name": "Spita Inox cnSPOKE STD14C 2 x 237 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4070,8 +4048,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4082,8 +4060,8 @@
       "sku": "283187",
       "name": "Spita Inox cnSPOKE STD14C 2 x 239 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4097,8 +4075,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4109,8 +4087,8 @@
       "sku": "280055",
       "name": "Spita Inox cnSPOKE STD14C 2 x 240 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4124,8 +4102,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4136,8 +4114,8 @@
       "sku": "283188",
       "name": "Spita Inox cnSPOKE STD14C 2 x 241 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4151,8 +4129,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4163,8 +4141,8 @@
       "sku": "283104",
       "name": "Spita Inox cnSPOKE STD14C 2 x 243 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4178,8 +4156,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4190,8 +4168,8 @@
       "sku": "283248",
       "name": "Spita Inox cnSPOKE STD14C 2 x 248 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4205,8 +4183,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4217,8 +4195,8 @@
       "sku": "283151",
       "name": "Spita Inox cnSPOKE STD14C 2 x 249 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4232,8 +4210,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4244,8 +4222,8 @@
       "sku": "283305",
       "name": "Spita Inox cnSPOKE STD14C 2 x 250 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4259,8 +4237,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4271,8 +4249,8 @@
       "sku": "283589",
       "name": "Spita Inox cnSPOKE STD14C 2 x 251 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4286,8 +4264,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4298,8 +4276,8 @@
       "sku": "283510",
       "name": "Spita Inox cnSPOKE STD14C 2 x 252 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4313,8 +4291,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4325,8 +4303,8 @@
       "sku": "283106",
       "name": "Spita Inox cnSPOKE STD14C 2 x 253 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4340,8 +4318,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4352,8 +4330,8 @@
       "sku": "283511",
       "name": "Spita Inox cnSPOKE STD14C 2 x 254 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4367,8 +4345,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4379,8 +4357,8 @@
       "sku": "283525",
       "name": "Spita Inox cnSPOKE STD14C 2 x 261 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4394,8 +4372,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4406,8 +4384,8 @@
       "sku": "283228",
       "name": "Spita Inox cnSPOKE STD14C 2 x 281 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4421,8 +4399,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4433,8 +4411,8 @@
       "sku": "284638",
       "name": "Spita Inox 2 mm cnSPOKE Silver-279 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4448,8 +4426,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4460,8 +4438,8 @@
       "sku": "284625",
       "name": "Spita Inox cnSPOKE STD14C 2 x 280 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4475,8 +4453,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4487,8 +4465,8 @@
       "sku": "283247",
       "name": "Spita Inox cnSPOKE STD14C 2 x 281 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4502,8 +4480,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4514,8 +4492,8 @@
       "sku": "283307",
       "name": "Spita Inox cnSPOKE STD14C 2 x 282 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4529,8 +4507,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4541,8 +4519,8 @@
       "sku": "283548",
       "name": "Spita Inox cnSPOKE STD14C 2 x 283 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4556,8 +4534,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4568,8 +4546,8 @@
       "sku": "283517",
       "name": "Spita Inox cnSPOKE STD14C 2 x 284 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4583,8 +4561,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4595,8 +4573,8 @@
       "sku": "283250",
       "name": "Spita Inox cnSPOKE STD14C 2 x 285 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4610,8 +4588,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4622,8 +4600,8 @@
       "sku": "284628",
       "name": "Spita Inox cnSPOKE STD14C 2 x 287 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4636,8 +4614,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4648,8 +4626,8 @@
       "sku": "283522",
       "name": "Spita Inox cnSPOKE STD14C 2 x 295 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4663,8 +4641,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4675,8 +4653,8 @@
       "sku": "280052",
       "name": "Spita Inox cnSPOKE STD14C 2 x 300 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4690,8 +4668,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4702,8 +4680,8 @@
       "sku": "283251",
       "name": "Spita Inox cnSPOKE STD14C 2 x 301 mm Silver",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.1,
       "price_net": 0.91,
       "currency": "RON",
@@ -4717,8 +4695,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Silver"
@@ -4730,8 +4708,8 @@
       "ean": "2800480000006",
       "name": "Spita Inox cnSPOKE STD14C 2 x 250 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 2.0,
       "price_net": 1.65,
       "currency": "RON",
@@ -4745,8 +4723,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -4757,8 +4735,8 @@
       "sku": "283422",
       "name": "Spita Inox cnSPOKE STD14C 2 x 251 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -4772,8 +4750,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -4784,8 +4762,8 @@
       "sku": "283556",
       "name": "Spita Inox cnSPOKE STD14C 2 x 253 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -4799,8 +4777,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -4811,8 +4789,8 @@
       "sku": "283555",
       "name": "Spita Inox cnSPOKE STD14C 2 x 255 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -4826,8 +4804,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -4839,8 +4817,8 @@
       "ean": "2801168000004",
       "name": "Spita Inox cnSPOKE STD14C 2 x 261 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -4854,8 +4832,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -4867,8 +4845,8 @@
       "ean": "2800552000002",
       "name": "Spita Inox cnSPOKE STD14C 2 x 266 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -4882,8 +4860,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -4894,8 +4872,8 @@
       "sku": "283423",
       "name": "Spita Inox cnSPOKE STD14C 2 x 267 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -4909,8 +4887,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -4922,8 +4900,8 @@
       "ean": "2802425000003",
       "name": "Spita Inox cnSPOKE STD14C 2 x 271 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -4937,8 +4915,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -4950,8 +4928,8 @@
       "ean": "2802424000004",
       "name": "Spita Inox cnSPOKE STD14C 2 x 273 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 2.0,
       "price_net": 1.65,
       "currency": "RON",
@@ -4965,8 +4943,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -4978,8 +4956,8 @@
       "ean": "2802422000006",
       "name": "Spita Inox cnSPOKE STD14C 2 x 275 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -4993,8 +4971,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5005,8 +4983,8 @@
       "sku": "283461",
       "name": "Spita Inox cnSPOKE STD14C 2 x 277 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -5020,8 +4998,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5032,8 +5010,8 @@
       "sku": "283462",
       "name": "Spita Inox cnSPOKE STD14C 2 x 279 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -5047,8 +5025,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5060,8 +5038,8 @@
       "ean": "2802421000007",
       "name": "Spita Inox cnSPOKE STD14C 2 x 280 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -5075,8 +5053,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5088,8 +5066,8 @@
       "ean": "2802420000008",
       "name": "Spita Inox cnSPOKE STD14C 2 x 281 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -5103,8 +5081,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5116,8 +5094,8 @@
       "ean": "2800479000000",
       "name": "Spita Inox cnSPOKE STD14C 2 x 282 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -5131,8 +5109,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5144,8 +5122,8 @@
       "ean": "2800468000004",
       "name": "Spita Inox cnSPOKE STD14C 2 x 284 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -5159,8 +5137,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5172,8 +5150,8 @@
       "ean": "2802418000003",
       "name": "Spita Inox cnSPOKE STD14C 2 x 285 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -5187,8 +5165,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5200,8 +5178,8 @@
       "ean": "2802417000004",
       "name": "Spita Inox cnSPOKE STD14C 2 x 287 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -5215,8 +5193,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5228,8 +5206,8 @@
       "ean": "2800470000009",
       "name": "Spita Inox cnSPOKE STD14C 2 x 290 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -5243,8 +5221,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5256,8 +5234,8 @@
       "ean": "2801659000001",
       "name": "Spita Inox cnSPOKE STD14C 2 x 296 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -5271,8 +5249,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5283,8 +5261,8 @@
       "sku": "283441",
       "name": "Spita Inox cnSPOKE STD14C 2 x 297 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -5298,8 +5276,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5310,8 +5288,8 @@
       "sku": "283426",
       "name": "Spita Inox cnSPOKE STD14C 2 x 299 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -5325,8 +5303,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5338,8 +5316,8 @@
       "ean": "2802412000009",
       "name": "Spita Inox cnSPOKE STD14C 2 x 300 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -5353,8 +5331,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5365,8 +5343,8 @@
       "sku": "283427",
       "name": "Spita Inox cnSPOKE STD14C 2 x 301 mm Negru",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
@@ -5380,8 +5358,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5392,8 +5370,8 @@
       "sku": "aero-254 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-254 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5407,8 +5385,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5419,8 +5397,8 @@
       "sku": "aero-256 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-256 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5434,8 +5412,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5446,8 +5424,8 @@
       "sku": "aero-258 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-258 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5461,8 +5439,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5473,8 +5451,8 @@
       "sku": "287110",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-260 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5488,8 +5466,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5500,8 +5478,8 @@
       "sku": "aero-262 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-262 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5515,8 +5493,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5527,8 +5505,8 @@
       "sku": "aero-264mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-264mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5542,8 +5520,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5554,8 +5532,8 @@
       "sku": "aero-266 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-266 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5569,8 +5547,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5581,8 +5559,8 @@
       "sku": "aero-268 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-268 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5596,8 +5574,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5608,8 +5586,8 @@
       "sku": "aero-270 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-270 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5623,8 +5601,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5635,8 +5613,8 @@
       "sku": "aero-272 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-272 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5650,8 +5628,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5662,8 +5640,8 @@
       "sku": "aero-274 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-274 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5677,8 +5655,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5689,8 +5667,8 @@
       "sku": "aero-276 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-276 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5704,8 +5682,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5716,8 +5694,8 @@
       "sku": "aero-278 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-278 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5731,8 +5709,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5743,8 +5721,8 @@
       "sku": "aero-280 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-280 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 9.9,
       "price_net": 8.18,
       "currency": "RON",
@@ -5758,8 +5736,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5770,8 +5748,8 @@
       "sku": "aero-282 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-282 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 9.9,
       "price_net": 8.18,
       "currency": "RON",
@@ -5785,8 +5763,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5797,8 +5775,8 @@
       "sku": "285101",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-284 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5812,8 +5790,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5824,8 +5802,8 @@
       "sku": "aero-286 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-286 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5839,8 +5817,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5851,8 +5829,8 @@
       "sku": "aero-288 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-288 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5866,8 +5844,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5878,8 +5856,8 @@
       "sku": "aero-290 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-290 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5893,8 +5871,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5905,8 +5883,8 @@
       "sku": "aero-292 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-292 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5920,8 +5898,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5932,8 +5910,8 @@
       "sku": "aero-294 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-294 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5947,8 +5925,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5959,8 +5937,8 @@
       "sku": "aero-296 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-296 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -5974,8 +5952,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -5986,8 +5964,8 @@
       "sku": "aero-298 mm",
       "name": "Spita Inox cnSPOKE AERO 424 Negru-298 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless Aero",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
+      "category": "Spite Stainless Aero",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -6001,8 +5979,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless Aero"
+        "Spite Stainless Aero",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Negru"
@@ -6013,8 +5991,8 @@
       "sku": "INOXA-256 mm",
       "name": "Spita Inox 2 mm cnSPOKE Alb-256 mm",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -6027,8 +6005,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Alb"
@@ -6039,8 +6017,8 @@
       "sku": "280004",
       "name": "Spita Inox 2 mm cnSPOKE Alb-259 mm - (50 buc)",
       "brand": "cnSPOKE",
-      "category": "➤ Spite Stainless",
-      "category_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
+      "category": "Spite Stainless",
+      "category_path": "Roti > Spite si Nipluri > Spite Stainless",
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -6053,8 +6031,8 @@
       ],
       "tags": [
         "Roti",
-        "cnSPOKE",
-        "➤ Spite Stainless"
+        "Spite Stainless",
+        "cnSPOKE"
       ],
       "specs": {
         "color": "Alb"
@@ -6067,7 +6045,7 @@
       "name": "Pinion Casetat SHIMANO CS-HG200-7V-(12-28T)",
       "brand": "SHIMANO",
       "category": "Pinioane Casetate",
-      "category_path": "Componente > Schimbatoare - Transmisii > ⬤ Pinioane > Pinioane Casetate",
+      "category_path": "Componente > Transmisie > ⬤ Pinioane > Pinioane Casetate",
       "price": 93.5,
       "price_net": 77.27,
       "currency": "RON",
@@ -6095,7 +6073,7 @@
       "name": "Pinion Casetat SHIMANO CS-HG41-7V (11-28T)",
       "brand": "SHIMANO",
       "category": "Pinioane Casetate",
-      "category_path": "Componente > Schimbatoare - Transmisii > ⬤ Pinioane > Pinioane Casetate",
+      "category_path": "Componente > Transmisie > ⬤ Pinioane > Pinioane Casetate",
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
@@ -6123,7 +6101,7 @@
       "name": "Schimbator Spate 7v SHIMANO Tourney RD-TY300 Cadru",
       "brand": "SHIMANO",
       "category": "Schimbatoare Spate",
-      "category_path": "Componente > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > Schimbatoare Spate",
+      "category_path": "Componente > Transmisie > ⬤ Schimbatoare > Schimbatoare Spate",
       "price": 53.9,
       "price_net": 44.55,
       "currency": "RON",
@@ -6150,8 +6128,8 @@
       "ean": "2801819000001",
       "name": "Angrenaj Pedalier SHIMANO FC-TY301 28/38/48 T -170 mm",
       "brand": "SHIMANO",
-      "category": "Pedaliere - Angrenaje",
-      "category_path": "Componente > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > Pedaliere - Angrenaje",
+      "category": "Angrenaje",
+      "category_path": "Componente > Transmisie > ⬤ Angrenaje > Angrenaje",
       "price": 108.9,
       "price_net": 90.0,
       "currency": "RON",
@@ -6163,9 +6141,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/angrenaj-pedalier-shimano-fc-ty301-28-38-48-t-170-mm~8327242.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/angrenaj-pedalier-shimano-fc-ty301-28-38-48-t-170-mm~8327245.jpg"
       ],
+      "category_description": "Cranksets - pedal arms and chainrings",
       "tags": [
+        "Angrenaje",
         "Componente",
-        "Pedaliere - Angrenaje",
         "SHIMANO"
       ]
     },
@@ -6354,8 +6333,8 @@
       "sku": "M39SL2932N",
       "name": "Janta MACH1 3.9 SL DISC 29(622 x 19C) 32H Negru Anodizat Capsata",
       "brand": "MACH 1",
-      "category": "➤ Jante pentru Frane Disc",
-      "category_path": "Roti > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "category": "Jante pentru Frane Disc",
+      "category_path": "Roti > Jante > Jante pentru Frane Disc",
       "price": 154.0,
       "price_net": 127.27,
       "currency": "RON",
@@ -6369,9 +6348,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/janta-mach1-3-9-sl-disc-29-622-x-19c-32h-negru-anodizat-capsata~8327311.jpg"
       ],
       "tags": [
+        "Jante pentru Frane Disc",
         "MACH 1",
-        "Roti",
-        "➤ Jante pentru Frane Disc"
+        "Roti"
       ],
       "specs": {
         "color": "Negru",
@@ -6384,8 +6363,8 @@
       "ean": "M655.622.32.14-8",
       "name": "Janta MACH1 KLIXX DISC 29(622 x 23C) - 32H Negru Anodizat Capsata",
       "brand": "MACH 1",
-      "category": "➤ Jante pentru Frane Disc",
-      "category_path": "Roti > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "category": "Jante pentru Frane Disc",
+      "category_path": "Roti > Jante > Jante pentru Frane Disc",
       "price": 148.5,
       "price_net": 122.73,
       "currency": "RON",
@@ -6400,9 +6379,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/janta-mach1-klixx-disc-29-622-x-23c-32h-negru-anodizat-capsata~8327323.jpg"
       ],
       "tags": [
+        "Jante pentru Frane Disc",
         "MACH 1",
-        "Roti",
-        "➤ Jante pentru Frane Disc"
+        "Roti"
       ],
       "specs": {
         "color": "Negru",
@@ -6415,8 +6394,8 @@
       "ean": "2801754000005",
       "name": "Janta MACH1 5.50 SL DISC 29(622 x 23C) 32H",
       "brand": "MACH 1",
-      "category": "➤ Jante pentru Frane Disc",
-      "category_path": "Roti > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "category": "Jante pentru Frane Disc",
+      "category_path": "Roti > Jante > Jante pentru Frane Disc",
       "price": 198.0,
       "price_net": 163.64,
       "currency": "RON",
@@ -6430,9 +6409,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/janta-mach1-5-50-sl-disc-29-622-x-23c-32h~8327329.jpg"
       ],
       "tags": [
+        "Jante pentru Frane Disc",
         "MACH 1",
-        "Roti",
-        "➤ Jante pentru Frane Disc"
+        "Roti"
       ],
       "specs": {
         "dimensions": "622 x 23"
@@ -6444,8 +6423,8 @@
       "ean": "M681.584.32.02-8",
       "name": "Janta MACH1 MAXX DISC 27,5(584 x 25C) - 32H Negru Anodizat Capsata",
       "brand": "MACH 1",
-      "category": "➤ Jante pentru Frane Disc",
-      "category_path": "Roti > ⬤ Jante > ➤ Jante pentru Frane Disc",
+      "category": "Jante pentru Frane Disc",
+      "category_path": "Roti > Jante > Jante pentru Frane Disc",
       "price": 176.0,
       "price_net": 145.45,
       "currency": "RON",
@@ -6460,9 +6439,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/janta-mach1-maxx-disc-27-5-584-x-25c-32h-negru-anodizat-capsata~8327341.jpg"
       ],
       "tags": [
+        "Jante pentru Frane Disc",
         "MACH 1",
-        "Roti",
-        "➤ Jante pentru Frane Disc"
+        "Roti"
       ],
       "specs": {
         "color": "Negru",
@@ -6475,8 +6454,8 @@
       "ean": "887539026110",
       "name": "Rucsac M-WAVE BP BACK Galben Neon-Negru",
       "brand": "M-WAVE",
-      "category": "➤ Rucsaci",
-      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Rucsaci",
+      "category": "Rucsaci",
+      "category_path": "Accesorii > Rucsaci - Bagaje - Borsete > Rucsaci",
       "price": 180.0,
       "price_net": 148.76,
       "currency": "RON",
@@ -6495,7 +6474,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "➤ Rucsaci"
+        "Rucsaci"
       ],
       "specs": {
         "color": "Negru"
@@ -6507,8 +6486,8 @@
       "ean": "2800031000004",
       "name": "Ghidaj pentru Taiat Tuburi SXT Diam. 21-34mm",
       "brand": "SXT",
-      "category": "➤ Unelte Speciale Biciclete",
-      "category_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
+      "category": "Unelte Speciale Biciclete",
+      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
       "price": 148.5,
       "price_net": 122.73,
       "currency": "RON",
@@ -6522,9 +6501,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ghidaj-pentru-taiat-tuburi-sxt-diam-21-34mm~8327398.jpg"
       ],
       "tags": [
-        "SERVICE",
         "SXT",
-        "➤ Unelte Speciale Biciclete"
+        "Service",
+        "Unelte Speciale Biciclete"
       ]
     },
     {
@@ -6594,7 +6573,7 @@
       "name": "Schimbator Spate SHIMANO ALTUS-RD-M310 7/8v",
       "brand": "SHIMANO",
       "category": "Schimbatoare Spate",
-      "category_path": "Componente > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > Schimbatoare Spate",
+      "category_path": "Componente > Transmisie > ⬤ Schimbatoare > Schimbatoare Spate",
       "price": 137.5,
       "price_net": 113.64,
       "currency": "RON",
@@ -6999,8 +6978,8 @@
       "ean": "887539027360",
       "name": "Antifurt Tip Lant cu Cheie M-WAVE D 6.8,5 Illu Reflex",
       "brand": "M-WAVE",
-      "category": "➤ Antifurturi Lant",
-      "category_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi Lant",
+      "category": "Antifurturi Lant",
+      "category_path": "Accesorii > Antifurturi - Alarme > Antifurturi Lant",
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
@@ -7015,8 +6994,8 @@
       ],
       "tags": [
         "Accesorii",
-        "M-WAVE",
-        "➤ Antifurturi Lant"
+        "Antifurturi Lant",
+        "M-WAVE"
       ]
     },
     {
@@ -7074,15 +7053,61 @@
         "Antifurturi - Alarme",
         "M-WAVE"
       ]
+    },
+    {
+      "id": "C644624",
+      "sku": "C644624",
+      "ean": "8051406522889",
+      "name": "Ghidolina DEDA Mistral Rosie",
+      "brand": "DEDA ELEMENTI",
+      "category": "Bar Tape - Accesorii",
+      "category_path": "Componente > Ghidoane - Mansoane - Pipe > Bar Tape - Accesorii",
+      "price": 93.5,
+      "price_net": 77.27,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.07,
+      "url": "https://www.bikestylish.ro/ghidolina-deda-mistral-rosie.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ghidolina-deda-mistral-rosie~8327632.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ghidolina-deda-mistral-rosie~8327632.jpg"
+      ],
+      "tags": [
+        "Bar Tape - Accesorii",
+        "Componente",
+        "DEDA ELEMENTI"
+      ]
     }
   ],
   "categories": [
+    {
+      "id": "accesorii",
+      "name": "Accesorii",
+      "full_path": "Componente > Transmisie > ⬤ Angrenaje > Accesorii",
+      "product_count": 29,
+      "in_stock_count": 18
+    },
+    {
+      "id": "accesorii-aparatori-noroi",
+      "name": "Accesorii Aparatori Noroi",
+      "full_path": "Accesorii > Aparatori Noroi > Accesorii Aparatori Noroi",
+      "product_count": 1,
+      "in_stock_count": 1
+    },
     {
       "id": "accesorii-e-bike",
       "name": "Accesorii E-Bike",
       "full_path": "E-Mobility > Accesorii E-Bike",
       "product_count": 8,
       "in_stock_count": 8
+    },
+    {
+      "id": "accesorii-lumini",
+      "name": "Accesorii Lumini",
+      "full_path": "Accesorii > Lumini - Accesorii > Accesorii Lumini",
+      "product_count": 9,
+      "in_stock_count": 6
     },
     {
       "id": "accesorii-pedale",
@@ -7101,9 +7126,16 @@
     {
       "id": "amenajare-magazin",
       "name": "Amenajare Magazin",
-      "full_path": "SERVICE > Amenajare Magazin",
+      "full_path": "Service > Amenajare Magazin",
       "product_count": 18,
       "in_stock_count": 5
+    },
+    {
+      "id": "angrenaje",
+      "name": "Angrenaje",
+      "full_path": "Componente > Transmisie > ⬤ Angrenaje > Angrenaje",
+      "product_count": 115,
+      "in_stock_count": 68
     },
     {
       "id": "angrenaje-e-bike",
@@ -7113,11 +7145,46 @@
       "in_stock_count": 10
     },
     {
+      "id": "antifurturi-u-lock",
+      "name": "Antifurturi  U-Lock",
+      "full_path": "Accesorii > Antifurturi - Alarme > Antifurturi  U-Lock",
+      "product_count": 6,
+      "in_stock_count": 6
+    },
+    {
       "id": "antifurturi-alarme",
       "name": "Antifurturi - Alarme",
       "full_path": "Accesorii > Antifurturi - Alarme",
       "product_count": 5,
       "in_stock_count": 4
+    },
+    {
+      "id": "antifurturi-lant",
+      "name": "Antifurturi Lant",
+      "full_path": "Accesorii > Antifurturi - Alarme > Antifurturi Lant",
+      "product_count": 10,
+      "in_stock_count": 8
+    },
+    {
+      "id": "antifurturi-pliabile",
+      "name": "Antifurturi Pliabile",
+      "full_path": "Accesorii > Antifurturi - Alarme > Antifurturi Pliabile",
+      "product_count": 2,
+      "in_stock_count": 2
+    },
+    {
+      "id": "antifurturi-cu-cheie",
+      "name": "Antifurturi cu Cheie",
+      "full_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cheie",
+      "product_count": 21,
+      "in_stock_count": 8
+    },
+    {
+      "id": "antifurturi-cu-cifru",
+      "name": "Antifurturi cu Cifru",
+      "full_path": "Accesorii > Antifurturi - Alarme > Antifurturi cu Cifru",
+      "product_count": 13,
+      "in_stock_count": 8
     },
     {
       "id": "anvelope-camere",
@@ -7138,14 +7205,49 @@
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 190,
-      "in_stock_count": 114
+      "in_stock_count": 113
     },
     {
-      "id": "aparatori-angrenaj-accesorii",
-      "name": "Aparatori Angrenaj - Accesorii",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > Aparatori Angrenaj - Accesorii",
-      "product_count": 9,
-      "in_stock_count": 5
+      "id": "aparatori-noroi-fata",
+      "name": "Aparatori Noroi Fata",
+      "full_path": "Accesorii > Aparatori Noroi > Aparatori Noroi Fata",
+      "product_count": 7,
+      "in_stock_count": 7
+    },
+    {
+      "id": "aparatori-noroi-spate",
+      "name": "Aparatori Noroi Spate",
+      "full_path": "Accesorii > Aparatori Noroi > Aparatori Noroi Spate",
+      "product_count": 10,
+      "in_stock_count": 10
+    },
+    {
+      "id": "axe-accesorii-butuci",
+      "name": "Axe - Accesorii Butuci",
+      "full_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
+      "product_count": 59,
+      "in_stock_count": 38
+    },
+    {
+      "id": "bagaje-cadru",
+      "name": "Bagaje Cadru",
+      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Cadru",
+      "product_count": 17,
+      "in_stock_count": 14
+    },
+    {
+      "id": "bagaje-ghidon",
+      "name": "Bagaje Ghidon",
+      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Ghidon",
+      "product_count": 11,
+      "in_stock_count": 10
+    },
+    {
+      "id": "bagaje-spate",
+      "name": "Bagaje Spate",
+      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
+      "product_count": 43,
+      "in_stock_count": 37
     },
     {
       "id": "banda-janta-tubeless",
@@ -7190,16 +7292,65 @@
       "in_stock_count": 0
     },
     {
+      "id": "bidoane-ciclism",
+      "name": "Bidoane Ciclism",
+      "full_path": "Accesorii > Bidoane - Suporti Bidon > Bidoane Ciclism",
+      "product_count": 21,
+      "in_stock_count": 17
+    },
+    {
+      "id": "bike-care-ingrijire",
+      "name": "Bike Care - Ingrijire",
+      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
+      "product_count": 6,
+      "in_stock_count": 4
+    },
+    {
+      "id": "bike-computer",
+      "name": "Bike Computer",
+      "full_path": "Accesorii > Electronice > Bike Computer",
+      "product_count": 6,
+      "in_stock_count": 4
+    },
+    {
+      "id": "bike-lube-lubrefiere",
+      "name": "Bike Lube - Lubrefiere",
+      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "product_count": 13,
+      "in_stock_count": 5
+    },
+    {
+      "id": "bike-maintenance-intretinere",
+      "name": "Bike Maintenance - Intretinere",
+      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
+      "product_count": 14,
+      "in_stock_count": 6
+    },
+    {
+      "id": "butuci-frana-disc",
+      "name": "Butuci Frana Disc",
+      "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
+      "product_count": 122,
+      "in_stock_count": 67
+    },
+    {
       "id": "butuci-pedalieri",
       "name": "Butuci Pedalieri",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > Butuci Pedalieri",
+      "full_path": "Componente > Transmisie > ⬤ Angrenaje > Butuci Pedalieri",
       "product_count": 55,
       "in_stock_count": 46
     },
     {
+      "id": "butuci-v-break-dinam",
+      "name": "Butuci V-Break - Dinam",
+      "full_path": "Roti > Butuci - Accesorii > Butuci V-Break - Dinam",
+      "product_count": 51,
+      "in_stock_count": 41
+    },
+    {
       "id": "cabluri",
       "name": "Cabluri",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > Cabluri",
+      "full_path": "Componente > Transmisie > ⬤ Cabluri - Camasi > Cabluri",
       "product_count": 15,
       "in_stock_count": 10
     },
@@ -7213,23 +7364,58 @@
     {
       "id": "cadre-ssp-fixie",
       "name": "Cadre SSP - Fixie",
-      "full_path": "Componente > Urechi - Protectii - Cadre > Cadre SSP - Fixie",
+      "full_path": "Componente > Urechi - Cadre > Cadre SSP - Fixie",
       "product_count": 3,
       "in_stock_count": 2
+    },
+    {
+      "id": "camasi",
+      "name": "Camasi",
+      "full_path": "Componente > Transmisie > ⬤ Cabluri - Camasi > Camasi",
+      "product_count": 13,
+      "in_stock_count": 13
     },
     {
       "id": "camere-bicicleta",
       "name": "Camere Bicicleta",
       "full_path": "Componente > Anvelope - Camere > Camere Bicicleta",
       "product_count": 108,
-      "in_stock_count": 67
+      "in_stock_count": 66
     },
     {
-      "id": "capete-cablu-manta",
-      "name": "Capete Cablu - Manta",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > Capete Cablu - Manta",
-      "product_count": 20,
-      "in_stock_count": 14
+      "id": "carcase-prinderi-smartphone",
+      "name": "Carcase - Prinderi SmartPhone",
+      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Carcase - Prinderi SmartPhone",
+      "product_count": 9,
+      "in_stock_count": 7
+    },
+    {
+      "id": "cartuse-co2-accesorii-pompe",
+      "name": "Cartuse CO2 - Accesorii Pompe",
+      "full_path": "Accesorii > Pompe Ciclism > Cartuse CO2 - Accesorii Pompe",
+      "product_count": 5,
+      "in_stock_count": 3
+    },
+    {
+      "id": "casete-butuci",
+      "name": "Casete Butuci",
+      "full_path": "Roti > Butuci - Accesorii > Casete Butuci",
+      "product_count": 14,
+      "in_stock_count": 9
+    },
+    {
+      "id": "chei-dinamometrice",
+      "name": "Chei Dinamometrice",
+      "full_path": "Service > Unelte Service > Chei Dinamometrice",
+      "product_count": 5,
+      "in_stock_count": 2
+    },
+    {
+      "id": "chei-universale",
+      "name": "Chei Universale",
+      "full_path": "Service > Unelte Service > Chei Universale",
+      "product_count": 1,
+      "in_stock_count": 1
     },
     {
       "id": "coliere-tija-sa",
@@ -7253,6 +7439,20 @@
       "in_stock_count": 1
     },
     {
+      "id": "cosuri-transport-fata",
+      "name": "Cosuri Transport Fata",
+      "full_path": "Accesorii > Cosuri Transport > Cosuri Transport Fata",
+      "product_count": 21,
+      "in_stock_count": 15
+    },
+    {
+      "id": "cosuri-transport-spate",
+      "name": "Cosuri Transport Spate",
+      "full_path": "Accesorii > Cosuri Transport > Cosuri Transport Spate",
+      "product_count": 15,
+      "in_stock_count": 12
+    },
+    {
       "id": "cricuri-bicicleta",
       "name": "Cricuri Bicicleta",
       "full_path": "Accesorii > Cricuri Bicicleta",
@@ -7260,11 +7460,32 @@
       "in_stock_count": 3
     },
     {
-      "id": "cuveti-headset",
-      "name": "Cuveti(HeadSet)",
-      "full_path": "Componente > Furci - Suspensii - Cuveti > Cuveti(HeadSet)",
+      "id": "cricuri-mijloc",
+      "name": "Cricuri Mijloc",
+      "full_path": "Accesorii > Cricuri Bicicleta > Cricuri Mijloc",
+      "product_count": 12,
+      "in_stock_count": 8
+    },
+    {
+      "id": "cricuri-spate",
+      "name": "Cricuri Spate",
+      "full_path": "Accesorii > Cricuri Bicicleta > Cricuri Spate",
+      "product_count": 14,
+      "in_stock_count": 9
+    },
+    {
+      "id": "cuvete",
+      "name": "Cuvete",
+      "full_path": "Componente > Furci - Suspensii - Cuveti > Cuvete",
       "product_count": 35,
       "in_stock_count": 28
+    },
+    {
+      "id": "depozitare-biciclete",
+      "name": "Depozitare Biciclete",
+      "full_path": "Accesorii > Transport - Depozitare > Depozitare Biciclete",
+      "product_count": 21,
+      "in_stock_count": 17
     },
     {
       "id": "discuri-rotoare",
@@ -7297,7 +7518,7 @@
     {
       "id": "foi-angrenaje",
       "name": "Foi Angrenaje",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > Foi Angrenaje",
+      "full_path": "Componente > Transmisie > ⬤ Angrenaje > Foi Angrenaje",
       "product_count": 37,
       "in_stock_count": 25
     },
@@ -7344,9 +7565,9 @@
       "in_stock_count": 2
     },
     {
-      "id": "intinzatoare-lant-directionare",
-      "name": "Intinzatoare Lant - Directionare",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > Intinzatoare Lant - Directionare",
+      "id": "intinzatoare-lant",
+      "name": "Intinzatoare Lant",
+      "full_path": "Componente > Transmisie > ⬤ Lanturi > Intinzatoare Lant",
       "product_count": 5,
       "in_stock_count": 4
     },
@@ -7358,10 +7579,31 @@
       "in_stock_count": 5
     },
     {
+      "id": "jante-fat-bike",
+      "name": "Jante Fat  Bike",
+      "full_path": "Roti > Jante > Jante Fat  Bike",
+      "product_count": 3,
+      "in_stock_count": 3
+    },
+    {
+      "id": "jante-pentru-frane-disc",
+      "name": "Jante pentru Frane Disc",
+      "full_path": "Roti > Jante > Jante pentru Frane Disc",
+      "product_count": 56,
+      "in_stock_count": 29
+    },
+    {
+      "id": "jante-pentru-frane-v-brake",
+      "name": "Jante pentru Frane V-Brake",
+      "full_path": "Roti > Jante > Jante pentru Frane V-Brake",
+      "product_count": 23,
+      "in_stock_count": 21
+    },
+    {
       "id": "lanturi",
       "name": "Lanturi",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > Lanturi",
-      "product_count": 75,
+      "full_path": "Componente > Transmisie > ⬤ Lanturi > Lanturi",
+      "product_count": 77,
       "in_stock_count": 58
     },
     {
@@ -7370,6 +7612,20 @@
       "full_path": "Accesorii > Lumini - Accesorii",
       "product_count": 4,
       "in_stock_count": 2
+    },
+    {
+      "id": "lumini-fata",
+      "name": "Lumini Fata",
+      "full_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
+      "product_count": 30,
+      "in_stock_count": 26
+    },
+    {
+      "id": "lumini-spate",
+      "name": "Lumini Spate",
+      "full_path": "Accesorii > Lumini - Accesorii > Lumini Spate",
+      "product_count": 31,
+      "in_stock_count": 27
     },
     {
       "id": "manete-frana",
@@ -7381,14 +7637,14 @@
     {
       "id": "manete-frana-schimbator",
       "name": "Manete Frana  - Schimbator",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > Manete Frana  - Schimbator",
+      "full_path": "Componente > Transmisie > ⬤ Schimbatoare > Manete Frana  - Schimbator",
       "product_count": 3,
       "in_stock_count": 3
     },
     {
       "id": "manete-schimbator",
       "name": "Manete Schimbator",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > Manete Schimbator",
+      "full_path": "Componente > Transmisie > ⬤ Schimbatoare > Manete Schimbator",
       "product_count": 27,
       "in_stock_count": 20
     },
@@ -7400,13 +7656,6 @@
       "in_stock_count": 69
     },
     {
-      "id": "mantale",
-      "name": "Mantale",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Cabluri - Mantale - Capete > Mantale",
-      "product_count": 13,
-      "in_stock_count": 13
-    },
-    {
       "id": "manusi-ciclism",
       "name": "Manusi Ciclism",
       "full_path": "Echipamente > Manusi Ciclism",
@@ -7414,11 +7663,32 @@
       "in_stock_count": 27
     },
     {
+      "id": "mini-pompe",
+      "name": "Mini Pompe",
+      "full_path": "Accesorii > Pompe Ciclism > Mini Pompe",
+      "product_count": 14,
+      "in_stock_count": 14
+    },
+    {
       "id": "motoare-e-bike",
       "name": "Motoare E-Bike",
       "full_path": "E-Mobility > Motoare E-Bike",
       "product_count": 11,
       "in_stock_count": 7
+    },
+    {
+      "id": "nipluri-accesorii",
+      "name": "Nipluri - Accesorii",
+      "full_path": "Roti > Spite si Nipluri > Nipluri - Accesorii",
+      "product_count": 12,
+      "in_stock_count": 9
+    },
+    {
+      "id": "oglinzi",
+      "name": "Oglinzi",
+      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
+      "product_count": 25,
+      "in_stock_count": 21
     },
     {
       "id": "pantaloni-ciclism",
@@ -7452,27 +7722,20 @@
       "id": "pedale-platforma",
       "name": "Pedale Platforma",
       "full_path": "Componente > Pedale - Accesorii > Pedale Platforma",
-      "product_count": 148,
+      "product_count": 147,
       "in_stock_count": 90
-    },
-    {
-      "id": "pedaliere-angrenaje",
-      "name": "Pedaliere - Angrenaje",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace > Pedaliere - Angrenaje",
-      "product_count": 114,
-      "in_stock_count": 68
     },
     {
       "id": "pinioane-casetate",
       "name": "Pinioane Casetate",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Pinioane > Pinioane Casetate",
+      "full_path": "Componente > Transmisie > ⬤ Pinioane > Pinioane Casetate",
       "product_count": 10,
       "in_stock_count": 5
     },
     {
       "id": "pionioane-filetate",
       "name": "Pionioane Filetate",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Pinioane > Pionioane Filetate",
+      "full_path": "Componente > Transmisie > ⬤ Pinioane > Pionioane Filetate",
       "product_count": 42,
       "in_stock_count": 30
     },
@@ -7484,9 +7747,9 @@
       "in_stock_count": 38
     },
     {
-      "id": "placute-frana-disc",
-      "name": "Placute Frana Disc",
-      "full_path": "Componente > Sisteme Franare > Placute Frana Disc",
+      "id": "placute-frana",
+      "name": "Placute Frana",
+      "full_path": "Componente > Sisteme Franare > Placute Frana",
       "product_count": 26,
       "in_stock_count": 21
     },
@@ -7498,11 +7761,39 @@
       "in_stock_count": 2
     },
     {
+      "id": "pompe-furca-tubeless",
+      "name": "Pompe Furca - Tubeless",
+      "full_path": "Accesorii > Pompe Ciclism > Pompe Furca - Tubeless",
+      "product_count": 6,
+      "in_stock_count": 4
+    },
+    {
+      "id": "pompe-podea",
+      "name": "Pompe Podea",
+      "full_path": "Accesorii > Pompe Ciclism > Pompe Podea",
+      "product_count": 11,
+      "in_stock_count": 8
+    },
+    {
       "id": "portbagaje",
       "name": "Portbagaje",
       "full_path": "Accesorii > Portbagaje",
       "product_count": 7,
       "in_stock_count": 7
+    },
+    {
+      "id": "portbagaje-fata",
+      "name": "Portbagaje Fata",
+      "full_path": "Accesorii > Portbagaje > Portbagaje Fata",
+      "product_count": 5,
+      "in_stock_count": 5
+    },
+    {
+      "id": "portbagaje-spate",
+      "name": "Portbagaje Spate",
+      "full_path": "Accesorii > Portbagaje > Portbagaje Spate",
+      "product_count": 15,
+      "in_stock_count": 13
     },
     {
       "id": "protectii-antipana",
@@ -7512,18 +7803,53 @@
       "in_stock_count": 26
     },
     {
-      "id": "protectii-lant-cadru",
-      "name": "Protectii Lant - Cadru",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Lanturi - Componente > Protectii Lant - Cadru",
+      "id": "protectii-lant",
+      "name": "Protectii Lant",
+      "full_path": "Componente > Transmisie > ⬤ Lanturi > Protectii Lant",
       "product_count": 10,
       "in_stock_count": 6
+    },
+    {
+      "id": "reflectorizante",
+      "name": "Reflectorizante",
+      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Reflectorizante",
+      "product_count": 21,
+      "in_stock_count": 19
     },
     {
       "id": "roti-ajutatoare-articole-copii",
       "name": "Roti Ajutatoare - Articole Copii",
       "full_path": "Accesorii > Roti Ajutatoare - Articole Copii",
       "product_count": 16,
-      "in_stock_count": 12
+      "in_stock_count": 11
+    },
+    {
+      "id": "roti-fata",
+      "name": "Roti Fata",
+      "full_path": "Roti > Roti Bicicleta > Roti Fata",
+      "product_count": 37,
+      "in_stock_count": 34
+    },
+    {
+      "id": "roti-spate",
+      "name": "Roti Spate",
+      "full_path": "Roti > Roti Bicicleta > Roti Spate",
+      "product_count": 48,
+      "in_stock_count": 45
+    },
+    {
+      "id": "roti-custom-hand-built",
+      "name": "Roți Custom / Hand-Built",
+      "full_path": "Roti > Roti Bicicleta > Roți Custom / Hand-Built",
+      "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
+      "id": "rucsaci",
+      "name": "Rucsaci",
+      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Rucsaci",
+      "product_count": 3,
+      "in_stock_count": 3
     },
     {
       "id": "rucsaci-bagaje-borsete",
@@ -7533,18 +7859,11 @@
       "in_stock_count": 2
     },
     {
-      "id": "rulmenti-headset",
-      "name": "Rulmenti(HeadSet)",
-      "full_path": "Componente > Furci - Suspensii - Cuveti > Rulmenti(HeadSet)",
+      "id": "rulmenti",
+      "name": "Rulmenti",
+      "full_path": "Componente > Furci - Suspensii - Cuveti > Rulmenti",
       "product_count": 6,
       "in_stock_count": 4
-    },
-    {
-      "id": "service",
-      "name": "SERVICE",
-      "full_path": "SERVICE",
-      "product_count": 17,
-      "in_stock_count": 13
     },
     {
       "id": "saboti-frana",
@@ -7554,16 +7873,23 @@
       "in_stock_count": 12
     },
     {
+      "id": "scaune-bicicleta-copii",
+      "name": "Scaune Bicicleta Copii",
+      "full_path": "Accesorii > Roti Ajutatoare - Articole Copii > Scaune Bicicleta Copii",
+      "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
       "id": "schimbatoare-fata",
       "name": "Schimbatoare Fata",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > Schimbatoare Fata",
+      "full_path": "Componente > Transmisie > ⬤ Schimbatoare > Schimbatoare Fata",
       "product_count": 7,
       "in_stock_count": 6
     },
     {
       "id": "schimbatoare-spate",
       "name": "Schimbatoare Spate",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Schimbatoare - Accesorii > Schimbatoare Spate",
+      "full_path": "Componente > Transmisie > ⬤ Schimbatoare > Schimbatoare Spate",
       "product_count": 27,
       "in_stock_count": 20
     },
@@ -7582,6 +7908,34 @@
       "in_stock_count": 1
     },
     {
+      "id": "service",
+      "name": "Service",
+      "full_path": "Service",
+      "product_count": 17,
+      "in_stock_count": 13
+    },
+    {
+      "id": "set-lumini",
+      "name": "Set Lumini",
+      "full_path": "Accesorii > Lumini - Accesorii > Set Lumini",
+      "product_count": 25,
+      "in_stock_count": 19
+    },
+    {
+      "id": "seturi-aparatori-noroi",
+      "name": "Seturi Aparatori Noroi",
+      "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori Noroi",
+      "product_count": 29,
+      "in_stock_count": 24
+    },
+    {
+      "id": "seturi-roti",
+      "name": "Seturi Roti",
+      "full_path": "Roti > Roti Bicicleta > Seturi Roti",
+      "product_count": 26,
+      "in_stock_count": 23
+    },
+    {
       "id": "sistem-velo-fit",
       "name": "Sistem VELO - FIT",
       "full_path": "Componente > Sei - Tije - Coliere > Sistem VELO - FIT",
@@ -7589,10 +7943,59 @@
       "in_stock_count": 17
     },
     {
+      "id": "sonerii",
+      "name": "Sonerii",
+      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Sonerii",
+      "product_count": 50,
+      "in_stock_count": 42
+    },
+    {
       "id": "sonerii-oglinzi-reflectorizante",
       "name": "Sonerii - Oglinzi - Reflectorizante",
       "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante",
       "product_count": 2,
+      "in_stock_count": 2
+    },
+    {
+      "id": "spite-stainless",
+      "name": "Spite Stainless",
+      "full_path": "Roti > Spite si Nipluri > Spite Stainless",
+      "product_count": 165,
+      "in_stock_count": 94
+    },
+    {
+      "id": "spite-stainless-2-3-mm",
+      "name": "Spite Stainless - 2,3 mm",
+      "full_path": "Roti > Spite si Nipluri > Spite Stainless - 2,3 mm",
+      "product_count": 11,
+      "in_stock_count": 7
+    },
+    {
+      "id": "spite-stainless-aero",
+      "name": "Spite Stainless Aero",
+      "full_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
+      "product_count": 24,
+      "in_stock_count": 1
+    },
+    {
+      "id": "spite-ucp",
+      "name": "Spite UCP",
+      "full_path": "Roti > Spite si Nipluri > Spite UCP",
+      "product_count": 58,
+      "in_stock_count": 26
+    },
+    {
+      "id": "suporturi-bidon",
+      "name": "Suporturi Bidon",
+      "full_path": "Accesorii > Bidoane - Suporti Bidon > Suporturi Bidon",
+      "product_count": 50,
+      "in_stock_count": 40
+    },
+    {
+      "id": "suruburi-piulite-saibe",
+      "name": "Suruburi - Piulite - Saibe",
+      "full_path": "Service > Unelte Service > Suruburi - Piulite - Saibe",
+      "product_count": 6,
       "in_stock_count": 2
     },
     {
@@ -7617,6 +8020,20 @@
       "in_stock_count": 4
     },
     {
+      "id": "transport-biciclete",
+      "name": "Transport Biciclete",
+      "full_path": "Accesorii > Transport - Depozitare > Transport Biciclete",
+      "product_count": 5,
+      "in_stock_count": 1
+    },
+    {
+      "id": "transport-copii",
+      "name": "Transport Copii",
+      "full_path": "Accesorii > Roti Ajutatoare - Articole Copii > Transport Copii",
+      "product_count": 1,
+      "in_stock_count": 0
+    },
+    {
       "id": "tricouri-ciclism",
       "name": "Tricouri Ciclism",
       "full_path": "Echipamente > Tricouri Ciclism",
@@ -7627,27 +8044,41 @@
       "id": "trotinete-electrice",
       "name": "Trotinete Electrice",
       "full_path": "E-Mobility > Trotinete Electrice",
-      "product_count": 38,
+      "product_count": 37,
       "in_stock_count": 13
+    },
+    {
+      "id": "truse-unelte-mini-truse",
+      "name": "Truse Unelte - Mini Truse",
+      "full_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
+      "product_count": 17,
+      "in_stock_count": 16
     },
     {
       "id": "unelte-service",
       "name": "Unelte Service",
-      "full_path": "SERVICE > Unelte Service",
+      "full_path": "Service > Unelte Service",
       "product_count": 5,
       "in_stock_count": 3
     },
     {
-      "id": "urechi-protectii-cadre",
-      "name": "Urechi - Protectii - Cadre",
-      "full_path": "Componente > Urechi - Protectii - Cadre",
+      "id": "unelte-speciale-biciclete",
+      "name": "Unelte Speciale Biciclete",
+      "full_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "product_count": 177,
+      "in_stock_count": 146
+    },
+    {
+      "id": "urechi-cadre",
+      "name": "Urechi - Cadre",
+      "full_path": "Componente > Urechi - Cadre",
       "product_count": 1,
       "in_stock_count": 0
     },
     {
       "id": "urechi-cadru",
       "name": "Urechi Cadru",
-      "full_path": "Componente > Urechi - Protectii - Cadre > Urechi Cadru",
+      "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
       "in_stock_count": 406
     },
@@ -7659,256 +8090,11 @@
       "in_stock_count": 1
     },
     {
-      "id": "accesorii-aparatori-noroi",
-      "name": "➤ Accesorii Aparatori Noroi",
-      "full_path": "Accesorii > Aparatori Noroi > ➤ Accesorii Aparatori Noroi",
-      "product_count": 1,
-      "in_stock_count": 1
-    },
-    {
-      "id": "accesorii-lumini",
-      "name": "➤ Accesorii Lumini",
-      "full_path": "Accesorii > Lumini - Accesorii > ➤ Accesorii Lumini",
-      "product_count": 9,
-      "in_stock_count": 6
-    },
-    {
-      "id": "antifurturi-u-lock",
-      "name": "➤ Antifurturi  U-Lock",
-      "full_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi  U-Lock",
-      "product_count": 6,
-      "in_stock_count": 6
-    },
-    {
-      "id": "antifurturi-lant",
-      "name": "➤ Antifurturi Lant",
-      "full_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi Lant",
-      "product_count": 10,
-      "in_stock_count": 8
-    },
-    {
-      "id": "antifurturi-pliabile",
-      "name": "➤ Antifurturi Pliabile",
-      "full_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi Pliabile",
-      "product_count": 2,
-      "in_stock_count": 2
-    },
-    {
-      "id": "antifurturi-cu-cheie",
-      "name": "➤ Antifurturi cu Cheie",
-      "full_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cheie",
-      "product_count": 21,
-      "in_stock_count": 8
-    },
-    {
-      "id": "antifurturi-cu-cifru",
-      "name": "➤ Antifurturi cu Cifru",
-      "full_path": "Accesorii > Antifurturi - Alarme > ➤ Antifurturi cu Cifru",
-      "product_count": 13,
-      "in_stock_count": 8
-    },
-    {
-      "id": "aparatori-noroi-fata",
-      "name": "➤ Aparatori Noroi Fata",
-      "full_path": "Accesorii > Aparatori Noroi > ➤ Aparatori Noroi Fata",
-      "product_count": 7,
-      "in_stock_count": 7
-    },
-    {
-      "id": "aparatori-noroi-spate",
-      "name": "➤ Aparatori Noroi Spate",
-      "full_path": "Accesorii > Aparatori Noroi > ➤ Aparatori Noroi Spate",
-      "product_count": 10,
-      "in_stock_count": 10
-    },
-    {
-      "id": "axe-accesorii-butuci",
-      "name": "➤ Axe - Accesorii Butuci",
-      "full_path": "Roti > ⬤ Butuci - Accesorii > ➤ Axe - Accesorii Butuci",
-      "product_count": 59,
-      "in_stock_count": 38
-    },
-    {
-      "id": "bagaje-cadru",
-      "name": "➤ Bagaje Cadru",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Cadru",
-      "product_count": 17,
-      "in_stock_count": 14
-    },
-    {
-      "id": "bagaje-ghidon",
-      "name": "➤ Bagaje Ghidon",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Ghidon",
-      "product_count": 11,
-      "in_stock_count": 10
-    },
-    {
-      "id": "bagaje-spate",
-      "name": "➤ Bagaje Spate",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Bagaje Spate",
-      "product_count": 43,
-      "in_stock_count": 37
-    },
-    {
-      "id": "bidoane-ciclism",
-      "name": "➤ Bidoane Ciclism",
-      "full_path": "Accesorii > Bidoane - Suporti Bidon > ➤ Bidoane Ciclism",
-      "product_count": 21,
-      "in_stock_count": 17
-    },
-    {
-      "id": "bike-care-ingrijire",
-      "name": "➤ Bike Care - Ingrijire",
-      "full_path": "SERVICE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Care - Ingrijire",
-      "product_count": 6,
-      "in_stock_count": 4
-    },
-    {
-      "id": "bike-computer",
-      "name": "➤ Bike Computer",
-      "full_path": "Accesorii > Electronice > ➤ Bike Computer",
-      "product_count": 6,
-      "in_stock_count": 4
-    },
-    {
-      "id": "bike-lube-lubrefiere",
-      "name": "➤ Bike Lube - Lubrefiere",
-      "full_path": "SERVICE > Ingrijire - Lubrefiere - Intretinere > ➤ Bike Lube - Lubrefiere",
-      "product_count": 13,
-      "in_stock_count": 5
-    },
-    {
-      "id": "butuci-frana-disc",
-      "name": "➤ Butuci Frana Disc",
-      "full_path": "Roti > ⬤ Butuci - Accesorii > ➤ Butuci Frana Disc",
-      "product_count": 122,
-      "in_stock_count": 67
-    },
-    {
-      "id": "butuci-v-break-dinam",
-      "name": "➤ Butuci V-Break - Dinam",
-      "full_path": "Roti > ⬤ Butuci - Accesorii > ➤ Butuci V-Break - Dinam",
-      "product_count": 51,
-      "in_stock_count": 41
-    },
-    {
-      "id": "carcase-prinderi-smartphone",
-      "name": "➤ Carcase - Prinderi SmartPhone",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Carcase - Prinderi SmartPhone",
-      "product_count": 9,
-      "in_stock_count": 7
-    },
-    {
-      "id": "cartuse-co2-accesorii-pompe",
-      "name": "➤ Cartuse CO2 - Accesorii Pompe",
-      "full_path": "Accesorii > Pompe Ciclism > ➤ Cartuse CO2 - Accesorii Pompe",
-      "product_count": 5,
-      "in_stock_count": 3
-    },
-    {
-      "id": "casete-butuci",
-      "name": "➤ Casete Butuci",
-      "full_path": "Roti > ⬤ Butuci - Accesorii > ➤ Casete Butuci",
-      "product_count": 14,
-      "in_stock_count": 9
-    },
-    {
       "id": "casti-ciclism",
       "name": "➤ Casti Ciclism",
       "full_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
       "product_count": 18,
       "in_stock_count": 4
-    },
-    {
-      "id": "chei-dinamometrice",
-      "name": "➤ Chei Dinamometrice",
-      "full_path": "SERVICE > Unelte Service > ➤ Chei Dinamometrice",
-      "product_count": 5,
-      "in_stock_count": 2
-    },
-    {
-      "id": "chei-universale",
-      "name": "➤ Chei Universale",
-      "full_path": "SERVICE > Unelte Service > ➤ Chei Universale",
-      "product_count": 1,
-      "in_stock_count": 1
-    },
-    {
-      "id": "cosuri-transport-fata",
-      "name": "➤ Cosuri Transport Fata",
-      "full_path": "Accesorii > Cosuri Transport > ➤ Cosuri Transport Fata",
-      "product_count": 21,
-      "in_stock_count": 15
-    },
-    {
-      "id": "cosuri-transport-spate",
-      "name": "➤ Cosuri Transport Spate",
-      "full_path": "Accesorii > Cosuri Transport > ➤ Cosuri Transport Spate",
-      "product_count": 15,
-      "in_stock_count": 12
-    },
-    {
-      "id": "cricuri-mijloc",
-      "name": "➤ Cricuri Mijloc",
-      "full_path": "Accesorii > Cricuri Bicicleta > ➤ Cricuri Mijloc",
-      "product_count": 12,
-      "in_stock_count": 9
-    },
-    {
-      "id": "cricuri-spate",
-      "name": "➤ Cricuri Spate",
-      "full_path": "Accesorii > Cricuri Bicicleta > ➤ Cricuri Spate",
-      "product_count": 14,
-      "in_stock_count": 9
-    },
-    {
-      "id": "jante-fat-bike",
-      "name": "➤ Jante Fat  Bike",
-      "full_path": "Roti > ⬤ Jante > ➤ Jante Fat  Bike",
-      "product_count": 3,
-      "in_stock_count": 3
-    },
-    {
-      "id": "jante-pentru-frane-disc",
-      "name": "➤ Jante pentru Frane Disc",
-      "full_path": "Roti > ⬤ Jante > ➤ Jante pentru Frane Disc",
-      "product_count": 56,
-      "in_stock_count": 29
-    },
-    {
-      "id": "jante-pentru-frane-v-brake",
-      "name": "➤ Jante pentru Frane V-Brake",
-      "full_path": "Roti > ⬤ Jante > ➤ Jante pentru Frane V-Brake",
-      "product_count": 23,
-      "in_stock_count": 21
-    },
-    {
-      "id": "lumini-fata",
-      "name": "➤ Lumini Fata",
-      "full_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Fata",
-      "product_count": 30,
-      "in_stock_count": 26
-    },
-    {
-      "id": "lumini-spate",
-      "name": "➤ Lumini Spate",
-      "full_path": "Accesorii > Lumini - Accesorii > ➤ Lumini Spate",
-      "product_count": 31,
-      "in_stock_count": 27
-    },
-    {
-      "id": "mini-pompe",
-      "name": "➤ Mini Pompe",
-      "full_path": "Accesorii > Pompe Ciclism > ➤ Mini Pompe",
-      "product_count": 14,
-      "in_stock_count": 14
-    },
-    {
-      "id": "nipluri-accesorii",
-      "name": "➤ Nipluri - Accesorii",
-      "full_path": "Roti > ⬤ Spite si Nipluri > ➤ Nipluri - Accesorii",
-      "product_count": 12,
-      "in_stock_count": 9
     },
     {
       "id": "ochelari-ciclism",
@@ -7918,212 +8104,9 @@
       "in_stock_count": 0
     },
     {
-      "id": "oglinzi",
-      "name": "➤ Oglinzi",
-      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Oglinzi",
-      "product_count": 25,
-      "in_stock_count": 21
-    },
-    {
-      "id": "pompe-furca-tubeless",
-      "name": "➤ Pompe Furca - Tubeless",
-      "full_path": "Accesorii > Pompe Ciclism > ➤ Pompe Furca - Tubeless",
-      "product_count": 6,
-      "in_stock_count": 4
-    },
-    {
-      "id": "pompe-podea",
-      "name": "➤ Pompe Podea",
-      "full_path": "Accesorii > Pompe Ciclism > ➤ Pompe Podea",
-      "product_count": 11,
-      "in_stock_count": 8
-    },
-    {
-      "id": "portbagaje-fata",
-      "name": "➤ Portbagaje Fata",
-      "full_path": "Accesorii > Portbagaje > ➤ Portbagaje Fata",
-      "product_count": 5,
-      "in_stock_count": 5
-    },
-    {
-      "id": "portbagaje-spate",
-      "name": "➤ Portbagaje Spate",
-      "full_path": "Accesorii > Portbagaje > ➤ Portbagaje Spate",
-      "product_count": 15,
-      "in_stock_count": 13
-    },
-    {
-      "id": "reflectorizante",
-      "name": "➤ Reflectorizante",
-      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Reflectorizante",
-      "product_count": 21,
-      "in_stock_count": 19
-    },
-    {
-      "id": "roti-fata",
-      "name": "➤ Roti Fata",
-      "full_path": "Roti > ⬤ Roti Bicicleta > ➤ Roti Fata",
-      "product_count": 37,
-      "in_stock_count": 34
-    },
-    {
-      "id": "roti-spate",
-      "name": "➤ Roti Spate",
-      "full_path": "Roti > ⬤ Roti Bicicleta > ➤ Roti Spate",
-      "product_count": 48,
-      "in_stock_count": 45
-    },
-    {
-      "id": "roti-custom-hand-built",
-      "name": "➤ Roți Custom / Hand-Built",
-      "full_path": "Roti > ⬤ Roti Bicicleta > ➤ Roți Custom / Hand-Built",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "rucsaci",
-      "name": "➤ Rucsaci",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > ➤ Rucsaci",
-      "product_count": 3,
-      "in_stock_count": 3
-    },
-    {
-      "id": "scaune-bicicleta-copii",
-      "name": "➤ Scaune Bicicleta Copii",
-      "full_path": "Accesorii > Roti Ajutatoare - Articole Copii > ➤ Scaune Bicicleta Copii",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "set-lumini",
-      "name": "➤ Set Lumini",
-      "full_path": "Accesorii > Lumini - Accesorii > ➤ Set Lumini",
-      "product_count": 25,
-      "in_stock_count": 19
-    },
-    {
-      "id": "seturi-aparatori-noroi",
-      "name": "➤ Seturi Aparatori Noroi",
-      "full_path": "Accesorii > Aparatori Noroi > ➤ Seturi Aparatori Noroi",
-      "product_count": 29,
-      "in_stock_count": 24
-    },
-    {
-      "id": "seturi-roti",
-      "name": "➤ Seturi Roti",
-      "full_path": "Roti > ⬤ Roti Bicicleta > ➤ Seturi Roti",
-      "product_count": 26,
-      "in_stock_count": 23
-    },
-    {
-      "id": "sonerii",
-      "name": "➤ Sonerii",
-      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > ➤ Sonerii",
-      "product_count": 50,
-      "in_stock_count": 42
-    },
-    {
-      "id": "spite-stainless",
-      "name": "➤ Spite Stainless",
-      "full_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless",
-      "product_count": 165,
-      "in_stock_count": 94
-    },
-    {
-      "id": "spite-stainless-2-3-mm",
-      "name": "➤ Spite Stainless - 2,3 mm",
-      "full_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless - 2,3 mm",
-      "product_count": 11,
-      "in_stock_count": 7
-    },
-    {
-      "id": "spite-stainless-aero",
-      "name": "➤ Spite Stainless Aero",
-      "full_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite Stainless Aero",
-      "product_count": 24,
-      "in_stock_count": 1
-    },
-    {
-      "id": "spite-ucp",
-      "name": "➤ Spite UCP",
-      "full_path": "Roti > ⬤ Spite si Nipluri > ➤ Spite UCP",
-      "product_count": 58,
-      "in_stock_count": 26
-    },
-    {
-      "id": "suporturi-bidon",
-      "name": "➤ Suporturi Bidon",
-      "full_path": "Accesorii > Bidoane - Suporti Bidon > ➤ Suporturi Bidon",
-      "product_count": 50,
-      "in_stock_count": 40
-    },
-    {
-      "id": "suruburi-piulite-saibe",
-      "name": "➤ Suruburi - Piulite - Saibe",
-      "full_path": "SERVICE > Unelte Service > ➤ Suruburi - Piulite - Saibe",
-      "product_count": 6,
-      "in_stock_count": 3
-    },
-    {
-      "id": "transport-biciclete",
-      "name": "➤ Transport Biciclete",
-      "full_path": "Accesorii > Transport - Depozitare > ➤ Transport Biciclete",
-      "product_count": 5,
-      "in_stock_count": 1
-    },
-    {
-      "id": "transport-copii",
-      "name": "➤ Transport Copii",
-      "full_path": "Accesorii > Roti Ajutatoare - Articole Copii > ➤ Transport Copii",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "truse-unelte-mini-truse",
-      "name": "➤ Truse Unelte - Mini Truse",
-      "full_path": "SERVICE > Unelte Service > ➤ Truse Unelte - Mini Truse",
-      "product_count": 17,
-      "in_stock_count": 16
-    },
-    {
-      "id": "unelte-speciale-biciclete",
-      "name": "➤ Unelte Speciale Biciclete",
-      "full_path": "SERVICE > Unelte Service > ➤ Unelte Speciale Biciclete",
-      "product_count": 177,
-      "in_stock_count": 147
-    },
-    {
-      "id": "bike-maintenance-intretinere",
-      "name": "➤Bike Maintenance - Intretinere",
-      "full_path": "SERVICE > Ingrijire - Lubrefiere - Intretinere > ➤Bike Maintenance - Intretinere",
-      "product_count": 14,
-      "in_stock_count": 6
-    },
-    {
-      "id": "depozitare-biciclete",
-      "name": "➤Depozitare Biciclete",
-      "full_path": "Accesorii > Transport - Depozitare > ➤Depozitare Biciclete",
-      "product_count": 21,
-      "in_stock_count": 17
-    },
-    {
-      "id": "angrenaje-monobloace",
-      "name": "⬤ Angrenaje - Monobloace",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Angrenaje - Monobloace",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
-      "id": "lanturi-componente",
-      "name": "⬤ Lanturi - Componente",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Lanturi - Componente",
-      "product_count": 2,
-      "in_stock_count": 0
-    },
-    {
       "id": "pinioane",
       "name": "⬤ Pinioane",
-      "full_path": "Componente > Schimbatoare - Transmisii > ⬤ Pinioane",
+      "full_path": "Componente > Transmisie > ⬤ Pinioane",
       "product_count": 3,
       "in_stock_count": 3
     }
