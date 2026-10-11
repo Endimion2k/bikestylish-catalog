@@ -1,20 +1,13 @@
 {
-  "last_updated": "2026-10-10T03:15:36.311875+00:00",
-  "total_categories": 147,
+  "last_updated": "2026-10-11T03:17:12.464803+00:00",
+  "total_categories": 144,
   "categories": [
     {
       "id": "accesorii",
       "name": "Accesorii",
-      "full_path": "Componente > Transmisie > ⬤ Angrenaje > Accesorii",
-      "product_count": 29,
-      "in_stock_count": 18
-    },
-    {
-      "id": "accesorii-aparatori-noroi",
-      "name": "Accesorii Aparatori Noroi",
-      "full_path": "Accesorii > Aparatori Noroi > Accesorii Aparatori Noroi",
-      "product_count": 1,
-      "in_stock_count": 1
+      "full_path": "Componente > Transmisie > ⬤ Pedaliere > Accesorii",
+      "product_count": 30,
+      "in_stock_count": 19
     },
     {
       "id": "accesorii-e-bike",
@@ -26,16 +19,23 @@
     {
       "id": "accesorii-lumini",
       "name": "Accesorii Lumini",
-      "full_path": "Accesorii > Lumini - Accesorii > Accesorii Lumini",
+      "full_path": "Accesorii > Lumini - Reflectorizante > Accesorii Lumini",
       "product_count": 9,
       "in_stock_count": 6
     },
     {
       "id": "accesorii-pedale",
       "name": "Accesorii Pedale",
-      "full_path": "Componente > Pedale - Accesorii > Accesorii Pedale",
+      "full_path": "Componente > Pedale > Accesorii Pedale",
       "product_count": 15,
       "in_stock_count": 13
+    },
+    {
+      "id": "accesorii-pompe-co2",
+      "name": "Accesorii Pompe -CO2",
+      "full_path": "Accesorii > Pompe Ciclism > Accesorii Pompe -CO2",
+      "product_count": 5,
+      "in_stock_count": 3
     },
     {
       "id": "adaptoare-frana",
@@ -54,8 +54,8 @@
     {
       "id": "angrenaje",
       "name": "Angrenaje",
-      "full_path": "Componente > Transmisie > ⬤ Angrenaje > Angrenaje",
-      "product_count": 115,
+      "full_path": "Componente > Transmisie > ⬤ Pedaliere > Angrenaje",
+      "product_count": 114,
       "in_stock_count": 68
     },
     {
@@ -129,16 +129,16 @@
       "in_stock_count": 113
     },
     {
-      "id": "aparatori-noroi-fata",
-      "name": "Aparatori Noroi Fata",
-      "full_path": "Accesorii > Aparatori Noroi > Aparatori Noroi Fata",
+      "id": "aparatori-fata",
+      "name": "Aparatori Fata",
+      "full_path": "Accesorii > Aparatori Noroi > Aparatori Fata",
       "product_count": 7,
       "in_stock_count": 7
     },
     {
-      "id": "aparatori-noroi-spate",
-      "name": "Aparatori Noroi Spate",
-      "full_path": "Accesorii > Aparatori Noroi > Aparatori Noroi Spate",
+      "id": "aparatori-spate",
+      "name": "Aparatori Spate",
+      "full_path": "Accesorii > Aparatori Noroi > Aparatori Spate",
       "product_count": 10,
       "in_stock_count": 10
     },
@@ -150,23 +150,30 @@
       "in_stock_count": 38
     },
     {
+      "id": "bagaje-borsete",
+      "name": "Bagaje - Borsete",
+      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete",
+      "product_count": 2,
+      "in_stock_count": 2
+    },
+    {
       "id": "bagaje-cadru",
       "name": "Bagaje Cadru",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Cadru",
+      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Cadru",
       "product_count": 17,
       "in_stock_count": 14
     },
     {
       "id": "bagaje-ghidon",
       "name": "Bagaje Ghidon",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Ghidon",
+      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Ghidon",
       "product_count": 11,
       "in_stock_count": 10
     },
     {
       "id": "bagaje-spate",
       "name": "Bagaje Spate",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Bagaje Spate",
+      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Spate",
       "product_count": 43,
       "in_stock_count": 37
     },
@@ -187,7 +194,7 @@
     {
       "id": "bar-tape-accesorii",
       "name": "Bar Tape - Accesorii",
-      "full_path": "Componente > Ghidoane - Mansoane - Pipe > Bar Tape - Accesorii",
+      "full_path": "Componente > Ghidoane - Directie > Bar Tape - Accesorii",
       "product_count": 38,
       "in_stock_count": 12
     },
@@ -257,7 +264,7 @@
     {
       "id": "butuci-pedalieri",
       "name": "Butuci Pedalieri",
-      "full_path": "Componente > Transmisie > ⬤ Angrenaje > Butuci Pedalieri",
+      "full_path": "Componente > Transmisie > ⬤ Pedaliere > Butuci Pedalieri",
       "product_count": 55,
       "in_stock_count": 46
     },
@@ -306,16 +313,9 @@
     {
       "id": "carcase-prinderi-smartphone",
       "name": "Carcase - Prinderi SmartPhone",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Carcase - Prinderi SmartPhone",
+      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Carcase - Prinderi SmartPhone",
       "product_count": 9,
       "in_stock_count": 7
-    },
-    {
-      "id": "cartuse-co2-accesorii-pompe",
-      "name": "Cartuse CO2 - Accesorii Pompe",
-      "full_path": "Accesorii > Pompe Ciclism > Cartuse CO2 - Accesorii Pompe",
-      "product_count": 5,
-      "in_stock_count": 3
     },
     {
       "id": "casete-butuci",
@@ -353,25 +353,25 @@
       "in_stock_count": 2
     },
     {
-      "id": "cosuri-transport",
-      "name": "Cosuri Transport",
-      "full_path": "Accesorii > Cosuri Transport",
-      "product_count": 1,
-      "in_stock_count": 1
-    },
-    {
-      "id": "cosuri-transport-fata",
-      "name": "Cosuri Transport Fata",
-      "full_path": "Accesorii > Cosuri Transport > Cosuri Transport Fata",
+      "id": "cosuri-fata",
+      "name": "Cosuri  Fata",
+      "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Fata",
       "product_count": 21,
       "in_stock_count": 15
     },
     {
-      "id": "cosuri-transport-spate",
-      "name": "Cosuri Transport Spate",
-      "full_path": "Accesorii > Cosuri Transport > Cosuri Transport Spate",
+      "id": "cosuri-spate",
+      "name": "Cosuri  Spate",
+      "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Spate",
       "product_count": 15,
       "in_stock_count": 12
+    },
+    {
+      "id": "cosuri-transport",
+      "name": "Cosuri Transport",
+      "full_path": "Accesorii > TRANSPORT > Cosuri Transport",
+      "product_count": 1,
+      "in_stock_count": 1
     },
     {
       "id": "cricuri-bicicleta",
@@ -395,16 +395,16 @@
       "in_stock_count": 9
     },
     {
-      "id": "cuvete",
-      "name": "Cuvete",
-      "full_path": "Componente > Furci - Suspensii - Cuveti > Cuvete",
-      "product_count": 35,
-      "in_stock_count": 28
+      "id": "cuvete-rulmenti",
+      "name": "Cuvete - Rulmenti",
+      "full_path": "Componente > Suspensii - Cuvete > Cuvete - Rulmenti",
+      "product_count": 41,
+      "in_stock_count": 32
     },
     {
       "id": "depozitare-biciclete",
       "name": "Depozitare Biciclete",
-      "full_path": "Accesorii > Transport - Depozitare > Depozitare Biciclete",
+      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare > Depozitare Biciclete",
       "product_count": 21,
       "in_stock_count": 17
     },
@@ -432,14 +432,14 @@
     {
       "id": "flori-furca-distantiere-accesorii",
       "name": "Flori Furca - Distantiere - Accesorii",
-      "full_path": "Componente > Furci - Suspensii - Cuveti > Flori Furca - Distantiere - Accesorii",
+      "full_path": "Componente > Suspensii - Cuvete > Flori Furca - Distantiere - Accesorii",
       "product_count": 23,
       "in_stock_count": 23
     },
     {
       "id": "foi-angrenaje",
       "name": "Foi Angrenaje",
-      "full_path": "Componente > Transmisie > ⬤ Angrenaje > Foi Angrenaje",
+      "full_path": "Componente > Transmisie > ⬤ Pedaliere > Foi Angrenaje",
       "product_count": 37,
       "in_stock_count": 25
     },
@@ -460,21 +460,21 @@
     {
       "id": "furci",
       "name": "Furci",
-      "full_path": "Componente > Furci - Suspensii - Cuveti > Furci",
+      "full_path": "Componente > Suspensii - Cuvete > Furci",
       "product_count": 29,
       "in_stock_count": 19
     },
     {
       "id": "ghidoane",
       "name": "Ghidoane",
-      "full_path": "Componente > Ghidoane - Mansoane - Pipe > Ghidoane",
+      "full_path": "Componente > Ghidoane - Directie > Ghidoane",
       "product_count": 51,
       "in_stock_count": 31
     },
     {
-      "id": "ghidoane-mansoane-pipe",
-      "name": "Ghidoane - Mansoane - Pipe",
-      "full_path": "Componente > Ghidoane - Mansoane - Pipe",
+      "id": "ghidoane-directie",
+      "name": "Ghidoane - Directie",
+      "full_path": "Componente > Ghidoane - Directie",
       "product_count": 6,
       "in_stock_count": 4
     },
@@ -507,16 +507,16 @@
       "in_stock_count": 3
     },
     {
-      "id": "jante-pentru-frane-disc",
-      "name": "Jante pentru Frane Disc",
-      "full_path": "Roti > Jante > Jante pentru Frane Disc",
+      "id": "jante-frane-disc",
+      "name": "Jante Frane Disc",
+      "full_path": "Roti > Jante > Jante Frane Disc",
       "product_count": 56,
       "in_stock_count": 29
     },
     {
-      "id": "jante-pentru-frane-v-brake",
-      "name": "Jante pentru Frane V-Brake",
-      "full_path": "Roti > Jante > Jante pentru Frane V-Brake",
+      "id": "jante-frane-v-brake",
+      "name": "Jante Frane V-Brake",
+      "full_path": "Roti > Jante > Jante Frane V-Brake",
       "product_count": 23,
       "in_stock_count": 21
     },
@@ -528,23 +528,23 @@
       "in_stock_count": 58
     },
     {
-      "id": "lumini-accesorii",
-      "name": "Lumini - Accesorii",
-      "full_path": "Accesorii > Lumini - Accesorii",
+      "id": "lumini-reflectorizante",
+      "name": "Lumini - Reflectorizante",
+      "full_path": "Accesorii > Lumini - Reflectorizante",
       "product_count": 4,
       "in_stock_count": 2
     },
     {
       "id": "lumini-fata",
       "name": "Lumini Fata",
-      "full_path": "Accesorii > Lumini - Accesorii > Lumini Fata",
+      "full_path": "Accesorii > Lumini - Reflectorizante > Lumini Fata",
       "product_count": 30,
       "in_stock_count": 26
     },
     {
       "id": "lumini-spate",
       "name": "Lumini Spate",
-      "full_path": "Accesorii > Lumini - Accesorii > Lumini Spate",
+      "full_path": "Accesorii > Lumini - Reflectorizante > Lumini Spate",
       "product_count": 31,
       "in_stock_count": 27
     },
@@ -572,7 +572,7 @@
     {
       "id": "mansoane",
       "name": "Mansoane",
-      "full_path": "Componente > Ghidoane - Mansoane - Pipe > Mansoane",
+      "full_path": "Componente > Ghidoane - Directie > Mansoane",
       "product_count": 96,
       "in_stock_count": 69
     },
@@ -587,8 +587,8 @@
       "id": "mini-pompe",
       "name": "Mini Pompe",
       "full_path": "Accesorii > Pompe Ciclism > Mini Pompe",
-      "product_count": 14,
-      "in_stock_count": 14
+      "product_count": 20,
+      "in_stock_count": 18
     },
     {
       "id": "motoare-e-bike",
@@ -607,7 +607,7 @@
     {
       "id": "oglinzi",
       "name": "Oglinzi",
-      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Oglinzi",
+      "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
       "product_count": 25,
       "in_stock_count": 21
     },
@@ -628,21 +628,21 @@
     {
       "id": "pedale-click",
       "name": "Pedale Click",
-      "full_path": "Componente > Pedale - Accesorii > Pedale Click",
+      "full_path": "Componente > Pedale > Pedale Click",
       "product_count": 27,
       "in_stock_count": 19
     },
     {
       "id": "pedale-duble",
       "name": "Pedale Duble",
-      "full_path": "Componente > Pedale - Accesorii > Pedale Duble",
+      "full_path": "Componente > Pedale > Pedale Duble",
       "product_count": 14,
       "in_stock_count": 9
     },
     {
       "id": "pedale-platforma",
       "name": "Pedale Platforma",
-      "full_path": "Componente > Pedale - Accesorii > Pedale Platforma",
+      "full_path": "Componente > Pedale > Pedale Platforma",
       "product_count": 147,
       "in_stock_count": 90
     },
@@ -663,7 +663,7 @@
     {
       "id": "pipe-ghidon",
       "name": "Pipe Ghidon",
-      "full_path": "Componente > Ghidoane - Mansoane - Pipe > Pipe Ghidon",
+      "full_path": "Componente > Ghidoane - Directie > Pipe Ghidon",
       "product_count": 45,
       "in_stock_count": 38
     },
@@ -682,13 +682,6 @@
       "in_stock_count": 2
     },
     {
-      "id": "pompe-furca-tubeless",
-      "name": "Pompe Furca - Tubeless",
-      "full_path": "Accesorii > Pompe Ciclism > Pompe Furca - Tubeless",
-      "product_count": 6,
-      "in_stock_count": 4
-    },
-    {
       "id": "pompe-podea",
       "name": "Pompe Podea",
       "full_path": "Accesorii > Pompe Ciclism > Pompe Podea",
@@ -698,21 +691,21 @@
     {
       "id": "portbagaje",
       "name": "Portbagaje",
-      "full_path": "Accesorii > Portbagaje",
+      "full_path": "Accesorii > TRANSPORT > Portbagaje",
       "product_count": 7,
       "in_stock_count": 7
     },
     {
       "id": "portbagaje-fata",
       "name": "Portbagaje Fata",
-      "full_path": "Accesorii > Portbagaje > Portbagaje Fata",
+      "full_path": "Accesorii > TRANSPORT > Portbagaje > Portbagaje Fata",
       "product_count": 5,
       "in_stock_count": 5
     },
     {
       "id": "portbagaje-spate",
       "name": "Portbagaje Spate",
-      "full_path": "Accesorii > Portbagaje > Portbagaje Spate",
+      "full_path": "Accesorii > TRANSPORT > Portbagaje > Portbagaje Spate",
       "product_count": 15,
       "in_stock_count": 13
     },
@@ -733,16 +726,16 @@
     {
       "id": "reflectorizante",
       "name": "Reflectorizante",
-      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Reflectorizante",
+      "full_path": "Accesorii > Lumini - Reflectorizante > Reflectorizante",
       "product_count": 21,
       "in_stock_count": 19
     },
     {
       "id": "roti-ajutatoare-articole-copii",
       "name": "Roti Ajutatoare - Articole Copii",
-      "full_path": "Accesorii > Roti Ajutatoare - Articole Copii",
-      "product_count": 16,
-      "in_stock_count": 11
+      "full_path": "Accesorii > TRANSPORT > Roti Ajutatoare - Articole Copii",
+      "product_count": 13,
+      "in_stock_count": 9
     },
     {
       "id": "roti-fata",
@@ -768,23 +761,9 @@
     {
       "id": "rucsaci",
       "name": "Rucsaci",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete > Rucsaci",
+      "full_path": "Echipamente > Rucsaci",
       "product_count": 3,
       "in_stock_count": 3
-    },
-    {
-      "id": "rucsaci-bagaje-borsete",
-      "name": "Rucsaci - Bagaje - Borsete",
-      "full_path": "Accesorii > Rucsaci - Bagaje - Borsete",
-      "product_count": 2,
-      "in_stock_count": 2
-    },
-    {
-      "id": "rulmenti",
-      "name": "Rulmenti",
-      "full_path": "Componente > Furci - Suspensii - Cuveti > Rulmenti",
-      "product_count": 6,
-      "in_stock_count": 4
     },
     {
       "id": "saboti-frana",
@@ -792,13 +771,6 @@
       "full_path": "Componente > Sisteme Franare > Saboti Frana",
       "product_count": 17,
       "in_stock_count": 12
-    },
-    {
-      "id": "scaune-bicicleta-copii",
-      "name": "Scaune Bicicleta Copii",
-      "full_path": "Accesorii > Roti Ajutatoare - Articole Copii > Scaune Bicicleta Copii",
-      "product_count": 1,
-      "in_stock_count": 0
     },
     {
       "id": "schimbatoare-fata",
@@ -838,14 +810,14 @@
     {
       "id": "set-lumini",
       "name": "Set Lumini",
-      "full_path": "Accesorii > Lumini - Accesorii > Set Lumini",
+      "full_path": "Accesorii > Lumini - Reflectorizante > Set Lumini",
       "product_count": 25,
       "in_stock_count": 19
     },
     {
-      "id": "seturi-aparatori-noroi",
-      "name": "Seturi Aparatori Noroi",
-      "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori Noroi",
+      "id": "seturi-aparatori",
+      "name": "Seturi Aparatori",
+      "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
       "product_count": 29,
       "in_stock_count": 24
     },
@@ -866,14 +838,14 @@
     {
       "id": "sonerii",
       "name": "Sonerii",
-      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante > Sonerii",
+      "full_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
       "product_count": 50,
       "in_stock_count": 42
     },
     {
-      "id": "sonerii-oglinzi-reflectorizante",
-      "name": "Sonerii - Oglinzi - Reflectorizante",
-      "full_path": "Accesorii > Sonerii - Oglinzi - Reflectorizante",
+      "id": "sonerii-oglinzi",
+      "name": "Sonerii - Oglinzi",
+      "full_path": "Accesorii > Sonerii - Oglinzi",
       "product_count": 2,
       "in_stock_count": 2
     },
@@ -922,7 +894,7 @@
     {
       "id": "suspensii-spate",
       "name": "Suspensii Spate",
-      "full_path": "Componente > Furci - Suspensii - Cuveti > Suspensii Spate",
+      "full_path": "Componente > Suspensii - Cuvete > Suspensii Spate",
       "product_count": 2,
       "in_stock_count": 1
     },
@@ -936,23 +908,23 @@
     {
       "id": "transport-depozitare",
       "name": "Transport - Depozitare",
-      "full_path": "Accesorii > Transport - Depozitare",
-      "product_count": 4,
-      "in_stock_count": 4
+      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare",
+      "product_count": 5,
+      "in_stock_count": 5
     },
     {
       "id": "transport-biciclete",
       "name": "Transport Biciclete",
-      "full_path": "Accesorii > Transport - Depozitare > Transport Biciclete",
+      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare > Transport Biciclete",
       "product_count": 5,
       "in_stock_count": 1
     },
     {
       "id": "transport-copii",
       "name": "Transport Copii",
-      "full_path": "Accesorii > Roti Ajutatoare - Articole Copii > Transport Copii",
-      "product_count": 1,
-      "in_stock_count": 0
+      "full_path": "Accesorii > TRANSPORT > Transport Copii",
+      "product_count": 4,
+      "in_stock_count": 1
     },
     {
       "id": "tricouri-ciclism",
@@ -987,7 +959,7 @@
       "name": "Unelte Speciale Biciclete",
       "full_path": "Service > Unelte Service > Unelte Speciale Biciclete",
       "product_count": 177,
-      "in_stock_count": 146
+      "in_stock_count": 145
     },
     {
       "id": "urechi-cadre",
@@ -1022,6 +994,13 @@
       "name": "➤ Ochelari Ciclism",
       "full_path": "Echipamente > Casti - Ochelari > ➤ Ochelari Ciclism",
       "product_count": 8,
+      "in_stock_count": 0
+    },
+    {
+      "id": "pedaliere",
+      "name": "⬤ Pedaliere",
+      "full_path": "Componente > Transmisie > ⬤ Pedaliere",
+      "product_count": 1,
       "in_stock_count": 0
     },
     {
