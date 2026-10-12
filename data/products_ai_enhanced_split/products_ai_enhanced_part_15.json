@@ -1,39 +1,14 @@
 {
-  "last_updated": "2026-10-11T03:17:12.464803+00:00",
+  "last_updated": "2026-10-12T03:23:06.332750+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 15,
     "total_parts": 20,
     "product_range": "3501-3750",
-    "original_total": 4809
+    "original_total": 4806
   },
   "products": [
-    {
-      "id": "881307",
-      "sku": "881307",
-      "ean": "3374650332574",
-      "name": "Solutie Curatat Lanturi de Bicicleta MOTUL 500 ml",
-      "brand": "SXT",
-      "category": "Bike Lube - Lubrefiere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
-      "price": 55.0,
-      "price_net": 45.45,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.6,
-      "url": "https://www.bikestylish.ro/solutie-curatat-lanturi-de-bicicleta-motul-500-ml.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/solutie-curatat-lanturi-de-bicicleta-motul-500-ml~8337229.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/solutie-curatat-lanturi-de-bicicleta-motul-500-ml~8337229.jpg"
-      ],
-      "tags": [
-        "Bike Lube - Lubrefiere",
-        "SXT",
-        "Service"
-      ]
-    },
     {
       "id": "881303",
       "sku": "881303",
@@ -7793,6 +7768,40 @@
         ],
         "dimensions": "29 x 2.4"
       }
+    },
+    {
+      "id": "11A00458",
+      "sku": "11A00458",
+      "ean": "8022530029186",
+      "name": "Anvelopa VITTORIA TATTOO II 20x2.4(60-406) Rigid Negru",
+      "brand": "VITTORIA",
+      "category": "Anvelope Rigide",
+      "category_path": "Componente > Anvelope - Camere > Anvelope Rigide",
+      "price": 137.5,
+      "price_net": 113.64,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-tattoo-ii-20x2-4-60-406-rigid-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-tattoo-ii-20x2-4-60-406-rigid-negru~8339983.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-tattoo-ii-20x2-4-60-406-rigid-negru~8339983.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-tattoo-ii-20x2-4-60-406-rigid-negru~8339989.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-tattoo-ii-20x2-4-60-406-rigid-negru~12385923.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-vittoria-tattoo-ii-20x2-4-60-406-rigid-negru~12385926.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-tattoo-ii-20x2-4-60-406-rigid-negru~12385929.jpg"
+      ],
+      "tags": [
+        "20 inch",
+        "Anvelope Rigide",
+        "Componente",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "20",
+        "color": "Negru",
+        "dimensions": "20 x 2.4"
+      }
     }
   ],
   "categories": [
@@ -8304,7 +8313,7 @@
       "id": "jante-frane-disc",
       "name": "Jante Frane Disc",
       "full_path": "Roti > Jante > Jante Frane Disc",
-      "product_count": 56,
+      "product_count": 55,
       "in_stock_count": 29
     },
     {
@@ -8312,7 +8321,7 @@
       "name": "Jante Frane V-Brake",
       "full_path": "Roti > Jante > Jante Frane V-Brake",
       "product_count": 23,
-      "in_stock_count": 21
+      "in_stock_count": 22
     },
     {
       "id": "lanturi",
@@ -8535,15 +8544,15 @@
       "id": "roti-fata",
       "name": "Roti Fata",
       "full_path": "Roti > Roti Bicicleta > Roti Fata",
-      "product_count": 37,
-      "in_stock_count": 34
+      "product_count": 36,
+      "in_stock_count": 35
     },
     {
       "id": "roti-spate",
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
-      "product_count": 48,
-      "in_stock_count": 45
+      "product_count": 47,
+      "in_stock_count": 46
     },
     {
       "id": "roti-custom-hand-built",

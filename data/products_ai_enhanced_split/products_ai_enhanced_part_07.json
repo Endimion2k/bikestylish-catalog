@@ -1,44 +1,14 @@
 {
-  "last_updated": "2026-10-11T03:17:12.464803+00:00",
+  "last_updated": "2026-10-12T03:23:06.332750+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
     "total_parts": 20,
     "product_range": "1501-1750",
-    "original_total": 4809
+    "original_total": 4806
   },
   "products": [
-    {
-      "id": "325486",
-      "sku": "325486",
-      "ean": "2802064000006",
-      "name": "Pinion 1v SXT 19T 1/2x3/32 Negru",
-      "brand": "SXT",
-      "category": "Pionioane Filetate",
-      "category_path": "Componente > Transmisie > ⬤ Pinioane > Pionioane Filetate",
-      "price": 14.3,
-      "price_net": 11.82,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.06,
-      "url": "https://www.bikestylish.ro/pinion-1v-sxt-19t-1-2x3-32-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pinion-1v-sxt-19t-1-2x3-32-negru~8289532.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pinion-1v-sxt-19t-1-2x3-32-negru~8289532.jpg"
-      ],
-      "tags": [
-        "1 viteze",
-        "Componente",
-        "Pionioane Filetate",
-        "SXT"
-      ],
-      "specs": {
-        "color": "Negru",
-        "speeds": 1
-      }
-    },
     {
       "id": "356141",
       "sku": "356141",
@@ -6873,7 +6843,7 @@
       "id": "D87",
       "sku": "D87",
       "ean": "7290107110761",
-      "name": "Ureche Cadru PILO D87",
+      "name": "Ureche Cadru PILO D87 Salcano, Wilier, DeVinci, Argon 18, Storck bikes",
       "brand": "PILO",
       "category": "Urechi Cadru",
       "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
@@ -6883,11 +6853,11 @@
       "availability": "limited",
       "stock_quantity": 2,
       "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d87.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d87~8292319.jpg",
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d87-salcano-wilier-devinci-argon-18-storck-bikes.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d87-salcano-wilier-devinci-argon-18-storck-bikes~8292319.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d87~8292319.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d87~8292973.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d87-salcano-wilier-devinci-argon-18-storck-bikes~8292319.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d87-salcano-wilier-devinci-argon-18-storck-bikes~8292973.jpg"
       ],
       "tags": [
         "Componente",
@@ -7173,6 +7143,31 @@
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d441-bh-cross-kellys-khs-mec-mondraker~8292352.jpg",
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d441-bh-cross-kellys-khs-mec-mondraker~8292352.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D482",
+      "sku": "D482",
+      "ean": "7290107114936",
+      "name": "Ureche Cadru PILO D482 Canyon",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 165.0,
+      "price_net": 136.36,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 10,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d482-canyon.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d482-canyon~8292355.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d482-canyon~8292355.jpg"
       ],
       "tags": [
         "Componente",
@@ -7690,7 +7685,7 @@
       "id": "jante-frane-disc",
       "name": "Jante Frane Disc",
       "full_path": "Roti > Jante > Jante Frane Disc",
-      "product_count": 56,
+      "product_count": 55,
       "in_stock_count": 29
     },
     {
@@ -7698,7 +7693,7 @@
       "name": "Jante Frane V-Brake",
       "full_path": "Roti > Jante > Jante Frane V-Brake",
       "product_count": 23,
-      "in_stock_count": 21
+      "in_stock_count": 22
     },
     {
       "id": "lanturi",
@@ -7921,15 +7916,15 @@
       "id": "roti-fata",
       "name": "Roti Fata",
       "full_path": "Roti > Roti Bicicleta > Roti Fata",
-      "product_count": 37,
-      "in_stock_count": 34
+      "product_count": 36,
+      "in_stock_count": 35
     },
     {
       "id": "roti-spate",
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
-      "product_count": 48,
-      "in_stock_count": 45
+      "product_count": 47,
+      "in_stock_count": 46
     },
     {
       "id": "roti-custom-hand-built",

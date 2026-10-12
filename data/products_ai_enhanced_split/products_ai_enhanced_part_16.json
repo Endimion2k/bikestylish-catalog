@@ -1,48 +1,14 @@
 {
-  "last_updated": "2026-10-11T03:17:12.464803+00:00",
+  "last_updated": "2026-10-12T03:23:06.332750+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 16,
     "total_parts": 20,
     "product_range": "3751-4000",
-    "original_total": 4809
+    "original_total": 4806
   },
   "products": [
-    {
-      "id": "11A00458",
-      "sku": "11A00458",
-      "ean": "8022530029186",
-      "name": "Anvelopa VITTORIA TATTOO II 20x2.4(60-406) Rigid Negru",
-      "brand": "VITTORIA",
-      "category": "Anvelope Rigide",
-      "category_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "price": 137.5,
-      "price_net": 113.64,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/anvelopa-vittoria-tattoo-ii-20x2-4-60-406-rigid-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-tattoo-ii-20x2-4-60-406-rigid-negru~8339983.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-tattoo-ii-20x2-4-60-406-rigid-negru~8339983.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-tattoo-ii-20x2-4-60-406-rigid-negru~8339989.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-tattoo-ii-20x2-4-60-406-rigid-negru~12385923.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-vittoria-tattoo-ii-20x2-4-60-406-rigid-negru~12385926.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-tattoo-ii-20x2-4-60-406-rigid-negru~12385929.jpg"
-      ],
-      "tags": [
-        "20 inch",
-        "Anvelope Rigide",
-        "Componente",
-        "VITTORIA"
-      ],
-      "specs": {
-        "wheel_size": "20",
-        "color": "Negru",
-        "dimensions": "20 x 2.4"
-      }
-    },
     {
       "id": "11A00457",
       "sku": "11A00457",
@@ -545,7 +511,7 @@
       "id": "D1151",
       "sku": "D1151",
       "ean": "7290117591468",
-      "name": "Ureche Cadru PILO D1151 - Pivot",
+      "name": "Ureche Cadru PILO D1151 PA-BIK-RDH-V1-12-MM-SET-BLK for Pivot Vault V2, V3",
       "brand": "PILO",
       "category": "Urechi Cadru",
       "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
@@ -555,19 +521,25 @@
       "availability": "limited",
       "stock_quantity": 2,
       "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1151-pivot.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d1151-pivot~8340109.jpg",
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1151-pa-bik-rdh-v1-12-mm-set-blk-for-pivot-vault-v2-v3.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d1151-pa-bik-rdh-v1-12-mm-set-blk-for-pivot-vault-v2~8340109.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d1151-pivot~8340109.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1151-pivot~8340112.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1151-pivot~8340115.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1151-pivot~8340118.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d1151-pa-bik-rdh-v1-12-mm-set-blk-for-pivot-vault-v2~8340109.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1151-pa-bik-rdh-v1-12-mm-set-blk-for-pivot-vault-v2~8340112.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1151-pa-bik-rdh-v1-12-mm-set-blk-for-pivot-vault-v2~8340115.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1151-pa-bik-rdh-v1-12-mm-set-blk-for-pivot-vault-v2~8340118.jpg"
       ],
       "tags": [
         "Componente",
+        "Downhill",
         "PILO",
         "Urechi Cadru"
-      ]
+      ],
+      "specs": {
+        "bike_type": [
+          "Downhill"
+        ]
+      }
     },
     {
       "id": "11A00560",
@@ -1801,7 +1773,7 @@
       "id": "D1139",
       "sku": "D1139",
       "ean": "7290117591345",
-      "name": "Ureche Cadru PILO D1139",
+      "name": "Ureche Cadru PILO D1139 Basso, Blue, Dema, Fuji, Kestrel, Kelly's, Motobecane, Ribble, Ridley, Storck, Vitus, WRC",
       "brand": "PILO",
       "category": "Urechi Cadru",
       "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
@@ -1811,25 +1783,28 @@
       "availability": "limited",
       "stock_quantity": 3,
       "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1139.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d1139~8340436.jpg",
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1139-basso-blue-dema-fuji-kestrel-kelly-s-motobecane-ribble-ridley-storck-vitus-wrc.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d1139-basso-blue-dema-fuji-kestrel-kelly-s~8340436.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d1139~8340436.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d1139~8340439.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1139~8340442.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1139~8340445.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d1139-basso-blue-dema-fuji-kestrel-kelly-s~8340436.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d1139-basso-blue-dema-fuji-kestrel-kelly-s~8340439.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1139-basso-blue-dema-fuji-kestrel-kelly-s~8340442.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1139-basso-blue-dema-fuji-kestrel-kelly-s~8340445.jpg"
       ],
       "tags": [
         "Componente",
         "PILO",
         "Urechi Cadru"
-      ]
+      ],
+      "specs": {
+        "color": "Blue"
+      }
     },
     {
       "id": "D1163",
       "sku": "D1163",
       "ean": "7290117595800",
-      "name": "Ureche Cadru PILO D1163",
+      "name": "Ureche Cadru PILO D1163 YT TUES MK2 CF",
       "brand": "PILO",
       "category": "Urechi Cadru",
       "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
@@ -1839,13 +1814,13 @@
       "availability": "limited",
       "stock_quantity": 2,
       "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1163.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1163~8340448.jpg",
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1163-yt-tues-mk2-cf.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1163-yt-tues-mk2-cf~8340448.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1163~8340448.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1163~8340451.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d1163~8340454.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d1163~8340457.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1163-yt-tues-mk2-cf~8340448.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1163-yt-tues-mk2-cf~8340451.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d1163-yt-tues-mk2-cf~8340454.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d1163-yt-tues-mk2-cf~8340457.jpg"
       ],
       "tags": [
         "Componente",
@@ -1857,7 +1832,7 @@
       "id": "D1265",
       "sku": "D1265",
       "ean": "7290117596821",
-      "name": "Ureche Cadru PILO D1265",
+      "name": "Ureche Cadru PILO D1265 YT Decoy MK1, Jeffsy MK2, Primus MK1 | D1265",
       "brand": "PILO",
       "category": "Urechi Cadru",
       "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
@@ -1867,13 +1842,13 @@
       "availability": "limited",
       "stock_quantity": 2,
       "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1265.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d1265~8340460.jpg",
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1265-yt-decoy-mk1-jeffsy-mk2-primus-mk1-d1265.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d1265-yt-decoy-mk1-jeffsy-mk2-primus-mk1-d1265~8340460.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d1265~8340460.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d1265~8340463.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d1265~8340466.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d1265~8340469.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d1265-yt-decoy-mk1-jeffsy-mk2-primus-mk1-d1265~8340460.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d1265-yt-decoy-mk1-jeffsy-mk2-primus-mk1-d1265~8340463.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d1265-yt-decoy-mk1-jeffsy-mk2-primus-mk1-d1265~8340466.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d1265-yt-decoy-mk1-jeffsy-mk2-primus-mk1-d1265~8340469.jpg"
       ],
       "tags": [
         "Componente",
@@ -1885,7 +1860,7 @@
       "id": "D1267",
       "sku": "D1267",
       "ean": "7290117596845",
-      "name": "Ureche Cadru PILO D1267",
+      "name": "Ureche Cadru PILO D1267 YT SZEPTER MK1 - 504507",
       "brand": "PILO",
       "category": "Urechi Cadru",
       "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
@@ -1895,13 +1870,13 @@
       "availability": "limited",
       "stock_quantity": 2,
       "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1267.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1267~8340472.jpg",
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1267-yt-szepter-mk1-504507.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1267-yt-szepter-mk1-504507~8340472.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1267~8340472.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1267~8340475.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1267~8340478.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1267~8340481.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1267-yt-szepter-mk1-504507~8340472.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1267-yt-szepter-mk1-504507~8340475.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1267-yt-szepter-mk1-504507~8340478.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1267-yt-szepter-mk1-504507~8340481.jpg"
       ],
       "tags": [
         "Componente",
@@ -2323,7 +2298,7 @@
       "id": "D1182",
       "sku": "D1182",
       "ean": "7290117595992",
-      "name": "Ureche Cadru PILO D1182",
+      "name": "Ureche Cadru PILO D1182 Massi Quora FS, Privateer, Spawn",
       "brand": "PILO",
       "category": "Urechi Cadru",
       "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
@@ -2333,12 +2308,12 @@
       "availability": "limited",
       "stock_quantity": 3,
       "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1182.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1182~8340625.jpg",
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1182-massi-quora-fs-privateer-spawn.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1182-massi-quora-fs-privateer-spawn~8340625.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1182~8340625.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1182~8340628.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1182~8340631.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1182-massi-quora-fs-privateer-spawn~8340625.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1182-massi-quora-fs-privateer-spawn~8340628.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1182-massi-quora-fs-privateer-spawn~8340631.jpg"
       ],
       "tags": [
         "Componente",
@@ -2748,7 +2723,7 @@
       "id": "D1241",
       "sku": "D1241",
       "ean": "7290117596586",
-      "name": "Ureche Cadru PILO D1241",
+      "name": "Ureche Cadru PILO D1241 Diamondback, Poison, Raleigh, Rose",
       "brand": "PILO",
       "category": "Urechi Cadru",
       "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
@@ -2758,13 +2733,13 @@
       "availability": "limited",
       "stock_quantity": 2,
       "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1241.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d1241~8340703.jpg",
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1241-diamondback-poison-raleigh-rose.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d1241-diamondback-poison-raleigh-rose~8340703.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d1241~8340703.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d1241~8340706.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d1241~8340709.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1241~8340712.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d1241-diamondback-poison-raleigh-rose~8340703.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d1241-diamondback-poison-raleigh-rose~8340706.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d1241-diamondback-poison-raleigh-rose~8340709.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d1241-diamondback-poison-raleigh-rose~8340712.jpg"
       ],
       "tags": [
         "Componente",
@@ -2776,7 +2751,7 @@
       "id": "D1270",
       "sku": "D1270",
       "ean": "7290117596876",
-      "name": "Ureche Cadru PILO D1270",
+      "name": "Ureche Cadru PILO D1270 Fuji, NukeProof, Bianchi, Kellys, KHS, Orange, Qayron, Conor WRC, Bottecchia",
       "brand": "PILO",
       "category": "Urechi Cadru",
       "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
@@ -2786,18 +2761,21 @@
       "availability": "limited",
       "stock_quantity": 1,
       "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1270.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1270~8340715.jpg",
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1270-fuji-nukeproof-bianchi-kellys-khs-orange-qayron-conor-wrc-bottecchia.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1270-fuji-nukeproof-bianchi-kellys-khs-orange~8340715.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1270~8340715.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1270~8340718.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1270~8340721.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d1270-fuji-nukeproof-bianchi-kellys-khs-orange~8340715.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1270-fuji-nukeproof-bianchi-kellys-khs-orange~8340718.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1270-fuji-nukeproof-bianchi-kellys-khs-orange~8340721.jpg"
       ],
       "tags": [
         "Componente",
         "PILO",
         "Urechi Cadru"
-      ]
+      ],
+      "specs": {
+        "color": "Orange"
+      }
     },
     {
       "id": "11A00295",
@@ -7414,6 +7392,34 @@
       "specs": {
         "dimensions": "700 x 32"
       }
+    },
+    {
+      "id": "352683",
+      "sku": "352683",
+      "ean": "887539023546",
+      "name": "Foaie Angrenaj SAMOX PD-R4-S 42 T",
+      "brand": "SAMOX",
+      "category": "Foi Angrenaje",
+      "category_path": "Componente > Transmisie > ⬤ Pedaliere > Foi Angrenaje",
+      "secondary_categories": [
+        "E-Mobility > Angrenaje E-Bike"
+      ],
+      "price": 49.5,
+      "price_net": 40.91,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 7,
+      "url": "https://www.bikestylish.ro/foaie-angrenaj-samox-pd-r4-s-42-t.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/foaie-angrenaj-samox-pd-r4-s-42-t~8341777.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/foaie-angrenaj-samox-pd-r4-s-42-t~8341777.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/foaie-angrenaj-samox-pd-r4-s-42-t~8341780.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "Foi Angrenaje",
+        "SAMOX"
+      ]
     }
   ],
   "categories": [
@@ -7925,7 +7931,7 @@
       "id": "jante-frane-disc",
       "name": "Jante Frane Disc",
       "full_path": "Roti > Jante > Jante Frane Disc",
-      "product_count": 56,
+      "product_count": 55,
       "in_stock_count": 29
     },
     {
@@ -7933,7 +7939,7 @@
       "name": "Jante Frane V-Brake",
       "full_path": "Roti > Jante > Jante Frane V-Brake",
       "product_count": 23,
-      "in_stock_count": 21
+      "in_stock_count": 22
     },
     {
       "id": "lanturi",
@@ -8156,15 +8162,15 @@
       "id": "roti-fata",
       "name": "Roti Fata",
       "full_path": "Roti > Roti Bicicleta > Roti Fata",
-      "product_count": 37,
-      "in_stock_count": 34
+      "product_count": 36,
+      "in_stock_count": 35
     },
     {
       "id": "roti-spate",
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
-      "product_count": 48,
-      "in_stock_count": 45
+      "product_count": 47,
+      "in_stock_count": 46
     },
     {
       "id": "roti-custom-hand-built",

@@ -1,38 +1,14 @@
 {
-  "last_updated": "2026-10-11T03:17:12.464803+00:00",
+  "last_updated": "2026-10-12T03:23:06.332750+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
     "total_parts": 20,
     "product_range": "2251-2500",
-    "original_total": 4809
+    "original_total": 4806
   },
   "products": [
-    {
-      "id": "C644626",
-      "sku": "C644626",
-      "ean": "8051406522902",
-      "name": "Ghidolina DEDA Mistral Maro Imitatie Piele",
-      "brand": "DEDA ELEMENTI",
-      "category": "Bar Tape - Accesorii",
-      "category_path": "Componente > Ghidoane - Directie > Bar Tape - Accesorii",
-      "price": 104.5,
-      "price_net": 86.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/ghidolina-deda-mistral-maro-imitatie-piele.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ghidolina-deda-mistral-maro-imitatie-piele~8327638.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ghidolina-deda-mistral-maro-imitatie-piele~8327638.jpg"
-      ],
-      "tags": [
-        "Bar Tape - Accesorii",
-        "Componente",
-        "DEDA ELEMENTI"
-      ]
-    },
     {
       "id": "C644605",
       "sku": "C644605",
@@ -1365,7 +1341,7 @@
       "id": "388595",
       "sku": "388595",
       "ean": "2801021000004",
-      "name": "Roata Fata 29\"-32H-Boost SXT 110/15 mm-23 mm",
+      "name": "Roata Fata 29 -32H-Boost SXT 110/15 mm-23 mm",
       "brand": "SXT",
       "category": "Roti Fata",
       "category_path": "Roti > Roti Bicicleta > Roti Fata",
@@ -1384,14 +1360,10 @@
       ],
       "category_description": "Front wheels - complete, ready to mount",
       "tags": [
-        "29 inch",
         "Roti",
         "Roti Fata",
         "SXT"
-      ],
-      "specs": {
-        "wheel_size": "29"
-      }
+      ]
     },
     {
       "id": "613015",
@@ -7335,6 +7307,34 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "C11",
+      "sku": "C11",
+      "ean": "7290107118057",
+      "name": "Foaie Angrenaj PILO Narrow Wide 32T BCD 104 Aluminiu",
+      "brand": "PILO",
+      "category": "Foi Angrenaje",
+      "category_path": "Componente > Transmisie > ⬤ Pedaliere > Foi Angrenaje",
+      "price": 255.0,
+      "price_net": 210.74,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 3,
+      "url": "https://www.bikestylish.ro/foaie-angrenaj-pilo-narrow-wide-32t-bcd-104-aluminiu.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/foaie-angrenaj-pilo-narrow-wide-32t-bcd-104-aluminiu~8330356.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/foaie-angrenaj-pilo-narrow-wide-32t-bcd-104-aluminiu~8330356.jpg"
+      ],
+      "tags": [
+        "Aluminiu",
+        "Componente",
+        "Foi Angrenaje",
+        "PILO"
+      ],
+      "specs": {
+        "material": "Aluminiu"
+      }
     }
   ],
   "categories": [
@@ -7846,7 +7846,7 @@
       "id": "jante-frane-disc",
       "name": "Jante Frane Disc",
       "full_path": "Roti > Jante > Jante Frane Disc",
-      "product_count": 56,
+      "product_count": 55,
       "in_stock_count": 29
     },
     {
@@ -7854,7 +7854,7 @@
       "name": "Jante Frane V-Brake",
       "full_path": "Roti > Jante > Jante Frane V-Brake",
       "product_count": 23,
-      "in_stock_count": 21
+      "in_stock_count": 22
     },
     {
       "id": "lanturi",
@@ -8077,15 +8077,15 @@
       "id": "roti-fata",
       "name": "Roti Fata",
       "full_path": "Roti > Roti Bicicleta > Roti Fata",
-      "product_count": 37,
-      "in_stock_count": 34
+      "product_count": 36,
+      "in_stock_count": 35
     },
     {
       "id": "roti-spate",
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
-      "product_count": 48,
-      "in_stock_count": 45
+      "product_count": 47,
+      "in_stock_count": 46
     },
     {
       "id": "roti-custom-hand-built",
