@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T03:23:06.332750+00:00",
+  "last_updated": "2026-10-13T03:17:27.612827+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1850,7 +1850,7 @@
       "price_net": 57.02,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 78,
+      "stock_quantity": 77,
       "url": "https://www.bikestylish.ro/schimbator-spate-6-7v-shimano-tourney-rd-ty300-ax.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/schimbator-spate-6-7v-shimano-tourney-rd-ty300-ax~8286703.jpg",
       "images": [
@@ -3151,6 +3151,9 @@
       "brand": "M-WAVE",
       "category": "Truse Unelte - Mini Truse",
       "category_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 379.5,
       "price_net": 313.64,
       "currency": "RON",
@@ -3365,7 +3368,7 @@
       "price_net": 15.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 276,
+      "stock_quantity": 265,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/kit-reparatii-m-wave.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/kit-reparatii-m-wave~8286853.jpg",
@@ -3549,7 +3552,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 43,
+      "stock_quantity": 23,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/kit-reparatii-ventura.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/kit-reparatii-ventura~8286871.jpg",
@@ -3777,7 +3780,7 @@
       "price_net": 90.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 69,
+      "stock_quantity": 68,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/intinzator-lant-sxt-aluminiu-bmx-dirt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/intinzator-lant-sxt-aluminiu-bmx-dirt~8286898.jpg",
@@ -4246,7 +4249,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 366,
+      "stock_quantity": 336,
       "weight_kg": 0.18,
       "url": "https://www.bikestylish.ro/camera-kujo-700-28-45c-av-33-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/camera-kujo-700%E2%80%9428-45c-av-33-mm~8287387.jpg",
@@ -5926,6 +5929,9 @@
       "brand": "PROMAX",
       "category": "Cabluri",
       "category_path": "Componente > Transmisie > ⬤ Cabluri - Camasi > Cabluri",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 532.4,
       "price_net": 440.0,
       "currency": "RON",
@@ -5959,6 +5965,9 @@
       "brand": "PROMAX",
       "category": "Camasi",
       "category_path": "Componente > Transmisie > ⬤ Cabluri - Camasi > Camasi",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
@@ -6086,7 +6095,7 @@
       "price_net": 159.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 19,
       "weight_kg": 1.35,
       "url": "https://www.bikestylish.ro/camasa-schimbator-promax-4-mm-30-m-cutie-teflonata-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camasa-schimbator-promax-4-mm-30-m-cutie-teflonata-negru~11431992.jpg",
@@ -6292,7 +6301,7 @@
       "price_net": 24.79,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 116,
+      "stock_quantity": 112,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/placute-frana-m-wave-shimano-tektro-promax-organice.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/placute-frana-m-wave-shimano-tektro-promax-organice~8287612.jpg",
@@ -7351,8 +7360,8 @@
       "id": "accesorii",
       "name": "Accesorii",
       "full_path": "Componente > Transmisie > ⬤ Pedaliere > Accesorii",
-      "product_count": 30,
-      "in_stock_count": 19
+      "product_count": 29,
+      "in_stock_count": 18
     },
     {
       "id": "accesorii-e-bike",
@@ -7400,7 +7409,7 @@
       "id": "angrenaje",
       "name": "Angrenaje",
       "full_path": "Componente > Transmisie > ⬤ Pedaliere > Angrenaje",
-      "product_count": 114,
+      "product_count": 115,
       "in_stock_count": 68
     },
     {
@@ -7555,7 +7564,7 @@
       "name": "Biciclete Single - SPEED - Fixie",
       "full_path": "Biciclete > Biciclete Single - SPEED - Fixie",
       "product_count": 18,
-      "in_stock_count": 16
+      "in_stock_count": 1
     },
     {
       "id": "bidoane-suporti-bidon",
@@ -7744,7 +7753,7 @@
       "name": "Cuvete - Rulmenti",
       "full_path": "Componente > Suspensii - Cuvete > Cuvete - Rulmenti",
       "product_count": 41,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "depozitare-biciclete",
@@ -7933,7 +7942,7 @@
       "name": "Mini Pompe",
       "full_path": "Accesorii > Pompe Ciclism > Mini Pompe",
       "product_count": 20,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "motoare-e-bike",
@@ -8003,7 +8012,7 @@
       "name": "Pionioane Filetate",
       "full_path": "Componente > Transmisie > ⬤ Pinioane > Pionioane Filetate",
       "product_count": 42,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "pipe-ghidon",
@@ -8017,7 +8026,7 @@
       "name": "Placute Frana",
       "full_path": "Componente > Sisteme Franare > Placute Frana",
       "product_count": 26,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pompe-ciclism",
@@ -8129,7 +8138,7 @@
       "name": "Schimbatoare Spate",
       "full_path": "Componente > Transmisie > ⬤ Schimbatoare > Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "sei",
@@ -8213,7 +8222,7 @@
       "name": "Spite Stainless Aero",
       "full_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "product_count": 24,
-      "in_stock_count": 1
+      "in_stock_count": 0
     },
     {
       "id": "spite-ucp",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T03:23:06.332750+00:00",
+  "last_updated": "2026-10-13T03:17:27.612827+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1979,7 +1979,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 29,
+      "stock_quantity": 25,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/far-pentru-dinam-m-wave-apollon-d30-6v-3w-30lux.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/far-pentru-dinam-m-wave-apollon-d30-6v-3w-30lux~8290645.jpg",
@@ -3494,8 +3494,8 @@
       "price": 196.9,
       "price_net": 162.73,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/schimbator-spate-ventura-10-v.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/schimbator-spate-ventura-10-v~8290825.jpg",
       "images": [
@@ -3917,8 +3917,8 @@
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.13,
       "url": "https://www.bikestylish.ro/suport-reglabil-pentru-telefon-m-wave-bike-mount-al-60-95-mm-aluminiu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/suport-reglabil-pentru-telefon-m-wave-bike-mount-al-60-95-mm-aluminiu~8290870.jpg",
@@ -4373,7 +4373,7 @@
       "price_net": 14.88,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 111,
+      "stock_quantity": 109,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/far-pentru-dinam-sxt-cp-6v-2-4-w.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/far-pentru-dinam-sxt-cp-6v-2-4-w~8290918.jpg",
@@ -4542,8 +4542,8 @@
       "price": 11.0,
       "price_net": 9.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/spita-aero-cnspoke-424-256-2-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/spita-aero-cnspoke-424-256-2-mm~8290939.jpg",
       "images": [
@@ -4898,8 +4898,8 @@
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.16,
       "url": "https://www.bikestylish.ro/cuveti-semi-integrati-neco-1-1-8-aluminiu-metal-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/cuveti-semi-integrati-neco-1-1-8-aluminiu-metal-negru~8290975.jpg",
@@ -6020,7 +6020,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 14,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/stop-spate-cu-baterii-sxt-portbagaj-3-led.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/stop-spate-cu-baterii-sxt-portbagaj-3-led~8292223.jpg",
@@ -6289,7 +6289,7 @@
       "price_net": 185.95,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 50,
+      "stock_quantity": 48,
       "url": "https://www.bikestylish.ro/roata-fata-sxt-basic-i-26-559x19c-36h-fd-qr.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-sxt-basic-i-26-559x19c-36h-fd-qr~15615510.jpg",
       "images": [
@@ -6321,7 +6321,7 @@
       "price_net": 194.21,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 50,
+      "stock_quantity": 49,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-basic-i-26-559-x-19c-fd-36h-filetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/roata-spate-sxt-basic-i-26-559-x-19c-fd-36h-filetat~15615516.jpg",
       "images": [
@@ -7181,8 +7181,8 @@
       "id": "accesorii",
       "name": "Accesorii",
       "full_path": "Componente > Transmisie > ⬤ Pedaliere > Accesorii",
-      "product_count": 30,
-      "in_stock_count": 19
+      "product_count": 29,
+      "in_stock_count": 18
     },
     {
       "id": "accesorii-e-bike",
@@ -7230,7 +7230,7 @@
       "id": "angrenaje",
       "name": "Angrenaje",
       "full_path": "Componente > Transmisie > ⬤ Pedaliere > Angrenaje",
-      "product_count": 114,
+      "product_count": 115,
       "in_stock_count": 68
     },
     {
@@ -7385,7 +7385,7 @@
       "name": "Biciclete Single - SPEED - Fixie",
       "full_path": "Biciclete > Biciclete Single - SPEED - Fixie",
       "product_count": 18,
-      "in_stock_count": 16
+      "in_stock_count": 1
     },
     {
       "id": "bidoane-suporti-bidon",
@@ -7574,7 +7574,7 @@
       "name": "Cuvete - Rulmenti",
       "full_path": "Componente > Suspensii - Cuvete > Cuvete - Rulmenti",
       "product_count": 41,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "depozitare-biciclete",
@@ -7763,7 +7763,7 @@
       "name": "Mini Pompe",
       "full_path": "Accesorii > Pompe Ciclism > Mini Pompe",
       "product_count": 20,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "motoare-e-bike",
@@ -7833,7 +7833,7 @@
       "name": "Pionioane Filetate",
       "full_path": "Componente > Transmisie > ⬤ Pinioane > Pionioane Filetate",
       "product_count": 42,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "pipe-ghidon",
@@ -7847,7 +7847,7 @@
       "name": "Placute Frana",
       "full_path": "Componente > Sisteme Franare > Placute Frana",
       "product_count": 26,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pompe-ciclism",
@@ -7959,7 +7959,7 @@
       "name": "Schimbatoare Spate",
       "full_path": "Componente > Transmisie > ⬤ Schimbatoare > Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "sei",
@@ -8043,7 +8043,7 @@
       "name": "Spite Stainless Aero",
       "full_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "product_count": 24,
-      "in_stock_count": 1
+      "in_stock_count": 0
     },
     {
       "id": "spite-ucp",

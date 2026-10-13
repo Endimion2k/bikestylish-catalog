@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T03:23:06.332750+00:00",
+  "last_updated": "2026-10-13T03:17:27.612827+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -130,7 +130,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 24,
+      "stock_quantity": 22,
       "weight_kg": 0.16,
       "url": "https://www.bikestylish.ro/dinam-aero-an-lun-stanga.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/dinam-aero-an-lun-stanga~8283511.jpg",
@@ -266,7 +266,7 @@
       "price_net": 23.14,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 16,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/far-cu-baterii-sxt-3-led-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/far-cu-baterii-sxt-3-led-silver~8284378.jpg",
@@ -1396,6 +1396,9 @@
       "brand": "M-WAVE",
       "category": "Mini Pompe",
       "category_path": "Accesorii > Pompe Ciclism > Mini Pompe",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
@@ -1900,7 +1903,7 @@
       "price_net": 72.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 17,
       "weight_kg": 0.28,
       "url": "https://www.bikestylish.ro/maneta-schimbator-ventura-sl-m300-9-v-dreapta.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/maneta-schimbator-ventura-sl-m300-9-v-dreapta~8284558.jpg",
@@ -2475,7 +2478,7 @@
       "price_net": 17.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 40,
+      "stock_quantity": 39,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/bandana-m-wave-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/bandana-m-wave-negru~8284621.jpg",
@@ -3988,7 +3991,7 @@
       "price_net": 54.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 66,
+      "stock_quantity": 63,
       "url": "https://www.bikestylish.ro/cleste-lant-2-in-1-super-b-tb-3323.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cleste-lant-2-in-1-super-b-tb-3323~8284798.jpg",
       "images": [
@@ -4044,7 +4047,7 @@
       "price_net": 36.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 36,
+      "stock_quantity": 34,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/set-3-leviere-super-b-tb-5566-insertie-metalica.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-3-leviere-super-b-tb-5566-insertie-metalica~8284804.jpg",
@@ -5326,7 +5329,7 @@
       "price_net": 53.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 11,
       "weight_kg": 0.38,
       "url": "https://www.bikestylish.ro/set-mini-scule-ventura-18-functii.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/set-mini-scule-ventura-18-functii~8284945.jpg",
@@ -7039,8 +7042,8 @@
       "id": "accesorii",
       "name": "Accesorii",
       "full_path": "Componente > Transmisie > ⬤ Pedaliere > Accesorii",
-      "product_count": 30,
-      "in_stock_count": 19
+      "product_count": 29,
+      "in_stock_count": 18
     },
     {
       "id": "accesorii-e-bike",
@@ -7088,7 +7091,7 @@
       "id": "angrenaje",
       "name": "Angrenaje",
       "full_path": "Componente > Transmisie > ⬤ Pedaliere > Angrenaje",
-      "product_count": 114,
+      "product_count": 115,
       "in_stock_count": 68
     },
     {
@@ -7243,7 +7246,7 @@
       "name": "Biciclete Single - SPEED - Fixie",
       "full_path": "Biciclete > Biciclete Single - SPEED - Fixie",
       "product_count": 18,
-      "in_stock_count": 16
+      "in_stock_count": 1
     },
     {
       "id": "bidoane-suporti-bidon",
@@ -7432,7 +7435,7 @@
       "name": "Cuvete - Rulmenti",
       "full_path": "Componente > Suspensii - Cuvete > Cuvete - Rulmenti",
       "product_count": 41,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "depozitare-biciclete",
@@ -7621,7 +7624,7 @@
       "name": "Mini Pompe",
       "full_path": "Accesorii > Pompe Ciclism > Mini Pompe",
       "product_count": 20,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "motoare-e-bike",
@@ -7691,7 +7694,7 @@
       "name": "Pionioane Filetate",
       "full_path": "Componente > Transmisie > ⬤ Pinioane > Pionioane Filetate",
       "product_count": 42,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "pipe-ghidon",
@@ -7705,7 +7708,7 @@
       "name": "Placute Frana",
       "full_path": "Componente > Sisteme Franare > Placute Frana",
       "product_count": 26,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pompe-ciclism",
@@ -7817,7 +7820,7 @@
       "name": "Schimbatoare Spate",
       "full_path": "Componente > Transmisie > ⬤ Schimbatoare > Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "sei",
@@ -7901,7 +7904,7 @@
       "name": "Spite Stainless Aero",
       "full_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "product_count": 24,
-      "in_stock_count": 1
+      "in_stock_count": 0
     },
     {
       "id": "spite-ucp",

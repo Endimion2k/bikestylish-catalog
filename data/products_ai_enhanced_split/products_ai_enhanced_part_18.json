@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T03:23:06.332750+00:00",
+  "last_updated": "2026-10-13T03:17:27.612827+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -316,8 +316,8 @@
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/placute-frana-m-wave-shimano-organice.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/placute-frana-m-wave-shimano-organice~10359393.jpg",
@@ -661,8 +661,11 @@
       "brand": "SHIMANO",
       "category": "Discuri - Rotoare",
       "category_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "price": 363.0,
-      "price_net": 300.0,
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
+      "price": 255.0,
+      "price_net": 210.74,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 4,
@@ -1123,6 +1126,9 @@
       "brand": "SXT",
       "category": "Butuci Frana Disc",
       "category_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 650.0,
       "price_net": 537.19,
       "currency": "RON",
@@ -2202,7 +2208,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 580,
+      "stock_quantity": 577,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-16-x-2-50-k-1039-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kenda-16-x-2-50-k-1039-negru~10362354.jpg",
       "images": [
@@ -3882,6 +3888,9 @@
       "brand": "M-WAVE",
       "category": "Lumini Fata",
       "category_path": "Accesorii > Lumini - Reflectorizante > Lumini Fata",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 66.0,
       "price_net": 54.55,
       "currency": "RON",
@@ -4130,7 +4139,7 @@
       "price_net": 0.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 317,
+      "stock_quantity": 313,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-215x-negru-9-16.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-plastic-sxt-215x-negru-9-16~11326266.jpg",
@@ -6069,7 +6078,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 85,
+      "stock_quantity": 84,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/mansoane-sxt-118-mm-tpr-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-sxt-118-mm-tpr-negru~12073683.jpg",
@@ -6355,6 +6364,9 @@
       "brand": "VITTORIA",
       "category": "Anvelope Rigide",
       "category_path": "Componente > Anvelope - Camere > Anvelope Rigide",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
@@ -6457,7 +6469,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 780,
+      "stock_quantity": 760,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm-oem.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm-oem~12346995.jpg",
@@ -6756,8 +6768,8 @@
       "id": "accesorii",
       "name": "Accesorii",
       "full_path": "Componente > Transmisie > ⬤ Pedaliere > Accesorii",
-      "product_count": 30,
-      "in_stock_count": 19
+      "product_count": 29,
+      "in_stock_count": 18
     },
     {
       "id": "accesorii-e-bike",
@@ -6805,7 +6817,7 @@
       "id": "angrenaje",
       "name": "Angrenaje",
       "full_path": "Componente > Transmisie > ⬤ Pedaliere > Angrenaje",
-      "product_count": 114,
+      "product_count": 115,
       "in_stock_count": 68
     },
     {
@@ -6960,7 +6972,7 @@
       "name": "Biciclete Single - SPEED - Fixie",
       "full_path": "Biciclete > Biciclete Single - SPEED - Fixie",
       "product_count": 18,
-      "in_stock_count": 16
+      "in_stock_count": 1
     },
     {
       "id": "bidoane-suporti-bidon",
@@ -7149,7 +7161,7 @@
       "name": "Cuvete - Rulmenti",
       "full_path": "Componente > Suspensii - Cuvete > Cuvete - Rulmenti",
       "product_count": 41,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "depozitare-biciclete",
@@ -7338,7 +7350,7 @@
       "name": "Mini Pompe",
       "full_path": "Accesorii > Pompe Ciclism > Mini Pompe",
       "product_count": 20,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "motoare-e-bike",
@@ -7408,7 +7420,7 @@
       "name": "Pionioane Filetate",
       "full_path": "Componente > Transmisie > ⬤ Pinioane > Pionioane Filetate",
       "product_count": 42,
-      "in_stock_count": 30
+      "in_stock_count": 29
     },
     {
       "id": "pipe-ghidon",
@@ -7422,7 +7434,7 @@
       "name": "Placute Frana",
       "full_path": "Componente > Sisteme Franare > Placute Frana",
       "product_count": 26,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pompe-ciclism",
@@ -7534,7 +7546,7 @@
       "name": "Schimbatoare Spate",
       "full_path": "Componente > Transmisie > ⬤ Schimbatoare > Schimbatoare Spate",
       "product_count": 27,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "sei",
@@ -7618,7 +7630,7 @@
       "name": "Spite Stainless Aero",
       "full_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
       "product_count": 24,
-      "in_stock_count": 1
+      "in_stock_count": 0
     },
     {
       "id": "spite-ucp",
