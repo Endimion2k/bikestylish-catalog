@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T03:17:27.612827+00:00",
+  "last_updated": "2026-10-14T03:11:39.907709+00:00",
   "total_products": 56,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1432,8 +1432,8 @@
       "price": 290.0,
       "price_net": 239.67,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "url": "https://www.bikestylish.ro/butuc-fata-novatec-dh61sb-hl-20-negru-32-h-20-x-110-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-fata-novatec-dh61sb-hl-20-negru-32-h-20-x-110-mm~15659535.jpg",
       "images": [
@@ -1467,8 +1467,8 @@
       "price": 158.0,
       "price_net": 130.58,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 10,
       "url": "https://www.bikestylish.ro/butuc-fata-novatec-d041sb-b15-negru-32-h-15-x-110-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-fata-novatec-d041sb-b15-negru-32-h-15-x-110-mm~15659637.jpg",
       "images": [
@@ -1525,8 +1525,8 @@
       "price": 485.0,
       "price_net": 400.83,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 2,
       "url": "https://www.bikestylish.ro/butuc-spate-novatec-dh92sb-a4a-hg-32-h-12-x-157-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/butuc-spate-novatec-dh92sb-a4a-hg-32-h-12-x-157-mm~15659838.jpg",
       "images": [
@@ -1862,7 +1862,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 122,
-      "in_stock_count": 67
+      "in_stock_count": 70
     },
     {
       "id": "butuci-pedalieri",
@@ -2576,7 +2576,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 406
+      "in_stock_count": 405
     },
     {
       "id": "zona-dealeri",
