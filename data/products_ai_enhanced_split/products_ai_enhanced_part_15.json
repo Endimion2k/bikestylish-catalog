@@ -1,62 +1,14 @@
 {
-  "last_updated": "2026-10-14T03:11:39.907709+00:00",
+  "last_updated": "2026-10-15T03:11:37.121382+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 15,
     "total_parts": 20,
     "product_range": "3501-3750",
-    "original_total": 4806
+    "original_total": 4804
   },
   "products": [
-    {
-      "id": "881303",
-      "sku": "881303",
-      "ean": "3374650332451",
-      "name": "Solutie Antipana MOTUL Tubeless 500 ml",
-      "brand": "SXT",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
-      "price": 110.0,
-      "price_net": 90.91,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 11,
-      "url": "https://www.bikestylish.ro/solutie-antipana-motul-tubeless-500-ml.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/solutie-antipana-motul-tubeless-500-ml~8337232.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/solutie-antipana-motul-tubeless-500-ml~8337232.jpg"
-      ],
-      "tags": [
-        "Banda Janta - Tubeless",
-        "Componente",
-        "SXT"
-      ]
-    },
-    {
-      "id": "881301",
-      "sku": "881301",
-      "ean": "3374650332185",
-      "name": "Solutie Curatat Biciclete MOTUL Dry Clean 500 ml",
-      "brand": "SXT",
-      "category": "Bike Care - Ingrijire",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
-      "price": 82.5,
-      "price_net": 68.18,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "url": "https://www.bikestylish.ro/solutie-curatat-biciclete-motul-dry-clean-500-ml.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/solutie-curatat-biciclete-motul-dry-clean-500-ml~8337235.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/solutie-curatat-biciclete-motul-dry-clean-500-ml~8337235.jpg"
-      ],
-      "tags": [
-        "Bike Care - Ingrijire",
-        "SXT",
-        "Service"
-      ]
-    },
     {
       "id": "881306",
       "sku": "881306",
@@ -1705,7 +1657,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 41,
+      "stock_quantity": 39,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-evolution-29x1-9-46-622-negru-950g-rigid.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-vittoria-evolution-29x1-9-46-622-negru-950g-rigid~8337955.jpg",
@@ -3265,7 +3217,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 172,
+      "stock_quantity": 169,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-sxt-gh-011-sr-2.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-sxt-gh-011-sr-2~8338357.jpg",
@@ -5800,8 +5752,11 @@
       "brand": "SXT",
       "category": "Axe - Accesorii Butuci",
       "category_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
-      "price": 82.5,
-      "price_net": 68.18,
+      "secondary_categories": [
+        "Componente > Sisteme Franare > Discuri - Rotoare"
+      ],
+      "price": 79.0,
+      "price_net": 65.29,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 5,
@@ -7192,7 +7147,7 @@
       "price_net": 118.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 60,
+      "stock_quantity": 59,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/imbus-super-b-tb-7256-hex-15-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/imbus-super-b-tb-7256-hex-15-mm~8339764.jpg",
@@ -7369,6 +7324,9 @@
       "brand": "SXT",
       "category": "Mansoane",
       "category_path": "Componente > Ghidoane - Directie > Mansoane",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 29.0,
       "price_net": 23.97,
       "currency": "RON",
@@ -7815,6 +7773,79 @@
         "color": "Negru",
         "dimensions": "20 x 2.4"
       }
+    },
+    {
+      "id": "11A00457",
+      "sku": "11A00457",
+      "ean": "8022530029162",
+      "name": "Anvelopa VITTORIA TATTOO II 26x2.3 Rigid Negru",
+      "brand": "VITTORIA",
+      "category": "Anvelope Rigide",
+      "category_path": "Componente > Anvelope - Camere > Anvelope Rigide",
+      "price": 187.0,
+      "price_net": 154.55,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.61,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-tattoo-ii-26x2-3-rigid-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-vittoria-tattoo-ii-26x2-3-rigid-negru~8339992.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-vittoria-tattoo-ii-26x2-3-rigid-negru~8339992.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-vittoria-tattoo-ii-26x2-3-rigid-negru~12385911.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-vittoria-tattoo-ii-26x2-3-rigid-negru~12385914.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-tattoo-ii-26x2-3-rigid-negru~12385917.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-tattoo-ii-26x2-3-rigid-negru~12385920.jpg"
+      ],
+      "tags": [
+        "26 inch",
+        "Anvelope Rigide",
+        "Componente",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "color": "Negru",
+        "dimensions": "26 x 2.3"
+      }
+    },
+    {
+      "id": "11A00456",
+      "sku": "11A00456",
+      "ean": "8022530029148",
+      "name": "Anvelopa VITTORIA TATTOO II 29x2.3 Rigid Negru",
+      "brand": "VITTORIA",
+      "category": "Anvelope Rigide",
+      "category_path": "Componente > Anvelope - Camere > Anvelope Rigide",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
+      "price": 169.0,
+      "price_net": 139.67,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 10,
+      "weight_kg": 0.7,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-tattoo-ii-29x2-3-rigid-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-tattoo-ii-29x2-3-rigid-negru~8339998.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-tattoo-ii-29x2-3-rigid-negru~8339998.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-tattoo-ii-29x2-3-rigid-negru~12385899.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-vittoria-tattoo-ii-29x2-3-rigid-negru~12385902.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-vittoria-tattoo-ii-29x2-3-rigid-negru~12385905.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-tattoo-ii-29x2-3-rigid-negru~12385908.jpg"
+      ],
+      "tags": [
+        "29 inch",
+        "Anvelope Rigide",
+        "Componente",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "color": "Negru",
+        "dimensions": "29 x 2.3"
+      }
     }
   ],
   "categories": [
@@ -8075,7 +8106,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 122,
-      "in_stock_count": 70
+      "in_stock_count": 73
     },
     {
       "id": "butuci-pedalieri",
@@ -8228,7 +8259,7 @@
       "id": "discuri-rotoare",
       "name": "Discuri - Rotoare",
       "full_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 8
     },
     {
@@ -8355,7 +8386,7 @@
       "name": "Lumini Fata",
       "full_path": "Accesorii > Lumini - Reflectorizante > Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "lumini-spate",
@@ -8586,7 +8617,7 @@
       "name": "Saboti Frana",
       "full_path": "Componente > Sisteme Franare > Saboti Frana",
       "product_count": 17,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "schimbatoare-fata",
@@ -8635,7 +8666,7 @@
       "name": "Seturi Aparatori",
       "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
       "product_count": 29,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "seturi-roti",
@@ -8690,8 +8721,8 @@
       "id": "spite-ucp",
       "name": "Spite UCP",
       "full_path": "Roti > Spite si Nipluri > Spite UCP",
-      "product_count": 58,
-      "in_stock_count": 26
+      "product_count": 57,
+      "in_stock_count": 25
     },
     {
       "id": "suporturi-bidon",
@@ -8719,7 +8750,7 @@
       "name": "Tije Sa",
       "full_path": "Componente > Sei - Tije - Coliere > Tije Sa",
       "product_count": 48,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "transport-depozitare",

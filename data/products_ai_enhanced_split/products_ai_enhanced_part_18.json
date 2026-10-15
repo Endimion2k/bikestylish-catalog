@@ -1,66 +1,14 @@
 {
-  "last_updated": "2026-10-14T03:11:39.907709+00:00",
+  "last_updated": "2026-10-15T03:11:37.121382+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 18,
     "total_parts": 20,
     "product_range": "4251-4500",
-    "original_total": 4806
+    "original_total": 4804
   },
   "products": [
-    {
-      "id": "081031",
-      "sku": "081031",
-      "name": "Suport Display (Ghidoane, Cadre, Haine, Roti)",
-      "brand": "M-WAVE",
-      "category": "Amenajare Magazin",
-      "category_path": "Service > Amenajare Magazin",
-      "price": 0.0,
-      "price_net": 0.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/suport-display-ghidoane-cadre-haine-roti.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/suport-display-ghidoane-cadre-haine-roti~10358922.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/suport-display-ghidoane-cadre-haine-roti~10358922.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/suport-display-ghidoane-cadre-haine-roti~10359555.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/suport-display-ghidoane-cadre-haine-roti~10359558.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/suport-display-ghidoane-cadre-haine-roti~10359561.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/suport-display-ghidoane-cadre-haine-roti~10359564.jpg"
-      ],
-      "tags": [
-        "Amenajare Magazin",
-        "M-WAVE",
-        "Service"
-      ]
-    },
-    {
-      "id": "081029",
-      "sku": "081029",
-      "name": "Suport Display (HAINE, JANTE, ANVELOPE)",
-      "brand": "M-WAVE",
-      "category": "Amenajare Magazin",
-      "category_path": "Service > Amenajare Magazin",
-      "price": 0.0,
-      "price_net": 0.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/suport-display-haine-jante-anvelope.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/suport-display-haine-jante-anvelope~10358925.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/suport-display-haine-jante-anvelope~10358925.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/suport-display-haine-jante-anvelope~10359570.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/suport-display-haine-jante-anvelope~10359573.jpg"
-      ],
-      "tags": [
-        "Amenajare Magazin",
-        "M-WAVE",
-        "Service"
-      ]
-    },
     {
       "id": "081080",
       "sku": "081080",
@@ -254,7 +202,7 @@
       "price_net": 0.0,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/sa-sxt-rivet-276-x152-mm-albastru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/sa-sxt-rivet-276-x152-mm-albastru~10358976.jpg",
@@ -1099,6 +1047,9 @@
       "brand": "SXT",
       "category": "Lumini Spate",
       "category_path": "Accesorii > Lumini - Reflectorizante > Lumini Spate",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -4166,6 +4117,9 @@
       "brand": "SXT",
       "category": "Mini Pompe",
       "category_path": "Accesorii > Pompe Ciclism > Mini Pompe",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 25.0,
       "price_net": 20.66,
       "currency": "RON",
@@ -4231,11 +4185,11 @@
       "brand": "SXT",
       "category": "Saboti Frana",
       "category_path": "Componente > Sisteme Franare > Saboti Frana",
-      "price": 20.9,
-      "price_net": 17.27,
+      "price": 16.0,
+      "price_net": 13.22,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 692,
+      "stock_quantity": 688,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/saboti-frana-sxt-3-culori-70-mm-negru-grey-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/saboti-frana-sxt-3-culori-70-mm-negru-grey-rosu~11326359.jpg",
@@ -4260,6 +4214,9 @@
       "brand": "SXT",
       "category": "Ghidoane",
       "category_path": "Componente > Ghidoane - Directie > Ghidoane",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
@@ -4287,6 +4244,9 @@
       "brand": "SXT",
       "category": "Ghidoane",
       "category_path": "Componente > Ghidoane - Directie > Ghidoane",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
@@ -4314,6 +4274,9 @@
       "brand": "SXT",
       "category": "Ghidoane",
       "category_path": "Componente > Ghidoane - Directie > Ghidoane",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
@@ -4341,11 +4304,14 @@
       "brand": "SXT",
       "category": "Mansoane",
       "category_path": "Componente > Ghidoane - Directie > Mansoane",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 42.9,
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 267,
+      "stock_quantity": 266,
       "url": "https://www.bikestylish.ro/mansoane-bmx-sxt-ds-126-150-mm-purple.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-bmx-sxt-ds-126-150-mm-purple~11326596.jpg",
       "images": [
@@ -4374,6 +4340,9 @@
       "brand": "SXT",
       "category": "Mansoane",
       "category_path": "Componente > Ghidoane - Directie > Mansoane",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 42.9,
       "price_net": 35.45,
       "currency": "RON",
@@ -4406,6 +4375,9 @@
       "brand": "SXT",
       "category": "Mansoane",
       "category_path": "Componente > Ghidoane - Directie > Mansoane",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 42.9,
       "price_net": 35.45,
       "currency": "RON",
@@ -4439,11 +4411,14 @@
       "brand": "SXT",
       "category": "Mansoane",
       "category_path": "Componente > Ghidoane - Directie > Mansoane",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 42.9,
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 290,
+      "stock_quantity": 288,
       "url": "https://www.bikestylish.ro/mansoane-bmx-sxt-ds52d-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/mansoane-bmx-sxt-ds52d-negru~11330685.jpg",
       "images": [
@@ -4472,6 +4447,9 @@
       "brand": "SXT",
       "category": "Mansoane",
       "category_path": "Componente > Ghidoane - Directie > Mansoane",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -5362,7 +5340,7 @@
       "price_net": 28.93,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 11,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/adaptor-frana-disc-sxt-ada-db-pm-160-203-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/adaptor-frana-disc-sxt-ada-db-pm-160-203-mm~12071391.jpg",
@@ -5388,7 +5366,7 @@
       "price_net": 28.93,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 13,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/adaptor-frana-disc-sxt-ada-db-pm-180-203-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/adaptor-frana-disc-sxt-ada-db-pm-180-203-mm~12071409.jpg",
@@ -6371,7 +6349,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 145,
+      "stock_quantity": 143,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-urbano-700x45c-47-622-negru-rigid~12342588.jpg",
@@ -6593,6 +6571,9 @@
       "brand": "SXT",
       "category": "Flori Furca - Distantiere - Accesorii",
       "category_path": "Componente > Suspensii - Cuvete > Flori Furca - Distantiere - Accesorii",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 30.0,
       "price_net": 24.79,
       "currency": "RON",
@@ -6622,6 +6603,9 @@
       "brand": "SXT",
       "category": "Flori Furca - Distantiere - Accesorii",
       "category_path": "Componente > Suspensii - Cuvete > Flori Furca - Distantiere - Accesorii",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 30.0,
       "price_net": 24.79,
       "currency": "RON",
@@ -6651,6 +6635,9 @@
       "brand": "SXT",
       "category": "Flori Furca - Distantiere - Accesorii",
       "category_path": "Componente > Suspensii - Cuvete > Flori Furca - Distantiere - Accesorii",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 30.0,
       "price_net": 24.79,
       "currency": "RON",
@@ -6760,6 +6747,67 @@
       "specs": {
         "color": "Silver",
         "dimensions": "584 x 21"
+      }
+    },
+    {
+      "id": "356293",
+      "sku": "356293",
+      "name": "Set Surub +Piulita Foaie Angrenaj SXT Negru",
+      "brand": "SXT",
+      "category": "Angrenaje E-Bike",
+      "category_path": "E-Mobility > Angrenaje E-Bike",
+      "price": 49.5,
+      "price_net": 40.91,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 5,
+      "url": "https://www.bikestylish.ro/set-surub-piulita-foaie-angrenaj-sxt-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-surub-piulita-foaie-angrenaj-sxt-negru~12846888.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/set-surub-piulita-foaie-angrenaj-sxt-negru~12846888.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/set-surub-piulita-foaie-angrenaj-sxt-negru~12846891.jpg"
+      ],
+      "tags": [
+        "Angrenaje E-Bike",
+        "E-Bike",
+        "E-Mobility",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ],
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "352603",
+      "sku": "352603",
+      "name": "Brat Angrenaj SXT 170 mm JIS 0 mm Offset Dreapta",
+      "brand": "SXT",
+      "category": "Angrenaje E-Bike",
+      "category_path": "E-Mobility > Angrenaje E-Bike",
+      "price": 95.0,
+      "price_net": 78.51,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "url": "https://www.bikestylish.ro/brat-angrenaj-sxt-170-mm-jis-0-mm-offset-dreapta.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/brat-angrenaj-sxt-170-mm-jis-0-mm-offset-dreapta~12846894.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/brat-angrenaj-sxt-170-mm-jis-0-mm-offset-dreapta~12846894.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/brat-angrenaj-sxt-170-mm-jis-0-mm-offset-dreapta~12846897.jpg"
+      ],
+      "tags": [
+        "Angrenaje E-Bike",
+        "E-Bike",
+        "E-Mobility",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
       }
     }
   ],
@@ -7021,7 +7069,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 122,
-      "in_stock_count": 70
+      "in_stock_count": 73
     },
     {
       "id": "butuci-pedalieri",
@@ -7174,7 +7222,7 @@
       "id": "discuri-rotoare",
       "name": "Discuri - Rotoare",
       "full_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 8
     },
     {
@@ -7301,7 +7349,7 @@
       "name": "Lumini Fata",
       "full_path": "Accesorii > Lumini - Reflectorizante > Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "lumini-spate",
@@ -7532,7 +7580,7 @@
       "name": "Saboti Frana",
       "full_path": "Componente > Sisteme Franare > Saboti Frana",
       "product_count": 17,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "schimbatoare-fata",
@@ -7581,7 +7629,7 @@
       "name": "Seturi Aparatori",
       "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
       "product_count": 29,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "seturi-roti",
@@ -7636,8 +7684,8 @@
       "id": "spite-ucp",
       "name": "Spite UCP",
       "full_path": "Roti > Spite si Nipluri > Spite UCP",
-      "product_count": 58,
-      "in_stock_count": 26
+      "product_count": 57,
+      "in_stock_count": 25
     },
     {
       "id": "suporturi-bidon",
@@ -7665,7 +7713,7 @@
       "name": "Tije Sa",
       "full_path": "Componente > Sei - Tije - Coliere > Tije Sa",
       "product_count": 48,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "transport-depozitare",

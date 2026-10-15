@@ -1,76 +1,14 @@
 {
-  "last_updated": "2026-10-14T03:11:39.907709+00:00",
+  "last_updated": "2026-10-15T03:11:37.121382+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
     "total_parts": 20,
     "product_range": "2501-2750",
-    "original_total": 4806
+    "original_total": 4804
   },
   "products": [
-    {
-      "id": "C13",
-      "sku": "C13",
-      "ean": "7290107118088",
-      "name": "Foaie Angrenaj PILO Narrow Wide 32T Sram Aluminiu",
-      "brand": "PILO",
-      "category": "Foi Angrenaje",
-      "category_path": "Componente > Transmisie > ⬤ Pedaliere > Foi Angrenaje",
-      "price": 270.0,
-      "price_net": 223.14,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
-      "url": "https://www.bikestylish.ro/foaie-angrenaj-pilo-narrow-wide-32t-sram-aluminiu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/foaie-angrenaj-pilo-narrow-wide-32t-sram-aluminiu~8330359.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/foaie-angrenaj-pilo-narrow-wide-32t-sram-aluminiu~8330359.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/foaie-angrenaj-pilo-narrow-wide-32t-sram-aluminiu~8330362.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/foaie-angrenaj-pilo-narrow-wide-32t-sram-aluminiu~8330365.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/foaie-angrenaj-pilo-narrow-wide-32t-sram-aluminiu~8330368.jpg"
-      ],
-      "tags": [
-        "Aluminiu",
-        "Componente",
-        "Foi Angrenaje",
-        "PILO"
-      ],
-      "specs": {
-        "material": "Aluminiu"
-      }
-    },
-    {
-      "id": "6598871",
-      "sku": "6598871",
-      "name": "Cric Trotineta Electrica M365, Pro, 1S, Pro 2",
-      "brand": "SXT",
-      "category": "Trotinete Electrice",
-      "category_path": "E-Mobility > Trotinete Electrice",
-      "price": 42.9,
-      "price_net": 35.45,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/cric-trotineta-electrica-m365-pro-1s-pro-2.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/cric-trotineta-electrica-m365-pro-1s-pro-2~8330371.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/cric-trotineta-electrica-m365-pro-1s-pro-2~8330371.jpg"
-      ],
-      "tags": [
-        "1 viteze",
-        "E-Bike",
-        "E-Mobility",
-        "SXT",
-        "Trotinete Electrice"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ],
-        "speeds": 1
-      }
-    },
     {
       "id": "420651",
       "sku": "420651",
@@ -751,7 +689,7 @@
       "price_net": 136.36,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d585-trek.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d585-trek~8330521.jpg",
@@ -6408,6 +6346,56 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D300",
+      "sku": "D300",
+      "ean": "7290107112888",
+      "name": "Ureche Cadru PILO D300 De Rosa",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 121.0,
+      "price_net": 100.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d300-de-rosa.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d300-de-rosa~8331304.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d300-de-rosa~8331304.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D308",
+      "sku": "D308",
+      "ean": "7290107112963",
+      "name": "Ureche Cadru PILO D308 Titus",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d308-titus.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d308-titus~8331307.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d308-titus~8331307.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6668,7 +6656,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 122,
-      "in_stock_count": 70
+      "in_stock_count": 73
     },
     {
       "id": "butuci-pedalieri",
@@ -6821,7 +6809,7 @@
       "id": "discuri-rotoare",
       "name": "Discuri - Rotoare",
       "full_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 8
     },
     {
@@ -6948,7 +6936,7 @@
       "name": "Lumini Fata",
       "full_path": "Accesorii > Lumini - Reflectorizante > Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "lumini-spate",
@@ -7179,7 +7167,7 @@
       "name": "Saboti Frana",
       "full_path": "Componente > Sisteme Franare > Saboti Frana",
       "product_count": 17,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "schimbatoare-fata",
@@ -7228,7 +7216,7 @@
       "name": "Seturi Aparatori",
       "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
       "product_count": 29,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "seturi-roti",
@@ -7283,8 +7271,8 @@
       "id": "spite-ucp",
       "name": "Spite UCP",
       "full_path": "Roti > Spite si Nipluri > Spite UCP",
-      "product_count": 58,
-      "in_stock_count": 26
+      "product_count": 57,
+      "in_stock_count": 25
     },
     {
       "id": "suporturi-bidon",
@@ -7312,7 +7300,7 @@
       "name": "Tije Sa",
       "full_path": "Componente > Sei - Tije - Coliere > Tije Sa",
       "product_count": 48,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "transport-depozitare",

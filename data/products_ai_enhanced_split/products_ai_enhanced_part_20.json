@@ -1,65 +1,14 @@
 {
-  "last_updated": "2026-10-14T03:11:39.907709+00:00",
-  "total_products": 56,
+  "last_updated": "2026-10-15T03:11:37.121382+00:00",
+  "total_products": 54,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 20,
     "total_parts": 20,
-    "product_range": "4751-4806",
-    "original_total": 4806
+    "product_range": "4751-4804",
+    "original_total": 4804
   },
   "products": [
-    {
-      "id": "D1451",
-      "sku": "D1451",
-      "name": "Ureche Cadru PILO D1451 Flanders",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 185.0,
-      "price_net": 152.89,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1451-flanders.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1451-flanders~15390468.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d1451-flanders~15390468.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d1451-flanders~15390471.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d1451-flanders~15390474.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D1464",
-      "sku": "D1464",
-      "name": "Ureche Cadru PILO D1464 NukeProof",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 190.0,
-      "price_net": 157.02,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1464-nukeproof.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d1464-nukeproof~15390477.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d1464-nukeproof~15390477.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d1464-nukeproof~15390480.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d1464-nukeproof~15390483.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d1464-nukeproof~15390486.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D1474",
       "sku": "D1474",
@@ -1496,8 +1445,8 @@
       "price": 299.0,
       "price_net": 247.11,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 10,
       "url": "https://www.bikestylish.ro/butuc-spate-novatec-d952sb-sl-b12-hg-32-h-12-x-148-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-spate-novatec-d952sb-sl-b12-hg-32-h-12-x-148-mm-negru~15659826.jpg",
       "images": [
@@ -1557,8 +1506,8 @@
       "price": 299.0,
       "price_net": 247.11,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 10,
       "url": "https://www.bikestylish.ro/butuc-spate-novatec-d982tsb-cl-b12-11s-centerlock-negru-32-h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-spate-novatec-d982tsb-cl-b12-11s-centerlock-negru-32-h~15659985.jpg",
       "images": [
@@ -1585,8 +1534,8 @@
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 10,
       "url": "https://www.bikestylish.ro/butuc-fata-novatec-d041sb-b15-negru-32-h-15-x-110-mm-centerlock.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-fata-novatec-d041sb-b15-negru-32-h-15-x-110-mm-centerlock~15660189.jpg",
       "images": [
@@ -1862,7 +1811,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 122,
-      "in_stock_count": 70
+      "in_stock_count": 73
     },
     {
       "id": "butuci-pedalieri",
@@ -2015,7 +1964,7 @@
       "id": "discuri-rotoare",
       "name": "Discuri - Rotoare",
       "full_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 8
     },
     {
@@ -2142,7 +2091,7 @@
       "name": "Lumini Fata",
       "full_path": "Accesorii > Lumini - Reflectorizante > Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "lumini-spate",
@@ -2373,7 +2322,7 @@
       "name": "Saboti Frana",
       "full_path": "Componente > Sisteme Franare > Saboti Frana",
       "product_count": 17,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "schimbatoare-fata",
@@ -2422,7 +2371,7 @@
       "name": "Seturi Aparatori",
       "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
       "product_count": 29,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "seturi-roti",
@@ -2477,8 +2426,8 @@
       "id": "spite-ucp",
       "name": "Spite UCP",
       "full_path": "Roti > Spite si Nipluri > Spite UCP",
-      "product_count": 58,
-      "in_stock_count": 26
+      "product_count": 57,
+      "in_stock_count": 25
     },
     {
       "id": "suporturi-bidon",
@@ -2506,7 +2455,7 @@
       "name": "Tije Sa",
       "full_path": "Componente > Sei - Tije - Coliere > Tije Sa",
       "product_count": 48,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "transport-depozitare",

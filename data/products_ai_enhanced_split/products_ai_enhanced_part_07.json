@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-14T03:11:39.907709+00:00",
+  "last_updated": "2026-10-15T03:11:37.121382+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
     "total_parts": 20,
     "product_range": "1501-1750",
-    "original_total": 4806
+    "original_total": 4804
   },
   "products": [
     {
@@ -974,6 +974,9 @@
       "brand": "SXT",
       "category": "Manusi Ciclism",
       "category_path": "Echipamente > Manusi Ciclism",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 75.0,
       "price_net": 61.98,
       "currency": "RON",
@@ -1918,14 +1921,13 @@
       "category": "Home Trainer - Rulou",
       "category_path": "Accesorii > Home Trainer - Rulou",
       "secondary_categories": [
-        "PROMOTII > TRANSPORT GRATUIT",
         "PROMOTII > REDUCERE DE PRET"
       ],
       "price": 455.0,
       "price_net": 376.03,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 8,
       "weight_kg": 9.95,
       "url": "https://www.bikestylish.ro/home-trainer-m-wave-yoke-n-roll-10-26-29.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/home-trainer-m-wave-yoke-n-roll-10-26-29~8290639.jpg",
@@ -1979,7 +1981,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 23,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/far-pentru-dinam-m-wave-apollon-d30-6v-3w-30lux.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/far-pentru-dinam-m-wave-apollon-d30-6v-3w-30lux~8290645.jpg",
@@ -4395,11 +4397,11 @@
       "sku": "360597",
       "ean": "2801195000008",
       "name": "Disc Frana SXT BD- 180 mm",
-      "brand": "PROMAX",
+      "brand": "SXT",
       "category": "Discuri - Rotoare",
       "category_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "price": 53.9,
-      "price_net": 44.55,
+      "price": 45.0,
+      "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 22,
@@ -4412,7 +4414,7 @@
       "tags": [
         "Componente",
         "Discuri - Rotoare",
-        "PROMAX"
+        "SXT"
       ]
     },
     {
@@ -5006,8 +5008,8 @@
       "brand": "SXT",
       "category": "Frane Disc",
       "category_path": "Componente > Sisteme Franare > Frane Disc",
-      "price": 14.3,
-      "price_net": 11.82,
+      "price": 10.0,
+      "price_net": 8.26,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 21,
@@ -5059,6 +5061,9 @@
       "brand": "SXT",
       "category": "Manusi Ciclism",
       "category_path": "Echipamente > Manusi Ciclism",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 51.7,
       "price_net": 42.73,
       "currency": "RON",
@@ -5223,8 +5228,8 @@
       "name": "Frana Spate SUNRACE BCRS 34-39 mm Negru Aluminiu",
       "category": "Frane V - Break",
       "category_path": "Componente > Sisteme Franare > Frane V - Break",
-      "price": 165.0,
-      "price_net": 136.36,
+      "price": 89.0,
+      "price_net": 73.55,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 3,
@@ -5282,6 +5287,9 @@
       "brand": "SXT",
       "category": "Manusi Ciclism",
       "category_path": "Echipamente > Manusi Ciclism",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 66.0,
       "price_net": 54.55,
       "currency": "RON",
@@ -5310,6 +5318,9 @@
       "brand": "SXT",
       "category": "Manusi Ciclism",
       "category_path": "Echipamente > Manusi Ciclism",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 66.0,
       "price_net": 54.55,
       "currency": "RON",
@@ -5338,6 +5349,9 @@
       "brand": "SXT",
       "category": "Manusi Ciclism",
       "category_path": "Echipamente > Manusi Ciclism",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 66.0,
       "price_net": 54.55,
       "currency": "RON",
@@ -5370,7 +5384,7 @@
       "price_net": 164.46,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 29,
+      "stock_quantity": 28,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-basic-qr-27-5-584x19c-36h-filetat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-sxt-basic-qr-27-5-584x19c-36h-filetat~15615900.jpg",
       "images": [
@@ -5472,34 +5486,6 @@
       "specs": {
         "color": "Negru",
         "dimensions": "258 x 2"
-      }
-    },
-    {
-      "id": "B14GRC260N",
-      "sku": "B14GRC260N",
-      "name": "Spita MACH1 GALVA - 260 x 2 mm Negru",
-      "brand": "MACH 1",
-      "category": "Spite UCP",
-      "category_path": "Roti > Spite si Nipluri > Spite UCP",
-      "price": 0.88,
-      "price_net": 0.73,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 200,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/spita-mach1-galva-260-x-2-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/spita-mach1-galva-260-x-2-mm-negru~8292154.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/spita-mach1-galva-260-x-2-mm-negru~8292154.jpg"
-      ],
-      "tags": [
-        "MACH 1",
-        "Roti",
-        "Spite UCP"
-      ],
-      "specs": {
-        "color": "Negru",
-        "dimensions": "260 x 2"
       }
     },
     {
@@ -6020,7 +6006,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 14,
+      "stock_quantity": 9,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/stop-spate-cu-baterii-sxt-portbagaj-3-led.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/stop-spate-cu-baterii-sxt-portbagaj-3-led~8292223.jpg",
@@ -7174,6 +7160,31 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D484",
+      "sku": "D484",
+      "ean": "7290107114950",
+      "name": "Ureche Cadru PILO D484 Canyon",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 170.5,
+      "price_net": 140.91,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 13,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d484-canyon.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d484-canyon~8292358.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d484-canyon~8292358.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7434,7 +7445,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 122,
-      "in_stock_count": 70
+      "in_stock_count": 73
     },
     {
       "id": "butuci-pedalieri",
@@ -7587,7 +7598,7 @@
       "id": "discuri-rotoare",
       "name": "Discuri - Rotoare",
       "full_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 8
     },
     {
@@ -7714,7 +7725,7 @@
       "name": "Lumini Fata",
       "full_path": "Accesorii > Lumini - Reflectorizante > Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "lumini-spate",
@@ -7945,7 +7956,7 @@
       "name": "Saboti Frana",
       "full_path": "Componente > Sisteme Franare > Saboti Frana",
       "product_count": 17,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "schimbatoare-fata",
@@ -7994,7 +8005,7 @@
       "name": "Seturi Aparatori",
       "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
       "product_count": 29,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "seturi-roti",
@@ -8049,8 +8060,8 @@
       "id": "spite-ucp",
       "name": "Spite UCP",
       "full_path": "Roti > Spite si Nipluri > Spite UCP",
-      "product_count": 58,
-      "in_stock_count": 26
+      "product_count": 57,
+      "in_stock_count": 25
     },
     {
       "id": "suporturi-bidon",
@@ -8078,7 +8089,7 @@
       "name": "Tije Sa",
       "full_path": "Componente > Sei - Tije - Coliere > Tije Sa",
       "product_count": 48,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "transport-depozitare",

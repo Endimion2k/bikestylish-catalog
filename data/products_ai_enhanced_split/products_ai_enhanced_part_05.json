@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-14T03:11:39.907709+00:00",
+  "last_updated": "2026-10-15T03:11:37.121382+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 5,
     "total_parts": 20,
     "product_range": "1001-1250",
-    "original_total": 4806
+    "original_total": 4804
   },
   "products": [
     {
@@ -1985,8 +1985,8 @@
       "brand": "SHIMANO",
       "category": "Discuri - Rotoare",
       "category_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "price": 50.0,
-      "price_net": 41.32,
+      "price": 47.0,
+      "price_net": 38.84,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 36,
@@ -3427,7 +3427,7 @@
       "price_net": 204.55,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 0.89,
       "url": "https://www.bikestylish.ro/bagaj-spate-m-wave-suburban-grey.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/bagaj-spate-m-wave-suburban-grey~8286859.jpg",
@@ -3728,7 +3728,7 @@
       "price_net": 16.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 167,
+      "stock_quantity": 166,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/protectie-cadru-lant-m-wave-protecto-xl.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/protectie-cadru-lant-m-wave-protecto-xl~8286892.jpg",
@@ -4217,7 +4217,7 @@
       "price_net": 14.88,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 125,
+      "stock_quantity": 123,
       "weight_kg": 0.18,
       "url": "https://www.bikestylish.ro/camera-kujo-18-x-1-75-2-125-av-33-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/camera-kujo-18-x-1-75-2-125-av-33-mm~8287384.jpg",
@@ -4846,7 +4846,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 367,
+      "stock_quantity": 365,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-tire-2-120-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/mansoane-sxt-cloud-tire-2-120-mm~8287447.jpg",
@@ -5972,7 +5972,7 @@
       "price_net": 136.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 32,
+      "stock_quantity": 31,
       "weight_kg": 2.1,
       "url": "https://www.bikestylish.ro/camasa-frana-promax-5-mm-30-m-cutie-teflonata-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camasa-frana-promax-5-mm-30-m-cutie-teflonata-negru~8287582.jpg",
@@ -6223,7 +6223,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 11,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/saboti-pentru-frane-magura-m-wave-bpr-hy.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/saboti-pentru-frane-magura-m-wave-bpr-hy~11396211.jpg",
@@ -6770,6 +6770,9 @@
       "brand": "SXT",
       "category": "Angrenaje",
       "category_path": "Componente > Transmisie > ⬤ Pedaliere > Angrenaje",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 935.0,
       "price_net": 772.73,
       "currency": "RON",
@@ -6802,6 +6805,9 @@
       "brand": "SXT",
       "category": "Angrenaje",
       "category_path": "Componente > Transmisie > ⬤ Pedaliere > Angrenaje",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 935.0,
       "price_net": 772.73,
       "currency": "RON",
@@ -7309,7 +7315,7 @@
       "price_net": 109.09,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/kit-conversie-novatec-10-thru-axle-crmo.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/kit-conversie-novatec-10-thru-axle-crmo~8287714.jpg",
@@ -7613,7 +7619,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 122,
-      "in_stock_count": 70
+      "in_stock_count": 73
     },
     {
       "id": "butuci-pedalieri",
@@ -7766,7 +7772,7 @@
       "id": "discuri-rotoare",
       "name": "Discuri - Rotoare",
       "full_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 8
     },
     {
@@ -7893,7 +7899,7 @@
       "name": "Lumini Fata",
       "full_path": "Accesorii > Lumini - Reflectorizante > Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "lumini-spate",
@@ -8124,7 +8130,7 @@
       "name": "Saboti Frana",
       "full_path": "Componente > Sisteme Franare > Saboti Frana",
       "product_count": 17,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "schimbatoare-fata",
@@ -8173,7 +8179,7 @@
       "name": "Seturi Aparatori",
       "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
       "product_count": 29,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "seturi-roti",
@@ -8228,8 +8234,8 @@
       "id": "spite-ucp",
       "name": "Spite UCP",
       "full_path": "Roti > Spite si Nipluri > Spite UCP",
-      "product_count": 58,
-      "in_stock_count": 26
+      "product_count": 57,
+      "in_stock_count": 25
     },
     {
       "id": "suporturi-bidon",
@@ -8257,7 +8263,7 @@
       "name": "Tije Sa",
       "full_path": "Componente > Sei - Tije - Coliere > Tije Sa",
       "product_count": 48,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "transport-depozitare",

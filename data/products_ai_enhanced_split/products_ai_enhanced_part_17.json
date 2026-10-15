@@ -1,86 +1,14 @@
 {
-  "last_updated": "2026-10-14T03:11:39.907709+00:00",
+  "last_updated": "2026-10-15T03:11:37.121382+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 17,
     "total_parts": 20,
     "product_range": "4001-4250",
-    "original_total": 4806
+    "original_total": 4804
   },
   "products": [
-    {
-      "id": "11A00711",
-      "sku": "11A00711",
-      "ean": "8022530035637",
-      "name": "Anvelopa VITTORIA Mezcal 29x2.4(60-622) XC Race Tubeless Negru",
-      "brand": "VITTORIA",
-      "category": "Anvelope Pliabile",
-      "category_path": "Componente > Anvelope - Camere > Anvelope Pliabile",
-      "price": 429.0,
-      "price_net": 354.55,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.75,
-      "url": "https://www.bikestylish.ro/anvelopa-vittoria-mezcal-29x2-4-60-622-xc-race-tubeless-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-vittoria-mezcal-29x2-4-60-622-xc-race-tubeless-negru~8341792.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-vittoria-mezcal-29x2-4-60-622-xc-race-tubeless-negru~8341792.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-vittoria-mezcal-29x2-4-60-622-xc-race-tubeless-negru~8341795.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-mezcal-29x2-4-60-622-xc-race-tubeless-negru~8341798.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-vittoria-mezcal-29x2-4-60-622-xc-race-tubeless-negru~8341801.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-vittoria-mezcal-29x2-4-60-622-xc-race-tubeless-negru~8341804.jpg"
-      ],
-      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
-      "tags": [
-        "29 inch",
-        "Anvelope Pliabile",
-        "Componente",
-        "VITTORIA"
-      ],
-      "specs": {
-        "wheel_size": "29",
-        "color": "Negru",
-        "dimensions": "29 x 2.4"
-      }
-    },
-    {
-      "id": "11A00712",
-      "sku": "11A00712",
-      "ean": "8022530035590",
-      "name": "Anvelopa VITTORIA Mezcal 29x2.4(60-622) XC Race Tubeless Negru-Maro",
-      "brand": "VITTORIA",
-      "category": "Anvelope Pliabile",
-      "category_path": "Componente > Anvelope - Camere > Anvelope Pliabile",
-      "price": 429.0,
-      "price_net": 354.55,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.73,
-      "url": "https://www.bikestylish.ro/anvelopa-vittoria-mezcal-29x2-4-60-622-xc-race-tubeless-negru-maro.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-mezcal-29x2-4-60-622-xc-race-tubeless-negru-maro~8341807.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-mezcal-29x2-4-60-622-xc-race-tubeless-negru-maro~8341807.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-vittoria-mezcal-29x2-4-60-622-xc-race-tubeless-negru-maro~8341816.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-vittoria-mezcal-29x2-4-60-622-xc-race-tubeless-negru-maro~8341810.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-vittoria-mezcal-29x2-4-60-622-xc-race-tubeless-negru-maro~8341813.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-mezcal-29x2-4-60-622-xc-race-tubeless-negru-maro~8341819.jpg"
-      ],
-      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
-      "tags": [
-        "29 inch",
-        "Anvelope Pliabile",
-        "Componente",
-        "VITTORIA"
-      ],
-      "specs": {
-        "wheel_size": "29",
-        "color": "Negru",
-        "dimensions": "29 x 2.4"
-      }
-    },
     {
       "id": "11A00713",
       "sku": "11A00713",
@@ -478,11 +406,14 @@
       "brand": "SXT",
       "category": "Set Lumini",
       "category_path": "Accesorii > Lumini - Reflectorizante > Set Lumini",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 28.0,
       "price_net": 23.14,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 226,
+      "stock_quantity": 225,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/set-flash-cu-baterii-sxt-silicone-albastru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-flash-cu-baterii-sxt-silicone-albastru~8341948.jpg",
@@ -542,6 +473,9 @@
       "brand": "SXT",
       "category": "Set Lumini",
       "category_path": "Accesorii > Lumini - Reflectorizante > Set Lumini",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 28.0,
       "price_net": 23.14,
       "currency": "RON",
@@ -574,6 +508,9 @@
       "brand": "SXT",
       "category": "Set Lumini",
       "category_path": "Accesorii > Lumini - Reflectorizante > Set Lumini",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 28.0,
       "price_net": 23.14,
       "currency": "RON",
@@ -1721,7 +1658,7 @@
       "price_net": 148.76,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 17,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/pedale-ht-pa32a-supreme-c-verde-802c.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-pa32a-supreme-c-verde-802c~8342308.jpg",
@@ -3050,6 +2987,9 @@
       "brand": "SXT",
       "category": "Mansoane",
       "category_path": "Componente > Ghidoane - Directie > Mansoane",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -3218,7 +3158,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 140,
+      "stock_quantity": 138,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/tija-sa-sxt-25-4-x-400mm-negru-anodizat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/tija-sa-sxt-25-4-x-400mm-negru-anodizat~8342749.jpg",
@@ -3638,7 +3578,7 @@
       "price_net": 71.9,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 33,
+      "stock_quantity": 31,
       "weight_kg": 0.43,
       "url": "https://www.bikestylish.ro/cric-aluminiu-m-wave-column-e2-24-29-e-bike-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/cric-aluminiu-m-wave-column-e2-24-29-e-bike-negru~8342827.jpg",
@@ -4456,11 +4396,14 @@
       "brand": "SXT",
       "category": "Sei",
       "category_path": "Componente > Sei - Tije - Coliere > Sei",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 69.3,
       "price_net": 57.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 151,
+      "stock_quantity": 150,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/sa-sxt-v2150-275-x-150-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/sa-sxt-v2150-275-x-150-mm~8343028.jpg",
@@ -4487,11 +4430,14 @@
       "brand": "SXT",
       "category": "Sei",
       "category_path": "Componente > Sei - Tije - Coliere > Sei",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 88.0,
       "price_net": 72.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 140,
+      "stock_quantity": 138,
       "weight_kg": 0.49,
       "url": "https://www.bikestylish.ro/sa-sxt-v-3663-270-x-150-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/sa-sxt-v-3663-270-x-150-mm~8343040.jpg",
@@ -4523,7 +4469,7 @@
       "price_net": 65.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 7,
       "weight_kg": 0.28,
       "url": "https://www.bikestylish.ro/sa-sxt-v3111-270-x-170mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/sa-sxt-v3111-270-x-170mm~8343061.jpg",
@@ -4551,11 +4497,14 @@
       "brand": "SXT",
       "category": "Sei",
       "category_path": "Componente > Sei - Tije - Coliere > Sei",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 88.0,
       "price_net": 72.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 100,
+      "stock_quantity": 98,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/sa-sxt-v3661-270-x-150-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/sa-sxt-v3661-270-x-150-mm~8343079.jpg",
@@ -5781,7 +5730,7 @@
       "price_net": 5.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 69,
+      "stock_quantity": 67,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/reflectorizant-spate-sxt-nano-dot-r-aripa.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/reflectorizant-spate-sxt-nano-dot-r-aripa~8343688.jpg",
@@ -6545,7 +6494,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 57,
+      "stock_quantity": 55,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-verde.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-mtb-sxt-zn-047-130-mm-lock-on-verde~8343850.jpg",
@@ -6653,7 +6602,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 26,
+      "stock_quantity": 25,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-mtb-sxt-zn-047-130-mm-lock-on-rosu-california~8343886.jpg",
@@ -7287,7 +7236,7 @@
       "price_net": 164.46,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-basic-24-507-x-19c-36h-filetat-ax.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-sxt-basic-24-507-x-19c-36h-filetat-ax~15615153.jpg",
       "images": [
@@ -7784,6 +7733,58 @@
         "M-WAVE",
         "Service"
       ]
+    },
+    {
+      "id": "081031",
+      "sku": "081031",
+      "name": "Suport Display (Ghidoane, Cadre, Haine, Roti)",
+      "brand": "M-WAVE",
+      "category": "Amenajare Magazin",
+      "category_path": "Service > Amenajare Magazin",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/suport-display-ghidoane-cadre-haine-roti.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/suport-display-ghidoane-cadre-haine-roti~10358922.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/suport-display-ghidoane-cadre-haine-roti~10358922.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/suport-display-ghidoane-cadre-haine-roti~10359555.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/suport-display-ghidoane-cadre-haine-roti~10359558.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/suport-display-ghidoane-cadre-haine-roti~10359561.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/suport-display-ghidoane-cadre-haine-roti~10359564.jpg"
+      ],
+      "tags": [
+        "Amenajare Magazin",
+        "M-WAVE",
+        "Service"
+      ]
+    },
+    {
+      "id": "081029",
+      "sku": "081029",
+      "name": "Suport Display (HAINE, JANTE, ANVELOPE)",
+      "brand": "M-WAVE",
+      "category": "Amenajare Magazin",
+      "category_path": "Service > Amenajare Magazin",
+      "price": 0.0,
+      "price_net": 0.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/suport-display-haine-jante-anvelope.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/suport-display-haine-jante-anvelope~10358925.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/suport-display-haine-jante-anvelope~10358925.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/suport-display-haine-jante-anvelope~10359570.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/suport-display-haine-jante-anvelope~10359573.jpg"
+      ],
+      "tags": [
+        "Amenajare Magazin",
+        "M-WAVE",
+        "Service"
+      ]
     }
   ],
   "categories": [
@@ -8044,7 +8045,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 122,
-      "in_stock_count": 70
+      "in_stock_count": 73
     },
     {
       "id": "butuci-pedalieri",
@@ -8197,7 +8198,7 @@
       "id": "discuri-rotoare",
       "name": "Discuri - Rotoare",
       "full_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 8
     },
     {
@@ -8324,7 +8325,7 @@
       "name": "Lumini Fata",
       "full_path": "Accesorii > Lumini - Reflectorizante > Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "lumini-spate",
@@ -8555,7 +8556,7 @@
       "name": "Saboti Frana",
       "full_path": "Componente > Sisteme Franare > Saboti Frana",
       "product_count": 17,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "schimbatoare-fata",
@@ -8604,7 +8605,7 @@
       "name": "Seturi Aparatori",
       "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
       "product_count": 29,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "seturi-roti",
@@ -8659,8 +8660,8 @@
       "id": "spite-ucp",
       "name": "Spite UCP",
       "full_path": "Roti > Spite si Nipluri > Spite UCP",
-      "product_count": 58,
-      "in_stock_count": 26
+      "product_count": 57,
+      "in_stock_count": 25
     },
     {
       "id": "suporturi-bidon",
@@ -8688,7 +8689,7 @@
       "name": "Tije Sa",
       "full_path": "Componente > Sei - Tije - Coliere > Tije Sa",
       "product_count": 48,
-      "in_stock_count": 28
+      "in_stock_count": 27
     },
     {
       "id": "transport-depozitare",
