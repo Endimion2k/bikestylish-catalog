@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T03:11:35.055768+00:00",
+  "last_updated": "2026-10-17T03:10:42.158322+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -642,8 +642,8 @@
       "brand": "SHIMANO",
       "category": "Schimbatoare Spate",
       "category_path": "Componente > Transmisie > Schimbatoare > Schimbatoare Spate",
-      "price": 438.9,
-      "price_net": 362.73,
+      "price": 305.0,
+      "price_net": 252.07,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 2,
@@ -1031,8 +1031,11 @@
       "brand": "SHIMANO",
       "category": "Manete Schimbator",
       "category_path": "Componente > Transmisie > Schimbatoare > Manete Schimbator",
-      "price": 548.9,
-      "price_net": 453.64,
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
+      "price": 390.0,
+      "price_net": 322.31,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 1,
@@ -1288,8 +1291,8 @@
       "ean": "887539033125",
       "name": "Kit de Reparatie Tubeless M-WAVE Tubeless Fix Aluminiu 25 grame",
       "brand": "M-WAVE",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Tubeless",
+      "category_path": "Componente > Anvelope - Camere > Tubeless",
       "price": 86.9,
       "price_net": 71.82,
       "currency": "RON",
@@ -1307,9 +1310,9 @@
       ],
       "tags": [
         "Aluminiu",
-        "Banda Janta - Tubeless",
         "Componente",
-        "M-WAVE"
+        "M-WAVE",
+        "Tubeless"
       ],
       "specs": {
         "material": "Aluminiu"
@@ -1897,7 +1900,7 @@
       "price_net": 376.03,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 9.95,
       "url": "https://www.bikestylish.ro/home-trainer-m-wave-yoke-n-roll-10-26-29.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/home-trainer-m-wave-yoke-n-roll-10-26-29~8290639.jpg",
@@ -2241,8 +2244,8 @@
       "brand": "MICROSHIFT",
       "category": "Schimbatoare Spate",
       "category_path": "Componente > Transmisie > Schimbatoare > Schimbatoare Spate",
-      "price": 264.0,
-      "price_net": 218.18,
+      "price": 199.0,
+      "price_net": 164.46,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 6,
@@ -2265,8 +2268,8 @@
       "brand": "SHIMANO",
       "category": "Schimbatoare Fata",
       "category_path": "Componente > Transmisie > Schimbatoare > Schimbatoare Fata",
-      "price": 181.5,
-      "price_net": 150.0,
+      "price": 121.0,
+      "price_net": 100.0,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 2,
@@ -3803,7 +3806,7 @@
       "price_net": 20.0,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/bandana-m-wave-neon-yellow.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/bandana-m-wave-neon-yellow~8290861.jpg",
@@ -4044,8 +4047,8 @@
       "ean": "887539034276",
       "name": "Seringa pt. Tubeless M-WAVE Tubeless Filler 60 ml",
       "brand": "M-WAVE",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Tubeless",
+      "category_path": "Componente > Anvelope - Camere > Tubeless",
       "price": 85.8,
       "price_net": 70.91,
       "currency": "RON",
@@ -4060,9 +4063,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/seringa-pt-tubeless-m-wave-tubeless-filler-60-ml~8291896.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
         "Componente",
-        "M-WAVE"
+        "M-WAVE",
+        "Tubeless"
       ]
     },
     {
@@ -4284,8 +4287,8 @@
       "ean": "887539033194",
       "name": "Bandana M-WAVE Circles",
       "brand": "M-WAVE",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Bandane Caciuli Sepci",
+      "category_path": "Echipamente > Bandane Caciuli Sepci",
       "price": 20.9,
       "price_net": 17.27,
       "currency": "RON",
@@ -4299,8 +4302,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/bandana-m-wave-circles~8291935.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
-        "Componente",
+        "Bandane Caciuli Sepci",
+        "Echipamente",
         "M-WAVE"
       ]
     },
@@ -4310,8 +4313,8 @@
       "ean": "887539031343",
       "name": "Bandana M-WAVE Purple Squared",
       "brand": "M-WAVE",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Bandane Caciuli Sepci",
+      "category_path": "Echipamente > Bandane Caciuli Sepci",
       "price": 20.9,
       "price_net": 17.27,
       "currency": "RON",
@@ -4325,8 +4328,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/bandana-m-wave-purple-squared~8291938.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
-        "Componente",
+        "Bandane Caciuli Sepci",
+        "Echipamente",
         "M-WAVE"
       ],
       "specs": {
@@ -7143,7 +7146,7 @@
       "price_net": 140.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 11,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d484-canyon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d484-canyon~8292358.jpg",
@@ -7194,8 +7197,8 @@
       "id": "accesorii",
       "name": "Accesorii",
       "full_path": "Componente > Transmisie > Pedaliere > Accesorii",
-      "product_count": 29,
-      "in_stock_count": 18
+      "product_count": 30,
+      "in_stock_count": 19
     },
     {
       "id": "accesorii-e-bike",
@@ -7243,8 +7246,8 @@
       "id": "angrenaje",
       "name": "Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Angrenaje",
-      "product_count": 115,
-      "in_stock_count": 68
+      "product_count": 114,
+      "in_stock_count": 67
     },
     {
       "id": "angrenaje-e-bike",
@@ -7342,7 +7345,7 @@
       "name": "Axe - Accesorii Butuci",
       "full_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "bagaje-borsete",
@@ -7373,18 +7376,18 @@
       "in_stock_count": 37
     },
     {
-      "id": "banda-janta-tubeless",
-      "name": "Banda Janta - Tubeless",
-      "full_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
-      "product_count": 53,
-      "in_stock_count": 41
+      "id": "banda-janta",
+      "name": "Banda Janta",
+      "full_path": "Componente > Anvelope - Camere > Banda Janta",
+      "product_count": 35,
+      "in_stock_count": 28
     },
     {
       "id": "bandane-caciuli-sepci",
       "name": "Bandane Caciuli Sepci",
       "full_path": "Echipamente > Bandane Caciuli Sepci",
-      "product_count": 10,
-      "in_stock_count": 7
+      "product_count": 12,
+      "in_stock_count": 9
     },
     {
       "id": "bar-tape-accesorii",
@@ -7426,7 +7429,7 @@
       "name": "Bike Care - Ingrijire",
       "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
       "product_count": 6,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "bike-computer",
@@ -7502,8 +7505,8 @@
       "id": "camere-bicicleta",
       "name": "Camere Bicicleta",
       "full_path": "Componente > Anvelope - Camere > Camere Bicicleta",
-      "product_count": 104,
-      "in_stock_count": 66
+      "product_count": 103,
+      "in_stock_count": 65
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -7636,7 +7639,7 @@
       "name": "Foi Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Foi Angrenaje",
       "product_count": 37,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "frane-disc",
@@ -7678,7 +7681,7 @@
       "name": "Home Trainer",
       "full_path": "Accesorii > Home Trainer",
       "product_count": 2,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "intinzatoare-lant",
@@ -7782,8 +7785,8 @@
       "id": "mini-pompe",
       "name": "Mini Pompe",
       "full_path": "Accesorii > Pompe Ciclism > Mini Pompe",
-      "product_count": 20,
-      "in_stock_count": 17
+      "product_count": 19,
+      "in_stock_count": 16
     },
     {
       "id": "motoare-e-bike",
@@ -7894,8 +7897,8 @@
       "id": "pompe-podea",
       "name": "Pompe Podea",
       "full_path": "Accesorii > Pompe Ciclism > Pompe Podea",
-      "product_count": 11,
-      "in_stock_count": 8
+      "product_count": 12,
+      "in_stock_count": 9
     },
     {
       "id": "portbagaje",
@@ -7930,7 +7933,7 @@
       "name": "Protectii Lant",
       "full_path": "Componente > Transmisie > Lanturi > Protectii Lant",
       "product_count": 10,
-      "in_stock_count": 6
+      "in_stock_count": 7
     },
     {
       "id": "reflectorizante",
@@ -8063,7 +8066,7 @@
       "name": "Spite Stainless",
       "full_path": "Roti > Spite si Nipluri > Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 94
+      "in_stock_count": 98
     },
     {
       "id": "spite-stainless-2-3-mm",
@@ -8084,7 +8087,7 @@
       "name": "Spite UCP",
       "full_path": "Roti > Spite si Nipluri > Spite UCP",
       "product_count": 58,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "suporturi-bidon",
@@ -8155,6 +8158,13 @@
       "full_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
       "product_count": 17,
       "in_stock_count": 16
+    },
+    {
+      "id": "tubeless",
+      "name": "Tubeless",
+      "full_path": "Componente > Anvelope - Camere > Tubeless",
+      "product_count": 17,
+      "in_stock_count": 12
     },
     {
       "id": "unelte-service",

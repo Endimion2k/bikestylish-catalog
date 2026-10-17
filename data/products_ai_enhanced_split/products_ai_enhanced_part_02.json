@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T03:11:35.055768+00:00",
+  "last_updated": "2026-10-17T03:10:42.158322+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -810,8 +810,8 @@
       "brand": "VELO",
       "category": "Protectii Lant",
       "category_path": "Componente > Transmisie > Lanturi > Protectii Lant",
-      "price": 19.8,
-      "price_net": 16.36,
+      "price": 20.0,
+      "price_net": 16.53,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -4418,8 +4418,8 @@
       "price": 181.5,
       "price_net": 150.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/thru-axle-novatec-qr264-syn-142mm-x12.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/thru-axle-novatec-qr264-syn-142mm-x12~8281825.jpg",
       "images": [
@@ -5499,8 +5499,8 @@
       "ean": "2800843000001",
       "name": "Aparatoare Angrenaj SXT 38-48 T",
       "brand": "SXT",
-      "category": "Angrenaje",
-      "category_path": "Componente > Transmisie > Pedaliere > Angrenaje",
+      "category": "Accesorii",
+      "category_path": "Componente > Transmisie > Pedaliere > Accesorii",
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
@@ -5512,9 +5512,8 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/9/aparatoare-angrenaj-sxt-38-48-t~8281939.jpg"
       ],
-      "category_description": "Cranksets - pedal arms and chainrings",
       "tags": [
-        "Angrenaje",
+        "Accesorii",
         "Componente",
         "SXT"
       ]
@@ -5694,7 +5693,7 @@
       "price_net": 31.4,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 8,
       "weight_kg": 0.22,
       "url": "https://www.bikestylish.ro/brat-angrenaj-sxt-as-2-aluminiu-stanga-silver-170-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/brat-angrenaj-sxt-as-2-aluminiu-stanga-silver-170-mm~8281960.jpg",
@@ -5914,7 +5913,7 @@
       "price_net": 25.45,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/set-ax-pedalier-sxt-148-mm-rotund-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/set-ax-pedalier-sxt-148-mm-rotund-silver~8281981.jpg",
@@ -6748,7 +6747,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 53,
+      "stock_quantity": 51,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/monobloc-pedalier-neco-127-5-30-5-mm-negru-cupe-metal-plastic.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/monobloc-pedalier-neco-127-5-30-5-mm-negru-cupe-metal-plastic~8282071.jpg",
@@ -7114,7 +7113,7 @@
       "price_net": 36.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 17,
+      "stock_quantity": 16,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/dot-5-1-m-wave-100-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/dot-5-1-m-wave-100-ml~8282110.jpg",
@@ -7139,7 +7138,7 @@
       "price_net": 33.06,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 124,
+      "stock_quantity": 123,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/ulei-mineral-100-ml-m-wave.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ulei-mineral-100-ml-m-wave~8282113.jpg",
@@ -7312,8 +7311,8 @@
       "id": "accesorii",
       "name": "Accesorii",
       "full_path": "Componente > Transmisie > Pedaliere > Accesorii",
-      "product_count": 29,
-      "in_stock_count": 18
+      "product_count": 30,
+      "in_stock_count": 19
     },
     {
       "id": "accesorii-e-bike",
@@ -7361,8 +7360,8 @@
       "id": "angrenaje",
       "name": "Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Angrenaje",
-      "product_count": 115,
-      "in_stock_count": 68
+      "product_count": 114,
+      "in_stock_count": 67
     },
     {
       "id": "angrenaje-e-bike",
@@ -7460,7 +7459,7 @@
       "name": "Axe - Accesorii Butuci",
       "full_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "bagaje-borsete",
@@ -7491,18 +7490,18 @@
       "in_stock_count": 37
     },
     {
-      "id": "banda-janta-tubeless",
-      "name": "Banda Janta - Tubeless",
-      "full_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
-      "product_count": 53,
-      "in_stock_count": 41
+      "id": "banda-janta",
+      "name": "Banda Janta",
+      "full_path": "Componente > Anvelope - Camere > Banda Janta",
+      "product_count": 35,
+      "in_stock_count": 28
     },
     {
       "id": "bandane-caciuli-sepci",
       "name": "Bandane Caciuli Sepci",
       "full_path": "Echipamente > Bandane Caciuli Sepci",
-      "product_count": 10,
-      "in_stock_count": 7
+      "product_count": 12,
+      "in_stock_count": 9
     },
     {
       "id": "bar-tape-accesorii",
@@ -7544,7 +7543,7 @@
       "name": "Bike Care - Ingrijire",
       "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
       "product_count": 6,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "bike-computer",
@@ -7620,8 +7619,8 @@
       "id": "camere-bicicleta",
       "name": "Camere Bicicleta",
       "full_path": "Componente > Anvelope - Camere > Camere Bicicleta",
-      "product_count": 104,
-      "in_stock_count": 66
+      "product_count": 103,
+      "in_stock_count": 65
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -7754,7 +7753,7 @@
       "name": "Foi Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Foi Angrenaje",
       "product_count": 37,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "frane-disc",
@@ -7796,7 +7795,7 @@
       "name": "Home Trainer",
       "full_path": "Accesorii > Home Trainer",
       "product_count": 2,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "intinzatoare-lant",
@@ -7900,8 +7899,8 @@
       "id": "mini-pompe",
       "name": "Mini Pompe",
       "full_path": "Accesorii > Pompe Ciclism > Mini Pompe",
-      "product_count": 20,
-      "in_stock_count": 17
+      "product_count": 19,
+      "in_stock_count": 16
     },
     {
       "id": "motoare-e-bike",
@@ -8012,8 +8011,8 @@
       "id": "pompe-podea",
       "name": "Pompe Podea",
       "full_path": "Accesorii > Pompe Ciclism > Pompe Podea",
-      "product_count": 11,
-      "in_stock_count": 8
+      "product_count": 12,
+      "in_stock_count": 9
     },
     {
       "id": "portbagaje",
@@ -8048,7 +8047,7 @@
       "name": "Protectii Lant",
       "full_path": "Componente > Transmisie > Lanturi > Protectii Lant",
       "product_count": 10,
-      "in_stock_count": 6
+      "in_stock_count": 7
     },
     {
       "id": "reflectorizante",
@@ -8181,7 +8180,7 @@
       "name": "Spite Stainless",
       "full_path": "Roti > Spite si Nipluri > Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 94
+      "in_stock_count": 98
     },
     {
       "id": "spite-stainless-2-3-mm",
@@ -8202,7 +8201,7 @@
       "name": "Spite UCP",
       "full_path": "Roti > Spite si Nipluri > Spite UCP",
       "product_count": 58,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "suporturi-bidon",
@@ -8273,6 +8272,13 @@
       "full_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
       "product_count": 17,
       "in_stock_count": 16
+    },
+    {
+      "id": "tubeless",
+      "name": "Tubeless",
+      "full_path": "Componente > Anvelope - Camere > Tubeless",
+      "product_count": 17,
+      "in_stock_count": 12
     },
     {
       "id": "unelte-service",

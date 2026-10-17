@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T03:11:35.055768+00:00",
+  "last_updated": "2026-10-17T03:10:42.158322+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1252,7 +1252,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 466,
+      "stock_quantity": 465,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-24x-ax-9-16-verde-neon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-plastic-sxt-24x-ax-9-16-verde-neon~13289271.jpg",
@@ -1377,7 +1377,7 @@
       "price_net": 53.72,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 69,
+      "stock_quantity": 68,
       "url": "https://www.bikestylish.ro/mansoane-sxt-11d2-vexk-pp-135-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-sxt-11d2-vexk-pp-135-mm-negru~13289406.jpg",
       "images": [
@@ -1438,7 +1438,7 @@
       "price_net": 41.32,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 163,
+      "stock_quantity": 162,
       "url": "https://www.bikestylish.ro/pipa-downhill-mtb-sxt-31-8-1-1-8-mm-50-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-downhill-mtb-sxt-31-8-1-1-8-mm-50-mm~13289283.jpg",
       "images": [
@@ -2294,8 +2294,8 @@
       "price": 105.0,
       "price_net": 86.78,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/direct-mounts-samox-pd-dm-gen4-53-36t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/direct-mounts-samox-pd-dm-gen4-53-36t~13793997.jpg",
@@ -3072,22 +3072,19 @@
     {
       "id": "1115MO1230222BX",
       "sku": "1115MO1230222BX",
-      "name": "Mastik One VITTORIA - 30 grame",
+      "name": "lipici Mastik One VITTORIA - 30 grame",
       "brand": "VITTORIA",
       "category": "Anvelope Tubulare",
       "category_path": "Componente > Anvelope - Camere > Anvelope Tubulare",
-      "secondary_categories": [
-        "Componente > Anvelope - Camere > Banda Janta - Tubeless"
-      ],
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 24,
-      "url": "https://www.bikestylish.ro/mastik-one-vittoria-30-grame.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/mastik-one-vittoria-30-grame~14262480.jpg",
+      "url": "https://www.bikestylish.ro/lipici-mastik-one-vittoria-30-grame.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/lipici-mastik-one-vittoria-30-grame~14262480.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/mastik-one-vittoria-30-grame~14262480.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/0/lipici-mastik-one-vittoria-30-grame~14262480.jpg"
       ],
       "tags": [
         "Anvelope Tubulare",
@@ -3362,6 +3359,7 @@
     {
       "id": "604901501",
       "sku": "604901501",
+      "ean": "381001",
       "name": "Janta SXT NEO 29(622 x 21C) 36 H Negru Capsata",
       "brand": "SXT",
       "category": "Jante Frane Disc",
@@ -3370,7 +3368,7 @@
       "price_net": 86.78,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 27,
+      "stock_quantity": 26,
       "url": "https://www.bikestylish.ro/janta-sxt-neo-29-622-x-21c-36-h-negru-capsata.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/janta-sxt-neo-29-622-x-21c-36-h-negru-capsata~14288547.jpg",
       "images": [
@@ -3924,8 +3922,11 @@
       "sku": "519859",
       "name": "Banda Janta Tubeless SXT 27 mm - 10 m",
       "brand": "SXT",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Banda Janta",
+      "category_path": "Componente > Anvelope - Camere > Banda Janta",
+      "secondary_categories": [
+        "Componente > Anvelope - Camere > Tubeless"
+      ],
       "price": 65.0,
       "price_net": 53.72,
       "currency": "RON",
@@ -3938,7 +3939,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/banda-janta-tubeless-sxt-27-mm-10-m~14681427.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
+        "Banda Janta",
         "Componente",
         "SXT"
       ]
@@ -4925,8 +4926,8 @@
       "brand": "PILO",
       "category": "Urechi Cadru",
       "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 1749998.8,
-      "price_net": 1446280.0,
+      "price": 175.0,
+      "price_net": 144.63,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 1,
@@ -5435,8 +5436,11 @@
       "sku": "1AA00557",
       "name": "Banda Janta VITTORIA Tubeless 23 mm x 66 m",
       "brand": "VITTORIA",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Banda Janta",
+      "category_path": "Componente > Anvelope - Camere > Banda Janta",
+      "secondary_categories": [
+        "Componente > Anvelope - Camere > Tubeless"
+      ],
       "price": 345.0,
       "price_net": 285.12,
       "currency": "RON",
@@ -5450,7 +5454,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/banda-janta-vittoria-tubeless-23-mm-x-66-m~15267390.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
+        "Banda Janta",
         "Componente",
         "VITTORIA"
       ]
@@ -5460,8 +5464,11 @@
       "sku": "1AA00548",
       "name": "Banda Janta VITTORIA Tubeless 21 mm x 9 m",
       "brand": "VITTORIA",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Banda Janta",
+      "category_path": "Componente > Anvelope - Camere > Banda Janta",
+      "secondary_categories": [
+        "Componente > Anvelope - Camere > Tubeless"
+      ],
       "price": 106.0,
       "price_net": 87.6,
       "currency": "RON",
@@ -5475,7 +5482,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/banda-janta-vittoria-tubeless-21-mm-x-9-m~15267402.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
+        "Banda Janta",
         "Componente",
         "VITTORIA"
       ]
@@ -5608,8 +5615,11 @@
       "sku": "1AA00550",
       "name": "Banda Janta VITTORIA Tubeless 25 mm x 9 m",
       "brand": "VITTORIA",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Banda Janta",
+      "category_path": "Componente > Anvelope - Camere > Banda Janta",
+      "secondary_categories": [
+        "Componente > Anvelope - Camere > Tubeless"
+      ],
       "price": 106.0,
       "price_net": 87.6,
       "currency": "RON",
@@ -5621,7 +5631,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/banda-janta-vittoria-tubeless-25-mm-x-9-m~15333666.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
+        "Banda Janta",
         "Componente",
         "VITTORIA"
       ]
@@ -5631,8 +5641,11 @@
       "sku": "1AA00558",
       "name": "Banda Janta VITTORIA Tubeless 25 mm x 66 m",
       "brand": "VITTORIA",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Banda Janta",
+      "category_path": "Componente > Anvelope - Camere > Banda Janta",
+      "secondary_categories": [
+        "Componente > Anvelope - Camere > Tubeless"
+      ],
       "price": 345.0,
       "price_net": 285.12,
       "currency": "RON",
@@ -5644,7 +5657,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/banda-janta-vittoria-tubeless-25-mm-x-66-m~15333669.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
+        "Banda Janta",
         "Componente",
         "VITTORIA"
       ]
@@ -5654,8 +5667,11 @@
       "sku": "1AA00560",
       "name": "Banda Janta VITTORIA Tubeless 29 mm x 66 m",
       "brand": "VITTORIA",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Banda Janta",
+      "category_path": "Componente > Anvelope - Camere > Banda Janta",
+      "secondary_categories": [
+        "Componente > Anvelope - Camere > Tubeless"
+      ],
       "price": 345.0,
       "price_net": 285.12,
       "currency": "RON",
@@ -5667,7 +5683,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/banda-janta-vittoria-tubeless-29-mm-x-66-m~15333672.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
+        "Banda Janta",
         "Componente",
         "VITTORIA"
       ]
@@ -5864,8 +5880,8 @@
       "ean": "887539020538",
       "name": "Banda Janta M-WAVE 20 mm x 26(20-559)",
       "brand": "M-WAVE",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Banda Janta",
+      "category_path": "Componente > Anvelope - Camere > Banda Janta",
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
@@ -5878,7 +5894,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/banda-janta-m-wave-20-mm-x-26-20-559~15367242.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
+        "Banda Janta",
         "Componente",
         "M-WAVE"
       ]
@@ -7049,8 +7065,8 @@
       "brand": "SXT",
       "category": "Jante Frane V-Brake",
       "category_path": "Roti > Jante > Jante Frane V-Brake",
-      "price": 749999.14,
-      "price_net": 619834.0,
+      "price": 75.0,
+      "price_net": 61.98,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 10,
@@ -7138,8 +7154,8 @@
       "id": "accesorii",
       "name": "Accesorii",
       "full_path": "Componente > Transmisie > Pedaliere > Accesorii",
-      "product_count": 29,
-      "in_stock_count": 18
+      "product_count": 30,
+      "in_stock_count": 19
     },
     {
       "id": "accesorii-e-bike",
@@ -7187,8 +7203,8 @@
       "id": "angrenaje",
       "name": "Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Angrenaje",
-      "product_count": 115,
-      "in_stock_count": 68
+      "product_count": 114,
+      "in_stock_count": 67
     },
     {
       "id": "angrenaje-e-bike",
@@ -7286,7 +7302,7 @@
       "name": "Axe - Accesorii Butuci",
       "full_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "bagaje-borsete",
@@ -7317,18 +7333,18 @@
       "in_stock_count": 37
     },
     {
-      "id": "banda-janta-tubeless",
-      "name": "Banda Janta - Tubeless",
-      "full_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
-      "product_count": 53,
-      "in_stock_count": 41
+      "id": "banda-janta",
+      "name": "Banda Janta",
+      "full_path": "Componente > Anvelope - Camere > Banda Janta",
+      "product_count": 35,
+      "in_stock_count": 28
     },
     {
       "id": "bandane-caciuli-sepci",
       "name": "Bandane Caciuli Sepci",
       "full_path": "Echipamente > Bandane Caciuli Sepci",
-      "product_count": 10,
-      "in_stock_count": 7
+      "product_count": 12,
+      "in_stock_count": 9
     },
     {
       "id": "bar-tape-accesorii",
@@ -7370,7 +7386,7 @@
       "name": "Bike Care - Ingrijire",
       "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
       "product_count": 6,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "bike-computer",
@@ -7446,8 +7462,8 @@
       "id": "camere-bicicleta",
       "name": "Camere Bicicleta",
       "full_path": "Componente > Anvelope - Camere > Camere Bicicleta",
-      "product_count": 104,
-      "in_stock_count": 66
+      "product_count": 103,
+      "in_stock_count": 65
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -7580,7 +7596,7 @@
       "name": "Foi Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Foi Angrenaje",
       "product_count": 37,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "frane-disc",
@@ -7622,7 +7638,7 @@
       "name": "Home Trainer",
       "full_path": "Accesorii > Home Trainer",
       "product_count": 2,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "intinzatoare-lant",
@@ -7726,8 +7742,8 @@
       "id": "mini-pompe",
       "name": "Mini Pompe",
       "full_path": "Accesorii > Pompe Ciclism > Mini Pompe",
-      "product_count": 20,
-      "in_stock_count": 17
+      "product_count": 19,
+      "in_stock_count": 16
     },
     {
       "id": "motoare-e-bike",
@@ -7838,8 +7854,8 @@
       "id": "pompe-podea",
       "name": "Pompe Podea",
       "full_path": "Accesorii > Pompe Ciclism > Pompe Podea",
-      "product_count": 11,
-      "in_stock_count": 8
+      "product_count": 12,
+      "in_stock_count": 9
     },
     {
       "id": "portbagaje",
@@ -7874,7 +7890,7 @@
       "name": "Protectii Lant",
       "full_path": "Componente > Transmisie > Lanturi > Protectii Lant",
       "product_count": 10,
-      "in_stock_count": 6
+      "in_stock_count": 7
     },
     {
       "id": "reflectorizante",
@@ -8007,7 +8023,7 @@
       "name": "Spite Stainless",
       "full_path": "Roti > Spite si Nipluri > Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 94
+      "in_stock_count": 98
     },
     {
       "id": "spite-stainless-2-3-mm",
@@ -8028,7 +8044,7 @@
       "name": "Spite UCP",
       "full_path": "Roti > Spite si Nipluri > Spite UCP",
       "product_count": 58,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "suporturi-bidon",
@@ -8099,6 +8115,13 @@
       "full_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
       "product_count": 17,
       "in_stock_count": 16
+    },
+    {
+      "id": "tubeless",
+      "name": "Tubeless",
+      "full_path": "Componente > Anvelope - Camere > Tubeless",
+      "product_count": 17,
+      "in_stock_count": 12
     },
     {
       "id": "unelte-service",

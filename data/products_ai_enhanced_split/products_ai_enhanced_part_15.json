@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T03:11:35.055768+00:00",
+  "last_updated": "2026-10-17T03:10:42.158322+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1858,8 +1858,11 @@
       "ean": "887539034467",
       "name": "Banda Janta Tubeless M-WAVE 23 mm - 10 m",
       "brand": "M-WAVE",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Banda Janta",
+      "category_path": "Componente > Anvelope - Camere > Banda Janta",
+      "secondary_categories": [
+        "Componente > Anvelope - Camere > Tubeless"
+      ],
       "price": 50.0,
       "price_net": 41.32,
       "currency": "RON",
@@ -1873,7 +1876,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/banda-janta-tubeless-m-wave-23-mm-10-m~11301810.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
+        "Banda Janta",
         "Componente",
         "M-WAVE"
       ]
@@ -2050,8 +2053,8 @@
       "ean": "2802119000005",
       "name": "Banda Janta SXT 26-29 Negru 18mm",
       "brand": "SXT",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Banda Janta",
+      "category_path": "Componente > Anvelope - Camere > Banda Janta",
       "price": 2.2,
       "price_net": 1.82,
       "currency": "RON",
@@ -2064,7 +2067,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/banda-janta-sxt-26-29-negru-18mm~8338102.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
+        "Banda Janta",
         "Componente",
         "SXT"
       ],
@@ -3231,7 +3234,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 1,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/placute-frana-m-wave-bpd-metal-s2-sintered-sh.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/placute-frana-m-wave-bpd-metal-s2-sintered-sh~8338417.jpg",
@@ -6295,13 +6298,12 @@
       "ean": "887539042141",
       "name": "Pompa Podea BETO Tubeless 160PSI",
       "brand": "BETO",
-      "category": "Mini Pompe",
-      "category_path": "Accesorii > Pompe Ciclism > Mini Pompe",
+      "category": "Pompe Podea",
+      "category_path": "Accesorii > Pompe Ciclism > Pompe Podea",
       "secondary_categories": [
         "Componente > Anvelope - Camere > Anvelope Pliabile",
-        "Componente > Anvelope - Camere > Banda Janta - Tubeless",
-        "Accesorii > Pompe Ciclism > Pompe Podea",
-        "PROMOTII > TRANSPORT GRATUIT"
+        "PROMOTII > TRANSPORT GRATUIT",
+        "Componente > Anvelope - Camere > Tubeless"
       ],
       "price": 467.5,
       "price_net": 386.36,
@@ -6321,7 +6323,7 @@
       "tags": [
         "Accesorii",
         "BETO",
-        "Mini Pompe"
+        "Pompe Podea"
       ]
     },
     {
@@ -6356,8 +6358,11 @@
       "ean": "2802207000009",
       "name": "Banda Janta Tubeless SXT 30 mm - 10 m",
       "brand": "SXT",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Banda Janta",
+      "category_path": "Componente > Anvelope - Camere > Banda Janta",
+      "secondary_categories": [
+        "Componente > Anvelope - Camere > Tubeless"
+      ],
       "price": 63.0,
       "price_net": 52.07,
       "currency": "RON",
@@ -6370,7 +6375,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/banda-janta-tubeless-sxt-30-mm-10-m~8339641.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
+        "Banda Janta",
         "Componente",
         "SXT"
       ]
@@ -6381,8 +6386,11 @@
       "ean": "2802208000008",
       "name": "Banda Janta Tubeless SXT 35 mm - 10 m",
       "brand": "SXT",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Banda Janta",
+      "category_path": "Componente > Anvelope - Camere > Banda Janta",
+      "secondary_categories": [
+        "Componente > Anvelope - Camere > Tubeless"
+      ],
       "price": 75.9,
       "price_net": 62.73,
       "currency": "RON",
@@ -6395,7 +6403,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/banda-janta-tubeless-sxt-35-mm-10-m~8339644.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
+        "Banda Janta",
         "Componente",
         "SXT"
       ]
@@ -7861,8 +7869,8 @@
       "id": "accesorii",
       "name": "Accesorii",
       "full_path": "Componente > Transmisie > Pedaliere > Accesorii",
-      "product_count": 29,
-      "in_stock_count": 18
+      "product_count": 30,
+      "in_stock_count": 19
     },
     {
       "id": "accesorii-e-bike",
@@ -7910,8 +7918,8 @@
       "id": "angrenaje",
       "name": "Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Angrenaje",
-      "product_count": 115,
-      "in_stock_count": 68
+      "product_count": 114,
+      "in_stock_count": 67
     },
     {
       "id": "angrenaje-e-bike",
@@ -8009,7 +8017,7 @@
       "name": "Axe - Accesorii Butuci",
       "full_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "bagaje-borsete",
@@ -8040,18 +8048,18 @@
       "in_stock_count": 37
     },
     {
-      "id": "banda-janta-tubeless",
-      "name": "Banda Janta - Tubeless",
-      "full_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
-      "product_count": 53,
-      "in_stock_count": 41
+      "id": "banda-janta",
+      "name": "Banda Janta",
+      "full_path": "Componente > Anvelope - Camere > Banda Janta",
+      "product_count": 35,
+      "in_stock_count": 28
     },
     {
       "id": "bandane-caciuli-sepci",
       "name": "Bandane Caciuli Sepci",
       "full_path": "Echipamente > Bandane Caciuli Sepci",
-      "product_count": 10,
-      "in_stock_count": 7
+      "product_count": 12,
+      "in_stock_count": 9
     },
     {
       "id": "bar-tape-accesorii",
@@ -8093,7 +8101,7 @@
       "name": "Bike Care - Ingrijire",
       "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
       "product_count": 6,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "bike-computer",
@@ -8169,8 +8177,8 @@
       "id": "camere-bicicleta",
       "name": "Camere Bicicleta",
       "full_path": "Componente > Anvelope - Camere > Camere Bicicleta",
-      "product_count": 104,
-      "in_stock_count": 66
+      "product_count": 103,
+      "in_stock_count": 65
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -8303,7 +8311,7 @@
       "name": "Foi Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Foi Angrenaje",
       "product_count": 37,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "frane-disc",
@@ -8345,7 +8353,7 @@
       "name": "Home Trainer",
       "full_path": "Accesorii > Home Trainer",
       "product_count": 2,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "intinzatoare-lant",
@@ -8449,8 +8457,8 @@
       "id": "mini-pompe",
       "name": "Mini Pompe",
       "full_path": "Accesorii > Pompe Ciclism > Mini Pompe",
-      "product_count": 20,
-      "in_stock_count": 17
+      "product_count": 19,
+      "in_stock_count": 16
     },
     {
       "id": "motoare-e-bike",
@@ -8561,8 +8569,8 @@
       "id": "pompe-podea",
       "name": "Pompe Podea",
       "full_path": "Accesorii > Pompe Ciclism > Pompe Podea",
-      "product_count": 11,
-      "in_stock_count": 8
+      "product_count": 12,
+      "in_stock_count": 9
     },
     {
       "id": "portbagaje",
@@ -8597,7 +8605,7 @@
       "name": "Protectii Lant",
       "full_path": "Componente > Transmisie > Lanturi > Protectii Lant",
       "product_count": 10,
-      "in_stock_count": 6
+      "in_stock_count": 7
     },
     {
       "id": "reflectorizante",
@@ -8730,7 +8738,7 @@
       "name": "Spite Stainless",
       "full_path": "Roti > Spite si Nipluri > Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 94
+      "in_stock_count": 98
     },
     {
       "id": "spite-stainless-2-3-mm",
@@ -8751,7 +8759,7 @@
       "name": "Spite UCP",
       "full_path": "Roti > Spite si Nipluri > Spite UCP",
       "product_count": 58,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "suporturi-bidon",
@@ -8822,6 +8830,13 @@
       "full_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
       "product_count": 17,
       "in_stock_count": 16
+    },
+    {
+      "id": "tubeless",
+      "name": "Tubeless",
+      "full_path": "Componente > Anvelope - Camere > Tubeless",
+      "product_count": 17,
+      "in_stock_count": 12
     },
     {
       "id": "unelte-service",

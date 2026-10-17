@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T03:11:35.055768+00:00",
+  "last_updated": "2026-10-17T03:10:42.158322+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -156,8 +156,11 @@
       "ean": "2802230000007",
       "name": "Banda Janta Tubeless M-WAVE 21 mm - 10 m",
       "brand": "M-WAVE",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Banda Janta",
+      "category_path": "Componente > Anvelope - Camere > Banda Janta",
+      "secondary_categories": [
+        "Componente > Anvelope - Camere > Tubeless"
+      ],
       "price": 50.0,
       "price_net": 41.32,
       "currency": "RON",
@@ -170,7 +173,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/banda-janta-tubeless-m-wave-21-mm-10-m~8340106.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
+        "Banda Janta",
         "Componente",
         "M-WAVE"
       ]
@@ -830,8 +833,11 @@
       "ean": "2802255000006",
       "name": "Banda Janta Tubeless M-WAVE 19 mm - 10 m",
       "brand": "SXT",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Banda Janta",
+      "category_path": "Componente > Anvelope - Camere > Banda Janta",
+      "secondary_categories": [
+        "Componente > Anvelope - Camere > Tubeless"
+      ],
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -844,7 +850,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/banda-janta-tubeless-m-wave-19-mm-10-m~8340286.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
+        "Banda Janta",
         "Componente",
         "SXT"
       ]
@@ -1013,8 +1019,11 @@
       "ean": "2802256000005",
       "name": "Banda Janta Tubeless SXT 25 mm - 10 m",
       "brand": "SXT",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Banda Janta",
+      "category_path": "Componente > Anvelope - Camere > Banda Janta",
+      "secondary_categories": [
+        "Componente > Anvelope - Camere > Tubeless"
+      ],
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -1027,7 +1036,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/banda-janta-tubeless-sxt-25-mm-10-m~8340322.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
+        "Banda Janta",
         "Componente",
         "SXT"
       ]
@@ -1663,8 +1672,8 @@
       "ean": "8022530031622",
       "name": "Solutie Tubeless VITTORIA 5000 ml",
       "brand": "VITTORIA",
-      "category": "Banda Janta - Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
+      "category": "Tubeless",
+      "category_path": "Componente > Anvelope - Camere > Tubeless",
       "secondary_categories": [
         "PROMOTII > TRANSPORT GRATUIT"
       ],
@@ -1681,8 +1690,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/solutie-tubeless-vittoria-5000-ml~8340523.jpg"
       ],
       "tags": [
-        "Banda Janta - Tubeless",
         "Componente",
+        "Tubeless",
         "VITTORIA"
       ]
     },
@@ -2189,7 +2198,7 @@
       "price_net": 57.02,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 38,
+      "stock_quantity": 37,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/pinion-casetat-7v-shimano-cs-hg200-7-tourney-12-28t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-casetat-7v-shimano-cs-hg200-7-tourney-12-28t~8340679.jpg",
@@ -7493,8 +7502,8 @@
       "id": "accesorii",
       "name": "Accesorii",
       "full_path": "Componente > Transmisie > Pedaliere > Accesorii",
-      "product_count": 29,
-      "in_stock_count": 18
+      "product_count": 30,
+      "in_stock_count": 19
     },
     {
       "id": "accesorii-e-bike",
@@ -7542,8 +7551,8 @@
       "id": "angrenaje",
       "name": "Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Angrenaje",
-      "product_count": 115,
-      "in_stock_count": 68
+      "product_count": 114,
+      "in_stock_count": 67
     },
     {
       "id": "angrenaje-e-bike",
@@ -7641,7 +7650,7 @@
       "name": "Axe - Accesorii Butuci",
       "full_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "bagaje-borsete",
@@ -7672,18 +7681,18 @@
       "in_stock_count": 37
     },
     {
-      "id": "banda-janta-tubeless",
-      "name": "Banda Janta - Tubeless",
-      "full_path": "Componente > Anvelope - Camere > Banda Janta - Tubeless",
-      "product_count": 53,
-      "in_stock_count": 41
+      "id": "banda-janta",
+      "name": "Banda Janta",
+      "full_path": "Componente > Anvelope - Camere > Banda Janta",
+      "product_count": 35,
+      "in_stock_count": 28
     },
     {
       "id": "bandane-caciuli-sepci",
       "name": "Bandane Caciuli Sepci",
       "full_path": "Echipamente > Bandane Caciuli Sepci",
-      "product_count": 10,
-      "in_stock_count": 7
+      "product_count": 12,
+      "in_stock_count": 9
     },
     {
       "id": "bar-tape-accesorii",
@@ -7725,7 +7734,7 @@
       "name": "Bike Care - Ingrijire",
       "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
       "product_count": 6,
-      "in_stock_count": 4
+      "in_stock_count": 3
     },
     {
       "id": "bike-computer",
@@ -7801,8 +7810,8 @@
       "id": "camere-bicicleta",
       "name": "Camere Bicicleta",
       "full_path": "Componente > Anvelope - Camere > Camere Bicicleta",
-      "product_count": 104,
-      "in_stock_count": 66
+      "product_count": 103,
+      "in_stock_count": 65
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -7935,7 +7944,7 @@
       "name": "Foi Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Foi Angrenaje",
       "product_count": 37,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "frane-disc",
@@ -7977,7 +7986,7 @@
       "name": "Home Trainer",
       "full_path": "Accesorii > Home Trainer",
       "product_count": 2,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "intinzatoare-lant",
@@ -8081,8 +8090,8 @@
       "id": "mini-pompe",
       "name": "Mini Pompe",
       "full_path": "Accesorii > Pompe Ciclism > Mini Pompe",
-      "product_count": 20,
-      "in_stock_count": 17
+      "product_count": 19,
+      "in_stock_count": 16
     },
     {
       "id": "motoare-e-bike",
@@ -8193,8 +8202,8 @@
       "id": "pompe-podea",
       "name": "Pompe Podea",
       "full_path": "Accesorii > Pompe Ciclism > Pompe Podea",
-      "product_count": 11,
-      "in_stock_count": 8
+      "product_count": 12,
+      "in_stock_count": 9
     },
     {
       "id": "portbagaje",
@@ -8229,7 +8238,7 @@
       "name": "Protectii Lant",
       "full_path": "Componente > Transmisie > Lanturi > Protectii Lant",
       "product_count": 10,
-      "in_stock_count": 6
+      "in_stock_count": 7
     },
     {
       "id": "reflectorizante",
@@ -8362,7 +8371,7 @@
       "name": "Spite Stainless",
       "full_path": "Roti > Spite si Nipluri > Spite Stainless",
       "product_count": 165,
-      "in_stock_count": 94
+      "in_stock_count": 98
     },
     {
       "id": "spite-stainless-2-3-mm",
@@ -8383,7 +8392,7 @@
       "name": "Spite UCP",
       "full_path": "Roti > Spite si Nipluri > Spite UCP",
       "product_count": 58,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "suporturi-bidon",
@@ -8454,6 +8463,13 @@
       "full_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
       "product_count": 17,
       "in_stock_count": 16
+    },
+    {
+      "id": "tubeless",
+      "name": "Tubeless",
+      "full_path": "Componente > Anvelope - Camere > Tubeless",
+      "product_count": 17,
+      "in_stock_count": 12
     },
     {
       "id": "unelte-service",
