@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-17T03:10:42.158322+00:00",
+  "last_updated": "2026-10-18T03:11:06.163237+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 1,
     "total_parts": 20,
     "product_range": "1-250",
-    "original_total": 4791
+    "original_total": 4780
   },
   "products": [
     {
@@ -4450,7 +4450,7 @@
       "id": "220753",
       "sku": "220753",
       "ean": "4015493221166",
-      "name": "Organizator pentru Ghidon M-WAVE COCKPIT PLUS",
+      "name": "Organizator Ghidon M-WAVE COCKPIT PLUS",
       "brand": "M-WAVE",
       "category": "Ghidoane",
       "category_path": "Componente > Ghidoane - Directie > Ghidoane",
@@ -4460,12 +4460,12 @@
       "availability": "limited",
       "stock_quantity": 3,
       "weight_kg": 0.07,
-      "url": "https://www.bikestylish.ro/organizator-pentru-ghidon-m-wave-cockpit-plus.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/organizator-pentru-ghidon-m-wave-cockpit-plus~8279041.jpg",
+      "url": "https://www.bikestylish.ro/organizator-ghidon-m-wave-cockpit-plus.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/organizator-ghidon-m-wave-cockpit-plus~8279041.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/organizator-pentru-ghidon-m-wave-cockpit-plus~8279041.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/organizator-pentru-ghidon-m-wave-cockpit-plus~8279974.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/organizator-pentru-ghidon-m-wave-cockpit-plus~8279971.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/1/organizator-ghidon-m-wave-cockpit-plus~8279041.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/organizator-ghidon-m-wave-cockpit-plus~8279974.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/organizator-ghidon-m-wave-cockpit-plus~8279971.jpg"
       ],
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
@@ -6474,7 +6474,7 @@
       "price_net": 6.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 84,
+      "stock_quantity": 83,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/suport-sa-metal-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/suport-sa-metal-negru~8280232.jpg",
@@ -7828,8 +7828,8 @@
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "product_count": 51,
-      "in_stock_count": 31
+      "product_count": 44,
+      "in_stock_count": 32
     },
     {
       "id": "ghidoane-directie",
@@ -7884,7 +7884,7 @@
       "id": "lanturi",
       "name": "Lanturi",
       "full_path": "Componente > Transmisie > Lanturi > Lanturi",
-      "product_count": 77,
+      "product_count": 76,
       "in_stock_count": 58
     },
     {
@@ -7933,7 +7933,7 @@
       "id": "mansoane",
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
-      "product_count": 96,
+      "product_count": 95,
       "in_stock_count": 69
     },
     {
@@ -8004,7 +8004,7 @@
       "name": "Pedale Platforma",
       "full_path": "Componente > Pedale > Pedale Platforma",
       "product_count": 147,
-      "in_stock_count": 90
+      "in_stock_count": 89
     },
     {
       "id": "pedaliere",
@@ -8024,13 +8024,13 @@
       "id": "pinioane-casetate",
       "name": "Pinioane Casetate",
       "full_path": "Componente > Transmisie > Pinioane > Pinioane Casetate",
-      "product_count": 10,
+      "product_count": 8,
       "in_stock_count": 5
     },
     {
-      "id": "pionioane-filetate",
-      "name": "Pionioane Filetate",
-      "full_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
+      "id": "pinioane-filetate",
+      "name": "Pinioane Filetate",
+      "full_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
       "product_count": 42,
       "in_stock_count": 29
     },
@@ -8088,7 +8088,7 @@
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
       "product_count": 45,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "protectii-lant",

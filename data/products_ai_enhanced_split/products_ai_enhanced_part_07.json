@@ -1,70 +1,14 @@
 {
-  "last_updated": "2026-10-17T03:10:42.158322+00:00",
+  "last_updated": "2026-10-18T03:11:06.163237+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
     "total_parts": 20,
     "product_range": "1501-1750",
-    "original_total": 4791
+    "original_total": 4780
   },
   "products": [
-    {
-      "id": "356141",
-      "sku": "356141",
-      "ean": "887539028886",
-      "name": "Brat Dreapta SAMOX BOSCH GEN 3 - 160 mm Offset 5 mm",
-      "brand": "M-WAVE",
-      "category": "Angrenaje",
-      "category_path": "Componente > Transmisie > Pedaliere > Angrenaje",
-      "price": 93.5,
-      "price_net": 77.27,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
-      "weight_kg": 0.26,
-      "url": "https://www.bikestylish.ro/brat-dreapta-samox-bosch-gen-3-160-mm-offset-5-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/brat-dreapta-samox-bosch-gen-3-160-mm-offset-5-mm~8289535.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/brat-dreapta-samox-bosch-gen-3-160-mm-offset-5-mm~8289535.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/brat-dreapta-samox-bosch-gen-3-160-mm-offset-5-mm~11370732.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/brat-dreapta-samox-bosch-gen-3-160-mm-offset-5-mm~11370735.jpg"
-      ],
-      "category_description": "Cranksets - pedal arms and chainrings",
-      "tags": [
-        "Angrenaje",
-        "Componente",
-        "M-WAVE"
-      ]
-    },
-    {
-      "id": "430771",
-      "sku": "430771",
-      "ean": "2802065000005",
-      "name": "Cric de Mijloc SXT AS 26\"-28\" Negru",
-      "brand": "SXT",
-      "category": "Cricuri Mijloc",
-      "category_path": "Accesorii > Cricuri Bicicleta > Cricuri Mijloc",
-      "price": 64.9,
-      "price_net": 53.64,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 17,
-      "weight_kg": 0.62,
-      "url": "https://www.bikestylish.ro/cric-de-mijloc-sxt-as-26-28-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cric-de-mijloc-sxt-as-26-28-negru~8289538.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/cric-de-mijloc-sxt-as-26-28-negru~8289538.jpg"
-      ],
-      "tags": [
-        "Accesorii",
-        "Cricuri Mijloc",
-        "SXT"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
     {
       "id": "431541",
       "sku": "431541",
@@ -1055,7 +999,7 @@
       "id": "303511",
       "sku": "303511",
       "ean": "4715575890197",
-      "name": "Lant KMC X 12 Gold 126z",
+      "name": "Lant KMC X12 Gold 12 viteze 126 zale",
       "brand": "KMC",
       "category": "Lanturi",
       "category_path": "Componente > Transmisie > Lanturi > Lanturi",
@@ -1065,27 +1009,29 @@
       "availability": "in_stock",
       "stock_quantity": 6,
       "weight_kg": 0.3,
-      "url": "https://www.bikestylish.ro/lant-kmc-x-12-gold-126z.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/lant-kmc-x-12-gold-126z~8290534.jpg",
+      "url": "https://www.bikestylish.ro/lant-kmc-x12-gold-12-viteze-126-zale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/lant-kmc-x12-gold-12-viteze-126-zale~8290534.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/lant-kmc-x-12-gold-126z~8290534.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/lant-kmc-x-12-gold-126z~8291134.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/4/lant-kmc-x12-gold-12-viteze-126-zale~8290534.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/lant-kmc-x12-gold-12-viteze-126-zale~8291134.jpg"
       ],
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
+        "12 viteze",
         "Componente",
         "KMC",
         "Lanturi"
       ],
       "specs": {
-        "color": "Gold"
+        "color": "Gold",
+        "speeds": 12
       }
     },
     {
       "id": "303565",
       "sku": "303565",
       "ean": "4715575890449",
-      "name": "Lant KMC X10 Silver-Negru 114 Z",
+      "name": "Lant KMC X10 Silver-Negru 10 viteze 114 zale",
       "brand": "KMC",
       "category": "Lanturi",
       "category_path": "Componente > Transmisie > Lanturi > Lanturi",
@@ -1095,20 +1041,22 @@
       "availability": "limited",
       "stock_quantity": 2,
       "weight_kg": 0.3,
-      "url": "https://www.bikestylish.ro/lant-kmc-x10-silver-negru-114-z.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-x10-silver-negru-114-z~8291137.jpg",
+      "url": "https://www.bikestylish.ro/lant-kmc-x10-silver-negru-10-viteze-114-zale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-x10-silver-negru-10-viteze-114-zale~8291137.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-x10-silver-negru-114-z~8291137.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-x10-silver-negru-114-z~8290537.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-x10-silver-negru-10-viteze-114-zale~8291137.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-x10-silver-negru-10-viteze-114-zale~8290537.jpg"
       ],
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
+        "10 viteze",
         "Componente",
         "KMC",
         "Lanturi"
       ],
       "specs": {
-        "color": "Negru"
+        "color": "Negru",
+        "speeds": 10
       }
     },
     {
@@ -1468,7 +1416,7 @@
       "id": "301908",
       "sku": "301908",
       "ean": "887539026936",
-      "name": "Lant M-WAVE 8v 116z 1/2x3/32 Anti-Rust",
+      "name": "Lant M-WAVE 8 viteze 116 zale Anti-Rust",
       "brand": "M-WAVE",
       "category": "Lanturi",
       "category_path": "Componente > Transmisie > Lanturi > Lanturi",
@@ -1478,11 +1426,11 @@
       "availability": "in_stock",
       "stock_quantity": 27,
       "weight_kg": 0.37,
-      "url": "https://www.bikestylish.ro/lant-m-wave-8v-116z-1-2x3-32-anti-rust.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/lant-m-wave-8v-116z-1-2x3-32-anti-rust~8290576.jpg",
+      "url": "https://www.bikestylish.ro/lant-m-wave-8-viteze-116-zale-anti-rust.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/lant-m-wave-8-viteze-116-zale-anti-rust~8290576.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/lant-m-wave-8v-116z-1-2x3-32-anti-rust~8290576.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/lant-m-wave-8v-116z-1-2x3-32-anti-rust~12601392.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/6/lant-m-wave-8-viteze-116-zale-anti-rust~8290576.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/lant-m-wave-8-viteze-116-zale-anti-rust~12601392.jpg"
       ],
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
@@ -2508,7 +2456,7 @@
     {
       "id": "403972",
       "sku": "403972",
-      "name": "Ghidon M-WAVE HB-C2.1 660/31.8 mm Negru",
+      "name": "Ghidon M-WAVE HB-C2.1 660-31.8 mm Negru",
       "brand": "M-WAVE",
       "category": "Ghidoane",
       "category_path": "Componente > Ghidoane - Directie > Ghidoane",
@@ -3269,23 +3217,29 @@
       "id": "MFM2A6DS",
       "sku": "MFM2A6DS",
       "ean": "4710944259599",
-      "name": "Pinion Filetat SUNRACE MFM2A 6 V - 14-28T Zinc",
-      "category": "Pionioane Filetate",
-      "category_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
-      "price": 44.0,
-      "price_net": 36.36,
+      "name": "Pinion Filetat SUNRACE MFM2A 6 viteze 14-28T Zinc",
+      "brand": "SHIMANO",
+      "category": "Pinioane Filetate",
+      "category_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
+      "price": 48.0,
+      "price_net": 39.67,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 55,
-      "url": "https://www.bikestylish.ro/pinion-filetat-sunrace-mfm2a-6-v-14-28t-zinc.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-filetat-sunrace-mfm2a-6-v-14-28t-zinc~8290798.jpg",
+      "url": "https://www.bikestylish.ro/pinion-filetat-sunrace-mfm2a-6-viteze-14-28t-zinc.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-filetat-sunrace-mfm2a-6-viteze-14-28t-zinc~8290798.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-filetat-sunrace-mfm2a-6-v-14-28t-zinc~8290798.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-filetat-sunrace-mfm2a-6-viteze-14-28t-zinc~8290798.jpg"
       ],
       "tags": [
+        "6 viteze",
         "Componente",
-        "Pionioane Filetate"
-      ]
+        "Pinioane Filetate",
+        "SHIMANO"
+      ],
+      "specs": {
+        "speeds": 6
+      }
     },
     {
       "id": "DLM903L3HP",
@@ -3681,24 +3635,24 @@
       "id": "325484",
       "sku": "325484",
       "ean": "2802086000008",
-      "name": "Pinion 1 v SXT 16T 1/2x3/32 Negru",
+      "name": "Pinion SXT 1 viteza 16T 1/2x3/32 Negru",
       "brand": "SXT",
-      "category": "Pionioane Filetate",
-      "category_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
+      "category": "Pinioane Filetate",
+      "category_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
       "price": 12.1,
       "price_net": 10.0,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 20,
       "weight_kg": 0.04,
-      "url": "https://www.bikestylish.ro/pinion-1-v-sxt-16t-1-2x3-32-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-1-v-sxt-16t-1-2x3-32-negru~8290849.jpg",
+      "url": "https://www.bikestylish.ro/pinion-sxt-1-viteza-16t-1-2x3-32-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-sxt-1-viteza-16t-1-2x3-32-negru~8290849.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-1-v-sxt-16t-1-2x3-32-negru~8290849.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-sxt-1-viteza-16t-1-2x3-32-negru~8290849.jpg"
       ],
       "tags": [
         "Componente",
-        "Pionioane Filetate",
+        "Pinioane Filetate",
         "SXT"
       ],
       "specs": {
@@ -4559,7 +4513,7 @@
       "id": "300583",
       "sku": "300583",
       "ean": "2801574000001",
-      "name": "Lant KMC Z8 6-7-8 v Grey 116 z",
+      "name": "Lant KMC Z8 Grey 6-7-8 viteze 116 zale",
       "brand": "KMC",
       "category": "Lanturi",
       "category_path": "Componente > Transmisie > Lanturi > Lanturi",
@@ -4569,62 +4523,58 @@
       "availability": "in_stock",
       "stock_quantity": 19,
       "weight_kg": 0.22,
-      "url": "https://www.bikestylish.ro/lant-kmc-z8-6-7-8-v-grey-116-z.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-z8-6-7-8-v-grey-116-z~8290945.jpg",
+      "url": "https://www.bikestylish.ro/lant-kmc-z8-grey-6-7-8-viteze-116-zale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-z8-grey-6-7-8-viteze-116-zale~8290945.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-z8-6-7-8-v-grey-116-z~8290945.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-z8-grey-6-7-8-viteze-116-zale~8290945.jpg"
       ],
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
+        "8 viteze",
         "Componente",
         "KMC",
         "Lanturi"
       ],
       "specs": {
-        "color": "Grey"
+        "color": "Grey",
+        "speeds": 8
       }
     },
     {
       "id": "350087",
       "sku": "350087",
       "ean": "8719189051049",
-      "name": "Pinion E-Bike KMC Shimano 1/2x3/32 - 17 T",
+      "name": "Pinion KMC 1/2x3/32\" 17T Shimano",
       "brand": "KMC",
-      "category": "Pionioane Filetate",
-      "category_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
+      "category": "Pinioane Filetate",
+      "category_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 46,
       "weight_kg": 0.06,
-      "url": "https://www.bikestylish.ro/pinion-e-bike-kmc-shimano-1-2x3-32-17-t.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-e-bike-kmc-shimano-1-2x3-32-17-t~8290948.jpg",
+      "url": "https://www.bikestylish.ro/pinion-kmc-1-2x3-32-17t-shimano.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-kmc-1-2x3-32-17t-shimano~8290948.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-e-bike-kmc-shimano-1-2x3-32-17-t~8290948.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-e-bike-kmc-shimano-1-2x3-32-17-t~8292001.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-e-bike-kmc-shimano-1-2x3-32-17-t~8291998.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-kmc-1-2x3-32-17t-shimano~8290948.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-kmc-1-2x3-32-17t-shimano~8292001.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-kmc-1-2x3-32-17t-shimano~8291998.jpg"
       ],
       "tags": [
         "Componente",
-        "E-Bike",
         "KMC",
-        "Pionioane Filetate"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ]
-      }
+        "Pinioane Filetate"
+      ]
     },
     {
       "id": "350091",
       "sku": "350091",
       "ean": "8719189051056",
-      "name": "Pinion E-Bike KMC Shimano 1/2x3/32 - 18 T",
+      "name": "Pinion KMC 1/2x3/32\" 18T Shimano",
       "brand": "KMC",
-      "category": "Pionioane Filetate",
-      "category_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
+      "category": "Pinioane Filetate",
+      "category_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
       "secondary_categories": [
         "E-Mobility > Componente E-Bike"
       ],
@@ -4634,33 +4584,27 @@
       "availability": "in_stock",
       "stock_quantity": 29,
       "weight_kg": 0.06,
-      "url": "https://www.bikestylish.ro/pinion-e-bike-kmc-shimano-1-2x3-32-18-t.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-e-bike-kmc-shimano-1-2x3-32-18-t~8290951.jpg",
+      "url": "https://www.bikestylish.ro/pinion-kmc-1-2x3-32-18t-shimano.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-kmc-1-2x3-32-18t-shimano~8290951.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-e-bike-kmc-shimano-1-2x3-32-18-t~8290951.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/pinion-e-bike-kmc-shimano-1-2x3-32-18-t~11642937.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pinion-e-bike-kmc-shimano-1-2x3-32-18-t~8292004.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-kmc-1-2x3-32-18t-shimano~8290951.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/pinion-kmc-1-2x3-32-18t-shimano~11642937.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/pinion-kmc-1-2x3-32-18t-shimano~8292004.jpg"
       ],
       "tags": [
         "Componente",
-        "E-Bike",
         "KMC",
-        "Pionioane Filetate"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ]
-      }
+        "Pinioane Filetate"
+      ]
     },
     {
       "id": "350089",
       "sku": "350089",
       "ean": "8719189051063",
-      "name": "Pinion E-Bike KMC Shimano 1/2x3/32 - 19 T",
+      "name": "Pinion KMC 1/2x3/32\" 19T Shimano",
       "brand": "KMC",
-      "category": "Pionioane Filetate",
-      "category_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
+      "category": "Pinioane Filetate",
+      "category_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
       "secondary_categories": [
         "E-Mobility > Componente E-Bike"
       ],
@@ -4670,24 +4614,18 @@
       "availability": "in_stock",
       "stock_quantity": 37,
       "weight_kg": 0.07,
-      "url": "https://www.bikestylish.ro/pinion-e-bike-kmc-shimano-1-2x3-32-19-t.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pinion-e-bike-kmc-shimano-1-2x3-32-19-t~8290954.jpg",
+      "url": "https://www.bikestylish.ro/pinion-kmc-1-2x3-32-19t-shimano.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pinion-kmc-1-2x3-32-19t-shimano~8290954.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pinion-e-bike-kmc-shimano-1-2x3-32-19-t~8290954.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pinion-e-bike-kmc-shimano-1-2x3-32-19-t~11642514.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pinion-e-bike-kmc-shimano-1-2x3-32-19-t~8292010.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/4/pinion-kmc-1-2x3-32-19t-shimano~8290954.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/pinion-kmc-1-2x3-32-19t-shimano~11642514.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/pinion-kmc-1-2x3-32-19t-shimano~8292010.jpg"
       ],
       "tags": [
         "Componente",
-        "E-Bike",
         "KMC",
-        "Pionioane Filetate"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ]
-      }
+        "Pinioane Filetate"
+      ]
     },
     {
       "id": "340295",
@@ -4839,7 +4777,7 @@
       "id": "301902",
       "sku": "301902",
       "ean": "887539006815",
-      "name": "Lant M-WAVE 9 v - 116 z (1/2x11/128)",
+      "name": "Lant M-WAVE 9 viteze 116 zale",
       "brand": "M-WAVE",
       "category": "Lanturi",
       "category_path": "Componente > Transmisie > Lanturi > Lanturi",
@@ -4849,18 +4787,22 @@
       "availability": "in_stock",
       "stock_quantity": 60,
       "weight_kg": 0.37,
-      "url": "https://www.bikestylish.ro/lant-m-wave-9-v-116-z-1-2x11-128.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/lant-m-wave-9-v-116-z-1-2x11-128~8290972.jpg",
+      "url": "https://www.bikestylish.ro/lant-m-wave-9-viteze-116-zale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/lant-m-wave-9-viteze-116-zale~8290972.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/lant-m-wave-9-v-116-z-1-2x11-128~8290972.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/lant-m-wave-9-v-116-z-1-2x11-128~12601389.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/2/lant-m-wave-9-viteze-116-zale~8290972.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/lant-m-wave-9-viteze-116-zale~12601389.jpg"
       ],
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
+        "9 viteze",
         "Componente",
         "Lanturi",
         "M-WAVE"
-      ]
+      ],
+      "specs": {
+        "speeds": 9
+      }
     },
     {
       "id": "390320",
@@ -7146,7 +7088,7 @@
       "price_net": 140.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 10,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d484-canyon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d484-canyon~8292358.jpg",
@@ -7190,6 +7132,56 @@
         ],
         "dimensions": "12 x 142"
       }
+    },
+    {
+      "id": "D578",
+      "sku": "D578",
+      "ean": "7290107115964",
+      "name": "Ureche Cadru PILO D578 Focus, Kalkhoff, Raleigh, Univega",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 165.0,
+      "price_net": 136.36,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 12,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d578-focus-kalkhoff-raleigh-univega.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d578-focus-kalkhoff-raleigh-univega~8292364.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d578-focus-kalkhoff-raleigh-univega~8292364.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D593",
+      "sku": "D593",
+      "ean": "7290107116114",
+      "name": "Ureche Cadru PILO D593 Cube Aim 2015",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 143.0,
+      "price_net": 118.18,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 13,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d593-cube-aim-2015.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d593-cube-aim-2015~8292367.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d593-cube-aim-2015~8292367.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7666,8 +7658,8 @@
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "product_count": 51,
-      "in_stock_count": 31
+      "product_count": 44,
+      "in_stock_count": 32
     },
     {
       "id": "ghidoane-directie",
@@ -7722,7 +7714,7 @@
       "id": "lanturi",
       "name": "Lanturi",
       "full_path": "Componente > Transmisie > Lanturi > Lanturi",
-      "product_count": 77,
+      "product_count": 76,
       "in_stock_count": 58
     },
     {
@@ -7771,7 +7763,7 @@
       "id": "mansoane",
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
-      "product_count": 96,
+      "product_count": 95,
       "in_stock_count": 69
     },
     {
@@ -7842,7 +7834,7 @@
       "name": "Pedale Platforma",
       "full_path": "Componente > Pedale > Pedale Platforma",
       "product_count": 147,
-      "in_stock_count": 90
+      "in_stock_count": 89
     },
     {
       "id": "pedaliere",
@@ -7862,13 +7854,13 @@
       "id": "pinioane-casetate",
       "name": "Pinioane Casetate",
       "full_path": "Componente > Transmisie > Pinioane > Pinioane Casetate",
-      "product_count": 10,
+      "product_count": 8,
       "in_stock_count": 5
     },
     {
-      "id": "pionioane-filetate",
-      "name": "Pionioane Filetate",
-      "full_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
+      "id": "pinioane-filetate",
+      "name": "Pinioane Filetate",
+      "full_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
       "product_count": 42,
       "in_stock_count": 29
     },
@@ -7926,7 +7918,7 @@
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
       "product_count": 45,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "protectii-lant",

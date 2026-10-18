@@ -1,64 +1,14 @@
 {
-  "last_updated": "2026-10-17T03:10:42.158322+00:00",
+  "last_updated": "2026-10-18T03:11:06.163237+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 8,
     "total_parts": 20,
     "product_range": "1751-2000",
-    "original_total": 4791
+    "original_total": 4780
   },
   "products": [
-    {
-      "id": "D578",
-      "sku": "D578",
-      "ean": "7290107115964",
-      "name": "Ureche Cadru PILO D578 Focus, Kalkhoff, Raleigh, Univega",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 165.0,
-      "price_net": 136.36,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 12,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d578-focus-kalkhoff-raleigh-univega.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d578-focus-kalkhoff-raleigh-univega~8292364.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d578-focus-kalkhoff-raleigh-univega~8292364.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D593",
-      "sku": "D593",
-      "ean": "7290107116114",
-      "name": "Ureche Cadru PILO D593 Cube Aim 2015",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 143.0,
-      "price_net": 118.18,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 13,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d593-cube-aim-2015.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d593-cube-aim-2015~8292367.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d593-cube-aim-2015~8292367.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D707",
       "sku": "D707",
@@ -1909,7 +1859,7 @@
       "id": "303505",
       "sku": "303505",
       "ean": "4715575895819",
-      "name": "Lant KMC DLC 12 Negru - Galben 126 z",
+      "name": "Lant KMC DLC12 Negru-Galben 12 viteze 126 zale",
       "brand": "KMC",
       "category": "Lanturi",
       "category_path": "Componente > Transmisie > Lanturi > Lanturi",
@@ -1922,21 +1872,23 @@
       "availability": "limited",
       "stock_quantity": 2,
       "weight_kg": 0.28,
-      "url": "https://www.bikestylish.ro/lant-kmc-dlc-12-negru-galben-126-z.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/lant-kmc-dlc-12-negru-galben-126-z~8292583.jpg",
+      "url": "https://www.bikestylish.ro/lant-kmc-dlc12-negru-galben-12-viteze-126-zale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/lant-kmc-dlc12-negru-galben-12-viteze-126-zale~8292583.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/lant-kmc-dlc-12-negru-galben-126-z~8292583.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-dlc-12-negru-galben-126-z~8293255.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-dlc-12-negru-galben-126-z~11689857.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/3/lant-kmc-dlc12-negru-galben-12-viteze-126-zale~8292583.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-dlc12-negru-galben-12-viteze-126-zale~8293255.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-dlc12-negru-galben-12-viteze-126-zale~11689857.jpg"
       ],
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
+        "12 viteze",
         "Componente",
         "KMC",
         "Lanturi"
       ],
       "specs": {
-        "color": "Negru"
+        "color": "Negru",
+        "speeds": 12
       }
     },
     {
@@ -2172,8 +2124,8 @@
       "brand": "SXT",
       "category": "Mansoane",
       "category_path": "Componente > Ghidoane - Directie > Mansoane",
-      "price": 24.2,
-      "price_net": 20.0,
+      "price": 22.0,
+      "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 35,
@@ -2230,8 +2182,8 @@
       "brand": "SXT",
       "category": "Mansoane",
       "category_path": "Componente > Ghidoane - Directie > Mansoane",
-      "price": 24.2,
-      "price_net": 20.0,
+      "price": 22.0,
+      "price_net": 18.18,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -4431,7 +4383,7 @@
       "price_net": 30.58,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 1003,
+      "stock_quantity": 1001,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/camera-kenda-14-x-2-50-av-valva-45.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kenda-14-x-2-50-av-valva-45~8324272.jpg",
@@ -5563,7 +5515,7 @@
       "id": "303538",
       "sku": "303538",
       "ean": "4715575890296",
-      "name": "Lant KMC X11 Silver-Negru 114 Zale",
+      "name": "Lant KMC X11 Silver-Negru 11 viteze 114 zale",
       "brand": "KMC",
       "category": "Lanturi",
       "category_path": "Componente > Transmisie > Lanturi > Lanturi",
@@ -5573,21 +5525,23 @@
       "availability": "out_of_stock",
       "stock_quantity": 0,
       "weight_kg": 0.32,
-      "url": "https://www.bikestylish.ro/lant-kmc-x11-silver-negru-114-zale.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-x11-silver-negru-114-zale~8324875.jpg",
+      "url": "https://www.bikestylish.ro/lant-kmc-x11-silver-negru-11-viteze-114-zale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-x11-silver-negru-11-viteze-114-zale~8324875.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-x11-silver-negru-114-zale~8324875.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/lant-kmc-x11-silver-negru-114-zale~8324878.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/lant-kmc-x11-silver-negru-114-zale~8324881.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-x11-silver-negru-11-viteze-114-zale~8324875.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/lant-kmc-x11-silver-negru-11-viteze-114-zale~8324878.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/lant-kmc-x11-silver-negru-11-viteze-114-zale~8324881.jpg"
       ],
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
+        "11 viteze",
         "Componente",
         "KMC",
         "Lanturi"
       ],
       "specs": {
-        "color": "Negru"
+        "color": "Negru",
+        "speeds": 11
       }
     },
     {
@@ -5717,7 +5671,7 @@
       "id": "303531",
       "sku": "303531",
       "ean": "4715575890227",
-      "name": "Lant KMC 11SL TI-N Gold",
+      "name": "Lant KMC 11SL TI-N Gold 11 viteze",
       "brand": "KMC",
       "category": "Lanturi",
       "category_path": "Componente > Transmisie > Lanturi > Lanturi",
@@ -5726,28 +5680,30 @@
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/lant-kmc-11sl-ti-n-gold.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/lant-kmc-11sl-ti-n-gold~8324941.jpg",
+      "url": "https://www.bikestylish.ro/lant-kmc-11sl-ti-n-gold-11-viteze.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/lant-kmc-11sl-ti-n-gold-11-viteze~8324941.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/lant-kmc-11sl-ti-n-gold~8324941.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/lant-kmc-11sl-ti-n-gold~8324944.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-11sl-ti-n-gold~8324947.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/1/lant-kmc-11sl-ti-n-gold-11-viteze~8324941.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/lant-kmc-11sl-ti-n-gold-11-viteze~8324944.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-11sl-ti-n-gold-11-viteze~8324947.jpg"
       ],
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
+        "11 viteze",
         "Componente",
         "KMC",
         "Lanturi"
       ],
       "specs": {
-        "color": "Gold"
+        "color": "Gold",
+        "speeds": 11
       }
     },
     {
       "id": "303562",
       "sku": "303562",
       "ean": "4715575890364",
-      "name": "Lant KMC X10EL Gold TI-N",
+      "name": "Lant KMC X10EL Gold TI-N 10 viteze 114 zale",
       "brand": "KMC",
       "category": "Lanturi",
       "category_path": "Componente > Transmisie > Lanturi > Lanturi",
@@ -5756,22 +5712,24 @@
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/lant-kmc-x10el-gold-ti-n.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/lant-kmc-x10el-gold-ti-n~8324950.jpg",
+      "url": "https://www.bikestylish.ro/lant-kmc-x10el-gold-ti-n-10-viteze-114-zale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/lant-kmc-x10el-gold-ti-n-10-viteze-114-zale~8324950.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/lant-kmc-x10el-gold-ti-n~8324950.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/lant-kmc-x10el-gold-ti-n~8324953.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-x10el-gold-ti-n~8324956.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/lant-kmc-x10el-gold-ti-n~8324959.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/0/lant-kmc-x10el-gold-ti-n-10-viteze-114-zale~8324950.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/lant-kmc-x10el-gold-ti-n-10-viteze-114-zale~8324953.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-x10el-gold-ti-n-10-viteze-114-zale~8324956.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/lant-kmc-x10el-gold-ti-n-10-viteze-114-zale~8324959.jpg"
       ],
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
+        "10 viteze",
         "Componente",
         "KMC",
         "Lanturi"
       ],
       "specs": {
-        "color": "Gold"
+        "color": "Gold",
+        "speeds": 10
       }
     },
     {
@@ -5807,7 +5765,7 @@
       "id": "303500",
       "sku": "303500",
       "ean": "2801951000006",
-      "name": "Lant KMC DLC 12-Negru",
+      "name": "Lant KMC DLC12 Negru 12 viteze 118 zale",
       "brand": "KMC",
       "category": "Lanturi",
       "category_path": "Componente > Transmisie > Lanturi > Lanturi",
@@ -5816,20 +5774,22 @@
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/lant-kmc-dlc-12-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/lant-kmc-dlc-12-negru~8324998.jpg",
+      "url": "https://www.bikestylish.ro/lant-kmc-dlc12-negru-12-viteze-118-zale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/lant-kmc-dlc12-negru-12-viteze-118-zale~8324998.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/lant-kmc-dlc-12-negru~8324998.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/lant-kmc-dlc-12-negru~8325001.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/8/lant-kmc-dlc12-negru-12-viteze-118-zale~8324998.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/lant-kmc-dlc12-negru-12-viteze-118-zale~8325001.jpg"
       ],
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
+        "12 viteze",
         "Componente",
         "KMC",
         "Lanturi"
       ],
       "specs": {
-        "color": "Negru"
+        "color": "Negru",
+        "speeds": 12
       }
     },
     {
@@ -7088,6 +7048,62 @@
       "specs": {
         "color": "Negru"
       }
+    },
+    {
+      "id": "360841",
+      "sku": "360841",
+      "ean": "4015493890201",
+      "name": "Set Franare PROMAX-Alb",
+      "brand": "PROMAX",
+      "category": "Frane V - Break",
+      "category_path": "Componente > Sisteme Franare > Frane V - Break",
+      "price": 132.0,
+      "price_net": 109.09,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.7,
+      "url": "https://www.bikestylish.ro/set-franare-promax-alb.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-franare-promax-alb~8325484.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/set-franare-promax-alb~8325484.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/set-franare-promax-alb~8325487.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/set-franare-promax-alb~8325490.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "Frane V - Break",
+        "PROMAX"
+      ],
+      "specs": {
+        "color": "Alb"
+      }
+    },
+    {
+      "id": "360741",
+      "sku": "360741",
+      "ean": "887539015336",
+      "name": "Placute Frana M-WAVE SRAM X0 Organice",
+      "brand": "M-WAVE",
+      "category": "Placute Frana",
+      "category_path": "Componente > Sisteme Franare > Placute Frana",
+      "price": 33.0,
+      "price_net": 27.27,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/placute-frana-m-wave-sram-x0-organice.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/placute-frana-m-wave-sram-x0-organice~8325493.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/placute-frana-m-wave-sram-x0-organice~8325493.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/placute-frana-m-wave-sram-x0-organice~8325496.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "M-WAVE",
+        "Placute Frana"
+      ]
     }
   ],
   "categories": [
@@ -7564,8 +7580,8 @@
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "product_count": 51,
-      "in_stock_count": 31
+      "product_count": 44,
+      "in_stock_count": 32
     },
     {
       "id": "ghidoane-directie",
@@ -7620,7 +7636,7 @@
       "id": "lanturi",
       "name": "Lanturi",
       "full_path": "Componente > Transmisie > Lanturi > Lanturi",
-      "product_count": 77,
+      "product_count": 76,
       "in_stock_count": 58
     },
     {
@@ -7669,7 +7685,7 @@
       "id": "mansoane",
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
-      "product_count": 96,
+      "product_count": 95,
       "in_stock_count": 69
     },
     {
@@ -7740,7 +7756,7 @@
       "name": "Pedale Platforma",
       "full_path": "Componente > Pedale > Pedale Platforma",
       "product_count": 147,
-      "in_stock_count": 90
+      "in_stock_count": 89
     },
     {
       "id": "pedaliere",
@@ -7760,13 +7776,13 @@
       "id": "pinioane-casetate",
       "name": "Pinioane Casetate",
       "full_path": "Componente > Transmisie > Pinioane > Pinioane Casetate",
-      "product_count": 10,
+      "product_count": 8,
       "in_stock_count": 5
     },
     {
-      "id": "pionioane-filetate",
-      "name": "Pionioane Filetate",
-      "full_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
+      "id": "pinioane-filetate",
+      "name": "Pinioane Filetate",
+      "full_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
       "product_count": 42,
       "in_stock_count": 29
     },
@@ -7824,7 +7840,7 @@
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
       "product_count": 45,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "protectii-lant",

@@ -1,128 +1,14 @@
 {
-  "last_updated": "2026-10-17T03:10:42.158322+00:00",
+  "last_updated": "2026-10-18T03:11:06.163237+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
     "total_parts": 20,
     "product_range": "2251-2500",
-    "original_total": 4791
+    "original_total": 4780
   },
   "products": [
-    {
-      "id": "C644603",
-      "sku": "C644603",
-      "ean": "8051406522971",
-      "name": "Ghidolina DEDA TAPE Albastru Ocean Dark",
-      "brand": "DEDA ELEMENTI",
-      "category": "Bar Tape - Accesorii",
-      "category_path": "Componente > Ghidoane - Directie > Bar Tape - Accesorii",
-      "price": 79.2,
-      "price_net": 65.45,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/ghidolina-deda-tape-albastru-ocean-dark.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ghidolina-deda-tape-albastru-ocean-dark~8327686.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ghidolina-deda-tape-albastru-ocean-dark~8327686.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ghidolina-deda-tape-albastru-ocean-dark~8327689.jpg"
-      ],
-      "tags": [
-        "Bar Tape - Accesorii",
-        "Componente",
-        "DEDA ELEMENTI"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
-    {
-      "id": "C644608",
-      "sku": "C644608",
-      "ean": "8051406522964",
-      "name": "Ghidolina DEDA TAPE Orange",
-      "brand": "DEDA ELEMENTI",
-      "category": "Bar Tape - Accesorii",
-      "category_path": "Componente > Ghidoane - Directie > Bar Tape - Accesorii",
-      "price": 79.2,
-      "price_net": 65.45,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.05,
-      "url": "https://www.bikestylish.ro/ghidolina-deda-tape-orange.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ghidolina-deda-tape-orange~8327692.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ghidolina-deda-tape-orange~8327692.jpg"
-      ],
-      "tags": [
-        "Bar Tape - Accesorii",
-        "Componente",
-        "DEDA ELEMENTI"
-      ],
-      "specs": {
-        "color": "Orange"
-      }
-    },
-    {
-      "id": "C644609",
-      "sku": "C644609",
-      "ean": "8051406522926",
-      "name": "Ghidolina DEDA TAPE Verde",
-      "brand": "DEDA ELEMENTI",
-      "category": "Bar Tape - Accesorii",
-      "category_path": "Componente > Ghidoane - Directie > Bar Tape - Accesorii",
-      "price": 79.2,
-      "price_net": 65.45,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.05,
-      "url": "https://www.bikestylish.ro/ghidolina-deda-tape-verde.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ghidolina-deda-tape-verde~8327695.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ghidolina-deda-tape-verde~8327695.jpg"
-      ],
-      "tags": [
-        "Bar Tape - Accesorii",
-        "Componente",
-        "DEDA ELEMENTI"
-      ],
-      "specs": {
-        "color": "Verde"
-      }
-    },
-    {
-      "id": "C644610",
-      "sku": "C644610",
-      "ean": "8051406523183",
-      "name": "Ghidolina DEDA TAPE Carbon-Negru",
-      "brand": "DEDA ELEMENTI",
-      "category": "Bar Tape - Accesorii",
-      "category_path": "Componente > Ghidoane - Directie > Bar Tape - Accesorii",
-      "price": 93.5,
-      "price_net": 77.27,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.05,
-      "url": "https://www.bikestylish.ro/ghidolina-deda-tape-carbon-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ghidolina-deda-tape-carbon-negru~8327698.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ghidolina-deda-tape-carbon-negru~8327698.jpg"
-      ],
-      "tags": [
-        "Bar Tape - Accesorii",
-        "Carbon",
-        "Componente",
-        "DEDA ELEMENTI"
-      ],
-      "specs": {
-        "material": "Carbon",
-        "color": "Negru"
-      }
-    },
     {
       "id": "C644612",
       "sku": "C644612",
@@ -303,7 +189,7 @@
       "id": "401504",
       "sku": "401504",
       "ean": "2800188000001",
-      "name": "Ghidon MTB ZOOM 620-31.8 mm Negru 9*",
+      "name": "Ghidon ZOOM 620-31.8 mm Negru 9*",
       "brand": "ZOOM",
       "category": "Ghidoane",
       "category_path": "Componente > Ghidoane - Directie > Ghidoane",
@@ -313,22 +199,18 @@
       "availability": "out_of_stock",
       "stock_quantity": 0,
       "weight_kg": 0.26,
-      "url": "https://www.bikestylish.ro/ghidon-mtb-zoom-620-31-8-mm-negru-9.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-mtb-zoom-620-31-8-mm-negru-9~8327734.jpg",
+      "url": "https://www.bikestylish.ro/ghidon-zoom-620-31-8-mm-negru-9.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-zoom-620-31-8-mm-negru-9~8327734.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-mtb-zoom-620-31-8-mm-negru-9~8327734.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-zoom-620-31-8-mm-negru-9~8327734.jpg"
       ],
       "category_description": "Handlebars - flat, riser, drop bar styles",
       "tags": [
         "Componente",
         "Ghidoane",
-        "MTB",
         "ZOOM"
       ],
       "specs": {
-        "bike_type": [
-          "MTB"
-        ],
         "color": "Negru"
       }
     },
@@ -618,10 +500,10 @@
       "id": "350077",
       "sku": "350077",
       "ean": "8719189051131",
-      "name": "Pinion E-Bike KMC Ritzel 20T 1/2—1/8 BOSCH Gen. 2",
+      "name": "Pinion KMC 1/2x1/8\" 20T Bosch Gen. 2",
       "brand": "KMC",
-      "category": "Pionioane Filetate",
-      "category_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
+      "category": "Pinioane Filetate",
+      "category_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
       "secondary_categories": [
         "E-Mobility > Componente E-Bike"
       ],
@@ -631,32 +513,26 @@
       "availability": "out_of_stock",
       "stock_quantity": 0,
       "weight_kg": 0.05,
-      "url": "https://www.bikestylish.ro/pinion-e-bike-kmc-ritzel-20t-1-2-1-8-bosch-gen-2.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pinion-e-bike-kmc-ritzel-20t-1-2%E2%80%941-8-bosch-gen-2~8327863.jpg",
+      "url": "https://www.bikestylish.ro/pinion-kmc-1-2x1-8-20t-bosch-gen-2.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pinion-kmc-1-2x1-8-20t-bosch-gen-2~8327863.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pinion-e-bike-kmc-ritzel-20t-1-2%E2%80%941-8-bosch-gen-2~8327863.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pinion-e-bike-kmc-ritzel-20t-1-2%E2%80%941-8-bosch-gen-2~8327860.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/3/pinion-kmc-1-2x1-8-20t-bosch-gen-2~8327863.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/pinion-kmc-1-2x1-8-20t-bosch-gen-2~8327860.jpg"
       ],
       "tags": [
         "Componente",
-        "E-Bike",
         "KMC",
-        "Pionioane Filetate"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ]
-      }
+        "Pinioane Filetate"
+      ]
     },
     {
       "id": "350079",
       "sku": "350079",
       "ean": "8719189051018",
-      "name": "Pinion E-Bike KMC 15T 1/2—11/128 BOSCH Gen. 2",
+      "name": "Pinion KMC 1/2x11/128\" 15T Bosch Gen. 2",
       "brand": "KMC",
-      "category": "Pionioane Filetate",
-      "category_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
+      "category": "Pinioane Filetate",
+      "category_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
       "secondary_categories": [
         "E-Mobility > Componente E-Bike"
       ],
@@ -666,32 +542,26 @@
       "availability": "out_of_stock",
       "stock_quantity": 0,
       "weight_kg": 0.04,
-      "url": "https://www.bikestylish.ro/pinion-e-bike-kmc-15t-1-2-11-128-bosch-gen-2.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pinion-e-bike-kmc-15t-1-2%E2%80%9411-128-bosch-gen-2~11601144.jpg",
+      "url": "https://www.bikestylish.ro/pinion-kmc-1-2x11-128-15t-bosch-gen-2.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-kmc-1-2x11-128-15t-bosch-gen-2~8327869.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pinion-e-bike-kmc-15t-1-2%E2%80%9411-128-bosch-gen-2~11601144.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-e-bike-kmc-15t-1-2%E2%80%9411-128-bosch-gen-2~8327869.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-kmc-1-2x11-128-15t-bosch-gen-2~8327869.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/pinion-kmc-1-2x11-128-15t-bosch-gen-2~11601144.jpg"
       ],
       "tags": [
         "Componente",
-        "E-Bike",
         "KMC",
-        "Pionioane Filetate"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ]
-      }
+        "Pinioane Filetate"
+      ]
     },
     {
       "id": "350084",
       "sku": "350084",
       "ean": "8719189051094",
-      "name": "Pinion E-Bike KMC Ritzel 19 T 1/2—11/128 BOSCH Gen. 2",
+      "name": "Pinion KMC 1/2x11/128\" 19T Bosch Gen. 2",
       "brand": "KMC",
-      "category": "Pionioane Filetate",
-      "category_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
+      "category": "Pinioane Filetate",
+      "category_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
       "secondary_categories": [
         "E-Mobility > Componente E-Bike"
       ],
@@ -701,32 +571,26 @@
       "availability": "out_of_stock",
       "stock_quantity": 0,
       "weight_kg": 0.12,
-      "url": "https://www.bikestylish.ro/pinion-e-bike-kmc-ritzel-19-t-1-2-11-128-bosch-gen-2.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pinion-e-bike-kmc-ritzel-19-t-1-2%E2%80%9411-128-bosch-gen-2~11600163.jpg",
+      "url": "https://www.bikestylish.ro/pinion-kmc-1-2x11-128-19t-bosch-gen-2.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pinion-kmc-1-2x11-128-19t-bosch-gen-2~11600163.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pinion-e-bike-kmc-ritzel-19-t-1-2%E2%80%9411-128-bosch-gen-2~11600163.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pinion-e-bike-kmc-ritzel-19-t-1-2%E2%80%9411-128-bosch-gen-2~8327872.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/3/pinion-kmc-1-2x11-128-19t-bosch-gen-2~11600163.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/pinion-kmc-1-2x11-128-19t-bosch-gen-2~8327872.jpg"
       ],
       "tags": [
         "Componente",
-        "E-Bike",
         "KMC",
-        "Pionioane Filetate"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ]
-      }
+        "Pinioane Filetate"
+      ]
     },
     {
       "id": "350085",
       "sku": "350085",
       "ean": "8719189051025",
-      "name": "Pinion E-Bike KMC Ritzel 20T 1/2—11/128 BOSCH Gen. 2",
+      "name": "Pinion KMC 1/2x11/128\" 20T Bosch Gen. 2",
       "brand": "KMC",
-      "category": "Pionioane Filetate",
-      "category_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
+      "category": "Pinioane Filetate",
+      "category_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
       "secondary_categories": [
         "E-Mobility > Componente E-Bike"
       ],
@@ -736,24 +600,18 @@
       "availability": "out_of_stock",
       "stock_quantity": 0,
       "weight_kg": 0.05,
-      "url": "https://www.bikestylish.ro/pinion-e-bike-kmc-ritzel-20t-1-2-11-128-bosch-gen-2.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-e-bike-kmc-ritzel-20t-1-2%E2%80%9411-128-bosch-gen-2~11599461.jpg",
+      "url": "https://www.bikestylish.ro/pinion-kmc-1-2x11-128-20t-bosch-gen-2.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-kmc-1-2x11-128-20t-bosch-gen-2~11599461.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-e-bike-kmc-ritzel-20t-1-2%E2%80%9411-128-bosch-gen-2~11599461.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-e-bike-kmc-ritzel-20t-1-2%E2%80%9411-128-bosch-gen-2~8327878.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-e-bike-kmc-ritzel-20t-1-2%E2%80%9411-128-bosch-gen-2~8327881.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-kmc-1-2x11-128-20t-bosch-gen-2~11599461.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-kmc-1-2x11-128-20t-bosch-gen-2~8327878.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/pinion-kmc-1-2x11-128-20t-bosch-gen-2~8327881.jpg"
       ],
       "tags": [
         "Componente",
-        "E-Bike",
         "KMC",
-        "Pionioane Filetate"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ]
-      }
+        "Pinioane Filetate"
+      ]
     },
     {
       "id": "352674",
@@ -761,8 +619,8 @@
       "ean": "2800309000002",
       "name": "Pinion E-Bike BOSCH 14T Metal 1/2X3/32",
       "brand": "SAMOX",
-      "category": "Pionioane Filetate",
-      "category_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
+      "category": "Pinioane Filetate",
+      "category_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
       "secondary_categories": [
         "E-Mobility > Angrenaje E-Bike"
       ],
@@ -779,7 +637,7 @@
       "tags": [
         "Componente",
         "E-Bike",
-        "Pionioane Filetate",
+        "Pinioane Filetate",
         "SAMOX"
       ],
       "specs": {
@@ -794,8 +652,8 @@
       "ean": "2800308000003",
       "name": "Pinion E-Bike BOSCH 16T Metal 1/2X3/32",
       "brand": "SAMOX",
-      "category": "Pionioane Filetate",
-      "category_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
+      "category": "Pinioane Filetate",
+      "category_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
       "secondary_categories": [
         "E-Mobility > Angrenaje E-Bike"
       ],
@@ -812,7 +670,7 @@
       "tags": [
         "Componente",
         "E-Bike",
-        "Pionioane Filetate",
+        "Pinioane Filetate",
         "SAMOX"
       ],
       "specs": {
@@ -1086,7 +944,7 @@
       "id": "303620",
       "sku": "303620",
       "ean": "4715575890623",
-      "name": "Lant KMC X8 Silver-Silver",
+      "name": "Lant KMC X8 Silver 6-7-8 viteze 116 zale",
       "brand": "KMC",
       "category": "Lanturi",
       "category_path": "Componente > Transmisie > Lanturi > Lanturi",
@@ -1096,20 +954,22 @@
       "availability": "out_of_stock",
       "stock_quantity": 0,
       "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/lant-kmc-x8-silver-silver.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-x8-silver-silver~8328067.jpg",
+      "url": "https://www.bikestylish.ro/lant-kmc-x8-silver-6-7-8-viteze-116-zale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-x8-silver-6-7-8-viteze-116-zale~8328067.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-x8-silver-silver~8328067.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/lant-kmc-x8-silver-silver~8328070.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-x8-silver-6-7-8-viteze-116-zale~8328067.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/lant-kmc-x8-silver-6-7-8-viteze-116-zale~8328070.jpg"
       ],
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
+        "8 viteze",
         "Componente",
         "KMC",
         "Lanturi"
       ],
       "specs": {
-        "color": "Silver"
+        "color": "Silver",
+        "speeds": 8
       }
     },
     {
@@ -1264,26 +1124,27 @@
       "id": "306115",
       "sku": "306115",
       "ean": "4715575890067",
-      "name": "Lant E-Bike KMC E-10 -EPT Silver 10 V 136 Zale",
+      "name": "Lant KMC E10 EPT Silver 10 viteze 136 zale e-bike",
       "brand": "KMC",
       "category": "Lanturi",
       "category_path": "Componente > Transmisie > Lanturi > Lanturi",
       "secondary_categories": [
         "E-Mobility > Componente E-Bike"
       ],
-      "price": 328.9,
-      "price_net": 271.82,
+      "price": 280.0,
+      "price_net": 231.4,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 3,
-      "url": "https://www.bikestylish.ro/lant-e-bike-kmc-e-10-ept-silver-10-v-136-zale.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/lant-e-bike-kmc-e-10-ept-silver-10-v-136-zale~8328202.jpg",
+      "url": "https://www.bikestylish.ro/lant-kmc-e10-ept-silver-10-viteze-136-zale-e-bike.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/lant-kmc-e10-ept-silver-10-viteze-136-zale-e-bike~8328202.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/lant-e-bike-kmc-e-10-ept-silver-10-v-136-zale~8328202.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/lant-e-bike-kmc-e-10-ept-silver-10-v-136-zale~8328205.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/2/lant-kmc-e10-ept-silver-10-viteze-136-zale-e-bike~8328202.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-e10-ept-silver-10-viteze-136-zale-e-bike~8328205.jpg"
       ],
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
+        "10 viteze",
         "Componente",
         "E-Bike",
         "KMC",
@@ -1293,7 +1154,8 @@
         "bike_type": [
           "E-Bike"
         ],
-        "color": "Silver"
+        "color": "Silver",
+        "speeds": 10
       }
     },
     {
@@ -3344,34 +3206,6 @@
       }
     },
     {
-      "id": "700168",
-      "sku": "700168",
-      "ean": "2802033000006",
-      "name": "Pinion Casetat VENTURA 8v 11-32T",
-      "brand": "VENTURA",
-      "category": "Pinioane Casetate",
-      "category_path": "Componente > Transmisie > Pinioane > Pinioane Casetate",
-      "price": 115.5,
-      "price_net": 95.45,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/pinion-casetat-ventura-8v-11-32t.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pinion-casetat-ventura-8v-11-32t~8329012.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pinion-casetat-ventura-8v-11-32t~8329012.jpg"
-      ],
-      "tags": [
-        "8 viteze",
-        "Componente",
-        "Pinioane Casetate",
-        "VENTURA"
-      ],
-      "specs": {
-        "speeds": 8
-      }
-    },
-    {
       "id": "715124",
       "sku": "715124",
       "ean": "887539026882",
@@ -4760,41 +4594,6 @@
       }
     },
     {
-      "id": "403500",
-      "sku": "403500",
-      "ean": "887539020132",
-      "name": "Ghidon MTB M-WAVE 700-31.8 mm Negru Matt Anodizat",
-      "brand": "M-WAVE",
-      "category": "Ghidoane",
-      "category_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "price": 82.5,
-      "price_net": 68.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.4,
-      "url": "https://www.bikestylish.ro/ghidon-mtb-m-wave-700-31-8-mm-negru-matt-anodizat.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ghidon-mtb-m-wave-700-31-8-mm-negru-matt-anodizat~8329540.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ghidon-mtb-m-wave-700-31-8-mm-negru-matt-anodizat~8329540.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ghidon-mtb-m-wave-700-31-8-mm-negru-matt-anodizat~8329543.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ghidon-mtb-m-wave-700-31-8-mm-negru-matt-anodizat~8329546.jpg"
-      ],
-      "category_description": "Handlebars - flat, riser, drop bar styles",
-      "tags": [
-        "Componente",
-        "Ghidoane",
-        "M-WAVE",
-        "MTB"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ],
-        "color": "Negru"
-      }
-    },
-    {
       "id": "519191-05445",
       "sku": "519191-05445",
       "ean": "193751005599",
@@ -4958,7 +4757,7 @@
       "id": "303576",
       "sku": "303576",
       "ean": "4715575882789",
-      "name": "Lant KMC X-10 Grey 116 Zale (OEM)",
+      "name": "Lant KMC X10 Grey 10 viteze 116 Zale (OEM)",
       "brand": "KMC",
       "category": "Lanturi",
       "category_path": "Componente > Transmisie > Lanturi > Lanturi",
@@ -4968,19 +4767,21 @@
       "availability": "in_stock",
       "stock_quantity": 21,
       "weight_kg": 0.3,
-      "url": "https://www.bikestylish.ro/lant-kmc-x-10-grey-116-zale-oem.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-x-10-grey-116-zale-oem~8329696.jpg",
+      "url": "https://www.bikestylish.ro/lant-kmc-x10-grey-10-viteze-116-zale-oem.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-x10-grey-10-viteze-116-zale-oem~8329696.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-x-10-grey-116-zale-oem~8329696.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-x10-grey-10-viteze-116-zale-oem~8329696.jpg"
       ],
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
+        "10 viteze",
         "Componente",
         "KMC",
         "Lanturi"
       ],
       "specs": {
-        "color": "Grey"
+        "color": "Grey",
+        "speeds": 10
       }
     },
     {
@@ -5067,76 +4868,6 @@
       ],
       "specs": {
         "material": "Aluminiu",
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "401519",
-      "sku": "401519",
-      "ean": "887539032913",
-      "name": "Ghidon 780 mm - 31.8 mm M-WAVE HB-M3.2 MTB Negru",
-      "brand": "M-WAVE",
-      "category": "Ghidoane",
-      "category_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "price": 104.5,
-      "price_net": 86.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/ghidon-780-mm-31-8-mm-m-wave-hb-m3-2-mtb-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ghidon-780-mm-31-8-mm-m-wave-hb-m3-2-mtb-negru~8329738.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ghidon-780-mm-31-8-mm-m-wave-hb-m3-2-mtb-negru~8329738.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ghidon-780-mm-31-8-mm-m-wave-hb-m3-2-mtb-negru~8329741.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-780-mm-31-8-mm-m-wave-hb-m3-2-mtb-negru~8329744.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ghidon-780-mm-31-8-mm-m-wave-hb-m3-2-mtb-negru~8329747.jpg"
-      ],
-      "category_description": "Handlebars - flat, riser, drop bar styles",
-      "tags": [
-        "Componente",
-        "Ghidoane",
-        "M-WAVE",
-        "MTB"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ],
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "403973",
-      "sku": "403973",
-      "ean": "887539032890",
-      "name": "Ghidon M-WAVE HB-C2.1 640 640 mm - 31.8 mmCity / Trekking Negru Rise 21",
-      "brand": "M-WAVE",
-      "category": "Ghidoane",
-      "category_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "price": 100.1,
-      "price_net": 82.73,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/ghidon-m-wave-hb-c2-1-640-640-mm-31-8-mmcity-trekking-negru-rise-21.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ghidon-m-wave-hb-c2-1-640-640-mm-31-8-mmcity-trekking-negru-rise-21~8329750.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ghidon-m-wave-hb-c2-1-640-640-mm-31-8-mmcity-trekking-negru-rise-21~8329750.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ghidon-m-wave-hb-c2-1-640-640-mm-31-8-mmcity-trekking-negru-rise-21~8329753.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ghidon-m-wave-hb-c2-1-640-640-mm-31-8-mmcity-trekking-negru-rise-21~8329756.jpg"
-      ],
-      "category_description": "Handlebars - flat, riser, drop bar styles",
-      "tags": [
-        "City/Trekking",
-        "Componente",
-        "Ghidoane",
-        "M-WAVE"
-      ],
-      "specs": {
-        "bike_type": [
-          "City/Trekking"
-        ],
         "color": "Negru"
       }
     },
@@ -5398,40 +5129,6 @@
       ]
     },
     {
-      "id": "401516",
-      "sku": "401516",
-      "ean": "887539032906",
-      "name": "Ghidon Flat Bar M-WAVE HB-M3.1 MTB 780-31.8 mm",
-      "brand": "M-WAVE",
-      "category": "Ghidoane",
-      "category_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "price": 121.0,
-      "price_net": 100.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/ghidon-flat-bar-m-wave-hb-m3-1-mtb-780-31-8-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ghidon-flat-bar-m-wave-hb-m3-1-mtb-780-31-8-mm~8329825.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ghidon-flat-bar-m-wave-hb-m3-1-mtb-780-31-8-mm~8329825.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ghidon-flat-bar-m-wave-hb-m3-1-mtb-780-31-8-mm~8329828.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ghidon-flat-bar-m-wave-hb-m3-1-mtb-780-31-8-mm~8329831.jpg"
-      ],
-      "category_description": "Handlebars - flat, riser, drop bar styles",
-      "tags": [
-        "Componente",
-        "Ghidoane",
-        "M-WAVE",
-        "MTB"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ]
-      }
-    },
-    {
       "id": "356132",
       "sku": "356132",
       "ean": "2802085000009",
@@ -5640,8 +5337,8 @@
       "secondary_categories": [
         "PROMOTII > TRANSPORT GRATUIT"
       ],
-      "price": 181.5,
-      "price_net": 150.0,
+      "price": 180.0,
+      "price_net": 148.76,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 4,
@@ -6258,7 +5955,7 @@
       "id": "303616",
       "sku": "303616",
       "ean": "4715575883922",
-      "name": "Lant KMC X9 Grey (OEM )- 116 zale",
+      "name": "Lant KMC X9 Grey 9 viteze 116 zale(OEM)",
       "brand": "KMC",
       "category": "Lanturi",
       "category_path": "Componente > Transmisie > Lanturi > Lanturi",
@@ -6268,19 +5965,21 @@
       "availability": "in_stock",
       "stock_quantity": 67,
       "weight_kg": 0.35,
-      "url": "https://www.bikestylish.ro/lant-kmc-x9-grey-oem-116-zale.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-x9-grey-oem-116-zale~8330095.jpg",
+      "url": "https://www.bikestylish.ro/lant-kmc-x9-grey-9-viteze-116-zale-oem.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-x9-grey-9-viteze-116-zale-oem~8330095.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-x9-grey-oem-116-zale~8330095.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-x9-grey-9-viteze-116-zale-oem~8330095.jpg"
       ],
       "category_description": "Bicycle chains - by speed count (6-12 speed)",
       "tags": [
+        "9 viteze",
         "Componente",
         "KMC",
         "Lanturi"
       ],
       "specs": {
-        "color": "Grey"
+        "color": "Grey",
+        "speeds": 9
       }
     },
     {
@@ -7353,6 +7052,243 @@
       "specs": {
         "color": "Negru"
       }
+    },
+    {
+      "id": "519180 - 05353",
+      "sku": "519180 - 05353",
+      "ean": "193751005353",
+      "name": "Protectie Antipana TANNUS ARMOUR 26 x 1.6-1.9",
+      "brand": "TANNUS",
+      "category": "Protectii Antipana",
+      "category_path": "Componente > Anvelope - Camere > Protectii Antipana",
+      "price": 275.0,
+      "price_net": 227.27,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 10,
+      "weight_kg": 0.5,
+      "url": "https://www.bikestylish.ro/protectie-antipana-tannus-armour-26-x-1-6-1-9.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/protectie-antipana-tannus-armour-26-x-1-6-1-9~8330419.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/protectie-antipana-tannus-armour-26-x-1-6-1-9~8330419.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/protectie-antipana-tannus-armour-26-x-1-6-1-9~8330425.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/protectie-antipana-tannus-armour-26-x-1-6-1-9~8330428.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/protectie-antipana-tannus-armour-26-x-1-6-1-9~8330431.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/protectie-antipana-tannus-armour-26-x-1-6-1-9~10168002.jpg"
+      ],
+      "tags": [
+        "26 inch",
+        "Componente",
+        "Protectii Antipana",
+        "TANNUS"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "dimensions": "26 x 1.6-1.9"
+      }
+    },
+    {
+      "id": "880760",
+      "sku": "880760",
+      "ean": "887539021238",
+      "name": "Ulei Special M-WAVE OIL GUARD BIO 100 ml",
+      "brand": "M-WAVE",
+      "category": "Bike Lube - Lubrefiere",
+      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "secondary_categories": [
+        "Componente > Transmisie > Lanturi > Lanturi"
+      ],
+      "price": 28.0,
+      "price_net": 23.14,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 65,
+      "weight_kg": 0.11,
+      "url": "https://www.bikestylish.ro/ulei-special-m-wave-oil-guard-bio-100-ml.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ulei-special-m-wave-oil-guard-bio-100-ml~8330437.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ulei-special-m-wave-oil-guard-bio-100-ml~8330437.jpg"
+      ],
+      "tags": [
+        "Bike Lube - Lubrefiere",
+        "M-WAVE",
+        "Service"
+      ]
+    },
+    {
+      "id": "D503",
+      "sku": "D503",
+      "ean": "7290107115148",
+      "name": "Ureche Cadru PILO D503 NSR",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 169.4,
+      "price_net": 140.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d503-nsr.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d503-nsr~8330449.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d503-nsr~8330449.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D507",
+      "sku": "D507",
+      "ean": "7290107115186",
+      "name": "Ureche Cadru PILO D507 Knolly",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d507-knolly.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d507-knolly~8330452.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d507-knolly~8330452.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D510",
+      "sku": "D510",
+      "ean": "7290107115216",
+      "name": "Ureche Cadru PILO D510 Bottecchia",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d510-bottecchia.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d510-bottecchia~8330455.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d510-bottecchia~8330455.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D515",
+      "sku": "D515",
+      "ean": "7290107115261",
+      "name": "Ureche Cadru PILO D515 BMC",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 275.0,
+      "price_net": 227.27,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d515-bmc.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d515-bmc~8330458.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d515-bmc~8330458.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D519",
+      "sku": "D519",
+      "ean": "7290107115308",
+      "name": "Ureche Cadru PILO D519 GT",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d519-gt.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d519-gt~8330461.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d519-gt~8330461.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D522",
+      "sku": "D522",
+      "ean": "7290107115339",
+      "name": "Ureche Cadru PILO D522 Cannondale",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d522-cannondale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d522-cannondale~8330464.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d522-cannondale~8330464.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D526",
+      "sku": "D526",
+      "ean": "7290107115377",
+      "name": "Ureche Cadru PILO D526 BH",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d526-bh.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d526-bh~8330467.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d526-bh~8330467.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7829,8 +7765,8 @@
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "product_count": 51,
-      "in_stock_count": 31
+      "product_count": 44,
+      "in_stock_count": 32
     },
     {
       "id": "ghidoane-directie",
@@ -7885,7 +7821,7 @@
       "id": "lanturi",
       "name": "Lanturi",
       "full_path": "Componente > Transmisie > Lanturi > Lanturi",
-      "product_count": 77,
+      "product_count": 76,
       "in_stock_count": 58
     },
     {
@@ -7934,7 +7870,7 @@
       "id": "mansoane",
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
-      "product_count": 96,
+      "product_count": 95,
       "in_stock_count": 69
     },
     {
@@ -8005,7 +7941,7 @@
       "name": "Pedale Platforma",
       "full_path": "Componente > Pedale > Pedale Platforma",
       "product_count": 147,
-      "in_stock_count": 90
+      "in_stock_count": 89
     },
     {
       "id": "pedaliere",
@@ -8025,13 +7961,13 @@
       "id": "pinioane-casetate",
       "name": "Pinioane Casetate",
       "full_path": "Componente > Transmisie > Pinioane > Pinioane Casetate",
-      "product_count": 10,
+      "product_count": 8,
       "in_stock_count": 5
     },
     {
-      "id": "pionioane-filetate",
-      "name": "Pionioane Filetate",
-      "full_path": "Componente > Transmisie > Pinioane > Pionioane Filetate",
+      "id": "pinioane-filetate",
+      "name": "Pinioane Filetate",
+      "full_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
       "product_count": 42,
       "in_stock_count": 29
     },
@@ -8089,7 +8025,7 @@
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
       "product_count": 45,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "protectii-lant",
