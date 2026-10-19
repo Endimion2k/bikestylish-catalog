@@ -1,80 +1,14 @@
 {
-  "last_updated": "2026-10-18T03:11:06.163237+00:00",
+  "last_updated": "2026-10-19T03:12:45.101972+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 19,
     "total_parts": 20,
     "product_range": "4501-4750",
-    "original_total": 4780
+    "original_total": 4778
   },
   "products": [
-    {
-      "id": "529731",
-      "sku": "529731",
-      "ean": "2802565000000",
-      "name": "Set Anvelopa + Camera SXT 27.5 x 2.10 (54-584) AV 33 mm Negru",
-      "brand": "SXT",
-      "category": "Anvelope Rigide",
-      "category_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "price": 73.0,
-      "price_net": 60.33,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 63,
-      "weight_kg": 1.3,
-      "url": "https://www.bikestylish.ro/set-anvelopa-camera-sxt-27-5-x-2-10-54-584-av-33-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/set-anvelopa-camera-sxt-27-5-x-2-10-54-584-av-33-mm-negru~13287879.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/set-anvelopa-camera-sxt-27-5-x-2-10-54-584-av-33-mm-negru~13287879.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/set-anvelopa-camera-sxt-27-5-x-2-10-54-584-av-33-mm-negru~13287882.jpg"
-      ],
-      "tags": [
-        "27.5 inch",
-        "Anvelope Rigide",
-        "Componente",
-        "SXT",
-        "Schrader"
-      ],
-      "specs": {
-        "wheel_size": "27.5",
-        "color": "Negru",
-        "valve_type": "Schrader (AV)"
-      }
-    },
-    {
-      "id": "529730",
-      "sku": "529730",
-      "name": "Set Anvelopa + Camera 26 x 2.10(54-559) AV 33 mm Negru",
-      "brand": "SXT",
-      "category": "Anvelope Rigide",
-      "category_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "price": 70.0,
-      "price_net": 57.85,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 1.4,
-      "url": "https://www.bikestylish.ro/set-anvelopa-camera-26-x-2-10-54-559-av-33-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/set-anvelopa-camera-26-x-2-10-54-559-av-33-mm-negru~13287885.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/set-anvelopa-camera-26-x-2-10-54-559-av-33-mm-negru~13287885.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/set-anvelopa-camera-26-x-2-10-54-559-av-33-mm-negru~13287888.jpg"
-      ],
-      "tags": [
-        "26 inch",
-        "Anvelope Rigide",
-        "Componente",
-        "SXT",
-        "Schrader"
-      ],
-      "specs": {
-        "wheel_size": "26",
-        "color": "Negru",
-        "dimensions": "26 x 2.10",
-        "valve_type": "Schrader (AV)"
-      }
-    },
     {
       "id": "252995",
       "sku": "252995",
@@ -86,7 +20,7 @@
       "price_net": 62.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 73,
+      "stock_quantity": 72,
       "url": "https://www.bikestylish.ro/tija-sa-sxt-350-mm-31-6-mm-negru-anodizat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/tija-sa-sxt-350-mm-31-6-mm-negru-anodizat~13287891.jpg",
       "images": [
@@ -329,7 +263,7 @@
       "name": "Casca Downhill- MTB SXT 54-58 Verde Neon",
       "brand": "SXT",
       "category": "➤ Casti Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
+      "category_path": "Echipamente > Casti > ➤ Casti Ciclism",
       "price": 270.0,
       "price_net": 223.14,
       "currency": "RON",
@@ -365,7 +299,7 @@
       "name": "Casca Downhill - MTB SXT 54-58 Negru Led",
       "brand": "SXT",
       "category": "➤ Casti Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
+      "category_path": "Echipamente > Casti > ➤ Casti Ciclism",
       "price": 270.0,
       "price_net": 223.14,
       "currency": "RON",
@@ -400,8 +334,8 @@
       "sku": "710002",
       "name": "Ochelari 100% STRATA 2 Goggle Alb",
       "brand": "SXT",
-      "category": "➤ Ochelari Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Ochelari Ciclism",
+      "category": "Ochelari Ciclism",
+      "category_path": "Echipamente > Ochelari Ciclism",
       "price": 150.0,
       "price_net": 123.97,
       "currency": "RON",
@@ -414,8 +348,8 @@
       ],
       "tags": [
         "Echipamente",
-        "SXT",
-        "➤ Ochelari Ciclism"
+        "Ochelari Ciclism",
+        "SXT"
       ],
       "specs": {
         "color": "Alb"
@@ -426,8 +360,8 @@
       "sku": "7310001",
       "name": "Ochelari 100% STRATA 2 Goggle Portocaliu",
       "brand": "SXT",
-      "category": "➤ Ochelari Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Ochelari Ciclism",
+      "category": "Ochelari Ciclism",
+      "category_path": "Echipamente > Ochelari Ciclism",
       "price": 150.0,
       "price_net": 123.97,
       "currency": "RON",
@@ -440,8 +374,8 @@
       ],
       "tags": [
         "Echipamente",
-        "SXT",
-        "➤ Ochelari Ciclism"
+        "Ochelari Ciclism",
+        "SXT"
       ],
       "specs": {
         "color": "Portocaliu"
@@ -452,8 +386,8 @@
       "sku": "710003",
       "name": "Ochelari 100% STRATA 2 Goggle Rosu",
       "brand": "SXT",
-      "category": "➤ Ochelari Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Ochelari Ciclism",
+      "category": "Ochelari Ciclism",
+      "category_path": "Echipamente > Ochelari Ciclism",
       "price": 150.0,
       "price_net": 123.97,
       "currency": "RON",
@@ -466,8 +400,8 @@
       ],
       "tags": [
         "Echipamente",
-        "SXT",
-        "➤ Ochelari Ciclism"
+        "Ochelari Ciclism",
+        "SXT"
       ],
       "specs": {
         "color": "Rosu"
@@ -478,8 +412,8 @@
       "sku": "710004",
       "name": "Ochelari 100% STRATA 2 Goggle Albastru",
       "brand": "SXT",
-      "category": "➤ Ochelari Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Ochelari Ciclism",
+      "category": "Ochelari Ciclism",
+      "category_path": "Echipamente > Ochelari Ciclism",
       "price": 150.0,
       "price_net": 123.97,
       "currency": "RON",
@@ -493,8 +427,8 @@
       ],
       "tags": [
         "Echipamente",
-        "SXT",
-        "➤ Ochelari Ciclism"
+        "Ochelari Ciclism",
+        "SXT"
       ],
       "specs": {
         "color": "Alb"
@@ -1092,7 +1026,7 @@
       "price_net": 41.32,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 162,
+      "stock_quantity": 163,
       "url": "https://www.bikestylish.ro/pipa-downhill-mtb-sxt-31-8-1-1-8-mm-50-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-downhill-mtb-sxt-31-8-1-1-8-mm-50-mm~13289283.jpg",
       "images": [
@@ -1673,7 +1607,7 @@
       "name": "Suport Prindere Cutie Portbagaj M-WAVE One-Snap",
       "brand": "M-WAVE",
       "category": "Bagaje Spate",
-      "category_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Spate",
+      "category_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Spate",
       "price": 125.0,
       "price_net": 103.31,
       "currency": "RON",
@@ -2406,8 +2340,8 @@
       "sku": "880263",
       "name": "Leviere TANNUS pentru Anvelope și Lanț Ultra-Rezistente (2 buc)",
       "brand": "TANNUS",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Anvelope",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
       "secondary_categories": [
         "Componente > Anvelope - Camere > Anvelope Rigide"
       ],
@@ -2429,7 +2363,7 @@
       "tags": [
         "Service",
         "TANNUS",
-        "Unelte Speciale Biciclete"
+        "Unelte Anvelope"
       ]
     },
     {
@@ -2462,8 +2396,8 @@
       "sku": "710005",
       "name": "Ochelari 100% STRATA 2 Goggle Negru",
       "brand": "SXT",
-      "category": "➤ Ochelari Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Ochelari Ciclism",
+      "category": "Ochelari Ciclism",
+      "category_path": "Echipamente > Ochelari Ciclism",
       "price": 150.0,
       "price_net": 123.97,
       "currency": "RON",
@@ -2476,8 +2410,8 @@
       ],
       "tags": [
         "Echipamente",
-        "SXT",
-        "➤ Ochelari Ciclism"
+        "Ochelari Ciclism",
+        "SXT"
       ],
       "specs": {
         "color": "Negru"
@@ -3401,7 +3335,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 45,
+      "stock_quantity": 43,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/antifurt-cu-cheie-sxt-c-12-6.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/antifurt-cu-cheie-sxt-c-12-6~14681394.jpg",
@@ -3419,8 +3353,8 @@
       "sku": "880554",
       "name": "Cheie Angrenaj SXT Shimano Octalink, ISIS",
       "brand": "SXT",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 32.0,
       "price_net": 26.45,
       "currency": "RON",
@@ -3435,7 +3369,7 @@
       "tags": [
         "SXT",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -3629,8 +3563,8 @@
       "ean": "4715575888538",
       "name": "Aparat Masurat Lantul KMC",
       "brand": "KMC",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Lant",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
       "secondary_categories": [
         "Componente > Transmisie > Lanturi > Lanturi"
       ],
@@ -3649,7 +3583,7 @@
       "tags": [
         "KMC",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Lant"
       ]
     },
     {
@@ -3658,8 +3592,8 @@
       "ean": "887539051037",
       "name": "Trusa Mini Scule M-WAVE Pocket F13",
       "brand": "M-WAVE",
-      "category": "Truse Unelte - Mini Truse",
-      "category_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
+      "category": "Truse - Mini Truse",
+      "category_path": "Service > Unelte Service > Truse - Mini Truse",
       "price": 89.0,
       "price_net": 73.55,
       "currency": "RON",
@@ -3675,7 +3609,7 @@
       "tags": [
         "M-WAVE",
         "Service",
-        "Truse Unelte - Mini Truse"
+        "Truse - Mini Truse"
       ]
     },
     {
@@ -3684,8 +3618,8 @@
       "ean": "8719325812572",
       "name": "Aparat Masurat Lantul KMC 10.000km+",
       "brand": "KMC",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Lant",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
       "secondary_categories": [
         "Componente > Transmisie > Lanturi > Lanturi"
       ],
@@ -3704,7 +3638,7 @@
       "tags": [
         "KMC",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Lant"
       ]
     },
     {
@@ -3918,8 +3852,8 @@
       "ean": "887539044275",
       "name": "Antifurt Lant TWIRL C. C. 6 x 850 mm 5 dig",
       "brand": "M-WAVE",
-      "category": "Antifurturi cu Cifru",
-      "category_path": "Accesorii > Antifurturi > Antifurturi cu Cifru",
+      "category": "Antifurturi Lant",
+      "category_path": "Accesorii > Antifurturi > Antifurturi Lant",
       "price": 90.0,
       "price_net": 74.38,
       "currency": "RON",
@@ -3935,7 +3869,7 @@
       ],
       "tags": [
         "Accesorii",
-        "Antifurturi cu Cifru",
+        "Antifurturi Lant",
         "M-WAVE"
       ]
     },
@@ -3950,8 +3884,8 @@
       "secondary_categories": [
         "PROMOTII > TRANSPORT GRATUIT"
       ],
-      "price": 79.66,
-      "price_net": 65.83,
+      "price": 69.0,
+      "price_net": 57.02,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 40,
@@ -4039,8 +3973,8 @@
       "ean": "887539048891",
       "name": "Trusa Mini Scule TWIRL F13 One",
       "brand": "M-WAVE",
-      "category": "Truse Unelte - Mini Truse",
-      "category_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
+      "category": "Truse - Mini Truse",
+      "category_path": "Service > Unelte Service > Truse - Mini Truse",
       "price": 95.0,
       "price_net": 78.51,
       "currency": "RON",
@@ -4059,7 +3993,7 @@
       "tags": [
         "M-WAVE",
         "Service",
-        "Truse Unelte - Mini Truse"
+        "Truse - Mini Truse"
       ]
     },
     {
@@ -4069,7 +4003,7 @@
       "name": "Bagaj Spate Porbagaj TWIRL Carry ED Negru",
       "brand": "M-WAVE",
       "category": "Bagaje Spate",
-      "category_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Spate",
+      "category_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Spate",
       "price": 225.0,
       "price_net": 185.95,
       "currency": "RON",
@@ -4101,7 +4035,7 @@
       "name": "Geanta Laterala Portbagaj TWIRL Carry S 22 l",
       "brand": "M-WAVE",
       "category": "Bagaje Spate",
-      "category_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Spate",
+      "category_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Spate",
       "price": 199.0,
       "price_net": 164.46,
       "currency": "RON",
@@ -4159,8 +4093,8 @@
       "ean": "4715575900599",
       "name": "Ceara Lant KMC Chain Wax 80 ml",
       "brand": "KMC",
-      "category": "Bike Lube - Lubrefiere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "category": "Lubrefiere",
+      "category_path": "Service > Intretinere Biciclete > Lubrefiere",
       "price": 50.0,
       "price_net": 41.32,
       "currency": "RON",
@@ -4173,8 +4107,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ceara-lant-kmc-chain-wax-80-ml~14681712.jpg"
       ],
       "tags": [
-        "Bike Lube - Lubrefiere",
         "KMC",
+        "Lubrefiere",
         "Service"
       ]
     },
@@ -4184,8 +4118,8 @@
       "ean": "4715575886367",
       "name": "Ceara Lant KMC Chain Wax 500 ml",
       "brand": "KMC",
-      "category": "Bike Lube - Lubrefiere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "category": "Lubrefiere",
+      "category_path": "Service > Intretinere Biciclete > Lubrefiere",
       "price": 250.0,
       "price_net": 206.61,
       "currency": "RON",
@@ -4198,8 +4132,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/ceara-lant-kmc-chain-wax-500-ml~14681715.jpg"
       ],
       "tags": [
-        "Bike Lube - Lubrefiere",
         "KMC",
+        "Lubrefiere",
         "Service"
       ]
     },
@@ -4393,7 +4327,7 @@
       "name": "Bagaj Spate Porbagaj M-WAVE Alkmaar One-Snap 30 Litri",
       "brand": "M-WAVE",
       "category": "Bagaje Spate",
-      "category_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Spate",
+      "category_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Spate",
       "price": 370.0,
       "price_net": 305.79,
       "currency": "RON",
@@ -5587,7 +5521,7 @@
       "name": "Bagaj Cadru Triunghi M-WAVE Rough Ride II Beige",
       "brand": "M-WAVE",
       "category": "Bagaje Cadru",
-      "category_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Cadru",
+      "category_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Cadru",
       "price": 270.0,
       "price_net": 223.14,
       "currency": "RON",
@@ -5703,7 +5637,7 @@
       "name": "Bagaj Ghidon M-WAVE Rough Ride II L Beige",
       "brand": "M-WAVE",
       "category": "Bagaje Ghidon",
-      "category_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Ghidon",
+      "category_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Ghidon",
       "price": 150.0,
       "price_net": 123.97,
       "currency": "RON",
@@ -5731,7 +5665,7 @@
       "name": "Bagaj Ghidon M-WAVE Rough Ride II S Beige",
       "brand": "M-WAVE",
       "category": "Bagaje Ghidon",
-      "category_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Ghidon",
+      "category_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Ghidon",
       "price": 135.0,
       "price_net": 111.57,
       "currency": "RON",
@@ -5757,7 +5691,7 @@
       "name": "Bagaj Spate M-WAVE Rough Ride II L Beige",
       "brand": "M-WAVE",
       "category": "Bagaje Spate",
-      "category_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Spate",
+      "category_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Spate",
       "price": 260.0,
       "price_net": 214.88,
       "currency": "RON",
@@ -5785,7 +5719,7 @@
       "name": "Bagaj Furca M-WAVE Cargo Cage FRK5 Beige",
       "brand": "M-WAVE",
       "category": "Bagaje Cadru",
-      "category_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Cadru",
+      "category_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Cadru",
       "price": 145.0,
       "price_net": 119.83,
       "currency": "RON",
@@ -5813,7 +5747,7 @@
       "name": "Bagaj Cadru M-WAVE Rough Ride II Top L Beige",
       "brand": "M-WAVE",
       "category": "Bagaje Cadru",
-      "category_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Cadru",
+      "category_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Cadru",
       "price": 163.0,
       "price_net": 134.71,
       "currency": "RON",
@@ -5985,8 +5919,8 @@
       "sku": "880171",
       "name": "Piesa schimb TB-PF22",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Roti-Spite",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "price": 363.0,
       "price_net": 300.0,
       "currency": "RON",
@@ -5998,9 +5932,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/piesa-schimb-tb-pf22~15371505.jpg"
       ],
       "tags": [
+        "Roti-Spite",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -6148,8 +6082,8 @@
       "ean": "4712765147475",
       "name": "Cheie Spite SUPER B TB-5502",
       "brand": "KMC",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Roti-Spite",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
@@ -6164,8 +6098,8 @@
       ],
       "tags": [
         "KMC",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Roti-Spite",
+        "Service"
       ]
     },
     {
@@ -7156,6 +7090,60 @@
         "color": "Negru",
         "dimensions": "507 x 19"
       }
+    },
+    {
+      "id": "380220",
+      "sku": "380220",
+      "name": "Janta SXT ER10 20(406-19C) 36H V-Break Capsata",
+      "brand": "SXT",
+      "category": "Jante Frane V-Brake",
+      "category_path": "Roti > Jante > Jante Frane V-Brake",
+      "price": 75.0,
+      "price_net": 61.98,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 9,
+      "url": "https://www.bikestylish.ro/janta-sxt-er10-20-406-19c-36h-v-break-capsata.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/janta-sxt-er10-20-406-19c-36h-v-break-capsata~15462492.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/janta-sxt-er10-20-406-19c-36h-v-break-capsata~15462492.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/janta-sxt-er10-20-406-19c-36h-v-break-capsata~15462495.jpg"
+      ],
+      "tags": [
+        "Jante Frane V-Brake",
+        "Roti",
+        "SXT"
+      ]
+    },
+    {
+      "id": "388215",
+      "sku": "388215",
+      "name": "Roata Spate SXT BASIC II 24(507 x 21C) 36H Casetat FD Bile HG",
+      "brand": "SXT",
+      "category": "Roti Spate",
+      "category_path": "Roti > Roti Bicicleta > Roti Spate",
+      "price": 270.0,
+      "price_net": 223.14,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 3,
+      "url": "https://www.bikestylish.ro/roata-spate-sxt-basic-ii-24-507-x-21c-36h-casetat-fd-bile-hg.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-sxt-basic-ii-24-507-x-21c-36h-casetat-fd-bile-hg~15462732.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-sxt-basic-ii-24-507-x-21c-36h-casetat-fd-bile-hg~15462732.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/roata-spate-sxt-basic-ii-24-507-x-21c-36h-casetat-fd-bile-hg~15462735.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-basic-ii-24-507-x-21c-36h-casetat-fd-bile-hg~15615537.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-sxt-basic-ii-24-507-x-21c-36h-casetat-fd-bile-hg~15462738.jpg"
+      ],
+      "category_description": "Rear wheels - complete, ready to mount",
+      "tags": [
+        "Roti",
+        "Roti Spate",
+        "SXT"
+      ],
+      "specs": {
+        "dimensions": "507 x 21"
+      }
     }
   ],
   "categories": [
@@ -7240,8 +7228,8 @@
       "id": "antifurturi-lant",
       "name": "Antifurturi Lant",
       "full_path": "Accesorii > Antifurturi > Antifurturi Lant",
-      "product_count": 10,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi-pliabile",
@@ -7261,8 +7249,8 @@
       "id": "antifurturi-cu-cifru",
       "name": "Antifurturi cu Cifru",
       "full_path": "Accesorii > Antifurturi > Antifurturi cu Cifru",
-      "product_count": 13,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 7
     },
     {
       "id": "anvelope-camere",
@@ -7314,30 +7302,30 @@
       "in_stock_count": 37
     },
     {
-      "id": "bagaje-borsete",
-      "name": "Bagaje - Borsete",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete",
-      "product_count": 2,
-      "in_stock_count": 2
+      "id": "b-b-pedalier",
+      "name": "B.B-Pedalier",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
+      "product_count": 21,
+      "in_stock_count": 19
     },
     {
       "id": "bagaje-cadru",
       "name": "Bagaje Cadru",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Cadru",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Cadru",
       "product_count": 17,
       "in_stock_count": 14
     },
     {
       "id": "bagaje-ghidon",
       "name": "Bagaje Ghidon",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Ghidon",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Ghidon",
       "product_count": 11,
       "in_stock_count": 10
     },
     {
       "id": "bagaje-spate",
       "name": "Bagaje Spate",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Spate",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Spate",
       "product_count": 43,
       "in_stock_count": 37
     },
@@ -7351,9 +7339,9 @@
     {
       "id": "bandane-caciuli-sepci",
       "name": "Bandane Caciuli Sepci",
-      "full_path": "Echipamente > Bandane Caciuli Sepci",
-      "product_count": 12,
-      "in_stock_count": 9
+      "full_path": "Echipamente > Imbracaminte > Bandane Caciuli Sepci",
+      "product_count": 14,
+      "in_stock_count": 11
     },
     {
       "id": "bar-tape-accesorii",
@@ -7391,13 +7379,6 @@
       "in_stock_count": 17
     },
     {
-      "id": "bike-care-ingrijire",
-      "name": "Bike Care - Ingrijire",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
-      "product_count": 6,
-      "in_stock_count": 3
-    },
-    {
       "id": "bike-computer",
       "name": "Bike Computer",
       "full_path": "Accesorii > Electronice > Bike Computer",
@@ -7405,18 +7386,11 @@
       "in_stock_count": 4
     },
     {
-      "id": "bike-lube-lubrefiere",
-      "name": "Bike Lube - Lubrefiere",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
-      "product_count": 13,
-      "in_stock_count": 5
-    },
-    {
-      "id": "bike-maintenance-intretinere",
-      "name": "Bike Maintenance - Intretinere",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
-      "product_count": 14,
-      "in_stock_count": 6
+      "id": "borsete-bagaje",
+      "name": "Borsete-Bagaje",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje",
+      "product_count": 2,
+      "in_stock_count": 2
     },
     {
       "id": "butuci-frana-disc",
@@ -7440,6 +7414,13 @@
       "in_stock_count": 41
     },
     {
+      "id": "butuci-axe",
+      "name": "Butuci-Axe",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Butuci-Axe",
+      "product_count": 12,
+      "in_stock_count": 7
+    },
+    {
       "id": "cabluri",
       "name": "Cabluri",
       "full_path": "Componente > Transmisie > Cabluri - Camasi > Cabluri",
@@ -7461,6 +7442,13 @@
       "in_stock_count": 2
     },
     {
+      "id": "cadru-furca",
+      "name": "Cadru-Furca",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
+      "product_count": 11,
+      "in_stock_count": 10
+    },
+    {
       "id": "camasi",
       "name": "Camasi",
       "full_path": "Componente > Transmisie > Cabluri - Camasi > Camasi",
@@ -7477,7 +7465,7 @@
     {
       "id": "carcase-prinderi-smartphone",
       "name": "Carcase - Prinderi SmartPhone",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Carcase - Prinderi SmartPhone",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
       "product_count": 9,
       "in_stock_count": 7
     },
@@ -7568,7 +7556,7 @@
     {
       "id": "depozitare-biciclete",
       "name": "Depozitare Biciclete",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare > Depozitare Biciclete",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
       "product_count": 21,
       "in_stock_count": 17
     },
@@ -7592,6 +7580,13 @@
       "full_path": "E-Mobility",
       "product_count": 7,
       "in_stock_count": 6
+    },
+    {
+      "id": "echipamente-atelier",
+      "name": "Echipamente Atelier",
+      "full_path": "Service > Unelte Service > Echipamente Atelier",
+      "product_count": 1,
+      "in_stock_count": 0
     },
     {
       "id": "flori-furca-distantiere-accesorii",
@@ -7650,6 +7645,13 @@
       "in_stock_count": 1
     },
     {
+      "id": "ingrijire",
+      "name": "Ingrijire",
+      "full_path": "Service > Intretinere Biciclete > Ingrijire",
+      "product_count": 6,
+      "in_stock_count": 3
+    },
+    {
       "id": "intinzatoare-lant",
       "name": "Intinzatoare Lant",
       "full_path": "Componente > Transmisie > Lanturi > Intinzatoare Lant",
@@ -7657,9 +7659,16 @@
       "in_stock_count": 4
     },
     {
+      "id": "intretinere",
+      "name": "Intretinere",
+      "full_path": "Service > Intretinere Biciclete > Intretinere",
+      "product_count": 14,
+      "in_stock_count": 6
+    },
+    {
       "id": "jachete-veste-ciclism",
       "name": "Jachete - Veste Ciclism",
-      "full_path": "Echipamente > Jachete - Veste Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Jachete - Veste Ciclism",
       "product_count": 6,
       "in_stock_count": 5
     },
@@ -7692,6 +7701,13 @@
       "in_stock_count": 58
     },
     {
+      "id": "lubrefiere",
+      "name": "Lubrefiere",
+      "full_path": "Service > Intretinere Biciclete > Lubrefiere",
+      "product_count": 13,
+      "in_stock_count": 5
+    },
+    {
       "id": "lumini",
       "name": "Lumini",
       "full_path": "Accesorii > Lumini",
@@ -7713,18 +7729,18 @@
       "in_stock_count": 27
     },
     {
+      "id": "manete-frana-schimbator",
+      "name": "Manete  Frana-Schimbator",
+      "full_path": "Componente > Transmisie > Schimbatoare > Manete  Frana-Schimbator",
+      "product_count": 3,
+      "in_stock_count": 3
+    },
+    {
       "id": "manete-frana",
       "name": "Manete Frana",
       "full_path": "Componente > Sisteme Franare > Manete Frana",
       "product_count": 19,
       "in_stock_count": 13
-    },
-    {
-      "id": "manete-frana-schimbator",
-      "name": "Manete Frana  - Schimbator",
-      "full_path": "Componente > Transmisie > Schimbatoare > Manete Frana  - Schimbator",
-      "product_count": 3,
-      "in_stock_count": 3
     },
     {
       "id": "manete-schimbator",
@@ -7769,6 +7785,13 @@
       "in_stock_count": 9
     },
     {
+      "id": "ochelari-ciclism",
+      "name": "Ochelari Ciclism",
+      "full_path": "Echipamente > Ochelari Ciclism",
+      "product_count": 8,
+      "in_stock_count": 0
+    },
+    {
       "id": "oglinzi",
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
@@ -7778,14 +7801,14 @@
     {
       "id": "pantaloni-ciclism",
       "name": "Pantaloni Ciclism",
-      "full_path": "Echipamente > Pantaloni Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Pantaloni Ciclism",
       "product_count": 5,
       "in_stock_count": 4
     },
     {
       "id": "pantofi-ciclism",
       "name": "Pantofi Ciclism",
-      "full_path": "Echipamente > Pantofi Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Pantofi Ciclism",
       "product_count": 1,
       "in_stock_count": 1
     },
@@ -7930,6 +7953,13 @@
       "in_stock_count": 46
     },
     {
+      "id": "roti-spite",
+      "name": "Roti-Spite",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
+      "product_count": 15,
+      "in_stock_count": 13
+    },
+    {
       "id": "roti-custom-hand-built",
       "name": "Roți Custom / Hand-Built",
       "full_path": "Roti > Roti Bicicleta > Roți Custom / Hand-Built",
@@ -8056,6 +8086,13 @@
       "in_stock_count": 30
     },
     {
+      "id": "stand-de-lucru",
+      "name": "Stand de Lucru",
+      "full_path": "Service > Unelte Service > Stand de Lucru",
+      "product_count": 7,
+      "in_stock_count": 6
+    },
+    {
       "id": "suporturi-bidon",
       "name": "Suporturi Bidon",
       "full_path": "Accesorii > Bidoane - Suporti > Suporturi Bidon",
@@ -8084,16 +8121,9 @@
       "in_stock_count": 27
     },
     {
-      "id": "transport-depozitare",
-      "name": "Transport - Depozitare",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare",
-      "product_count": 5,
-      "in_stock_count": 5
-    },
-    {
       "id": "transport-biciclete",
       "name": "Transport Biciclete",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare > Transport Biciclete",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Transport Biciclete",
       "product_count": 5,
       "in_stock_count": 1
     },
@@ -8105,9 +8135,16 @@
       "in_stock_count": 1
     },
     {
+      "id": "transport-depozitare",
+      "name": "Transport-Depozitare",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare",
+      "product_count": 5,
+      "in_stock_count": 5
+    },
+    {
       "id": "tricouri-ciclism",
       "name": "Tricouri Ciclism",
-      "full_path": "Echipamente > Tricouri Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Tricouri Ciclism",
       "product_count": 3,
       "in_stock_count": 2
     },
@@ -8119,18 +8156,60 @@
       "in_stock_count": 13
     },
     {
-      "id": "truse-unelte-mini-truse",
-      "name": "Truse Unelte - Mini Truse",
-      "full_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
-      "product_count": 17,
-      "in_stock_count": 16
+      "id": "truse-mini-truse",
+      "name": "Truse - Mini Truse",
+      "full_path": "Service > Unelte Service > Truse - Mini Truse",
+      "product_count": 14,
+      "in_stock_count": 13
     },
     {
       "id": "tubeless",
       "name": "Tubeless",
       "full_path": "Componente > Anvelope - Camere > Tubeless",
-      "product_count": 17,
-      "in_stock_count": 12
+      "product_count": 16,
+      "in_stock_count": 11
+    },
+    {
+      "id": "unelte-biciclete",
+      "name": "Unelte  Biciclete",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete",
+      "product_count": 68,
+      "in_stock_count": 55
+    },
+    {
+      "id": "unelte-anvelope",
+      "name": "Unelte Anvelope",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
+      "product_count": 11,
+      "in_stock_count": 8
+    },
+    {
+      "id": "unelte-frane",
+      "name": "Unelte Frane",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
+      "product_count": 8,
+      "in_stock_count": 8
+    },
+    {
+      "id": "unelte-lant",
+      "name": "Unelte Lant",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
+      "product_count": 12,
+      "in_stock_count": 10
+    },
+    {
+      "id": "unelte-pedale",
+      "name": "Unelte Pedale",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pedale",
+      "product_count": 4,
+      "in_stock_count": 4
+    },
+    {
+      "id": "unelte-pinioane",
+      "name": "Unelte Pinioane",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
+      "product_count": 10,
+      "in_stock_count": 8
     },
     {
       "id": "unelte-service",
@@ -8138,13 +8217,6 @@
       "full_path": "Service > Unelte Service",
       "product_count": 5,
       "in_stock_count": 3
-    },
-    {
-      "id": "unelte-speciale-biciclete",
-      "name": "Unelte Speciale Biciclete",
-      "full_path": "Service > Unelte Service > Unelte Speciale Biciclete",
-      "product_count": 177,
-      "in_stock_count": 144
     },
     {
       "id": "urechi-cadre",
@@ -8170,16 +8242,9 @@
     {
       "id": "casti-ciclism",
       "name": "➤ Casti Ciclism",
-      "full_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
-      "product_count": 18,
-      "in_stock_count": 4
-    },
-    {
-      "id": "ochelari-ciclism",
-      "name": "➤ Ochelari Ciclism",
-      "full_path": "Echipamente > Casti - Ochelari > ➤ Ochelari Ciclism",
-      "product_count": 8,
-      "in_stock_count": 0
+      "full_path": "Echipamente > Casti > ➤ Casti Ciclism",
+      "product_count": 16,
+      "in_stock_count": 2
     }
   ],
   "brands": [

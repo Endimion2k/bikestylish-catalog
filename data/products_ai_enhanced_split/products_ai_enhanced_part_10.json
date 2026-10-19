@@ -1,44 +1,14 @@
 {
-  "last_updated": "2026-10-18T03:11:06.163237+00:00",
+  "last_updated": "2026-10-19T03:12:45.101972+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
     "total_parts": 20,
     "product_range": "2251-2500",
-    "original_total": 4780
+    "original_total": 4778
   },
   "products": [
-    {
-      "id": "C644612",
-      "sku": "C644612",
-      "ean": "8051406523237",
-      "name": "Ghidolina DEDA TAPE Carbon - Alb",
-      "brand": "DEDA ELEMENTI",
-      "category": "Bar Tape - Accesorii",
-      "category_path": "Componente > Ghidoane - Directie > Bar Tape - Accesorii",
-      "price": 93.5,
-      "price_net": 77.27,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.05,
-      "url": "https://www.bikestylish.ro/ghidolina-deda-tape-carbon-alb.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ghidolina-deda-tape-carbon-alb~8327701.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ghidolina-deda-tape-carbon-alb~8327701.jpg"
-      ],
-      "tags": [
-        "Bar Tape - Accesorii",
-        "Carbon",
-        "Componente",
-        "DEDA ELEMENTI"
-      ],
-      "specs": {
-        "material": "Carbon",
-        "color": "Alb"
-      }
-    },
     {
       "id": "C644602",
       "sku": "C644602",
@@ -1572,7 +1542,7 @@
       "name": "Husa Bicicleta/Cargo M-WAVE",
       "brand": "M-WAVE",
       "category": "Depozitare Biciclete",
-      "category_path": "Accesorii > TRANSPORT > Transport - Depozitare > Depozitare Biciclete",
+      "category_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
       "price": 196.9,
       "price_net": 162.73,
       "currency": "RON",
@@ -2063,7 +2033,7 @@
       "name": "Suport Bicicleta M-WAVE EASYSTAND 12-29 Silver",
       "brand": "M-WAVE",
       "category": "Depozitare Biciclete",
-      "category_path": "Accesorii > TRANSPORT > Transport - Depozitare > Depozitare Biciclete",
+      "category_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
       "price": 181.5,
       "price_net": 150.0,
       "currency": "RON",
@@ -2091,7 +2061,7 @@
       "name": "Borseta de Talie AUTHOR A-L GALE Negru/Grey",
       "brand": "AUTHOR",
       "category": "Bagaje Spate",
-      "category_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Spate",
+      "category_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Spate",
       "price": 220.0,
       "price_net": 181.82,
       "currency": "RON",
@@ -2122,7 +2092,7 @@
       "name": "Casca Copii AUTHOR Mirage Inmold 52-56 cm Rosu/Alb",
       "brand": "AUTHOR",
       "category": "➤ Casti Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
+      "category_path": "Echipamente > Casti > ➤ Casti Ciclism",
       "price": 104.5,
       "price_net": 86.36,
       "currency": "RON",
@@ -2155,7 +2125,7 @@
       "name": "Casca Copii AUTHOR Mirage In-mold 52-56 cm Verde /Galben",
       "brand": "AUTHOR",
       "category": "➤ Casti Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
+      "category_path": "Echipamente > Casti > ➤ Casti Ciclism",
       "price": 108.9,
       "price_net": 90.0,
       "currency": "RON",
@@ -2188,7 +2158,7 @@
       "name": "Casca Ciclism AUTHOR Trickie 49-56 cm Rosu/Verde",
       "brand": "AUTHOR",
       "category": "➤ Casti Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
+      "category_path": "Echipamente > Casti > ➤ Casti Ciclism",
       "price": 44.0,
       "price_net": 36.36,
       "currency": "RON",
@@ -2216,7 +2186,7 @@
       "name": "Casca Ciclism AUTHOR Trickie 49-56 cm Verde/Albastru",
       "brand": "AUTHOR",
       "category": "➤ Casti Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
+      "category_path": "Echipamente > Casti > ➤ Casti Ciclism",
       "price": 44.0,
       "price_net": 36.36,
       "currency": "RON",
@@ -2245,8 +2215,8 @@
       "ean": "8590816024731",
       "name": "Lubrifiant cu Silicon pentru Furci AUTHOR Cycle Clinic 150 ml",
       "brand": "AUTHOR",
-      "category": "Bike Maintenance - Intretinere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
+      "category": "Intretinere",
+      "category_path": "Service > Intretinere Biciclete > Intretinere",
       "price": 44.0,
       "price_net": 36.36,
       "currency": "RON",
@@ -2259,7 +2229,7 @@
       ],
       "tags": [
         "AUTHOR",
-        "Bike Maintenance - Intretinere",
+        "Intretinere",
         "Service"
       ]
     },
@@ -2269,8 +2239,8 @@
       "ean": "8590816060999",
       "name": "Lubrifiant cu Silicon pentru Furci AUTHOR Cycle Clinic 400 ml",
       "brand": "AUTHOR",
-      "category": "Bike Maintenance - Intretinere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
+      "category": "Intretinere",
+      "category_path": "Service > Intretinere Biciclete > Intretinere",
       "price": 66.0,
       "price_net": 54.55,
       "currency": "RON",
@@ -2284,7 +2254,7 @@
       ],
       "tags": [
         "AUTHOR",
-        "Bike Maintenance - Intretinere",
+        "Intretinere",
         "Service"
       ]
     },
@@ -2348,8 +2318,8 @@
       "ean": "8590816036369",
       "name": "Solutie Curatat Lanturi AUTHOR Cycle Clinic 150 ml",
       "brand": "AUTHOR",
-      "category": "Bike Lube - Lubrefiere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "category": "Lubrefiere",
+      "category_path": "Service > Intretinere Biciclete > Lubrefiere",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -2364,7 +2334,7 @@
       ],
       "tags": [
         "AUTHOR",
-        "Bike Lube - Lubrefiere",
+        "Lubrefiere",
         "Service"
       ]
     },
@@ -2374,8 +2344,8 @@
       "ean": "8590816022201",
       "name": "Solutie Curatat Lanturi AUTHOR Cycle Clinic 400 ml",
       "brand": "AUTHOR",
-      "category": "Bike Lube - Lubrefiere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "category": "Lubrefiere",
+      "category_path": "Service > Intretinere Biciclete > Lubrefiere",
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -2390,7 +2360,7 @@
       ],
       "tags": [
         "AUTHOR",
-        "Bike Lube - Lubrefiere",
+        "Lubrefiere",
         "Service"
       ]
     },
@@ -2400,8 +2370,8 @@
       "ean": "8590816022218",
       "name": "Solutie Curatat Discuri AUTHOR Cycle Clinic 400 ml",
       "brand": "AUTHOR",
-      "category": "Bike Maintenance - Intretinere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
+      "category": "Intretinere",
+      "category_path": "Service > Intretinere Biciclete > Intretinere",
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -2416,7 +2386,7 @@
       ],
       "tags": [
         "AUTHOR",
-        "Bike Maintenance - Intretinere",
+        "Intretinere",
         "Service"
       ]
     },
@@ -2486,8 +2456,8 @@
       "ean": "8590816054288",
       "name": "Lubrifiant AUTHOR Cycle Clinic Chain Lube EXTREME 300 ml Rosu",
       "brand": "AUTHOR",
-      "category": "Bike Lube - Lubrefiere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "category": "Lubrefiere",
+      "category_path": "Service > Intretinere Biciclete > Lubrefiere",
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -2501,7 +2471,7 @@
       ],
       "tags": [
         "AUTHOR",
-        "Bike Lube - Lubrefiere",
+        "Lubrefiere",
         "Service"
       ],
       "specs": {
@@ -2514,8 +2484,8 @@
       "ean": "8590816022256",
       "name": "Lubrifiant AUTHOR Cycle Clinic Chain Lube 400 ml Negru",
       "brand": "AUTHOR",
-      "category": "Bike Lube - Lubrefiere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "category": "Lubrefiere",
+      "category_path": "Service > Intretinere Biciclete > Lubrefiere",
       "price": 63.8,
       "price_net": 52.73,
       "currency": "RON",
@@ -2530,7 +2500,7 @@
       ],
       "tags": [
         "AUTHOR",
-        "Bike Lube - Lubrefiere",
+        "Lubrefiere",
         "Service"
       ],
       "specs": {
@@ -2543,8 +2513,8 @@
       "ean": "8590816022249",
       "name": "Lubrifiant AUTHOR Cycle Clinic Chain Lube 150 ml Negru",
       "brand": "AUTHOR",
-      "category": "Bike Lube - Lubrefiere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "category": "Lubrefiere",
+      "category_path": "Service > Intretinere Biciclete > Lubrefiere",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -2558,7 +2528,7 @@
       ],
       "tags": [
         "AUTHOR",
-        "Bike Lube - Lubrefiere",
+        "Lubrefiere",
         "Service"
       ],
       "specs": {
@@ -2571,8 +2541,8 @@
       "ean": "8590816022232",
       "name": "Lubrifiant Multifunctional AUTHOR Cycle Clinic 400 ml",
       "brand": "AUTHOR",
-      "category": "Bike Lube - Lubrefiere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "category": "Lubrefiere",
+      "category_path": "Service > Intretinere Biciclete > Lubrefiere",
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -2586,7 +2556,7 @@
       ],
       "tags": [
         "AUTHOR",
-        "Bike Lube - Lubrefiere",
+        "Lubrefiere",
         "Service"
       ]
     },
@@ -2596,8 +2566,8 @@
       "ean": "8590816022263",
       "name": "Lubrifiant Multifunctional AUTHOR Cycle Clinic 150 ml",
       "brand": "AUTHOR",
-      "category": "Bike Lube - Lubrefiere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "category": "Lubrefiere",
+      "category_path": "Service > Intretinere Biciclete > Lubrefiere",
       "price": 35.2,
       "price_net": 29.09,
       "currency": "RON",
@@ -2611,7 +2581,7 @@
       ],
       "tags": [
         "AUTHOR",
-        "Bike Lube - Lubrefiere",
+        "Lubrefiere",
         "Service"
       ]
     },
@@ -3114,7 +3084,7 @@
       "id": "430925",
       "sku": "430925",
       "ean": "887539027889",
-      "name": "Cric Aluminiu M-WAVE 24\"-29\"-E-Bike",
+      "name": "Cric Aluminiu M-WAVE 24-29 -E-Bike",
       "brand": "M-WAVE",
       "category": "Cricuri Spate",
       "category_path": "Accesorii > Cricuri Bicicleta > Cricuri Spate",
@@ -3212,7 +3182,7 @@
       "name": "Bandana M-WAVE Purple Squared",
       "brand": "M-WAVE",
       "category": "Bandane Caciuli Sepci",
-      "category_path": "Echipamente > Bandane Caciuli Sepci",
+      "category_path": "Echipamente > Imbracaminte > Bandane Caciuli Sepci",
       "price": 20.9,
       "price_net": 17.27,
       "currency": "RON",
@@ -3242,7 +3212,7 @@
       "name": "Bandana M-WAVE Crazy Rings",
       "brand": "M-WAVE",
       "category": "Bandane Caciuli Sepci",
-      "category_path": "Echipamente > Bandane Caciuli Sepci",
+      "category_path": "Echipamente > Imbracaminte > Bandane Caciuli Sepci",
       "price": 20.9,
       "price_net": 17.27,
       "currency": "RON",
@@ -3269,7 +3239,7 @@
       "name": "Bandana M-WAVE Negru Fleece",
       "brand": "M-WAVE",
       "category": "Bandane Caciuli Sepci",
-      "category_path": "Echipamente > Bandane Caciuli Sepci",
+      "category_path": "Echipamente > Imbracaminte > Bandane Caciuli Sepci",
       "price": 26.4,
       "price_net": 21.82,
       "currency": "RON",
@@ -3297,8 +3267,8 @@
       "ean": "887539022631",
       "name": "KiT Service M-WAVE GUARD TEAM",
       "brand": "M-WAVE",
-      "category": "Bike Care - Ingrijire",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
+      "category": "Ingrijire",
+      "category_path": "Service > Intretinere Biciclete > Ingrijire",
       "price": 148.5,
       "price_net": 122.73,
       "currency": "RON",
@@ -3312,7 +3282,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/kit-service-m-wave-guard-team~8329063.jpg"
       ],
       "tags": [
-        "Bike Care - Ingrijire",
+        "Ingrijire",
         "M-WAVE",
         "Service"
       ]
@@ -3653,30 +3623,6 @@
       ]
     },
     {
-      "id": "IXS003",
-      "sku": "IXS003",
-      "ean": "8051772126896",
-      "name": "Cheie Lant SXT 5-12 V",
-      "brand": "SXT",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
-      "price": 148.5,
-      "price_net": 122.73,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/cheie-lant-sxt-5-12-v.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/cheie-lant-sxt-5-12-v~8329204.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/cheie-lant-sxt-5-12-v~8329204.jpg"
-      ],
-      "tags": [
-        "SXT",
-        "Service",
-        "Unelte Speciale Biciclete"
-      ]
-    },
-    {
       "id": "CVR448",
       "sku": "CVR448",
       "ean": "2801201000008",
@@ -3957,8 +3903,8 @@
       "ean": "4550170451004",
       "name": "Ulei Mineral SHIMANO 100 ml",
       "brand": "SHIMANO",
-      "category": "Bike Maintenance - Intretinere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
+      "category": "Intretinere",
+      "category_path": "Service > Intretinere Biciclete > Intretinere",
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -3970,7 +3916,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/ulei-mineral-shimano-100-ml~8329282.jpg"
       ],
       "tags": [
-        "Bike Maintenance - Intretinere",
+        "Intretinere",
         "SHIMANO",
         "Service"
       ]
@@ -3981,8 +3927,8 @@
       "ean": "8590816073593",
       "name": "Ochelari Junior AUTHOR INDEE (Galben-Neon)",
       "brand": "AUTHOR",
-      "category": "➤ Ochelari Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Ochelari Ciclism",
+      "category": "Ochelari Ciclism",
+      "category_path": "Echipamente > Ochelari Ciclism",
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -4000,7 +3946,7 @@
         "AUTHOR",
         "Copii",
         "Echipamente",
-        "➤ Ochelari Ciclism"
+        "Ochelari Ciclism"
       ],
       "specs": {
         "bike_type": [
@@ -4015,8 +3961,8 @@
       "ean": "8590816073609",
       "name": "Ochelari Junior AUTHOR INDEE (Roz-Neon)",
       "brand": "AUTHOR",
-      "category": "➤ Ochelari Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Ochelari Ciclism",
+      "category": "Ochelari Ciclism",
+      "category_path": "Echipamente > Ochelari Ciclism",
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -4034,7 +3980,7 @@
         "AUTHOR",
         "Copii",
         "Echipamente",
-        "➤ Ochelari Ciclism"
+        "Ochelari Ciclism"
       ],
       "specs": {
         "bike_type": [
@@ -4049,8 +3995,8 @@
       "ean": "8590816073616",
       "name": "Ochelari Junior AUTHOR INDEE (Albastru)",
       "brand": "AUTHOR",
-      "category": "➤ Ochelari Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Ochelari Ciclism",
+      "category": "Ochelari Ciclism",
+      "category_path": "Echipamente > Ochelari Ciclism",
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -4068,7 +4014,7 @@
         "AUTHOR",
         "Copii",
         "Echipamente",
-        "➤ Ochelari Ciclism"
+        "Ochelari Ciclism"
       ],
       "specs": {
         "bike_type": [
@@ -4286,8 +4232,8 @@
       "ean": "8055320656040",
       "name": "Cheie Pinioane 10T-19T",
       "brand": "SXT",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Pinioane",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
       "price": 132.0,
       "price_net": 109.09,
       "currency": "RON",
@@ -4302,7 +4248,7 @@
       "tags": [
         "SXT",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Pinioane"
       ]
     },
     {
@@ -4345,8 +4291,8 @@
       "brand": "M-WAVE",
       "category": "Cosuri  Spate",
       "category_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Spate",
-      "price": 60.5,
-      "price_net": 50.0,
+      "price": 55.0,
+      "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 17,
@@ -5082,8 +5028,8 @@
       "ean": "8717009434058",
       "name": "Ulei Mineral SHIMANO 1 L Rosu",
       "brand": "SHIMANO",
-      "category": "Bike Maintenance - Intretinere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
+      "category": "Intretinere",
+      "category_path": "Service > Intretinere Biciclete > Intretinere",
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
@@ -5096,7 +5042,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/ulei-mineral-shimano-1-l-rosu~8329816.jpg"
       ],
       "tags": [
-        "Bike Maintenance - Intretinere",
+        "Intretinere",
         "SHIMANO",
         "Service"
       ],
@@ -5449,8 +5395,8 @@
       "ean": "4524667097426",
       "name": "Cheie Monobloc SHIMANO TL-FC32",
       "brand": "SHIMANO",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 93.5,
       "price_net": 77.27,
       "currency": "RON",
@@ -5464,7 +5410,7 @@
       "tags": [
         "SHIMANO",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -5929,8 +5875,8 @@
       "ean": "4550170229061",
       "name": "Ulei Mineral SHIMANO 500 mi Rosu",
       "brand": "SHIMANO",
-      "category": "Bike Maintenance - Intretinere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
+      "category": "Intretinere",
+      "category_path": "Service > Intretinere Biciclete > Intretinere",
       "price": 93.5,
       "price_net": 77.27,
       "currency": "RON",
@@ -5943,7 +5889,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/ulei-mineral-shimano-500-mi-rosu~8330089.jpg"
       ],
       "tags": [
-        "Bike Maintenance - Intretinere",
+        "Intretinere",
         "SHIMANO",
         "Service"
       ],
@@ -6716,8 +6662,8 @@
       "ean": "4711126203126",
       "name": "Kit Reparat Pedale HT NANO - S pentru ANS",
       "brand": "HT COMPONENTS",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 605.0,
       "price_net": 500.0,
       "currency": "RON",
@@ -6731,7 +6677,7 @@
       "tags": [
         "HT COMPONENTS",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -6890,8 +6836,8 @@
       "secondary_categories": [
         "Accesorii > Antifurturi > Antifurturi Lant"
       ],
-      "price": 108.9,
-      "price_net": 90.0,
+      "price": 108.0,
+      "price_net": 89.26,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -7093,8 +7039,8 @@
       "ean": "887539021238",
       "name": "Ulei Special M-WAVE OIL GUARD BIO 100 ml",
       "brand": "M-WAVE",
-      "category": "Bike Lube - Lubrefiere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "category": "Lubrefiere",
+      "category_path": "Service > Intretinere Biciclete > Lubrefiere",
       "secondary_categories": [
         "Componente > Transmisie > Lanturi > Lanturi"
       ],
@@ -7110,7 +7056,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/ulei-special-m-wave-oil-guard-bio-100-ml~8330437.jpg"
       ],
       "tags": [
-        "Bike Lube - Lubrefiere",
+        "Lubrefiere",
         "M-WAVE",
         "Service"
       ]
@@ -7289,6 +7235,57 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D533",
+      "sku": "D533",
+      "ean": "7290107115445",
+      "name": "Ureche Cadru PILO D533 Cannondale",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d533-cannondale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d533-cannondale~8330470.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d533-cannondale~8330470.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d533-cannondale~8330473.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D537",
+      "sku": "D537",
+      "ean": "7290107115513",
+      "name": "Ureche Cadru PILO D537 Intense",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d537-intense.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d537-intense~8330476.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d537-intense~8330476.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7373,8 +7370,8 @@
       "id": "antifurturi-lant",
       "name": "Antifurturi Lant",
       "full_path": "Accesorii > Antifurturi > Antifurturi Lant",
-      "product_count": 10,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi-pliabile",
@@ -7394,8 +7391,8 @@
       "id": "antifurturi-cu-cifru",
       "name": "Antifurturi cu Cifru",
       "full_path": "Accesorii > Antifurturi > Antifurturi cu Cifru",
-      "product_count": 13,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 7
     },
     {
       "id": "anvelope-camere",
@@ -7447,30 +7444,30 @@
       "in_stock_count": 37
     },
     {
-      "id": "bagaje-borsete",
-      "name": "Bagaje - Borsete",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete",
-      "product_count": 2,
-      "in_stock_count": 2
+      "id": "b-b-pedalier",
+      "name": "B.B-Pedalier",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
+      "product_count": 21,
+      "in_stock_count": 19
     },
     {
       "id": "bagaje-cadru",
       "name": "Bagaje Cadru",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Cadru",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Cadru",
       "product_count": 17,
       "in_stock_count": 14
     },
     {
       "id": "bagaje-ghidon",
       "name": "Bagaje Ghidon",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Ghidon",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Ghidon",
       "product_count": 11,
       "in_stock_count": 10
     },
     {
       "id": "bagaje-spate",
       "name": "Bagaje Spate",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Spate",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Spate",
       "product_count": 43,
       "in_stock_count": 37
     },
@@ -7484,9 +7481,9 @@
     {
       "id": "bandane-caciuli-sepci",
       "name": "Bandane Caciuli Sepci",
-      "full_path": "Echipamente > Bandane Caciuli Sepci",
-      "product_count": 12,
-      "in_stock_count": 9
+      "full_path": "Echipamente > Imbracaminte > Bandane Caciuli Sepci",
+      "product_count": 14,
+      "in_stock_count": 11
     },
     {
       "id": "bar-tape-accesorii",
@@ -7524,13 +7521,6 @@
       "in_stock_count": 17
     },
     {
-      "id": "bike-care-ingrijire",
-      "name": "Bike Care - Ingrijire",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
-      "product_count": 6,
-      "in_stock_count": 3
-    },
-    {
       "id": "bike-computer",
       "name": "Bike Computer",
       "full_path": "Accesorii > Electronice > Bike Computer",
@@ -7538,18 +7528,11 @@
       "in_stock_count": 4
     },
     {
-      "id": "bike-lube-lubrefiere",
-      "name": "Bike Lube - Lubrefiere",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
-      "product_count": 13,
-      "in_stock_count": 5
-    },
-    {
-      "id": "bike-maintenance-intretinere",
-      "name": "Bike Maintenance - Intretinere",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
-      "product_count": 14,
-      "in_stock_count": 6
+      "id": "borsete-bagaje",
+      "name": "Borsete-Bagaje",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje",
+      "product_count": 2,
+      "in_stock_count": 2
     },
     {
       "id": "butuci-frana-disc",
@@ -7573,6 +7556,13 @@
       "in_stock_count": 41
     },
     {
+      "id": "butuci-axe",
+      "name": "Butuci-Axe",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Butuci-Axe",
+      "product_count": 12,
+      "in_stock_count": 7
+    },
+    {
       "id": "cabluri",
       "name": "Cabluri",
       "full_path": "Componente > Transmisie > Cabluri - Camasi > Cabluri",
@@ -7594,6 +7584,13 @@
       "in_stock_count": 2
     },
     {
+      "id": "cadru-furca",
+      "name": "Cadru-Furca",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
+      "product_count": 11,
+      "in_stock_count": 10
+    },
+    {
       "id": "camasi",
       "name": "Camasi",
       "full_path": "Componente > Transmisie > Cabluri - Camasi > Camasi",
@@ -7610,7 +7607,7 @@
     {
       "id": "carcase-prinderi-smartphone",
       "name": "Carcase - Prinderi SmartPhone",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Carcase - Prinderi SmartPhone",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
       "product_count": 9,
       "in_stock_count": 7
     },
@@ -7701,7 +7698,7 @@
     {
       "id": "depozitare-biciclete",
       "name": "Depozitare Biciclete",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare > Depozitare Biciclete",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
       "product_count": 21,
       "in_stock_count": 17
     },
@@ -7725,6 +7722,13 @@
       "full_path": "E-Mobility",
       "product_count": 7,
       "in_stock_count": 6
+    },
+    {
+      "id": "echipamente-atelier",
+      "name": "Echipamente Atelier",
+      "full_path": "Service > Unelte Service > Echipamente Atelier",
+      "product_count": 1,
+      "in_stock_count": 0
     },
     {
       "id": "flori-furca-distantiere-accesorii",
@@ -7783,6 +7787,13 @@
       "in_stock_count": 1
     },
     {
+      "id": "ingrijire",
+      "name": "Ingrijire",
+      "full_path": "Service > Intretinere Biciclete > Ingrijire",
+      "product_count": 6,
+      "in_stock_count": 3
+    },
+    {
       "id": "intinzatoare-lant",
       "name": "Intinzatoare Lant",
       "full_path": "Componente > Transmisie > Lanturi > Intinzatoare Lant",
@@ -7790,9 +7801,16 @@
       "in_stock_count": 4
     },
     {
+      "id": "intretinere",
+      "name": "Intretinere",
+      "full_path": "Service > Intretinere Biciclete > Intretinere",
+      "product_count": 14,
+      "in_stock_count": 6
+    },
+    {
       "id": "jachete-veste-ciclism",
       "name": "Jachete - Veste Ciclism",
-      "full_path": "Echipamente > Jachete - Veste Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Jachete - Veste Ciclism",
       "product_count": 6,
       "in_stock_count": 5
     },
@@ -7825,6 +7843,13 @@
       "in_stock_count": 58
     },
     {
+      "id": "lubrefiere",
+      "name": "Lubrefiere",
+      "full_path": "Service > Intretinere Biciclete > Lubrefiere",
+      "product_count": 13,
+      "in_stock_count": 5
+    },
+    {
       "id": "lumini",
       "name": "Lumini",
       "full_path": "Accesorii > Lumini",
@@ -7846,18 +7871,18 @@
       "in_stock_count": 27
     },
     {
+      "id": "manete-frana-schimbator",
+      "name": "Manete  Frana-Schimbator",
+      "full_path": "Componente > Transmisie > Schimbatoare > Manete  Frana-Schimbator",
+      "product_count": 3,
+      "in_stock_count": 3
+    },
+    {
       "id": "manete-frana",
       "name": "Manete Frana",
       "full_path": "Componente > Sisteme Franare > Manete Frana",
       "product_count": 19,
       "in_stock_count": 13
-    },
-    {
-      "id": "manete-frana-schimbator",
-      "name": "Manete Frana  - Schimbator",
-      "full_path": "Componente > Transmisie > Schimbatoare > Manete Frana  - Schimbator",
-      "product_count": 3,
-      "in_stock_count": 3
     },
     {
       "id": "manete-schimbator",
@@ -7902,6 +7927,13 @@
       "in_stock_count": 9
     },
     {
+      "id": "ochelari-ciclism",
+      "name": "Ochelari Ciclism",
+      "full_path": "Echipamente > Ochelari Ciclism",
+      "product_count": 8,
+      "in_stock_count": 0
+    },
+    {
       "id": "oglinzi",
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
@@ -7911,14 +7943,14 @@
     {
       "id": "pantaloni-ciclism",
       "name": "Pantaloni Ciclism",
-      "full_path": "Echipamente > Pantaloni Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Pantaloni Ciclism",
       "product_count": 5,
       "in_stock_count": 4
     },
     {
       "id": "pantofi-ciclism",
       "name": "Pantofi Ciclism",
-      "full_path": "Echipamente > Pantofi Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Pantofi Ciclism",
       "product_count": 1,
       "in_stock_count": 1
     },
@@ -8063,6 +8095,13 @@
       "in_stock_count": 46
     },
     {
+      "id": "roti-spite",
+      "name": "Roti-Spite",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
+      "product_count": 15,
+      "in_stock_count": 13
+    },
+    {
       "id": "roti-custom-hand-built",
       "name": "Roți Custom / Hand-Built",
       "full_path": "Roti > Roti Bicicleta > Roți Custom / Hand-Built",
@@ -8189,6 +8228,13 @@
       "in_stock_count": 30
     },
     {
+      "id": "stand-de-lucru",
+      "name": "Stand de Lucru",
+      "full_path": "Service > Unelte Service > Stand de Lucru",
+      "product_count": 7,
+      "in_stock_count": 6
+    },
+    {
       "id": "suporturi-bidon",
       "name": "Suporturi Bidon",
       "full_path": "Accesorii > Bidoane - Suporti > Suporturi Bidon",
@@ -8217,16 +8263,9 @@
       "in_stock_count": 27
     },
     {
-      "id": "transport-depozitare",
-      "name": "Transport - Depozitare",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare",
-      "product_count": 5,
-      "in_stock_count": 5
-    },
-    {
       "id": "transport-biciclete",
       "name": "Transport Biciclete",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare > Transport Biciclete",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Transport Biciclete",
       "product_count": 5,
       "in_stock_count": 1
     },
@@ -8238,9 +8277,16 @@
       "in_stock_count": 1
     },
     {
+      "id": "transport-depozitare",
+      "name": "Transport-Depozitare",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare",
+      "product_count": 5,
+      "in_stock_count": 5
+    },
+    {
       "id": "tricouri-ciclism",
       "name": "Tricouri Ciclism",
-      "full_path": "Echipamente > Tricouri Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Tricouri Ciclism",
       "product_count": 3,
       "in_stock_count": 2
     },
@@ -8252,18 +8298,60 @@
       "in_stock_count": 13
     },
     {
-      "id": "truse-unelte-mini-truse",
-      "name": "Truse Unelte - Mini Truse",
-      "full_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
-      "product_count": 17,
-      "in_stock_count": 16
+      "id": "truse-mini-truse",
+      "name": "Truse - Mini Truse",
+      "full_path": "Service > Unelte Service > Truse - Mini Truse",
+      "product_count": 14,
+      "in_stock_count": 13
     },
     {
       "id": "tubeless",
       "name": "Tubeless",
       "full_path": "Componente > Anvelope - Camere > Tubeless",
-      "product_count": 17,
-      "in_stock_count": 12
+      "product_count": 16,
+      "in_stock_count": 11
+    },
+    {
+      "id": "unelte-biciclete",
+      "name": "Unelte  Biciclete",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete",
+      "product_count": 68,
+      "in_stock_count": 55
+    },
+    {
+      "id": "unelte-anvelope",
+      "name": "Unelte Anvelope",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
+      "product_count": 11,
+      "in_stock_count": 8
+    },
+    {
+      "id": "unelte-frane",
+      "name": "Unelte Frane",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
+      "product_count": 8,
+      "in_stock_count": 8
+    },
+    {
+      "id": "unelte-lant",
+      "name": "Unelte Lant",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
+      "product_count": 12,
+      "in_stock_count": 10
+    },
+    {
+      "id": "unelte-pedale",
+      "name": "Unelte Pedale",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pedale",
+      "product_count": 4,
+      "in_stock_count": 4
+    },
+    {
+      "id": "unelte-pinioane",
+      "name": "Unelte Pinioane",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
+      "product_count": 10,
+      "in_stock_count": 8
     },
     {
       "id": "unelte-service",
@@ -8271,13 +8359,6 @@
       "full_path": "Service > Unelte Service",
       "product_count": 5,
       "in_stock_count": 3
-    },
-    {
-      "id": "unelte-speciale-biciclete",
-      "name": "Unelte Speciale Biciclete",
-      "full_path": "Service > Unelte Service > Unelte Speciale Biciclete",
-      "product_count": 177,
-      "in_stock_count": 144
     },
     {
       "id": "urechi-cadre",
@@ -8303,16 +8384,9 @@
     {
       "id": "casti-ciclism",
       "name": "➤ Casti Ciclism",
-      "full_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
-      "product_count": 18,
-      "in_stock_count": 4
-    },
-    {
-      "id": "ochelari-ciclism",
-      "name": "➤ Ochelari Ciclism",
-      "full_path": "Echipamente > Casti - Ochelari > ➤ Ochelari Ciclism",
-      "product_count": 8,
-      "in_stock_count": 0
+      "full_path": "Echipamente > Casti > ➤ Casti Ciclism",
+      "product_count": 16,
+      "in_stock_count": 2
     }
   ],
   "brands": [

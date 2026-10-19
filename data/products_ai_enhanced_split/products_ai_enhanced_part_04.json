@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-18T03:11:06.163237+00:00",
+  "last_updated": "2026-10-19T03:12:45.101972+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 4,
     "total_parts": 20,
     "product_range": "751-1000",
-    "original_total": 4780
+    "original_total": 4778
   },
   "products": [
     {
@@ -103,7 +103,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 76,
+      "stock_quantity": 74,
       "weight_kg": 0.16,
       "url": "https://www.bikestylish.ro/dinam-aero-an-lun-dreapta.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/dinam-aero-an-lun-dreapta~8283508.jpg",
@@ -130,7 +130,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 22,
+      "stock_quantity": 21,
       "weight_kg": 0.16,
       "url": "https://www.bikestylish.ro/dinam-aero-an-lun-stanga.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/dinam-aero-an-lun-stanga~8283511.jpg",
@@ -370,7 +370,7 @@
       "price_net": 12.4,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 28,
+      "stock_quantity": 27,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/stop-spate-pentru-dinam-sxt-portbagaj-2-leduri.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/stop-spate-pentru-dinam-sxt-portbagaj-2-leduri~8284390.jpg",
@@ -622,6 +622,9 @@
       "brand": "TRUMPF",
       "category": "Accesorii Lumini",
       "category_path": "Accesorii > Lumini > Accesorii Lumini",
+      "secondary_categories": [
+        "Accesorii > Lumini > Lumini Fata"
+      ],
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -651,7 +654,7 @@
       "name": "Remorca Bicicleta pentru Transport Animale M-WAVE PET RIDE",
       "brand": "M-WAVE",
       "category": "Transport Biciclete",
-      "category_path": "Accesorii > TRANSPORT > Transport - Depozitare > Transport Biciclete",
+      "category_path": "Accesorii > TRANSPORT > Transport-Depozitare > Transport Biciclete",
       "price": 1100.0,
       "price_net": 909.09,
       "currency": "RON",
@@ -677,8 +680,8 @@
       "ean": "887539010614",
       "name": "Lesa Caine M-WAVE",
       "brand": "M-WAVE",
-      "category": "Transport - Depozitare",
-      "category_path": "Accesorii > TRANSPORT > Transport - Depozitare",
+      "category": "Transport-Depozitare",
+      "category_path": "Accesorii > TRANSPORT > Transport-Depozitare",
       "price": 143.0,
       "price_net": 118.18,
       "currency": "RON",
@@ -696,7 +699,7 @@
       "tags": [
         "Accesorii",
         "M-WAVE",
-        "Transport - Depozitare"
+        "Transport-Depozitare"
       ]
     },
     {
@@ -1928,7 +1931,7 @@
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 10,
       "weight_kg": 0.27,
       "url": "https://www.bikestylish.ro/schimbator-spate-ventura-6-7-8-v-prindere-cadru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/schimbator-spate-ventura-6-7-8-v-prindere-cadru~8284561.jpg",
@@ -2256,7 +2259,7 @@
       "name": "Huse Pantofi Silicon M-WAVE TOE SHIELD",
       "brand": "M-WAVE",
       "category": "Pantofi Ciclism",
-      "category_path": "Echipamente > Pantofi Ciclism",
+      "category_path": "Echipamente > Imbracaminte > Pantofi Ciclism",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -2283,7 +2286,7 @@
       "name": "Incalzitoare Brate M-WAVE L/XL",
       "brand": "M-WAVE",
       "category": "Jachete - Veste Ciclism",
-      "category_path": "Echipamente > Jachete - Veste Ciclism",
+      "category_path": "Echipamente > Imbracaminte > Jachete - Veste Ciclism",
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -2308,7 +2311,7 @@
       "name": "Jacheta Softshell M-WAVE S",
       "brand": "M-WAVE",
       "category": "Jachete - Veste Ciclism",
-      "category_path": "Echipamente > Jachete - Veste Ciclism",
+      "category_path": "Echipamente > Imbracaminte > Jachete - Veste Ciclism",
       "price": 203.5,
       "price_net": 168.18,
       "currency": "RON",
@@ -2336,7 +2339,7 @@
       "name": "Jacheta Softshell M-WAVE M",
       "brand": "M-WAVE",
       "category": "Jachete - Veste Ciclism",
-      "category_path": "Echipamente > Jachete - Veste Ciclism",
+      "category_path": "Echipamente > Imbracaminte > Jachete - Veste Ciclism",
       "price": 203.5,
       "price_net": 168.18,
       "currency": "RON",
@@ -2364,7 +2367,7 @@
       "name": "Jacheta Softshell M-WAVE XXL",
       "brand": "M-WAVE",
       "category": "Jachete - Veste Ciclism",
-      "category_path": "Echipamente > Jachete - Veste Ciclism",
+      "category_path": "Echipamente > Imbracaminte > Jachete - Veste Ciclism",
       "price": 203.5,
       "price_net": 168.18,
       "currency": "RON",
@@ -2392,7 +2395,7 @@
       "name": "Boxeri cu Bazon FUSE M",
       "brand": "M-WAVE",
       "category": "Pantaloni Ciclism",
-      "category_path": "Echipamente > Pantaloni Ciclism",
+      "category_path": "Echipamente > Imbracaminte > Pantaloni Ciclism",
       "price": 163.9,
       "price_net": 135.45,
       "currency": "RON",
@@ -2420,7 +2423,7 @@
       "name": "Boxeri cu Bazon FUSE L",
       "brand": "M-WAVE",
       "category": "Pantaloni Ciclism",
-      "category_path": "Echipamente > Pantaloni Ciclism",
+      "category_path": "Echipamente > Imbracaminte > Pantaloni Ciclism",
       "price": 163.9,
       "price_net": 135.45,
       "currency": "RON",
@@ -2448,7 +2451,7 @@
       "name": "Boxeri cu Bazon FUSE XL",
       "brand": "M-WAVE",
       "category": "Pantaloni Ciclism",
-      "category_path": "Echipamente > Pantaloni Ciclism",
+      "category_path": "Echipamente > Imbracaminte > Pantaloni Ciclism",
       "price": 163.9,
       "price_net": 135.45,
       "currency": "RON",
@@ -2476,7 +2479,7 @@
       "name": "Bandana M-WAVE Negru",
       "brand": "M-WAVE",
       "category": "Bandane Caciuli Sepci",
-      "category_path": "Echipamente > Bandane Caciuli Sepci",
+      "category_path": "Echipamente > Imbracaminte > Bandane Caciuli Sepci",
       "price": 20.9,
       "price_net": 17.27,
       "currency": "RON",
@@ -2505,7 +2508,7 @@
       "name": "Bandana M-WAVE Dotted Camouflage",
       "brand": "M-WAVE",
       "category": "Bandane Caciuli Sepci",
-      "category_path": "Echipamente > Bandane Caciuli Sepci",
+      "category_path": "Echipamente > Imbracaminte > Bandane Caciuli Sepci",
       "price": 20.9,
       "price_net": 17.27,
       "currency": "RON",
@@ -2559,7 +2562,7 @@
       "name": "Pelerina Ploaie Adulti SXT Galben",
       "brand": "SXT",
       "category": "Jachete - Veste Ciclism",
-      "category_path": "Echipamente > Jachete - Veste Ciclism",
+      "category_path": "Echipamente > Imbracaminte > Jachete - Veste Ciclism",
       "price": 70.4,
       "price_net": 58.18,
       "currency": "RON",
@@ -2618,7 +2621,7 @@
       "name": "Husa Bicicleta-Scuter M-WAVE Negru, Tarpaulin, 215 x 135 x 65 cm",
       "brand": "M-WAVE",
       "category": "Depozitare Biciclete",
-      "category_path": "Accesorii > TRANSPORT > Transport - Depozitare > Depozitare Biciclete",
+      "category_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
       "price": 126.5,
       "price_net": 104.55,
       "currency": "RON",
@@ -2648,7 +2651,7 @@
       "name": "Husa Bicicleta VENTURA",
       "brand": "VENTURA",
       "category": "Depozitare Biciclete",
-      "category_path": "Accesorii > TRANSPORT > Transport - Depozitare > Depozitare Biciclete",
+      "category_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
@@ -2674,7 +2677,7 @@
       "name": "Casca Copii M-WAVE JUNIOR Zoo S(52-56 cm)",
       "brand": "M-WAVE",
       "category": "➤ Casti Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
+      "category_path": "Echipamente > Casti > ➤ Casti Ciclism",
       "price": 126.5,
       "price_net": 104.55,
       "currency": "RON",
@@ -2708,7 +2711,7 @@
       "name": "Casca Copii M-WAVE Sea Land Galben S(52-57 cm)",
       "brand": "M-WAVE",
       "category": "➤ Casti Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
+      "category_path": "Echipamente > Casti > ➤ Casti Ciclism",
       "price": 85.8,
       "price_net": 70.91,
       "currency": "RON",
@@ -2744,7 +2747,7 @@
       "name": "Casca Downhill M-WAVE ALL IN 1 M (54-58 cm) Negru Mat",
       "brand": "M-WAVE",
       "category": "➤ Casti Ciclism",
-      "category_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
+      "category_path": "Echipamente > Casti > ➤ Casti Ciclism",
       "price": 270.0,
       "price_net": 223.14,
       "currency": "RON",
@@ -2779,9 +2782,9 @@
       "name": "Cagula Bumbac SXT Negru",
       "brand": "SXT",
       "category": "Bandane Caciuli Sepci",
-      "category_path": "Echipamente > Bandane Caciuli Sepci",
+      "category_path": "Echipamente > Imbracaminte > Bandane Caciuli Sepci",
       "secondary_categories": [
-        "Echipamente > Casti - Ochelari > ➤ Casti Ciclism"
+        "Echipamente > Casti > ➤ Casti Ciclism"
       ],
       "price": 22.0,
       "price_net": 18.18,
@@ -2861,8 +2864,8 @@
       "ean": "887539021313",
       "name": "Vaselina Alba M-WAVE LUBE GUARD WHITE PTFE 100 g",
       "brand": "M-WAVE",
-      "category": "Bike Maintenance - Intretinere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
+      "category": "Intretinere",
+      "category_path": "Service > Intretinere Biciclete > Intretinere",
       "price": 53.9,
       "price_net": 44.55,
       "currency": "RON",
@@ -2876,7 +2879,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/vaselina-alba-m-wave-lube-guard-white-ptfe-100-g~8285365.jpg"
       ],
       "tags": [
-        "Bike Maintenance - Intretinere",
+        "Intretinere",
         "M-WAVE",
         "Service"
       ],
@@ -2890,8 +2893,8 @@
       "ean": "887539021269",
       "name": "Ulei pentru Lant M-WAVE CHAIN GUARD ULTRA 200 ml",
       "brand": "M-WAVE",
-      "category": "Bike Lube - Lubrefiere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "category": "Lubrefiere",
+      "category_path": "Service > Intretinere Biciclete > Lubrefiere",
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -2905,7 +2908,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/ulei-pentru-lant-m-wave-chain-guard-ultra-200-ml~8285368.jpg"
       ],
       "tags": [
-        "Bike Lube - Lubrefiere",
+        "Lubrefiere",
         "M-WAVE",
         "Service"
       ]
@@ -2916,8 +2919,8 @@
       "ean": "887539021221",
       "name": "Solutie Spalat Biciclete M-WAVE CLEAN GUARD 1000 ml",
       "brand": "M-WAVE",
-      "category": "Bike Care - Ingrijire",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
+      "category": "Ingrijire",
+      "category_path": "Service > Intretinere Biciclete > Ingrijire",
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -2930,7 +2933,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/solutie-spalat-biciclete-m-wave-clean-guard-1000-ml~8284681.jpg"
       ],
       "tags": [
-        "Bike Care - Ingrijire",
+        "Ingrijire",
         "M-WAVE",
         "Service"
       ]
@@ -2941,8 +2944,8 @@
       "ean": "887539021214",
       "name": "Solutie Spalat Biciclete M-WAVE CLEAN GUARD 500 ml",
       "brand": "M-WAVE",
-      "category": "Bike Care - Ingrijire",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
+      "category": "Ingrijire",
+      "category_path": "Service > Intretinere Biciclete > Ingrijire",
       "price": 44.0,
       "price_net": 36.36,
       "currency": "RON",
@@ -2955,7 +2958,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/4/solutie-spalat-biciclete-m-wave-clean-guard-500-ml~8284684.jpg"
       ],
       "tags": [
-        "Bike Care - Ingrijire",
+        "Ingrijire",
         "M-WAVE",
         "Service"
       ]
@@ -2966,8 +2969,11 @@
       "ean": "4712765145419",
       "name": "Stand de Lucru Montaj SUPER B TB-1971",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Stand de Lucru",
+      "category_path": "Service > Unelte Service > Stand de Lucru",
+      "secondary_categories": [
+        "Service > Unelte Service > Echipamente Atelier"
+      ],
       "price": 935.0,
       "price_net": 772.73,
       "currency": "RON",
@@ -2982,7 +2988,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Stand de Lucru"
       ]
     },
     {
@@ -2991,8 +2997,8 @@
       "ean": "4712765146911",
       "name": "Scula Protectie Ax - Filete SUPER B TB-8645",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Butuci-Axe",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Butuci-Axe",
       "price": 148.5,
       "price_net": 122.73,
       "currency": "RON",
@@ -3009,9 +3015,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/scula-protectie-ax-filete-super-b-tb-8645~8285383.jpg"
       ],
       "tags": [
+        "Butuci-Axe",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -3020,8 +3026,11 @@
       "ean": "4712765147277",
       "name": "Stand de Lucru SUPER B TB-WS35",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Stand de Lucru",
+      "category_path": "Service > Unelte Service > Stand de Lucru",
+      "secondary_categories": [
+        "Service > Unelte Service > Echipamente Atelier"
+      ],
       "price": 825.0,
       "price_net": 681.82,
       "currency": "RON",
@@ -3040,7 +3049,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Stand de Lucru"
       ]
     },
     {
@@ -3049,8 +3058,8 @@
       "ean": "4713331012296",
       "name": "Tensiometru Spite SUPER B TB-ST11",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Roti-Spite",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "price": 1705.0,
       "price_net": 1409.09,
       "currency": "RON",
@@ -3065,9 +3074,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/tensiometru-spite-super-b-tb-st11~8285413.jpg"
       ],
       "tags": [
+        "Roti-Spite",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -3076,8 +3085,8 @@
       "ean": "4712765147109",
       "name": "Unealta PRESS FIT SUPER B TB-1900B",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 605.0,
       "price_net": 500.0,
       "currency": "RON",
@@ -3094,9 +3103,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/unealta-press-fit-super-b-tb-1900b~8285431.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -3105,8 +3114,8 @@
       "ean": "4712765143743",
       "name": "Scula PRESS FIT SUPER B TB-1927A",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
@@ -3122,9 +3131,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/scula-press-fit-super-b-tb-1927a~8285440.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -3133,8 +3142,8 @@
       "ean": "4712765143033",
       "name": "Cheie B.B. SUPER B TB-BB10",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 132.0,
       "price_net": 109.09,
       "currency": "RON",
@@ -3151,9 +3160,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/cheie-b-b-super-b-tb-bb10~8285452.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -3162,8 +3171,8 @@
       "ean": "4712765143026",
       "name": "Cheie B.B. SUPER B TB-BB30",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 154.0,
       "price_net": 127.27,
       "currency": "RON",
@@ -3177,9 +3186,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/cheie-b-b-super-b-tb-bb30~8285458.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -3188,8 +3197,8 @@
       "ean": "4712765142975",
       "name": "Cheie B.B. SUPER B TB-BB20",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
@@ -3206,9 +3215,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/cheie-b-b-super-b-tb-bb20~8285470.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -3217,8 +3226,8 @@
       "ean": "4712765146799",
       "name": "Scula Indreptat Urechi Cadru SUPER B TB-1946",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Cadru-Furca",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
       "price": 325.0,
       "price_net": 268.6,
       "currency": "RON",
@@ -3235,9 +3244,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/scula-indreptat-urechi-cadru-super-b-tb-1946~8285482.jpg"
       ],
       "tags": [
+        "Cadru-Furca",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -3246,8 +3255,8 @@
       "ean": "4712765142999",
       "name": "Cheie Pinioane SUPER B TB-FW30",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Pinioane",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
       "price": 126.5,
       "price_net": 104.55,
       "currency": "RON",
@@ -3264,7 +3273,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Pinioane"
       ]
     },
     {
@@ -3273,8 +3282,8 @@
       "ean": "4713331010032",
       "name": "Scula 3 in 1 SUPER B TB-3327",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Lant",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
       "price": 137.5,
       "price_net": 113.64,
       "currency": "RON",
@@ -3293,7 +3302,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Lant"
       ]
     },
     {
@@ -3302,8 +3311,8 @@
       "ean": "4712947227322",
       "name": "Cheie Pinioane SUPER B TB-FW50 5~12 Viteze",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Pinioane",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
@@ -3322,7 +3331,7 @@
         "12 viteze",
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Pinioane"
       ],
       "specs": {
         "speeds": 12
@@ -3334,8 +3343,8 @@
       "ean": "4712765142982",
       "name": "Cheie Pinioane SUPER B TB-FW20",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Pinioane",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
       "price": 104.5,
       "price_net": 86.36,
       "currency": "RON",
@@ -3354,34 +3363,34 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Pinioane"
       ]
     },
     {
       "id": "880235",
       "sku": "880235",
       "ean": "4712765142913",
-      "name": "Cheie Cuveti SUPER B TB-HS36 32/36 mm 1â€ł-1.1/8â€ł",
+      "name": "Cheie Cuveti SUPER B TB-HS36 32-36 mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Cadru-Furca",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
       "price": 132.0,
       "price_net": 109.09,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 6,
       "weight_kg": 0.3,
-      "url": "https://www.bikestylish.ro/cheie-cuveti-super-b-tb-hs36-32-36-mm-1a-1-1-8a.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/cheie-cuveti-super-b-tb-hs36-32-36-mm-1a%E2%82%ACl-1-1-8a%E2%82%ACl~8284732.jpg",
+      "url": "https://www.bikestylish.ro/cheie-cuveti-super-b-tb-hs36-32-36-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/cheie-cuveti-super-b-tb-hs36-32-36-mm~8284732.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/cheie-cuveti-super-b-tb-hs36-32-36-mm-1a%E2%82%ACl-1-1-8a%E2%82%ACl~8284732.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/cheie-cuveti-super-b-tb-hs36-32-36-mm-1a%E2%82%ACl-1-1-8a%E2%82%ACl~8285536.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/cheie-cuveti-super-b-tb-hs36-32-36-mm-1a%E2%82%ACl-1-1-8a%E2%82%ACl~8285539.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/2/cheie-cuveti-super-b-tb-hs36-32-36-mm~8284732.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/cheie-cuveti-super-b-tb-hs36-32-36-mm~8285536.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/cheie-cuveti-super-b-tb-hs36-32-36-mm~8285539.jpg"
       ],
       "tags": [
+        "Cadru-Furca",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -3390,8 +3399,8 @@
       "ean": "4712765143019",
       "name": "Cheie Angrenaj SUPER B TB-CR10",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 93.5,
       "price_net": 77.27,
       "currency": "RON",
@@ -3408,9 +3417,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/cheie-angrenaj-super-b-tb-cr10~8285551.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -3419,8 +3428,8 @@
       "ean": "4712765143781",
       "name": "Cheie Pedale Multifunctionala SUPER B TB-MW50",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Pedale",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pedale",
       "price": 108.9,
       "price_net": 90.0,
       "currency": "RON",
@@ -3439,7 +3448,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Pedale"
       ]
     },
     {
@@ -3448,8 +3457,8 @@
       "ean": "4712765143811",
       "name": "Cheie Indreptat Discul de Frana SUPER B TB-MW40",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Frane",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
       "price": 97.9,
       "price_net": 80.91,
       "currency": "RON",
@@ -3467,7 +3476,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Frane"
       ]
     },
     {
@@ -3476,8 +3485,8 @@
       "ean": "4712765143545",
       "name": "Cheie Trei Brate Torx SUPER B TB-YY10",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -3496,7 +3505,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -3505,8 +3514,8 @@
       "ean": "4712765143514",
       "name": "Cheie Trei Brate Allen SUPER B TB-YY15",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -3525,7 +3534,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -3534,8 +3543,8 @@
       "ean": "4712765143552",
       "name": "Cheie Trei Brate Hex SUPER B TB-YY20",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -3552,7 +3561,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -3561,8 +3570,8 @@
       "ean": "4712765143774",
       "name": "Cheie Multifunctionala SUPER B TB-TH20",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 64.9,
       "price_net": 53.64,
       "currency": "RON",
@@ -3578,9 +3587,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-multifunctionala-super-b-tb-th20~8285617.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -3589,8 +3598,8 @@
       "ean": "4712765143637",
       "name": "Set Leviere Metal SUPER B TB-TL20",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Anvelope",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
       "price": 99.0,
       "price_net": 81.82,
       "currency": "RON",
@@ -3607,7 +3616,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Anvelope"
       ]
     },
     {
@@ -3616,8 +3625,8 @@
       "ean": "4712765145235",
       "name": "Presa Lant SUPER B TB-CC60 10~11 Viteze",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Lant",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
       "price": 135.0,
       "price_net": 111.57,
       "currency": "RON",
@@ -3636,7 +3645,7 @@
         "11 viteze",
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Lant"
       ],
       "specs": {
         "speeds": 11
@@ -3648,8 +3657,8 @@
       "ean": "4712765145228",
       "name": "Presa Lant SUPER B TB-CC50 5~10 Viteze",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Lant",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
       "price": 151.25,
       "price_net": 125.0,
       "currency": "RON",
@@ -3668,7 +3677,7 @@
         "10 viteze",
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Lant"
       ],
       "specs": {
         "speeds": 10
@@ -3680,8 +3689,8 @@
       "ean": "4712765143996",
       "name": "Cleste Multifunctional SUPER B TB-WC30",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Frane",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
       "price": 196.9,
       "price_net": 162.73,
       "currency": "RON",
@@ -3700,7 +3709,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Frane"
       ]
     },
     {
@@ -3709,8 +3718,8 @@
       "ean": "4712765143910",
       "name": "Trusa Scule Portabila SUPER B TBA-2000 36 Piese",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 950.0,
       "price_net": 785.12,
       "currency": "RON",
@@ -3729,7 +3738,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -3738,8 +3747,11 @@
       "ean": "887539025489",
       "name": "Piesa de Schimb Stand de Lucru SUPER B TB-WS20A",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Stand de Lucru",
+      "category_path": "Service > Unelte Service > Stand de Lucru",
+      "secondary_categories": [
+        "Service > Unelte Service > Echipamente Atelier"
+      ],
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -3757,7 +3769,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Stand de Lucru"
       ]
     },
     {
@@ -3766,8 +3778,8 @@
       "ean": "4712765143712",
       "name": "Cheie Departat Placute Frana SUPER B TB-8075",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Frane",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
       "price": 79.2,
       "price_net": 65.45,
       "currency": "RON",
@@ -3784,7 +3796,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Frane"
       ]
     },
     {
@@ -3793,8 +3805,8 @@
       "ean": "4712765149035",
       "name": "Scula pentru Reglat Placute de Frana SUPER B TB-BR10",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Frane",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
       "price": 27.5,
       "price_net": 22.73,
       "currency": "RON",
@@ -3813,7 +3825,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Frane"
       ]
     },
     {
@@ -3822,8 +3834,8 @@
       "ean": "4712765148779",
       "name": "Unealta Reglat Saboti SUPER B TB-BR20",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Frane",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
       "price": 42.9,
       "price_net": 35.45,
       "currency": "RON",
@@ -3841,7 +3853,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Frane"
       ]
     },
     {
@@ -3850,8 +3862,8 @@
       "ean": "4712765145433",
       "name": "Scula Taiat Tuburi SUPER B TB-1917",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Cadru-Furca",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
       "price": 438.9,
       "price_net": 362.73,
       "currency": "RON",
@@ -3868,9 +3880,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/scula-taiat-tuburi-super-b-tb-1917~8285767.jpg"
       ],
       "tags": [
+        "Cadru-Furca",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -3879,8 +3891,8 @@
       "ean": "4712765145426",
       "name": "Scula Desprins Head Set(Cuveti) SUPER B TB-1925",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Cadru-Furca",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
       "price": 220.0,
       "price_net": 181.82,
       "currency": "RON",
@@ -3897,9 +3909,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/scula-desprins-head-set-cuveti-super-b-tb-1925~8285788.jpg"
       ],
       "tags": [
+        "Cadru-Furca",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -3908,8 +3920,8 @@
       "ean": "2800020000008",
       "name": "Cheie Pinioane Casetate SUPER B TB-1015",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Pinioane",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -3925,7 +3937,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Pinioane"
       ]
     },
     {
@@ -3934,8 +3946,8 @@
       "ean": "4712765143224",
       "name": "Cheie Pinioane Filetate SUPER B TB-1045",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Pinioane",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
       "price": 30.8,
       "price_net": 25.45,
       "currency": "RON",
@@ -3952,7 +3964,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Pinioane"
       ]
     },
     {
@@ -3961,8 +3973,8 @@
       "ean": "4712765143255",
       "name": "Cheie Pinion SUPER B TB-1095",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Pinioane",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -3979,7 +3991,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Pinioane"
       ]
     },
     {
@@ -3988,8 +4000,8 @@
       "ean": "4712765146430",
       "name": "Cleste Lant 2 in 1 SUPER B TB-3323",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Lant",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
       "price": 66.0,
       "price_net": 54.55,
       "currency": "RON",
@@ -4006,7 +4018,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Lant"
       ]
     },
     {
@@ -4015,8 +4027,8 @@
       "ean": "4712765145884",
       "name": "Perie Curatat SUPER B TB-1711 3 in 1",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 33.0,
       "price_net": 27.27,
       "currency": "RON",
@@ -4035,7 +4047,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -4044,8 +4056,8 @@
       "ean": "4712765143620",
       "name": "Set 3 Leviere SUPER B TB-5566 Insertie Metalica",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Anvelope",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
       "price": 44.0,
       "price_net": 36.36,
       "currency": "RON",
@@ -4064,7 +4076,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Anvelope"
       ]
     },
     {
@@ -4073,8 +4085,8 @@
       "ean": "4712765148489",
       "name": "Levier Plastic SUPER B TB-5569",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Anvelope",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
       "price": 5.5,
       "price_net": 4.55,
       "currency": "RON",
@@ -4094,7 +4106,7 @@
         "Plastic",
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Anvelope"
       ],
       "specs": {
         "material": "Plastic"
@@ -4106,8 +4118,8 @@
       "ean": "4712947228886",
       "name": "Cheie E-Bike SUPER B TB-1069 BoschÂ® + BroseÂ® + YamahaÂ®",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "secondary_categories": [
         "E-Mobility"
       ],
@@ -4127,10 +4139,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/cheie-e-bike-super-b-tb-1069-boscha%C2%AE-brosea%C2%AE-yamahaa%C2%AE~8285878.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "E-Bike",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ],
       "specs": {
         "bike_type": [
@@ -4144,8 +4156,8 @@
       "ean": "4712947228626",
       "name": "Cheie E-Bike SUPER B TB-1067 BoschÂ®",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "secondary_categories": [
         "E-Mobility"
       ],
@@ -4163,10 +4175,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-e-bike-super-b-tb-1067-boscha%C2%AE~8285887.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "E-Bike",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ],
       "specs": {
         "bike_type": [
@@ -4180,8 +4192,8 @@
       "ean": "4712765146560",
       "name": "Cheie B.B. SUPER B TB-8912",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
@@ -4197,9 +4209,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/cheie-b-b-super-b-tb-8912~8285896.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -4208,8 +4220,8 @@
       "ean": "4712765147680",
       "name": "Cheie Pinion 1 Viteza SUPER B TB-8018",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 52.8,
       "price_net": 43.64,
       "currency": "RON",
@@ -4226,9 +4238,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/cheie-pinion-1-viteza-super-b-tb-8018~8285908.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -4237,8 +4249,8 @@
       "ean": "4712765143163",
       "name": "Cheie Monobloc SUPER B TB-1065",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -4254,9 +4266,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-monobloc-super-b-tb-1065~8285917.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -4265,8 +4277,8 @@
       "ean": "4712765145822",
       "name": "Cheie Spite SUPER B TB-SW05 3 in 1 Orange",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Roti-Spite",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "price": 19.8,
       "price_net": 16.36,
       "currency": "RON",
@@ -4283,9 +4295,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/cheie-spite-super-b-tb-sw05-3-in-1-orange~8285929.jpg"
       ],
       "tags": [
+        "Roti-Spite",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ],
       "specs": {
         "color": "Orange"
@@ -4297,8 +4309,8 @@
       "ean": "4712765147239",
       "name": "Cheie Pedale Dubla SUPER B TB-8625 2 x 15 mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Pedale",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pedale",
       "price": 75.9,
       "price_net": 62.73,
       "currency": "RON",
@@ -4314,7 +4326,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Pedale"
       ]
     },
     {
@@ -4323,8 +4335,8 @@
       "ean": "4712765145938",
       "name": "Cheie Conuri SUPER B TB-8648 13mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Butuci-Axe",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Butuci-Axe",
       "price": 33.0,
       "price_net": 27.27,
       "currency": "RON",
@@ -4339,9 +4351,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/cheie-conuri-super-b-tb-8648-13mm~8285941.jpg"
       ],
       "tags": [
+        "Butuci-Axe",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -4350,8 +4362,8 @@
       "ean": "4712765145945",
       "name": "Cheie Conuri SUPER B TB-8649 14mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Butuci-Axe",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Butuci-Axe",
       "price": 33.0,
       "price_net": 27.27,
       "currency": "RON",
@@ -4366,9 +4378,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-conuri-super-b-tb-8649-14mm~8285947.jpg"
       ],
       "tags": [
+        "Butuci-Axe",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -4377,8 +4389,8 @@
       "ean": "4712765145952",
       "name": "Cheie Conuri SUPER B TB-8650 15mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Butuci-Axe",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Butuci-Axe",
       "price": 33.0,
       "price_net": 27.27,
       "currency": "RON",
@@ -4393,9 +4405,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/3/cheie-conuri-super-b-tb-8650-15mm~8285953.jpg"
       ],
       "tags": [
+        "Butuci-Axe",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -4404,8 +4416,8 @@
       "ean": "4712765145969",
       "name": "Cheie Conuri SUPER B TB-8651 16mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Butuci-Axe",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Butuci-Axe",
       "price": 33.0,
       "price_net": 27.27,
       "currency": "RON",
@@ -4420,9 +4432,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/cheie-conuri-super-b-tb-8651-16mm~8285959.jpg"
       ],
       "tags": [
+        "Butuci-Axe",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -4431,8 +4443,8 @@
       "ean": "4712765145976",
       "name": "Cheie Conuri SUPER B TB-8652 17mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Butuci-Axe",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Butuci-Axe",
       "price": 33.0,
       "price_net": 27.27,
       "currency": "RON",
@@ -4447,9 +4459,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/cheie-conuri-super-b-tb-8652-17mm~8285965.jpg"
       ],
       "tags": [
+        "Butuci-Axe",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -4487,8 +4499,8 @@
       "ean": "4712765146577",
       "name": "Cheie Imbus ( Hex ) SUPER B TB-7631 Doua Capete 2 mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -4506,7 +4518,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -4515,8 +4527,8 @@
       "ean": "4712765146591",
       "name": "Cheie Imbus ( Hex ) SUPER B TB-7633 Doua Capete 3 mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -4534,7 +4546,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -4543,8 +4555,8 @@
       "ean": "4712765146607",
       "name": "Cheie Imbus ( Hex ) SUPER B TB-7634 Doua Capete 4 mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 45.0,
       "price_net": 37.19,
       "currency": "RON",
@@ -4563,7 +4575,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -4572,8 +4584,8 @@
       "ean": "4712765146614",
       "name": "Cheie Imbus ( Hex ) SUPER B TB-7635 Doua Capete 5 mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 52.8,
       "price_net": 43.64,
       "currency": "RON",
@@ -4592,7 +4604,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -4601,8 +4613,8 @@
       "ean": "4712765146621",
       "name": "Cheie Imbus ( Hex ) SUPER B TB-7636 Doua Capete 6 mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -4621,7 +4633,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -4630,8 +4642,8 @@
       "ean": "4712765146638",
       "name": "Cheie Imbus ( Hex ) SUPER B TB-7637 Doua Capete 8 mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
@@ -4650,7 +4662,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -4659,8 +4671,8 @@
       "ean": "4712765146645",
       "name": "Cheie Imbus ( Hex ) SUPER B TB-7638 Doua Capete 10 mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 82.5,
       "price_net": 68.18,
       "currency": "RON",
@@ -4679,7 +4691,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -4688,8 +4700,8 @@
       "ean": "4712765143484",
       "name": "Aparat Centrare Janta/Butuc SUPER B TB-1930 16\"~29\"",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Roti-Spite",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "price": 270.0,
       "price_net": 223.14,
       "currency": "RON",
@@ -4705,10 +4717,14 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/aparat-centrare-janta-butuc-super-b-tb-1930-16-29~8286106.jpg"
       ],
       "tags": [
+        "29 inch",
+        "Roti-Spite",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
-      ]
+        "Service"
+      ],
+      "specs": {
+        "wheel_size": "29"
+      }
     },
     {
       "id": "880040",
@@ -4716,8 +4732,8 @@
       "ean": "4712765145105",
       "name": "Trusa Mini Scule SUPER B TB-1170 24 Functii",
       "brand": "SUPER B",
-      "category": "Truse Unelte - Mini Truse",
-      "category_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
+      "category": "Truse - Mini Truse",
+      "category_path": "Service > Unelte Service > Truse - Mini Truse",
       "price": 151.8,
       "price_net": 125.45,
       "currency": "RON",
@@ -4735,7 +4751,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Truse Unelte - Mini Truse"
+        "Truse - Mini Truse"
       ]
     },
     {
@@ -4744,8 +4760,8 @@
       "ean": "4713331012715",
       "name": "Set Mini Scule SUPER B TB-FD08-BK 9 Functii",
       "brand": "SUPER B",
-      "category": "Truse Unelte - Mini Truse",
-      "category_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
+      "category": "Truse - Mini Truse",
+      "category_path": "Service > Unelte Service > Truse - Mini Truse",
       "price": 40.7,
       "price_net": 33.64,
       "currency": "RON",
@@ -4764,7 +4780,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Truse Unelte - Mini Truse"
+        "Truse - Mini Truse"
       ]
     },
     {
@@ -4773,8 +4789,8 @@
       "ean": "4712765148854",
       "name": "Scula Valve SUPER B TB-VC10",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Anvelope",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -4793,7 +4809,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Anvelope"
       ]
     },
     {
@@ -4802,8 +4818,8 @@
       "ean": "4712765147697",
       "name": "Cantar SUPER B TB-DS10 20g ~ 50 kg",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 280.5,
       "price_net": 231.82,
       "currency": "RON",
@@ -4821,7 +4837,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -4830,8 +4846,8 @@
       "ean": "4712765145396",
       "name": "Bol Magnetic SUPER B TB-1912",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 86.9,
       "price_net": 71.82,
       "currency": "RON",
@@ -4850,7 +4866,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -4859,8 +4875,8 @@
       "ean": "4015493880448",
       "name": "Vaselina Albastra(PTFE) EXUSTAR EG01+ 150 grame",
       "brand": "EXUSTAR",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 63.8,
       "price_net": 52.73,
       "currency": "RON",
@@ -4876,7 +4892,7 @@
       "tags": [
         "EXUSTAR",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ],
       "specs": {
         "color": "Alb"
@@ -4888,8 +4904,8 @@
       "ean": "2800062000004",
       "name": "Presa pentru Montat Head Set M-WAVE",
       "brand": "M-WAVE",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Cadru-Furca",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
       "price": 548.9,
       "price_net": 453.64,
       "currency": "RON",
@@ -4902,9 +4918,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/presa-pentru-montat-head-set-m-wave~8284891.jpg"
       ],
       "tags": [
+        "Cadru-Furca",
         "M-WAVE",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -4913,8 +4929,8 @@
       "ean": "2801535000002",
       "name": "Scula pentru montat Crown Race SXT",
       "brand": "SXT",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Cadru-Furca",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
       "price": 192.5,
       "price_net": 159.09,
       "currency": "RON",
@@ -4929,9 +4945,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/scula-pentru-montat-crown-race-sxt~8286196.jpg"
       ],
       "tags": [
+        "Cadru-Furca",
         "SXT",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -4940,8 +4956,8 @@
       "ean": "887539027797",
       "name": "Scula Montat Flori de Furca M-WAVE TW-F1 1.1/8'",
       "brand": "M-WAVE",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 75.9,
       "price_net": 62.73,
       "currency": "RON",
@@ -4957,7 +4973,7 @@
       "tags": [
         "M-WAVE",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -4966,8 +4982,8 @@
       "ean": "887539025366",
       "name": "Presa Montat B.B. M-WAVE",
       "brand": "M-WAVE",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 187.0,
       "price_net": 154.55,
       "currency": "RON",
@@ -4982,9 +4998,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/presa-montat-b-b-m-wave~8286205.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "M-WAVE",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -4993,8 +5009,8 @@
       "ean": "2800021000007",
       "name": "Cheie Angrenaj SXT 3-1 - Octalink, ISIS",
       "brand": "SXT",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 37.4,
       "price_net": 30.91,
       "currency": "RON",
@@ -5010,7 +5026,7 @@
       "tags": [
         "SXT",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -5019,8 +5035,8 @@
       "ean": "887539015732",
       "name": "Presa Hidraulica M-WAVE PRESS IT",
       "brand": "M-WAVE",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 250.8,
       "price_net": 207.27,
       "currency": "RON",
@@ -5039,7 +5055,7 @@
       "tags": [
         "M-WAVE",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -5048,8 +5064,8 @@
       "ean": "2800026000002",
       "name": "Cheie Pinioane Filetate SXT Negru",
       "brand": "SXT",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 19.8,
       "price_net": 16.36,
       "currency": "RON",
@@ -5065,7 +5081,7 @@
       "tags": [
         "SXT",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ],
       "specs": {
         "color": "Negru"
@@ -5105,8 +5121,8 @@
       "ean": "4015493221173",
       "name": "Aparat Masurat Lantul M-WAVE",
       "brand": "M-WAVE",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 17.0,
       "price_net": 14.05,
       "currency": "RON",
@@ -5123,7 +5139,7 @@
       "tags": [
         "M-WAVE",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -5161,10 +5177,10 @@
       "ean": "2800028000000",
       "name": "Rigla pentru Masurat Spite/Nipluri cnSPOKE SR-330",
       "brand": "cnSPOKE",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
-      "price": 60.5,
-      "price_net": 50.0,
+      "category": "Roti-Spite",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
+      "price": 55.0,
+      "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 8,
@@ -5179,8 +5195,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/0/rigla-pentru-masurat-spite-nipluri-cnspoke-sr-330~8286250.jpg"
       ],
       "tags": [
+        "Roti-Spite",
         "Service",
-        "Unelte Speciale Biciclete",
         "cnSPOKE"
       ]
     },
@@ -5296,8 +5312,11 @@
       "ean": "887539013356",
       "name": "Set Tarozi M-WAVE CUT 10 M x 4.5.6.8.10",
       "brand": "M-WAVE",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Cadru-Furca",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
+      "secondary_categories": [
+        "Service > Unelte Service > Truse - Mini Truse"
+      ],
       "price": 352.0,
       "price_net": 290.91,
       "currency": "RON",
@@ -5312,9 +5331,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/set-tarozi-m-wave-cut-10-m-x-4-5-6-8-10~8286277.jpg"
       ],
       "tags": [
+        "Cadru-Furca",
         "M-WAVE",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ],
       "specs": {
         "color": "Roz"
@@ -5326,8 +5345,8 @@
       "ean": "4015493880288",
       "name": "Set Mini Scule VENTURA 18 functii",
       "brand": "VENTURA",
-      "category": "Truse Unelte - Mini Truse",
-      "category_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
+      "category": "Truse - Mini Truse",
+      "category_path": "Service > Unelte Service > Truse - Mini Truse",
       "price": 64.9,
       "price_net": 53.64,
       "currency": "RON",
@@ -5343,7 +5362,7 @@
       ],
       "tags": [
         "Service",
-        "Truse Unelte - Mini Truse",
+        "Truse - Mini Truse",
         "VENTURA"
       ]
     },
@@ -5353,8 +5372,8 @@
       "ean": "4015493880394",
       "name": "Set Mini Scule M-WAVE 59 grame",
       "brand": "M-WAVE",
-      "category": "Truse Unelte - Mini Truse",
-      "category_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
+      "category": "Truse - Mini Truse",
+      "category_path": "Service > Unelte Service > Truse - Mini Truse",
       "price": 42.9,
       "price_net": 35.45,
       "currency": "RON",
@@ -5373,7 +5392,7 @@
       "tags": [
         "M-WAVE",
         "Service",
-        "Truse Unelte - Mini Truse"
+        "Truse - Mini Truse"
       ]
     },
     {
@@ -5382,8 +5401,8 @@
       "ean": "4015493880165",
       "name": "Aparat Centrat Roti M-WAVE, 12-29",
       "brand": "M-WAVE",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 715.0,
       "price_net": 590.91,
       "currency": "RON",
@@ -5399,7 +5418,7 @@
       "tags": [
         "M-WAVE",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -5408,8 +5427,11 @@
       "ean": "2801537000000",
       "name": "Piesa de Schimb Stand de Lucru M-WAVE",
       "brand": "M-WAVE",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Stand de Lucru",
+      "category_path": "Service > Unelte Service > Stand de Lucru",
+      "secondary_categories": [
+        "Service > Unelte Service > Echipamente Atelier"
+      ],
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -5425,7 +5447,7 @@
       "tags": [
         "M-WAVE",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Stand de Lucru"
       ]
     },
     {
@@ -5434,8 +5456,11 @@
       "ean": "887539010751",
       "name": "Stand de Lucru Universal M-WAVE Pliabil",
       "brand": "M-WAVE",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Stand de Lucru",
+      "category_path": "Service > Unelte Service > Stand de Lucru",
+      "secondary_categories": [
+        "Service > Unelte Service > Echipamente Atelier"
+      ],
       "price": 440.0,
       "price_net": 363.64,
       "currency": "RON",
@@ -5452,7 +5477,7 @@
       "tags": [
         "M-WAVE",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Stand de Lucru"
       ]
     },
     {
@@ -5501,7 +5526,7 @@
       "category": "Service",
       "category_path": "Service",
       "secondary_categories": [
-        "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere"
+        "Service > Intretinere Biciclete > Intretinere"
       ],
       "price": 15.4,
       "price_net": 12.73,
@@ -5526,8 +5551,8 @@
       "ean": "887539026172",
       "name": "Scula Angrenaj E-BIKE M-WAVE BB SCREW 2",
       "brand": "M-WAVE",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 126.5,
       "price_net": 104.55,
       "currency": "RON",
@@ -5546,7 +5571,7 @@
         "E-Bike",
         "M-WAVE",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ],
       "specs": {
         "bike_type": [
@@ -5560,8 +5585,8 @@
       "ean": "887539027964",
       "name": "Cheie pinioane Casetate M-WAVE TW-D1",
       "brand": "M-WAVE",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 31.9,
       "price_net": 26.36,
       "currency": "RON",
@@ -5578,7 +5603,7 @@
       "tags": [
         "M-WAVE",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -5645,8 +5670,8 @@
       "ean": "4524667415022",
       "name": "Maneta Frana/Schimbator SHIMANO ST-EF500 3v(Stanga)",
       "brand": "SHIMANO",
-      "category": "Manete Frana  - Schimbator",
-      "category_path": "Componente > Transmisie > Schimbatoare > Manete Frana  - Schimbator",
+      "category": "Manete  Frana-Schimbator",
+      "category_path": "Componente > Transmisie > Schimbatoare > Manete  Frana-Schimbator",
       "price": 88.0,
       "price_net": 72.73,
       "currency": "RON",
@@ -5660,7 +5685,7 @@
       "tags": [
         "3 viteze",
         "Componente",
-        "Manete Frana  - Schimbator",
+        "Manete  Frana-Schimbator",
         "SHIMANO"
       ],
       "specs": {
@@ -7122,8 +7147,8 @@
       "id": "antifurturi-lant",
       "name": "Antifurturi Lant",
       "full_path": "Accesorii > Antifurturi > Antifurturi Lant",
-      "product_count": 10,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi-pliabile",
@@ -7143,8 +7168,8 @@
       "id": "antifurturi-cu-cifru",
       "name": "Antifurturi cu Cifru",
       "full_path": "Accesorii > Antifurturi > Antifurturi cu Cifru",
-      "product_count": 13,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 7
     },
     {
       "id": "anvelope-camere",
@@ -7196,30 +7221,30 @@
       "in_stock_count": 37
     },
     {
-      "id": "bagaje-borsete",
-      "name": "Bagaje - Borsete",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete",
-      "product_count": 2,
-      "in_stock_count": 2
+      "id": "b-b-pedalier",
+      "name": "B.B-Pedalier",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
+      "product_count": 21,
+      "in_stock_count": 19
     },
     {
       "id": "bagaje-cadru",
       "name": "Bagaje Cadru",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Cadru",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Cadru",
       "product_count": 17,
       "in_stock_count": 14
     },
     {
       "id": "bagaje-ghidon",
       "name": "Bagaje Ghidon",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Ghidon",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Ghidon",
       "product_count": 11,
       "in_stock_count": 10
     },
     {
       "id": "bagaje-spate",
       "name": "Bagaje Spate",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Spate",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Spate",
       "product_count": 43,
       "in_stock_count": 37
     },
@@ -7233,9 +7258,9 @@
     {
       "id": "bandane-caciuli-sepci",
       "name": "Bandane Caciuli Sepci",
-      "full_path": "Echipamente > Bandane Caciuli Sepci",
-      "product_count": 12,
-      "in_stock_count": 9
+      "full_path": "Echipamente > Imbracaminte > Bandane Caciuli Sepci",
+      "product_count": 14,
+      "in_stock_count": 11
     },
     {
       "id": "bar-tape-accesorii",
@@ -7273,13 +7298,6 @@
       "in_stock_count": 17
     },
     {
-      "id": "bike-care-ingrijire",
-      "name": "Bike Care - Ingrijire",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
-      "product_count": 6,
-      "in_stock_count": 3
-    },
-    {
       "id": "bike-computer",
       "name": "Bike Computer",
       "full_path": "Accesorii > Electronice > Bike Computer",
@@ -7287,18 +7305,11 @@
       "in_stock_count": 4
     },
     {
-      "id": "bike-lube-lubrefiere",
-      "name": "Bike Lube - Lubrefiere",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
-      "product_count": 13,
-      "in_stock_count": 5
-    },
-    {
-      "id": "bike-maintenance-intretinere",
-      "name": "Bike Maintenance - Intretinere",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
-      "product_count": 14,
-      "in_stock_count": 6
+      "id": "borsete-bagaje",
+      "name": "Borsete-Bagaje",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje",
+      "product_count": 2,
+      "in_stock_count": 2
     },
     {
       "id": "butuci-frana-disc",
@@ -7322,6 +7333,13 @@
       "in_stock_count": 41
     },
     {
+      "id": "butuci-axe",
+      "name": "Butuci-Axe",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Butuci-Axe",
+      "product_count": 12,
+      "in_stock_count": 7
+    },
+    {
       "id": "cabluri",
       "name": "Cabluri",
       "full_path": "Componente > Transmisie > Cabluri - Camasi > Cabluri",
@@ -7343,6 +7361,13 @@
       "in_stock_count": 2
     },
     {
+      "id": "cadru-furca",
+      "name": "Cadru-Furca",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
+      "product_count": 11,
+      "in_stock_count": 10
+    },
+    {
       "id": "camasi",
       "name": "Camasi",
       "full_path": "Componente > Transmisie > Cabluri - Camasi > Camasi",
@@ -7359,7 +7384,7 @@
     {
       "id": "carcase-prinderi-smartphone",
       "name": "Carcase - Prinderi SmartPhone",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Carcase - Prinderi SmartPhone",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
       "product_count": 9,
       "in_stock_count": 7
     },
@@ -7450,7 +7475,7 @@
     {
       "id": "depozitare-biciclete",
       "name": "Depozitare Biciclete",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare > Depozitare Biciclete",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
       "product_count": 21,
       "in_stock_count": 17
     },
@@ -7474,6 +7499,13 @@
       "full_path": "E-Mobility",
       "product_count": 7,
       "in_stock_count": 6
+    },
+    {
+      "id": "echipamente-atelier",
+      "name": "Echipamente Atelier",
+      "full_path": "Service > Unelte Service > Echipamente Atelier",
+      "product_count": 1,
+      "in_stock_count": 0
     },
     {
       "id": "flori-furca-distantiere-accesorii",
@@ -7532,6 +7564,13 @@
       "in_stock_count": 1
     },
     {
+      "id": "ingrijire",
+      "name": "Ingrijire",
+      "full_path": "Service > Intretinere Biciclete > Ingrijire",
+      "product_count": 6,
+      "in_stock_count": 3
+    },
+    {
       "id": "intinzatoare-lant",
       "name": "Intinzatoare Lant",
       "full_path": "Componente > Transmisie > Lanturi > Intinzatoare Lant",
@@ -7539,9 +7578,16 @@
       "in_stock_count": 4
     },
     {
+      "id": "intretinere",
+      "name": "Intretinere",
+      "full_path": "Service > Intretinere Biciclete > Intretinere",
+      "product_count": 14,
+      "in_stock_count": 6
+    },
+    {
       "id": "jachete-veste-ciclism",
       "name": "Jachete - Veste Ciclism",
-      "full_path": "Echipamente > Jachete - Veste Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Jachete - Veste Ciclism",
       "product_count": 6,
       "in_stock_count": 5
     },
@@ -7574,6 +7620,13 @@
       "in_stock_count": 58
     },
     {
+      "id": "lubrefiere",
+      "name": "Lubrefiere",
+      "full_path": "Service > Intretinere Biciclete > Lubrefiere",
+      "product_count": 13,
+      "in_stock_count": 5
+    },
+    {
       "id": "lumini",
       "name": "Lumini",
       "full_path": "Accesorii > Lumini",
@@ -7595,18 +7648,18 @@
       "in_stock_count": 27
     },
     {
+      "id": "manete-frana-schimbator",
+      "name": "Manete  Frana-Schimbator",
+      "full_path": "Componente > Transmisie > Schimbatoare > Manete  Frana-Schimbator",
+      "product_count": 3,
+      "in_stock_count": 3
+    },
+    {
       "id": "manete-frana",
       "name": "Manete Frana",
       "full_path": "Componente > Sisteme Franare > Manete Frana",
       "product_count": 19,
       "in_stock_count": 13
-    },
-    {
-      "id": "manete-frana-schimbator",
-      "name": "Manete Frana  - Schimbator",
-      "full_path": "Componente > Transmisie > Schimbatoare > Manete Frana  - Schimbator",
-      "product_count": 3,
-      "in_stock_count": 3
     },
     {
       "id": "manete-schimbator",
@@ -7651,6 +7704,13 @@
       "in_stock_count": 9
     },
     {
+      "id": "ochelari-ciclism",
+      "name": "Ochelari Ciclism",
+      "full_path": "Echipamente > Ochelari Ciclism",
+      "product_count": 8,
+      "in_stock_count": 0
+    },
+    {
       "id": "oglinzi",
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
@@ -7660,14 +7720,14 @@
     {
       "id": "pantaloni-ciclism",
       "name": "Pantaloni Ciclism",
-      "full_path": "Echipamente > Pantaloni Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Pantaloni Ciclism",
       "product_count": 5,
       "in_stock_count": 4
     },
     {
       "id": "pantofi-ciclism",
       "name": "Pantofi Ciclism",
-      "full_path": "Echipamente > Pantofi Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Pantofi Ciclism",
       "product_count": 1,
       "in_stock_count": 1
     },
@@ -7812,6 +7872,13 @@
       "in_stock_count": 46
     },
     {
+      "id": "roti-spite",
+      "name": "Roti-Spite",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
+      "product_count": 15,
+      "in_stock_count": 13
+    },
+    {
       "id": "roti-custom-hand-built",
       "name": "Roți Custom / Hand-Built",
       "full_path": "Roti > Roti Bicicleta > Roți Custom / Hand-Built",
@@ -7938,6 +8005,13 @@
       "in_stock_count": 30
     },
     {
+      "id": "stand-de-lucru",
+      "name": "Stand de Lucru",
+      "full_path": "Service > Unelte Service > Stand de Lucru",
+      "product_count": 7,
+      "in_stock_count": 6
+    },
+    {
       "id": "suporturi-bidon",
       "name": "Suporturi Bidon",
       "full_path": "Accesorii > Bidoane - Suporti > Suporturi Bidon",
@@ -7966,16 +8040,9 @@
       "in_stock_count": 27
     },
     {
-      "id": "transport-depozitare",
-      "name": "Transport - Depozitare",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare",
-      "product_count": 5,
-      "in_stock_count": 5
-    },
-    {
       "id": "transport-biciclete",
       "name": "Transport Biciclete",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare > Transport Biciclete",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Transport Biciclete",
       "product_count": 5,
       "in_stock_count": 1
     },
@@ -7987,9 +8054,16 @@
       "in_stock_count": 1
     },
     {
+      "id": "transport-depozitare",
+      "name": "Transport-Depozitare",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare",
+      "product_count": 5,
+      "in_stock_count": 5
+    },
+    {
       "id": "tricouri-ciclism",
       "name": "Tricouri Ciclism",
-      "full_path": "Echipamente > Tricouri Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Tricouri Ciclism",
       "product_count": 3,
       "in_stock_count": 2
     },
@@ -8001,18 +8075,60 @@
       "in_stock_count": 13
     },
     {
-      "id": "truse-unelte-mini-truse",
-      "name": "Truse Unelte - Mini Truse",
-      "full_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
-      "product_count": 17,
-      "in_stock_count": 16
+      "id": "truse-mini-truse",
+      "name": "Truse - Mini Truse",
+      "full_path": "Service > Unelte Service > Truse - Mini Truse",
+      "product_count": 14,
+      "in_stock_count": 13
     },
     {
       "id": "tubeless",
       "name": "Tubeless",
       "full_path": "Componente > Anvelope - Camere > Tubeless",
-      "product_count": 17,
-      "in_stock_count": 12
+      "product_count": 16,
+      "in_stock_count": 11
+    },
+    {
+      "id": "unelte-biciclete",
+      "name": "Unelte  Biciclete",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete",
+      "product_count": 68,
+      "in_stock_count": 55
+    },
+    {
+      "id": "unelte-anvelope",
+      "name": "Unelte Anvelope",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
+      "product_count": 11,
+      "in_stock_count": 8
+    },
+    {
+      "id": "unelte-frane",
+      "name": "Unelte Frane",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
+      "product_count": 8,
+      "in_stock_count": 8
+    },
+    {
+      "id": "unelte-lant",
+      "name": "Unelte Lant",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
+      "product_count": 12,
+      "in_stock_count": 10
+    },
+    {
+      "id": "unelte-pedale",
+      "name": "Unelte Pedale",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pedale",
+      "product_count": 4,
+      "in_stock_count": 4
+    },
+    {
+      "id": "unelte-pinioane",
+      "name": "Unelte Pinioane",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
+      "product_count": 10,
+      "in_stock_count": 8
     },
     {
       "id": "unelte-service",
@@ -8020,13 +8136,6 @@
       "full_path": "Service > Unelte Service",
       "product_count": 5,
       "in_stock_count": 3
-    },
-    {
-      "id": "unelte-speciale-biciclete",
-      "name": "Unelte Speciale Biciclete",
-      "full_path": "Service > Unelte Service > Unelte Speciale Biciclete",
-      "product_count": 177,
-      "in_stock_count": 144
     },
     {
       "id": "urechi-cadre",
@@ -8052,16 +8161,9 @@
     {
       "id": "casti-ciclism",
       "name": "➤ Casti Ciclism",
-      "full_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
-      "product_count": 18,
-      "in_stock_count": 4
-    },
-    {
-      "id": "ochelari-ciclism",
-      "name": "➤ Ochelari Ciclism",
-      "full_path": "Echipamente > Casti - Ochelari > ➤ Ochelari Ciclism",
-      "product_count": 8,
-      "in_stock_count": 0
+      "full_path": "Echipamente > Casti > ➤ Casti Ciclism",
+      "product_count": 16,
+      "in_stock_count": 2
     }
   ],
   "brands": [

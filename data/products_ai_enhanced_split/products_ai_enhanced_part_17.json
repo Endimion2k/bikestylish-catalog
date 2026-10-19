@@ -1,66 +1,14 @@
 {
-  "last_updated": "2026-10-18T03:11:06.163237+00:00",
+  "last_updated": "2026-10-19T03:12:45.101972+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 17,
     "total_parts": 20,
     "product_range": "4001-4250",
-    "original_total": 4780
+    "original_total": 4778
   },
   "products": [
-    {
-      "id": "122473",
-      "sku": "122473",
-      "ean": "887539047979",
-      "name": "Suport Prindere + Cutie Portbagaj M-WAVE Amsterdam Box L QR",
-      "brand": "M-WAVE",
-      "category": "Bagaje Spate",
-      "category_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Spate",
-      "price": 438.9,
-      "price_net": 362.73,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 2.6,
-      "url": "https://www.bikestylish.ro/suport-prindere-cutie-portbagaj-m-wave-amsterdam-box-l-qr.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/suport-prindere-cutie-portbagaj-m-wave-amsterdam-box-l-qr~8342047.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/suport-prindere-cutie-portbagaj-m-wave-amsterdam-box-l-qr~8342047.jpg"
-      ],
-      "tags": [
-        "Accesorii",
-        "Bagaje Spate",
-        "M-WAVE"
-      ]
-    },
-    {
-      "id": "385140",
-      "sku": "385140",
-      "ean": "887539047825",
-      "name": "Set Aparatori noroi M-WAVE Mud Max R-Mud 32mm",
-      "brand": "M-WAVE",
-      "category": "Seturi Aparatori",
-      "category_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
-      "price": 176.0,
-      "price_net": 145.45,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 16,
-      "weight_kg": 0.4,
-      "url": "https://www.bikestylish.ro/set-aparatori-noroi-m-wave-mud-max-r-mud-32mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/set-aparatori-noroi-m-wave-mud-max-r-mud-32mm~8342050.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/set-aparatori-noroi-m-wave-mud-max-r-mud-32mm~8342050.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/set-aparatori-noroi-m-wave-mud-max-r-mud-32mm~8342053.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/set-aparatori-noroi-m-wave-mud-max-r-mud-32mm~8342056.jpg"
-      ],
-      "tags": [
-        "Accesorii",
-        "M-WAVE",
-        "Seturi Aparatori"
-      ]
-    },
     {
       "id": "385141",
       "sku": "385141",
@@ -2138,8 +2086,8 @@
       "ean": "4712947229333",
       "name": "Presa SUPER B TB-19003 B.B, Press Fit",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 346.5,
       "price_net": 286.36,
       "currency": "RON",
@@ -2151,9 +2099,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/presa-super-b-tb-19003-b-b-press-fit~8342662.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -2196,7 +2144,7 @@
       "name": "Adaptor Remorca Bicicleta VENTURA",
       "brand": "VENTURA",
       "category": "Transport Biciclete",
-      "category_path": "Accesorii > TRANSPORT > Transport - Depozitare > Transport Biciclete",
+      "category_path": "Accesorii > TRANSPORT > Transport-Depozitare > Transport Biciclete",
       "price": 74.8,
       "price_net": 61.82,
       "currency": "RON",
@@ -2967,8 +2915,8 @@
       "sku": "880073",
       "name": "Stand Base SUPER B TB-WS40, TB-WS12",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 2475.0,
       "price_net": 2045.45,
       "currency": "RON",
@@ -2984,7 +2932,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -2993,8 +2941,8 @@
       "ean": "4712765148458",
       "name": "Kit Reparatii SUPER B TB-1118 - AutoAdeziv",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Anvelope",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
       "secondary_categories": [
         "Componente > Anvelope - Camere > Camere Bicicleta"
       ],
@@ -3014,7 +2962,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Anvelope"
       ]
     },
     {
@@ -3172,8 +3120,8 @@
       "ean": "4712765146928",
       "name": "Suport + Chei SUPER B TB-76160 Allen",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 462.0,
       "price_net": 381.82,
       "currency": "RON",
@@ -3189,7 +3137,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -3315,7 +3263,7 @@
       "name": "Suport Metal Depozitare SXT BB-Set 20-29 Negru",
       "brand": "SXT",
       "category": "Depozitare Biciclete",
-      "category_path": "Accesorii > TRANSPORT > Transport - Depozitare > Depozitare Biciclete",
+      "category_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
       "price": 88.0,
       "price_net": 72.73,
       "currency": "RON",
@@ -3452,8 +3400,8 @@
       "sku": "880068",
       "name": "Tavita Unelte SXT - Plastic Rosu",
       "brand": "SXT",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -3469,7 +3417,7 @@
         "Plastic",
         "SXT",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ],
       "specs": {
         "material": "Plastic",
@@ -5142,8 +5090,8 @@
       "ean": "4712765149783",
       "name": "Cheie Pinion Freewheel SUPER B TB-1018",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Pinioane",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
       "price": 82.5,
       "price_net": 68.18,
       "currency": "RON",
@@ -5160,7 +5108,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Pinioane"
       ]
     },
     {
@@ -5169,8 +5117,8 @@
       "ean": "4710898412132",
       "name": "Cheie SUPER B TB-1078 B.B./ E-bike lockring",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 108.9,
       "price_net": 90.0,
       "currency": "RON",
@@ -5183,10 +5131,10 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/cheie-super-b-tb-1078-b-b-e-bike-lockring~8343712.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "E-Bike",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ],
       "specs": {
         "bike_type": [
@@ -5200,8 +5148,8 @@
       "ean": "4712947229531",
       "name": "Cheie SUPER B TB-1074 Shimano ® Lockring / B.B",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 121.0,
       "price_net": 100.0,
       "currency": "RON",
@@ -5215,9 +5163,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/cheie-super-b-tb-1074-shimano-%C2%AE-lockring-b-b~8343718.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -5226,8 +5174,8 @@
       "ean": "4713331018977",
       "name": "Cheie SUPER B TB-1071 Shimano® Lockring Tool",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "B.B-Pedalier",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
       "price": 154.0,
       "price_net": 127.27,
       "currency": "RON",
@@ -5240,9 +5188,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/cheie-super-b-tb-1071-shimano%C2%AE-lockring-tool~8343721.jpg"
       ],
       "tags": [
+        "B.B-Pedalier",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -5251,8 +5199,8 @@
       "ean": "4712765146515",
       "name": "Cheie SUPER B TB-HB08 - 28 / 18 mm",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Butuci-Axe",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Butuci-Axe",
       "price": 93.5,
       "price_net": 77.27,
       "currency": "RON",
@@ -5266,9 +5214,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-super-b-tb-hb08-28-18-mm~8343727.jpg"
       ],
       "tags": [
+        "Butuci-Axe",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -5277,8 +5225,8 @@
       "ean": "4712765143101",
       "name": "Cheie Pedale SUPER B TB-PD10",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte Pedale",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pedale",
       "price": 159.5,
       "price_net": 131.82,
       "currency": "RON",
@@ -5295,7 +5243,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte Pedale"
       ]
     },
     {
@@ -5330,7 +5278,7 @@
       "name": "Borseta Cadru M-WAVE Rough Ride Triangle 4 l",
       "brand": "M-WAVE",
       "category": "Bagaje Cadru",
-      "category_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Cadru",
+      "category_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Cadru",
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
@@ -5387,11 +5335,12 @@
       "ean": "887539036744",
       "name": "Kit Tubeless M-WAVE Repair Fix Eco",
       "brand": "M-WAVE",
-      "category": "Tubeless",
-      "category_path": "Componente > Anvelope - Camere > Tubeless",
+      "category": "Unelte Anvelope",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
       "secondary_categories": [
         "Componente > Anvelope - Camere > Anvelope Pliabile",
-        "Service > Unelte Service > Unelte Speciale Biciclete"
+        "Service > Unelte Service > Unelte  Biciclete",
+        "Componente > Anvelope - Camere > Tubeless"
       ],
       "price": 42.9,
       "price_net": 35.45,
@@ -5409,9 +5358,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/kit-tubeless-m-wave-repair-fix-eco~8343778.jpg"
       ],
       "tags": [
-        "Componente",
         "M-WAVE",
-        "Tubeless"
+        "Service",
+        "Unelte Anvelope"
       ]
     },
     {
@@ -6217,7 +6166,7 @@
       "price_net": 68.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 15,
       "weight_kg": 0.55,
       "url": "https://www.bikestylish.ro/tija-sa-cu-suspensie-zoom-350-x-25-4-mm-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/tija-sa-cu-suspensie-zoom-350-x-25-4-mm-silver~8343964.jpg",
@@ -6331,8 +6280,8 @@
       "ean": "2802447000005",
       "name": "Maneta Frana Schimbator SHIMANO ST-EF500-8R ALTUS",
       "brand": "SHIMANO",
-      "category": "Manete Frana  - Schimbator",
-      "category_path": "Componente > Transmisie > Schimbatoare > Manete Frana  - Schimbator",
+      "category": "Manete  Frana-Schimbator",
+      "category_path": "Componente > Transmisie > Schimbatoare > Manete  Frana-Schimbator",
       "price": 105.0,
       "price_net": 86.78,
       "currency": "RON",
@@ -6345,7 +6294,7 @@
       ],
       "tags": [
         "Componente",
-        "Manete Frana  - Schimbator",
+        "Manete  Frana-Schimbator",
         "SHIMANO"
       ]
     },
@@ -7681,8 +7630,8 @@
       "sku": "CXF046",
       "name": "Aparat Filetat Spite C702-14",
       "brand": "SXT",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 2329.25,
       "price_net": 1925.0,
       "currency": "RON",
@@ -7698,8 +7647,71 @@
       "tags": [
         "SXT",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
+    },
+    {
+      "id": "659884",
+      "sku": "659884",
+      "name": "Cadru Trotineta Electrica ANLEN E9X",
+      "brand": "SXT",
+      "category": "Trotinete Electrice",
+      "category_path": "E-Mobility > Trotinete Electrice",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 3,
+      "weight_kg": 2.0,
+      "url": "https://www.bikestylish.ro/cadru-trotineta-electrica-anlen-e9x.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cadru-trotineta-electrica-anlen-e9x~10361826.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/cadru-trotineta-electrica-anlen-e9x~10361826.jpg"
+      ],
+      "tags": [
+        "E-Bike",
+        "E-Mobility",
+        "SXT",
+        "Trotinete Electrice"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
+      }
+    },
+    {
+      "id": "11A00127",
+      "sku": "11A00127",
+      "ean": "8022530019538",
+      "name": "Anvelopa VITTORIA Pista Control 700 x 23C(23-622) N-Cream",
+      "brand": "VITTORIA",
+      "category": "Anvelope Pliabile",
+      "category_path": "Componente > Anvelope - Camere > Anvelope Pliabile",
+      "price": 438.9,
+      "price_net": 362.73,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.22,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-pista-control-700-x-23c-23-622-n-cream.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-vittoria-pista-control-700-x-23c-23-622-n-cream~10363011.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-vittoria-pista-control-700-x-23c-23-622-n-cream~10363011.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-vittoria-pista-control-700-x-23c-23-622-n-cream~10363014.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-vittoria-pista-control-700-x-23c-23-622-n-cream~10363026.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-pista-control-700-x-23c-23-622-n-cream~10362939.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-pista-control-700-x-23c-23-622-n-cream~10363017.jpg"
+      ],
+      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+      "tags": [
+        "Anvelope Pliabile",
+        "Componente",
+        "VITTORIA"
+      ],
+      "specs": {
+        "dimensions": "700 x 23"
+      }
     }
   ],
   "categories": [
@@ -7784,8 +7796,8 @@
       "id": "antifurturi-lant",
       "name": "Antifurturi Lant",
       "full_path": "Accesorii > Antifurturi > Antifurturi Lant",
-      "product_count": 10,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi-pliabile",
@@ -7805,8 +7817,8 @@
       "id": "antifurturi-cu-cifru",
       "name": "Antifurturi cu Cifru",
       "full_path": "Accesorii > Antifurturi > Antifurturi cu Cifru",
-      "product_count": 13,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 7
     },
     {
       "id": "anvelope-camere",
@@ -7858,30 +7870,30 @@
       "in_stock_count": 37
     },
     {
-      "id": "bagaje-borsete",
-      "name": "Bagaje - Borsete",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete",
-      "product_count": 2,
-      "in_stock_count": 2
+      "id": "b-b-pedalier",
+      "name": "B.B-Pedalier",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
+      "product_count": 21,
+      "in_stock_count": 19
     },
     {
       "id": "bagaje-cadru",
       "name": "Bagaje Cadru",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Cadru",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Cadru",
       "product_count": 17,
       "in_stock_count": 14
     },
     {
       "id": "bagaje-ghidon",
       "name": "Bagaje Ghidon",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Ghidon",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Ghidon",
       "product_count": 11,
       "in_stock_count": 10
     },
     {
       "id": "bagaje-spate",
       "name": "Bagaje Spate",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Spate",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Spate",
       "product_count": 43,
       "in_stock_count": 37
     },
@@ -7895,9 +7907,9 @@
     {
       "id": "bandane-caciuli-sepci",
       "name": "Bandane Caciuli Sepci",
-      "full_path": "Echipamente > Bandane Caciuli Sepci",
-      "product_count": 12,
-      "in_stock_count": 9
+      "full_path": "Echipamente > Imbracaminte > Bandane Caciuli Sepci",
+      "product_count": 14,
+      "in_stock_count": 11
     },
     {
       "id": "bar-tape-accesorii",
@@ -7935,13 +7947,6 @@
       "in_stock_count": 17
     },
     {
-      "id": "bike-care-ingrijire",
-      "name": "Bike Care - Ingrijire",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
-      "product_count": 6,
-      "in_stock_count": 3
-    },
-    {
       "id": "bike-computer",
       "name": "Bike Computer",
       "full_path": "Accesorii > Electronice > Bike Computer",
@@ -7949,18 +7954,11 @@
       "in_stock_count": 4
     },
     {
-      "id": "bike-lube-lubrefiere",
-      "name": "Bike Lube - Lubrefiere",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
-      "product_count": 13,
-      "in_stock_count": 5
-    },
-    {
-      "id": "bike-maintenance-intretinere",
-      "name": "Bike Maintenance - Intretinere",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
-      "product_count": 14,
-      "in_stock_count": 6
+      "id": "borsete-bagaje",
+      "name": "Borsete-Bagaje",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje",
+      "product_count": 2,
+      "in_stock_count": 2
     },
     {
       "id": "butuci-frana-disc",
@@ -7984,6 +7982,13 @@
       "in_stock_count": 41
     },
     {
+      "id": "butuci-axe",
+      "name": "Butuci-Axe",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Butuci-Axe",
+      "product_count": 12,
+      "in_stock_count": 7
+    },
+    {
       "id": "cabluri",
       "name": "Cabluri",
       "full_path": "Componente > Transmisie > Cabluri - Camasi > Cabluri",
@@ -8005,6 +8010,13 @@
       "in_stock_count": 2
     },
     {
+      "id": "cadru-furca",
+      "name": "Cadru-Furca",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
+      "product_count": 11,
+      "in_stock_count": 10
+    },
+    {
       "id": "camasi",
       "name": "Camasi",
       "full_path": "Componente > Transmisie > Cabluri - Camasi > Camasi",
@@ -8021,7 +8033,7 @@
     {
       "id": "carcase-prinderi-smartphone",
       "name": "Carcase - Prinderi SmartPhone",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Carcase - Prinderi SmartPhone",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
       "product_count": 9,
       "in_stock_count": 7
     },
@@ -8112,7 +8124,7 @@
     {
       "id": "depozitare-biciclete",
       "name": "Depozitare Biciclete",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare > Depozitare Biciclete",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
       "product_count": 21,
       "in_stock_count": 17
     },
@@ -8136,6 +8148,13 @@
       "full_path": "E-Mobility",
       "product_count": 7,
       "in_stock_count": 6
+    },
+    {
+      "id": "echipamente-atelier",
+      "name": "Echipamente Atelier",
+      "full_path": "Service > Unelte Service > Echipamente Atelier",
+      "product_count": 1,
+      "in_stock_count": 0
     },
     {
       "id": "flori-furca-distantiere-accesorii",
@@ -8194,6 +8213,13 @@
       "in_stock_count": 1
     },
     {
+      "id": "ingrijire",
+      "name": "Ingrijire",
+      "full_path": "Service > Intretinere Biciclete > Ingrijire",
+      "product_count": 6,
+      "in_stock_count": 3
+    },
+    {
       "id": "intinzatoare-lant",
       "name": "Intinzatoare Lant",
       "full_path": "Componente > Transmisie > Lanturi > Intinzatoare Lant",
@@ -8201,9 +8227,16 @@
       "in_stock_count": 4
     },
     {
+      "id": "intretinere",
+      "name": "Intretinere",
+      "full_path": "Service > Intretinere Biciclete > Intretinere",
+      "product_count": 14,
+      "in_stock_count": 6
+    },
+    {
       "id": "jachete-veste-ciclism",
       "name": "Jachete - Veste Ciclism",
-      "full_path": "Echipamente > Jachete - Veste Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Jachete - Veste Ciclism",
       "product_count": 6,
       "in_stock_count": 5
     },
@@ -8236,6 +8269,13 @@
       "in_stock_count": 58
     },
     {
+      "id": "lubrefiere",
+      "name": "Lubrefiere",
+      "full_path": "Service > Intretinere Biciclete > Lubrefiere",
+      "product_count": 13,
+      "in_stock_count": 5
+    },
+    {
       "id": "lumini",
       "name": "Lumini",
       "full_path": "Accesorii > Lumini",
@@ -8257,18 +8297,18 @@
       "in_stock_count": 27
     },
     {
+      "id": "manete-frana-schimbator",
+      "name": "Manete  Frana-Schimbator",
+      "full_path": "Componente > Transmisie > Schimbatoare > Manete  Frana-Schimbator",
+      "product_count": 3,
+      "in_stock_count": 3
+    },
+    {
       "id": "manete-frana",
       "name": "Manete Frana",
       "full_path": "Componente > Sisteme Franare > Manete Frana",
       "product_count": 19,
       "in_stock_count": 13
-    },
-    {
-      "id": "manete-frana-schimbator",
-      "name": "Manete Frana  - Schimbator",
-      "full_path": "Componente > Transmisie > Schimbatoare > Manete Frana  - Schimbator",
-      "product_count": 3,
-      "in_stock_count": 3
     },
     {
       "id": "manete-schimbator",
@@ -8313,6 +8353,13 @@
       "in_stock_count": 9
     },
     {
+      "id": "ochelari-ciclism",
+      "name": "Ochelari Ciclism",
+      "full_path": "Echipamente > Ochelari Ciclism",
+      "product_count": 8,
+      "in_stock_count": 0
+    },
+    {
       "id": "oglinzi",
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
@@ -8322,14 +8369,14 @@
     {
       "id": "pantaloni-ciclism",
       "name": "Pantaloni Ciclism",
-      "full_path": "Echipamente > Pantaloni Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Pantaloni Ciclism",
       "product_count": 5,
       "in_stock_count": 4
     },
     {
       "id": "pantofi-ciclism",
       "name": "Pantofi Ciclism",
-      "full_path": "Echipamente > Pantofi Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Pantofi Ciclism",
       "product_count": 1,
       "in_stock_count": 1
     },
@@ -8474,6 +8521,13 @@
       "in_stock_count": 46
     },
     {
+      "id": "roti-spite",
+      "name": "Roti-Spite",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
+      "product_count": 15,
+      "in_stock_count": 13
+    },
+    {
       "id": "roti-custom-hand-built",
       "name": "Roți Custom / Hand-Built",
       "full_path": "Roti > Roti Bicicleta > Roți Custom / Hand-Built",
@@ -8600,6 +8654,13 @@
       "in_stock_count": 30
     },
     {
+      "id": "stand-de-lucru",
+      "name": "Stand de Lucru",
+      "full_path": "Service > Unelte Service > Stand de Lucru",
+      "product_count": 7,
+      "in_stock_count": 6
+    },
+    {
       "id": "suporturi-bidon",
       "name": "Suporturi Bidon",
       "full_path": "Accesorii > Bidoane - Suporti > Suporturi Bidon",
@@ -8628,16 +8689,9 @@
       "in_stock_count": 27
     },
     {
-      "id": "transport-depozitare",
-      "name": "Transport - Depozitare",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare",
-      "product_count": 5,
-      "in_stock_count": 5
-    },
-    {
       "id": "transport-biciclete",
       "name": "Transport Biciclete",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare > Transport Biciclete",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Transport Biciclete",
       "product_count": 5,
       "in_stock_count": 1
     },
@@ -8649,9 +8703,16 @@
       "in_stock_count": 1
     },
     {
+      "id": "transport-depozitare",
+      "name": "Transport-Depozitare",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare",
+      "product_count": 5,
+      "in_stock_count": 5
+    },
+    {
       "id": "tricouri-ciclism",
       "name": "Tricouri Ciclism",
-      "full_path": "Echipamente > Tricouri Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Tricouri Ciclism",
       "product_count": 3,
       "in_stock_count": 2
     },
@@ -8663,18 +8724,60 @@
       "in_stock_count": 13
     },
     {
-      "id": "truse-unelte-mini-truse",
-      "name": "Truse Unelte - Mini Truse",
-      "full_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
-      "product_count": 17,
-      "in_stock_count": 16
+      "id": "truse-mini-truse",
+      "name": "Truse - Mini Truse",
+      "full_path": "Service > Unelte Service > Truse - Mini Truse",
+      "product_count": 14,
+      "in_stock_count": 13
     },
     {
       "id": "tubeless",
       "name": "Tubeless",
       "full_path": "Componente > Anvelope - Camere > Tubeless",
-      "product_count": 17,
-      "in_stock_count": 12
+      "product_count": 16,
+      "in_stock_count": 11
+    },
+    {
+      "id": "unelte-biciclete",
+      "name": "Unelte  Biciclete",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete",
+      "product_count": 68,
+      "in_stock_count": 55
+    },
+    {
+      "id": "unelte-anvelope",
+      "name": "Unelte Anvelope",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
+      "product_count": 11,
+      "in_stock_count": 8
+    },
+    {
+      "id": "unelte-frane",
+      "name": "Unelte Frane",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
+      "product_count": 8,
+      "in_stock_count": 8
+    },
+    {
+      "id": "unelte-lant",
+      "name": "Unelte Lant",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
+      "product_count": 12,
+      "in_stock_count": 10
+    },
+    {
+      "id": "unelte-pedale",
+      "name": "Unelte Pedale",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pedale",
+      "product_count": 4,
+      "in_stock_count": 4
+    },
+    {
+      "id": "unelte-pinioane",
+      "name": "Unelte Pinioane",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
+      "product_count": 10,
+      "in_stock_count": 8
     },
     {
       "id": "unelte-service",
@@ -8682,13 +8785,6 @@
       "full_path": "Service > Unelte Service",
       "product_count": 5,
       "in_stock_count": 3
-    },
-    {
-      "id": "unelte-speciale-biciclete",
-      "name": "Unelte Speciale Biciclete",
-      "full_path": "Service > Unelte Service > Unelte Speciale Biciclete",
-      "product_count": 177,
-      "in_stock_count": 144
     },
     {
       "id": "urechi-cadre",
@@ -8714,16 +8810,9 @@
     {
       "id": "casti-ciclism",
       "name": "➤ Casti Ciclism",
-      "full_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
-      "product_count": 18,
-      "in_stock_count": 4
-    },
-    {
-      "id": "ochelari-ciclism",
-      "name": "➤ Ochelari Ciclism",
-      "full_path": "Echipamente > Casti - Ochelari > ➤ Ochelari Ciclism",
-      "product_count": 8,
-      "in_stock_count": 0
+      "full_path": "Echipamente > Casti > ➤ Casti Ciclism",
+      "product_count": 16,
+      "in_stock_count": 2
     }
   ],
   "brands": [

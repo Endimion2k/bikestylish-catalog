@@ -1,64 +1,14 @@
 {
-  "last_updated": "2026-10-18T03:11:06.163237+00:00",
+  "last_updated": "2026-10-19T03:12:45.101972+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 14,
     "total_parts": 20,
     "product_range": "3251-3500",
-    "original_total": 4780
+    "original_total": 4778
   },
   "products": [
-    {
-      "id": "D556",
-      "sku": "D556",
-      "ean": "7290107115735",
-      "name": "Ureche Cadru PILO D556 GT Edge",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 385.0,
-      "price_net": 318.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d556-gt-edge.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d556-gt-edge~8335498.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d556-gt-edge~8335498.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D574",
-      "sku": "D574",
-      "ean": "7290107115919",
-      "name": "Ureche Cadru PILO D574 Marin",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 143.0,
-      "price_net": 118.18,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d574-marin.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d574-marin~8335501.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d574-marin~8335501.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D60",
       "sku": "D60",
@@ -4367,8 +4317,8 @@
       "sku": "881037",
       "name": "Unealta de Calibrare SUPER B TB-PF33",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Roti-Spite",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
@@ -4382,9 +4332,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/unealta-de-calibrare-super-b-tb-pf33~8336158.jpg"
       ],
       "tags": [
+        "Roti-Spite",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -4393,10 +4343,10 @@
       "ean": "4712765147796",
       "name": "Aparat Centrat Roti SUPER B TB-PF- 35",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
-      "price": 2035.0,
-      "price_net": 1681.82,
+      "category": "Roti-Spite",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
+      "price": 1950.0,
+      "price_net": 1611.57,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 17,
@@ -4406,9 +4356,9 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/aparat-centrat-roti-super-b-tb-pf-35~8336161.jpg"
       ],
       "tags": [
+        "Roti-Spite",
         "SUPER B",
-        "Service",
-        "Unelte Speciale Biciclete"
+        "Service"
       ]
     },
     {
@@ -4417,8 +4367,8 @@
       "ean": "4712765145891",
       "name": "Perie Curatat SUPER B TB 1710",
       "brand": "SUPER B",
-      "category": "Truse Unelte - Mini Truse",
-      "category_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
+      "category": "Truse - Mini Truse",
+      "category_path": "Service > Unelte Service > Truse - Mini Truse",
       "price": 42.35,
       "price_net": 35.0,
       "currency": "RON",
@@ -4433,7 +4383,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Truse Unelte - Mini Truse"
+        "Truse - Mini Truse"
       ]
     },
     {
@@ -4442,8 +4392,8 @@
       "ean": "4712765143330",
       "name": "Cleste Multifunctional SUPER B TB-4574",
       "brand": "SUPER B",
-      "category": "Unelte Speciale Biciclete",
-      "category_path": "Service > Unelte Service > Unelte Speciale Biciclete",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
       "price": 192.5,
       "price_net": 159.09,
       "currency": "RON",
@@ -4460,7 +4410,7 @@
       "tags": [
         "SUPER B",
         "Service",
-        "Unelte Speciale Biciclete"
+        "Unelte  Biciclete"
       ]
     },
     {
@@ -4895,7 +4845,7 @@
       "category_path": "Componente > Anvelope - Camere > Banda Janta",
       "secondary_categories": [
         "Componente > Anvelope - Camere > Anvelope Pliabile",
-        "Service > Unelte Service > Unelte Speciale Biciclete"
+        "Service > Unelte Service > Unelte  Biciclete"
       ],
       "price": 170.5,
       "price_net": 140.91,
@@ -6533,8 +6483,8 @@
       "ean": "3374650332338",
       "name": "Solutie Curatat Cadrul MOTUL 500 ml",
       "brand": "SXT",
-      "category": "Bike Maintenance - Intretinere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
+      "category": "Intretinere",
+      "category_path": "Service > Intretinere Biciclete > Intretinere",
       "price": 50.6,
       "price_net": 41.82,
       "currency": "RON",
@@ -6547,7 +6497,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/solutie-curatat-cadrul-motul-500-ml~8337226.jpg"
       ],
       "tags": [
-        "Bike Maintenance - Intretinere",
+        "Intretinere",
         "SXT",
         "Service"
       ]
@@ -6558,8 +6508,8 @@
       "ean": "3374650332574",
       "name": "Solutie Curatat Lanturi de Bicicleta MOTUL 500 ml",
       "brand": "SXT",
-      "category": "Bike Lube - Lubrefiere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
+      "category": "Lubrefiere",
+      "category_path": "Service > Intretinere Biciclete > Lubrefiere",
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -6572,7 +6522,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/9/solutie-curatat-lanturi-de-bicicleta-motul-500-ml~8337229.jpg"
       ],
       "tags": [
-        "Bike Lube - Lubrefiere",
+        "Lubrefiere",
         "SXT",
         "Service"
       ]
@@ -6607,8 +6557,8 @@
       "ean": "3374650332185",
       "name": "Solutie Curatat Biciclete MOTUL Dry Clean 500 ml",
       "brand": "SXT",
-      "category": "Bike Care - Ingrijire",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
+      "category": "Ingrijire",
+      "category_path": "Service > Intretinere Biciclete > Ingrijire",
       "price": 82.5,
       "price_net": 68.18,
       "currency": "RON",
@@ -6620,7 +6570,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/5/solutie-curatat-biciclete-motul-dry-clean-500-ml~8337235.jpg"
       ],
       "tags": [
-        "Bike Care - Ingrijire",
+        "Ingrijire",
         "SXT",
         "Service"
       ]
@@ -6631,8 +6581,8 @@
       "ean": "3374650332161",
       "name": "Solutie Curatat Frane MOTUL 300 ml",
       "brand": "SXT",
-      "category": "Bike Maintenance - Intretinere",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
+      "category": "Intretinere",
+      "category_path": "Service > Intretinere Biciclete > Intretinere",
       "price": 50.6,
       "price_net": 41.82,
       "currency": "RON",
@@ -6644,7 +6594,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/8/solutie-curatat-frane-motul-300-ml~8337238.jpg"
       ],
       "tags": [
-        "Bike Maintenance - Intretinere",
+        "Intretinere",
         "SXT",
         "Service"
       ]
@@ -6655,8 +6605,8 @@
       "ean": "3374650332178",
       "name": "Solutie Multifunctionala MOTUL EZ Lube 300 ml",
       "brand": "SXT",
-      "category": "Bike Care - Ingrijire",
-      "category_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
+      "category": "Ingrijire",
+      "category_path": "Service > Intretinere Biciclete > Ingrijire",
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -6668,7 +6618,7 @@
         "https://s2.cdnmpro.com/861667841/p/raw/1/solutie-multifunctionala-motul-ez-lube-300-ml~8337241.jpg"
       ],
       "tags": [
-        "Bike Care - Ingrijire",
+        "Ingrijire",
         "SXT",
         "Service"
       ]
@@ -7141,6 +7091,76 @@
         ],
         "color": "Pink"
       }
+    },
+    {
+      "id": "SXT55NO",
+      "sku": "SXT55NO",
+      "ean": "2801833000001",
+      "name": "Bike SXT MERCURIS 97 Black - Orange M - 550 mm",
+      "brand": "SXT",
+      "category": "Biciclete Single - SPEED - Fixie",
+      "category_path": "Biciclete > Biciclete Single - SPEED - Fixie",
+      "price": 2035.0,
+      "price_net": 1681.82,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 4,
+      "url": "https://www.bikestylish.ro/bike-sxt-mercuris-97-black-orange-m-550-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/bike-sxt-mercuris-97-black-orange-m-550-mm~8337538.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/bike-sxt-mercuris-97-black-orange-m-550-mm~8337538.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/bike-sxt-mercuris-97-black-orange-m-550-mm~8337541.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/bike-sxt-mercuris-97-black-orange-m-550-mm~8337544.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/bike-sxt-mercuris-97-black-orange-m-550-mm~8337547.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/bike-sxt-mercuris-97-black-orange-m-550-mm~8337550.jpg"
+      ],
+      "tags": [
+        "Biciclete",
+        "Biciclete Single - SPEED - Fixie",
+        "Fixie",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "Fixie"
+        ],
+        "color": "Orange"
+      }
+    },
+    {
+      "id": "SXT58NO",
+      "sku": "SXT58NO",
+      "ean": "2801832000002",
+      "name": "Bike SXT MERCURIS 97 Black - Orange L - 580 mm",
+      "brand": "SXT",
+      "category": "Biciclete Single - SPEED - Fixie",
+      "category_path": "Biciclete > Biciclete Single - SPEED - Fixie",
+      "price": 2035.0,
+      "price_net": 1681.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/bike-sxt-mercuris-97-black-orange-l-580-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/bike-sxt-mercuris-97-black-orange-l-580-mm~8337562.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/bike-sxt-mercuris-97-black-orange-l-580-mm~8337562.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/bike-sxt-mercuris-97-black-orange-l-580-mm~8337565.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/bike-sxt-mercuris-97-black-orange-l-580-mm~8337568.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/bike-sxt-mercuris-97-black-orange-l-580-mm~8337571.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/bike-sxt-mercuris-97-black-orange-l-580-mm~8337574.jpg"
+      ],
+      "tags": [
+        "Biciclete",
+        "Biciclete Single - SPEED - Fixie",
+        "Fixie",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "Fixie"
+        ],
+        "color": "Orange"
+      }
     }
   ],
   "categories": [
@@ -7225,8 +7245,8 @@
       "id": "antifurturi-lant",
       "name": "Antifurturi Lant",
       "full_path": "Accesorii > Antifurturi > Antifurturi Lant",
-      "product_count": 10,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi-pliabile",
@@ -7246,8 +7266,8 @@
       "id": "antifurturi-cu-cifru",
       "name": "Antifurturi cu Cifru",
       "full_path": "Accesorii > Antifurturi > Antifurturi cu Cifru",
-      "product_count": 13,
-      "in_stock_count": 8
+      "product_count": 11,
+      "in_stock_count": 7
     },
     {
       "id": "anvelope-camere",
@@ -7299,30 +7319,30 @@
       "in_stock_count": 37
     },
     {
-      "id": "bagaje-borsete",
-      "name": "Bagaje - Borsete",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete",
-      "product_count": 2,
-      "in_stock_count": 2
+      "id": "b-b-pedalier",
+      "name": "B.B-Pedalier",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
+      "product_count": 21,
+      "in_stock_count": 19
     },
     {
       "id": "bagaje-cadru",
       "name": "Bagaje Cadru",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Cadru",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Cadru",
       "product_count": 17,
       "in_stock_count": 14
     },
     {
       "id": "bagaje-ghidon",
       "name": "Bagaje Ghidon",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Ghidon",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Ghidon",
       "product_count": 11,
       "in_stock_count": 10
     },
     {
       "id": "bagaje-spate",
       "name": "Bagaje Spate",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Bagaje Spate",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Spate",
       "product_count": 43,
       "in_stock_count": 37
     },
@@ -7336,9 +7356,9 @@
     {
       "id": "bandane-caciuli-sepci",
       "name": "Bandane Caciuli Sepci",
-      "full_path": "Echipamente > Bandane Caciuli Sepci",
-      "product_count": 12,
-      "in_stock_count": 9
+      "full_path": "Echipamente > Imbracaminte > Bandane Caciuli Sepci",
+      "product_count": 14,
+      "in_stock_count": 11
     },
     {
       "id": "bar-tape-accesorii",
@@ -7376,13 +7396,6 @@
       "in_stock_count": 17
     },
     {
-      "id": "bike-care-ingrijire",
-      "name": "Bike Care - Ingrijire",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Care - Ingrijire",
-      "product_count": 6,
-      "in_stock_count": 3
-    },
-    {
       "id": "bike-computer",
       "name": "Bike Computer",
       "full_path": "Accesorii > Electronice > Bike Computer",
@@ -7390,18 +7403,11 @@
       "in_stock_count": 4
     },
     {
-      "id": "bike-lube-lubrefiere",
-      "name": "Bike Lube - Lubrefiere",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Lube - Lubrefiere",
-      "product_count": 13,
-      "in_stock_count": 5
-    },
-    {
-      "id": "bike-maintenance-intretinere",
-      "name": "Bike Maintenance - Intretinere",
-      "full_path": "Service > Ingrijire - Lubrefiere - Intretinere > Bike Maintenance - Intretinere",
-      "product_count": 14,
-      "in_stock_count": 6
+      "id": "borsete-bagaje",
+      "name": "Borsete-Bagaje",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje",
+      "product_count": 2,
+      "in_stock_count": 2
     },
     {
       "id": "butuci-frana-disc",
@@ -7425,6 +7431,13 @@
       "in_stock_count": 41
     },
     {
+      "id": "butuci-axe",
+      "name": "Butuci-Axe",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Butuci-Axe",
+      "product_count": 12,
+      "in_stock_count": 7
+    },
+    {
       "id": "cabluri",
       "name": "Cabluri",
       "full_path": "Componente > Transmisie > Cabluri - Camasi > Cabluri",
@@ -7446,6 +7459,13 @@
       "in_stock_count": 2
     },
     {
+      "id": "cadru-furca",
+      "name": "Cadru-Furca",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
+      "product_count": 11,
+      "in_stock_count": 10
+    },
+    {
       "id": "camasi",
       "name": "Camasi",
       "full_path": "Componente > Transmisie > Cabluri - Camasi > Camasi",
@@ -7462,7 +7482,7 @@
     {
       "id": "carcase-prinderi-smartphone",
       "name": "Carcase - Prinderi SmartPhone",
-      "full_path": "Accesorii > TRANSPORT > Bagaje - Borsete > Carcase - Prinderi SmartPhone",
+      "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
       "product_count": 9,
       "in_stock_count": 7
     },
@@ -7553,7 +7573,7 @@
     {
       "id": "depozitare-biciclete",
       "name": "Depozitare Biciclete",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare > Depozitare Biciclete",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
       "product_count": 21,
       "in_stock_count": 17
     },
@@ -7577,6 +7597,13 @@
       "full_path": "E-Mobility",
       "product_count": 7,
       "in_stock_count": 6
+    },
+    {
+      "id": "echipamente-atelier",
+      "name": "Echipamente Atelier",
+      "full_path": "Service > Unelte Service > Echipamente Atelier",
+      "product_count": 1,
+      "in_stock_count": 0
     },
     {
       "id": "flori-furca-distantiere-accesorii",
@@ -7635,6 +7662,13 @@
       "in_stock_count": 1
     },
     {
+      "id": "ingrijire",
+      "name": "Ingrijire",
+      "full_path": "Service > Intretinere Biciclete > Ingrijire",
+      "product_count": 6,
+      "in_stock_count": 3
+    },
+    {
       "id": "intinzatoare-lant",
       "name": "Intinzatoare Lant",
       "full_path": "Componente > Transmisie > Lanturi > Intinzatoare Lant",
@@ -7642,9 +7676,16 @@
       "in_stock_count": 4
     },
     {
+      "id": "intretinere",
+      "name": "Intretinere",
+      "full_path": "Service > Intretinere Biciclete > Intretinere",
+      "product_count": 14,
+      "in_stock_count": 6
+    },
+    {
       "id": "jachete-veste-ciclism",
       "name": "Jachete - Veste Ciclism",
-      "full_path": "Echipamente > Jachete - Veste Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Jachete - Veste Ciclism",
       "product_count": 6,
       "in_stock_count": 5
     },
@@ -7677,6 +7718,13 @@
       "in_stock_count": 58
     },
     {
+      "id": "lubrefiere",
+      "name": "Lubrefiere",
+      "full_path": "Service > Intretinere Biciclete > Lubrefiere",
+      "product_count": 13,
+      "in_stock_count": 5
+    },
+    {
       "id": "lumini",
       "name": "Lumini",
       "full_path": "Accesorii > Lumini",
@@ -7698,18 +7746,18 @@
       "in_stock_count": 27
     },
     {
+      "id": "manete-frana-schimbator",
+      "name": "Manete  Frana-Schimbator",
+      "full_path": "Componente > Transmisie > Schimbatoare > Manete  Frana-Schimbator",
+      "product_count": 3,
+      "in_stock_count": 3
+    },
+    {
       "id": "manete-frana",
       "name": "Manete Frana",
       "full_path": "Componente > Sisteme Franare > Manete Frana",
       "product_count": 19,
       "in_stock_count": 13
-    },
-    {
-      "id": "manete-frana-schimbator",
-      "name": "Manete Frana  - Schimbator",
-      "full_path": "Componente > Transmisie > Schimbatoare > Manete Frana  - Schimbator",
-      "product_count": 3,
-      "in_stock_count": 3
     },
     {
       "id": "manete-schimbator",
@@ -7754,6 +7802,13 @@
       "in_stock_count": 9
     },
     {
+      "id": "ochelari-ciclism",
+      "name": "Ochelari Ciclism",
+      "full_path": "Echipamente > Ochelari Ciclism",
+      "product_count": 8,
+      "in_stock_count": 0
+    },
+    {
       "id": "oglinzi",
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
@@ -7763,14 +7818,14 @@
     {
       "id": "pantaloni-ciclism",
       "name": "Pantaloni Ciclism",
-      "full_path": "Echipamente > Pantaloni Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Pantaloni Ciclism",
       "product_count": 5,
       "in_stock_count": 4
     },
     {
       "id": "pantofi-ciclism",
       "name": "Pantofi Ciclism",
-      "full_path": "Echipamente > Pantofi Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Pantofi Ciclism",
       "product_count": 1,
       "in_stock_count": 1
     },
@@ -7915,6 +7970,13 @@
       "in_stock_count": 46
     },
     {
+      "id": "roti-spite",
+      "name": "Roti-Spite",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
+      "product_count": 15,
+      "in_stock_count": 13
+    },
+    {
       "id": "roti-custom-hand-built",
       "name": "Roți Custom / Hand-Built",
       "full_path": "Roti > Roti Bicicleta > Roți Custom / Hand-Built",
@@ -8041,6 +8103,13 @@
       "in_stock_count": 30
     },
     {
+      "id": "stand-de-lucru",
+      "name": "Stand de Lucru",
+      "full_path": "Service > Unelte Service > Stand de Lucru",
+      "product_count": 7,
+      "in_stock_count": 6
+    },
+    {
       "id": "suporturi-bidon",
       "name": "Suporturi Bidon",
       "full_path": "Accesorii > Bidoane - Suporti > Suporturi Bidon",
@@ -8069,16 +8138,9 @@
       "in_stock_count": 27
     },
     {
-      "id": "transport-depozitare",
-      "name": "Transport - Depozitare",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare",
-      "product_count": 5,
-      "in_stock_count": 5
-    },
-    {
       "id": "transport-biciclete",
       "name": "Transport Biciclete",
-      "full_path": "Accesorii > TRANSPORT > Transport - Depozitare > Transport Biciclete",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Transport Biciclete",
       "product_count": 5,
       "in_stock_count": 1
     },
@@ -8090,9 +8152,16 @@
       "in_stock_count": 1
     },
     {
+      "id": "transport-depozitare",
+      "name": "Transport-Depozitare",
+      "full_path": "Accesorii > TRANSPORT > Transport-Depozitare",
+      "product_count": 5,
+      "in_stock_count": 5
+    },
+    {
       "id": "tricouri-ciclism",
       "name": "Tricouri Ciclism",
-      "full_path": "Echipamente > Tricouri Ciclism",
+      "full_path": "Echipamente > Imbracaminte > Tricouri Ciclism",
       "product_count": 3,
       "in_stock_count": 2
     },
@@ -8104,18 +8173,60 @@
       "in_stock_count": 13
     },
     {
-      "id": "truse-unelte-mini-truse",
-      "name": "Truse Unelte - Mini Truse",
-      "full_path": "Service > Unelte Service > Truse Unelte - Mini Truse",
-      "product_count": 17,
-      "in_stock_count": 16
+      "id": "truse-mini-truse",
+      "name": "Truse - Mini Truse",
+      "full_path": "Service > Unelte Service > Truse - Mini Truse",
+      "product_count": 14,
+      "in_stock_count": 13
     },
     {
       "id": "tubeless",
       "name": "Tubeless",
       "full_path": "Componente > Anvelope - Camere > Tubeless",
-      "product_count": 17,
-      "in_stock_count": 12
+      "product_count": 16,
+      "in_stock_count": 11
+    },
+    {
+      "id": "unelte-biciclete",
+      "name": "Unelte  Biciclete",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete",
+      "product_count": 68,
+      "in_stock_count": 55
+    },
+    {
+      "id": "unelte-anvelope",
+      "name": "Unelte Anvelope",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
+      "product_count": 11,
+      "in_stock_count": 8
+    },
+    {
+      "id": "unelte-frane",
+      "name": "Unelte Frane",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
+      "product_count": 8,
+      "in_stock_count": 8
+    },
+    {
+      "id": "unelte-lant",
+      "name": "Unelte Lant",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
+      "product_count": 12,
+      "in_stock_count": 10
+    },
+    {
+      "id": "unelte-pedale",
+      "name": "Unelte Pedale",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pedale",
+      "product_count": 4,
+      "in_stock_count": 4
+    },
+    {
+      "id": "unelte-pinioane",
+      "name": "Unelte Pinioane",
+      "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
+      "product_count": 10,
+      "in_stock_count": 8
     },
     {
       "id": "unelte-service",
@@ -8123,13 +8234,6 @@
       "full_path": "Service > Unelte Service",
       "product_count": 5,
       "in_stock_count": 3
-    },
-    {
-      "id": "unelte-speciale-biciclete",
-      "name": "Unelte Speciale Biciclete",
-      "full_path": "Service > Unelte Service > Unelte Speciale Biciclete",
-      "product_count": 177,
-      "in_stock_count": 144
     },
     {
       "id": "urechi-cadre",
@@ -8155,16 +8259,9 @@
     {
       "id": "casti-ciclism",
       "name": "➤ Casti Ciclism",
-      "full_path": "Echipamente > Casti - Ochelari > ➤ Casti Ciclism",
-      "product_count": 18,
-      "in_stock_count": 4
-    },
-    {
-      "id": "ochelari-ciclism",
-      "name": "➤ Ochelari Ciclism",
-      "full_path": "Echipamente > Casti - Ochelari > ➤ Ochelari Ciclism",
-      "product_count": 8,
-      "in_stock_count": 0
+      "full_path": "Echipamente > Casti > ➤ Casti Ciclism",
+      "product_count": 16,
+      "in_stock_count": 2
     }
   ],
   "brands": [
