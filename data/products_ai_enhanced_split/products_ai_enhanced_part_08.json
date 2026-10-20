@@ -1,40 +1,14 @@
 {
-  "last_updated": "2026-10-19T03:12:45.101972+00:00",
+  "last_updated": "2026-10-20T03:11:37.344077+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 8,
     "total_parts": 20,
     "product_range": "1751-2000",
-    "original_total": 4778
+    "original_total": 4779
   },
   "products": [
-    {
-      "id": "D707",
-      "sku": "D707",
-      "ean": "7290107117418",
-      "name": "Ureche Cadru PILO D707 Specialized",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 165.0,
-      "price_net": 136.36,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d707-specialized.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d707-specialized~8292370.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d707-specialized~8292370.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d707-specialized~8292979.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D716",
       "sku": "D716",
@@ -2157,7 +2131,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 14,
+      "stock_quantity": 13,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-sxt-twist-shift-l-102-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-sxt-twist-shift-l-102-mm-negru~8292616.jpg",
@@ -4353,7 +4327,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 369,
+      "stock_quantity": 363,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
       "images": [
@@ -4383,7 +4357,7 @@
       "price_net": 30.58,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 999,
+      "stock_quantity": 998,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/camera-kenda-14-x-2-50-av-valva-45.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/camera-kenda-14-x-2-50-av-valva-45~8324272.jpg",
@@ -7107,6 +7081,35 @@
       "specs": {
         "color": "Negru"
       }
+    },
+    {
+      "id": "385070",
+      "sku": "385070",
+      "ean": "887539013554",
+      "name": "Aparatoare Noroi Fata M-WAVE MUD MAX QR.F II 26-29 Negru",
+      "brand": "M-WAVE",
+      "category": "Aparatori Fata",
+      "category_path": "Accesorii > Aparatori Noroi > Aparatori Fata",
+      "price": 99.0,
+      "price_net": 81.82,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 23,
+      "weight_kg": 0.35,
+      "url": "https://www.bikestylish.ro/aparatoare-noroi-fata-m-wave-mud-max-qr-f-ii-26-29-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/aparatoare-noroi-fata-m-wave-mud-max-qr-f-ii-26-29-negru~8325508.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/aparatoare-noroi-fata-m-wave-mud-max-qr-f-ii-26-29-negru~8325508.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/aparatoare-noroi-fata-m-wave-mud-max-qr-f-ii-26-29-negru~8325511.jpg"
+      ],
+      "tags": [
+        "Accesorii",
+        "Aparatori Fata",
+        "M-WAVE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -7163,15 +7166,15 @@
       "id": "angrenaje",
       "name": "Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Angrenaje",
-      "product_count": 114,
-      "in_stock_count": 67
+      "product_count": 69,
+      "in_stock_count": 43
     },
     {
       "id": "angrenaje-e-bike",
       "name": "Angrenaje E-Bike",
       "full_path": "E-Mobility > Angrenaje E-Bike",
-      "product_count": 15,
-      "in_stock_count": 10
+      "product_count": 11,
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi",
@@ -7356,6 +7359,13 @@
       "in_stock_count": 2
     },
     {
+      "id": "brat-angrenaj",
+      "name": "Brat Angrenaj",
+      "full_path": "Componente > Transmisie > Pedaliere > Brat Angrenaj",
+      "product_count": 50,
+      "in_stock_count": 24
+    },
+    {
       "id": "butuci-frana-disc",
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
@@ -7520,8 +7530,8 @@
       "id": "depozitare-biciclete",
       "name": "Depozitare Biciclete",
       "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
-      "product_count": 21,
-      "in_stock_count": 17
+      "product_count": 22,
+      "in_stock_count": 18
     },
     {
       "id": "discuri-rotoare",
@@ -7605,7 +7615,7 @@
       "name": "Home Trainer",
       "full_path": "Accesorii > Home Trainer",
       "product_count": 2,
-      "in_stock_count": 1
+      "in_stock_count": 2
     },
     {
       "id": "ingrijire",
@@ -7797,13 +7807,6 @@
       "in_stock_count": 89
     },
     {
-      "id": "pedaliere",
-      "name": "Pedaliere",
-      "full_path": "Componente > Transmisie > Pedaliere",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
       "id": "pinioane",
       "name": "Pinioane",
       "full_path": "Componente > Transmisie > Pinioane",
@@ -7836,7 +7839,7 @@
       "name": "Placute Frana",
       "full_path": "Componente > Sisteme Franare > Placute Frana",
       "product_count": 23,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "pompe-ciclism",
@@ -7877,8 +7880,8 @@
       "id": "protectii-antipana",
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
-      "product_count": 45,
-      "in_stock_count": 25
+      "product_count": 46,
+      "in_stock_count": 26
     },
     {
       "id": "protectii-lant",
@@ -8101,8 +8104,8 @@
       "id": "transport-depozitare",
       "name": "Transport-Depozitare",
       "full_path": "Accesorii > TRANSPORT > Transport-Depozitare",
-      "product_count": 5,
-      "in_stock_count": 5
+      "product_count": 4,
+      "in_stock_count": 4
     },
     {
       "id": "tricouri-ciclism",

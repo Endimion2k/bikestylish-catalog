@@ -1,73 +1,14 @@
 {
-  "last_updated": "2026-10-19T03:12:45.101972+00:00",
+  "last_updated": "2026-10-20T03:11:37.344077+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 19,
     "total_parts": 20,
     "product_range": "4501-4750",
-    "original_total": 4778
+    "original_total": 4779
   },
   "products": [
-    {
-      "id": "252995",
-      "sku": "252995",
-      "name": "Tija Sa SXT - 350 mm-31.6 mm Negru Anodizat",
-      "brand": "SXT",
-      "category": "Tije Sa",
-      "category_path": "Componente > Sei - Tije - Coliere > Tije Sa",
-      "price": 75.9,
-      "price_net": 62.73,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 72,
-      "url": "https://www.bikestylish.ro/tija-sa-sxt-350-mm-31-6-mm-negru-anodizat.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/tija-sa-sxt-350-mm-31-6-mm-negru-anodizat~13287891.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/tija-sa-sxt-350-mm-31-6-mm-negru-anodizat~13287891.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/tija-sa-sxt-350-mm-31-6-mm-negru-anodizat~13287894.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/tija-sa-sxt-350-mm-31-6-mm-negru-anodizat~13287897.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "SXT",
-        "Tije Sa"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "311902",
-      "sku": "311902",
-      "ean": "664533242780",
-      "name": "Pedale Aluminiu SXT ALNC- 1080 MOV 3 Rulmenti 112 x 100 x 19 mm",
-      "brand": "SXT",
-      "category": "Pedale Platforma",
-      "category_path": "Componente > Pedale > Pedale Platforma",
-      "price": 180.0,
-      "price_net": 148.76,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 31,
-      "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-alnc-1080-mov-3-rulmenti-112-x-100-x-19-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-aluminiu-sxt-alnc-1080-mov-3-rulmenti-112-x-100-x-19-mm~13289379.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-aluminiu-sxt-alnc-1080-mov-3-rulmenti-112-x-100-x-19-mm~13289379.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-aluminiu-sxt-alnc-1080-mov-3-rulmenti-112-x-100-x-19-mm~13289382.jpg"
-      ],
-      "tags": [
-        "Aluminiu",
-        "Componente",
-        "Pedale Platforma",
-        "SXT"
-      ],
-      "specs": {
-        "material": "Aluminiu",
-        "color": "Mov",
-        "dimensions": "112 x 100"
-      }
-    },
     {
       "id": "311901",
       "sku": "311901",
@@ -1026,7 +967,7 @@
       "price_net": 41.32,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 163,
+      "stock_quantity": 162,
       "url": "https://www.bikestylish.ro/pipa-downhill-mtb-sxt-31-8-1-1-8-mm-50-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-downhill-mtb-sxt-31-8-1-1-8-mm-50-mm~13289283.jpg",
       "images": [
@@ -1392,7 +1333,7 @@
       "price_net": 24.79,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 133,
+      "stock_quantity": 132,
       "url": "https://www.bikestylish.ro/set-distantiere-sxt-5-8-10-20-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/set-distantiere-sxt-5-8-10-20-mm-negru~13695390.jpg",
       "images": [
@@ -1498,8 +1439,8 @@
       "ean": "887539028855",
       "name": "Brat Stanga SAMOX 13 mm Offset BOSCH GEN 1+2+4 / Brose System 170",
       "brand": "SAMOX",
-      "category": "Angrenaje",
-      "category_path": "Componente > Transmisie > Pedaliere > Angrenaje",
+      "category": "Brat Angrenaj",
+      "category_path": "Componente > Transmisie > Pedaliere > Brat Angrenaj",
       "price": 90.0,
       "price_net": 74.38,
       "currency": "RON",
@@ -1513,9 +1454,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/7/brat-stanga-samox-13-mm-offset-bosch-gen-1-2-4-brose-system-170~13793877.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/0/brat-stanga-samox-13-mm-offset-bosch-gen-1-2-4-brose-system-170~13793880.jpg"
       ],
-      "category_description": "Cranksets - pedal arms and chainrings",
       "tags": [
-        "Angrenaje",
+        "Brat Angrenaj",
         "Componente",
         "SAMOX"
       ]
@@ -1525,8 +1465,8 @@
       "sku": "356121",
       "name": "Brat Stanga SAMOX 5 Offset- 175 mm Bosch Gen 1+2+4+5 / Brose SHAPE 1",
       "brand": "SAMOX",
-      "category": "Angrenaje",
-      "category_path": "Componente > Transmisie > Pedaliere > Angrenaje",
+      "category": "Brat Angrenaj",
+      "category_path": "Componente > Transmisie > Pedaliere > Brat Angrenaj",
       "price": 80.0,
       "price_net": 66.12,
       "currency": "RON",
@@ -1540,9 +1480,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/brat-stanga-samox-5-offset-175-mm-bosch-gen-1-2-4-5-brose-shape-1~13793886.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/brat-stanga-samox-5-offset-175-mm-bosch-gen-1-2-4-5-brose-shape-1~13793889.jpg"
       ],
-      "category_description": "Cranksets - pedal arms and chainrings",
       "tags": [
-        "Angrenaje",
+        "Brat Angrenaj",
         "Componente",
         "SAMOX"
       ]
@@ -1552,8 +1491,8 @@
       "sku": "356149",
       "name": "Brat Dreapta SAMOX 13 Offset- 165 mm Bosch Gen 1+2+4/ Brose SHAPE 2",
       "brand": "SAMOX",
-      "category": "Angrenaje",
-      "category_path": "Componente > Transmisie > Pedaliere > Angrenaje",
+      "category": "Brat Angrenaj",
+      "category_path": "Componente > Transmisie > Pedaliere > Brat Angrenaj",
       "price": 80.0,
       "price_net": 66.12,
       "currency": "RON",
@@ -1566,9 +1505,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/brat-dreapta-samox-13-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~13793892.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/brat-dreapta-samox-13-offset-165-mm-bosch-gen-1-2-4-brose-shape-2~13793895.jpg"
       ],
-      "category_description": "Cranksets - pedal arms and chainrings",
       "tags": [
-        "Angrenaje",
+        "Brat Angrenaj",
         "Componente",
         "SAMOX"
       ]
@@ -1964,8 +1902,8 @@
       "sku": "356126",
       "name": "Brat Dreapta SAMOX 0 Offset- 170 mm Bosch Gen 1+2+4 / Brose SHAPE 1",
       "brand": "SAMOX",
-      "category": "Angrenaje",
-      "category_path": "Componente > Transmisie > Pedaliere > Angrenaje",
+      "category": "Brat Angrenaj",
+      "category_path": "Componente > Transmisie > Pedaliere > Brat Angrenaj",
       "secondary_categories": [
         "E-Mobility > Angrenaje E-Bike"
       ],
@@ -1981,9 +1919,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/6/brat-dreapta-samox-0-offset-170-mm-bosch-gen-1-2-4-brose-shape-1~13794006.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/9/brat-dreapta-samox-0-offset-170-mm-bosch-gen-1-2-4-brose-shape-1~13794009.jpg"
       ],
-      "category_description": "Cranksets - pedal arms and chainrings",
       "tags": [
-        "Angrenaje",
+        "Brat Angrenaj",
         "Componente",
         "SAMOX"
       ]
@@ -1993,8 +1930,8 @@
       "sku": "356124",
       "name": "Brat Dreapta SAMOX 0 Offset- 175 mm Bosch Gen 1+2+4 / Brose SHAPE 1",
       "brand": "SAMOX",
-      "category": "Angrenaje",
-      "category_path": "Componente > Transmisie > Pedaliere > Angrenaje",
+      "category": "Brat Angrenaj",
+      "category_path": "Componente > Transmisie > Pedaliere > Brat Angrenaj",
       "secondary_categories": [
         "E-Mobility > Angrenaje E-Bike"
       ],
@@ -2010,9 +1947,8 @@
         "https://s2.cdnmpro.com/861667841/p/raw/2/brat-dreapta-samox-0-offset-175-mm-bosch-gen-1-2-4-brose-shape-1~13794012.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/5/brat-dreapta-samox-0-offset-175-mm-bosch-gen-1-2-4-brose-shape-1~13794015.jpg"
       ],
-      "category_description": "Cranksets - pedal arms and chainrings",
       "tags": [
-        "Angrenaje",
+        "Brat Angrenaj",
         "Componente",
         "SAMOX"
       ]
@@ -7144,6 +7080,64 @@
       "specs": {
         "dimensions": "507 x 21"
       }
+    },
+    {
+      "id": "388214",
+      "sku": "388214",
+      "name": "Roata Fata SXT BASIC II 24(507 x 21C) 36H FD Bile",
+      "brand": "SXT",
+      "category": "Roti Fata",
+      "category_path": "Roti > Roti Bicicleta > Roti Fata",
+      "price": 250.0,
+      "price_net": 206.61,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 3,
+      "url": "https://www.bikestylish.ro/roata-fata-sxt-basic-ii-24-507-x-21c-36h-fd-bile.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/roata-fata-sxt-basic-ii-24-507-x-21c-36h-fd-bile~15462744.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/roata-fata-sxt-basic-ii-24-507-x-21c-36h-fd-bile~15462744.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/roata-fata-sxt-basic-ii-24-507-x-21c-36h-fd-bile~15462747.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-sxt-basic-ii-24-507-x-21c-36h-fd-bile~15462750.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/roata-fata-sxt-basic-ii-24-507-x-21c-36h-fd-bile~15615534.jpg"
+      ],
+      "category_description": "Front wheels - complete, ready to mount",
+      "tags": [
+        "Roti",
+        "Roti Fata",
+        "SXT"
+      ],
+      "specs": {
+        "dimensions": "507 x 21"
+      }
+    },
+    {
+      "id": "7580346",
+      "sku": "7580346",
+      "ean": "2802060000000",
+      "name": "Far cu Baterii SXT 1 Led(20 Lumen) MARO",
+      "brand": "SXT",
+      "category": "Lumini Fata",
+      "category_path": "Accesorii > Lumini > Lumini Fata",
+      "secondary_categories": [
+        "PROMOTII > REDUCERE DE PRET"
+      ],
+      "price": 48.4,
+      "price_net": 40.0,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 16,
+      "url": "https://www.bikestylish.ro/far-cu-baterii-sxt-1-led-20-lumen-maro.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/far-cu-baterii-sxt-1-led-20-lumen-maro~15471510.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/far-cu-baterii-sxt-1-led-20-lumen-maro~15471510.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/far-cu-baterii-sxt-1-led-20-lumen-maro~15471831.jpg"
+      ],
+      "tags": [
+        "Accesorii",
+        "Lumini Fata",
+        "SXT"
+      ]
     }
   ],
   "categories": [
@@ -7200,15 +7194,15 @@
       "id": "angrenaje",
       "name": "Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Angrenaje",
-      "product_count": 114,
-      "in_stock_count": 67
+      "product_count": 69,
+      "in_stock_count": 43
     },
     {
       "id": "angrenaje-e-bike",
       "name": "Angrenaje E-Bike",
       "full_path": "E-Mobility > Angrenaje E-Bike",
-      "product_count": 15,
-      "in_stock_count": 10
+      "product_count": 11,
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi",
@@ -7393,6 +7387,13 @@
       "in_stock_count": 2
     },
     {
+      "id": "brat-angrenaj",
+      "name": "Brat Angrenaj",
+      "full_path": "Componente > Transmisie > Pedaliere > Brat Angrenaj",
+      "product_count": 50,
+      "in_stock_count": 24
+    },
+    {
       "id": "butuci-frana-disc",
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
@@ -7557,8 +7558,8 @@
       "id": "depozitare-biciclete",
       "name": "Depozitare Biciclete",
       "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
-      "product_count": 21,
-      "in_stock_count": 17
+      "product_count": 22,
+      "in_stock_count": 18
     },
     {
       "id": "discuri-rotoare",
@@ -7642,7 +7643,7 @@
       "name": "Home Trainer",
       "full_path": "Accesorii > Home Trainer",
       "product_count": 2,
-      "in_stock_count": 1
+      "in_stock_count": 2
     },
     {
       "id": "ingrijire",
@@ -7834,13 +7835,6 @@
       "in_stock_count": 89
     },
     {
-      "id": "pedaliere",
-      "name": "Pedaliere",
-      "full_path": "Componente > Transmisie > Pedaliere",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
       "id": "pinioane",
       "name": "Pinioane",
       "full_path": "Componente > Transmisie > Pinioane",
@@ -7873,7 +7867,7 @@
       "name": "Placute Frana",
       "full_path": "Componente > Sisteme Franare > Placute Frana",
       "product_count": 23,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "pompe-ciclism",
@@ -7914,8 +7908,8 @@
       "id": "protectii-antipana",
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
-      "product_count": 45,
-      "in_stock_count": 25
+      "product_count": 46,
+      "in_stock_count": 26
     },
     {
       "id": "protectii-lant",
@@ -8138,8 +8132,8 @@
       "id": "transport-depozitare",
       "name": "Transport-Depozitare",
       "full_path": "Accesorii > TRANSPORT > Transport-Depozitare",
-      "product_count": 5,
-      "in_stock_count": 5
+      "product_count": 4,
+      "in_stock_count": 4
     },
     {
       "id": "tricouri-ciclism",

@@ -1,70 +1,14 @@
 {
-  "last_updated": "2026-10-19T03:12:45.101972+00:00",
+  "last_updated": "2026-10-20T03:11:37.344077+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 14,
     "total_parts": 20,
     "product_range": "3251-3500",
-    "original_total": 4778
+    "original_total": 4779
   },
   "products": [
-    {
-      "id": "D60",
-      "sku": "D60",
-      "ean": "7290107110495",
-      "name": "Ureche Cadru PILO D60 Rocky Mountain",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 121.0,
-      "price_net": 100.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d60-rocky-mountain.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d60-rocky-mountain~8335504.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d60-rocky-mountain~8335504.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "MTB",
-        "PILO",
-        "Urechi Cadru"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ]
-      }
-    },
-    {
-      "id": "D73",
-      "sku": "D73",
-      "ean": "7290107110624",
-      "name": "Ureche Cadru PILO D73 Basso",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 218.9,
-      "price_net": 180.91,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d73-basso.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d73-basso~8335507.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d73-basso~8335507.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D81",
       "sku": "D81",
@@ -3626,7 +3570,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 1073,
+      "stock_quantity": 1013,
       "weight_kg": 0.26,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-26x1-95-2-50-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/camera-standard-vittoria-26x1-95-2-50-av-schrader-48mm~8336050.jpg",
@@ -7161,6 +7105,76 @@
         ],
         "color": "Orange"
       }
+    },
+    {
+      "id": "SXT55NAB",
+      "sku": "SXT55NAB",
+      "ean": "2801831000003",
+      "name": "Bike SXT MERCURIS 97 Black - Blue M - 550 mm",
+      "brand": "SXT",
+      "category": "Biciclete Single - SPEED - Fixie",
+      "category_path": "Biciclete > Biciclete Single - SPEED - Fixie",
+      "price": 2035.0,
+      "price_net": 1681.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/bike-sxt-mercuris-97-black-blue-m-550-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/bike-sxt-mercuris-97-black-blue-m-550-mm~8337583.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/bike-sxt-mercuris-97-black-blue-m-550-mm~8337583.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/bike-sxt-mercuris-97-black-blue-m-550-mm~8337586.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/bike-sxt-mercuris-97-black-blue-m-550-mm~8337589.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/bike-sxt-mercuris-97-black-blue-m-550-mm~8337592.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/bike-sxt-mercuris-97-black-blue-m-550-mm~8337595.jpg"
+      ],
+      "tags": [
+        "Biciclete",
+        "Biciclete Single - SPEED - Fixie",
+        "Fixie",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "Fixie"
+        ],
+        "color": "Blue"
+      }
+    },
+    {
+      "id": "SXT58NAB",
+      "sku": "SXT58NAB",
+      "ean": "2801830000004",
+      "name": "Bike SXT MERCURIS 97 Black - Blue L - 580 mm",
+      "brand": "SXT",
+      "category": "Biciclete Single - SPEED - Fixie",
+      "category_path": "Biciclete > Biciclete Single - SPEED - Fixie",
+      "price": 2035.0,
+      "price_net": 1681.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/bike-sxt-mercuris-97-black-blue-l-580-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/bike-sxt-mercuris-97-black-blue-l-580-mm~8337604.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/bike-sxt-mercuris-97-black-blue-l-580-mm~8337604.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/bike-sxt-mercuris-97-black-blue-l-580-mm~8337607.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/bike-sxt-mercuris-97-black-blue-l-580-mm~8337610.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/bike-sxt-mercuris-97-black-blue-l-580-mm~8337613.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/bike-sxt-mercuris-97-black-blue-l-580-mm~8337616.jpg"
+      ],
+      "tags": [
+        "Biciclete",
+        "Biciclete Single - SPEED - Fixie",
+        "Fixie",
+        "SXT"
+      ],
+      "specs": {
+        "bike_type": [
+          "Fixie"
+        ],
+        "color": "Blue"
+      }
     }
   ],
   "categories": [
@@ -7217,15 +7231,15 @@
       "id": "angrenaje",
       "name": "Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Angrenaje",
-      "product_count": 114,
-      "in_stock_count": 67
+      "product_count": 69,
+      "in_stock_count": 43
     },
     {
       "id": "angrenaje-e-bike",
       "name": "Angrenaje E-Bike",
       "full_path": "E-Mobility > Angrenaje E-Bike",
-      "product_count": 15,
-      "in_stock_count": 10
+      "product_count": 11,
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi",
@@ -7410,6 +7424,13 @@
       "in_stock_count": 2
     },
     {
+      "id": "brat-angrenaj",
+      "name": "Brat Angrenaj",
+      "full_path": "Componente > Transmisie > Pedaliere > Brat Angrenaj",
+      "product_count": 50,
+      "in_stock_count": 24
+    },
+    {
       "id": "butuci-frana-disc",
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
@@ -7574,8 +7595,8 @@
       "id": "depozitare-biciclete",
       "name": "Depozitare Biciclete",
       "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
-      "product_count": 21,
-      "in_stock_count": 17
+      "product_count": 22,
+      "in_stock_count": 18
     },
     {
       "id": "discuri-rotoare",
@@ -7659,7 +7680,7 @@
       "name": "Home Trainer",
       "full_path": "Accesorii > Home Trainer",
       "product_count": 2,
-      "in_stock_count": 1
+      "in_stock_count": 2
     },
     {
       "id": "ingrijire",
@@ -7851,13 +7872,6 @@
       "in_stock_count": 89
     },
     {
-      "id": "pedaliere",
-      "name": "Pedaliere",
-      "full_path": "Componente > Transmisie > Pedaliere",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
       "id": "pinioane",
       "name": "Pinioane",
       "full_path": "Componente > Transmisie > Pinioane",
@@ -7890,7 +7904,7 @@
       "name": "Placute Frana",
       "full_path": "Componente > Sisteme Franare > Placute Frana",
       "product_count": 23,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "pompe-ciclism",
@@ -7931,8 +7945,8 @@
       "id": "protectii-antipana",
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
-      "product_count": 45,
-      "in_stock_count": 25
+      "product_count": 46,
+      "in_stock_count": 26
     },
     {
       "id": "protectii-lant",
@@ -8155,8 +8169,8 @@
       "id": "transport-depozitare",
       "name": "Transport-Depozitare",
       "full_path": "Accesorii > TRANSPORT > Transport-Depozitare",
-      "product_count": 5,
-      "in_stock_count": 5
+      "product_count": 4,
+      "in_stock_count": 4
     },
     {
       "id": "tricouri-ciclism",

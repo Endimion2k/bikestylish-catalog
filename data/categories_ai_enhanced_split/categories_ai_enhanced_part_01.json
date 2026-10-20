@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T03:12:45.101972+00:00",
+  "last_updated": "2026-10-20T03:11:37.344077+00:00",
   "total_categories": 157,
   "categories": [
     {
@@ -55,15 +55,15 @@
       "id": "angrenaje",
       "name": "Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Angrenaje",
-      "product_count": 114,
-      "in_stock_count": 67
+      "product_count": 69,
+      "in_stock_count": 43
     },
     {
       "id": "angrenaje-e-bike",
       "name": "Angrenaje E-Bike",
       "full_path": "E-Mobility > Angrenaje E-Bike",
-      "product_count": 15,
-      "in_stock_count": 10
+      "product_count": 11,
+      "in_stock_count": 9
     },
     {
       "id": "antifurturi",
@@ -248,6 +248,13 @@
       "in_stock_count": 2
     },
     {
+      "id": "brat-angrenaj",
+      "name": "Brat Angrenaj",
+      "full_path": "Componente > Transmisie > Pedaliere > Brat Angrenaj",
+      "product_count": 50,
+      "in_stock_count": 24
+    },
+    {
       "id": "butuci-frana-disc",
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
@@ -412,8 +419,8 @@
       "id": "depozitare-biciclete",
       "name": "Depozitare Biciclete",
       "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
-      "product_count": 21,
-      "in_stock_count": 17
+      "product_count": 22,
+      "in_stock_count": 18
     },
     {
       "id": "discuri-rotoare",
@@ -497,7 +504,7 @@
       "name": "Home Trainer",
       "full_path": "Accesorii > Home Trainer",
       "product_count": 2,
-      "in_stock_count": 1
+      "in_stock_count": 2
     },
     {
       "id": "ingrijire",
@@ -689,13 +696,6 @@
       "in_stock_count": 89
     },
     {
-      "id": "pedaliere",
-      "name": "Pedaliere",
-      "full_path": "Componente > Transmisie > Pedaliere",
-      "product_count": 1,
-      "in_stock_count": 0
-    },
-    {
       "id": "pinioane",
       "name": "Pinioane",
       "full_path": "Componente > Transmisie > Pinioane",
@@ -728,7 +728,7 @@
       "name": "Placute Frana",
       "full_path": "Componente > Sisteme Franare > Placute Frana",
       "product_count": 23,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "pompe-ciclism",
@@ -769,8 +769,8 @@
       "id": "protectii-antipana",
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
-      "product_count": 45,
-      "in_stock_count": 25
+      "product_count": 46,
+      "in_stock_count": 26
     },
     {
       "id": "protectii-lant",
@@ -993,8 +993,8 @@
       "id": "transport-depozitare",
       "name": "Transport-Depozitare",
       "full_path": "Accesorii > TRANSPORT > Transport-Depozitare",
-      "product_count": 5,
-      "in_stock_count": 5
+      "product_count": 4,
+      "in_stock_count": 4
     },
     {
       "id": "tricouri-ciclism",
