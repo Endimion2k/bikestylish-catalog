@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-20T03:11:37.344077+00:00",
+  "last_updated": "2026-10-21T03:12:00.146154+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 14,
-    "total_parts": 20,
+    "total_parts": 19,
     "product_range": "3251-3500",
-    "original_total": 4779
+    "original_total": 4733
   },
   "products": [
     {
@@ -3570,7 +3570,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 1013,
+      "stock_quantity": 1008,
       "weight_kg": 0.26,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-26x1-95-2-50-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/camera-standard-vittoria-26x1-95-2-50-av-schrader-48mm~8336050.jpg",
@@ -3602,7 +3602,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 346,
+      "stock_quantity": 341,
       "weight_kg": 0.27,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/camera-standard-vittoria-27-5x1-95-2-50-av-schrader-48mm~8336053.jpg",
@@ -3664,7 +3664,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 513,
+      "stock_quantity": 508,
       "weight_kg": 0.29,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-29x1-95-2-50-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/camera-standard-vittoria-29x1-95-2-50-av-schrader-48mm~8336059.jpg",
@@ -3787,7 +3787,7 @@
       "price_net": 22.31,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 159,
+      "stock_quantity": 154,
       "weight_kg": 0.14,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-700x20-28c-fv-presta-rvc-60mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/camera-standard-vittoria-700x20-28c-fv-presta-rvc-60mm~8336071.jpg",
@@ -4734,7 +4734,7 @@
       "price_net": 64.46,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 57,
+      "stock_quantity": 17,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/solutie-tubeless-vittoria-500-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/solutie-tubeless-vittoria-500-ml~12385938.jpg",
@@ -4762,8 +4762,8 @@
       "price": 155.0,
       "price_net": 128.1,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "in_stock",
+      "stock_quantity": 18,
       "url": "https://www.bikestylish.ro/solutie-tubeless-vittoria-1000-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/solutie-tubeless-vittoria-1000-ml~12385935.jpg",
       "images": [
@@ -6483,7 +6483,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 10,
       "url": "https://www.bikestylish.ro/solutie-antipana-motul-tubeless-500-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/solutie-antipana-motul-tubeless-500-ml~8337232.jpg",
       "images": [
@@ -7791,7 +7791,7 @@
       "id": "mansoane",
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
-      "product_count": 95,
+      "product_count": 98,
       "in_stock_count": 69
     },
     {
@@ -7834,7 +7834,7 @@
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
       "product_count": 25,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pantaloni-ciclism",
@@ -8262,13 +8262,6 @@
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
       "in_stock_count": 405
-    },
-    {
-      "id": "zona-dealeri",
-      "name": "Zona Dealeri",
-      "full_path": "Zona Dealeri",
-      "product_count": 1,
-      "in_stock_count": 1
     },
     {
       "id": "casti-ciclism",

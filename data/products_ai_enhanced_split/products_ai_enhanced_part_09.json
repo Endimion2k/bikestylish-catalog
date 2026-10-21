@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-20T03:11:37.344077+00:00",
+  "last_updated": "2026-10-21T03:12:00.146154+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
-    "total_parts": 20,
+    "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4779
+    "original_total": 4733
   },
   "products": [
     {
@@ -320,7 +320,7 @@
       "price_net": 128.1,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 15,
       "weight_kg": 1.35,
       "url": "https://www.bikestylish.ro/furca-fixa-trekking-sxt-28-1-1-8-f-d-hi-ten-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/furca-fixa-trekking-sxt-28-1-1-8-f-d-hi-ten-negru~8325631.jpg",
@@ -421,7 +421,7 @@
       "price_net": 127.27,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/furca-fixa-mtb-26-sxt-1-1-8-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/furca-fixa-mtb-26-sxt-1-1-8-negru~8325640.jpg",
@@ -988,7 +988,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 116,
+      "stock_quantity": 114,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-4-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-4-negru~8325799.jpg",
@@ -1278,7 +1278,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 193,
+      "stock_quantity": 192,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/cric-aluminiu-sxt-a16-20c.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/cric-aluminiu-sxt-a16-20c~8325895.jpg",
@@ -1506,7 +1506,7 @@
       "price_net": 38.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 27,
+      "stock_quantity": 9,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/far-pentru-dinam-an-lun-14-lux.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/far-pentru-dinam-an-lun-14-lux~8325997.jpg",
@@ -1788,7 +1788,7 @@
       "price_net": 77.27,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 0.72,
       "url": "https://www.bikestylish.ro/pompa-picior-beto.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pompa-picior-beto~8326054.jpg",
@@ -1867,7 +1867,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 32,
+      "stock_quantity": 31,
       "weight_kg": 0.95,
       "url": "https://www.bikestylish.ro/pompa-podea-beto-11-160p.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pompa-podea-beto-11-160p~8326075.jpg",
@@ -2766,7 +2766,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 69,
+      "stock_quantity": 68,
       "weight_kg": 0.39,
       "url": "https://www.bikestylish.ro/pinion-filetat-shimano-mf-tz500-6-viteze-14-28-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-filetat-shimano-mf-tz500-6-viteze-14-28-t~8326618.jpg",
@@ -7669,7 +7669,7 @@
       "id": "mansoane",
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
-      "product_count": 95,
+      "product_count": 98,
       "in_stock_count": 69
     },
     {
@@ -7712,7 +7712,7 @@
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
       "product_count": 25,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pantaloni-ciclism",
@@ -8140,13 +8140,6 @@
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
       "in_stock_count": 405
-    },
-    {
-      "id": "zona-dealeri",
-      "name": "Zona Dealeri",
-      "full_path": "Zona Dealeri",
-      "product_count": 1,
-      "in_stock_count": 1
     },
     {
       "id": "casti-ciclism",

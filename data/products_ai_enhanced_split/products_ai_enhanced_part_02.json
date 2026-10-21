@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-20T03:11:37.344077+00:00",
+  "last_updated": "2026-10-21T03:12:00.146154+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 2,
-    "total_parts": 20,
+    "total_parts": 19,
     "product_range": "251-500",
-    "original_total": 4779
+    "original_total": 4733
   },
   "products": [
     {
@@ -130,7 +130,7 @@
       "price_net": 0.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7700,
+      "stock_quantity": 7300,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/niplu-cnspoke-14g-b-brass-2-0-x-14-mm-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/niplu-cnspoke-14g-b-brass-2-0-x-14-mm-silver~8280343.jpg",
@@ -247,7 +247,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 136,
+      "stock_quantity": 134,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/lant-kmc-z8-3-grey-6-7-8-viteze-114-zale.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/lant-kmc-z8-3-grey-6-7-8-viteze-114-zale~8280355.jpg",
@@ -1224,7 +1224,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-steady-beach-9-16-97-x-89-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-plastic-sxt-steady-beach-9-16-97-x-89-mm~8280445.jpg",
       "images": [
@@ -1256,7 +1256,7 @@
       "price_net": 51.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 15,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-a7-81x97-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-aluminiu-sxt-a7-81x97-negru~8280448.jpg",
@@ -1414,7 +1414,7 @@
       "price_net": 28.93,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 178,
+      "stock_quantity": 176,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-cu-pini-sxt-9-16-87x94-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-aluminiu-cu-pini-sxt-9-16-87x94-negru~8280463.jpg",
@@ -1918,7 +1918,7 @@
       "price_net": 77.69,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 46,
+      "stock_quantity": 45,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-flat-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-aluminiu-sxt-flat-negru~8280517.jpg",
@@ -4145,7 +4145,7 @@
       "price_net": 57.02,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 96,
+      "stock_quantity": 91,
       "weight_kg": 0.18,
       "url": "https://www.bikestylish.ro/set-conversie-single-speed-sxt-14t-16t-18t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/set-conversie-single-speed-sxt-14t-16t-18t~15694875.jpg",
@@ -7189,7 +7189,7 @@
       "price_net": 33.06,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 122,
+      "stock_quantity": 120,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/ulei-mineral-100-ml-m-wave.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ulei-mineral-100-ml-m-wave~8282113.jpg",
@@ -7971,7 +7971,7 @@
       "id": "mansoane",
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
-      "product_count": 95,
+      "product_count": 98,
       "in_stock_count": 69
     },
     {
@@ -8014,7 +8014,7 @@
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
       "product_count": 25,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pantaloni-ciclism",
@@ -8442,13 +8442,6 @@
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
       "in_stock_count": 405
-    },
-    {
-      "id": "zona-dealeri",
-      "name": "Zona Dealeri",
-      "full_path": "Zona Dealeri",
-      "product_count": 1,
-      "in_stock_count": 1
     },
     {
       "id": "casti-ciclism",

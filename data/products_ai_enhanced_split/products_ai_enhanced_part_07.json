@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-20T03:11:37.344077+00:00",
+  "last_updated": "2026-10-21T03:12:00.146154+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
-    "total_parts": 20,
+    "total_parts": 19,
     "product_range": "1501-1750",
-    "original_total": 4779
+    "original_total": 4733
   },
   "products": [
     {
@@ -59,8 +59,8 @@
       "price": 104.5,
       "price_net": 86.36,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.19,
       "url": "https://www.bikestylish.ro/adaptor-ghidon-m-wave-cp-lift-1-1-8.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/adaptor-ghidon-m-wave-cp-lift-1-1-8~8290426.jpg",
@@ -173,7 +173,7 @@
       "price_net": 72.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 7,
       "weight_kg": 0.16,
       "url": "https://www.bikestylish.ro/camasa-schimbator-extend-sp-4-mm-albastru-dark-5m.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/camasa-schimbator-extend-sp-4-mm-albastru-dark-5m~8290441.jpg",
@@ -734,8 +734,8 @@
       "price": 690.0,
       "price_net": 570.25,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 4,
       "url": "https://www.bikestylish.ro/kit-service-brose-s-mag-motor-magnesium.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/kit-service-brose-s-mag-motor-magnesium~8290507.jpg",
       "images": [
@@ -3476,7 +3476,7 @@
       "price_net": 362.73,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "weight_kg": 0.8,
       "url": "https://www.bikestylish.ro/set-chei-conuri-super-b-tb-hb100-13-19-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-chei-conuri-super-b-tb-hb100-13-19-mm~8290834.jpg",
@@ -3865,7 +3865,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 24,
+      "stock_quantity": 23,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/tija-sa-m-wave-sp-m4-1-31-6x350-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/tija-sa-m-wave-sp-m4-1-31-6x350-mm-negru~8290873.jpg",
@@ -5566,7 +5566,7 @@
       "price_net": 26.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 114,
+      "stock_quantity": 113,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-xl-26-4-x101x106-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-plastic-sxt-xl-26-4-x101x106-mm~8292187.jpg",
@@ -7804,7 +7804,7 @@
       "id": "mansoane",
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
-      "product_count": 95,
+      "product_count": 98,
       "in_stock_count": 69
     },
     {
@@ -7847,7 +7847,7 @@
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
       "product_count": 25,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pantaloni-ciclism",
@@ -8275,13 +8275,6 @@
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
       "in_stock_count": 405
-    },
-    {
-      "id": "zona-dealeri",
-      "name": "Zona Dealeri",
-      "full_path": "Zona Dealeri",
-      "product_count": 1,
-      "in_stock_count": 1
     },
     {
       "id": "casti-ciclism",

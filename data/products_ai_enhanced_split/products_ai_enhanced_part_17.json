@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-20T03:11:37.344077+00:00",
+  "last_updated": "2026-10-21T03:12:00.146154+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 17,
-    "total_parts": 20,
+    "total_parts": 19,
     "product_range": "4001-4250",
-    "original_total": 4779
+    "original_total": 4733
   },
   "products": [
     {
@@ -497,7 +497,7 @@
       "price_net": 305.79,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/pedale-ht-an71-talon-albastru-royal.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-an71-talon-albastru-royal~8342218.jpg",
@@ -531,7 +531,7 @@
       "price_net": 305.79,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/pedale-ht-an71-talon-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-an71-talon-negru~8342230.jpg",
@@ -781,7 +781,7 @@
       "price_net": 179.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 11,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/pedale-ht-pa01a-sky-blue-292c-pini-detasabili.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-pa01a-sky-blue-292c-pini-detasabili~8342299.jpg",
@@ -970,7 +970,7 @@
       "price_net": 148.76,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 14,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/pedale-ht-pa32a-supreme-c-albastru-41359.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-pa32a-supreme-c-albastru-41359~8342326.jpg",
@@ -2210,7 +2210,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 40,
+      "stock_quantity": 38,
       "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-002-130-mm-lock-on-dublu-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/mansoane-mtb-sxt-zn-002-130-mm-lock-on-dublu-negru~8342704.jpg",
       "images": [
@@ -2345,7 +2345,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 39,
+      "stock_quantity": 34,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/colier-tija-sa-sxt-34-9mm-xt-c76-negru-qr.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/colier-tija-sa-sxt-34-9mm-xt-c76-negru-qr~8342743.jpg",
@@ -2504,7 +2504,7 @@
       "price_net": 59.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 109,
+      "stock_quantity": 106,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/pipa-sxt-31-8-1-1-8-38-mm-7-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-sxt-31-8-1-1-8-38-mm-7-negru~8342773.jpg",
@@ -2792,7 +2792,7 @@
       "price_net": 71.9,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 31,
+      "stock_quantity": 28,
       "weight_kg": 0.43,
       "url": "https://www.bikestylish.ro/cric-aluminiu-m-wave-column-e2-24-29-e-bike-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/cric-aluminiu-m-wave-column-e2-24-29-e-bike-negru~8342827.jpg",
@@ -5192,8 +5192,8 @@
       "brand": "SUPER B",
       "category": "Chei Dinamometrice",
       "category_path": "Service > Unelte Service > Chei Dinamometrice",
-      "price": 121.0,
-      "price_net": 100.0,
+      "price": 99.0,
+      "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 81,
@@ -8323,7 +8323,7 @@
       "id": "mansoane",
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
-      "product_count": 95,
+      "product_count": 98,
       "in_stock_count": 69
     },
     {
@@ -8366,7 +8366,7 @@
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
       "product_count": 25,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pantaloni-ciclism",
@@ -8794,13 +8794,6 @@
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
       "in_stock_count": 405
-    },
-    {
-      "id": "zona-dealeri",
-      "name": "Zona Dealeri",
-      "full_path": "Zona Dealeri",
-      "product_count": 1,
-      "in_stock_count": 1
     },
     {
       "id": "casti-ciclism",

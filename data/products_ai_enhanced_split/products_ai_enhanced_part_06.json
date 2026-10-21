@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-20T03:11:37.344077+00:00",
+  "last_updated": "2026-10-21T03:12:00.146154+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 6,
-    "total_parts": 20,
+    "total_parts": 19,
     "product_range": "1251-1500",
-    "original_total": 4779
+    "original_total": 4733
   },
   "products": [
     {
@@ -412,7 +412,7 @@
       "price_net": 194.21,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 0.32,
       "url": "https://www.bikestylish.ro/lant-kmc-e11-silver-11-viteze-122-zale-e-bike.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/lant-kmc-e11-silver-11-viteze-122-zale-e-bike~8287762.jpg",
@@ -2427,7 +2427,7 @@
       "price_net": 16.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 74,
+      "stock_quantity": 73,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/colier-tija-sa-sxt-31-8-mm-negru-qr.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/colier-tija-sa-sxt-31-8-mm-negru-qr~8288977.jpg",
@@ -3036,7 +3036,7 @@
       "price_net": 113.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 12,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/set-lumini-cu-acumulator-m-wave-atlas-k15-usb.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/set-lumini-cu-acumulator-m-wave-atlas-k15-usb~8289043.jpg",
@@ -7273,7 +7273,7 @@
       "price_net": 99.17,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 18,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/lant-m-wave-11-viteze-116-zale.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/lant-m-wave-11-viteze-116-zale~8289526.jpg",
@@ -8050,7 +8050,7 @@
       "id": "mansoane",
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
-      "product_count": 95,
+      "product_count": 98,
       "in_stock_count": 69
     },
     {
@@ -8093,7 +8093,7 @@
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
       "product_count": 25,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "pantaloni-ciclism",
@@ -8521,13 +8521,6 @@
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
       "in_stock_count": 405
-    },
-    {
-      "id": "zona-dealeri",
-      "name": "Zona Dealeri",
-      "full_path": "Zona Dealeri",
-      "product_count": 1,
-      "in_stock_count": 1
     },
     {
       "id": "casti-ciclism",
