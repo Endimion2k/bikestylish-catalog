@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-22T03:11:21.401559+00:00",
+  "last_updated": "2026-10-23T03:11:30.374688+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 4,
     "total_parts": 19,
     "product_range": "751-1000",
-    "original_total": 4733
+    "original_total": 4737
   },
   "products": [
     {
@@ -370,7 +370,7 @@
       "price_net": 12.4,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 12,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/stop-spate-pentru-dinam-sxt-portbagaj-2-leduri.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/stop-spate-pentru-dinam-sxt-portbagaj-2-leduri~8284390.jpg",
@@ -629,7 +629,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 58,
+      "stock_quantity": 56,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/bec-trumpf-halogen-6v-2-4-watt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/bec-trumpf-halogen-6v-2-4-watt~8284417.jpg",
@@ -2264,7 +2264,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/huse-pantofi-silicon-m-wave-toe-shield.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/huse-pantofi-silicon-m-wave-toe-shield~8284597.jpg",
@@ -2790,7 +2790,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 100,
+      "stock_quantity": 89,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/cagula-bumbac-sxt-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/cagula-bumbac-sxt-negru~8284663.jpg",
@@ -2869,8 +2869,8 @@
       "price": 53.9,
       "price_net": 44.55,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/vaselina-alba-m-wave-lube-guard-white-ptfe-100-g.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/vaselina-alba-m-wave-lube-guard-white-ptfe-100-g~8284675.jpg",
@@ -5148,8 +5148,8 @@
       "ean": "2800023000005",
       "name": "Presa de Lant SXT Silver",
       "brand": "SXT",
-      "category": "Unelte Service",
-      "category_path": "Service > Unelte Service",
+      "category": "Unelte Lant",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
       "price": 25.3,
       "price_net": 20.91,
       "currency": "RON",
@@ -5165,7 +5165,7 @@
       "tags": [
         "SXT",
         "Service",
-        "Unelte Service"
+        "Unelte Lant"
       ],
       "specs": {
         "color": "Silver"
@@ -6242,7 +6242,7 @@
       "price_net": 0.25,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 1000,
+      "stock_quantity": 900,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/spita-cnspoke-ucp-14c-2-x-290-mm-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/spita-cnspoke-ucp-14c-2-x-290-mm-silver~8286403.jpg",
@@ -6859,7 +6859,7 @@
       "price_net": 0.83,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 2500,
+      "stock_quantity": 2450,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-290-mm-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/spita-inox-cnspoke-std14c-2-x-290-mm-silver~8286472.jpg",
@@ -7211,7 +7211,7 @@
       "name": "Aparatori Spate",
       "full_path": "Accesorii > Aparatori Noroi > Aparatori Spate",
       "product_count": 10,
-      "in_stock_count": 9
+      "in_stock_count": 10
     },
     {
       "id": "axe-accesorii-butuci",
@@ -7316,7 +7316,7 @@
       "name": "Brat Angrenaj",
       "full_path": "Componente > Transmisie > Pedaliere > Brat Angrenaj",
       "product_count": 50,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "butuci-frana-disc",
@@ -7441,7 +7441,7 @@
       "id": "cosuri-spate",
       "name": "Cosuri  Spate",
       "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Spate",
-      "product_count": 15,
+      "product_count": 17,
       "in_stock_count": 12
     },
     {
@@ -7532,7 +7532,7 @@
       "id": "frane-disc",
       "name": "Frane Disc",
       "full_path": "Componente > Sisteme Franare > Frane Disc",
-      "product_count": 15,
+      "product_count": 16,
       "in_stock_count": 7
     },
     {
@@ -7554,7 +7554,7 @@
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
       "product_count": 44,
-      "in_stock_count": 31
+      "in_stock_count": 32
     },
     {
       "id": "ghidoane-directie",
@@ -7589,7 +7589,7 @@
       "name": "Intretinere",
       "full_path": "Service > Intretinere Biciclete > Intretinere",
       "product_count": 14,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "jachete-veste-ciclism",
@@ -7679,7 +7679,7 @@
       "id": "mansoane",
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
-      "product_count": 98,
+      "product_count": 95,
       "in_stock_count": 69
     },
     {
@@ -7770,7 +7770,7 @@
       "id": "pinioane-casetate",
       "name": "Pinioane Casetate",
       "full_path": "Componente > Transmisie > Pinioane > Pinioane Casetate",
-      "product_count": 8,
+      "product_count": 7,
       "in_stock_count": 4
     },
     {
@@ -7917,7 +7917,7 @@
       "id": "sei",
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
-      "product_count": 79,
+      "product_count": 80,
       "in_stock_count": 66
     },
     {
@@ -8092,7 +8092,7 @@
       "id": "unelte-biciclete",
       "name": "Unelte  Biciclete",
       "full_path": "Service > Unelte Service > Unelte  Biciclete",
-      "product_count": 68,
+      "product_count": 67,
       "in_stock_count": 54
     },
     {
@@ -8113,8 +8113,8 @@
       "id": "unelte-lant",
       "name": "Unelte Lant",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
-      "product_count": 12,
-      "in_stock_count": 10
+      "product_count": 14,
+      "in_stock_count": 11
     },
     {
       "id": "unelte-pedale",
@@ -8134,8 +8134,8 @@
       "id": "unelte-service",
       "name": "Unelte Service",
       "full_path": "Service > Unelte Service",
-      "product_count": 5,
-      "in_stock_count": 3
+      "product_count": 4,
+      "in_stock_count": 2
     },
     {
       "id": "urechi-cadre",
@@ -8155,7 +8155,7 @@
       "id": "casti-ciclism",
       "name": "➤ Casti Ciclism",
       "full_path": "Echipamente > Casti > ➤ Casti Ciclism",
-      "product_count": 16,
+      "product_count": 20,
       "in_stock_count": 2
     }
   ],

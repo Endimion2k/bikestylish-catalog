@@ -1,76 +1,14 @@
 {
-  "last_updated": "2026-10-22T03:11:21.401559+00:00",
+  "last_updated": "2026-10-23T03:11:30.374688+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 16,
     "total_parts": 19,
     "product_range": "3751-4000",
-    "original_total": 4733
+    "original_total": 4737
   },
   "products": [
-    {
-      "id": "385132",
-      "sku": "385132",
-      "ean": "887539037062",
-      "name": "Aparatoare Noroi Universala M-WAVE Mud Max Flex Fata/Spate",
-      "brand": "M-WAVE",
-      "category": "Aparatori Spate",
-      "category_path": "Accesorii > Aparatori Noroi > Aparatori Spate",
-      "price": 40.7,
-      "price_net": 33.64,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 18,
-      "weight_kg": 0.04,
-      "url": "https://www.bikestylish.ro/aparatoare-noroi-universala-m-wave-mud-max-flex-fata-spate.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/aparatoare-noroi-universala-m-wave-mud-max-flex-fata-spate~8340190.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/aparatoare-noroi-universala-m-wave-mud-max-flex-fata-spate~8340190.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/aparatoare-noroi-universala-m-wave-mud-max-flex-fata-spate~8340193.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/aparatoare-noroi-universala-m-wave-mud-max-flex-fata-spate~8340196.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/aparatoare-noroi-universala-m-wave-mud-max-flex-fata-spate~8340199.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/aparatoare-noroi-universala-m-wave-mud-max-flex-fata-spate~8340202.jpg"
-      ],
-      "tags": [
-        "Accesorii",
-        "Aparatori Spate",
-        "M-WAVE"
-      ]
-    },
-    {
-      "id": "659873",
-      "sku": "659873",
-      "ean": "2802251000000",
-      "name": "Anvelopa Trotineta Electrica 8,5\"",
-      "brand": "SXT",
-      "category": "Trotinete Electrice",
-      "category_path": "E-Mobility > Trotinete Electrice",
-      "secondary_categories": [
-        "Componente > Anvelope - Camere > Anvelope Rigide"
-      ],
-      "price": 66.0,
-      "price_net": 54.55,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 49,
-      "url": "https://www.bikestylish.ro/anvelopa-trotineta-electrica-8-5.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-trotineta-electrica-8-5~8340205.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-trotineta-electrica-8-5~8340205.jpg"
-      ],
-      "tags": [
-        "E-Bike",
-        "E-Mobility",
-        "SXT",
-        "Trotinete Electrice"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ]
-      }
-    },
     {
       "id": "640090",
       "sku": "640090",
@@ -7203,7 +7141,7 @@
       "price_net": 103.31,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 6,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/set-lumini-cu-acumulator-sxt-550l-10c-usb.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/set-lumini-cu-acumulator-sxt-550l-10c-usb~8342020.jpg",
@@ -7448,6 +7386,63 @@
         "material": "Aluminiu",
         "color": "Negru"
       }
+    },
+    {
+      "id": "466612",
+      "sku": "466612",
+      "ean": "2802316000006",
+      "name": "Catadioptri SXT Orange",
+      "brand": "SXT",
+      "category": "Reflectorizante",
+      "category_path": "Accesorii > Lumini > Reflectorizante",
+      "price": 2.2,
+      "price_net": 1.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/catadioptri-sxt-orange.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/catadioptri-sxt-orange~8342077.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/catadioptri-sxt-orange~8342077.jpg"
+      ],
+      "tags": [
+        "Accesorii",
+        "Reflectorizante",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Orange"
+      }
+    },
+    {
+      "id": "420455",
+      "sku": "420455",
+      "ean": "887539047504",
+      "name": "Sonerie M-WAVE Trophy Negru Alama",
+      "brand": "M-WAVE",
+      "category": "Sonerii",
+      "category_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
+      "price": 70.0,
+      "price_net": 57.85,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/sonerie-m-wave-trophy-negru-alama.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/sonerie-m-wave-trophy-negru-alama~8342086.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/sonerie-m-wave-trophy-negru-alama~8342086.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/sonerie-m-wave-trophy-negru-alama~8342089.jpg"
+      ],
+      "tags": [
+        "Accesorii",
+        "M-WAVE",
+        "Sonerii"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -7596,7 +7591,7 @@
       "name": "Aparatori Spate",
       "full_path": "Accesorii > Aparatori Noroi > Aparatori Spate",
       "product_count": 10,
-      "in_stock_count": 9
+      "in_stock_count": 10
     },
     {
       "id": "axe-accesorii-butuci",
@@ -7701,7 +7696,7 @@
       "name": "Brat Angrenaj",
       "full_path": "Componente > Transmisie > Pedaliere > Brat Angrenaj",
       "product_count": 50,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "butuci-frana-disc",
@@ -7826,7 +7821,7 @@
       "id": "cosuri-spate",
       "name": "Cosuri  Spate",
       "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Spate",
-      "product_count": 15,
+      "product_count": 17,
       "in_stock_count": 12
     },
     {
@@ -7917,7 +7912,7 @@
       "id": "frane-disc",
       "name": "Frane Disc",
       "full_path": "Componente > Sisteme Franare > Frane Disc",
-      "product_count": 15,
+      "product_count": 16,
       "in_stock_count": 7
     },
     {
@@ -7939,7 +7934,7 @@
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
       "product_count": 44,
-      "in_stock_count": 31
+      "in_stock_count": 32
     },
     {
       "id": "ghidoane-directie",
@@ -7974,7 +7969,7 @@
       "name": "Intretinere",
       "full_path": "Service > Intretinere Biciclete > Intretinere",
       "product_count": 14,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "jachete-veste-ciclism",
@@ -8064,7 +8059,7 @@
       "id": "mansoane",
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
-      "product_count": 98,
+      "product_count": 95,
       "in_stock_count": 69
     },
     {
@@ -8155,7 +8150,7 @@
       "id": "pinioane-casetate",
       "name": "Pinioane Casetate",
       "full_path": "Componente > Transmisie > Pinioane > Pinioane Casetate",
-      "product_count": 8,
+      "product_count": 7,
       "in_stock_count": 4
     },
     {
@@ -8302,7 +8297,7 @@
       "id": "sei",
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
-      "product_count": 79,
+      "product_count": 80,
       "in_stock_count": 66
     },
     {
@@ -8477,7 +8472,7 @@
       "id": "unelte-biciclete",
       "name": "Unelte  Biciclete",
       "full_path": "Service > Unelte Service > Unelte  Biciclete",
-      "product_count": 68,
+      "product_count": 67,
       "in_stock_count": 54
     },
     {
@@ -8498,8 +8493,8 @@
       "id": "unelte-lant",
       "name": "Unelte Lant",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
-      "product_count": 12,
-      "in_stock_count": 10
+      "product_count": 14,
+      "in_stock_count": 11
     },
     {
       "id": "unelte-pedale",
@@ -8519,8 +8514,8 @@
       "id": "unelte-service",
       "name": "Unelte Service",
       "full_path": "Service > Unelte Service",
-      "product_count": 5,
-      "in_stock_count": 3
+      "product_count": 4,
+      "in_stock_count": 2
     },
     {
       "id": "urechi-cadre",
@@ -8540,7 +8535,7 @@
       "id": "casti-ciclism",
       "name": "➤ Casti Ciclism",
       "full_path": "Echipamente > Casti > ➤ Casti Ciclism",
-      "product_count": 16,
+      "product_count": 20,
       "in_stock_count": 2
     }
   ],

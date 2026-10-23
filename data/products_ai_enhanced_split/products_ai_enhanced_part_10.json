@@ -1,72 +1,14 @@
 {
-  "last_updated": "2026-10-22T03:11:21.401559+00:00",
+  "last_updated": "2026-10-23T03:11:30.374688+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
     "total_parts": 19,
     "product_range": "2251-2500",
-    "original_total": 4733
+    "original_total": 4737
   },
   "products": [
-    {
-      "id": "C644606",
-      "sku": "C644606",
-      "ean": "8051406522995",
-      "name": "Ghidolina DEDA TAPE Albastru",
-      "brand": "DEDA ELEMENTI",
-      "category": "Bar Tape - Accesorii",
-      "category_path": "Componente > Ghidoane - Directie > Bar Tape - Accesorii",
-      "price": 79.2,
-      "price_net": 65.45,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.05,
-      "url": "https://www.bikestylish.ro/ghidolina-deda-tape-albastru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ghidolina-deda-tape-albastru~8327710.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ghidolina-deda-tape-albastru~8327710.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ghidolina-deda-tape-albastru~8327713.jpg"
-      ],
-      "tags": [
-        "Bar Tape - Accesorii",
-        "Componente",
-        "DEDA ELEMENTI"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
-    {
-      "id": "C644607",
-      "sku": "C644607",
-      "ean": "8051406523022",
-      "name": "Ghidolina DEDA TAPE Celeste Green",
-      "brand": "DEDA ELEMENTI",
-      "category": "Bar Tape - Accesorii",
-      "category_path": "Componente > Ghidoane - Directie > Bar Tape - Accesorii",
-      "price": 79.2,
-      "price_net": 65.45,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.05,
-      "url": "https://www.bikestylish.ro/ghidolina-deda-tape-celeste-green.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ghidolina-deda-tape-celeste-green~8327716.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ghidolina-deda-tape-celeste-green~8327716.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ghidolina-deda-tape-celeste-green~8327719.jpg"
-      ],
-      "tags": [
-        "Bar Tape - Accesorii",
-        "Componente",
-        "DEDA ELEMENTI"
-      ],
-      "specs": {
-        "color": "Green"
-      }
-    },
     {
       "id": "C644600",
       "sku": "C644600",
@@ -7273,6 +7215,56 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D549",
+      "sku": "D549",
+      "ean": "7290107115636",
+      "name": "Ureche Cadru PILO D549 Look",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 198.0,
+      "price_net": 163.64,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d549-look.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d549-look~8330488.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d549-look~8330488.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D552",
+      "sku": "D552",
+      "ean": "7290107115667",
+      "name": "Ureche Cadru PILO D552 KHS",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 247.5,
+      "price_net": 204.55,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d552-khs.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d552-khs~8330491.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d552-khs~8330491.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7421,7 +7413,7 @@
       "name": "Aparatori Spate",
       "full_path": "Accesorii > Aparatori Noroi > Aparatori Spate",
       "product_count": 10,
-      "in_stock_count": 9
+      "in_stock_count": 10
     },
     {
       "id": "axe-accesorii-butuci",
@@ -7526,7 +7518,7 @@
       "name": "Brat Angrenaj",
       "full_path": "Componente > Transmisie > Pedaliere > Brat Angrenaj",
       "product_count": 50,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "butuci-frana-disc",
@@ -7651,7 +7643,7 @@
       "id": "cosuri-spate",
       "name": "Cosuri  Spate",
       "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Spate",
-      "product_count": 15,
+      "product_count": 17,
       "in_stock_count": 12
     },
     {
@@ -7742,7 +7734,7 @@
       "id": "frane-disc",
       "name": "Frane Disc",
       "full_path": "Componente > Sisteme Franare > Frane Disc",
-      "product_count": 15,
+      "product_count": 16,
       "in_stock_count": 7
     },
     {
@@ -7764,7 +7756,7 @@
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
       "product_count": 44,
-      "in_stock_count": 31
+      "in_stock_count": 32
     },
     {
       "id": "ghidoane-directie",
@@ -7799,7 +7791,7 @@
       "name": "Intretinere",
       "full_path": "Service > Intretinere Biciclete > Intretinere",
       "product_count": 14,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "jachete-veste-ciclism",
@@ -7889,7 +7881,7 @@
       "id": "mansoane",
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
-      "product_count": 98,
+      "product_count": 95,
       "in_stock_count": 69
     },
     {
@@ -7980,7 +7972,7 @@
       "id": "pinioane-casetate",
       "name": "Pinioane Casetate",
       "full_path": "Componente > Transmisie > Pinioane > Pinioane Casetate",
-      "product_count": 8,
+      "product_count": 7,
       "in_stock_count": 4
     },
     {
@@ -8127,7 +8119,7 @@
       "id": "sei",
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
-      "product_count": 79,
+      "product_count": 80,
       "in_stock_count": 66
     },
     {
@@ -8302,7 +8294,7 @@
       "id": "unelte-biciclete",
       "name": "Unelte  Biciclete",
       "full_path": "Service > Unelte Service > Unelte  Biciclete",
-      "product_count": 68,
+      "product_count": 67,
       "in_stock_count": 54
     },
     {
@@ -8323,8 +8315,8 @@
       "id": "unelte-lant",
       "name": "Unelte Lant",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
-      "product_count": 12,
-      "in_stock_count": 10
+      "product_count": 14,
+      "in_stock_count": 11
     },
     {
       "id": "unelte-pedale",
@@ -8344,8 +8336,8 @@
       "id": "unelte-service",
       "name": "Unelte Service",
       "full_path": "Service > Unelte Service",
-      "product_count": 5,
-      "in_stock_count": 3
+      "product_count": 4,
+      "in_stock_count": 2
     },
     {
       "id": "urechi-cadre",
@@ -8365,7 +8357,7 @@
       "id": "casti-ciclism",
       "name": "➤ Casti Ciclism",
       "full_path": "Echipamente > Casti > ➤ Casti Ciclism",
-      "product_count": 16,
+      "product_count": 20,
       "in_stock_count": 2
     }
   ],
