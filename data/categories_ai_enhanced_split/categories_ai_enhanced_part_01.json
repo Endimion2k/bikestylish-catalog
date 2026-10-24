@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T03:11:30.374688+00:00",
-  "total_categories": 156,
+  "last_updated": "2026-10-24T03:10:43.781581+00:00",
+  "total_categories": 157,
   "categories": [
     {
       "id": "accesorii",
@@ -83,7 +83,7 @@
       "id": "antifurturi-lant",
       "name": "Antifurturi Lant",
       "full_path": "Accesorii > Antifurturi > Antifurturi Lant",
-      "product_count": 11,
+      "product_count": 12,
       "in_stock_count": 9
     },
     {
@@ -118,21 +118,21 @@
       "id": "anvelope-pliabile",
       "name": "Anvelope Pliabile",
       "full_path": "Componente > Anvelope - Camere > Anvelope Pliabile",
-      "product_count": 92,
-      "in_stock_count": 53
+      "product_count": 93,
+      "in_stock_count": 54
     },
     {
       "id": "anvelope-rigide",
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 184,
-      "in_stock_count": 113
+      "in_stock_count": 112
     },
     {
       "id": "anvelope-tubulare",
       "name": "Anvelope Tubulare",
       "full_path": "Componente > Anvelope - Camere > Anvelope Tubulare",
-      "product_count": 2,
+      "product_count": 3,
       "in_stock_count": 1
     },
     {
@@ -286,7 +286,7 @@
       "id": "cabluri",
       "name": "Cabluri",
       "full_path": "Componente > Transmisie > Cabluri - Camasi > Cabluri",
-      "product_count": 15,
+      "product_count": 17,
       "in_stock_count": 10
     },
     {
@@ -482,8 +482,8 @@
       "id": "furci",
       "name": "Furci",
       "full_path": "Componente > Suspensii - Cuvete > Furci",
-      "product_count": 29,
-      "in_stock_count": 19
+      "product_count": 30,
+      "in_stock_count": 20
     },
     {
       "id": "ghidoane",
@@ -528,6 +528,13 @@
       "in_stock_count": 5
     },
     {
+      "id": "intretinere-biciclete",
+      "name": "Intretinere Biciclete",
+      "full_path": "Service > Intretinere Biciclete",
+      "product_count": 2,
+      "in_stock_count": 2
+    },
+    {
       "id": "jachete-veste-ciclism",
       "name": "Jachete - Veste Ciclism",
       "full_path": "Echipamente > Imbracaminte > Jachete - Veste Ciclism",
@@ -559,15 +566,15 @@
       "id": "lanturi",
       "name": "Lanturi",
       "full_path": "Componente > Transmisie > Lanturi > Lanturi",
-      "product_count": 76,
-      "in_stock_count": 58
+      "product_count": 82,
+      "in_stock_count": 57
     },
     {
       "id": "lubrefiere",
       "name": "Lubrefiere",
       "full_path": "Service > Intretinere Biciclete > Lubrefiere",
-      "product_count": 13,
-      "in_stock_count": 5
+      "product_count": 12,
+      "in_stock_count": 4
     },
     {
       "id": "lumini",
@@ -615,7 +622,7 @@
       "id": "mansoane",
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
-      "product_count": 95,
+      "product_count": 99,
       "in_stock_count": 69
     },
     {
@@ -727,7 +734,7 @@
       "id": "placute-frana",
       "name": "Placute Frana",
       "full_path": "Componente > Sisteme Franare > Placute Frana",
-      "product_count": 23,
+      "product_count": 26,
       "in_stock_count": 18
     },
     {
@@ -812,7 +819,7 @@
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "product_count": 15,
-      "in_stock_count": 13
+      "in_stock_count": 12
     },
     {
       "id": "roti-custom-hand-built",
@@ -867,8 +874,8 @@
       "id": "service",
       "name": "Service",
       "full_path": "Service",
-      "product_count": 17,
-      "in_stock_count": 13
+      "product_count": 15,
+      "in_stock_count": 11
     },
     {
       "id": "set-lumini",
@@ -913,32 +920,32 @@
       "in_stock_count": 2
     },
     {
-      "id": "spite-stainless",
-      "name": "Spite Stainless",
-      "full_path": "Roti > Spite si Nipluri > Spite Stainless",
-      "product_count": 165,
-      "in_stock_count": 98
+      "id": "spite-aero-inox",
+      "name": "Spite  Aero Inox",
+      "full_path": "Roti > Spite si Nipluri > Spite  Aero Inox",
+      "product_count": 24,
+      "in_stock_count": 0
     },
     {
-      "id": "spite-stainless-2-3-mm",
-      "name": "Spite Stainless - 2,3 mm",
-      "full_path": "Roti > Spite si Nipluri > Spite Stainless - 2,3 mm",
+      "id": "spite-2-3-mm-inox",
+      "name": "Spite 2,3 mm Inox",
+      "full_path": "Roti > Spite si Nipluri > Spite 2,3 mm Inox",
       "product_count": 11,
       "in_stock_count": 7
     },
     {
-      "id": "spite-stainless-aero",
-      "name": "Spite Stainless Aero",
-      "full_path": "Roti > Spite si Nipluri > Spite Stainless Aero",
-      "product_count": 24,
-      "in_stock_count": 0
+      "id": "spite-inox",
+      "name": "Spite Inox",
+      "full_path": "Roti > Spite si Nipluri > Spite Inox",
+      "product_count": 165,
+      "in_stock_count": 98
     },
     {
       "id": "spite-ucp",
       "name": "Spite UCP",
       "full_path": "Roti > Spite si Nipluri > Spite UCP",
       "product_count": 58,
-      "in_stock_count": 30
+      "in_stock_count": 31
     },
     {
       "id": "stand-de-lucru",
@@ -1091,8 +1098,8 @@
       "id": "casti-ciclism",
       "name": "➤ Casti Ciclism",
       "full_path": "Echipamente > Casti > ➤ Casti Ciclism",
-      "product_count": 20,
-      "in_stock_count": 2
+      "product_count": 21,
+      "in_stock_count": 3
     }
   ]
 }
