@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-26T03:14:27.874270+00:00",
-  "total_products": 220,
+  "last_updated": "2026-10-27T03:12:08.431807+00:00",
+  "total_products": 221,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 19,
     "total_parts": 19,
-    "product_range": "4501-4720",
-    "original_total": 4720
+    "product_range": "4501-4721",
+    "original_total": 4721
   },
   "products": [
     {
@@ -168,8 +168,8 @@
       "price": 199.0,
       "price_net": 164.46,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 5,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-agarro-trail-27-5x2-6-4c-g2-0.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-agarro-trail-27-5x2-6-4c-g2-0~14262567.jpg",
       "images": [
@@ -3328,6 +3328,9 @@
       "brand": "SUPER B",
       "category": "Roti-Spite",
       "category_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
+      "secondary_categories": [
+        "Service > Unelte Service > Echipamente Atelier"
+      ],
       "price": 363.0,
       "price_net": 300.0,
       "currency": "RON",
@@ -6303,6 +6306,33 @@
         "color": "Negru",
         "dimensions": "700 x 34"
       }
+    },
+    {
+      "id": "283481",
+      "sku": "283481",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 283 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Inox",
+      "category_path": "Roti > Spite si Nipluri > Spite Inox",
+      "price": 1.65,
+      "price_net": 1.36,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 100,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-283-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/spita-inox-cnspoke-std14c-2-x-283-mm-negru~15723969.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/spita-inox-cnspoke-std14c-2-x-283-mm-negru~15723969.jpg"
+      ],
+      "tags": [
+        "Roti",
+        "Spite Inox",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -6493,7 +6523,7 @@
       "name": "Bagaje Spate",
       "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Spate",
       "product_count": 42,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "banda-janta",
@@ -6801,7 +6831,7 @@
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
       "product_count": 45,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "ghidoane-directie",
@@ -6941,7 +6971,7 @@
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
       "product_count": 101,
-      "in_stock_count": 72
+      "in_stock_count": 73
     },
     {
       "id": "manusi-ciclism",
@@ -7053,7 +7083,7 @@
       "name": "Placute Frana",
       "full_path": "Componente > Sisteme Franare > Placute Frana",
       "product_count": 26,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "pompe-ciclism",
@@ -7248,8 +7278,8 @@
       "id": "spite-inox",
       "name": "Spite Inox",
       "full_path": "Roti > Spite si Nipluri > Spite Inox",
-      "product_count": 165,
-      "in_stock_count": 98
+      "product_count": 166,
+      "in_stock_count": 103
     },
     {
       "id": "spite-ucp",

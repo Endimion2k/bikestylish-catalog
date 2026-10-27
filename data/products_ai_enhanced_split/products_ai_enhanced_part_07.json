@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-26T03:14:27.874270+00:00",
+  "last_updated": "2026-10-27T03:12:08.431807+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
     "total_parts": 19,
     "product_range": "1501-1750",
-    "original_total": 4720
+    "original_total": 4721
   },
   "products": [
     {
@@ -1506,7 +1506,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 20,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/far-pentru-dinam-m-wave-apollon-d30-6v-3w-30lux.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/far-pentru-dinam-m-wave-apollon-d30-6v-3w-30lux~8290645.jpg",
@@ -3999,7 +3999,7 @@
       "price_net": 10.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 151,
+      "stock_quantity": 131,
       "url": "https://www.bikestylish.ro/ax-butuc-spate-cu-piulita-sxt-3-8-180-x-135-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ax-butuc-spate-cu-piulita-sxt-3-8-180-x-135-mm~8290930.jpg",
       "images": [
@@ -5365,6 +5365,9 @@
       "brand": "SUPER B",
       "category": "Roti-Spite",
       "category_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
+      "secondary_categories": [
+        "Service > Unelte Service > Echipamente Atelier"
+      ],
       "price": 495.0,
       "price_net": 409.09,
       "currency": "RON",
@@ -5398,7 +5401,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 1,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/stop-spate-cu-baterii-sxt-portbagaj-3-led.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/stop-spate-cu-baterii-sxt-portbagaj-3-led~8292223.jpg",
@@ -6647,7 +6650,7 @@
       "price_net": 118.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 11,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d593-cube-aim-2015.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d593-cube-aim-2015~8292367.jpg",
@@ -7372,7 +7375,7 @@
       "name": "Bagaje Spate",
       "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Bagaje Spate",
       "product_count": 42,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "banda-janta",
@@ -7680,7 +7683,7 @@
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
       "product_count": 45,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "ghidoane-directie",
@@ -7820,7 +7823,7 @@
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
       "product_count": 101,
-      "in_stock_count": 72
+      "in_stock_count": 73
     },
     {
       "id": "manusi-ciclism",
@@ -7932,7 +7935,7 @@
       "name": "Placute Frana",
       "full_path": "Componente > Sisteme Franare > Placute Frana",
       "product_count": 26,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "pompe-ciclism",
@@ -8127,8 +8130,8 @@
       "id": "spite-inox",
       "name": "Spite Inox",
       "full_path": "Roti > Spite si Nipluri > Spite Inox",
-      "product_count": 165,
-      "in_stock_count": 98
+      "product_count": 166,
+      "in_stock_count": 103
     },
     {
       "id": "spite-ucp",
