@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T03:12:08.431807+00:00",
+  "last_updated": "2026-10-28T03:08:35.613045+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1451,8 +1451,8 @@
       "price": 455.0,
       "price_net": 376.03,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 9.95,
       "url": "https://www.bikestylish.ro/home-trainer-m-wave-yoke-n-roll-10-26-29.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/home-trainer-m-wave-yoke-n-roll-10-26-29~8290639.jpg",
@@ -1911,7 +1911,7 @@
       "price_net": 268.6,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 28,
+      "stock_quantity": 27,
       "weight_kg": 2.0,
       "url": "https://www.bikestylish.ro/roata-fata-sxt-concept-2r-29-622-x-21c-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-sxt-concept-2r-29-622-x-21c-32h~15618300.jpg",
@@ -2005,7 +2005,7 @@
       "price_net": 98.35,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 48,
+      "stock_quantity": 46,
       "weight_kg": 0.41,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-93-x-97-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-aluminiu-sxt-93-x-97-mm-negru~8291503.jpg",
@@ -3199,7 +3199,7 @@
       "price_net": 72.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 55,
+      "stock_quantity": 54,
       "weight_kg": 0.13,
       "url": "https://www.bikestylish.ro/cuveti-integrati-neco-1-1-8-aluminiu-negru-campagnolo.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cuveti-integrati-neco-1-1-8-aluminiu-negru-campagnolo~8290846.jpg",
@@ -5010,8 +5010,10 @@
       "stock_quantity": 33,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-2.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/mansoane-sxt-cloud-slick-fix-2~8292181.jpg",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-sxt-cloud-slick-fix-2~15729606.jpg",
       "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-sxt-cloud-slick-fix-2~15729606.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/mansoane-sxt-cloud-slick-fix-2~15729708.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/1/mansoane-sxt-cloud-slick-fix-2~8292181.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/4/mansoane-sxt-cloud-slick-fix-2~8292784.jpg"
       ],
@@ -5064,7 +5066,7 @@
       "price_net": 26.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 111,
+      "stock_quantity": 109,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-xl-26-4-x101x106-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-plastic-sxt-xl-26-4-x101x106-mm~8292187.jpg",
@@ -7291,7 +7293,7 @@
       "name": "Antifurturi cu Cifru",
       "full_path": "Accesorii > Antifurturi > Antifurturi cu Cifru",
       "product_count": 10,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "anvelope-camere",
@@ -7445,7 +7447,7 @@
       "name": "Brat Angrenaj",
       "full_path": "Componente > Transmisie > Pedaliere > Brat Angrenaj",
       "product_count": 50,
-      "in_stock_count": 23
+      "in_stock_count": 22
     },
     {
       "id": "butuci-frana-disc",
@@ -7767,7 +7769,7 @@
       "name": "Lubrefiere",
       "full_path": "Service > Intretinere Biciclete > Lubrefiere",
       "product_count": 16,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "lumini",
@@ -8012,7 +8014,7 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 47,
-      "in_stock_count": 46
+      "in_stock_count": 45
     },
     {
       "id": "roti-spite",
@@ -8110,7 +8112,7 @@
       "name": "Sonerii",
       "full_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
       "product_count": 52,
-      "in_stock_count": 44
+      "in_stock_count": 43
     },
     {
       "id": "spite-aero-inox",
