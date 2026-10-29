@@ -1,40 +1,14 @@
 {
-  "last_updated": "2026-10-28T03:08:35.613045+00:00",
+  "last_updated": "2026-10-29T03:08:58.608516+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
     "total_parts": 19,
     "product_range": "2251-2500",
-    "original_total": 4721
+    "original_total": 4718
   },
   "products": [
-    {
-      "id": "326272",
-      "sku": "326272",
-      "ean": "4719871444108",
-      "name": "Caseta Butuc NOVATEC B SR 11 ( B ) 11-12 v Sram XDR Drive",
-      "brand": "NOVATEC",
-      "category": "Casete Butuci",
-      "category_path": "Roti > Butuci - Accesorii > Casete Butuci",
-      "price": 328.9,
-      "price_net": 271.82,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.12,
-      "url": "https://www.bikestylish.ro/caseta-butuc-novatec-b-sr-11-b-11-12-v-sram-xdr-drive.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/caseta-butuc-novatec-b-sr-11-b-11-12-v-sram-xdr-drive~10193523.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/caseta-butuc-novatec-b-sr-11-b-11-12-v-sram-xdr-drive~10193523.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/caseta-butuc-novatec-b-sr-11-b-11-12-v-sram-xdr-drive~10193526.jpg"
-      ],
-      "tags": [
-        "Casete Butuci",
-        "NOVATEC",
-        "Roti"
-      ]
-    },
     {
       "id": "326283",
       "sku": "326283",
@@ -2167,8 +2141,8 @@
       "brand": "M-WAVE",
       "category": "Tije Sa",
       "category_path": "Componente > Sei - Tije - Coliere > Tije Sa",
-      "price": 13.2,
-      "price_net": 10.91,
+      "price": 15.0,
+      "price_net": 12.4,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 18,
@@ -2192,8 +2166,8 @@
       "brand": "M-WAVE",
       "category": "Tije Sa",
       "category_path": "Componente > Sei - Tije - Coliere > Tije Sa",
-      "price": 13.2,
-      "price_net": 10.91,
+      "price": 15.0,
+      "price_net": 12.4,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -7186,6 +7160,33 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D417",
+      "sku": "D417",
+      "ean": "7290107114257",
+      "name": "Ureche Cadru PILO D417 Colnago",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d417-colnago.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d417-colnago~8330620.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d417-colnago~8330620.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d417-colnago~8330623.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d417-colnago~8330626.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7312,7 +7313,7 @@
       "id": "anvelope-rigide",
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "product_count": 183,
+      "product_count": 182,
       "in_stock_count": 113
     },
     {
@@ -7341,7 +7342,7 @@
       "name": "Axe - Accesorii Butuci",
       "full_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "b-b-pedalier",
@@ -7383,7 +7384,7 @@
       "name": "Banda Janta",
       "full_path": "Componente > Anvelope - Camere > Banda Janta",
       "product_count": 31,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "bandane-caciuli-sepci",
@@ -7453,7 +7454,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 121,
-      "in_stock_count": 73
+      "in_stock_count": 72
     },
     {
       "id": "butuci-pedalieri",
@@ -7466,8 +7467,8 @@
       "id": "butuci-v-break-dinam",
       "name": "Butuci V-Break - Dinam",
       "full_path": "Roti > Butuci - Accesorii > Butuci V-Break - Dinam",
-      "product_count": 51,
-      "in_stock_count": 40
+      "product_count": 50,
+      "in_stock_count": 39
     },
     {
       "id": "butuci-axe",
@@ -7516,7 +7517,7 @@
       "name": "Camere Bicicleta",
       "full_path": "Componente > Anvelope - Camere > Camere Bicicleta",
       "product_count": 103,
-      "in_stock_count": 65
+      "in_stock_count": 64
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -7656,7 +7657,7 @@
       "name": "Foi Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Foi Angrenaje",
       "product_count": 36,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "frane-disc",
@@ -7789,7 +7790,7 @@
       "name": "Lumini Spate",
       "full_path": "Accesorii > Lumini > Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "mtb-full-face",
@@ -7921,7 +7922,7 @@
       "id": "pinioane-filetate",
       "name": "Pinioane Filetate",
       "full_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
-      "product_count": 43,
+      "product_count": 42,
       "in_stock_count": 29
     },
     {
@@ -8251,7 +8252,7 @@
       "name": "Unelte Lant",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
       "product_count": 19,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "unelte-pedale",

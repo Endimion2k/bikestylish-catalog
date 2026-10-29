@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-28T03:08:35.613045+00:00",
+  "last_updated": "2026-10-29T03:08:58.608516+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4721
+    "original_total": 4718
   },
   "products": [
     {
@@ -1066,8 +1066,8 @@
       "brand": "SXT",
       "category": "Accesorii Lumini",
       "category_path": "Accesorii > Lumini > Accesorii Lumini",
-      "price": 3.3,
-      "price_net": 2.73,
+      "price": 5.0,
+      "price_net": 4.13,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 14,
@@ -6251,37 +6251,6 @@
       ]
     },
     {
-      "id": "558077",
-      "sku": "558077",
-      "ean": "2801451000001",
-      "name": "Anvelopa KUJO TRIBAL 27.5 x 2.0 (50-584)",
-      "brand": "KUJO",
-      "category": "Anvelope Rigide",
-      "category_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "price": 77.0,
-      "price_net": 63.64,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 1.2,
-      "url": "https://www.bikestylish.ro/anvelopa-kujo-tribal-27-5-x-2-0-50-584.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-kujo-tribal-27-5-x-2-0-50-584~8327653.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-kujo-tribal-27-5-x-2-0-50-584~8327653.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-kujo-tribal-27-5-x-2-0-50-584~8327656.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kujo-tribal-27-5-x-2-0-50-584~8327659.jpg"
-      ],
-      "tags": [
-        "27.5 inch",
-        "Anvelope Rigide",
-        "Componente",
-        "KUJO"
-      ],
-      "specs": {
-        "wheel_size": "27.5"
-      }
-    },
-    {
       "id": "C644603",
       "sku": "C644603",
       "ean": "8051406522971",
@@ -7064,6 +7033,32 @@
         "NOVATEC",
         "Roti"
       ]
+    },
+    {
+      "id": "326272",
+      "sku": "326272",
+      "ean": "4719871444108",
+      "name": "Caseta Butuc NOVATEC B SR 11 ( B ) 11-12 v Sram XDR Drive",
+      "brand": "NOVATEC",
+      "category": "Casete Butuci",
+      "category_path": "Roti > Butuci - Accesorii > Casete Butuci",
+      "price": 328.9,
+      "price_net": 271.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.12,
+      "url": "https://www.bikestylish.ro/caseta-butuc-novatec-b-sr-11-b-11-12-v-sram-xdr-drive.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/caseta-butuc-novatec-b-sr-11-b-11-12-v-sram-xdr-drive~10193523.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/caseta-butuc-novatec-b-sr-11-b-11-12-v-sram-xdr-drive~10193523.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/caseta-butuc-novatec-b-sr-11-b-11-12-v-sram-xdr-drive~10193526.jpg"
+      ],
+      "tags": [
+        "Casete Butuci",
+        "NOVATEC",
+        "Roti"
+      ]
     }
   ],
   "categories": [
@@ -7190,7 +7185,7 @@
       "id": "anvelope-rigide",
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "product_count": 183,
+      "product_count": 182,
       "in_stock_count": 113
     },
     {
@@ -7219,7 +7214,7 @@
       "name": "Axe - Accesorii Butuci",
       "full_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "b-b-pedalier",
@@ -7261,7 +7256,7 @@
       "name": "Banda Janta",
       "full_path": "Componente > Anvelope - Camere > Banda Janta",
       "product_count": 31,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "bandane-caciuli-sepci",
@@ -7331,7 +7326,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 121,
-      "in_stock_count": 73
+      "in_stock_count": 72
     },
     {
       "id": "butuci-pedalieri",
@@ -7344,8 +7339,8 @@
       "id": "butuci-v-break-dinam",
       "name": "Butuci V-Break - Dinam",
       "full_path": "Roti > Butuci - Accesorii > Butuci V-Break - Dinam",
-      "product_count": 51,
-      "in_stock_count": 40
+      "product_count": 50,
+      "in_stock_count": 39
     },
     {
       "id": "butuci-axe",
@@ -7394,7 +7389,7 @@
       "name": "Camere Bicicleta",
       "full_path": "Componente > Anvelope - Camere > Camere Bicicleta",
       "product_count": 103,
-      "in_stock_count": 65
+      "in_stock_count": 64
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -7534,7 +7529,7 @@
       "name": "Foi Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Foi Angrenaje",
       "product_count": 36,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "frane-disc",
@@ -7667,7 +7662,7 @@
       "name": "Lumini Spate",
       "full_path": "Accesorii > Lumini > Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "mtb-full-face",
@@ -7799,7 +7794,7 @@
       "id": "pinioane-filetate",
       "name": "Pinioane Filetate",
       "full_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
-      "product_count": 43,
+      "product_count": 42,
       "in_stock_count": 29
     },
     {
@@ -8129,7 +8124,7 @@
       "name": "Unelte Lant",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
       "product_count": 19,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "unelte-pedale",

@@ -1,44 +1,14 @@
 {
-  "last_updated": "2026-10-28T03:08:35.613045+00:00",
+  "last_updated": "2026-10-29T03:08:58.608516+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 12,
     "total_parts": 19,
     "product_range": "2751-3000",
-    "original_total": 4721
+    "original_total": 4718
   },
   "products": [
-    {
-      "id": "D584",
-      "sku": "D584",
-      "ean": "7290107116022",
-      "name": "Ureche Cadru PILO D584 Rocky Mountain",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 328.9,
-      "price_net": 271.82,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d584-rocky-mountain.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d584-rocky-mountain~8331460.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d584-rocky-mountain~8331460.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "MTB",
-        "PILO",
-        "Urechi Cadru"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ]
-      }
-    },
     {
       "id": "D588",
       "sku": "D588",
@@ -6602,6 +6572,32 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D855",
+      "sku": "D855",
+      "ean": "7290117594346",
+      "name": "Ureche Cadru PILO D855 Santa Cruz",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 165.0,
+      "price_net": 136.36,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d855-santa-cruz.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d855-santa-cruz~8333170.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d855-santa-cruz~8333170.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d855-santa-cruz~8333173.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d855-santa-cruz~8333176.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6728,7 +6724,7 @@
       "id": "anvelope-rigide",
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "product_count": 183,
+      "product_count": 182,
       "in_stock_count": 113
     },
     {
@@ -6757,7 +6753,7 @@
       "name": "Axe - Accesorii Butuci",
       "full_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "b-b-pedalier",
@@ -6799,7 +6795,7 @@
       "name": "Banda Janta",
       "full_path": "Componente > Anvelope - Camere > Banda Janta",
       "product_count": 31,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "bandane-caciuli-sepci",
@@ -6869,7 +6865,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 121,
-      "in_stock_count": 73
+      "in_stock_count": 72
     },
     {
       "id": "butuci-pedalieri",
@@ -6882,8 +6878,8 @@
       "id": "butuci-v-break-dinam",
       "name": "Butuci V-Break - Dinam",
       "full_path": "Roti > Butuci - Accesorii > Butuci V-Break - Dinam",
-      "product_count": 51,
-      "in_stock_count": 40
+      "product_count": 50,
+      "in_stock_count": 39
     },
     {
       "id": "butuci-axe",
@@ -6932,7 +6928,7 @@
       "name": "Camere Bicicleta",
       "full_path": "Componente > Anvelope - Camere > Camere Bicicleta",
       "product_count": 103,
-      "in_stock_count": 65
+      "in_stock_count": 64
     },
     {
       "id": "carcase-prinderi-smartphone",
@@ -7072,7 +7068,7 @@
       "name": "Foi Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Foi Angrenaje",
       "product_count": 36,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "frane-disc",
@@ -7205,7 +7201,7 @@
       "name": "Lumini Spate",
       "full_path": "Accesorii > Lumini > Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 27
+      "in_stock_count": 26
     },
     {
       "id": "mtb-full-face",
@@ -7337,7 +7333,7 @@
       "id": "pinioane-filetate",
       "name": "Pinioane Filetate",
       "full_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
-      "product_count": 43,
+      "product_count": 42,
       "in_stock_count": 29
     },
     {
@@ -7667,7 +7663,7 @@
       "name": "Unelte Lant",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
       "product_count": 19,
-      "in_stock_count": 15
+      "in_stock_count": 14
     },
     {
       "id": "unelte-pedale",
