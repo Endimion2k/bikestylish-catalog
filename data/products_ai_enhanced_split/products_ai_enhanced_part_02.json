@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-29T03:08:58.608516+00:00",
+  "last_updated": "2026-10-30T03:08:51.562498+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 2,
     "total_parts": 19,
     "product_range": "251-500",
-    "original_total": 4718
+    "original_total": 4717
   },
   "products": [
     {
@@ -646,7 +646,7 @@
       "price_net": 32.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 18,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/lant-ventura-7-8-viteze-116-zale.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/lant-ventura-7-8-viteze-116-zale~8280403.jpg",
@@ -1303,7 +1303,7 @@
       "price_net": 28.93,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 176,
+      "stock_quantity": 173,
       "weight_kg": 0.39,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-cu-pini-sxt-9-16-87x94-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-aluminiu-cu-pini-sxt-9-16-87x94-negru~8280463.jpg",
@@ -2497,8 +2497,8 @@
       "price": 16.5,
       "price_net": 13.64,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/qr-spate-135-mm-sxt-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/qr-spate-135-mm-sxt-negru~8280592.jpg",
@@ -7476,7 +7476,7 @@
       "name": "Antifurturi cu Cifru",
       "full_path": "Accesorii > Antifurturi > Antifurturi cu Cifru",
       "product_count": 10,
-      "in_stock_count": 6
+      "in_stock_count": 5
     },
     {
       "id": "anvelope-camere",
@@ -7490,21 +7490,21 @@
       "name": "Anvelope Pliabile",
       "full_path": "Componente > Anvelope - Camere > Anvelope Pliabile",
       "product_count": 92,
-      "in_stock_count": 53
+      "in_stock_count": 54
     },
     {
       "id": "anvelope-rigide",
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 182,
-      "in_stock_count": 113
+      "in_stock_count": 115
     },
     {
       "id": "anvelope-tubulare",
       "name": "Anvelope Tubulare",
       "full_path": "Componente > Anvelope - Camere > Anvelope Tubulare",
       "product_count": 3,
-      "in_stock_count": 1
+      "in_stock_count": 2
     },
     {
       "id": "aparatori-fata",
@@ -7525,7 +7525,7 @@
       "name": "Axe - Accesorii Butuci",
       "full_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 37
+      "in_stock_count": 38
     },
     {
       "id": "b-b-pedalier",
@@ -7581,7 +7581,7 @@
       "name": "Bar Tape - Accesorii",
       "full_path": "Componente > Ghidoane - Directie > Bar Tape - Accesorii",
       "product_count": 38,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "baterii-incarcatoare-e-bike",
@@ -7608,8 +7608,8 @@
       "id": "bidoane-ciclism",
       "name": "Bidoane Ciclism",
       "full_path": "Accesorii > Bidoane - Suporti > Bidoane Ciclism",
-      "product_count": 21,
-      "in_stock_count": 18
+      "product_count": 20,
+      "in_stock_count": 17
     },
     {
       "id": "bike-computer",
@@ -8162,7 +8162,7 @@
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
       "product_count": 46,
-      "in_stock_count": 26
+      "in_stock_count": 30
     },
     {
       "id": "protectii-lant",
@@ -8470,7 +8470,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 404
+      "in_stock_count": 402
     }
   ],
   "brands": [
