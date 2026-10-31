@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T03:08:51.562498+00:00",
+  "last_updated": "2026-10-31T03:06:44.175201+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -9,34 +9,6 @@
     "original_total": 4717
   },
   "products": [
-    {
-      "id": "283577",
-      "sku": "283577",
-      "ean": "2802429000009",
-      "name": "Spita Inox cnSPOKE STD14C 2 x 258 mm Negru",
-      "brand": "cnSPOKE",
-      "category": "Spite Inox",
-      "category_path": "Roti > Spite si Nipluri > Spite Inox",
-      "price": 2.0,
-      "price_net": 1.65,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 1650,
-      "weight_kg": 0.01,
-      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-258-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/spita-inox-cnspoke-std14c-2-x-258-mm-negru~8286508.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/spita-inox-cnspoke-std14c-2-x-258-mm-negru~8286508.jpg"
-      ],
-      "tags": [
-        "Roti",
-        "Spite Inox",
-        "cnSPOKE"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
     {
       "id": "283553",
       "sku": "283553",
@@ -2337,8 +2309,8 @@
       "brand": "KUJO",
       "category": "Anvelope Rigide",
       "category_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "price": 79.2,
-      "price_net": 65.45,
+      "price": 65.0,
+      "price_net": 53.72,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 36,
@@ -4047,7 +4019,7 @@
       "price_net": 40.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 21,
+      "stock_quantity": 20,
       "weight_kg": 0.78,
       "url": "https://www.bikestylish.ro/camera-kujo-26-x-3-80-4-20-av-33-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/camera-kujo-26-x-3-80-4-20-av-33-mm~8287375.jpg",
@@ -4744,7 +4716,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 45,
+      "stock_quantity": 43,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-6-130-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-6-130-mm~15728079.jpg",
@@ -4772,7 +4744,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 360,
+      "stock_quantity": 358,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-tire-2-125-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-sxt-cloud-tire-2-125-mm~15725490.jpg",
@@ -6151,7 +6123,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 7,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/saboti-pentru-frane-magura-m-wave-bpr-hy.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/saboti-pentru-frane-magura-m-wave-bpr-hy~11396211.jpg",
@@ -7360,6 +7332,34 @@
       "specs": {
         "color": "Rosu"
       }
+    },
+    {
+      "id": "HTPA12DP",
+      "sku": "HTPA12DP",
+      "ean": "4715872483955",
+      "name": "Pedale HT PA12 Dark Purple(2602C)",
+      "brand": "HT COMPONENTS",
+      "category": "Pedale Platforma",
+      "category_path": "Componente > Pedale > Pedale Platforma",
+      "price": 159.5,
+      "price_net": 131.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.45,
+      "url": "https://www.bikestylish.ro/pedale-ht-pa12-dark-purple-2602c.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-pa12-dark-purple-2602c~8287735.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-pa12-dark-purple-2602c~8287735.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Purple"
+      }
     }
   ],
   "categories": [
@@ -7487,14 +7487,14 @@
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 182,
-      "in_stock_count": 115
+      "in_stock_count": 116
     },
     {
       "id": "anvelope-tubulare",
       "name": "Anvelope Tubulare",
       "full_path": "Componente > Anvelope - Camere > Anvelope Tubulare",
       "product_count": 3,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "aparatori-fata",
@@ -8460,7 +8460,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 402
+      "in_stock_count": 400
     }
   ],
   "brands": [

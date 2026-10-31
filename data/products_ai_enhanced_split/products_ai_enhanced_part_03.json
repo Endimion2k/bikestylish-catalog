@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T03:08:51.562498+00:00",
+  "last_updated": "2026-10-31T03:06:44.175201+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -9,32 +9,6 @@
     "original_total": 4717
   },
   "products": [
-    {
-      "id": "360600",
-      "sku": "360600",
-      "ean": "2800805000001",
-      "name": "Disc Frana SXT 160 mm",
-      "brand": "SXT",
-      "category": "Discuri - Rotoare",
-      "category_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "price": 42.0,
-      "price_net": 34.71,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.14,
-      "url": "https://www.bikestylish.ro/disc-frana-sxt-160-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/disc-frana-sxt-160-mm~8282146.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/disc-frana-sxt-160-mm~8282146.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/disc-frana-sxt-160-mm~8282671.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "Discuri - Rotoare",
-        "SXT"
-      ]
-    },
     {
       "id": "360606",
       "sku": "360606",
@@ -1869,8 +1843,8 @@
       "price": 93.5,
       "price_net": 77.27,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/cuveti-semi-integrati-m-wave-1-1-8-1-1-5-carousel-hs-mix.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/cuveti-semi-integrati-m-wave-1-1-8-1-1-5-carousel-hs-mix~8282941.jpg",
@@ -4119,7 +4093,7 @@
       "price_net": 30.58,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 122,
+      "stock_quantity": 121,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-sxt-cloud-slick-fix~15725016.jpg",
@@ -4395,7 +4369,7 @@
       "price_net": 9.92,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 37,
+      "stock_quantity": 36,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/mansoane-bmx-sxt-130-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/mansoane-bmx-sxt-130-mm-negru~15725082.jpg",
@@ -4466,7 +4440,7 @@
       "price_net": 9.92,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 33,
+      "stock_quantity": 31,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/mansoane-sxt-bmx-130-mm-albastru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-sxt-bmx-130-mm-albastru~15725076.jpg",
@@ -6231,7 +6205,7 @@
       "price_net": 24.79,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 184,
+      "stock_quantity": 174,
       "weight_kg": 0.58,
       "url": "https://www.bikestylish.ro/suport-metal-depozitare-ventura-vertical.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/suport-metal-depozitare-ventura-vertical~8283385.jpg",
@@ -7451,6 +7425,35 @@
         "Accesorii",
         "Lumini Fata"
       ]
+    },
+    {
+      "id": "460241",
+      "sku": "460241",
+      "ean": "4015493460237",
+      "name": "Dinam Aero AN LUN Stanga",
+      "brand": "AN LUN",
+      "category": "Lumini Fata",
+      "category_path": "Accesorii > Lumini > Lumini Fata",
+      "price": 33.0,
+      "price_net": 27.27,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 20,
+      "weight_kg": 0.16,
+      "url": "https://www.bikestylish.ro/dinam-aero-an-lun-stanga.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/dinam-aero-an-lun-stanga~8283511.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/dinam-aero-an-lun-stanga~8283511.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/dinam-aero-an-lun-stanga~8284351.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/dinam-aero-an-lun-stanga~8284354.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/dinam-aero-an-lun-stanga~8284357.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/dinam-aero-an-lun-stanga~8284360.jpg"
+      ],
+      "tags": [
+        "AN LUN",
+        "Accesorii",
+        "Lumini Fata"
+      ]
     }
   ],
   "categories": [
@@ -7578,14 +7581,14 @@
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 182,
-      "in_stock_count": 115
+      "in_stock_count": 116
     },
     {
       "id": "anvelope-tubulare",
       "name": "Anvelope Tubulare",
       "full_path": "Componente > Anvelope - Camere > Anvelope Tubulare",
       "product_count": 3,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "aparatori-fata",
@@ -8551,7 +8554,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 402
+      "in_stock_count": 400
     }
   ],
   "brands": [

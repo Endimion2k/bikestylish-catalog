@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T03:08:51.562498+00:00",
+  "last_updated": "2026-10-31T03:06:44.175201+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -9,35 +9,6 @@
     "original_total": 4717
   },
   "products": [
-    {
-      "id": "460241",
-      "sku": "460241",
-      "ean": "4015493460237",
-      "name": "Dinam Aero AN LUN Stanga",
-      "brand": "AN LUN",
-      "category": "Lumini Fata",
-      "category_path": "Accesorii > Lumini > Lumini Fata",
-      "price": 33.0,
-      "price_net": 27.27,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 20,
-      "weight_kg": 0.16,
-      "url": "https://www.bikestylish.ro/dinam-aero-an-lun-stanga.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/dinam-aero-an-lun-stanga~8283511.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/dinam-aero-an-lun-stanga~8283511.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/dinam-aero-an-lun-stanga~8284351.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/dinam-aero-an-lun-stanga~8284354.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/dinam-aero-an-lun-stanga~8284357.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/dinam-aero-an-lun-stanga~8284360.jpg"
-      ],
-      "tags": [
-        "AN LUN",
-        "Accesorii",
-        "Lumini Fata"
-      ]
-    },
     {
       "id": "461688",
       "sku": "461688",
@@ -2680,7 +2651,8 @@
       "category": "Urban",
       "category_path": "Echipamente > Casti > Urban",
       "secondary_categories": [
-        "Echipamente > Casti"
+        "Echipamente > Casti",
+        "Echipamente > Imbracaminte > Bandane Caciuli Sepci"
       ],
       "price": 22.0,
       "price_net": 18.18,
@@ -7155,6 +7127,34 @@
       "specs": {
         "color": "Negru"
       }
+    },
+    {
+      "id": "283577",
+      "sku": "283577",
+      "ean": "2802429000009",
+      "name": "Spita Inox cnSPOKE STD14C 2 x 258 mm Negru",
+      "brand": "cnSPOKE",
+      "category": "Spite Inox",
+      "category_path": "Roti > Spite si Nipluri > Spite Inox",
+      "price": 2.0,
+      "price_net": 1.65,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 1650,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-258-mm-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/spita-inox-cnspoke-std14c-2-x-258-mm-negru~8286508.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/spita-inox-cnspoke-std14c-2-x-258-mm-negru~8286508.jpg"
+      ],
+      "tags": [
+        "Roti",
+        "Spite Inox",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -7282,14 +7282,14 @@
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 182,
-      "in_stock_count": 115
+      "in_stock_count": 116
     },
     {
       "id": "anvelope-tubulare",
       "name": "Anvelope Tubulare",
       "full_path": "Componente > Anvelope - Camere > Anvelope Tubulare",
       "product_count": 3,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "aparatori-fata",
@@ -8255,7 +8255,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 402
+      "in_stock_count": 400
     }
   ],
   "brands": [

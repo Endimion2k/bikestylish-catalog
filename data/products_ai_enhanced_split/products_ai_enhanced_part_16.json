@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T03:08:51.562498+00:00",
+  "last_updated": "2026-10-31T03:06:44.175201+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -9,36 +9,6 @@
     "original_total": 4717
   },
   "products": [
-    {
-      "id": "A29449403",
-      "sku": "A29449403",
-      "ean": "8590816026636",
-      "name": "Tija Sa AUTHOR ACO-SP AGLab X5 Aluminiu 30.9 x 400 mm",
-      "brand": "AUTHOR",
-      "category": "Tije Sa",
-      "category_path": "Componente > Sei - Tije - Coliere > Tije Sa",
-      "price": 137.5,
-      "price_net": 113.64,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.4,
-      "url": "https://www.bikestylish.ro/tija-sa-author-aco-sp-aglab-x5-aluminiu-30-9-x-400-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/tija-sa-author-aco-sp-aglab-x5-aluminiu-30-9-x-400-mm~8340421.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/tija-sa-author-aco-sp-aglab-x5-aluminiu-30-9-x-400-mm~8340421.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/tija-sa-author-aco-sp-aglab-x5-aluminiu-30-9-x-400-mm~8340424.jpg"
-      ],
-      "tags": [
-        "AUTHOR",
-        "Aluminiu",
-        "Componente",
-        "Tije Sa"
-      ],
-      "specs": {
-        "material": "Aluminiu"
-      }
-    },
     {
       "id": "D1139",
       "sku": "D1139",
@@ -6013,7 +5983,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 219,
+      "stock_quantity": 218,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/set-flash-cu-baterii-sxt-silicone-albastru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-flash-cu-baterii-sxt-silicone-albastru~8341948.jpg",
@@ -6080,7 +6050,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 374,
+      "stock_quantity": 373,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/set-flash-cu-baterii-sxt-silicone-rosu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/set-flash-cu-baterii-sxt-silicone-rosu~8341981.jpg",
@@ -6115,7 +6085,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 274,
+      "stock_quantity": 272,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/set-flash-cu-baterii-sxt-silicone-verde-lime.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/set-flash-cu-baterii-sxt-silicone-verde-lime~8341999.jpg",
@@ -7532,6 +7502,38 @@
       "specs": {
         "dimensions": "622 x 30"
       }
+    },
+    {
+      "id": "3882930",
+      "sku": "3882930",
+      "ean": "2802341000002",
+      "name": "Roata Spate SXT 29(622 x 30C) TXN-12.148 32H",
+      "brand": "SXT",
+      "category": "Roti Spate",
+      "category_path": "Roti > Roti Bicicleta > Roti Spate",
+      "price": 825.0,
+      "price_net": 681.82,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "url": "https://www.bikestylish.ro/roata-spate-sxt-29-622-x-30c-txn-12-148-32h.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-sxt-29-622-x-30c-txn-12-148-32h~8342398.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-sxt-29-622-x-30c-txn-12-148-32h~8342398.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-sxt-29-622-x-30c-txn-12-148-32h~8342410.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/roata-spate-sxt-29-622-x-30c-txn-12-148-32h~8342401.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/roata-spate-sxt-29-622-x-30c-txn-12-148-32h~8342404.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/roata-spate-sxt-29-622-x-30c-txn-12-148-32h~8342407.jpg"
+      ],
+      "category_description": "Rear wheels - complete, ready to mount",
+      "tags": [
+        "Roti",
+        "Roti Spate",
+        "SXT"
+      ],
+      "specs": {
+        "dimensions": "622 x 30"
+      }
     }
   ],
   "categories": [
@@ -7659,14 +7661,14 @@
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 182,
-      "in_stock_count": 115
+      "in_stock_count": 116
     },
     {
       "id": "anvelope-tubulare",
       "name": "Anvelope Tubulare",
       "full_path": "Componente > Anvelope - Camere > Anvelope Tubulare",
       "product_count": 3,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "aparatori-fata",
@@ -8632,7 +8634,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 402
+      "in_stock_count": 400
     }
   ],
   "brands": [

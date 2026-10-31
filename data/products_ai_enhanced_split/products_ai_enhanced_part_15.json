@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T03:08:51.562498+00:00",
+  "last_updated": "2026-10-31T03:06:44.175201+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -9,35 +9,6 @@
     "original_total": 4717
   },
   "products": [
-    {
-      "id": "283878",
-      "sku": "283878",
-      "ean": "2800504000005",
-      "name": "Spita Inox cnSPOKE STD13C 2.3 x 278 mm Silver",
-      "brand": "cnSPOKE",
-      "category": "Spite 2,3 mm Inox",
-      "category_path": "Roti > Spite si Nipluri > Spite 2,3 mm Inox",
-      "price": 1.1,
-      "price_net": 0.91,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.01,
-      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std13c-2-3-x-278-mm-silver.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/spita-inox-cnspoke-std13c-2-3-x-278-mm-silver~8337979.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/spita-inox-cnspoke-std13c-2-3-x-278-mm-silver~8337979.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/spita-inox-cnspoke-std13c-2-3-x-278-mm-silver~8337982.jpg"
-      ],
-      "tags": [
-        "Roti",
-        "Spite 2,3 mm Inox",
-        "cnSPOKE"
-      ],
-      "specs": {
-        "color": "Silver"
-      }
-    },
     {
       "id": "283845",
       "sku": "283845",
@@ -7684,6 +7655,36 @@
         "material": "Aluminiu",
         "color": "Silver"
       }
+    },
+    {
+      "id": "A29449403",
+      "sku": "A29449403",
+      "ean": "8590816026636",
+      "name": "Tija Sa AUTHOR ACO-SP AGLab X5 Aluminiu 30.9 x 400 mm",
+      "brand": "AUTHOR",
+      "category": "Tije Sa",
+      "category_path": "Componente > Sei - Tije - Coliere > Tije Sa",
+      "price": 137.5,
+      "price_net": 113.64,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 0.4,
+      "url": "https://www.bikestylish.ro/tija-sa-author-aco-sp-aglab-x5-aluminiu-30-9-x-400-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/tija-sa-author-aco-sp-aglab-x5-aluminiu-30-9-x-400-mm~8340421.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/tija-sa-author-aco-sp-aglab-x5-aluminiu-30-9-x-400-mm~8340421.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/tija-sa-author-aco-sp-aglab-x5-aluminiu-30-9-x-400-mm~8340424.jpg"
+      ],
+      "tags": [
+        "AUTHOR",
+        "Aluminiu",
+        "Componente",
+        "Tije Sa"
+      ],
+      "specs": {
+        "material": "Aluminiu"
+      }
     }
   ],
   "categories": [
@@ -7811,14 +7812,14 @@
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 182,
-      "in_stock_count": 115
+      "in_stock_count": 116
     },
     {
       "id": "anvelope-tubulare",
       "name": "Anvelope Tubulare",
       "full_path": "Componente > Anvelope - Camere > Anvelope Tubulare",
       "product_count": 3,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "aparatori-fata",
@@ -8784,7 +8785,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 402
+      "in_stock_count": 400
     }
   ],
   "brands": [

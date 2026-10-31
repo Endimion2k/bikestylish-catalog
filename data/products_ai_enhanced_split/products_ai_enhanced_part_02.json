@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T03:08:51.562498+00:00",
+  "last_updated": "2026-10-31T03:06:44.175201+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -9,33 +9,6 @@
     "original_total": 4717
   },
   "products": [
-    {
-      "id": "283295",
-      "sku": "283295",
-      "ean": "2800061000005",
-      "name": "Niplu cnSPOKE 14G-B Brass 2.0 x 14 mm Silver",
-      "brand": "cnSPOKE",
-      "category": "Nipluri - Accesorii",
-      "category_path": "Roti > Spite si Nipluri > Nipluri - Accesorii",
-      "price": 0.44,
-      "price_net": 0.36,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 7200,
-      "url": "https://www.bikestylish.ro/niplu-cnspoke-14g-b-brass-2-0-x-14-mm-silver.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/niplu-cnspoke-14g-b-brass-2-0-x-14-mm-silver~8280343.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/niplu-cnspoke-14g-b-brass-2-0-x-14-mm-silver~8280343.jpg"
-      ],
-      "tags": [
-        "Nipluri - Accesorii",
-        "Roti",
-        "cnSPOKE"
-      ],
-      "specs": {
-        "color": "Silver"
-      }
-    },
     {
       "id": "280101",
       "sku": "280101",
@@ -1807,7 +1780,7 @@
       "price_net": 77.69,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 44,
+      "stock_quantity": 42,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-flat-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-aluminiu-sxt-flat-negru~8280517.jpg",
@@ -4044,7 +4017,7 @@
       "price_net": 57.02,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 90,
+      "stock_quantity": 89,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/set-conversie-single-speed-sxt-14t-16t-18t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/set-conversie-single-speed-sxt-14t-16t-18t~15694875.jpg",
@@ -6822,7 +6795,7 @@
       "price_net": 40.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 7,
       "weight_kg": 0.39,
       "url": "https://www.bikestylish.ro/monobloc-pedalier-m-wave-carousel-bb-repair-119-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/monobloc-pedalier-m-wave-carousel-bb-repair-119-mm~8282083.jpg",
@@ -6850,7 +6823,7 @@
       "price_net": 40.0,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 2,
       "weight_kg": 0.39,
       "url": "https://www.bikestylish.ro/monobloc-pedalier-m-wave-carousel-bb-repair-122-5-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/monobloc-pedalier-m-wave-carousel-bb-repair-122-5-mm~8282086.jpg",
@@ -7253,7 +7226,7 @@
       "price_net": 28.93,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.2,
       "url": "https://www.bikestylish.ro/adaptor-frana-disc-sxt-ada-db-is2-180-mm-fata-160-mm-spate.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/adaptor-frana-disc-sxt-ada-db-is2-180-mm-fata-160-mm-spate~8282131.jpg",
@@ -7369,6 +7342,32 @@
         "Componente",
         "Discuri - Rotoare",
         "PROMAX"
+      ]
+    },
+    {
+      "id": "360600",
+      "sku": "360600",
+      "ean": "2800805000001",
+      "name": "Disc Frana SXT 160 mm",
+      "brand": "SXT",
+      "category": "Discuri - Rotoare",
+      "category_path": "Componente > Sisteme Franare > Discuri - Rotoare",
+      "price": 42.0,
+      "price_net": 34.71,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.14,
+      "url": "https://www.bikestylish.ro/disc-frana-sxt-160-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/disc-frana-sxt-160-mm~8282146.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/disc-frana-sxt-160-mm~8282146.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/disc-frana-sxt-160-mm~8282671.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "Discuri - Rotoare",
+        "SXT"
       ]
     }
   ],
@@ -7497,14 +7496,14 @@
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 182,
-      "in_stock_count": 115
+      "in_stock_count": 116
     },
     {
       "id": "anvelope-tubulare",
       "name": "Anvelope Tubulare",
       "full_path": "Componente > Anvelope - Camere > Anvelope Tubulare",
       "product_count": 3,
-      "in_stock_count": 2
+      "in_stock_count": 1
     },
     {
       "id": "aparatori-fata",
@@ -8470,7 +8469,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 402
+      "in_stock_count": 400
     }
   ],
   "brands": [
