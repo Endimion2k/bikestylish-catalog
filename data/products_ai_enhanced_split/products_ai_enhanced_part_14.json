@@ -1,89 +1,14 @@
 {
-  "last_updated": "2026-11-01T03:08:10.884708+00:00",
+  "last_updated": "2026-11-02T03:08:08.527174+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 14,
     "total_parts": 19,
     "product_range": "3251-3500",
-    "original_total": 4717
+    "original_total": 4715
   },
   "products": [
-    {
-      "id": "D90",
-      "sku": "D90",
-      "ean": "7290107110792",
-      "name": "Ureche Cadru PILO D90 Ironhorse",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 275.0,
-      "price_net": 227.27,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d90-ironhorse.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d90-ironhorse~8335651.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d90-ironhorse~8335651.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D94",
-      "sku": "D94",
-      "ean": "7290107110839",
-      "name": "Ureche Cadru PILO D94 Ironhorse",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 385.0,
-      "price_net": 318.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d94-ironhorse.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d94-ironhorse~8335654.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d94-ironhorse~8335654.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D98",
-      "sku": "D98",
-      "ean": "7290107110877",
-      "name": "Ureche Cadru PILO D98 Banshee",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 275.0,
-      "price_net": 227.27,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d98-banshee.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d98-banshee~8335657.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d98-banshee~8335657.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D22",
       "sku": "D22",
@@ -2700,7 +2625,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 154,
+      "stock_quantity": 144,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/camera-vittoria-standard-26x1-95-2-50-fv-presta-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/camera-vittoria-standard-26x1-95-2-50-fv-presta-48mm~8336047.jpg",
@@ -3324,8 +3249,8 @@
       "brand": "VITTORIA",
       "category": "Anvelope Rigide",
       "category_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "price": 86.9,
-      "price_net": 71.82,
+      "price": 80.0,
+      "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 12,
@@ -5609,6 +5534,9 @@
       "brand": "SXT",
       "category": "Intretinere",
       "category_path": "Service > Intretinere Biciclete > Intretinere",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 50.6,
       "price_net": 41.82,
       "currency": "RON",
@@ -5634,6 +5562,9 @@
       "brand": "SXT",
       "category": "Lubrefiere",
       "category_path": "Service > Intretinere Biciclete > Lubrefiere",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -5661,6 +5592,7 @@
       "category_path": "Service > Intretinere Biciclete > Intretinere",
       "secondary_categories": [
         "Componente > Anvelope - Camere > Anvelope Pliabile",
+        "PROMOTII > TRANSPORT GRATUIT",
         "Componente > Anvelope - Camere > Tubeless"
       ],
       "price": 110.0,
@@ -5688,6 +5620,9 @@
       "brand": "SXT",
       "category": "Ingrijire",
       "category_path": "Service > Intretinere Biciclete > Ingrijire",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 82.5,
       "price_net": 68.18,
       "currency": "RON",
@@ -5712,6 +5647,9 @@
       "brand": "SXT",
       "category": "Intretinere",
       "category_path": "Service > Intretinere Biciclete > Intretinere",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 50.6,
       "price_net": 41.82,
       "currency": "RON",
@@ -5737,6 +5675,9 @@
       "brand": "SXT",
       "category": "Ingrijire",
       "category_path": "Service > Intretinere Biciclete > Ingrijire",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -5761,6 +5702,9 @@
       "brand": "SXT",
       "category": "Lubrefiere",
       "category_path": "Service > Intretinere Biciclete > Lubrefiere",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 50.6,
       "price_net": 41.82,
       "currency": "RON",
@@ -5787,6 +5731,9 @@
       "brand": "SXT",
       "category": "Lubrefiere",
       "category_path": "Service > Intretinere Biciclete > Lubrefiere",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 50.6,
       "price_net": 41.82,
       "currency": "RON",
@@ -6722,8 +6669,8 @@
       "brand": "VITTORIA",
       "category": "Anvelope Rigide",
       "category_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "price": 143.0,
-      "price_net": 118.18,
+      "price": 139.0,
+      "price_net": 114.88,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 12,
@@ -7493,6 +7440,93 @@
       "specs": {
         "color": "Silver"
       }
+    },
+    {
+      "id": "283845",
+      "sku": "283845",
+      "ean": "2802210000003",
+      "name": "Spita Inox cnSPOKE STD13C 2.3 x 289 mm Silver",
+      "brand": "cnSPOKE",
+      "category": "Spite 2,3 mm Inox",
+      "category_path": "Roti > Spite si Nipluri > Spite 2,3 mm Inox",
+      "price": 1.1,
+      "price_net": 0.91,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 25,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std13c-2-3-x-289-mm-silver.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/spita-inox-cnspoke-std13c-2-3-x-289-mm-silver~8337985.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/spita-inox-cnspoke-std13c-2-3-x-289-mm-silver~8337985.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/spita-inox-cnspoke-std13c-2-3-x-289-mm-silver~8337988.jpg"
+      ],
+      "tags": [
+        "Roti",
+        "Spite 2,3 mm Inox",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "280016",
+      "sku": "280016",
+      "ean": "2802211000002",
+      "name": "Spita Inox cnSPOKE STD13C 2.3 x 300 mm Silver",
+      "brand": "cnSPOKE",
+      "category": "Spite 2,3 mm Inox",
+      "category_path": "Roti > Spite si Nipluri > Spite 2,3 mm Inox",
+      "price": 1.1,
+      "price_net": 0.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std13c-2-3-x-300-mm-silver.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/spita-inox-cnspoke-std13c-2-3-x-300-mm-silver~8337991.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/spita-inox-cnspoke-std13c-2-3-x-300-mm-silver~8337991.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/spita-inox-cnspoke-std13c-2-3-x-300-mm-silver~8337994.jpg"
+      ],
+      "tags": [
+        "Roti",
+        "Spite 2,3 mm Inox",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "283872",
+      "sku": "283872",
+      "ean": "2802212000001",
+      "name": "Spita Inox cnSPOKE STD13C 2.3 x 294 mm Silver",
+      "brand": "cnSPOKE",
+      "category": "Spite 2,3 mm Inox",
+      "category_path": "Roti > Spite si Nipluri > Spite 2,3 mm Inox",
+      "price": 1.1,
+      "price_net": 0.91,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 250,
+      "weight_kg": 0.01,
+      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std13c-2-3-x-294-mm-silver.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/spita-inox-cnspoke-std13c-2-3-x-294-mm-silver~8337997.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/spita-inox-cnspoke-std13c-2-3-x-294-mm-silver~8337997.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/spita-inox-cnspoke-std13c-2-3-x-294-mm-silver~8338000.jpg"
+      ],
+      "tags": [
+        "Roti",
+        "Spite 2,3 mm Inox",
+        "cnSPOKE"
+      ],
+      "specs": {
+        "color": "Silver"
+      }
     }
   ],
   "categories": [
@@ -7619,8 +7653,8 @@
       "id": "anvelope-rigide",
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "product_count": 182,
-      "in_stock_count": 116
+      "product_count": 180,
+      "in_stock_count": 117
     },
     {
       "id": "anvelope-tubulare",

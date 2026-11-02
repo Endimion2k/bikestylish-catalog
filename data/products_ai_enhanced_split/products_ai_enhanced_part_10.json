@@ -1,110 +1,14 @@
 {
-  "last_updated": "2026-11-01T03:08:10.884708+00:00",
+  "last_updated": "2026-11-02T03:08:08.527174+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
     "total_parts": 19,
     "product_range": "2251-2500",
-    "original_total": 4717
+    "original_total": 4715
   },
   "products": [
-    {
-      "id": "HTPA12AB",
-      "sku": "HTPA12AB",
-      "ean": "4715872485836",
-      "name": "Pedale HT PA12 Albastru Dark (41359)",
-      "brand": "HT COMPONENTS",
-      "category": "Pedale Platforma",
-      "category_path": "Componente > Pedale > Pedale Platforma",
-      "price": 159.5,
-      "price_net": 131.82,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-pa12-albastru-dark-41359.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-pa12-albastru-dark-41359~8328022.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-pa12-albastru-dark-41359~8328022.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-pa12-albastru-dark-41359~8328025.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-pa12-albastru-dark-41359~8328028.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "HT COMPONENTS",
-        "Pedale Platforma"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
-    {
-      "id": "HTPA12ORG",
-      "sku": "HTPA12ORG",
-      "ean": "4711126205533",
-      "name": "Pedale HT PA12 Neon Orange(798)",
-      "brand": "HT COMPONENTS",
-      "category": "Pedale Platforma",
-      "category_path": "Componente > Pedale > Pedale Platforma",
-      "price": 159.5,
-      "price_net": 131.82,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-pa12-neon-orange-798.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-pa12-neon-orange-798~8328031.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-pa12-neon-orange-798~8328031.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-pa12-neon-orange-798~8328034.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-pa12-neon-orange-798~8328037.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-pa12-neon-orange-798~8328040.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "HT COMPONENTS",
-        "Pedale Platforma"
-      ],
-      "specs": {
-        "color": "Orange"
-      }
-    },
-    {
-      "id": "311849",
-      "sku": "311849",
-      "ean": "4015493310501",
-      "name": "Pedale Click EXUSTAR E-PM211 MTB",
-      "brand": "EXUSTAR",
-      "category": "Pedale Click",
-      "category_path": "Componente > Pedale > Pedale Click",
-      "price": 297.0,
-      "price_net": 245.45,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.4,
-      "url": "https://www.bikestylish.ro/pedale-click-exustar-e-pm211-mtb.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-click-exustar-e-pm211-mtb~8328043.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-click-exustar-e-pm211-mtb~8328043.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-click-exustar-e-pm211-mtb~8328046.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-click-exustar-e-pm211-mtb~8328049.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-click-exustar-e-pm211-mtb~8328052.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-click-exustar-e-pm211-mtb~8328055.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "EXUSTAR",
-        "MTB",
-        "Pedale Click"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ]
-      }
-    },
     {
       "id": "303620",
       "sku": "303620",
@@ -1627,6 +1531,9 @@
       "brand": "AUTHOR",
       "category": "Lubrefiere",
       "category_path": "Service > Intretinere Biciclete > Lubrefiere",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -1655,6 +1562,9 @@
       "brand": "AUTHOR",
       "category": "Lubrefiere",
       "category_path": "Service > Intretinere Biciclete > Lubrefiere",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 63.8,
       "price_net": 52.73,
       "currency": "RON",
@@ -1684,6 +1594,9 @@
       "brand": "AUTHOR",
       "category": "Lubrefiere",
       "category_path": "Service > Intretinere Biciclete > Lubrefiere",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -1712,6 +1625,9 @@
       "brand": "AUTHOR",
       "category": "Lubrefiere",
       "category_path": "Service > Intretinere Biciclete > Lubrefiere",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -1737,6 +1653,9 @@
       "brand": "AUTHOR",
       "category": "Lubrefiere",
       "category_path": "Service > Intretinere Biciclete > Lubrefiere",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 35.2,
       "price_net": 29.09,
       "currency": "RON",
@@ -2438,6 +2357,9 @@
       "brand": "M-WAVE",
       "category": "Ingrijire",
       "category_path": "Service > Intretinere Biciclete > Ingrijire",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 148.5,
       "price_net": 122.73,
       "currency": "RON",
@@ -3041,6 +2963,9 @@
       "brand": "SHIMANO",
       "category": "Intretinere",
       "category_path": "Service > Intretinere Biciclete > Intretinere",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -4167,6 +4092,9 @@
       "brand": "SHIMANO",
       "category": "Intretinere",
       "category_path": "Service > Intretinere Biciclete > Intretinere",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
@@ -4940,6 +4868,9 @@
       "brand": "SHIMANO",
       "category": "Intretinere",
       "category_path": "Service > Intretinere Biciclete > Intretinere",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 93.5,
       "price_net": 77.27,
       "currency": "RON",
@@ -6038,7 +5969,8 @@
       "category": "Lubrefiere",
       "category_path": "Service > Intretinere Biciclete > Lubrefiere",
       "secondary_categories": [
-        "Componente > Transmisie > Lanturi > Lanturi"
+        "Componente > Transmisie > Lanturi > Lanturi",
+        "PROMOTII > TRANSPORT GRATUIT"
       ],
       "price": 28.0,
       "price_net": 23.14,
@@ -7177,6 +7109,81 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D435",
+      "sku": "D435",
+      "ean": "7290107114431",
+      "name": "Ureche Cadru PILO D435 Kestrel",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d435-kestrel.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d435-kestrel~8330638.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d435-kestrel~8330638.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D248",
+      "sku": "D248",
+      "ean": "7290107112369",
+      "name": "Ureche Cadru PILO D248 Sunn",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d248-sunn.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d248-sunn~8330641.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d248-sunn~8330641.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D251",
+      "sku": "D251",
+      "ean": "7290107112390",
+      "name": "Ureche Cadru PILO D251 Marin",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d251-marin.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d251-marin~8330644.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d251-marin~8330644.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7303,8 +7310,8 @@
       "id": "anvelope-rigide",
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "product_count": 182,
-      "in_stock_count": 116
+      "product_count": 180,
+      "in_stock_count": 117
     },
     {
       "id": "anvelope-tubulare",

@@ -1,97 +1,14 @@
 {
-  "last_updated": "2026-11-01T03:08:10.884708+00:00",
+  "last_updated": "2026-11-02T03:08:08.527174+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 18,
     "total_parts": 19,
     "product_range": "4251-4500",
-    "original_total": 4717
+    "original_total": 4715
   },
   "products": [
-    {
-      "id": "340715",
-      "sku": "340715",
-      "ean": "887539006624",
-      "name": "SUPORT BIDON PLASTIC BC 35 FLEX M-WAVE",
-      "brand": "M-WAVE",
-      "category": "Bidoane - Suporti",
-      "category_path": "Accesorii > Bidoane - Suporti",
-      "secondary_categories": [
-        "Accesorii > Bidoane - Suporti > Suporturi Bidon"
-      ],
-      "price": 20.0,
-      "price_net": 16.53,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.32,
-      "url": "https://www.bikestylish.ro/suport-bidon-plastic-bc-35-flex-m-wave.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/suport-bidon-plastic-bc-35-flex-m-wave~11762760.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/suport-bidon-plastic-bc-35-flex-m-wave~11762760.jpg"
-      ],
-      "tags": [
-        "Accesorii",
-        "Bidoane - Suporti",
-        "M-WAVE",
-        "Plastic"
-      ],
-      "specs": {
-        "material": "Plastic"
-      }
-    },
-    {
-      "id": "356263",
-      "sku": "356263",
-      "ean": "2802233000004",
-      "name": "Pinion SAMOX PD-DM-Gen2 15T",
-      "brand": "SAMOX",
-      "category": "Pinioane Filetate",
-      "category_path": "Componente > Transmisie > Pinioane > Pinioane Filetate",
-      "secondary_categories": [
-        "E-Mobility"
-      ],
-      "price": 22.0,
-      "price_net": 18.18,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/pinion-samox-pd-dm-gen2-15t.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pinion-samox-pd-dm-gen2-15t~11423382.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pinion-samox-pd-dm-gen2-15t~11423382.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "Pinioane Filetate",
-        "SAMOX"
-      ]
-    },
-    {
-      "id": "359464",
-      "sku": "359464",
-      "name": "MONOBLOC PEDALIER 119 MM SXT 2 RULMENTI",
-      "brand": "VENTURA",
-      "category": "Butuci Pedalieri",
-      "category_path": "Componente > Transmisie > Pedaliere > Butuci Pedalieri",
-      "price": 26.4,
-      "price_net": 21.82,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
-      "url": "https://www.bikestylish.ro/monobloc-pedalier-119-mm-sxt-2-rulmenti.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/monobloc-pedalier-119-mm-sxt-2-rulmenti~11423292.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/monobloc-pedalier-119-mm-sxt-2-rulmenti~11423292.jpg"
-      ],
-      "tags": [
-        "Butuci Pedalieri",
-        "Componente",
-        "VENTURA"
-      ]
-    },
     {
       "id": "386175",
       "sku": "386175",
@@ -607,6 +524,8 @@
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
       "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT",
         "PROMOTII > REDUCERE DE PRET"
       ],
       "price": 370.0,
@@ -637,6 +556,10 @@
       "brand": "HT COMPONENTS",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 135.0,
       "price_net": 111.57,
       "currency": "RON",
@@ -665,6 +588,9 @@
       "brand": "M-WAVE",
       "category": "Unelte Pinioane",
       "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 59.0,
       "price_net": 48.76,
       "currency": "RON",
@@ -719,6 +645,9 @@
       "brand": "SUPER B",
       "category": "Roti-Spite",
       "category_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -745,6 +674,9 @@
       "brand": "SUPER B",
       "category": "Roti-Spite",
       "category_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 50.0,
       "price_net": 41.32,
       "currency": "RON",
@@ -859,6 +791,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 110.0,
       "price_net": 90.91,
       "currency": "RON",
@@ -889,6 +825,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 110.0,
       "price_net": 90.91,
       "currency": "RON",
@@ -920,6 +860,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 110.0,
       "price_net": 90.91,
       "currency": "RON",
@@ -951,6 +895,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 110.0,
       "price_net": 90.91,
       "currency": "RON",
@@ -983,6 +931,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 110.0,
       "price_net": 90.91,
       "currency": "RON",
@@ -1014,6 +966,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 33.0,
       "price_net": 27.27,
       "currency": "RON",
@@ -1046,6 +1002,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 33.0,
       "price_net": 27.27,
       "currency": "RON",
@@ -1078,6 +1038,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 0.0,
       "price_net": 0.0,
       "currency": "RON",
@@ -1177,6 +1141,9 @@
       "brand": "SXT",
       "category": "Saboti Frana",
       "category_path": "Componente > Sisteme Franare > Saboti Frana",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 16.0,
       "price_net": 13.22,
       "currency": "RON",
@@ -1693,6 +1660,9 @@
       "brand": "M-WAVE",
       "category": "Camere Bicicleta",
       "category_path": "Componente > Anvelope - Camere > Camere Bicicleta",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 6.6,
       "price_net": 5.45,
       "currency": "RON",
@@ -1755,7 +1725,8 @@
       "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
       "secondary_categories": [
         "Service > Unelte Service > Truse - Mini Truse",
-        "Service > Unelte Service > Echipamente Atelier"
+        "Service > Unelte Service > Echipamente Atelier",
+        "PROMOTII > TRANSPORT GRATUIT"
       ],
       "price": 2662.0,
       "price_net": 2200.0,
@@ -1808,6 +1779,9 @@
       "brand": "SUPER B",
       "category": "Unelte  Biciclete",
       "category_path": "Service > Unelte Service > Unelte  Biciclete",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 64.9,
       "price_net": 53.64,
       "currency": "RON",
@@ -1834,6 +1808,9 @@
       "brand": "SUPER B",
       "category": "B.B-Pedalier",
       "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 88.0,
       "price_net": 72.73,
       "currency": "RON",
@@ -1867,6 +1844,9 @@
       "brand": "SUPER B",
       "category": "Unelte Pinioane",
       "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 119.9,
       "price_net": 99.09,
       "currency": "RON",
@@ -1956,6 +1936,7 @@
       "category_path": "Service > Intretinere Biciclete > Intretinere",
       "secondary_categories": [
         "Componente > Anvelope - Camere > Protectii Antipana",
+        "PROMOTII > TRANSPORT GRATUIT",
         "Componente > Anvelope - Camere > Tubeless"
       ],
       "price": 77.0,
@@ -1992,6 +1973,7 @@
       "category_path": "Service > Intretinere Biciclete > Intretinere",
       "secondary_categories": [
         "Componente > Anvelope - Camere > Protectii Antipana",
+        "PROMOTII > TRANSPORT GRATUIT",
         "Componente > Anvelope - Camere > Tubeless"
       ],
       "price": 77.0,
@@ -2152,6 +2134,9 @@
       "brand": "SXT",
       "category": "Adaptoare Frana",
       "category_path": "Componente > Sisteme Franare > Adaptoare Frana",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
@@ -2207,6 +2192,9 @@
       "brand": "SXT",
       "category": "Adaptoare Frana",
       "category_path": "Componente > Sisteme Franare > Adaptoare Frana",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
@@ -2233,6 +2221,9 @@
       "brand": "SXT",
       "category": "Adaptoare Frana",
       "category_path": "Componente > Sisteme Franare > Adaptoare Frana",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
@@ -2259,6 +2250,9 @@
       "brand": "SXT",
       "category": "Adaptoare Frana",
       "category_path": "Componente > Sisteme Franare > Adaptoare Frana",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
@@ -2285,6 +2279,9 @@
       "brand": "SXT",
       "category": "Adaptoare Frana",
       "category_path": "Componente > Sisteme Franare > Adaptoare Frana",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
@@ -2311,6 +2308,9 @@
       "brand": "SXT",
       "category": "Adaptoare Frana",
       "category_path": "Componente > Sisteme Franare > Adaptoare Frana",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
@@ -2338,6 +2338,9 @@
       "brand": "SXT",
       "category": "Adaptoare Frana",
       "category_path": "Componente > Sisteme Franare > Adaptoare Frana",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
@@ -2364,6 +2367,9 @@
       "brand": "SXT",
       "category": "Adaptoare Frana",
       "category_path": "Componente > Sisteme Franare > Adaptoare Frana",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
@@ -2423,6 +2429,9 @@
       "brand": "M-WAVE",
       "category": "Lumini Spate",
       "category_path": "Accesorii > Lumini > Lumini Spate",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
@@ -2450,6 +2459,9 @@
       "brand": "SXT",
       "category": "Reflectorizante",
       "category_path": "Accesorii > Lumini > Reflectorizante",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
@@ -2478,6 +2490,9 @@
       "brand": "M-WAVE",
       "category": "Lumini Spate",
       "category_path": "Accesorii > Lumini > Lumini Spate",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -2789,6 +2804,9 @@
       "brand": "SUPER B",
       "category": "Unelte Anvelope",
       "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
@@ -2817,7 +2835,8 @@
       "category_path": "Service > Unelte Service > Truse - Mini Truse",
       "secondary_categories": [
         "Componente > Ghidoane - Directie > Ghidoane",
-        "Componente > Ghidoane - Directie > Mansoane"
+        "Componente > Ghidoane - Directie > Mansoane",
+        "PROMOTII > TRANSPORT GRATUIT"
       ],
       "price": 218.9,
       "price_net": 180.91,
@@ -3092,6 +3111,9 @@
       "brand": "SXT",
       "category": "Unelte Pinioane",
       "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 38.5,
       "price_net": 31.82,
       "currency": "RON",
@@ -3147,8 +3169,8 @@
       "brand": "KUJO",
       "category": "Anvelope Rigide",
       "category_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "price": 60.5,
-      "price_net": 50.0,
+      "price": 55.0,
+      "price_net": 45.45,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 2,
@@ -3296,8 +3318,8 @@
       "secondary_categories": [
         "E-Mobility > Componente E-Bike"
       ],
-      "price": 97.0,
-      "price_net": 80.17,
+      "price": 70.0,
+      "price_net": 57.85,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 51,
@@ -3362,8 +3384,8 @@
       "secondary_categories": [
         "PROMOTII > TRANSPORT GRATUIT"
       ],
-      "price": 71.5,
-      "price_net": 59.09,
+      "price": 55.0,
+      "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 140,
@@ -3398,6 +3420,9 @@
       "brand": "VITTORIA",
       "category": "Camere Bicicleta",
       "category_path": "Componente > Anvelope - Camere > Camere Bicicleta",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 16.5,
       "price_net": 13.64,
       "currency": "RON",
@@ -3429,6 +3454,9 @@
       "brand": "VITTORIA",
       "category": "Camere Bicicleta",
       "category_path": "Componente > Anvelope - Camere > Camere Bicicleta",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 16.5,
       "price_net": 13.64,
       "currency": "RON",
@@ -3460,6 +3488,9 @@
       "brand": "VITTORIA",
       "category": "Camere Bicicleta",
       "category_path": "Componente > Anvelope - Camere > Camere Bicicleta",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 16.5,
       "price_net": 13.64,
       "currency": "RON",
@@ -3490,6 +3521,9 @@
       "brand": "VITTORIA",
       "category": "Camere Bicicleta",
       "category_path": "Componente > Anvelope - Camere > Camere Bicicleta",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 16.5,
       "price_net": 13.64,
       "currency": "RON",
@@ -3521,6 +3555,9 @@
       "brand": "VITTORIA",
       "category": "Camere Bicicleta",
       "category_path": "Componente > Anvelope - Camere > Camere Bicicleta",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 16.5,
       "price_net": 13.64,
       "currency": "RON",
@@ -4462,6 +4499,9 @@
       "brand": "PROMAX",
       "category": "Saboti Frana",
       "category_path": "Componente > Sisteme Franare > Saboti Frana",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 45.0,
       "price_net": 37.19,
       "currency": "RON",
@@ -4649,6 +4689,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 180.0,
       "price_net": 148.76,
       "currency": "RON",
@@ -4680,6 +4724,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 180.0,
       "price_net": 148.76,
       "currency": "RON",
@@ -4711,6 +4759,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 180.0,
       "price_net": 148.76,
       "currency": "RON",
@@ -4742,6 +4794,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 180.0,
       "price_net": 148.76,
       "currency": "RON",
@@ -5156,7 +5212,7 @@
       "id": "470102",
       "sku": "470102",
       "ean": "664533243145",
-      "name": "Pompa Podea SXT 6438F Negru 16/1230",
+      "name": "Pompa Podea SXT 6438F Negru 16/230",
       "brand": "SXT",
       "category": "Pompe Podea",
       "category_path": "Accesorii > Pompe Ciclism > Pompe Podea",
@@ -5168,10 +5224,10 @@
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 168,
-      "url": "https://www.bikestylish.ro/pompa-podea-sxt-6438f-negru-16-1230.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pompa-podea-sxt-6438f-negru-16-1230~13289442.jpg",
+      "url": "https://www.bikestylish.ro/pompa-podea-sxt-6438f-negru-16-230.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pompa-podea-sxt-6438f-negru-16-230~13289442.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pompa-podea-sxt-6438f-negru-16-1230~13289442.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/2/pompa-podea-sxt-6438f-negru-16-230~13289442.jpg"
       ],
       "tags": [
         "Accesorii",
@@ -5376,6 +5432,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 25.0,
       "price_net": 20.66,
       "currency": "RON",
@@ -5408,6 +5468,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
@@ -5440,6 +5504,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
@@ -5472,6 +5540,10 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 20.0,
       "price_net": 16.53,
       "currency": "RON",
@@ -6240,6 +6312,9 @@
       "brand": "SXT",
       "category": "Saboti Frana",
       "category_path": "Componente > Sisteme Franare > Saboti Frana",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 15.0,
       "price_net": 12.4,
       "currency": "RON",
@@ -6267,6 +6342,9 @@
       "brand": "SXT",
       "category": "Saboti Frana",
       "category_path": "Componente > Sisteme Franare > Saboti Frana",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 15.0,
       "price_net": 12.4,
       "currency": "RON",
@@ -6349,6 +6427,9 @@
       "brand": "SMART",
       "category": "Lumini Spate",
       "category_path": "Accesorii > Lumini > Lumini Spate",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 70.0,
       "price_net": 57.85,
       "currency": "RON",
@@ -6459,6 +6540,9 @@
       "brand": "SXT",
       "category": "Adaptoare Frana",
       "category_path": "Componente > Sisteme Franare > Adaptoare Frana",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 35.0,
       "price_net": 28.93,
       "currency": "RON",
@@ -6744,6 +6828,9 @@
       "brand": "SXT",
       "category": "Frane V - Break",
       "category_path": "Componente > Sisteme Franare > Frane V - Break",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 9.0,
       "price_net": 7.44,
       "currency": "RON",
@@ -6950,7 +7037,8 @@
       "category": "Unelte Anvelope",
       "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
       "secondary_categories": [
-        "Componente > Anvelope - Camere > Anvelope Rigide"
+        "Componente > Anvelope - Camere > Anvelope Rigide",
+        "PROMOTII > TRANSPORT GRATUIT"
       ],
       "price": 24.0,
       "price_net": 19.83,
@@ -6981,6 +7069,9 @@
       "brand": "TANNUS",
       "category": "Camere Bicicleta",
       "category_path": "Componente > Anvelope - Camere > Camere Bicicleta",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
@@ -7241,8 +7332,8 @@
       "brand": "VITTORIA",
       "category": "Anvelope Rigide",
       "category_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "price": 71.5,
-      "price_net": 59.09,
+      "price": 55.0,
+      "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 262,
@@ -7293,6 +7384,9 @@
       "brand": "VITTORIA",
       "category": "Camere Bicicleta",
       "category_path": "Componente > Anvelope - Camere > Camere Bicicleta",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
@@ -7415,6 +7509,111 @@
         "bike_type": [
           "Trail"
         ]
+      }
+    },
+    {
+      "id": "11A01143",
+      "sku": "11A01143",
+      "name": "Anvelopa VITTORIA Agarro Trail 29x2.4(60-622) Negru-Maro",
+      "brand": "VITTORIA",
+      "category": "Anvelope Pliabile",
+      "category_path": "Componente > Anvelope - Camere > Anvelope Pliabile",
+      "price": 330.0,
+      "price_net": 272.73,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 12,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-agarro-trail-29x2-4-60-622-negru-maro.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-agarro-trail-29x2-4-60-622-negru-maro~14262579.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-vittoria-agarro-trail-29x2-4-60-622-negru-maro~14262579.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-vittoria-agarro-trail-29x2-4-60-622-negru-maro~14262582.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-vittoria-agarro-trail-29x2-4-60-622-negru-maro~14262585.jpg"
+      ],
+      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+      "tags": [
+        "29 inch",
+        "Anvelope Pliabile",
+        "Componente",
+        "Trail",
+        "VITTORIA"
+      ],
+      "specs": {
+        "wheel_size": "29",
+        "bike_type": [
+          "Trail"
+        ],
+        "color": "Negru",
+        "dimensions": "29 x 2.4"
+      }
+    },
+    {
+      "id": "11A00630",
+      "sku": "11A00630",
+      "name": "Anvelopa VITTORIA Corsa PRO Tubeless-Ready 700x29C(29-622) WR Cotton Tan 290 g",
+      "brand": "VITTORIA",
+      "category": "Anvelope Pliabile",
+      "category_path": "Componente > Anvelope - Camere > Anvelope Pliabile",
+      "secondary_categories": [
+        "PROMOTII > REDUCERE DE PRET"
+      ],
+      "price": 499.0,
+      "price_net": 412.4,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 8,
+      "url": "https://www.bikestylish.ro/anvelopa-vittoria-corsa-pro-tubeless-ready-700x29c-29-622-wr-cotton-tan-290-g.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-vittoria-corsa-pro-tubeless-ready-700x29c-29-622-wr-cotton~14262771.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-vittoria-corsa-pro-tubeless-ready-700x29c-29-622-wr-cotton~14262771.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-vittoria-corsa-pro-tubeless-ready-700x29c-29-622-wr-cotton~14354298.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/anvelopa-vittoria-corsa-pro-tubeless-ready-700x29c-29-622-wr-cotton~14354301.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-vittoria-corsa-pro-tubeless-ready-700x29c-29-622-wr-cotton~14354304.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-corsa-pro-tubeless-ready-700x29c-29-622-wr-cotton~14354307.jpg"
+      ],
+      "category_description": "Folding bead bicycle tires - lighter weight, easier storage, premium",
+      "tags": [
+        "Anvelope Pliabile",
+        "Componente",
+        "VITTORIA"
+      ],
+      "specs": {
+        "dimensions": "700 x 29"
+      }
+    },
+    {
+      "id": "09839",
+      "sku": "09839",
+      "ean": "8059482909839",
+      "name": "Camera TANNUS 26 x1.10-1.50 AV - 48 mm",
+      "brand": "TANNUS",
+      "category": "Camere Bicicleta",
+      "category_path": "Componente > Anvelope - Camere > Camere Bicicleta",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
+      "price": 29.0,
+      "price_net": 23.97,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 23,
+      "weight_kg": 0.2,
+      "url": "https://www.bikestylish.ro/camera-tannus-26-x1-10-1-50-av-48-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/camera-tannus-26-x1-10-1-50-av-48-mm~14288529.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/camera-tannus-26-x1-10-1-50-av-48-mm~14288529.jpg"
+      ],
+      "tags": [
+        "26 inch",
+        "Camere Bicicleta",
+        "Componente",
+        "Schrader",
+        "TANNUS"
+      ],
+      "specs": {
+        "wheel_size": "26",
+        "dimensions": "26 x 1.10-1.50",
+        "valve_type": "Schrader (AV)"
       }
     }
   ],
@@ -7542,8 +7741,8 @@
       "id": "anvelope-rigide",
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "product_count": 182,
-      "in_stock_count": 116
+      "product_count": 180,
+      "in_stock_count": 117
     },
     {
       "id": "anvelope-tubulare",

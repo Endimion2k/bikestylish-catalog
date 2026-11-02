@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-01T03:08:10.884708+00:00",
+  "last_updated": "2026-11-02T03:08:08.527174+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
     "total_parts": 19,
     "product_range": "1501-1750",
-    "original_total": 4717
+    "original_total": 4715
   },
   "products": [
     {
@@ -1348,38 +1348,6 @@
       "specs": {
         "color": "Negru",
         "dimensions": "559 x 21"
-      }
-    },
-    {
-      "id": "558068",
-      "sku": "558068",
-      "ean": "2801448000007",
-      "name": "Anvelopa KUJO MR. ROBSEN 29 x 2.10(54-622)",
-      "brand": "KUJO",
-      "category": "Anvelope Rigide",
-      "category_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "price": 64.9,
-      "price_net": 53.64,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 1.3,
-      "url": "https://www.bikestylish.ro/anvelopa-kujo-mr-robsen-29-x-2-10-54-622.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-kujo-mr-robsen-29-x-2-10-54-622~8290633.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-kujo-mr-robsen-29-x-2-10-54-622~8290633.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/anvelopa-kujo-mr-robsen-29-x-2-10-54-622~8291314.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kujo-mr-robsen-29-x-2-10-54-622~8291317.jpg"
-      ],
-      "tags": [
-        "29 inch",
-        "Anvelope Rigide",
-        "Componente",
-        "KUJO"
-      ],
-      "specs": {
-        "wheel_size": "29",
-        "dimensions": "29 x 2.10"
       }
     },
     {
@@ -6805,8 +6773,8 @@
       "price": 165.0,
       "price_net": 136.36,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d791-author-rock-machine-silverback-steiger-superior.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d791-author-rock-machine-silverback-steiger-superior~8292391.jpg",
@@ -7189,6 +7157,34 @@
       "specs": {
         "color": "Green"
       }
+    },
+    {
+      "id": "HT0023",
+      "sku": "HT0023",
+      "ean": "4711126202259",
+      "name": "Kit Reparat Pedale HT NANO",
+      "brand": "HT COMPONENTS",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
+      "price": 319.0,
+      "price_net": 263.64,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/kit-reparat-pedale-ht-nano.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/kit-reparat-pedale-ht-nano~8292445.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/kit-reparat-pedale-ht-nano~8292445.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/kit-reparat-pedale-ht-nano~8293078.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/kit-reparat-pedale-ht-nano~8293081.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/kit-reparat-pedale-ht-nano~8293084.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/kit-reparat-pedale-ht-nano~8293087.jpg"
+      ],
+      "tags": [
+        "HT COMPONENTS",
+        "Service",
+        "Unelte  Biciclete"
+      ]
     }
   ],
   "categories": [
@@ -7315,8 +7311,8 @@
       "id": "anvelope-rigide",
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
-      "product_count": 182,
-      "in_stock_count": 116
+      "product_count": 180,
+      "in_stock_count": 117
     },
     {
       "id": "anvelope-tubulare",
