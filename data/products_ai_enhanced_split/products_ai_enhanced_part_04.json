@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T03:08:08.527174+00:00",
+  "last_updated": "2026-11-03T03:07:08.976976+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -99,8 +99,8 @@
       "price": 28.0,
       "price_net": 23.14,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/far-cu-baterii-sxt-3-led-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/far-cu-baterii-sxt-3-led-negru~8284375.jpg",
@@ -232,7 +232,7 @@
       "price_net": 12.4,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 10,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/stop-spate-pentru-dinam-sxt-portbagaj-2-leduri.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/stop-spate-pentru-dinam-sxt-portbagaj-2-leduri~8284390.jpg",
@@ -5034,7 +5034,7 @@
       "price_net": 13.64,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 684,
+      "stock_quantity": 683,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/perie-curatat-pinioane-sxt-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/perie-curatat-pinioane-sxt-negru~8284918.jpg",
@@ -5186,7 +5186,7 @@
       "price_net": 26.36,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 3,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/cheie-spite-bit-cnspoke.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/cheie-spite-bit-cnspoke~8284933.jpg",
@@ -7422,7 +7422,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 121,
-      "in_stock_count": 72
+      "in_stock_count": 71
     },
     {
       "id": "butuci-pedalieri",
@@ -7576,7 +7576,7 @@
       "name": "Cuvete - Rulmenti",
       "full_path": "Componente > Suspensii - Cuvete > Cuvete - Rulmenti",
       "product_count": 41,
-      "in_stock_count": 31
+      "in_stock_count": 30
     },
     {
       "id": "depozitare-biciclete",
@@ -7751,7 +7751,7 @@
       "name": "Lumini Fata",
       "full_path": "Accesorii > Lumini > Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "lumini-spate",
