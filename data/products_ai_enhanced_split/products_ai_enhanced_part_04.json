@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-03T03:07:08.976976+00:00",
+  "last_updated": "2026-11-04T03:07:19.177262+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 4,
     "total_parts": 19,
     "product_range": "751-1000",
-    "original_total": 4715
+    "original_total": 4716
   },
   "products": [
     {
@@ -4385,8 +4385,8 @@
       "price": 247.5,
       "price_net": 204.55,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/cheie-dinamometrica-super-b-tb-tw50-4-5-6-nm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cheie-dinamometrica-super-b-tb-tw50-4-5-6-nm~8284846.jpg",
@@ -5542,8 +5542,8 @@
       "price": 31.9,
       "price_net": 26.36,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.1,
       "url": "https://www.bikestylish.ro/cheie-pinioane-casetate-m-wave-tw-d1.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cheie-pinioane-casetate-m-wave-tw-d1~8286328.jpg",
@@ -5570,7 +5570,7 @@
       "price_net": 41.32,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 45,
+      "stock_quantity": 44,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/schimbator-spate-ax-shimano-rd-tz500-tourney-6v.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/schimbator-spate-ax-shimano-rd-tz500-tourney-6v~8286331.jpg",
@@ -5599,7 +5599,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 27,
+      "stock_quantity": 22,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/schimbator-spate-cadru-shimano-rd-tz500-tourney-6v.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/schimbator-spate-cadru-shimano-rd-tz500-tourney-6v~8286334.jpg",
@@ -7282,7 +7282,7 @@
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 180,
-      "in_stock_count": 117
+      "in_stock_count": 116
     },
     {
       "id": "anvelope-tubulare",
@@ -7429,7 +7429,7 @@
       "name": "Butuci Pedalieri",
       "full_path": "Componente > Transmisie > Pedaliere > Butuci Pedalieri",
       "product_count": 55,
-      "in_stock_count": 46
+      "in_stock_count": 45
     },
     {
       "id": "butuci-v-break-dinam",
@@ -8052,7 +8052,7 @@
       "name": "Set Lumini",
       "full_path": "Accesorii > Lumini > Set Lumini",
       "product_count": 25,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "seturi-aparatori",
@@ -8065,8 +8065,8 @@
       "id": "seturi-roti",
       "name": "Seturi Roti",
       "full_path": "Roti > Roti Bicicleta > Seturi Roti",
-      "product_count": 26,
-      "in_stock_count": 24
+      "product_count": 27,
+      "in_stock_count": 25
     },
     {
       "id": "sistem-velo-fit",

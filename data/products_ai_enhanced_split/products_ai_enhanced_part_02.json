@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-03T03:07:08.976976+00:00",
+  "last_updated": "2026-11-04T03:07:19.177262+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 2,
     "total_parts": 19,
     "product_range": "251-500",
-    "original_total": 4715
+    "original_total": 4716
   },
   "products": [
     {
@@ -5414,7 +5414,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 32,
+      "stock_quantity": 29,
       "weight_kg": 0.17,
       "url": "https://www.bikestylish.ro/aparatoare-angrenaj-sxt-38-40-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/aparatoare-angrenaj-sxt-38-40-t~8281936.jpg",
@@ -5843,8 +5843,8 @@
       "price": 30.8,
       "price_net": 25.45,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.41,
       "url": "https://www.bikestylish.ro/set-ax-pedalier-sxt-148-mm-rotund-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/set-ax-pedalier-sxt-148-mm-rotund-silver~8281981.jpg",
@@ -6497,7 +6497,7 @@
       "price_net": 36.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 26,
+      "stock_quantity": 23,
       "weight_kg": 0.32,
       "url": "https://www.bikestylish.ro/monobloc-pedalier-neco-127-5-31-mm-cupe-metal-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/monobloc-pedalier-neco-127-5-31-mm-cupe-metal-silver~8282053.jpg",
@@ -7496,7 +7496,7 @@
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 180,
-      "in_stock_count": 117
+      "in_stock_count": 116
     },
     {
       "id": "anvelope-tubulare",
@@ -7643,7 +7643,7 @@
       "name": "Butuci Pedalieri",
       "full_path": "Componente > Transmisie > Pedaliere > Butuci Pedalieri",
       "product_count": 55,
-      "in_stock_count": 46
+      "in_stock_count": 45
     },
     {
       "id": "butuci-v-break-dinam",
@@ -8266,7 +8266,7 @@
       "name": "Set Lumini",
       "full_path": "Accesorii > Lumini > Set Lumini",
       "product_count": 25,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "seturi-aparatori",
@@ -8279,8 +8279,8 @@
       "id": "seturi-roti",
       "name": "Seturi Roti",
       "full_path": "Roti > Roti Bicicleta > Seturi Roti",
-      "product_count": 26,
-      "in_stock_count": 24
+      "product_count": 27,
+      "in_stock_count": 25
     },
     {
       "id": "sistem-velo-fit",

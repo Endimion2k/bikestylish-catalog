@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-03T03:07:08.976976+00:00",
+  "last_updated": "2026-11-04T03:07:19.177262+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 8,
     "total_parts": 19,
     "product_range": "1751-2000",
-    "original_total": 4715
+    "original_total": 4716
   },
   "products": [
     {
@@ -3288,8 +3288,8 @@
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 10,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.86,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-aptor-26-x-2-10-52-559-k-1153.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-kenda-aptor-26-x-2-10-52-559-k-1153~8324197.jpg",
@@ -3354,7 +3354,7 @@
       "price_net": 33.06,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 33,
+      "stock_quantity": 28,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-20-x-2-125-57-406-k-50.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-20-x-2-125-57-406-k-50~8324209.jpg",
@@ -6717,7 +6717,7 @@
       "price_net": 128.1,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 15,
+      "stock_quantity": 14,
       "weight_kg": 1.35,
       "url": "https://www.bikestylish.ro/furca-fixa-trekking-sxt-28-1-1-8-f-d-hi-ten-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/furca-fixa-trekking-sxt-28-1-1-8-f-d-hi-ten-negru~8325631.jpg",
@@ -7307,7 +7307,7 @@
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 180,
-      "in_stock_count": 117
+      "in_stock_count": 116
     },
     {
       "id": "anvelope-tubulare",
@@ -7454,7 +7454,7 @@
       "name": "Butuci Pedalieri",
       "full_path": "Componente > Transmisie > Pedaliere > Butuci Pedalieri",
       "product_count": 55,
-      "in_stock_count": 46
+      "in_stock_count": 45
     },
     {
       "id": "butuci-v-break-dinam",
@@ -8077,7 +8077,7 @@
       "name": "Set Lumini",
       "full_path": "Accesorii > Lumini > Set Lumini",
       "product_count": 25,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "seturi-aparatori",
@@ -8090,8 +8090,8 @@
       "id": "seturi-roti",
       "name": "Seturi Roti",
       "full_path": "Roti > Roti Bicicleta > Seturi Roti",
-      "product_count": 26,
-      "in_stock_count": 24
+      "product_count": 27,
+      "in_stock_count": 25
     },
     {
       "id": "sistem-velo-fit",

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-03T03:07:08.976976+00:00",
+  "last_updated": "2026-11-04T03:07:19.177262+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4715
+    "original_total": 4716
   },
   "products": [
     {
@@ -358,7 +358,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 6,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/sonerie-metal-m-wave-bell-3d-i-love-my-bike.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/sonerie-metal-m-wave-bell-3d-i-love-my-bike~8325847.jpg",
@@ -5144,8 +5144,8 @@
       "price": 55.0,
       "price_net": 45.45,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.49,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-mr-robsen-27-5-x-2-10-54-584.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/anvelopa-kujo-mr-robsen-27-5-x-2-10-54-584~8327266.jpg",
@@ -7198,7 +7198,7 @@
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 180,
-      "in_stock_count": 117
+      "in_stock_count": 116
     },
     {
       "id": "anvelope-tubulare",
@@ -7345,7 +7345,7 @@
       "name": "Butuci Pedalieri",
       "full_path": "Componente > Transmisie > Pedaliere > Butuci Pedalieri",
       "product_count": 55,
-      "in_stock_count": 46
+      "in_stock_count": 45
     },
     {
       "id": "butuci-v-break-dinam",
@@ -7968,7 +7968,7 @@
       "name": "Set Lumini",
       "full_path": "Accesorii > Lumini > Set Lumini",
       "product_count": 25,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "seturi-aparatori",
@@ -7981,8 +7981,8 @@
       "id": "seturi-roti",
       "name": "Seturi Roti",
       "full_path": "Roti > Roti Bicicleta > Seturi Roti",
-      "product_count": 26,
-      "in_stock_count": 24
+      "product_count": 27,
+      "in_stock_count": 25
     },
     {
       "id": "sistem-velo-fit",
