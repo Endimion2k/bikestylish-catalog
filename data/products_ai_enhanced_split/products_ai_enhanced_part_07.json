@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T03:07:19.177262+00:00",
+  "last_updated": "2026-11-05T03:07:29.664557+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -2128,7 +2128,7 @@
       "price_net": 122.73,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 3,
       "weight_kg": 0.7,
       "url": "https://www.bikestylish.ro/casca-m-wave-launch-bmx-m-54-58-cm-negru-matt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/casca-m-wave-launch-bmx-m-54-58-cm-negru-matt~8290732.jpg",
@@ -2995,8 +2995,8 @@
       "price": 352.0,
       "price_net": 290.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/tensiometru-spite-super-b-tb-st12.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/tensiometru-spite-super-b-tb-st12~8290831.jpg",
@@ -3373,8 +3373,8 @@
       "price": 71.5,
       "price_net": 59.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.13,
       "url": "https://www.bikestylish.ro/suport-reglabil-pentru-telefon-m-wave-bike-mount-al-60-95-mm-aluminiu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/suport-reglabil-pentru-telefon-m-wave-bike-mount-al-60-95-mm-aluminiu~8290870.jpg",
@@ -3695,7 +3695,7 @@
       "price_net": 26.45,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 3,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/cheie-angrenaj-sxt-max-50-nm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/cheie-angrenaj-sxt-max-50-nm~8290903.jpg",
@@ -7453,7 +7453,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 121,
-      "in_stock_count": 71
+      "in_stock_count": 69
     },
     {
       "id": "butuci-pedalieri",
@@ -7502,7 +7502,7 @@
       "name": "Cadru-Furca",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
       "product_count": 12,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "camasi",
@@ -7523,7 +7523,7 @@
       "name": "Carcase - Prinderi SmartPhone",
       "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
       "product_count": 9,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "casete-butuci",
@@ -7978,7 +7978,7 @@
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
       "product_count": 46,
-      "in_stock_count": 29
+      "in_stock_count": 32
     },
     {
       "id": "protectii-lant",
@@ -8013,14 +8013,14 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 47,
-      "in_stock_count": 45
+      "in_stock_count": 44
     },
     {
       "id": "roti-spite",
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "product_count": 27,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "roti-custom-hand-built",
@@ -8286,7 +8286,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 400
+      "in_stock_count": 399
     }
   ],
   "brands": [

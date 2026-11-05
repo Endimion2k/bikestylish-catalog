@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T03:07:19.177262+00:00",
+  "last_updated": "2026-11-05T03:07:29.664557+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -727,7 +727,7 @@
       "price_net": 190.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 7,
+      "stock_quantity": 6,
       "weight_kg": 0.75,
       "url": "https://www.bikestylish.ro/angrenaj-samox-32t-170-mm-1-x-9-12v-boost-standard.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/angrenaj-samox-32t-170-mm-1-x-9-12v-boost-standard~8340688.jpg",
@@ -2644,8 +2644,8 @@
       "price": 768.9,
       "price_net": 635.45,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/butuc-spate-novatec-d572rsb-12x148-mm-28h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/butuc-spate-novatec-d572rsb-12x148-mm-28h~8341153.jpg",
@@ -3057,7 +3057,7 @@
       "price_net": 70.25,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 8,
       "weight_kg": 0.17,
       "url": "https://www.bikestylish.ro/ceara-lant-kmc-chain-wax-150ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ceara-lant-kmc-chain-wax-150ml~8341198.jpg",
@@ -5912,7 +5912,7 @@
       "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 217,
+      "stock_quantity": 212,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/set-flash-cu-baterii-sxt-silicone-albastru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/set-flash-cu-baterii-sxt-silicone-albastru~8341948.jpg",
@@ -7857,7 +7857,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 121,
-      "in_stock_count": 71
+      "in_stock_count": 69
     },
     {
       "id": "butuci-pedalieri",
@@ -7906,7 +7906,7 @@
       "name": "Cadru-Furca",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
       "product_count": 12,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "camasi",
@@ -7927,7 +7927,7 @@
       "name": "Carcase - Prinderi SmartPhone",
       "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
       "product_count": 9,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "casete-butuci",
@@ -8382,7 +8382,7 @@
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
       "product_count": 46,
-      "in_stock_count": 29
+      "in_stock_count": 32
     },
     {
       "id": "protectii-lant",
@@ -8417,14 +8417,14 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 47,
-      "in_stock_count": 45
+      "in_stock_count": 44
     },
     {
       "id": "roti-spite",
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "product_count": 27,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "roti-custom-hand-built",
@@ -8690,7 +8690,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 400
+      "in_stock_count": 399
     }
   ],
   "brands": [

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T03:07:19.177262+00:00",
+  "last_updated": "2026-11-05T03:07:29.664557+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1534,8 +1534,8 @@
       "price": 33.0,
       "price_net": 27.27,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "in_stock",
+      "stock_quantity": 10,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/placute-frana-m-wave-bpd-metal-s2-sintered-sh.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/placute-frana-m-wave-bpd-metal-s2-sintered-sh~8338417.jpg",
@@ -2049,8 +2049,8 @@
       "price": 566.5,
       "price_net": 468.18,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.28,
       "url": "https://www.bikestylish.ro/butuc-spate-novatec-d792sb-x12-a6a-xdr-negru-28h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-spate-novatec-d792sb-x12-a6a-xdr-negru-28h~8338669.jpg",
@@ -5212,7 +5212,7 @@
       "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 191,
+      "stock_quantity": 190,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm-rosu-matt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ghidon-aluminiu-mtb-sxt-31-8-800-mm-rosu-matt~8339776.jpg",
@@ -5290,7 +5290,7 @@
       "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 19,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm-gold-matt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ghidon-aluminiu-mtb-sxt-31-8-800-mm-gold-matt~8339806.jpg",
@@ -5329,7 +5329,7 @@
       "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 47,
+      "stock_quantity": 46,
       "weight_kg": 0.45,
       "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-31-8-800-mm-mov-matt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ghidon-aluminiu-mtb-sxt-31-8-800-mm-mov-matt~15723756.jpg",
@@ -6013,7 +6013,7 @@
       "price_net": 128.93,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 22,
+      "stock_quantity": 21,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/foaie-angrenaj-sxt-pd-r4-a-nw-32t-bcd-104-mm-aluminiu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/foaie-angrenaj-sxt-pd-r4-a-nw-32t-bcd-104-mm-aluminiu~8340019.jpg",
@@ -7954,7 +7954,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 121,
-      "in_stock_count": 71
+      "in_stock_count": 69
     },
     {
       "id": "butuci-pedalieri",
@@ -8003,7 +8003,7 @@
       "name": "Cadru-Furca",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
       "product_count": 12,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "camasi",
@@ -8024,7 +8024,7 @@
       "name": "Carcase - Prinderi SmartPhone",
       "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
       "product_count": 9,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "casete-butuci",
@@ -8479,7 +8479,7 @@
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
       "product_count": 46,
-      "in_stock_count": 29
+      "in_stock_count": 32
     },
     {
       "id": "protectii-lant",
@@ -8514,14 +8514,14 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 47,
-      "in_stock_count": 45
+      "in_stock_count": 44
     },
     {
       "id": "roti-spite",
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "product_count": 27,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "roti-custom-hand-built",
@@ -8787,7 +8787,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 400
+      "in_stock_count": 399
     }
   ],
   "brands": [

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T03:07:19.177262+00:00",
+  "last_updated": "2026-11-05T03:07:29.664557+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1086,7 +1086,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 37,
+      "stock_quantity": 34,
       "weight_kg": 0.16,
       "url": "https://www.bikestylish.ro/far-cu-baterii-m-wave-apollon-k-1-2.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/far-cu-baterii-m-wave-apollon-k-1-2~8292568.jpg",
@@ -1112,7 +1112,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 56,
+      "stock_quantity": 50,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/sa-ventura-asa-r3-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/sa-ventura-asa-r3-negru~8292571.jpg",
@@ -2852,7 +2852,7 @@
       "price_net": 28.93,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 9,
       "weight_kg": 0.34,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14x1-75-47-254-k-149.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-kenda-14x1-75-47-254-k-149~8324062.jpg",
@@ -2974,7 +2974,7 @@
       "price_net": 209.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 22,
       "weight_kg": 1.43,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-gigas-26-x-4-0-98-559-k-1167.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/anvelopa-kenda-gigas-26-x-4-0-98-559-k-1167~8324083.jpg",
@@ -3781,8 +3781,8 @@
       "price": 58.0,
       "price_net": 47.93,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.44,
       "url": "https://www.bikestylish.ro/antifurt-cadru-m-wave-ring.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/antifurt-cadru-m-wave-ring~8324344.jpg",
@@ -4735,7 +4735,7 @@
       "price_net": 0.32,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 3300,
+      "stock_quantity": 3200,
       "url": "https://www.bikestylish.ro/niplu-cnspoke-ucp-14g-s-2-0-x-12-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/niplu-cnspoke-ucp-14g-s-2-0-x-12-mm-negru~8324869.jpg",
       "images": [
@@ -7447,7 +7447,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 121,
-      "in_stock_count": 71
+      "in_stock_count": 69
     },
     {
       "id": "butuci-pedalieri",
@@ -7496,7 +7496,7 @@
       "name": "Cadru-Furca",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Cadru-Furca",
       "product_count": 12,
-      "in_stock_count": 11
+      "in_stock_count": 10
     },
     {
       "id": "camasi",
@@ -7517,7 +7517,7 @@
       "name": "Carcase - Prinderi SmartPhone",
       "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
       "product_count": 9,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "casete-butuci",
@@ -7972,7 +7972,7 @@
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
       "product_count": 46,
-      "in_stock_count": 29
+      "in_stock_count": 32
     },
     {
       "id": "protectii-lant",
@@ -8007,14 +8007,14 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 47,
-      "in_stock_count": 45
+      "in_stock_count": 44
     },
     {
       "id": "roti-spite",
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "product_count": 27,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "roti-custom-hand-built",
@@ -8280,7 +8280,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 400
+      "in_stock_count": 399
     }
   ],
   "brands": [
