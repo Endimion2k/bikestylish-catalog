@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T03:07:29.664557+00:00",
+  "last_updated": "2026-11-06T03:07:27.019560+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -637,7 +637,7 @@
       "price_net": 57.02,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 37,
+      "stock_quantity": 35,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/pinion-casetat-shimano-cs-hg200-7-tourney-7-viteze-12-28t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-casetat-shimano-cs-hg200-7-tourney-7-viteze-12-28t~8340679.jpg",
@@ -1343,7 +1343,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 63,
+      "stock_quantity": 61,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/set-mini-scule-sxt-10f-negru-109-g.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/set-mini-scule-sxt-10f-negru-109-g~8340835.jpg",
@@ -7458,8 +7458,8 @@
       "price": 825.0,
       "price_net": 681.82,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-29-622-x-30c-txn-12-148-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/roata-spate-sxt-29-622-x-30c-txn-12-148-32h~8342398.jpg",
       "images": [
@@ -8081,14 +8081,14 @@
       "name": "Furci",
       "full_path": "Componente > Suspensii - Cuvete > Furci",
       "product_count": 31,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
       "product_count": 45,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "ghidoane-directie",
@@ -8305,7 +8305,7 @@
       "name": "Pedale Platforma",
       "full_path": "Componente > Pedale > Pedale Platforma",
       "product_count": 147,
-      "in_stock_count": 89
+      "in_stock_count": 88
     },
     {
       "id": "pinioane",
@@ -8382,7 +8382,7 @@
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
       "product_count": 46,
-      "in_stock_count": 32
+      "in_stock_count": 33
     },
     {
       "id": "protectii-lant",
@@ -8417,7 +8417,7 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 47,
-      "in_stock_count": 44
+      "in_stock_count": 42
     },
     {
       "id": "roti-spite",
@@ -8515,7 +8515,7 @@
       "name": "Sonerii",
       "full_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
       "product_count": 52,
-      "in_stock_count": 43
+      "in_stock_count": 42
     },
     {
       "id": "spite-aero-inox",
@@ -8690,7 +8690,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 399
+      "in_stock_count": 398
     }
   ],
   "brands": [

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T03:07:29.664557+00:00",
+  "last_updated": "2026-11-06T03:07:27.019560+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1631,7 +1631,7 @@
       "price_net": 3.31,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 410,
+      "stock_quantity": 360,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/adaptor-ventil-sxt-dv-fv-av-alama.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/adaptor-ventil-sxt-dv-fv-av-alama~8338480.jpg",
@@ -4623,7 +4623,7 @@
       "price_net": 36.36,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 3,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/stop-spate-baterii-sxt-helios-b-portbagaj.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/stop-spate-baterii-sxt-helios-b-portbagaj~8339635.jpg",
@@ -6717,7 +6717,7 @@
       "price_net": 103.31,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 12,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/angrenaj-metal-aluminiu-1v-sxt-38t-170-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/angrenaj-metal-aluminiu-1v-sxt-38t-170-mm-negru~8340211.jpg",
@@ -7228,7 +7228,7 @@
       "price_net": 41.32,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 30,
+      "stock_quantity": 27,
       "weight_kg": 0.72,
       "url": "https://www.bikestylish.ro/anvelopa-kujo-one-0-one-a-26-x-1-75-47-559.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/anvelopa-kujo-one-0-one-a-26-x-1-75-47-559~8340328.jpg",
@@ -7337,8 +7337,8 @@
       "price": 154.0,
       "price_net": 127.27,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/kit-service-furci-diametrul-35-ariete.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/kit-service-furci-diametrul-35-ariete~8340373.jpg",
       "images": [
@@ -8178,14 +8178,14 @@
       "name": "Furci",
       "full_path": "Componente > Suspensii - Cuvete > Furci",
       "product_count": 31,
-      "in_stock_count": 21
+      "in_stock_count": 20
     },
     {
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
       "product_count": 45,
-      "in_stock_count": 32
+      "in_stock_count": 31
     },
     {
       "id": "ghidoane-directie",
@@ -8402,7 +8402,7 @@
       "name": "Pedale Platforma",
       "full_path": "Componente > Pedale > Pedale Platforma",
       "product_count": 147,
-      "in_stock_count": 89
+      "in_stock_count": 88
     },
     {
       "id": "pinioane",
@@ -8479,7 +8479,7 @@
       "name": "Protectii Antipana",
       "full_path": "Componente > Anvelope - Camere > Protectii Antipana",
       "product_count": 46,
-      "in_stock_count": 32
+      "in_stock_count": 33
     },
     {
       "id": "protectii-lant",
@@ -8514,7 +8514,7 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 47,
-      "in_stock_count": 44
+      "in_stock_count": 42
     },
     {
       "id": "roti-spite",
@@ -8612,7 +8612,7 @@
       "name": "Sonerii",
       "full_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
       "product_count": 52,
-      "in_stock_count": 43
+      "in_stock_count": 42
     },
     {
       "id": "spite-aero-inox",
@@ -8787,7 +8787,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 399
+      "in_stock_count": 398
     }
   ],
   "brands": [
