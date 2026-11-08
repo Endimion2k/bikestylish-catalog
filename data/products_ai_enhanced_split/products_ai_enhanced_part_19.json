@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T03:06:45.621698+00:00",
+  "last_updated": "2026-11-08T03:07:41.809733+00:00",
   "total_products": 216,
   "source": "sportxteam_feed",
   "part_info": {
@@ -4561,8 +4561,8 @@
       "price": 325.0,
       "price_net": 268.6,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "in_stock",
+      "stock_quantity": 10,
       "url": "https://www.bikestylish.ro/roata-fata-sxt-29-622-x-21c-neo-novatec-centerlock-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-sxt-29-622-x-21c-neo-novatec-centerlock-32h~15601050.jpg",
       "images": [
@@ -4590,8 +4590,9 @@
       "price": 350.0,
       "price_net": 289.26,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 5,
+      "weight_kg": 2.0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-29-622-x-21c-neo-novatec-center-lock-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/roata-spate-sxt-29-622-x-21c-neo-novatec-center-lock-32h~15604740.jpg",
       "images": [
@@ -7047,14 +7048,14 @@
       "name": "Roti Fata",
       "full_path": "Roti > Roti Bicicleta > Roti Fata",
       "product_count": 36,
-      "in_stock_count": 34
+      "in_stock_count": 35
     },
     {
       "id": "roti-spate",
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 47,
-      "in_stock_count": 41
+      "in_stock_count": 42
     },
     {
       "id": "roti-spite",
