@@ -1,68 +1,14 @@
 {
-  "last_updated": "2026-11-08T03:07:41.809733+00:00",
+  "last_updated": "2026-11-09T03:08:15.758509+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4716
+    "original_total": 4710
   },
   "products": [
-    {
-      "id": "408167",
-      "sku": "408167",
-      "ean": "887539014575",
-      "name": "Capete Ghidon M-WAVE BE ANATOM",
-      "brand": "M-WAVE",
-      "category": "Ghidoane",
-      "category_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "price": 44.0,
-      "price_net": 36.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.23,
-      "url": "https://www.bikestylish.ro/capete-ghidon-m-wave-be-anatom.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/capete-ghidon-m-wave-be-anatom~8325724.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/capete-ghidon-m-wave-be-anatom~8325724.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/capete-ghidon-m-wave-be-anatom~8325721.jpg"
-      ],
-      "category_description": "Handlebars - flat, riser, drop bar styles",
-      "tags": [
-        "Componente",
-        "Ghidoane",
-        "M-WAVE"
-      ]
-    },
-    {
-      "id": "410345",
-      "sku": "410345",
-      "ean": "4015493410485",
-      "name": "Mansoane VELO Retro 2",
-      "brand": "VELO",
-      "category": "Mansoane",
-      "category_path": "Componente > Ghidoane - Directie > Mansoane",
-      "price": 104.5,
-      "price_net": 86.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.22,
-      "url": "https://www.bikestylish.ro/mansoane-velo-retro-2.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-velo-retro-2~8325736.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-velo-retro-2~8325736.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-velo-retro-2~8325733.jpg"
-      ],
-      "category_description": "Handlebar grips",
-      "tags": [
-        "Componente",
-        "Mansoane",
-        "VELO"
-      ]
-    },
     {
       "id": "410375",
       "sku": "410375",
@@ -5052,8 +4998,8 @@
       "brand": "SHIMANO",
       "category": "Angrenaje",
       "category_path": "Componente > Transmisie > Pedaliere > Angrenaje",
-      "price": 108.9,
-      "price_net": 90.0,
+      "price": 110.0,
+      "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 38,
@@ -6492,6 +6438,9 @@
       "brand": "SXT",
       "category": "Camasi",
       "category_path": "Componente > Transmisie > Cabluri - Camasi > Camasi",
+      "secondary_categories": [
+        "Service > PRODUSE SERVICE"
+      ],
       "price": 82.0,
       "price_net": 67.77,
       "currency": "RON",
@@ -6612,8 +6561,8 @@
       "brand": "PROMAX",
       "category": "Accesorii",
       "category_path": "Componente > Transmisie > Cabluri - Camasi > Accesorii",
-      "price": 108.9,
-      "price_net": 90.0,
+      "price": 105.0,
+      "price_net": 86.78,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 4,
@@ -6809,35 +6758,6 @@
         "bike_type": [
           "E-Bike"
         ]
-      }
-    },
-    {
-      "id": "351234",
-      "sku": "351234",
-      "ean": "2800857000004",
-      "name": "Angrenaj Pedalier M-WAVE 22-32-44 T Silver 8-9 v Patrat",
-      "brand": "M-WAVE",
-      "category": "Angrenaje",
-      "category_path": "Componente > Transmisie > Pedaliere > Angrenaje",
-      "price": 275.0,
-      "price_net": 227.27,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.9,
-      "url": "https://www.bikestylish.ro/angrenaj-pedalier-m-wave-22-32-44-t-silver-8-9-v-patrat.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/angrenaj-pedalier-m-wave-22-32-44-t-silver-8-9-v-patrat~8327896.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/angrenaj-pedalier-m-wave-22-32-44-t-silver-8-9-v-patrat~8327896.jpg"
-      ],
-      "category_description": "Cranksets - pedal arms and chainrings",
-      "tags": [
-        "Angrenaje",
-        "Componente",
-        "M-WAVE"
-      ],
-      "specs": {
-        "color": "Silver"
       }
     },
     {
@@ -7071,6 +6991,96 @@
           "MTB"
         ]
       }
+    },
+    {
+      "id": "303620",
+      "sku": "303620",
+      "ean": "4715575890623",
+      "name": "Lant KMC X8 Silver 6-7-8 viteze 116 zale",
+      "brand": "KMC",
+      "category": "Lanturi",
+      "category_path": "Componente > Transmisie > Lanturi > Lanturi",
+      "price": 130.9,
+      "price_net": 108.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.45,
+      "url": "https://www.bikestylish.ro/lant-kmc-x8-silver-6-7-8-viteze-116-zale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-x8-silver-6-7-8-viteze-116-zale~8328067.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/lant-kmc-x8-silver-6-7-8-viteze-116-zale~8328067.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/lant-kmc-x8-silver-6-7-8-viteze-116-zale~8328070.jpg"
+      ],
+      "category_description": "Bicycle chains - by speed count (6-12 speed)",
+      "tags": [
+        "8 viteze",
+        "Componente",
+        "KMC",
+        "Lanturi"
+      ],
+      "specs": {
+        "color": "Silver",
+        "speeds": 8
+      }
+    },
+    {
+      "id": "252116",
+      "sku": "252116",
+      "ean": "2800969000008",
+      "name": "Tija Sa cu Suspensie M-WAVE 27,2 mm Silver",
+      "brand": "M-WAVE",
+      "category": "Tije Sa",
+      "category_path": "Componente > Sei - Tije - Coliere > Tije Sa",
+      "price": 80.3,
+      "price_net": 66.36,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.49,
+      "url": "https://www.bikestylish.ro/tija-sa-cu-suspensie-m-wave-27-2-mm-silver.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/tija-sa-cu-suspensie-m-wave-27-2-mm-silver~8328088.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/8/tija-sa-cu-suspensie-m-wave-27-2-mm-silver~8328088.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/tija-sa-cu-suspensie-m-wave-27-2-mm-silver~8328091.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "M-WAVE",
+        "Tije Sa"
+      ],
+      "specs": {
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "252115",
+      "sku": "252115",
+      "ean": "2800970000004",
+      "name": "Tija Sa cu Suspensie M-WAVE 25,4 mm Silver",
+      "brand": "M-WAVE",
+      "category": "Tije Sa",
+      "category_path": "Componente > Sei - Tije - Coliere > Tije Sa",
+      "price": 80.3,
+      "price_net": 66.36,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.46,
+      "url": "https://www.bikestylish.ro/tija-sa-cu-suspensie-m-wave-25-4-mm-silver.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/tija-sa-cu-suspensie-m-wave-25-4-mm-silver~8328094.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/tija-sa-cu-suspensie-m-wave-25-4-mm-silver~8328094.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/tija-sa-cu-suspensie-m-wave-25-4-mm-silver~8328097.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "M-WAVE",
+        "Tije Sa"
+      ],
+      "specs": {
+        "color": "Silver"
+      }
     }
   ],
   "categories": [
@@ -7078,7 +7088,7 @@
       "id": "accesorii",
       "name": "Accesorii",
       "full_path": "Componente > Transmisie > Pedaliere > Accesorii",
-      "product_count": 30,
+      "product_count": 29,
       "in_stock_count": 19
     },
     {
@@ -7127,7 +7137,7 @@
       "id": "angrenaje",
       "name": "Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Angrenaje",
-      "product_count": 69,
+      "product_count": 67,
       "in_stock_count": 43
     },
     {
@@ -7351,7 +7361,7 @@
       "id": "butuci-v-break-dinam",
       "name": "Butuci V-Break - Dinam",
       "full_path": "Roti > Butuci - Accesorii > Butuci V-Break - Dinam",
-      "product_count": 50,
+      "product_count": 48,
       "in_stock_count": 39
     },
     {
@@ -7505,7 +7515,7 @@
       "id": "discuri-rotoare",
       "name": "Discuri - Rotoare",
       "full_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "product_count": 16,
+      "product_count": 15,
       "in_stock_count": 8
     },
     {
