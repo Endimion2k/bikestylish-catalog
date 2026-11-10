@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-09T03:08:15.758509+00:00",
+  "last_updated": "2026-11-10T03:07:17.774600+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 2,
     "total_parts": 19,
     "product_range": "251-500",
-    "original_total": 4710
+    "original_total": 4703
   },
   "products": [
     {
@@ -1018,8 +1018,8 @@
       "secondary_categories": [
         "E-Mobility > Accesorii E-Bike"
       ],
-      "price": 185.0,
-      "price_net": 152.89,
+      "price": 199.0,
+      "price_net": 164.46,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 27,
@@ -1137,39 +1137,6 @@
         "material": "Aluminiu",
         "color": "Negru",
         "dimensions": "81 x 97"
-      }
-    },
-    {
-      "id": "311710",
-      "sku": "311710",
-      "ean": "887539035150",
-      "name": "Pedale SXT Aluminiu XL 82 x 103 - 9/16",
-      "brand": "SXT",
-      "category": "Pedale Platforma",
-      "category_path": "Componente > Pedale > Pedale Platforma",
-      "price": 82.5,
-      "price_net": 68.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/pedale-sxt-aluminiu-xl-82-x-103-9-16.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-sxt-aluminiu-xl-82-x-103-9-16~8280451.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-sxt-aluminiu-xl-82-x-103-9-16~8280451.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-sxt-aluminiu-xl-82-x-103-9-16~8281462.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-sxt-aluminiu-xl-82-x-103-9-16~8281465.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-sxt-aluminiu-xl-82-x-103-9-16~8281468.jpg"
-      ],
-      "tags": [
-        "Aluminiu",
-        "Componente",
-        "Pedale Platforma",
-        "SXT"
-      ],
-      "specs": {
-        "material": "Aluminiu",
-        "dimensions": "82 x 103 - 9",
-        "thread": "9/16\""
       }
     },
     {
@@ -1903,7 +1870,7 @@
       "price_net": 259.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 26,
+      "stock_quantity": 25,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/butuc-spate-novatec-d042sb-32h-fd-4-rulmenti.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-spate-novatec-d042sb-32h-fd-4-rulmenti~8280529.jpg",
@@ -4294,8 +4261,8 @@
       "price": 192.5,
       "price_net": 159.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/caseta-butuc-novatec-b-ls-sh.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/caseta-butuc-novatec-b-ls-sh~8281819.jpg",
@@ -7369,6 +7336,31 @@
         "Discuri - Rotoare",
         "SXT"
       ]
+    },
+    {
+      "id": "360606",
+      "sku": "360606",
+      "ean": "2800804000002",
+      "name": "Disc Frana SXT 180 mm",
+      "brand": "SXT",
+      "category": "Discuri - Rotoare",
+      "category_path": "Componente > Sisteme Franare > Discuri - Rotoare",
+      "price": 45.0,
+      "price_net": 37.19,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/disc-frana-sxt-180-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/disc-frana-sxt-180-mm~8282149.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/disc-frana-sxt-180-mm~8282149.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/disc-frana-sxt-180-mm~8282674.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "Discuri - Rotoare",
+        "SXT"
+      ]
     }
   ],
   "categories": [
@@ -7419,7 +7411,7 @@
       "name": "Amenajare Magazin",
       "full_path": "Service > Amenajare Magazin",
       "product_count": 21,
-      "in_stock_count": 7
+      "in_stock_count": 8
     },
     {
       "id": "angrenaje",
@@ -7468,7 +7460,7 @@
       "name": "Antifurturi cu Cheie",
       "full_path": "Accesorii > Antifurturi > Antifurturi cu Cheie",
       "product_count": 22,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7636,7 +7628,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 121,
-      "in_stock_count": 69
+      "in_stock_count": 68
     },
     {
       "id": "butuci-pedalieri",
@@ -7713,7 +7705,7 @@
       "name": "Casete Butuci",
       "full_path": "Roti > Butuci - Accesorii > Casete Butuci",
       "product_count": 14,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "chei-dinamometrice",
@@ -7789,7 +7781,7 @@
       "id": "cuvete-rulmenti",
       "name": "Cuvete - Rulmenti",
       "full_path": "Componente > Suspensii - Cuvete > Cuvete - Rulmenti",
-      "product_count": 41,
+      "product_count": 40,
       "in_stock_count": 30
     },
     {
@@ -7860,13 +7852,13 @@
       "name": "Furci",
       "full_path": "Componente > Suspensii - Cuvete > Furci",
       "product_count": 31,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "product_count": 45,
+      "product_count": 44,
       "in_stock_count": 31
     },
     {
@@ -7950,7 +7942,7 @@
       "id": "lubrefiere",
       "name": "Lubrefiere",
       "full_path": "Service > Intretinere Biciclete > Lubrefiere",
-      "product_count": 16,
+      "product_count": 15,
       "in_stock_count": 6
     },
     {
@@ -8083,8 +8075,8 @@
       "id": "pedale-platforma",
       "name": "Pedale Platforma",
       "full_path": "Componente > Pedale > Pedale Platforma",
-      "product_count": 147,
-      "in_stock_count": 88
+      "product_count": 146,
+      "in_stock_count": 89
     },
     {
       "id": "pinioane",
@@ -8196,13 +8188,13 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 47,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "roti-spite",
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
-      "product_count": 27,
+      "product_count": 26,
       "in_stock_count": 19
     },
     {
@@ -8308,14 +8300,14 @@
       "name": "Spite 2,3 mm Inox",
       "full_path": "Roti > Spite si Nipluri > Spite 2,3 mm Inox",
       "product_count": 11,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "spite-inox",
       "name": "Spite Inox",
       "full_path": "Roti > Spite si Nipluri > Spite Inox",
       "product_count": 166,
-      "in_stock_count": 103
+      "in_stock_count": 102
     },
     {
       "id": "spite-ucp",
@@ -8342,7 +8334,7 @@
       "id": "suruburi-piulite-saibe",
       "name": "Suruburi - Piulite - Saibe",
       "full_path": "Service > Unelte Service > Suruburi - Piulite - Saibe",
-      "product_count": 6,
+      "product_count": 5,
       "in_stock_count": 2
     },
     {
@@ -8412,7 +8404,7 @@
       "id": "unelte-biciclete",
       "name": "Unelte  Biciclete",
       "full_path": "Service > Unelte Service > Unelte  Biciclete",
-      "product_count": 12,
+      "product_count": 11,
       "in_stock_count": 8
     },
     {

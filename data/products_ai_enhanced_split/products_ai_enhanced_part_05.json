@@ -1,42 +1,14 @@
 {
-  "last_updated": "2026-11-09T03:08:15.758509+00:00",
+  "last_updated": "2026-11-10T03:07:17.774600+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 5,
     "total_parts": 19,
     "product_range": "1001-1250",
-    "original_total": 4710
+    "original_total": 4703
   },
   "products": [
-    {
-      "id": "283553",
-      "sku": "283553",
-      "ean": "2802428000000",
-      "name": "Spita Inox cnSPOKE STD14C 2 x 259 mm Negru",
-      "brand": "cnSPOKE",
-      "category": "Spite Inox",
-      "category_path": "Roti > Spite si Nipluri > Spite Inox",
-      "price": 2.0,
-      "price_net": 1.65,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 2350,
-      "weight_kg": 0.01,
-      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-259-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/spita-inox-cnspoke-std14c-2-x-259-mm-negru~8286511.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/spita-inox-cnspoke-std14c-2-x-259-mm-negru~8286511.jpg"
-      ],
-      "tags": [
-        "Roti",
-        "Spite Inox",
-        "cnSPOKE"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
     {
       "id": "283563",
       "sku": "283563",
@@ -524,8 +496,8 @@
       "price": 1.65,
       "price_net": 1.36,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 100,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.01,
       "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-292-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/spita-inox-cnspoke-std14c-2-x-292-mm-negru~8286565.jpg",
@@ -3668,7 +3640,7 @@
       "price_net": 89.26,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 57,
+      "stock_quantity": 55,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/intinzator-lant-sxt-aluminiu-bmx-dirt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/intinzator-lant-sxt-aluminiu-bmx-dirt~8286898.jpg",
@@ -3856,7 +3828,7 @@
       "price_net": 14.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 95,
+      "stock_quantity": 85,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/surub-monobloc-sxt-isis-m15x1-0x13l-bosch-brose.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/surub-monobloc-sxt-isis-m15x1-0x13l-bosch-brose~8287360.jpg",
@@ -6427,8 +6399,8 @@
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/pinion-kmc-1-2x11-128-18t-bosch-gen-2.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pinion-kmc-1-2x11-128-18t-bosch-gen-2~8288329.jpg",
@@ -7359,6 +7331,37 @@
       "specs": {
         "color": "Roz"
       }
+    },
+    {
+      "id": "HTD1R",
+      "sku": "HTD1R",
+      "ean": "4711126206172",
+      "name": "Pedale Duble HT D1 Rosu",
+      "brand": "HT COMPONENTS",
+      "category": "Pedale Click",
+      "category_path": "Componente > Pedale > Pedale Click",
+      "price": 605.0,
+      "price_net": 500.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "weight_kg": 0.45,
+      "url": "https://www.bikestylish.ro/pedale-duble-ht-d1-rosu.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-duble-ht-d1-rosu~8287741.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-duble-ht-d1-rosu~8287741.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-duble-ht-d1-rosu~8288395.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-duble-ht-d1-rosu~8288398.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-duble-ht-d1-rosu~8288401.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "HT COMPONENTS",
+        "Pedale Click"
+      ],
+      "specs": {
+        "color": "Rosu"
+      }
     }
   ],
   "categories": [
@@ -7409,7 +7412,7 @@
       "name": "Amenajare Magazin",
       "full_path": "Service > Amenajare Magazin",
       "product_count": 21,
-      "in_stock_count": 7
+      "in_stock_count": 8
     },
     {
       "id": "angrenaje",
@@ -7458,7 +7461,7 @@
       "name": "Antifurturi cu Cheie",
       "full_path": "Accesorii > Antifurturi > Antifurturi cu Cheie",
       "product_count": 22,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "antifurturi-cu-cifru",
@@ -7626,7 +7629,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 121,
-      "in_stock_count": 69
+      "in_stock_count": 68
     },
     {
       "id": "butuci-pedalieri",
@@ -7703,7 +7706,7 @@
       "name": "Casete Butuci",
       "full_path": "Roti > Butuci - Accesorii > Casete Butuci",
       "product_count": 14,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "chei-dinamometrice",
@@ -7779,7 +7782,7 @@
       "id": "cuvete-rulmenti",
       "name": "Cuvete - Rulmenti",
       "full_path": "Componente > Suspensii - Cuvete > Cuvete - Rulmenti",
-      "product_count": 41,
+      "product_count": 40,
       "in_stock_count": 30
     },
     {
@@ -7850,13 +7853,13 @@
       "name": "Furci",
       "full_path": "Componente > Suspensii - Cuvete > Furci",
       "product_count": 31,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "product_count": 45,
+      "product_count": 44,
       "in_stock_count": 31
     },
     {
@@ -7940,7 +7943,7 @@
       "id": "lubrefiere",
       "name": "Lubrefiere",
       "full_path": "Service > Intretinere Biciclete > Lubrefiere",
-      "product_count": 16,
+      "product_count": 15,
       "in_stock_count": 6
     },
     {
@@ -8073,8 +8076,8 @@
       "id": "pedale-platforma",
       "name": "Pedale Platforma",
       "full_path": "Componente > Pedale > Pedale Platforma",
-      "product_count": 147,
-      "in_stock_count": 88
+      "product_count": 146,
+      "in_stock_count": 89
     },
     {
       "id": "pinioane",
@@ -8186,13 +8189,13 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 47,
-      "in_stock_count": 42
+      "in_stock_count": 41
     },
     {
       "id": "roti-spite",
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
-      "product_count": 27,
+      "product_count": 26,
       "in_stock_count": 19
     },
     {
@@ -8298,14 +8301,14 @@
       "name": "Spite 2,3 mm Inox",
       "full_path": "Roti > Spite si Nipluri > Spite 2,3 mm Inox",
       "product_count": 11,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "spite-inox",
       "name": "Spite Inox",
       "full_path": "Roti > Spite si Nipluri > Spite Inox",
       "product_count": 166,
-      "in_stock_count": 103
+      "in_stock_count": 102
     },
     {
       "id": "spite-ucp",
@@ -8332,7 +8335,7 @@
       "id": "suruburi-piulite-saibe",
       "name": "Suruburi - Piulite - Saibe",
       "full_path": "Service > Unelte Service > Suruburi - Piulite - Saibe",
-      "product_count": 6,
+      "product_count": 5,
       "in_stock_count": 2
     },
     {
@@ -8402,7 +8405,7 @@
       "id": "unelte-biciclete",
       "name": "Unelte  Biciclete",
       "full_path": "Service > Unelte Service > Unelte  Biciclete",
-      "product_count": 12,
+      "product_count": 11,
       "in_stock_count": 8
     },
     {
