@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T03:07:17.774600+00:00",
+  "last_updated": "2026-11-11T03:07:12.807229+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -9,56 +9,6 @@
     "original_total": 4703
   },
   "products": [
-    {
-      "id": "D468",
-      "sku": "D468",
-      "ean": "7290107114790",
-      "name": "Ureche Cadru PILO D468 Banshee",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 385.0,
-      "price_net": 318.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d468-banshee.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d468-banshee~8330668.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/ureche-cadru-pilo-d468-banshee~8330668.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D471",
-      "sku": "D471",
-      "ean": "7290107114820",
-      "name": "Ureche Cadru PILO D471 Fuji",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 385.0,
-      "price_net": 318.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d471-fuji.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d471-fuji~8330671.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d471-fuji~8330671.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D475",
       "sku": "D475",
@@ -6350,6 +6300,54 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D72",
+      "sku": "D72",
+      "ean": "7290107110617",
+      "name": "Ureche Cadru PILO D72 Cannondale",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d72-cannondale.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d72-cannondale~8331523.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d72-cannondale~8331523.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D76",
+      "sku": "D76",
+      "ean": "7290107110655",
+      "name": "Ureche Cadru PILO D76 Dartmoor",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 328.9,
+      "price_net": 271.82,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d76-dartmoor.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d76-dartmoor~8331526.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d76-dartmoor~8331526.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6434,7 +6432,7 @@
       "id": "antifurturi-lant",
       "name": "Antifurturi Lant",
       "full_path": "Accesorii > Antifurturi > Antifurturi Lant",
-      "product_count": 12,
+      "product_count": 11,
       "in_stock_count": 9
     },
     {
@@ -6477,7 +6475,7 @@
       "name": "Anvelope Rigide",
       "full_path": "Componente > Anvelope - Camere > Anvelope Rigide",
       "product_count": 180,
-      "in_stock_count": 116
+      "in_stock_count": 113
     },
     {
       "id": "anvelope-tubulare",
@@ -6505,7 +6503,7 @@
       "name": "Axe - Accesorii Butuci",
       "full_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 38
+      "in_stock_count": 37
     },
     {
       "id": "b-b-pedalier",
@@ -6617,7 +6615,7 @@
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
       "product_count": 121,
-      "in_stock_count": 68
+      "in_stock_count": 67
     },
     {
       "id": "butuci-pedalieri",
@@ -6764,7 +6762,7 @@
       "name": "Cricuri Spate",
       "full_path": "Accesorii > Cricuri Bicicleta > Cricuri Spate",
       "product_count": 14,
-      "in_stock_count": 8
+      "in_stock_count": 7
     },
     {
       "id": "cuvete-rulmenti",
@@ -6813,7 +6811,7 @@
       "name": "Flori Furca - Distantiere - Accesorii",
       "full_path": "Componente > Suspensii - Cuvete > Flori Furca - Distantiere - Accesorii",
       "product_count": 23,
-      "in_stock_count": 23
+      "in_stock_count": 22
     },
     {
       "id": "foi-angrenaje",
@@ -6953,7 +6951,7 @@
       "name": "Lumini Spate",
       "full_path": "Accesorii > Lumini > Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 26
+      "in_stock_count": 25
     },
     {
       "id": "mtb-full-face",
@@ -7176,8 +7174,8 @@
       "id": "roti-spate",
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
-      "product_count": 47,
-      "in_stock_count": 41
+      "product_count": 49,
+      "in_stock_count": 40
     },
     {
       "id": "roti-spite",
@@ -7310,7 +7308,7 @@
       "name": "Stand de Lucru",
       "full_path": "Service > Unelte Service > Stand de Lucru",
       "product_count": 9,
-      "in_stock_count": 8
+      "in_stock_count": 6
     },
     {
       "id": "suporturi-bidon",
@@ -7351,7 +7349,7 @@
       "id": "transport-copii",
       "name": "Transport Copii",
       "full_path": "Accesorii > TRANSPORT > Transport Copii",
-      "product_count": 4,
+      "product_count": 3,
       "in_stock_count": 1
     },
     {
@@ -7450,7 +7448,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 398
+      "in_stock_count": 397
     }
   ],
   "brands": [
