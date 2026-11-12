@@ -1,41 +1,14 @@
 {
-  "last_updated": "2026-11-11T03:07:12.807229+00:00",
+  "last_updated": "2026-11-12T03:07:29.449607+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 14,
     "total_parts": 19,
     "product_range": "3251-3500",
-    "original_total": 4703
+    "original_total": 4701
   },
   "products": [
-    {
-      "id": "D143",
-      "sku": "D143",
-      "ean": "7290107111324",
-      "name": "Ureche Cadru PILO D143 Gary Fisher",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 192.5,
-      "price_net": 159.09,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d143-gary-fisher.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d143-gary-fisher~8335696.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d143-gary-fisher~8335696.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d143-gary-fisher~8335699.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d143-gary-fisher~8335702.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D155",
       "sku": "D155",
@@ -3576,7 +3549,7 @@
       "price_net": 64.46,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 17,
+      "stock_quantity": 15,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/solutie-tubeless-vittoria-500-ml.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/solutie-tubeless-vittoria-500-ml~12385938.jpg",
@@ -7556,6 +7529,33 @@
         "Aparatori Spate",
         "M-WAVE"
       ]
+    },
+    {
+      "id": "385138",
+      "sku": "385138",
+      "ean": "887539037123",
+      "name": "Set Aparatori Noroi 20-24 M-WAVE Mud Max F+R ADJ S",
+      "brand": "M-WAVE",
+      "category": "Seturi Aparatori",
+      "category_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
+      "price": 80.0,
+      "price_net": 66.12,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 0.36,
+      "url": "https://www.bikestylish.ro/set-aparatori-noroi-20-24-m-wave-mud-max-f-r-adj-s.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-aparatori-noroi-20-24-m-wave-mud-max-f-r-adj-s~8338084.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/set-aparatori-noroi-20-24-m-wave-mud-max-f-r-adj-s~8338084.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/set-aparatori-noroi-20-24-m-wave-mud-max-f-r-adj-s~8338087.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/set-aparatori-noroi-20-24-m-wave-mud-max-f-r-adj-s~8338090.jpg"
+      ],
+      "tags": [
+        "Accesorii",
+        "M-WAVE",
+        "Seturi Aparatori"
+      ]
     }
   ],
   "categories": [
@@ -8145,7 +8145,7 @@
       "name": "Lumini",
       "full_path": "Accesorii > Lumini",
       "product_count": 4,
-      "in_stock_count": 2
+      "in_stock_count": 3
     },
     {
       "id": "lumini-fata",
@@ -8159,7 +8159,7 @@
       "name": "Lumini Spate",
       "full_path": "Accesorii > Lumini > Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "mtb-full-face",
@@ -8235,7 +8235,7 @@
       "id": "oglinzi",
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
-      "product_count": 25,
+      "product_count": 24,
       "in_stock_count": 20
     },
     {
@@ -8383,14 +8383,14 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 49,
-      "in_stock_count": 40
+      "in_stock_count": 41
     },
     {
       "id": "roti-spite",
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "product_count": 26,
-      "in_stock_count": 19
+      "in_stock_count": 20
     },
     {
       "id": "roti-custom-hand-built",
@@ -8459,7 +8459,7 @@
       "id": "seturi-aparatori",
       "name": "Seturi Aparatori",
       "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 23
     },
     {
@@ -8481,7 +8481,7 @@
       "name": "Sonerii",
       "full_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
       "product_count": 52,
-      "in_stock_count": 42
+      "in_stock_count": 40
     },
     {
       "id": "spite-aero-inox",
@@ -8614,7 +8614,7 @@
       "name": "Unelte Frane",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
       "product_count": 9,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "unelte-lant",

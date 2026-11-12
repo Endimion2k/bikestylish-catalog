@@ -1,42 +1,14 @@
 {
-  "last_updated": "2026-11-11T03:07:12.807229+00:00",
+  "last_updated": "2026-11-12T03:07:29.449607+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 5,
     "total_parts": 19,
     "product_range": "1001-1250",
-    "original_total": 4703
+    "original_total": 4701
   },
   "products": [
-    {
-      "id": "283564",
-      "sku": "283564",
-      "ean": "2802426000002",
-      "name": "Spita Inox cnSPOKE STD14C 2 x 262 mm Negru",
-      "brand": "cnSPOKE",
-      "category": "Spite Inox",
-      "category_path": "Roti > Spite si Nipluri > Spite Inox",
-      "price": 2.0,
-      "price_net": 1.65,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 1900,
-      "weight_kg": 0.01,
-      "url": "https://www.bikestylish.ro/spita-inox-cnspoke-std14c-2-x-262-mm-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/spita-inox-cnspoke-std14c-2-x-262-mm-negru~8286517.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/spita-inox-cnspoke-std14c-2-x-262-mm-negru~8286517.jpg"
-      ],
-      "tags": [
-        "Roti",
-        "Spite Inox",
-        "cnSPOKE"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
     {
       "id": "283551",
       "sku": "283551",
@@ -3523,7 +3495,7 @@
       "price_net": 77.27,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 3,
+      "stock_quantity": 1,
       "weight_kg": 0.25,
       "url": "https://www.bikestylish.ro/protectie-acumulator-e-bike-m-wave-e-protect-wrap.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/protectie-acumulator-e-bike-m-wave-e-protect-wrap~8286889.jpg",
@@ -3800,7 +3772,7 @@
       "price_net": 14.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 85,
+      "stock_quantity": 84,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/surub-monobloc-sxt-isis-m15x1-0x13l-bosch-brose.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/surub-monobloc-sxt-isis-m15x1-0x13l-bosch-brose~8287360.jpg",
@@ -4804,8 +4776,8 @@
       "price": 33.0,
       "price_net": 27.27,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 1,
       "url": "https://www.bikestylish.ro/prindere-far-moon-rb-22.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/prindere-far-moon-rb-22~8287471.jpg",
       "images": [
@@ -4854,8 +4826,8 @@
       "brand": "M-WAVE",
       "category": "Lumini",
       "category_path": "Accesorii > Lumini",
-      "price": 108.9,
-      "price_net": 90.0,
+      "price": 45.0,
+      "price_net": 37.19,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 4,
@@ -5713,7 +5685,7 @@
       "price_net": 440.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 29,
+      "stock_quantity": 28,
       "weight_kg": 1.86,
       "url": "https://www.bikestylish.ro/cutie-cablu-schimbator-inox-promax-100-buc-mtb.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cutie-cablu-schimbator-inox-promax-100-buc-mtb~8287576.jpg",
@@ -7365,6 +7337,37 @@
       "specs": {
         "color": "Alb"
       }
+    },
+    {
+      "id": "HTPA12V",
+      "sku": "HTPA12V",
+      "ean": "4715872481838",
+      "name": "Pedale HT PA12 Verde(802C)",
+      "brand": "HT COMPONENTS",
+      "category": "Pedale Platforma",
+      "category_path": "Componente > Pedale > Pedale Platforma",
+      "price": 159.5,
+      "price_net": 131.82,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 94,
+      "weight_kg": 0.45,
+      "url": "https://www.bikestylish.ro/pedale-ht-pa12-verde-802c.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-pa12-verde-802c~8287747.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-pa12-verde-802c~8287747.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-pa12-verde-802c~8288413.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-pa12-verde-802c~8288416.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-pa12-verde-802c~8288419.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Verde"
+      }
     }
   ],
   "categories": [
@@ -7954,7 +7957,7 @@
       "name": "Lumini",
       "full_path": "Accesorii > Lumini",
       "product_count": 4,
-      "in_stock_count": 2
+      "in_stock_count": 3
     },
     {
       "id": "lumini-fata",
@@ -7968,7 +7971,7 @@
       "name": "Lumini Spate",
       "full_path": "Accesorii > Lumini > Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "mtb-full-face",
@@ -8044,7 +8047,7 @@
       "id": "oglinzi",
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
-      "product_count": 25,
+      "product_count": 24,
       "in_stock_count": 20
     },
     {
@@ -8192,14 +8195,14 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 49,
-      "in_stock_count": 40
+      "in_stock_count": 41
     },
     {
       "id": "roti-spite",
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "product_count": 26,
-      "in_stock_count": 19
+      "in_stock_count": 20
     },
     {
       "id": "roti-custom-hand-built",
@@ -8268,7 +8271,7 @@
       "id": "seturi-aparatori",
       "name": "Seturi Aparatori",
       "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 23
     },
     {
@@ -8290,7 +8293,7 @@
       "name": "Sonerii",
       "full_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
       "product_count": 52,
-      "in_stock_count": 42
+      "in_stock_count": 40
     },
     {
       "id": "spite-aero-inox",
@@ -8423,7 +8426,7 @@
       "name": "Unelte Frane",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
       "product_count": 9,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "unelte-lant",

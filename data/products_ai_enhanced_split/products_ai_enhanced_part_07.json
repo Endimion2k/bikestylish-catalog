@@ -1,41 +1,14 @@
 {
-  "last_updated": "2026-11-11T03:07:12.807229+00:00",
+  "last_updated": "2026-11-12T03:07:29.449607+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
     "total_parts": 19,
     "product_range": "1501-1750",
-    "original_total": 4703
+    "original_total": 4701
   },
   "products": [
-    {
-      "id": "A07130652",
-      "sku": "A07130652",
-      "ean": "8590816022980",
-      "name": "Manusi Ciclism AUTHOR MenRacePro L Negru",
-      "brand": "AUTHOR",
-      "category": "Manusi Ciclism",
-      "category_path": "Echipamente > Manusi Ciclism",
-      "price": 49.5,
-      "price_net": 40.91,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/manusi-ciclism-author-menracepro-l-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/manusi-ciclism-author-menracepro-l-negru~8290471.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/manusi-ciclism-author-menracepro-l-negru~8290471.jpg"
-      ],
-      "tags": [
-        "AUTHOR",
-        "Echipamente",
-        "Manusi Ciclism"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
     {
       "id": "A07130743",
       "sku": "A07130743",
@@ -586,11 +559,11 @@
       "brand": "SXT",
       "category": "Seturi Aparatori",
       "category_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
-      "price": 65.0,
-      "price_net": 53.72,
+      "price": 55.0,
+      "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 10,
       "weight_kg": 0.8,
       "url": "https://www.bikestylish.ro/set-aparatori-noroi-lasalle-sports-arizona-26-28-verde-lime.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/set-aparatori-noroi-lasalle-sports-arizona-26-28-verde-lime~8290546.jpg",
@@ -616,8 +589,8 @@
       "brand": "SXT",
       "category": "Seturi Aparatori",
       "category_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
-      "price": 77.0,
-      "price_net": 63.64,
+      "price": 55.0,
+      "price_net": 45.45,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 5,
@@ -643,8 +616,8 @@
       "brand": "SXT",
       "category": "Seturi Aparatori",
       "category_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
-      "price": 65.0,
-      "price_net": 53.72,
+      "price": 55.0,
+      "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 16,
@@ -675,8 +648,8 @@
       "brand": "SXT",
       "category": "Seturi Aparatori",
       "category_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
-      "price": 77.0,
-      "price_net": 63.64,
+      "price": 55.0,
+      "price_net": 45.45,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 1,
@@ -1479,7 +1452,7 @@
       "price_net": 90.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 10,
       "weight_kg": 0.84,
       "url": "https://www.bikestylish.ro/sa-city-m-wave-vacu-city-xl.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/sa-city-m-wave-vacu-city-xl~8290660.jpg",
@@ -4256,8 +4229,8 @@
       "brand": "SXT",
       "category": "Bike Computer",
       "category_path": "Accesorii > Electronice > Bike Computer",
-      "price": 60.5,
-      "price_net": 50.0,
+      "price": 45.0,
+      "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 12,
@@ -7178,6 +7151,31 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D52",
+      "sku": "D52",
+      "ean": "7290107110419",
+      "name": "Ureche Cadru PILO D52 Scott",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 143.0,
+      "price_net": 118.18,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 3,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d52-scott.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d52-scott~8292460.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d52-scott~8292460.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7767,7 +7765,7 @@
       "name": "Lumini",
       "full_path": "Accesorii > Lumini",
       "product_count": 4,
-      "in_stock_count": 2
+      "in_stock_count": 3
     },
     {
       "id": "lumini-fata",
@@ -7781,7 +7779,7 @@
       "name": "Lumini Spate",
       "full_path": "Accesorii > Lumini > Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "mtb-full-face",
@@ -7857,7 +7855,7 @@
       "id": "oglinzi",
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
-      "product_count": 25,
+      "product_count": 24,
       "in_stock_count": 20
     },
     {
@@ -8005,14 +8003,14 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 49,
-      "in_stock_count": 40
+      "in_stock_count": 41
     },
     {
       "id": "roti-spite",
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "product_count": 26,
-      "in_stock_count": 19
+      "in_stock_count": 20
     },
     {
       "id": "roti-custom-hand-built",
@@ -8081,7 +8079,7 @@
       "id": "seturi-aparatori",
       "name": "Seturi Aparatori",
       "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 23
     },
     {
@@ -8103,7 +8101,7 @@
       "name": "Sonerii",
       "full_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
       "product_count": 52,
-      "in_stock_count": 42
+      "in_stock_count": 40
     },
     {
       "id": "spite-aero-inox",
@@ -8236,7 +8234,7 @@
       "name": "Unelte Frane",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
       "product_count": 9,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "unelte-lant",

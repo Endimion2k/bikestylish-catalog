@@ -1,40 +1,14 @@
 {
-  "last_updated": "2026-11-11T03:07:12.807229+00:00",
+  "last_updated": "2026-11-12T03:07:29.449607+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4703
+    "original_total": 4701
   },
   "products": [
-    {
-      "id": "410588",
-      "sku": "410588",
-      "ean": "2800206000006",
-      "name": "Mansoane Imitatie Piele M-WAVE CLOUD Buff",
-      "brand": "M-WAVE",
-      "category": "Mansoane",
-      "category_path": "Componente > Ghidoane - Directie > Mansoane",
-      "price": 39.6,
-      "price_net": 32.73,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/mansoane-imitatie-piele-m-wave-cloud-buff.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-imitatie-piele-m-wave-cloud-buff~8325793.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-imitatie-piele-m-wave-cloud-buff~8325793.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-imitatie-piele-m-wave-cloud-buff~8325796.jpg"
-      ],
-      "category_description": "Handlebar grips",
-      "tags": [
-        "Componente",
-        "M-WAVE",
-        "Mansoane"
-      ]
-    },
     {
       "id": "410120",
       "sku": "410120",
@@ -47,7 +21,7 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 109,
+      "stock_quantity": 104,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-4-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-sxt-cloud-slick-fix-4-negru~15725880.jpg",
@@ -733,8 +707,8 @@
       "price": 5.0,
       "price_net": 4.13,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 14,
+      "availability": "limited",
+      "stock_quantity": 4,
       "url": "https://www.bikestylish.ro/suport-far-sxt-lp-metal-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/suport-far-sxt-lp-metal-negru~8326024.jpg",
       "images": [
@@ -825,8 +799,8 @@
       "brand": "BETO",
       "category": "Mini Pompe",
       "category_path": "Accesorii > Pompe Ciclism > Mini Pompe",
-      "price": 38.5,
-      "price_net": 31.82,
+      "price": 35.0,
+      "price_net": 28.93,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 100,
@@ -990,8 +964,8 @@
       "brand": "VENTURA",
       "category": "Pompe Podea",
       "category_path": "Accesorii > Pompe Ciclism > Pompe Podea",
-      "price": 97.9,
-      "price_net": 80.91,
+      "price": 90.0,
+      "price_net": 74.38,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -5338,8 +5312,8 @@
       "price": 60.5,
       "price_net": 50.0,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/protectie-acumulator-m-wave-e-protect.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/protectie-acumulator-m-wave-e-protect~8327449.jpg",
@@ -7101,6 +7075,35 @@
           "E-Bike"
         ]
       }
+    },
+    {
+      "id": "613054",
+      "sku": "613054",
+      "name": "Display BROSE Confort",
+      "brand": "BROSE",
+      "category": "Display - Manete E-Bike",
+      "category_path": "E-Mobility > Display - Manete E-Bike",
+      "price": 22.0,
+      "price_net": 18.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/display-brose-confort.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/display-brose-confort~8328217.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/display-brose-confort~8328217.jpg"
+      ],
+      "tags": [
+        "BROSE",
+        "Display - Manete E-Bike",
+        "E-Bike",
+        "E-Mobility"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
+      }
     }
   ],
   "categories": [
@@ -7690,7 +7693,7 @@
       "name": "Lumini",
       "full_path": "Accesorii > Lumini",
       "product_count": 4,
-      "in_stock_count": 2
+      "in_stock_count": 3
     },
     {
       "id": "lumini-fata",
@@ -7704,7 +7707,7 @@
       "name": "Lumini Spate",
       "full_path": "Accesorii > Lumini > Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "mtb-full-face",
@@ -7780,7 +7783,7 @@
       "id": "oglinzi",
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
-      "product_count": 25,
+      "product_count": 24,
       "in_stock_count": 20
     },
     {
@@ -7928,14 +7931,14 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 49,
-      "in_stock_count": 40
+      "in_stock_count": 41
     },
     {
       "id": "roti-spite",
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "product_count": 26,
-      "in_stock_count": 19
+      "in_stock_count": 20
     },
     {
       "id": "roti-custom-hand-built",
@@ -8004,7 +8007,7 @@
       "id": "seturi-aparatori",
       "name": "Seturi Aparatori",
       "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 23
     },
     {
@@ -8026,7 +8029,7 @@
       "name": "Sonerii",
       "full_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
       "product_count": 52,
-      "in_stock_count": 42
+      "in_stock_count": 40
     },
     {
       "id": "spite-aero-inox",
@@ -8159,7 +8162,7 @@
       "name": "Unelte Frane",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
       "product_count": 9,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "unelte-lant",

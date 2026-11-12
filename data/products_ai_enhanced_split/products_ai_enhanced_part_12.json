@@ -1,38 +1,14 @@
 {
-  "last_updated": "2026-11-11T03:07:12.807229+00:00",
+  "last_updated": "2026-11-12T03:07:29.449607+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 12,
     "total_parts": 19,
     "product_range": "2751-3000",
-    "original_total": 4703
+    "original_total": 4701
   },
   "products": [
-    {
-      "id": "D477",
-      "sku": "D477",
-      "ean": "7290107114882",
-      "name": "Ureche Cadru PILO D477 KTM",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 218.9,
-      "price_net": 180.91,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d477-ktm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d477-ktm~8331529.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d477-ktm~8331529.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D480",
       "sku": "D480",
@@ -6636,6 +6612,33 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D868",
+      "sku": "D868",
+      "ean": "7290117594476",
+      "name": "Ureche Cadru PILO D868 Mondraker",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 176.0,
+      "price_net": 145.45,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d868-mondraker.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d868-mondraker~8333317.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d868-mondraker~8333317.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d868-mondraker~8333320.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d868-mondraker~8333323.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7225,7 +7228,7 @@
       "name": "Lumini",
       "full_path": "Accesorii > Lumini",
       "product_count": 4,
-      "in_stock_count": 2
+      "in_stock_count": 3
     },
     {
       "id": "lumini-fata",
@@ -7239,7 +7242,7 @@
       "name": "Lumini Spate",
       "full_path": "Accesorii > Lumini > Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "mtb-full-face",
@@ -7315,7 +7318,7 @@
       "id": "oglinzi",
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
-      "product_count": 25,
+      "product_count": 24,
       "in_stock_count": 20
     },
     {
@@ -7463,14 +7466,14 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 49,
-      "in_stock_count": 40
+      "in_stock_count": 41
     },
     {
       "id": "roti-spite",
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "product_count": 26,
-      "in_stock_count": 19
+      "in_stock_count": 20
     },
     {
       "id": "roti-custom-hand-built",
@@ -7539,7 +7542,7 @@
       "id": "seturi-aparatori",
       "name": "Seturi Aparatori",
       "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 23
     },
     {
@@ -7561,7 +7564,7 @@
       "name": "Sonerii",
       "full_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
       "product_count": 52,
-      "in_stock_count": 42
+      "in_stock_count": 40
     },
     {
       "id": "spite-aero-inox",
@@ -7694,7 +7697,7 @@
       "name": "Unelte Frane",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
       "product_count": 9,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "unelte-lant",

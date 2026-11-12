@@ -1,40 +1,14 @@
 {
-  "last_updated": "2026-11-11T03:07:12.807229+00:00",
+  "last_updated": "2026-11-12T03:07:29.449607+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 18,
     "total_parts": 19,
     "product_range": "4251-4500",
-    "original_total": 4703
+    "original_total": 4701
   },
   "products": [
-    {
-      "id": "D1089",
-      "sku": "D1089",
-      "name": "Ureche Cadru PILO D1089 Focus, Univega, Raleigh, Kalkhoff",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 203.5,
-      "price_net": 168.18,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 3,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d1089-focus-univega-raleigh-kalkhoff.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d1089-focus-univega-raleigh-kalkhoff~11282400.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d1089-focus-univega-raleigh-kalkhoff~11282400.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d1089-focus-univega-raleigh-kalkhoff~11282403.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d1089-focus-univega-raleigh-kalkhoff~11282406.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D344",
       "sku": "D344",
@@ -872,7 +846,7 @@
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 256,
+      "stock_quantity": 255,
       "url": "https://www.bikestylish.ro/mansoane-bmx-sxt-ds-126-150-mm-purple.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-bmx-sxt-ds-126-150-mm-purple~11326596.jpg",
       "images": [
@@ -1333,8 +1307,8 @@
       "price": 2662.0,
       "price_net": 2200.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 1.68,
       "url": "https://www.bikestylish.ro/trusa-super-b-tb-db11.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/trusa-super-b-tb-db11~11998839.jpg",
@@ -1683,7 +1657,7 @@
       "price_net": 120.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 16,
       "weight_kg": 0.19,
       "url": "https://www.bikestylish.ro/pompa-furca-beto-400-psi-28-bar.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pompa-furca-beto-400-psi-28-bar~12070836.jpg",
@@ -2622,7 +2596,7 @@
       "price_net": 70.91,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 1,
       "weight_kg": 0.94,
       "url": "https://www.bikestylish.ro/sa-sxt-elast-xxl-city-265-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/sa-sxt-elast-xxl-city-265-mm-negru~12073671.jpg",
@@ -3152,41 +3126,6 @@
         "wheel_size": "29",
         "dimensions": "29 x 1.95",
         "valve_type": "Schrader (AV)"
-      }
-    },
-    {
-      "id": "C958392",
-      "sku": "C958392",
-      "ean": "4006021013209",
-      "name": "Oglinda Busch + Müller E-Bike - 913/801VLME",
-      "brand": "SXT",
-      "category": "Oglinzi",
-      "category_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
-      "secondary_categories": [
-        "E-Mobility > Accesorii E-Bike"
-      ],
-      "price": 133.1,
-      "price_net": 110.0,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.1,
-      "url": "https://www.bikestylish.ro/oglinda-busch-m-ller-e-bike-913-801vlme.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/oglinda-busch-muller-e-bike-913-801vlme~12389217.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/oglinda-busch-muller-e-bike-913-801vlme~12389217.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/oglinda-busch-muller-e-bike-913-801vlme~12389220.jpg"
-      ],
-      "tags": [
-        "Accesorii",
-        "E-Bike",
-        "Oglinzi",
-        "SXT"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ]
       }
     },
     {
@@ -4439,13 +4378,15 @@
       "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 480,
+      "stock_quantity": 477,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/sonerie-aluminiu-sxt-sx20-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/sonerie-aluminiu-sxt-sx20-negru~13289427.jpg",
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/7/sonerie-aluminiu-sxt-sx20-negru~13289427.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/sonerie-aluminiu-sxt-sx20-negru~13289430.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/4/sonerie-aluminiu-sxt-sx20-negru~15797574.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/sonerie-aluminiu-sxt-sx20-negru~15797577.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/sonerie-aluminiu-sxt-sx20-negru~15797580.jpg"
       ],
       "tags": [
         "Accesorii",
@@ -4466,8 +4407,8 @@
       "brand": "SXT",
       "category": "Sonerii",
       "category_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
-      "price": 20.0,
-      "price_net": 16.53,
+      "price": 15.0,
+      "price_net": 12.4,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 498,
@@ -4476,7 +4417,10 @@
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/sonerie-aluminiu-retro-style-sxt-fy92-negru~13289451.jpg",
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/1/sonerie-aluminiu-retro-style-sxt-fy92-negru~13289451.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/sonerie-aluminiu-retro-style-sxt-fy92-negru~13289454.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/4/sonerie-aluminiu-retro-style-sxt-fy92-negru~15804354.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/sonerie-aluminiu-retro-style-sxt-fy92-negru~15804357.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/4/sonerie-aluminiu-retro-style-sxt-fy92-negru~13289454.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/sonerie-aluminiu-retro-style-sxt-fy92-negru~15804360.jpg"
       ],
       "tags": [
         "Accesorii",
@@ -4795,7 +4739,7 @@
       "price_net": 70.25,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 165,
+      "stock_quantity": 163,
       "url": "https://www.bikestylish.ro/pompa-podea-sxt-6438f-negru-16-230.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/pompa-podea-sxt-6438f-negru-16-230~13289442.jpg",
       "images": [
@@ -5317,7 +5261,9 @@
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/sonerie-sxt-downhill-mtb-negru~13289445.jpg",
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/5/sonerie-sxt-downhill-mtb-negru~13289445.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/sonerie-sxt-downhill-mtb-negru~13289448.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/3/sonerie-sxt-downhill-mtb-negru~15800793.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/sonerie-sxt-downhill-mtb-negru~15800796.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/sonerie-sxt-downhill-mtb-negru~15800799.jpg"
       ],
       "tags": [
         "Accesorii",
@@ -6315,8 +6261,8 @@
       "brand": "SXT",
       "category": "Seturi Aparatori",
       "category_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
-      "price": 135.0,
-      "price_net": 111.57,
+      "price": 175.0,
+      "price_net": 144.63,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 18,
@@ -7629,6 +7575,58 @@
         "Antifurturi cu Cheie",
         "SXT"
       ]
+    },
+    {
+      "id": "880554",
+      "sku": "880554",
+      "name": "Cheie Angrenaj SXT Shimano Octalink, ISIS",
+      "brand": "SXT",
+      "category": "Unelte  Biciclete",
+      "category_path": "Service > Unelte Service > Unelte  Biciclete",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
+      "price": 32.0,
+      "price_net": 26.45,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 42,
+      "weight_kg": 0.08,
+      "url": "https://www.bikestylish.ro/cheie-angrenaj-sxt-shimano-octalink-isis.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-angrenaj-sxt-shimano-octalink-isis~14681397.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-angrenaj-sxt-shimano-octalink-isis~14681397.jpg"
+      ],
+      "tags": [
+        "SXT",
+        "Service",
+        "Unelte  Biciclete"
+      ]
+    },
+    {
+      "id": "356305",
+      "sku": "356305",
+      "ean": "887539029135",
+      "name": "Set Suruburi Foaie Angrenaj SAMOX PD-RB 7 mm",
+      "brand": "SAMOX",
+      "category": "Foi Angrenaje",
+      "category_path": "Componente > Transmisie > Pedaliere > Foi Angrenaje",
+      "price": 25.0,
+      "price_net": 20.66,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 24,
+      "url": "https://www.bikestylish.ro/set-suruburi-foaie-angrenaj-samox-pd-rb-7-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/set-suruburi-foaie-angrenaj-samox-pd-rb-7-mm~14681400.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/set-suruburi-foaie-angrenaj-samox-pd-rb-7-mm~14681400.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/set-suruburi-foaie-angrenaj-samox-pd-rb-7-mm~14681403.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "Foi Angrenaje",
+        "SAMOX"
+      ]
     }
   ],
   "categories": [
@@ -8218,7 +8216,7 @@
       "name": "Lumini",
       "full_path": "Accesorii > Lumini",
       "product_count": 4,
-      "in_stock_count": 2
+      "in_stock_count": 3
     },
     {
       "id": "lumini-fata",
@@ -8232,7 +8230,7 @@
       "name": "Lumini Spate",
       "full_path": "Accesorii > Lumini > Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "mtb-full-face",
@@ -8308,7 +8306,7 @@
       "id": "oglinzi",
       "name": "Oglinzi",
       "full_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
-      "product_count": 25,
+      "product_count": 24,
       "in_stock_count": 20
     },
     {
@@ -8456,14 +8454,14 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 49,
-      "in_stock_count": 40
+      "in_stock_count": 41
     },
     {
       "id": "roti-spite",
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "product_count": 26,
-      "in_stock_count": 19
+      "in_stock_count": 20
     },
     {
       "id": "roti-custom-hand-built",
@@ -8532,7 +8530,7 @@
       "id": "seturi-aparatori",
       "name": "Seturi Aparatori",
       "full_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 23
     },
     {
@@ -8554,7 +8552,7 @@
       "name": "Sonerii",
       "full_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
       "product_count": 52,
-      "in_stock_count": 42
+      "in_stock_count": 40
     },
     {
       "id": "spite-aero-inox",
@@ -8687,7 +8685,7 @@
       "name": "Unelte Frane",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Frane",
       "product_count": 9,
-      "in_stock_count": 9
+      "in_stock_count": 8
     },
     {
       "id": "unelte-lant",
