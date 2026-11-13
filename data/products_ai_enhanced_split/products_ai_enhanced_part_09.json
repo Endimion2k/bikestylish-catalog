@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T03:07:29.449607+00:00",
+  "last_updated": "2026-11-13T03:07:11.815823+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -191,7 +191,7 @@
       "price_net": 44.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 10,
       "weight_kg": 0.07,
       "url": "https://www.bikestylish.ro/sonerie-electrica-m-wave.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sonerie-electrica-m-wave~8325874.jpg",
@@ -1205,8 +1205,8 @@
       "price": 2695.0,
       "price_net": 2227.27,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 4.0,
       "url": "https://www.bikestylish.ro/aparat-de-centrat-roti-super-b-tb-pf30.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/aparat-de-centrat-roti-super-b-tb-pf30~8326339.jpg",
@@ -6366,7 +6366,7 @@
       "id": "370203",
       "sku": "370203",
       "ean": "2800143000008",
-      "name": "Capete Camasa 5.1 mm CNC PPROMAX - 200 buc",
+      "name": "Capete Camasa 5.1 mm CNC PPROMAX - 200 buc Silver",
       "brand": "PROMAX",
       "category": "Accesorii",
       "category_path": "Componente > Transmisie > Cabluri - Camasi > Accesorii",
@@ -6375,17 +6375,20 @@
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 8,
-      "url": "https://www.bikestylish.ro/capete-camasa-5-1-mm-cnc-ppromax-200-buc.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/capete-camasa-5-1-mm-cnc-ppromax-200-buc~8327803.jpg",
+      "url": "https://www.bikestylish.ro/capete-camasa-5-1-mm-cnc-ppromax-200-buc-silver.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/capete-camasa-5-1-mm-cnc-ppromax-200-buc-silver~15809220.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/capete-camasa-5-1-mm-cnc-ppromax-200-buc~8327803.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/capete-camasa-5-1-mm-cnc-ppromax-200-buc~8327800.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/0/capete-camasa-5-1-mm-cnc-ppromax-200-buc-silver~15809220.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/capete-camasa-5-1-mm-cnc-ppromax-200-buc-silver~8327800.jpg"
       ],
       "tags": [
         "Accesorii",
         "Componente",
         "PROMAX"
-      ]
+      ],
+      "specs": {
+        "color": "Silver"
+      }
     },
     {
       "id": "370202",
@@ -7259,7 +7262,7 @@
       "name": "Axe - Accesorii Butuci",
       "full_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "b-b-pedalier",
@@ -7679,7 +7682,7 @@
       "name": "Lanturi",
       "full_path": "Componente > Transmisie > Lanturi > Lanturi",
       "product_count": 82,
-      "in_stock_count": 57
+      "in_stock_count": 58
     },
     {
       "id": "lubrefiere",
@@ -7938,7 +7941,7 @@
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "product_count": 26,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "roti-custom-hand-built",
@@ -8155,7 +8158,7 @@
       "name": "Unelte Anvelope",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
       "product_count": 11,
-      "in_stock_count": 8
+      "in_stock_count": 9
     },
     {
       "id": "unelte-frane",

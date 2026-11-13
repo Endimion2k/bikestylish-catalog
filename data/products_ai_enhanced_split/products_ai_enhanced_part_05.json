@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T03:07:29.449607+00:00",
+  "last_updated": "2026-11-13T03:07:11.815823+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -3166,7 +3166,7 @@
       "price_net": 15.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 227,
+      "stock_quantity": 223,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/kit-reparatii-m-wave.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/kit-reparatii-m-wave~8286853.jpg",
@@ -4052,7 +4052,7 @@
       "id": "553032",
       "sku": "553032",
       "ean": "698238512145",
-      "name": "Camera KUJO 700—28-45C AV 33 mm",
+      "name": "Camera KUJO 700 x 28-45C AV 33 mm",
       "brand": "KUJO",
       "category": "Camere Bicicleta",
       "category_path": "Componente > Anvelope - Camere > Camere Bicicleta",
@@ -4062,10 +4062,10 @@
       "availability": "in_stock",
       "stock_quantity": 296,
       "weight_kg": 0.18,
-      "url": "https://www.bikestylish.ro/camera-kujo-700-28-45c-av-33-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/camera-kujo-700%E2%80%9428-45c-av-33-mm~8287387.jpg",
+      "url": "https://www.bikestylish.ro/camera-kujo-700-x-28-45c-av-33-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/camera-kujo-700-x-28-45c-av-33-mm~8287387.jpg",
       "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/camera-kujo-700%E2%80%9428-45c-av-33-mm~8287387.jpg"
+        "https://s2.cdnmpro.com/861667841/p/raw/7/camera-kujo-700-x-28-45c-av-33-mm~8287387.jpg"
       ],
       "tags": [
         "Camere Bicicleta",
@@ -4074,6 +4074,7 @@
         "Schrader"
       ],
       "specs": {
+        "dimensions": "700 x 28-45",
         "valve_type": "Schrader (AV)"
       }
     },
@@ -7030,8 +7031,8 @@
       "price": 132.0,
       "price_net": 109.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/kit-conversie-novatec-10-thru-axle-crmo.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/kit-conversie-novatec-10-thru-axle-crmo~8287714.jpg",
@@ -7523,7 +7524,7 @@
       "name": "Axe - Accesorii Butuci",
       "full_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
       "product_count": 59,
-      "in_stock_count": 37
+      "in_stock_count": 36
     },
     {
       "id": "b-b-pedalier",
@@ -7943,7 +7944,7 @@
       "name": "Lanturi",
       "full_path": "Componente > Transmisie > Lanturi > Lanturi",
       "product_count": 82,
-      "in_stock_count": 57
+      "in_stock_count": 58
     },
     {
       "id": "lubrefiere",
@@ -8202,7 +8203,7 @@
       "name": "Roti-Spite",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
       "product_count": 26,
-      "in_stock_count": 20
+      "in_stock_count": 19
     },
     {
       "id": "roti-custom-hand-built",
@@ -8419,7 +8420,7 @@
       "name": "Unelte Anvelope",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Anvelope",
       "product_count": 11,
-      "in_stock_count": 8
+      "in_stock_count": 9
     },
     {
       "id": "unelte-frane",
