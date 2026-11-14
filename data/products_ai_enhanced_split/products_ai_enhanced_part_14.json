@@ -1,38 +1,14 @@
 {
-  "last_updated": "2026-11-13T03:07:11.815823+00:00",
+  "last_updated": "2026-11-14T03:06:50.879448+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 14,
     "total_parts": 19,
     "product_range": "3251-3500",
-    "original_total": 4701
+    "original_total": 4700
   },
   "products": [
-    {
-      "id": "D155",
-      "sku": "D155",
-      "ean": "7290107111447",
-      "name": "Ureche Cadru PILO D155 Devinci",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 385.0,
-      "price_net": 318.18,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d155-devinci.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d155-devinci~8335705.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d155-devinci~8335705.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D160",
       "sku": "D160",
@@ -3128,8 +3104,8 @@
       "secondary_categories": [
         "Service > Unelte Service > Echipamente Atelier"
       ],
-      "price": 1950.0,
-      "price_net": 1611.57,
+      "price": 1650.0,
+      "price_net": 1363.64,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 17,
@@ -5396,8 +5372,8 @@
       "secondary_categories": [
         "PROMOTII > TRANSPORT GRATUIT"
       ],
-      "price": 50.6,
-      "price_net": 41.82,
+      "price": 39.0,
+      "price_net": 32.23,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -5425,8 +5401,8 @@
       "secondary_categories": [
         "PROMOTII > TRANSPORT GRATUIT"
       ],
-      "price": 50.6,
-      "price_net": 41.82,
+      "price": 39.0,
+      "price_net": 32.23,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -7556,6 +7532,33 @@
         "M-WAVE",
         "Seturi Aparatori"
       ]
+    },
+    {
+      "id": "385137",
+      "sku": "385137",
+      "ean": "887539037116",
+      "name": "Set Aparatori Noroi 26-29 M-WAVE Mud Max F+R ADJ L",
+      "brand": "M-WAVE",
+      "category": "Seturi Aparatori",
+      "category_path": "Accesorii > Aparatori Noroi > Seturi Aparatori",
+      "price": 127.0,
+      "price_net": 104.96,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 8,
+      "weight_kg": 0.63,
+      "url": "https://www.bikestylish.ro/set-aparatori-noroi-26-29-m-wave-mud-max-f-r-adj-l.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/set-aparatori-noroi-26-29-m-wave-mud-max-f-r-adj-l~8338093.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/set-aparatori-noroi-26-29-m-wave-mud-max-f-r-adj-l~8338093.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/set-aparatori-noroi-26-29-m-wave-mud-max-f-r-adj-l~8338099.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/set-aparatori-noroi-26-29-m-wave-mud-max-f-r-adj-l~8338096.jpg"
+      ],
+      "tags": [
+        "Accesorii",
+        "M-WAVE",
+        "Seturi Aparatori"
+      ]
     }
   ],
   "categories": [
@@ -7717,7 +7720,7 @@
       "id": "b-b-pedalier",
       "name": "B.B-Pedalier",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 25
     },
     {
@@ -8656,7 +8659,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 397
+      "in_stock_count": 396
     }
   ],
   "brands": [

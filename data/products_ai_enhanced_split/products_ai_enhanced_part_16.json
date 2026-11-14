@@ -1,50 +1,14 @@
 {
-  "last_updated": "2026-11-13T03:07:11.815823+00:00",
+  "last_updated": "2026-11-14T03:06:50.879448+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 16,
     "total_parts": 19,
     "product_range": "3751-4000",
-    "original_total": 4701
+    "original_total": 4700
   },
   "products": [
-    {
-      "id": "410599",
-      "sku": "410599",
-      "ean": "2802268000000",
-      "name": "Mansoane SXT Y- SPORT Negru/Negru 130 mm",
-      "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "Componente > Ghidoane - Directie > Mansoane",
-      "secondary_categories": [
-        "PROMOTII > TRANSPORT GRATUIT"
-      ],
-      "price": 65.0,
-      "price_net": 53.72,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 166,
-      "weight_kg": 0.2,
-      "url": "https://www.bikestylish.ro/mansoane-sxt-y-sport-negru-negru-130-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/mansoane-sxt-y-sport-negru-negru-130-mm~8340607.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/mansoane-sxt-y-sport-negru-negru-130-mm~8340607.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-sxt-y-sport-negru-negru-130-mm~8340610.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/mansoane-sxt-y-sport-negru-negru-130-mm~8340613.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/mansoane-sxt-y-sport-negru-negru-130-mm~8340616.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-y-sport-negru-negru-130-mm~8340619.jpg"
-      ],
-      "category_description": "Handlebar grips",
-      "tags": [
-        "Componente",
-        "Mansoane",
-        "SXT"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
     {
       "id": "D1182",
       "sku": "D1182",
@@ -7590,6 +7554,36 @@
         "speeds": 3,
         "dimensions": "12 x 148"
       }
+    },
+    {
+      "id": "110876",
+      "sku": "110876",
+      "ean": "2802360000007",
+      "name": "Butuc Fata NOVATEC D041SB-B15 110 x 15 mm 28H",
+      "brand": "NOVATEC",
+      "category": "Butuci Frana Disc",
+      "category_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
+      "price": 308.0,
+      "price_net": 254.55,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.16,
+      "url": "https://www.bikestylish.ro/butuc-fata-novatec-d041sb-b15-110-x-15-mm-28h.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-fata-novatec-d041sb-b15-110-x-15-mm-28h~8342590.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-fata-novatec-d041sb-b15-110-x-15-mm-28h~8342590.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/butuc-fata-novatec-d041sb-b15-110-x-15-mm-28h~8342593.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/butuc-fata-novatec-d041sb-b15-110-x-15-mm-28h~8342596.jpg"
+      ],
+      "tags": [
+        "Butuci Frana Disc",
+        "NOVATEC",
+        "Roti"
+      ],
+      "specs": {
+        "dimensions": "110 x 15"
+      }
     }
   ],
   "categories": [
@@ -7751,7 +7745,7 @@
       "id": "b-b-pedalier",
       "name": "B.B-Pedalier",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 25
     },
     {
@@ -8690,7 +8684,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 397
+      "in_stock_count": 396
     }
   ],
   "brands": [

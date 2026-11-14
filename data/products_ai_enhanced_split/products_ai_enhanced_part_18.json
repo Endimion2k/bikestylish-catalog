@@ -1,38 +1,14 @@
 {
-  "last_updated": "2026-11-13T03:07:11.815823+00:00",
+  "last_updated": "2026-11-14T03:06:50.879448+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 18,
     "total_parts": 19,
     "product_range": "4251-4500",
-    "original_total": 4701
+    "original_total": 4700
   },
   "products": [
-    {
-      "id": "D344",
-      "sku": "D344",
-      "name": "Ureche Cadru PILO D344 GHOST",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 141.9,
-      "price_net": 117.27,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 4,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d344-ghost.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d344-ghost~11282397.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d344-ghost~11282397.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D413",
       "sku": "D413",
@@ -444,7 +420,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 18,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-verde-neon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-sxt-n-13-nylon-fiber-verde-neon~11326194.jpg",
@@ -2008,8 +1984,8 @@
       "secondary_categories": [
         "PROMOTII > TRANSPORT GRATUIT"
       ],
-      "price": 20.0,
-      "price_net": 16.53,
+      "price": 18.0,
+      "price_net": 14.88,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 16,
@@ -2357,7 +2333,7 @@
       "price_net": 50.0,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 21,
       "weight_kg": 0.09,
       "url": "https://www.bikestylish.ro/set-leviere-metal-super-b-tb-tl21.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/set-leviere-metal-super-b-tb-tl21~12073464.jpg",
@@ -6121,7 +6097,7 @@
       "price_net": 30.58,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 11,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/foaie-angrenaj-metal-e-bike-38t-samox-bcd-104.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/foaie-angrenaj-metal-e-bike-38t-samox-bcd-104~13794000.jpg",
@@ -7627,6 +7603,32 @@
         "Foi Angrenaje",
         "SAMOX"
       ]
+    },
+    {
+      "id": "356306",
+      "sku": "356306",
+      "ean": "887539029142",
+      "name": "Set Suruburi Foaie Angrenaj SAMOX PD-RB 8 mm",
+      "brand": "SAMOX",
+      "category": "Foi Angrenaje",
+      "category_path": "Componente > Transmisie > Pedaliere > Foi Angrenaje",
+      "price": 25.0,
+      "price_net": 20.66,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 24,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/set-suruburi-foaie-angrenaj-samox-pd-rb-8-mm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/set-suruburi-foaie-angrenaj-samox-pd-rb-8-mm~14681406.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/set-suruburi-foaie-angrenaj-samox-pd-rb-8-mm~14681406.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/set-suruburi-foaie-angrenaj-samox-pd-rb-8-mm~14681409.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "Foi Angrenaje",
+        "SAMOX"
+      ]
     }
   ],
   "categories": [
@@ -7788,7 +7790,7 @@
       "id": "b-b-pedalier",
       "name": "B.B-Pedalier",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 25
     },
     {
@@ -8727,7 +8729,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 397
+      "in_stock_count": 396
     }
   ],
   "brands": [

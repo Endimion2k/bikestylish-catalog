@@ -1,41 +1,14 @@
 {
-  "last_updated": "2026-11-13T03:07:11.815823+00:00",
+  "last_updated": "2026-11-14T03:06:50.879448+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 13,
     "total_parts": 19,
     "product_range": "3001-3250",
-    "original_total": 4701
+    "original_total": 4700
   },
   "products": [
-    {
-      "id": "D870",
-      "sku": "D870",
-      "ean": "7290117594490",
-      "name": "Ureche Cadru PILO D870 Colnago",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 176.0,
-      "price_net": 145.45,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d870-colnago.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d870-colnago~8333326.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d870-colnago~8333326.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d870-colnago~8333329.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d870-colnago~8333332.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D871",
       "sku": "D871",
@@ -6795,6 +6768,30 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D155",
+      "sku": "D155",
+      "ean": "7290107111447",
+      "name": "Ureche Cadru PILO D155 Devinci",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d155-devinci.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d155-devinci~8335705.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d155-devinci~8335705.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6956,7 +6953,7 @@
       "id": "b-b-pedalier",
       "name": "B.B-Pedalier",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 25
     },
     {
@@ -7895,7 +7892,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 397
+      "in_stock_count": 396
     }
   ],
   "brands": [

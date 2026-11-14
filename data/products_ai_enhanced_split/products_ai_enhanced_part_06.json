@@ -1,45 +1,14 @@
 {
-  "last_updated": "2026-11-13T03:07:11.815823+00:00",
+  "last_updated": "2026-11-14T03:06:50.879448+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 6,
     "total_parts": 19,
     "product_range": "1251-1500",
-    "original_total": 4701
+    "original_total": 4700
   },
   "products": [
-    {
-      "id": "HTPA12G",
-      "sku": "HTPA12G",
-      "ean": "4711126201825",
-      "name": "Pedale HT PA12 Galben (793)",
-      "brand": "HT COMPONENTS",
-      "category": "Pedale Platforma",
-      "category_path": "Componente > Pedale > Pedale Platforma",
-      "price": 159.5,
-      "price_net": 131.82,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 22,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-pa12-galben-793.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-pa12-galben-793~8287750.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-pa12-galben-793~8287750.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-pa12-galben-793~8288422.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-pa12-galben-793~8288425.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-pa12-galben-793~8288428.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "HT COMPONENTS",
-        "Pedale Platforma"
-      ],
-      "specs": {
-        "color": "Alb"
-      }
-    },
     {
       "id": "HTPA12R",
       "sku": "HTPA12R",
@@ -3386,7 +3355,7 @@
       "price_net": 35.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 18,
       "weight_kg": 0.29,
       "url": "https://www.bikestylish.ro/schimbator-spate-ventura-6-7-v-prindere-ax-long-cage-36t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/schimbator-spate-ventura-6-7-v-prindere-ax-long-cage-36t~8289121.jpg",
@@ -6453,7 +6422,7 @@
       "price_net": 32.23,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 24,
+      "stock_quantity": 23,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/disc-frana-sxt-bd-140-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/disc-frana-sxt-bd-140-mm~8289472.jpg",
@@ -7489,6 +7458,34 @@
       "specs": {
         "color": "Negru"
       }
+    },
+    {
+      "id": "A07130743",
+      "sku": "A07130743",
+      "ean": "8590816036444",
+      "name": "Manusi Ciclism AUTHOR Team X6 L Negru/Rosu",
+      "brand": "AUTHOR",
+      "category": "Manusi Ciclism",
+      "category_path": "Echipamente > Manusi Ciclism",
+      "price": 48.0,
+      "price_net": 39.67,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 5,
+      "url": "https://www.bikestylish.ro/manusi-ciclism-author-team-x6-l-negru-rosu.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/manusi-ciclism-author-team-x6-l-negru-rosu~8290474.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/manusi-ciclism-author-team-x6-l-negru-rosu~8290474.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/manusi-ciclism-author-team-x6-l-negru-rosu~8291107.jpg"
+      ],
+      "tags": [
+        "AUTHOR",
+        "Echipamente",
+        "Manusi Ciclism"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -7650,7 +7647,7 @@
       "id": "b-b-pedalier",
       "name": "B.B-Pedalier",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 25
     },
     {
@@ -8589,7 +8586,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 397
+      "in_stock_count": 396
     }
   ],
   "brands": [

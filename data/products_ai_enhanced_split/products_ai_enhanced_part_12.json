@@ -1,38 +1,14 @@
 {
-  "last_updated": "2026-11-13T03:07:11.815823+00:00",
+  "last_updated": "2026-11-14T03:06:50.879448+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 12,
     "total_parts": 19,
     "product_range": "2751-3000",
-    "original_total": 4701
+    "original_total": 4700
   },
   "products": [
-    {
-      "id": "D480",
-      "sku": "D480",
-      "ean": "7290107114912",
-      "name": "Ureche Cadru PILO D480 Devinci",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 184.8,
-      "price_net": 152.73,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d480-devinci.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d480-devinci~8331532.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d480-devinci~8331532.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D88",
       "sku": "D88",
@@ -543,8 +519,8 @@
       "price": 137.5,
       "price_net": 113.64,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d250-canyon.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ureche-cadru-pilo-d250-canyon~8331595.jpg",
@@ -6639,6 +6615,33 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D870",
+      "sku": "D870",
+      "ean": "7290117594490",
+      "name": "Ureche Cadru PILO D870 Colnago",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 176.0,
+      "price_net": 145.45,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d870-colnago.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d870-colnago~8333326.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d870-colnago~8333326.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d870-colnago~8333329.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d870-colnago~8333332.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6800,7 +6803,7 @@
       "id": "b-b-pedalier",
       "name": "B.B-Pedalier",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 25
     },
     {
@@ -7739,7 +7742,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 397
+      "in_stock_count": 396
     }
   ],
   "brands": [

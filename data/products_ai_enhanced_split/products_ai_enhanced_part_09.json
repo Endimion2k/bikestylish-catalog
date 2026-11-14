@@ -1,45 +1,14 @@
 {
-  "last_updated": "2026-11-13T03:07:11.815823+00:00",
+  "last_updated": "2026-11-14T03:06:50.879448+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4701
+    "original_total": 4700
   },
   "products": [
-    {
-      "id": "410120",
-      "sku": "410120",
-      "ean": "887539025533",
-      "name": "Mansoane SXT CLOUD SLICK FIX 4 Negru",
-      "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "Componente > Ghidoane - Directie > Mansoane",
-      "price": 25.0,
-      "price_net": 20.66,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 104,
-      "weight_kg": 0.12,
-      "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-4-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-sxt-cloud-slick-fix-4-negru~15725880.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-sxt-cloud-slick-fix-4-negru~15725880.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-4-negru~8325799.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/mansoane-sxt-cloud-slick-fix-4-negru~8325802.jpg"
-      ],
-      "category_description": "Handlebar grips",
-      "tags": [
-        "Componente",
-        "Mansoane",
-        "SXT"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
     {
       "id": "410555",
       "sku": "410555",
@@ -1202,8 +1171,8 @@
       "secondary_categories": [
         "Service > Unelte Service > Echipamente Atelier"
       ],
-      "price": 2695.0,
-      "price_net": 2227.27,
+      "price": 2420.0,
+      "price_net": 2000.0,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -1235,8 +1204,8 @@
         "Service > Unelte Service > Truse - Mini Truse",
         "Service > Unelte Service > Echipamente Atelier"
       ],
-      "price": 2420.0,
-      "price_net": 2000.0,
+      "price": 1850.0,
+      "price_net": 1528.93,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 1,
@@ -1268,8 +1237,8 @@
         "Service > Unelte Service > Truse - Mini Truse",
         "Service > Unelte Service > Echipamente Atelier"
       ],
-      "price": 1859.0,
-      "price_net": 1536.36,
+      "price": 1495.0,
+      "price_net": 1235.54,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 1,
@@ -1384,8 +1353,8 @@
       "secondary_categories": [
         "Service > Unelte Service > Echipamente Atelier"
       ],
-      "price": 1320.0,
-      "price_net": 1090.91,
+      "price": 1120.0,
+      "price_net": 925.62,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -1793,7 +1762,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 67,
+      "stock_quantity": 62,
       "weight_kg": 0.37,
       "url": "https://www.bikestylish.ro/pinion-filetat-shimano-mf-tz500-6-viteze-14-28-t.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pinion-filetat-shimano-mf-tz500-6-viteze-14-28-t~8326618.jpg",
@@ -7107,6 +7076,39 @@
           "E-Bike"
         ]
       }
+    },
+    {
+      "id": "613600",
+      "sku": "613600",
+      "name": "Cadru E-Bike City Aluminiu S-45 cm",
+      "brand": "M-WAVE",
+      "category": "Cadre - Furci E-Bike",
+      "category_path": "E-Mobility > Cadre - Furci E-Bike",
+      "price": 3135.0,
+      "price_net": 2590.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/cadru-e-bike-city-aluminiu-s-45-cm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/cadru-e-bike-city-aluminiu-s-45-cm~8328220.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/cadru-e-bike-city-aluminiu-s-45-cm~8328220.jpg"
+      ],
+      "tags": [
+        "Aluminiu",
+        "Cadre - Furci E-Bike",
+        "City/Trekking",
+        "E-Bike",
+        "E-Mobility",
+        "M-WAVE"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike",
+          "City/Trekking"
+        ],
+        "material": "Aluminiu"
+      }
     }
   ],
   "categories": [
@@ -7268,7 +7270,7 @@
       "id": "b-b-pedalier",
       "name": "B.B-Pedalier",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 25
     },
     {
@@ -8207,7 +8209,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 397
+      "in_stock_count": 396
     }
   ],
   "brands": [

@@ -1,42 +1,14 @@
 {
-  "last_updated": "2026-11-13T03:07:11.815823+00:00",
+  "last_updated": "2026-11-14T03:06:50.879448+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 8,
     "total_parts": 19,
     "product_range": "1751-2000",
-    "original_total": 4701
+    "original_total": 4700
   },
   "products": [
-    {
-      "id": "D59",
-      "sku": "D59",
-      "ean": "7290107110488",
-      "name": "Ureche Cadru PILO D59 Canyon, Focus, Ghost, KHS, Kona, Marin, Merida, Orange, Vitus",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 121.0,
-      "price_net": 100.0,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d59-canyon-focus-ghost-khs-kona-marin-merida-orange-vitus.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d59-canyon-focus-ghost-khs-kona-marin-merida-orange~8292463.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d59-canyon-focus-ghost-khs-kona-marin-merida-orange~8292463.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ],
-      "specs": {
-        "color": "Orange"
-      }
-    },
     {
       "id": "D68",
       "sku": "D68",
@@ -7183,6 +7155,37 @@
         "M-WAVE",
         "Mansoane"
       ]
+    },
+    {
+      "id": "410120",
+      "sku": "410120",
+      "ean": "887539025533",
+      "name": "Mansoane SXT CLOUD SLICK FIX 4 Negru",
+      "brand": "SXT",
+      "category": "Mansoane",
+      "category_path": "Componente > Ghidoane - Directie > Mansoane",
+      "price": 25.0,
+      "price_net": 20.66,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 104,
+      "weight_kg": 0.12,
+      "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-slick-fix-4-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-sxt-cloud-slick-fix-4-negru~15725880.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/mansoane-sxt-cloud-slick-fix-4-negru~15725880.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/mansoane-sxt-cloud-slick-fix-4-negru~8325799.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/mansoane-sxt-cloud-slick-fix-4-negru~8325802.jpg"
+      ],
+      "category_description": "Handlebar grips",
+      "tags": [
+        "Componente",
+        "Mansoane",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -7344,7 +7347,7 @@
       "id": "b-b-pedalier",
       "name": "B.B-Pedalier",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 25
     },
     {
@@ -8283,7 +8286,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 397
+      "in_stock_count": 396
     }
   ],
   "brands": [

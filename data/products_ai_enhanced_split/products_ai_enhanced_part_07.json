@@ -1,42 +1,14 @@
 {
-  "last_updated": "2026-11-13T03:07:11.815823+00:00",
+  "last_updated": "2026-11-14T03:06:50.879448+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
     "total_parts": 19,
     "product_range": "1501-1750",
-    "original_total": 4701
+    "original_total": 4700
   },
   "products": [
-    {
-      "id": "A07130743",
-      "sku": "A07130743",
-      "ean": "8590816036444",
-      "name": "Manusi Ciclism AUTHOR Team X6 L Negru/Rosu",
-      "brand": "AUTHOR",
-      "category": "Manusi Ciclism",
-      "category_path": "Echipamente > Manusi Ciclism",
-      "price": 48.0,
-      "price_net": 39.67,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
-      "url": "https://www.bikestylish.ro/manusi-ciclism-author-team-x6-l-negru-rosu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/manusi-ciclism-author-team-x6-l-negru-rosu~8290474.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/manusi-ciclism-author-team-x6-l-negru-rosu~8290474.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/manusi-ciclism-author-team-x6-l-negru-rosu~8291107.jpg"
-      ],
-      "tags": [
-        "AUTHOR",
-        "Echipamente",
-        "Manusi Ciclism"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
     {
       "id": "A07130744",
       "sku": "A07130744",
@@ -2881,8 +2853,8 @@
       "secondary_categories": [
         "Service > Unelte Service > Echipamente Atelier"
       ],
-      "price": 438.9,
-      "price_net": 362.73,
+      "price": 425.0,
+      "price_net": 351.24,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 2,
@@ -3207,7 +3179,7 @@
       "price_net": 140.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 14,
+      "stock_quantity": 13,
       "weight_kg": 1.54,
       "url": "https://www.bikestylish.ro/geanta-portbagaj-2-piese-amsterdam-double-l-maro-15-l.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/geanta-portbagaj-2-piese-amsterdam-double-l-maro-15-l~8290867.jpg",
@@ -3609,7 +3581,7 @@
       "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 12,
+      "stock_quantity": 11,
       "weight_kg": 0.08,
       "url": "https://www.bikestylish.ro/pistol-vaselina-m-wave-grease-gun.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pistol-vaselina-m-wave-grease-gun~8290909.jpg",
@@ -5144,8 +5116,8 @@
       "secondary_categories": [
         "Service > Unelte Service > Echipamente Atelier"
       ],
-      "price": 495.0,
-      "price_net": 409.09,
+      "price": 450.0,
+      "price_net": 371.9,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 5,
@@ -5638,7 +5610,7 @@
       "price_net": 206.61,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 39,
+      "stock_quantity": 38,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-basic-i-29-622-x-19c-fd-36h-casetat-hg.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/roata-spate-sxt-basic-i-29-622-x-19c-fd-36h-casetat-hg~15616332.jpg",
       "images": [
@@ -7176,6 +7148,34 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D59",
+      "sku": "D59",
+      "ean": "7290107110488",
+      "name": "Ureche Cadru PILO D59 Canyon, Focus, Ghost, KHS, Kona, Marin, Merida, Orange, Vitus",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 121.0,
+      "price_net": 100.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d59-canyon-focus-ghost-khs-kona-marin-merida-orange-vitus.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d59-canyon-focus-ghost-khs-kona-marin-merida-orange~8292463.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d59-canyon-focus-ghost-khs-kona-marin-merida-orange~8292463.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ],
+      "specs": {
+        "color": "Orange"
+      }
     }
   ],
   "categories": [
@@ -7337,7 +7337,7 @@
       "id": "b-b-pedalier",
       "name": "B.B-Pedalier",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 25
     },
     {
@@ -8276,7 +8276,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 397
+      "in_stock_count": 396
     }
   ],
   "brands": [

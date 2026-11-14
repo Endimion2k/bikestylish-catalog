@@ -1,39 +1,14 @@
 {
-  "last_updated": "2026-11-13T03:07:11.815823+00:00",
+  "last_updated": "2026-11-14T03:06:50.879448+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 11,
     "total_parts": 19,
     "product_range": "2501-2750",
-    "original_total": 4701
+    "original_total": 4700
   },
   "products": [
-    {
-      "id": "D291",
-      "sku": "D291",
-      "ean": "7290107112796",
-      "name": "Ureche Cadru PILO D291 Felt, Kona, Stevens",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 220.0,
-      "price_net": 181.82,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d291-felt-kona-stevens.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d291-felt-kona-stevens~8330677.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d291-felt-kona-stevens~8330677.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D295",
       "sku": "D295",
@@ -6347,6 +6322,30 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D480",
+      "sku": "D480",
+      "ean": "7290107114912",
+      "name": "Ureche Cadru PILO D480 Devinci",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 184.8,
+      "price_net": 152.73,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d480-devinci.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d480-devinci~8331532.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d480-devinci~8331532.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6508,7 +6507,7 @@
       "id": "b-b-pedalier",
       "name": "B.B-Pedalier",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 25
     },
     {
@@ -7447,7 +7446,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 397
+      "in_stock_count": 396
     }
   ],
   "brands": [

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-13T03:07:11.815823+00:00",
+  "last_updated": "2026-11-14T03:06:50.879448+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 5,
     "total_parts": 19,
     "product_range": "1001-1250",
-    "original_total": 4701
+    "original_total": 4700
   },
   "products": [
     {
@@ -1627,7 +1627,7 @@
       "price_net": 57.02,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 77,
+      "stock_quantity": 72,
       "url": "https://www.bikestylish.ro/schimbator-spate-6-7v-shimano-tourney-rd-ty300-ax.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/schimbator-spate-6-7v-shimano-tourney-rd-ty300-ax~8286703.jpg",
       "images": [
@@ -2772,31 +2772,6 @@
         "SXT",
         "Service",
         "Unelte Lant"
-      ]
-    },
-    {
-      "id": "881009",
-      "sku": "881009",
-      "ean": "887539026370",
-      "name": "Cheie Monobloc M-WAVE BB Screw 1",
-      "brand": "M-WAVE",
-      "category": "B.B-Pedalier",
-      "category_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
-      "price": 71.5,
-      "price_net": 59.09,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.25,
-      "url": "https://www.bikestylish.ro/cheie-monobloc-m-wave-bb-screw-1.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-monobloc-m-wave-bb-screw-1~8286817.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/cheie-monobloc-m-wave-bb-screw-1~8286817.jpg"
-      ],
-      "tags": [
-        "B.B-Pedalier",
-        "M-WAVE",
-        "Service"
       ]
     },
     {
@@ -7369,6 +7344,37 @@
       "specs": {
         "color": "Verde"
       }
+    },
+    {
+      "id": "HTPA12G",
+      "sku": "HTPA12G",
+      "ean": "4711126201825",
+      "name": "Pedale HT PA12 Galben (793)",
+      "brand": "HT COMPONENTS",
+      "category": "Pedale Platforma",
+      "category_path": "Componente > Pedale > Pedale Platforma",
+      "price": 159.5,
+      "price_net": 131.82,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 22,
+      "weight_kg": 0.45,
+      "url": "https://www.bikestylish.ro/pedale-ht-pa12-galben-793.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-pa12-galben-793~8287750.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-pa12-galben-793~8287750.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-pa12-galben-793~8288422.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/pedale-ht-pa12-galben-793~8288425.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-ht-pa12-galben-793~8288428.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "HT COMPONENTS",
+        "Pedale Platforma"
+      ],
+      "specs": {
+        "color": "Alb"
+      }
     }
   ],
   "categories": [
@@ -7530,7 +7536,7 @@
       "id": "b-b-pedalier",
       "name": "B.B-Pedalier",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > B.B-Pedalier",
-      "product_count": 29,
+      "product_count": 28,
       "in_stock_count": 25
     },
     {
@@ -8469,7 +8475,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 397
+      "in_stock_count": 396
     }
   ],
   "brands": [
