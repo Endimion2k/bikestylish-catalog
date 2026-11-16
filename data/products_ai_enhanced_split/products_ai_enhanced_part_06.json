@@ -1,117 +1,14 @@
 {
-  "last_updated": "2026-11-15T03:07:20.657196+00:00",
+  "last_updated": "2026-11-16T03:08:17.117467+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 6,
     "total_parts": 19,
     "product_range": "1251-1500",
-    "original_total": 4700
+    "original_total": 4694
   },
   "products": [
-    {
-      "id": "HTPA12R",
-      "sku": "HTPA12R",
-      "ean": "4711126201801",
-      "name": "Pedale HT PA12 Rosu(186C)",
-      "brand": "HT COMPONENTS",
-      "category": "Pedale Platforma",
-      "category_path": "Componente > Pedale > Pedale Platforma",
-      "price": 159.5,
-      "price_net": 131.82,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 26,
-      "weight_kg": 0.45,
-      "url": "https://www.bikestylish.ro/pedale-ht-pa12-rosu-186c.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-pa12-rosu-186c~8287753.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-pa12-rosu-186c~8287753.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/pedale-ht-pa12-rosu-186c~8288431.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-ht-pa12-rosu-186c~8288434.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/pedale-ht-pa12-rosu-186c~8288437.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-ht-pa12-rosu-186c~8288440.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "HT COMPONENTS",
-        "Pedale Platforma"
-      ],
-      "specs": {
-        "color": "Rosu"
-      }
-    },
-    {
-      "id": "HTPA12N",
-      "sku": "HTPA12N",
-      "ean": "4715872481791",
-      "name": "Pedale HT PA12 Negru",
-      "brand": "HT COMPONENTS",
-      "category": "Pedale Platforma",
-      "category_path": "Componente > Pedale > Pedale Platforma",
-      "price": 132.0,
-      "price_net": 109.09,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.5,
-      "url": "https://www.bikestylish.ro/pedale-ht-pa12-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-pa12-negru~8287756.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-pa12-negru~8287756.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/pedale-ht-pa12-negru~8288443.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-ht-pa12-negru~8288446.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-ht-pa12-negru~8288449.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/pedale-ht-pa12-negru~8288452.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "HT COMPONENTS",
-        "Pedale Platforma"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "306110",
-      "sku": "306110",
-      "ean": "4715575890005",
-      "name": "Lant KMC e11 Silver 11 viteze 122 zale e-bike",
-      "brand": "KMC",
-      "category": "Lanturi",
-      "category_path": "Componente > Transmisie > Lanturi > Lanturi",
-      "secondary_categories": [
-        "E-Mobility > Componente E-Bike"
-      ],
-      "price": 235.0,
-      "price_net": 194.21,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.31,
-      "url": "https://www.bikestylish.ro/lant-kmc-e11-silver-11-viteze-122-zale-e-bike.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/lant-kmc-e11-silver-11-viteze-122-zale-e-bike~8287762.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/lant-kmc-e11-silver-11-viteze-122-zale-e-bike~8287762.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/lant-kmc-e11-silver-11-viteze-122-zale-e-bike~8288476.jpg"
-      ],
-      "category_description": "Bicycle chains - by speed count (6-12 speed)",
-      "tags": [
-        "11 viteze",
-        "Componente",
-        "E-Bike",
-        "KMC",
-        "Lanturi"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ],
-        "color": "Silver",
-        "speeds": 11
-      }
-    },
     {
       "id": "303515",
       "sku": "303515",
@@ -1993,8 +1890,8 @@
       "brand": "SXT",
       "category": "Accesorii",
       "category_path": "Componente > Transmisie > Cabluri - Camasi > Accesorii",
-      "price": 23.1,
-      "price_net": 19.09,
+      "price": 25.0,
+      "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 75,
@@ -2022,8 +1919,8 @@
       "brand": "SXT",
       "category": "Accesorii",
       "category_path": "Componente > Transmisie > Cabluri - Camasi > Accesorii",
-      "price": 24.2,
-      "price_net": 20.0,
+      "price": 25.0,
+      "price_net": 20.66,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 103,
@@ -2049,8 +1946,8 @@
       "brand": "SXT",
       "category": "Coliere Tija Sa",
       "category_path": "Componente > Sei - Tije - Coliere > Coliere Tija Sa",
-      "price": 19.8,
-      "price_net": 16.36,
+      "price": 20.0,
+      "price_net": 16.53,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 71,
@@ -2136,11 +2033,11 @@
       "brand": "SXT",
       "category": "Unelte Pinioane",
       "category_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Pinioane",
-      "price": 49.5,
-      "price_net": 40.91,
+      "price": 45.0,
+      "price_net": 37.19,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "url": "https://www.bikestylish.ro/cheie-pinioane-extend-suntour-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cheie-pinioane-extend-suntour-silver~8288986.jpg",
       "images": [
@@ -2363,8 +2260,8 @@
       "brand": "SXT",
       "category": "Brat Angrenaj",
       "category_path": "Componente > Transmisie > Pedaliere > Brat Angrenaj",
-      "price": 42.9,
-      "price_net": 35.45,
+      "price": 45.0,
+      "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 26,
@@ -2991,8 +2888,8 @@
       "brand": "SXT",
       "category": "Sonerii",
       "category_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
-      "price": 13.2,
-      "price_net": 10.91,
+      "price": 12.0,
+      "price_net": 9.92,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 50,
@@ -3110,8 +3007,8 @@
       "brand": "SXT",
       "category": "Cosuri  Fata",
       "category_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Fata",
-      "price": 19.8,
-      "price_net": 16.36,
+      "price": 18.0,
+      "price_net": 14.88,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 80,
@@ -3164,35 +3061,6 @@
         "Ghidoane",
         "M-WAVE"
       ]
-    },
-    {
-      "id": "CVG078",
-      "sku": "CVG078",
-      "ean": "2801806000007",
-      "name": "Suport Bidon Plastic ROTO X-ONE Rosu",
-      "brand": "SXT",
-      "category": "Suporturi Bidon",
-      "category_path": "Accesorii > Bidoane - Suporti > Suporturi Bidon",
-      "price": 31.9,
-      "price_net": 26.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/suport-bidon-plastic-roto-x-one-rosu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/suport-bidon-plastic-roto-x-one-rosu~8289103.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/suport-bidon-plastic-roto-x-one-rosu~8289103.jpg"
-      ],
-      "tags": [
-        "Accesorii",
-        "Plastic",
-        "SXT",
-        "Suporturi Bidon"
-      ],
-      "specs": {
-        "material": "Plastic",
-        "color": "Rosu"
-      }
     },
     {
       "id": "360744",
@@ -4084,8 +3952,8 @@
       "brand": "SXT",
       "category": "Coliere Tija Sa",
       "category_path": "Componente > Sei - Tije - Coliere > Coliere Tija Sa",
-      "price": 16.5,
-      "price_net": 13.64,
+      "price": 18.0,
+      "price_net": 14.88,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 9,
@@ -4240,8 +4108,8 @@
       "brand": "SXT",
       "category": "Oglinzi",
       "category_path": "Accesorii > Sonerii - Oglinzi > Oglinzi",
-      "price": 16.5,
-      "price_net": 13.64,
+      "price": 15.0,
+      "price_net": 12.4,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 63,
@@ -5066,8 +4934,8 @@
       "brand": "SXT",
       "category": "Urechi Cadru",
       "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 49.5,
-      "price_net": 40.91,
+      "price": 45.0,
+      "price_net": 37.19,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -5095,8 +4963,8 @@
       "brand": "SXT",
       "category": "Schimbatoare Spate",
       "category_path": "Componente > Transmisie > Schimbatoare > Schimbatoare Spate",
-      "price": 15.4,
-      "price_net": 12.73,
+      "price": 15.0,
+      "price_net": 12.4,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 55,
@@ -7297,8 +7165,8 @@
       "brand": "SXT",
       "category": "Suporturi Bidon",
       "category_path": "Accesorii > Bidoane - Suporti > Suporturi Bidon",
-      "price": 18.7,
-      "price_net": 15.45,
+      "price": 18.0,
+      "price_net": 14.88,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 9,
@@ -7477,6 +7345,118 @@
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/4/manusi-ciclism-author-team-x6-l-negru-rosu~8290474.jpg",
         "https://s2.cdnmpro.com/861667841/p/raw/7/manusi-ciclism-author-team-x6-l-negru-rosu~8291107.jpg"
+      ],
+      "tags": [
+        "AUTHOR",
+        "Echipamente",
+        "Manusi Ciclism"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "A07130744",
+      "sku": "A07130744",
+      "ean": "8590816036451",
+      "name": "Manusi Ciclism AUTHOR Team X6 XL Negru/Rosu",
+      "brand": "AUTHOR",
+      "category": "Manusi Ciclism",
+      "category_path": "Echipamente > Manusi Ciclism",
+      "price": 48.0,
+      "price_net": 39.67,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 1,
+      "url": "https://www.bikestylish.ro/manusi-ciclism-author-team-x6-xl-negru-rosu.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/manusi-ciclism-author-team-x6-xl-negru-rosu~8290477.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/manusi-ciclism-author-team-x6-xl-negru-rosu~8290477.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/manusi-ciclism-author-team-x6-xl-negru-rosu~8291110.jpg"
+      ],
+      "tags": [
+        "AUTHOR",
+        "Echipamente",
+        "Manusi Ciclism"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "A07130745",
+      "sku": "A07130745",
+      "ean": "8590816036468",
+      "name": "Manusi Ciclism AUTHOR Team X6 XXL Negru/Rosu",
+      "brand": "AUTHOR",
+      "category": "Manusi Ciclism",
+      "category_path": "Echipamente > Manusi Ciclism",
+      "price": 48.0,
+      "price_net": 39.67,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 5,
+      "url": "https://www.bikestylish.ro/manusi-ciclism-author-team-x6-xxl-negru-rosu.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/manusi-ciclism-author-team-x6-xxl-negru-rosu~8290480.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/manusi-ciclism-author-team-x6-xxl-negru-rosu~8290480.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/manusi-ciclism-author-team-x6-xxl-negru-rosu~8291113.jpg"
+      ],
+      "tags": [
+        "AUTHOR",
+        "Echipamente",
+        "Manusi Ciclism"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
+    },
+    {
+      "id": "C391100",
+      "sku": "C391100",
+      "ean": "4550170448899",
+      "name": "Schimbator Spate SHIMANO GRX-400 10V RD-RX400",
+      "brand": "SHIMANO",
+      "category": "Schimbatoare Spate",
+      "category_path": "Componente > Transmisie > Schimbatoare > Schimbatoare Spate",
+      "price": 250.0,
+      "price_net": 206.61,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "url": "https://www.bikestylish.ro/schimbator-spate-shimano-grx-400-10v-rd-rx400.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/schimbator-spate-shimano-grx-400-10v-rd-rx400~8290483.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/schimbator-spate-shimano-grx-400-10v-rd-rx400~8290483.jpg"
+      ],
+      "tags": [
+        "10 viteze",
+        "Componente",
+        "SHIMANO",
+        "Schimbatoare Spate"
+      ],
+      "specs": {
+        "speeds": 10
+      }
+    },
+    {
+      "id": "A07130752",
+      "sku": "A07130752",
+      "ean": "8590816036512",
+      "name": "Manusi Ciclism AUTHOR Team X6 XL Negru/Galben Neon",
+      "brand": "AUTHOR",
+      "category": "Manusi Ciclism",
+      "category_path": "Echipamente > Manusi Ciclism",
+      "price": 48.0,
+      "price_net": 39.67,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "url": "https://www.bikestylish.ro/manusi-ciclism-author-team-x6-xl-negru-galben-neon.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/manusi-ciclism-author-team-x6-xl-negru-galben-neon~8290486.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/manusi-ciclism-author-team-x6-xl-negru-galben-neon~8290486.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/manusi-ciclism-author-team-x6-xl-negru-galben-neon~8291116.jpg"
       ],
       "tags": [
         "AUTHOR",
@@ -7682,7 +7662,7 @@
       "id": "banda-janta",
       "name": "Banda Janta",
       "full_path": "Componente > Anvelope - Camere > Banda Janta",
-      "product_count": 31,
+      "product_count": 30,
       "in_stock_count": 24
     },
     {
@@ -7780,7 +7760,7 @@
       "id": "cabluri",
       "name": "Cabluri",
       "full_path": "Componente > Transmisie > Cabluri - Camasi > Cabluri",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 10
     },
     {
@@ -7851,7 +7831,7 @@
       "name": "Coliere Tija Sa",
       "full_path": "Componente > Sei - Tije - Coliere > Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 13
+      "in_stock_count": 14
     },
     {
       "id": "componente-e-bike",
@@ -7871,7 +7851,7 @@
       "id": "cosuri-fata",
       "name": "Cosuri  Fata",
       "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Fata",
-      "product_count": 22,
+      "product_count": 21,
       "in_stock_count": 16
     },
     {
@@ -8018,7 +7998,7 @@
       "id": "intretinere",
       "name": "Intretinere",
       "full_path": "Service > Intretinere Biciclete > Intretinere",
-      "product_count": 18,
+      "product_count": 17,
       "in_stock_count": 9
     },
     {
@@ -8124,7 +8104,7 @@
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
       "product_count": 101,
-      "in_stock_count": 73
+      "in_stock_count": 74
     },
     {
       "id": "manusi-ciclism",
@@ -8305,15 +8285,15 @@
       "id": "roti-fata",
       "name": "Roti Fata",
       "full_path": "Roti > Roti Bicicleta > Roti Fata",
-      "product_count": 36,
-      "in_stock_count": 35
+      "product_count": 38,
+      "in_stock_count": 37
     },
     {
       "id": "roti-spate",
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
-      "product_count": 49,
-      "in_stock_count": 41
+      "product_count": 51,
+      "in_stock_count": 43
     },
     {
       "id": "roti-spite",
@@ -8361,7 +8341,7 @@
       "id": "sei",
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
-      "product_count": 80,
+      "product_count": 79,
       "in_stock_count": 66
     },
     {
@@ -8410,7 +8390,7 @@
       "id": "sonerii",
       "name": "Sonerii",
       "full_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
-      "product_count": 52,
+      "product_count": 51,
       "in_stock_count": 40
     },
     {
@@ -8452,7 +8432,7 @@
       "id": "suporturi-bidon",
       "name": "Suporturi Bidon",
       "full_path": "Accesorii > Bidoane - Suporti > Suporturi Bidon",
-      "product_count": 50,
+      "product_count": 49,
       "in_stock_count": 40
     },
     {
@@ -8508,7 +8488,7 @@
       "id": "trotinete-electrice",
       "name": "Trotinete Electrice",
       "full_path": "E-Mobility > Trotinete Electrice",
-      "product_count": 24,
+      "product_count": 21,
       "in_stock_count": 13
     },
     {

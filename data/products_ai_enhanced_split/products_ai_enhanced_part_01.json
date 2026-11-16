@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-15T03:07:20.657196+00:00",
+  "last_updated": "2026-11-16T03:08:17.117467+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 1,
     "total_parts": 19,
     "product_range": "1-250",
-    "original_total": 4700
+    "original_total": 4694
   },
   "products": [
     {
@@ -6159,8 +6159,8 @@
       "brand": "SXT",
       "category": "Sei",
       "category_path": "Componente > Sei - Tije - Coliere > Sei",
-      "price": 48.4,
-      "price_net": 40.0,
+      "price": 55.0,
+      "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 13,
@@ -6192,8 +6192,8 @@
       "brand": "SXT",
       "category": "Sei",
       "category_path": "Componente > Sei - Tije - Coliere > Sei",
-      "price": 49.5,
-      "price_net": 40.91,
+      "price": 55.0,
+      "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 6,
@@ -6220,8 +6220,8 @@
       "brand": "SXT",
       "category": "Sei",
       "category_path": "Componente > Sei - Tije - Coliere > Sei",
-      "price": 48.4,
-      "price_net": 40.0,
+      "price": 55.0,
+      "price_net": 45.45,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 3,
@@ -6348,8 +6348,8 @@
       "brand": "SXT",
       "category": "Coliere Tija Sa",
       "category_path": "Componente > Sei - Tije - Coliere > Coliere Tija Sa",
-      "price": 7.7,
-      "price_net": 6.36,
+      "price": 7.0,
+      "price_net": 5.79,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 36,
@@ -6408,8 +6408,8 @@
       "price": 17.6,
       "price_net": 14.55,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 3,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/colier-tija-sa-sxt-31-8-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/colier-tija-sa-sxt-31-8-mm-negru~8281714.jpg",
@@ -6845,8 +6845,8 @@
       "brand": "SXT",
       "category": "Tije Sa",
       "category_path": "Componente > Sei - Tije - Coliere > Tije Sa",
-      "price": 13.2,
-      "price_net": 10.91,
+      "price": 15.0,
+      "price_net": 12.4,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -7594,7 +7594,7 @@
       "id": "banda-janta",
       "name": "Banda Janta",
       "full_path": "Componente > Anvelope - Camere > Banda Janta",
-      "product_count": 31,
+      "product_count": 30,
       "in_stock_count": 24
     },
     {
@@ -7692,7 +7692,7 @@
       "id": "cabluri",
       "name": "Cabluri",
       "full_path": "Componente > Transmisie > Cabluri - Camasi > Cabluri",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 10
     },
     {
@@ -7763,7 +7763,7 @@
       "name": "Coliere Tija Sa",
       "full_path": "Componente > Sei - Tije - Coliere > Coliere Tija Sa",
       "product_count": 21,
-      "in_stock_count": 13
+      "in_stock_count": 14
     },
     {
       "id": "componente-e-bike",
@@ -7783,7 +7783,7 @@
       "id": "cosuri-fata",
       "name": "Cosuri  Fata",
       "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Fata",
-      "product_count": 22,
+      "product_count": 21,
       "in_stock_count": 16
     },
     {
@@ -7930,7 +7930,7 @@
       "id": "intretinere",
       "name": "Intretinere",
       "full_path": "Service > Intretinere Biciclete > Intretinere",
-      "product_count": 18,
+      "product_count": 17,
       "in_stock_count": 9
     },
     {
@@ -8036,7 +8036,7 @@
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
       "product_count": 101,
-      "in_stock_count": 73
+      "in_stock_count": 74
     },
     {
       "id": "manusi-ciclism",
@@ -8217,15 +8217,15 @@
       "id": "roti-fata",
       "name": "Roti Fata",
       "full_path": "Roti > Roti Bicicleta > Roti Fata",
-      "product_count": 36,
-      "in_stock_count": 35
+      "product_count": 38,
+      "in_stock_count": 37
     },
     {
       "id": "roti-spate",
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
-      "product_count": 49,
-      "in_stock_count": 41
+      "product_count": 51,
+      "in_stock_count": 43
     },
     {
       "id": "roti-spite",
@@ -8273,7 +8273,7 @@
       "id": "sei",
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
-      "product_count": 80,
+      "product_count": 79,
       "in_stock_count": 66
     },
     {
@@ -8322,7 +8322,7 @@
       "id": "sonerii",
       "name": "Sonerii",
       "full_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
-      "product_count": 52,
+      "product_count": 51,
       "in_stock_count": 40
     },
     {
@@ -8364,7 +8364,7 @@
       "id": "suporturi-bidon",
       "name": "Suporturi Bidon",
       "full_path": "Accesorii > Bidoane - Suporti > Suporturi Bidon",
-      "product_count": 50,
+      "product_count": 49,
       "in_stock_count": 40
     },
     {
@@ -8420,7 +8420,7 @@
       "id": "trotinete-electrice",
       "name": "Trotinete Electrice",
       "full_path": "E-Mobility > Trotinete Electrice",
-      "product_count": 24,
+      "product_count": 21,
       "in_stock_count": 13
     },
     {
