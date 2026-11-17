@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-16T03:08:17.117467+00:00",
-  "total_products": 194,
+  "last_updated": "2026-11-17T03:07:30.849295+00:00",
+  "total_products": 195,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 19,
     "total_parts": 19,
-    "product_range": "4501-4694",
-    "original_total": 4694
+    "product_range": "4501-4695",
+    "original_total": 4695
   },
   "products": [
     {
@@ -5617,6 +5617,36 @@
         "Roti Fata",
         "SXT"
       ]
+    },
+    {
+      "id": "388046",
+      "sku": "388046",
+      "name": "Set Roti SXT R-97 29(622-25C) 32 H TLR HG Negru",
+      "brand": "SXT",
+      "category": "Seturi Roti",
+      "category_path": "Roti > Roti Bicicleta > Seturi Roti",
+      "price": 1200.0,
+      "price_net": 991.74,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 5,
+      "url": "https://www.bikestylish.ro/set-roti-sxt-r-97-29-622-25c-32-h-tlr-hg-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/set-roti-sxt-r-97-29-622-25c-32-h-tlr-hg-negru~15814575.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/set-roti-sxt-r-97-29-622-25c-32-h-tlr-hg-negru~15814575.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/set-roti-sxt-r-97-29-622-25c-32-h-tlr-hg-negru~15814491.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-sxt-r-97-29-622-25c-32-h-tlr-hg-negru~15814578.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-sxt-r-97-29-622-25c-32-h-tlr-hg-negru~15814368.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/set-roti-sxt-r-97-29-622-25c-32-h-tlr-hg-negru~15814218.jpg"
+      ],
+      "tags": [
+        "Roti",
+        "SXT",
+        "Seturi Roti"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -5954,7 +5984,7 @@
       "name": "Carcase - Prinderi SmartPhone",
       "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
       "product_count": 9,
-      "in_stock_count": 6
+      "in_stock_count": 7
     },
     {
       "id": "casete-butuci",
@@ -6178,7 +6208,7 @@
       "name": "Jante Frane Disc",
       "full_path": "Roti > Jante > Jante Frane Disc",
       "product_count": 55,
-      "in_stock_count": 30
+      "in_stock_count": 31
     },
     {
       "id": "jante-frane-v-brake",
@@ -6527,8 +6557,8 @@
       "id": "seturi-roti",
       "name": "Seturi Roti",
       "full_path": "Roti > Roti Bicicleta > Seturi Roti",
-      "product_count": 27,
-      "in_stock_count": 25
+      "product_count": 28,
+      "in_stock_count": 26
     },
     {
       "id": "sistem-velo-fit",

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-16T03:08:17.117467+00:00",
+  "last_updated": "2026-11-17T03:07:30.849295+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 1,
     "total_parts": 19,
     "product_range": "1-250",
-    "original_total": 4694
+    "original_total": 4695
   },
   "products": [
     {
@@ -650,7 +650,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 16,
       "weight_kg": 0.87,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-26-x-1-95-50-559-k-898.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/anvelopa-kenda-26-x-1-95-50-559-k-898~8278570.jpg",
@@ -1673,7 +1673,7 @@
       "price_net": 12.4,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 138,
+      "stock_quantity": 134,
       "weight_kg": 0.18,
       "url": "https://www.bikestylish.ro/camera-kuj0-700-x-28-45c-28-47-622-630-635-av-35mm-oem.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/camera-kuj0-700-x-28-45c-28-47-622-630-635-av-35mm-oem~8278699.jpg",
@@ -3453,8 +3453,8 @@
       "price": 82.5,
       "price_net": 68.18,
       "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
+      "availability": "limited",
+      "stock_quantity": 1,
       "url": "https://www.bikestylish.ro/prindere-pipa-m-wave-bike-mount-ahead.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/prindere-pipa-m-wave-bike-mount-ahead~8278942.jpg",
       "images": [
@@ -5985,7 +5985,7 @@
       "price_net": 63.64,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/sa-m-wave-comp-iv.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/sa-m-wave-comp-iv~8280196.jpg",
@@ -6693,7 +6693,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 1,
       "weight_kg": 0.29,
       "url": "https://www.bikestylish.ro/tija-sa-m-wave-sp-c3-350-25-4-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/tija-sa-m-wave-sp-c3-350-25-4-mm-negru~8280265.jpg",
@@ -6932,7 +6932,7 @@
       "price_net": 86.36,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 41,
+      "stock_quantity": 40,
       "weight_kg": 0.17,
       "url": "https://www.bikestylish.ro/oglinda-bicicleta-m-wave-spy-space-stanga.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/oglinda-bicicleta-m-wave-spy-space-stanga~8280292.jpg",
@@ -7243,7 +7243,7 @@
       "price_net": 0.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 2829,
+      "stock_quantity": 2789,
       "url": "https://www.bikestylish.ro/niplu-brass-cnspoke-13g-b-13-2-3-mm-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/niplu-brass-cnspoke-13g-b-13-2-3-mm-silver~8280331.jpg",
       "images": [
@@ -7735,7 +7735,7 @@
       "name": "Carcase - Prinderi SmartPhone",
       "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
       "product_count": 9,
-      "in_stock_count": 6
+      "in_stock_count": 7
     },
     {
       "id": "casete-butuci",
@@ -7959,7 +7959,7 @@
       "name": "Jante Frane Disc",
       "full_path": "Roti > Jante > Jante Frane Disc",
       "product_count": 55,
-      "in_stock_count": 30
+      "in_stock_count": 31
     },
     {
       "id": "jante-frane-v-brake",
@@ -8308,8 +8308,8 @@
       "id": "seturi-roti",
       "name": "Seturi Roti",
       "full_path": "Roti > Roti Bicicleta > Seturi Roti",
-      "product_count": 27,
-      "in_stock_count": 25
+      "product_count": 28,
+      "in_stock_count": 26
     },
     {
       "id": "sistem-velo-fit",
