@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T03:07:30.849295+00:00",
+  "last_updated": "2026-11-18T03:07:44.168273+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -600,7 +600,7 @@
       "price_net": 37.19,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 192,
+      "stock_quantity": 187,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/ureche-cadru-sxt-gh-sm1.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-sxt-gh-sm1~8284441.jpg",
@@ -982,7 +982,7 @@
       "price_net": 22.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 95,
+      "stock_quantity": 90,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/pompa-mini-beto-double-shot-plastic.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pompa-mini-beto-double-shot-plastic~8284483.jpg",
@@ -1983,8 +1983,8 @@
       "price": 49.5,
       "price_net": 40.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "url": "https://www.bikestylish.ro/incalzitoare-brate-m-wave-l-xl.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/incalzitoare-brate-m-wave-l-xl~8284600.jpg",
       "images": [
@@ -2490,7 +2490,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 69,
+      "stock_quantity": 67,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/cagula-bumbac-sxt-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/cagula-bumbac-sxt-negru~8284663.jpg",
@@ -7421,8 +7421,8 @@
       "id": "butuci-frana-disc",
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
-      "product_count": 121,
-      "in_stock_count": 67
+      "product_count": 122,
+      "in_stock_count": 68
     },
     {
       "id": "butuci-pedalieri",
@@ -7568,7 +7568,7 @@
       "id": "cricuri-spate",
       "name": "Cricuri Spate",
       "full_path": "Accesorii > Cricuri Bicicleta > Cricuri Spate",
-      "product_count": 14,
+      "product_count": 13,
       "in_stock_count": 7
     },
     {
@@ -7702,7 +7702,7 @@
       "name": "Jachete - Veste Ciclism",
       "full_path": "Echipamente > Imbracaminte > Jachete - Veste Ciclism",
       "product_count": 6,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "jante-fat-bike",
@@ -7793,7 +7793,7 @@
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
       "product_count": 101,
-      "in_stock_count": 74
+      "in_stock_count": 73
     },
     {
       "id": "manusi-ciclism",

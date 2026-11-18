@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T03:07:30.849295+00:00",
+  "last_updated": "2026-11-18T03:07:44.168273+00:00",
   "total_products": 195,
   "source": "sportxteam_feed",
   "part_info": {
@@ -9,35 +9,6 @@
     "original_total": 4695
   },
   "products": [
-    {
-      "id": "410540",
-      "sku": "410540",
-      "name": "Mansoane SXT Cloud Base 2 S 130/95",
-      "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "Componente > Ghidoane - Directie > Mansoane",
-      "price": 20.0,
-      "price_net": 16.53,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 49,
-      "weight_kg": 0.16,
-      "url": "https://www.bikestylish.ro/mansoane-sxt-cloud-base-2-s-130-95.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/mansoane-sxt-cloud-base-2-s-130-95~14681577.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/mansoane-sxt-cloud-base-2-s-130-95~14681577.jpg"
-      ],
-      "category_description": "Handlebar grips",
-      "tags": [
-        "2 viteze",
-        "Componente",
-        "Mansoane",
-        "SXT"
-      ],
-      "specs": {
-        "speeds": 2
-      }
-    },
     {
       "id": "719907",
       "sku": "719907",
@@ -1446,7 +1417,7 @@
       "price_net": 18.18,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 119,
+      "stock_quantity": 109,
       "url": "https://www.bikestylish.ro/camera-standard-vittoria-26x1-50-2-0-av-schrader-48mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/camera-standard-vittoria-26x1-50-2-0-av-schrader-48mm~15267414.jpg",
       "images": [
@@ -1886,7 +1857,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 21,
       "weight_kg": 0.65,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-eurotrek-700x38c-40-622-22tpi-negru-reflex.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/anvelopa-kenda-eurotrek-700x38c-40-622-22tpi-negru-reflex~15370035.jpg",
@@ -3614,7 +3585,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 9,
       "url": "https://www.bikestylish.ro/anvelopa-vittoria-urbano-700x35c-37-622-negru-rigid-banda-reflectorizanta-prb-3-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-vittoria-urbano-700x35c-37-622-negru-rigid-banda~15566367.jpg",
       "images": [
@@ -5078,8 +5049,8 @@
       "secondary_categories": [
         "Service > PRODUSE SERVICE"
       ],
-      "price": 87.0,
-      "price_net": 71.9,
+      "price": 65.0,
+      "price_net": 53.72,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -5647,6 +5618,34 @@
       "specs": {
         "color": "Negru"
       }
+    },
+    {
+      "id": "A4001",
+      "sku": "A4001",
+      "name": "Butuc Fata SHIMANO HG-MT410 15 x 110 mm 28 H CL",
+      "brand": "SHIMANO",
+      "category": "Butuci Frana Disc",
+      "category_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
+      "price": 120.0,
+      "price_net": 99.17,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 3,
+      "url": "https://www.bikestylish.ro/butuc-fata-shimano-hg-mt410-15-x-110-mm-28-h-cl.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-fata-shimano-hg-mt410-15-x-110-mm-28-h-cl~15816795.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/butuc-fata-shimano-hg-mt410-15-x-110-mm-28-h-cl~15816795.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/butuc-fata-shimano-hg-mt410-15-x-110-mm-28-h-cl~15816798.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/1/butuc-fata-shimano-hg-mt410-15-x-110-mm-28-h-cl~15816801.jpg"
+      ],
+      "tags": [
+        "Butuci Frana Disc",
+        "Roti",
+        "SHIMANO"
+      ],
+      "specs": {
+        "dimensions": "15 x 110"
+      }
     }
   ],
   "categories": [
@@ -5913,8 +5912,8 @@
       "id": "butuci-frana-disc",
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
-      "product_count": 121,
-      "in_stock_count": 67
+      "product_count": 122,
+      "in_stock_count": 68
     },
     {
       "id": "butuci-pedalieri",
@@ -6060,7 +6059,7 @@
       "id": "cricuri-spate",
       "name": "Cricuri Spate",
       "full_path": "Accesorii > Cricuri Bicicleta > Cricuri Spate",
-      "product_count": 14,
+      "product_count": 13,
       "in_stock_count": 7
     },
     {
@@ -6194,7 +6193,7 @@
       "name": "Jachete - Veste Ciclism",
       "full_path": "Echipamente > Imbracaminte > Jachete - Veste Ciclism",
       "product_count": 6,
-      "in_stock_count": 5
+      "in_stock_count": 4
     },
     {
       "id": "jante-fat-bike",
@@ -6285,7 +6284,7 @@
       "name": "Mansoane",
       "full_path": "Componente > Ghidoane - Directie > Mansoane",
       "product_count": 101,
-      "in_stock_count": 74
+      "in_stock_count": 73
     },
     {
       "id": "manusi-ciclism",
