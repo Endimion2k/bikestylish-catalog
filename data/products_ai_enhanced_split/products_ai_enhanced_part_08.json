@@ -1,66 +1,14 @@
 {
-  "last_updated": "2026-11-18T03:07:44.168273+00:00",
+  "last_updated": "2026-11-19T03:07:22.724137+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 8,
     "total_parts": 19,
     "product_range": "1751-2000",
-    "original_total": 4695
+    "original_total": 4689
   },
   "products": [
-    {
-      "id": "D187",
-      "sku": "D187",
-      "ean": "7290107117937",
-      "name": "Ureche Cadru PILO D187 BTWIN, Decathlon",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 165.0,
-      "price_net": 136.36,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 2,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d187-btwin-decathlon.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d187-btwin-decathlon~8292481.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d187-btwin-decathlon~8292481.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d187-btwin-decathlon~8293093.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d187-btwin-decathlon~8293096.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D192",
-      "sku": "D192",
-      "ean": "7290107111812",
-      "name": "Ureche Cadru PILO D192 Lapierre, Mosso, RL, Decathlon",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 220.0,
-      "price_net": 181.82,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 5,
-      "weight_kg": 0.03,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d192-lapierre-mosso-rl-decathlon.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d192-lapierre-mosso-rl-decathlon~8292484.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d192-lapierre-mosso-rl-decathlon~8292484.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D193",
       "sku": "D193",
@@ -301,8 +249,8 @@
       "price": 143.0,
       "price_net": 118.18,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 4,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d722-focus.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d722-focus~8292514.jpg",
@@ -1095,8 +1043,8 @@
       "brand": "SXT",
       "category": "Angrenaje",
       "category_path": "Componente > Transmisie > Pedaliere > Angrenaje",
-      "price": 82.5,
-      "price_net": 68.18,
+      "price": 73.0,
+      "price_net": 60.33,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 16,
@@ -3350,7 +3298,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 344,
+      "stock_quantity": 342,
       "weight_kg": 0.92,
       "url": "https://www.bikestylish.ro/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-kenda-14-x-2-50-64-254-k-1087-negru~8324269.jpg",
@@ -5790,8 +5738,8 @@
       "price": 22.0,
       "price_net": 18.18,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 16,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.78,
       "url": "https://www.bikestylish.ro/conducta-hidraulica-promax-2-2-mm-1-m.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/2/conducta-hidraulica-promax-2-2-mm-1-m~8325382.jpg",
@@ -6618,8 +6566,8 @@
       "brand": "SXT",
       "category": "Ghidoane",
       "category_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "price": 59.0,
-      "price_net": 48.76,
+      "price": 55.0,
+      "price_net": 45.45,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -6787,8 +6735,8 @@
       "brand": "SXT",
       "category": "Pipe Ghidon",
       "category_path": "Componente > Ghidoane - Directie > Pipe Ghidon",
-      "price": 71.5,
-      "price_net": 59.09,
+      "price": 65.0,
+      "price_net": 53.72,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -7200,6 +7148,65 @@
         "M-WAVE",
         "Sonerii"
       ]
+    },
+    {
+      "id": "420270",
+      "sku": "420270",
+      "ean": "4015493420309",
+      "name": "Sonerie Electrica M-WAVE",
+      "brand": "M-WAVE",
+      "category": "Sonerii",
+      "category_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
+      "price": 53.9,
+      "price_net": 44.55,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 9,
+      "weight_kg": 0.07,
+      "url": "https://www.bikestylish.ro/sonerie-electrica-m-wave.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sonerie-electrica-m-wave~8325874.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/4/sonerie-electrica-m-wave~8325874.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/sonerie-electrica-m-wave~8325883.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/7/sonerie-electrica-m-wave~8325877.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/sonerie-electrica-m-wave~8325880.jpg"
+      ],
+      "tags": [
+        "Accesorii",
+        "E-Bike",
+        "M-WAVE",
+        "Sonerii"
+      ],
+      "specs": {
+        "bike_type": [
+          "E-Bike"
+        ]
+      }
+    },
+    {
+      "id": "422008",
+      "sku": "422008",
+      "ean": "2800220000006",
+      "name": "Trompeta Nichelata SXT Corn",
+      "brand": "SXT",
+      "category": "Sonerii",
+      "category_path": "Accesorii > Sonerii - Oglinzi > Sonerii",
+      "price": 27.5,
+      "price_net": 22.73,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.13,
+      "url": "https://www.bikestylish.ro/trompeta-nichelata-sxt-corn.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/trompeta-nichelata-sxt-corn~8325886.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/trompeta-nichelata-sxt-corn~8325886.jpg"
+      ],
+      "tags": [
+        "Accesorii",
+        "SXT",
+        "Sonerii"
+      ]
     }
   ],
   "categories": [
@@ -7341,7 +7348,7 @@
       "name": "Aparatori Fata",
       "full_path": "Accesorii > Aparatori Noroi > Aparatori Fata",
       "product_count": 7,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "aparatori-spate",
@@ -7368,7 +7375,7 @@
       "id": "bmx",
       "name": "BMX",
       "full_path": "Echipamente > Casti > BMX",
-      "product_count": 2,
+      "product_count": 1,
       "in_stock_count": 1
     },
     {
@@ -7558,7 +7565,7 @@
       "name": "Chei Universale",
       "full_path": "Service > Unelte Service > Chei Universale",
       "product_count": 17,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "coliere-tija-sa",
@@ -7670,14 +7677,14 @@
       "name": "Foi Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Foi Angrenaje",
       "product_count": 36,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "frane-disc",
       "name": "Frane Disc",
       "full_path": "Componente > Sisteme Franare > Frane Disc",
       "product_count": 14,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "frane-v-break",
@@ -7844,7 +7851,7 @@
       "id": "manusi-ciclism",
       "name": "Manusi Ciclism",
       "full_path": "Echipamente > Manusi Ciclism",
-      "product_count": 44,
+      "product_count": 43,
       "in_stock_count": 27
     },
     {
@@ -8027,7 +8034,7 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 51,
-      "in_stock_count": 43
+      "in_stock_count": 44
     },
     {
       "id": "roti-spite",
@@ -8069,14 +8076,14 @@
       "name": "Schimbatoare Spate",
       "full_path": "Componente > Transmisie > Schimbatoare > Schimbatoare Spate",
       "product_count": 24,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "sei",
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
       "product_count": 79,
-      "in_stock_count": 66
+      "in_stock_count": 65
     },
     {
       "id": "sei-tije-coliere",
@@ -8222,7 +8229,7 @@
       "id": "trotinete-electrice",
       "name": "Trotinete Electrice",
       "full_path": "E-Mobility > Trotinete Electrice",
-      "product_count": 21,
+      "product_count": 17,
       "in_stock_count": 13
     },
     {
@@ -8237,7 +8244,7 @@
       "name": "Tubeless",
       "full_path": "Componente > Anvelope - Camere > Tubeless",
       "product_count": 18,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "unelte-biciclete",

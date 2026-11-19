@@ -1,77 +1,14 @@
 {
-  "last_updated": "2026-11-18T03:07:44.168273+00:00",
+  "last_updated": "2026-11-19T03:07:22.724137+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 10,
     "total_parts": 19,
     "product_range": "2251-2500",
-    "original_total": 4695
+    "original_total": 4689
   },
   "products": [
-    {
-      "id": "613620",
-      "sku": "613620",
-      "name": "Cadru E-Bike MTB 27,5 Aluminiu",
-      "brand": "SXT",
-      "category": "Cadre - Furci E-Bike",
-      "category_path": "E-Mobility > Cadre - Furci E-Bike",
-      "price": 3294.5,
-      "price_net": 2722.73,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/cadru-e-bike-mtb-27-5-aluminiu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/cadru-e-bike-mtb-27-5-aluminiu~8328238.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/cadru-e-bike-mtb-27-5-aluminiu~8328238.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/cadru-e-bike-mtb-27-5-aluminiu~8328241.jpg"
-      ],
-      "tags": [
-        "Aluminiu",
-        "Cadre - Furci E-Bike",
-        "E-Bike",
-        "E-Mobility",
-        "MTB",
-        "SXT"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB",
-          "E-Bike"
-        ],
-        "material": "Aluminiu"
-      }
-    },
-    {
-      "id": "640142",
-      "sku": "640142",
-      "ean": "887539027216",
-      "name": "Thru Axle M-WAVE 142-148 mm SYNTACE P.F. - 1.0 mm",
-      "brand": "M-WAVE",
-      "category": "Axe - Accesorii Butuci",
-      "category_path": "Roti > Butuci - Accesorii > Axe - Accesorii Butuci",
-      "price": 219.0,
-      "price_net": 180.99,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "weight_kg": 0.13,
-      "url": "https://www.bikestylish.ro/thru-axle-m-wave-142-148-mm-syntace-p-f-1-0-mm.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/thru-axle-m-wave-142-148-mm-syntace-p-f-1-0-mm~8328253.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/thru-axle-m-wave-142-148-mm-syntace-p-f-1-0-mm~8328253.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/thru-axle-m-wave-142-148-mm-syntace-p-f-1-0-mm~11302221.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/thru-axle-m-wave-142-148-mm-syntace-p-f-1-0-mm~8328256.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/thru-axle-m-wave-142-148-mm-syntace-p-f-1-0-mm~8328259.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/thru-axle-m-wave-142-148-mm-syntace-p-f-1-0-mm~8328262.jpg"
-      ],
-      "tags": [
-        "Axe - Accesorii Butuci",
-        "M-WAVE",
-        "Roti"
-      ]
-    },
     {
       "id": "470329",
       "sku": "470329",
@@ -463,8 +400,8 @@
       "price": 49.0,
       "price_net": 40.5,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/husa-sa-cu-gel-velo-standard-xl-290-260-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/husa-sa-cu-gel-velo-standard-xl-290-260-mm~8328505.jpg",
@@ -1558,7 +1495,7 @@
       "price_net": 27.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 44,
+      "stock_quantity": 42,
       "weight_kg": 0.27,
       "url": "https://www.bikestylish.ro/pedale-plastic-sxt-steady-flat-2-epb-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/pedale-plastic-sxt-steady-flat-2-epb-negru~8328910.jpg",
@@ -1948,7 +1885,7 @@
       "price_net": 185.95,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 5,
+      "stock_quantity": 4,
       "weight_kg": 0.62,
       "url": "https://www.bikestylish.ro/protectie-antipana-tannus-armour-27-5x1-95-2-50.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/protectie-antipana-tannus-armour-27-5x1-95-2-50~8329108.jpg",
@@ -4845,130 +4782,6 @@
       ]
     },
     {
-      "id": "525054",
-      "sku": "525054",
-      "ean": "2802109000008",
-      "name": "Anvelopa Plina Trotineta Fagure 8,5x2.0 Negru-Rosu",
-      "brand": "SXT",
-      "category": "Trotinete Electrice",
-      "category_path": "E-Mobility > Trotinete Electrice",
-      "price": 97.9,
-      "price_net": 80.91,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/anvelopa-plina-trotineta-fagure-8-5x2-0-negru-rosu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-plina-trotineta-fagure-8-5x2-0-negru-rosu~8330227.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/anvelopa-plina-trotineta-fagure-8-5x2-0-negru-rosu~8330227.jpg"
-      ],
-      "tags": [
-        "E-Bike",
-        "E-Mobility",
-        "SXT",
-        "Trotinete Electrice"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ],
-        "color": "Negru"
-      }
-    },
-    {
-      "id": "525057",
-      "sku": "525057",
-      "ean": "2801680000001",
-      "name": "Anvelopa Plina Trotineta Fagure 8,5x2.0 Rosu",
-      "brand": "SXT",
-      "category": "Trotinete Electrice",
-      "category_path": "E-Mobility > Trotinete Electrice",
-      "price": 86.9,
-      "price_net": 71.82,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/anvelopa-plina-trotineta-fagure-8-5x2-0-rosu.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-plina-trotineta-fagure-8-5x2-0-rosu~8330239.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/anvelopa-plina-trotineta-fagure-8-5x2-0-rosu~8330239.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/anvelopa-plina-trotineta-fagure-8-5x2-0-rosu~8330242.jpg"
-      ],
-      "tags": [
-        "E-Bike",
-        "E-Mobility",
-        "SXT",
-        "Trotinete Electrice"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ],
-        "color": "Rosu"
-      }
-    },
-    {
-      "id": "659868",
-      "sku": "659868",
-      "ean": "2801480000003",
-      "name": "Maneta Frana M365, M365 Pro, Essential, 1S si Pro 2",
-      "brand": "SXT",
-      "category": "Trotinete Electrice",
-      "category_path": "E-Mobility > Trotinete Electrice",
-      "price": 58.3,
-      "price_net": 48.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/maneta-frana-m365-m365-pro-essential-1s-si-pro-2.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/maneta-frana-m365-m365-pro-essential-1s-si-pro-2~8330245.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/5/maneta-frana-m365-m365-pro-essential-1s-si-pro-2~8330245.jpg"
-      ],
-      "tags": [
-        "1 viteze",
-        "E-Bike",
-        "E-Mobility",
-        "SXT",
-        "Trotinete Electrice"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ],
-        "speeds": 1
-      }
-    },
-    {
-      "id": "689875",
-      "sku": "689875",
-      "name": "Aparatoare Spate , Carlig si Suruburi pentru Trotineta Electrica ANLEN E9X",
-      "brand": "SXT",
-      "category": "Trotinete Electrice",
-      "category_path": "E-Mobility > Trotinete Electrice",
-      "price": 64.9,
-      "price_net": 53.64,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/aparatoare-spate-carlig-si-suruburi-pentru-trotineta-electrica-anlen-e9x.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/aparatoare-spate-carlig-si-suruburi-pentru-trotineta-electrica-anlen~8330251.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/aparatoare-spate-carlig-si-suruburi-pentru-trotineta-electrica-anlen~8330251.jpg"
-      ],
-      "tags": [
-        "E-Bike",
-        "E-Mobility",
-        "SXT",
-        "Trotinete Electrice"
-      ],
-      "specs": {
-        "bike_type": [
-          "E-Bike"
-        ]
-      }
-    },
-    {
       "id": "6598861",
       "sku": "6598861",
       "name": "Incarcator Trotineta Electrica Xiaomi m365/Pro Ninebot ES si F series",
@@ -7075,6 +6888,159 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D137",
+      "sku": "D137",
+      "ean": "7290107111263",
+      "name": "Ureche Cadru PILO D137 Kuota",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 242.0,
+      "price_net": 200.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d137-kuota.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d137-kuota~8330707.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d137-kuota~8330707.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D140",
+      "sku": "D140",
+      "ean": "7290107111294",
+      "name": "Ureche Cadru PILO D140 Orange",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d140-orange.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d140-orange~8330710.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d140-orange~8330710.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ],
+      "specs": {
+        "color": "Orange"
+      }
+    },
+    {
+      "id": "D147",
+      "sku": "D147",
+      "ean": "7290107111362",
+      "name": "Ureche Cadru PILO D147 BH, GT",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 242.0,
+      "price_net": 200.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d147-bh-gt.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d147-bh-gt~8330713.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d147-bh-gt~8330713.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D159",
+      "sku": "D159",
+      "ean": "7290107111485",
+      "name": "Ureche Cadru PILO D159 Columbia",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 385.0,
+      "price_net": 318.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d159-columbia.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d159-columbia~8330716.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d159-columbia~8330716.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D163",
+      "sku": "D163",
+      "ean": "7290107111522",
+      "name": "Ureche Cadru PILO D163 Giant",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 242.0,
+      "price_net": 200.0,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d163-giant.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d163-giant~8330719.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d163-giant~8330719.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D167",
+      "sku": "D167",
+      "ean": "7290107111560",
+      "name": "Ureche Cadru PILO D167 Kona",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 462.0,
+      "price_net": 381.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d167-kona.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d167-kona~8330722.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d167-kona~8330722.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7216,7 +7182,7 @@
       "name": "Aparatori Fata",
       "full_path": "Accesorii > Aparatori Noroi > Aparatori Fata",
       "product_count": 7,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "aparatori-spate",
@@ -7243,7 +7209,7 @@
       "id": "bmx",
       "name": "BMX",
       "full_path": "Echipamente > Casti > BMX",
-      "product_count": 2,
+      "product_count": 1,
       "in_stock_count": 1
     },
     {
@@ -7433,7 +7399,7 @@
       "name": "Chei Universale",
       "full_path": "Service > Unelte Service > Chei Universale",
       "product_count": 17,
-      "in_stock_count": 16
+      "in_stock_count": 15
     },
     {
       "id": "coliere-tija-sa",
@@ -7545,14 +7511,14 @@
       "name": "Foi Angrenaje",
       "full_path": "Componente > Transmisie > Pedaliere > Foi Angrenaje",
       "product_count": 36,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "frane-disc",
       "name": "Frane Disc",
       "full_path": "Componente > Sisteme Franare > Frane Disc",
       "product_count": 14,
-      "in_stock_count": 7
+      "in_stock_count": 6
     },
     {
       "id": "frane-v-break",
@@ -7719,7 +7685,7 @@
       "id": "manusi-ciclism",
       "name": "Manusi Ciclism",
       "full_path": "Echipamente > Manusi Ciclism",
-      "product_count": 44,
+      "product_count": 43,
       "in_stock_count": 27
     },
     {
@@ -7902,7 +7868,7 @@
       "name": "Roti Spate",
       "full_path": "Roti > Roti Bicicleta > Roti Spate",
       "product_count": 51,
-      "in_stock_count": 43
+      "in_stock_count": 44
     },
     {
       "id": "roti-spite",
@@ -7944,14 +7910,14 @@
       "name": "Schimbatoare Spate",
       "full_path": "Componente > Transmisie > Schimbatoare > Schimbatoare Spate",
       "product_count": 24,
-      "in_stock_count": 19
+      "in_stock_count": 18
     },
     {
       "id": "sei",
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
       "product_count": 79,
-      "in_stock_count": 66
+      "in_stock_count": 65
     },
     {
       "id": "sei-tije-coliere",
@@ -8097,7 +8063,7 @@
       "id": "trotinete-electrice",
       "name": "Trotinete Electrice",
       "full_path": "E-Mobility > Trotinete Electrice",
-      "product_count": 21,
+      "product_count": 17,
       "in_stock_count": 13
     },
     {
@@ -8112,7 +8078,7 @@
       "name": "Tubeless",
       "full_path": "Componente > Anvelope - Camere > Tubeless",
       "product_count": 18,
-      "in_stock_count": 12
+      "in_stock_count": 11
     },
     {
       "id": "unelte-biciclete",
