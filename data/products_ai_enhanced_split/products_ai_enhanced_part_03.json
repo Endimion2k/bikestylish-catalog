@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-19T03:07:22.724137+00:00",
+  "last_updated": "2026-11-20T03:07:17.497803+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 3,
     "total_parts": 19,
     "product_range": "501-750",
-    "original_total": 4689
+    "original_total": 4702
   },
   "products": [
     {
@@ -2559,8 +2559,8 @@
       "price": 99.0,
       "price_net": 81.82,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 4,
+      "availability": "in_stock",
+      "stock_quantity": 6,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/ghidon-zoom-780-31-8-mm-negru-aluminiu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ghidon-zoom-780-31-8-mm-negru-aluminiu~8283025.jpg",
@@ -3394,7 +3394,7 @@
       "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 62,
+      "stock_quantity": 61,
       "weight_kg": 0.22,
       "url": "https://www.bikestylish.ro/pipa-downhill-mtb-zoom-31-8-1-1-8-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/pipa-downhill-mtb-zoom-31-8-1-1-8-mm~8283109.jpg",
@@ -4225,7 +4225,7 @@
       "price_net": 9.92,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 204,
+      "stock_quantity": 184,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/mansoane-sxt-plastic-soft-125-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/mansoane-sxt-plastic-soft-125-mm~15725097.jpg",
@@ -4609,7 +4609,7 @@
       "price_net": 8.26,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 11,
+      "stock_quantity": 9,
       "weight_kg": 0.05,
       "url": "https://www.bikestylish.ro/mansoane-copii-sxt-c71-negru-96mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/mansoane-copii-sxt-c71-negru-96mm~15734778.jpg",
@@ -5342,7 +5342,7 @@
       "price_net": 8.26,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 13,
+      "stock_quantity": 10,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/sonerie-sxt-bella-design-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sonerie-sxt-bella-design-negru~8283304.jpg",
@@ -6154,8 +6154,8 @@
       "brand": "M-WAVE",
       "category": "Depozitare Biciclete",
       "category_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
-      "price": 220.0,
-      "price_net": 181.82,
+      "price": 199.0,
+      "price_net": 164.46,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 2,
@@ -7519,7 +7519,7 @@
       "id": "angrenaje-e-bike",
       "name": "Angrenaje E-Bike",
       "full_path": "E-Mobility > Angrenaje E-Bike",
-      "product_count": 10,
+      "product_count": 11,
       "in_stock_count": 8
     },
     {
@@ -7694,7 +7694,7 @@
       "id": "bidoane-ciclism",
       "name": "Bidoane Ciclism",
       "full_path": "Accesorii > Bidoane - Suporti > Bidoane Ciclism",
-      "product_count": 20,
+      "product_count": 21,
       "in_stock_count": 17
     },
     {
@@ -7813,7 +7813,7 @@
       "id": "chei-universale",
       "name": "Chei Universale",
       "full_path": "Service > Unelte Service > Chei Universale",
-      "product_count": 17,
+      "product_count": 19,
       "in_stock_count": 15
     },
     {
@@ -7841,15 +7841,22 @@
       "id": "cosuri-fata",
       "name": "Cosuri  Fata",
       "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Fata",
-      "product_count": 21,
-      "in_stock_count": 16
+      "product_count": 22,
+      "in_stock_count": 17
     },
     {
       "id": "cosuri-spate",
       "name": "Cosuri  Spate",
       "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Spate",
-      "product_count": 17,
+      "product_count": 18,
       "in_stock_count": 12
+    },
+    {
+      "id": "cosuri-transport",
+      "name": "Cosuri Transport",
+      "full_path": "Accesorii > TRANSPORT > Cosuri Transport",
+      "product_count": 2,
+      "in_stock_count": 1
     },
     {
       "id": "cricuri-bicicleta",
@@ -7883,7 +7890,7 @@
       "id": "depozitare-biciclete",
       "name": "Depozitare Biciclete",
       "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
-      "product_count": 22,
+      "product_count": 23,
       "in_stock_count": 18
     },
     {
@@ -7947,14 +7954,14 @@
       "name": "Furci",
       "full_path": "Componente > Suspensii - Cuvete > Furci",
       "product_count": 31,
-      "in_stock_count": 19
+      "in_stock_count": 20
     },
     {
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "product_count": 44,
-      "in_stock_count": 31
+      "product_count": 46,
+      "in_stock_count": 33
     },
     {
       "id": "ghidoane-directie",
@@ -8030,7 +8037,7 @@
       "id": "lanturi",
       "name": "Lanturi",
       "full_path": "Componente > Transmisie > Lanturi > Lanturi",
-      "product_count": 82,
+      "product_count": 84,
       "in_stock_count": 58
     },
     {
@@ -8240,7 +8247,7 @@
       "id": "portbagaje-spate",
       "name": "Portbagaje Spate",
       "full_path": "Accesorii > TRANSPORT > Portbagaje > Portbagaje Spate",
-      "product_count": 17,
+      "product_count": 18,
       "in_stock_count": 15
     },
     {
@@ -8332,7 +8339,7 @@
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
       "product_count": 79,
-      "in_stock_count": 65
+      "in_stock_count": 62
     },
     {
       "id": "sei-tije-coliere",
@@ -8374,7 +8381,7 @@
       "name": "Sistem VELO - FIT",
       "full_path": "Componente > Sei - Tije - Coliere > Sistem VELO - FIT",
       "product_count": 22,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "sonerii",
@@ -8478,7 +8485,7 @@
       "id": "trotinete-electrice",
       "name": "Trotinete Electrice",
       "full_path": "E-Mobility > Trotinete Electrice",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 13
     },
     {

@@ -1,42 +1,14 @@
 {
-  "last_updated": "2026-11-19T03:07:22.724137+00:00",
+  "last_updated": "2026-11-20T03:07:17.497803+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
     "total_parts": 19,
     "product_range": "1501-1750",
-    "original_total": 4689
+    "original_total": 4702
   },
   "products": [
-    {
-      "id": "A07130753",
-      "sku": "A07130753",
-      "ean": "8590816036529",
-      "name": "Manusi Ciclism AUTHOR Team X6 XXL Negru/Galben Neon",
-      "brand": "AUTHOR",
-      "category": "Manusi Ciclism",
-      "category_path": "Echipamente > Manusi Ciclism",
-      "price": 48.0,
-      "price_net": 39.67,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
-      "url": "https://www.bikestylish.ro/manusi-ciclism-author-team-x6-xxl-negru-galben-neon.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/manusi-ciclism-author-team-x6-xxl-negru-galben-neon~8290489.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/manusi-ciclism-author-team-x6-xxl-negru-galben-neon~8290489.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/manusi-ciclism-author-team-x6-xxl-negru-galben-neon~8291119.jpg"
-      ],
-      "tags": [
-        "AUTHOR",
-        "Echipamente",
-        "Manusi Ciclism"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
     {
       "id": "A07130759",
       "sku": "A07130759",
@@ -541,7 +513,7 @@
       "price_net": 66.12,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 27,
+      "stock_quantity": 25,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/kit-de-reparatie-tubeless-m-wave-tubeless-fix-aluminiu-25-grame.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/kit-de-reparatie-tubeless-m-wave-tubeless-fix-aluminiu-25-grame~8290558.jpg",
@@ -1572,7 +1544,7 @@
       "price_net": 268.6,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 27,
+      "stock_quantity": 26,
       "weight_kg": 2.0,
       "url": "https://www.bikestylish.ro/roata-fata-sxt-concept-2r-29-622-x-21c-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/roata-fata-sxt-concept-2r-29-622-x-21c-32h~15618300.jpg",
@@ -1755,8 +1727,8 @@
       "brand": "SXT",
       "category": "Pipe Ghidon",
       "category_path": "Componente > Ghidoane - Directie > Pipe Ghidon",
-      "price": 121.0,
-      "price_net": 100.0,
+      "price": 125.0,
+      "price_net": 103.31,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 7,
@@ -4006,8 +3978,8 @@
       "brand": "NECO",
       "category": "Cuvete - Rulmenti",
       "category_path": "Componente > Suspensii - Cuvete > Cuvete - Rulmenti",
-      "price": 71.5,
-      "price_net": 59.09,
+      "price": 75.0,
+      "price_net": 61.98,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -4706,7 +4678,7 @@
       "price_net": 9.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 23,
+      "stock_quantity": 22,
       "weight_kg": 0.04,
       "url": "https://www.bikestylish.ro/suport-bidon-plastic-sxt-bc-29-negru-29-g.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/0/suport-bidon-plastic-sxt-bc-29-negru-29-g~8292190.jpg",
@@ -7150,6 +7122,31 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D193",
+      "sku": "D193",
+      "ean": "7290107111829",
+      "name": "Ureche Cadru PILO D193 Trek",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 121.0,
+      "price_net": 100.0,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 3,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d193-trek.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d193-trek~8292487.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d193-trek~8292487.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7213,7 +7210,7 @@
       "id": "angrenaje-e-bike",
       "name": "Angrenaje E-Bike",
       "full_path": "E-Mobility > Angrenaje E-Bike",
-      "product_count": 10,
+      "product_count": 11,
       "in_stock_count": 8
     },
     {
@@ -7388,7 +7385,7 @@
       "id": "bidoane-ciclism",
       "name": "Bidoane Ciclism",
       "full_path": "Accesorii > Bidoane - Suporti > Bidoane Ciclism",
-      "product_count": 20,
+      "product_count": 21,
       "in_stock_count": 17
     },
     {
@@ -7507,7 +7504,7 @@
       "id": "chei-universale",
       "name": "Chei Universale",
       "full_path": "Service > Unelte Service > Chei Universale",
-      "product_count": 17,
+      "product_count": 19,
       "in_stock_count": 15
     },
     {
@@ -7535,15 +7532,22 @@
       "id": "cosuri-fata",
       "name": "Cosuri  Fata",
       "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Fata",
-      "product_count": 21,
-      "in_stock_count": 16
+      "product_count": 22,
+      "in_stock_count": 17
     },
     {
       "id": "cosuri-spate",
       "name": "Cosuri  Spate",
       "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Spate",
-      "product_count": 17,
+      "product_count": 18,
       "in_stock_count": 12
+    },
+    {
+      "id": "cosuri-transport",
+      "name": "Cosuri Transport",
+      "full_path": "Accesorii > TRANSPORT > Cosuri Transport",
+      "product_count": 2,
+      "in_stock_count": 1
     },
     {
       "id": "cricuri-bicicleta",
@@ -7577,7 +7581,7 @@
       "id": "depozitare-biciclete",
       "name": "Depozitare Biciclete",
       "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
-      "product_count": 22,
+      "product_count": 23,
       "in_stock_count": 18
     },
     {
@@ -7641,14 +7645,14 @@
       "name": "Furci",
       "full_path": "Componente > Suspensii - Cuvete > Furci",
       "product_count": 31,
-      "in_stock_count": 19
+      "in_stock_count": 20
     },
     {
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "product_count": 44,
-      "in_stock_count": 31
+      "product_count": 46,
+      "in_stock_count": 33
     },
     {
       "id": "ghidoane-directie",
@@ -7724,7 +7728,7 @@
       "id": "lanturi",
       "name": "Lanturi",
       "full_path": "Componente > Transmisie > Lanturi > Lanturi",
-      "product_count": 82,
+      "product_count": 84,
       "in_stock_count": 58
     },
     {
@@ -7934,7 +7938,7 @@
       "id": "portbagaje-spate",
       "name": "Portbagaje Spate",
       "full_path": "Accesorii > TRANSPORT > Portbagaje > Portbagaje Spate",
-      "product_count": 17,
+      "product_count": 18,
       "in_stock_count": 15
     },
     {
@@ -8026,7 +8030,7 @@
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
       "product_count": 79,
-      "in_stock_count": 65
+      "in_stock_count": 62
     },
     {
       "id": "sei-tije-coliere",
@@ -8068,7 +8072,7 @@
       "name": "Sistem VELO - FIT",
       "full_path": "Componente > Sei - Tije - Coliere > Sistem VELO - FIT",
       "product_count": 22,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "sonerii",
@@ -8172,7 +8176,7 @@
       "id": "trotinete-electrice",
       "name": "Trotinete Electrice",
       "full_path": "E-Mobility > Trotinete Electrice",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 13
     },
     {

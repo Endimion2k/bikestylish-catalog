@@ -1,67 +1,14 @@
 {
-  "last_updated": "2026-11-19T03:07:22.724137+00:00",
+  "last_updated": "2026-11-20T03:07:17.497803+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 13,
     "total_parts": 19,
     "product_range": "3001-3250",
-    "original_total": 4689
+    "original_total": 4702
   },
   "products": [
-    {
-      "id": "D883",
-      "sku": "D883",
-      "ean": "7290117594629",
-      "name": "Ureche Cadru PILO D883 Norco",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 165.0,
-      "price_net": 136.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d883-norco.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d883-norco~8333461.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/1/ureche-cadru-pilo-d883-norco~8333461.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/ureche-cadru-pilo-d883-norco~8333464.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/7/ureche-cadru-pilo-d883-norco~8333467.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
-    {
-      "id": "D878",
-      "sku": "D878",
-      "ean": "7290117594575",
-      "name": "Ureche Cadru PILO D878 Bombtrack",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 165.0,
-      "price_net": 136.36,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d878-bombtrack.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d878-bombtrack~8333470.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d878-bombtrack~8333470.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d878-bombtrack~8333473.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D888",
       "sku": "D888",
@@ -6764,6 +6711,55 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D590",
+      "sku": "D590",
+      "ean": "7290107116084",
+      "name": "Ureche Cadru PILO D590 Fuji",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 328.9,
+      "price_net": 271.82,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d590-fuji.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d590-fuji~8335750.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d590-fuji~8335750.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
+    },
+    {
+      "id": "D62",
+      "sku": "D62",
+      "name": "Ureche Cadru PILO D62 Focus, Jamis",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 218.9,
+      "price_net": 180.91,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d62-focus-jamis.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d62-focus-jamis~8335753.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d62-focus-jamis~8335753.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6827,7 +6823,7 @@
       "id": "angrenaje-e-bike",
       "name": "Angrenaje E-Bike",
       "full_path": "E-Mobility > Angrenaje E-Bike",
-      "product_count": 10,
+      "product_count": 11,
       "in_stock_count": 8
     },
     {
@@ -7002,7 +6998,7 @@
       "id": "bidoane-ciclism",
       "name": "Bidoane Ciclism",
       "full_path": "Accesorii > Bidoane - Suporti > Bidoane Ciclism",
-      "product_count": 20,
+      "product_count": 21,
       "in_stock_count": 17
     },
     {
@@ -7121,7 +7117,7 @@
       "id": "chei-universale",
       "name": "Chei Universale",
       "full_path": "Service > Unelte Service > Chei Universale",
-      "product_count": 17,
+      "product_count": 19,
       "in_stock_count": 15
     },
     {
@@ -7149,15 +7145,22 @@
       "id": "cosuri-fata",
       "name": "Cosuri  Fata",
       "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Fata",
-      "product_count": 21,
-      "in_stock_count": 16
+      "product_count": 22,
+      "in_stock_count": 17
     },
     {
       "id": "cosuri-spate",
       "name": "Cosuri  Spate",
       "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Spate",
-      "product_count": 17,
+      "product_count": 18,
       "in_stock_count": 12
+    },
+    {
+      "id": "cosuri-transport",
+      "name": "Cosuri Transport",
+      "full_path": "Accesorii > TRANSPORT > Cosuri Transport",
+      "product_count": 2,
+      "in_stock_count": 1
     },
     {
       "id": "cricuri-bicicleta",
@@ -7191,7 +7194,7 @@
       "id": "depozitare-biciclete",
       "name": "Depozitare Biciclete",
       "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
-      "product_count": 22,
+      "product_count": 23,
       "in_stock_count": 18
     },
     {
@@ -7255,14 +7258,14 @@
       "name": "Furci",
       "full_path": "Componente > Suspensii - Cuvete > Furci",
       "product_count": 31,
-      "in_stock_count": 19
+      "in_stock_count": 20
     },
     {
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "product_count": 44,
-      "in_stock_count": 31
+      "product_count": 46,
+      "in_stock_count": 33
     },
     {
       "id": "ghidoane-directie",
@@ -7338,7 +7341,7 @@
       "id": "lanturi",
       "name": "Lanturi",
       "full_path": "Componente > Transmisie > Lanturi > Lanturi",
-      "product_count": 82,
+      "product_count": 84,
       "in_stock_count": 58
     },
     {
@@ -7548,7 +7551,7 @@
       "id": "portbagaje-spate",
       "name": "Portbagaje Spate",
       "full_path": "Accesorii > TRANSPORT > Portbagaje > Portbagaje Spate",
-      "product_count": 17,
+      "product_count": 18,
       "in_stock_count": 15
     },
     {
@@ -7640,7 +7643,7 @@
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
       "product_count": 79,
-      "in_stock_count": 65
+      "in_stock_count": 62
     },
     {
       "id": "sei-tije-coliere",
@@ -7682,7 +7685,7 @@
       "name": "Sistem VELO - FIT",
       "full_path": "Componente > Sei - Tije - Coliere > Sistem VELO - FIT",
       "product_count": 22,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "sonerii",
@@ -7786,7 +7789,7 @@
       "id": "trotinete-electrice",
       "name": "Trotinete Electrice",
       "full_path": "E-Mobility > Trotinete Electrice",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 13
     },
     {

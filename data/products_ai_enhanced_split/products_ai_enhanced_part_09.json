@@ -1,43 +1,14 @@
 {
-  "last_updated": "2026-11-19T03:07:22.724137+00:00",
+  "last_updated": "2026-11-20T03:07:17.497803+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 9,
     "total_parts": 19,
     "product_range": "2001-2250",
-    "original_total": 4689
+    "original_total": 4702
   },
   "products": [
-    {
-      "id": "430743",
-      "sku": "430743",
-      "ean": "2800229000007",
-      "name": "Cric Aluminiu SXT Strong R 26-29",
-      "brand": "SXT",
-      "category": "Cricuri Spate",
-      "category_path": "Accesorii > Cricuri Bicicleta > Cricuri Spate",
-      "price": 60.0,
-      "price_net": 49.59,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.36,
-      "url": "https://www.bikestylish.ro/cric-aluminiu-sxt-strong-r-26-29.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/cric-aluminiu-sxt-strong-r-26-29~8325889.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/cric-aluminiu-sxt-strong-r-26-29~8325889.jpg"
-      ],
-      "tags": [
-        "Accesorii",
-        "Aluminiu",
-        "Cricuri Spate",
-        "SXT"
-      ],
-      "specs": {
-        "material": "Aluminiu"
-      }
-    },
     {
       "id": "430736",
       "sku": "430736",
@@ -1310,7 +1281,7 @@
       "price_net": 32.73,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 29,
+      "stock_quantity": 28,
       "weight_kg": 0.15,
       "url": "https://www.bikestylish.ro/cheie-monobloc-m-wave.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/cheie-monobloc-m-wave~8326516.jpg",
@@ -6117,7 +6088,7 @@
       "price_net": 152.89,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 19,
+      "stock_quantity": 18,
       "weight_kg": 1.34,
       "url": "https://www.bikestylish.ro/camasa-schimbator-5-mm-promax-30-m-cutie-teflonata-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/camasa-schimbator-5-mm-promax-30-m-cutie-teflonata-negru~8327794.jpg",
@@ -6197,8 +6168,8 @@
       "secondary_categories": [
         "E-Mobility > Componente E-Bike"
       ],
-      "price": 70.4,
-      "price_net": 58.18,
+      "price": 70.0,
+      "price_net": 57.85,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -6226,8 +6197,8 @@
       "secondary_categories": [
         "E-Mobility > Componente E-Bike"
       ],
-      "price": 60.5,
-      "price_net": 50.0,
+      "price": 70.0,
+      "price_net": 57.85,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -6255,8 +6226,8 @@
       "secondary_categories": [
         "E-Mobility > Componente E-Bike"
       ],
-      "price": 63.8,
-      "price_net": 52.73,
+      "price": 60.0,
+      "price_net": 49.59,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -6284,8 +6255,8 @@
       "secondary_categories": [
         "E-Mobility > Componente E-Bike"
       ],
-      "price": 60.5,
-      "price_net": 50.0,
+      "price": 60.0,
+      "price_net": 49.59,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -7134,6 +7105,35 @@
         "M-WAVE",
         "Roti"
       ]
+    },
+    {
+      "id": "470329",
+      "sku": "470329",
+      "ean": "887539004149",
+      "name": "Pompa Podea BETO 11/160 Y",
+      "brand": "BETO",
+      "category": "Pompe Podea",
+      "category_path": "Accesorii > Pompe Ciclism > Pompe Podea",
+      "price": 155.0,
+      "price_net": 128.1,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 10,
+      "weight_kg": 1.3,
+      "url": "https://www.bikestylish.ro/pompa-podea-beto-11-160-y.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pompa-podea-beto-11-160-y~8328283.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/3/pompa-podea-beto-11-160-y~8328283.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/pompa-podea-beto-11-160-y~8328286.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/pompa-podea-beto-11-160-y~8328289.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/pompa-podea-beto-11-160-y~8328292.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/5/pompa-podea-beto-11-160-y~8328295.jpg"
+      ],
+      "tags": [
+        "Accesorii",
+        "BETO",
+        "Pompe Podea"
+      ]
     }
   ],
   "categories": [
@@ -7197,7 +7197,7 @@
       "id": "angrenaje-e-bike",
       "name": "Angrenaje E-Bike",
       "full_path": "E-Mobility > Angrenaje E-Bike",
-      "product_count": 10,
+      "product_count": 11,
       "in_stock_count": 8
     },
     {
@@ -7372,7 +7372,7 @@
       "id": "bidoane-ciclism",
       "name": "Bidoane Ciclism",
       "full_path": "Accesorii > Bidoane - Suporti > Bidoane Ciclism",
-      "product_count": 20,
+      "product_count": 21,
       "in_stock_count": 17
     },
     {
@@ -7491,7 +7491,7 @@
       "id": "chei-universale",
       "name": "Chei Universale",
       "full_path": "Service > Unelte Service > Chei Universale",
-      "product_count": 17,
+      "product_count": 19,
       "in_stock_count": 15
     },
     {
@@ -7519,15 +7519,22 @@
       "id": "cosuri-fata",
       "name": "Cosuri  Fata",
       "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Fata",
-      "product_count": 21,
-      "in_stock_count": 16
+      "product_count": 22,
+      "in_stock_count": 17
     },
     {
       "id": "cosuri-spate",
       "name": "Cosuri  Spate",
       "full_path": "Accesorii > TRANSPORT > Cosuri Transport > Cosuri  Spate",
-      "product_count": 17,
+      "product_count": 18,
       "in_stock_count": 12
+    },
+    {
+      "id": "cosuri-transport",
+      "name": "Cosuri Transport",
+      "full_path": "Accesorii > TRANSPORT > Cosuri Transport",
+      "product_count": 2,
+      "in_stock_count": 1
     },
     {
       "id": "cricuri-bicicleta",
@@ -7561,7 +7568,7 @@
       "id": "depozitare-biciclete",
       "name": "Depozitare Biciclete",
       "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
-      "product_count": 22,
+      "product_count": 23,
       "in_stock_count": 18
     },
     {
@@ -7625,14 +7632,14 @@
       "name": "Furci",
       "full_path": "Componente > Suspensii - Cuvete > Furci",
       "product_count": 31,
-      "in_stock_count": 19
+      "in_stock_count": 20
     },
     {
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "product_count": 44,
-      "in_stock_count": 31
+      "product_count": 46,
+      "in_stock_count": 33
     },
     {
       "id": "ghidoane-directie",
@@ -7708,7 +7715,7 @@
       "id": "lanturi",
       "name": "Lanturi",
       "full_path": "Componente > Transmisie > Lanturi > Lanturi",
-      "product_count": 82,
+      "product_count": 84,
       "in_stock_count": 58
     },
     {
@@ -7918,7 +7925,7 @@
       "id": "portbagaje-spate",
       "name": "Portbagaje Spate",
       "full_path": "Accesorii > TRANSPORT > Portbagaje > Portbagaje Spate",
-      "product_count": 17,
+      "product_count": 18,
       "in_stock_count": 15
     },
     {
@@ -8010,7 +8017,7 @@
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
       "product_count": 79,
-      "in_stock_count": 65
+      "in_stock_count": 62
     },
     {
       "id": "sei-tije-coliere",
@@ -8052,7 +8059,7 @@
       "name": "Sistem VELO - FIT",
       "full_path": "Componente > Sei - Tije - Coliere > Sistem VELO - FIT",
       "product_count": 22,
-      "in_stock_count": 17
+      "in_stock_count": 16
     },
     {
       "id": "sonerii",
@@ -8156,7 +8163,7 @@
       "id": "trotinete-electrice",
       "name": "Trotinete Electrice",
       "full_path": "E-Mobility > Trotinete Electrice",
-      "product_count": 17,
+      "product_count": 16,
       "in_stock_count": 13
     },
     {
