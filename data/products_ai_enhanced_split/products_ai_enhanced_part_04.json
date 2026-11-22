@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-21T03:07:20.997390+00:00",
+  "last_updated": "2026-11-22T03:07:34.038777+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 4,
     "total_parts": 19,
     "product_range": "751-1000",
-    "original_total": 4702
+    "original_total": 4703
   },
   "products": [
     {
@@ -288,8 +288,8 @@
       "price": 145.2,
       "price_net": 120.0,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 4,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.18,
       "url": "https://www.bikestylish.ro/pompa-furca-beto-400-psi-aluminiu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/1/pompa-furca-beto-400-psi-aluminiu~8284411.jpg",
@@ -440,7 +440,7 @@
       "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 35,
+      "stock_quantity": 33,
       "weight_kg": 0.76,
       "url": "https://www.bikestylish.ro/bara-sustinere-ghidare-copii.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/bara-sustinere-ghidare-copii~8284426.jpg",
@@ -471,7 +471,7 @@
       "price_net": 54.55,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 20,
+      "stock_quantity": 18,
       "weight_kg": 0.85,
       "url": "https://www.bikestylish.ro/bara-sustinere-ghidare-copii-qr-sxt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/bara-sustinere-ghidare-copii-qr-sxt~8284429.jpg",
@@ -4303,7 +4303,7 @@
       "price_net": 28.93,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 8,
+      "stock_quantity": 6,
       "weight_kg": 0.06,
       "url": "https://www.bikestylish.ro/cheie-imbus-hex-super-b-tb-7634-doua-capete-4-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/cheie-imbus-hex-super-b-tb-7634-doua-capete-4-mm~8284855.jpg",
@@ -7590,7 +7590,7 @@
       "name": "Depozitare Biciclete",
       "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
       "product_count": 23,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "discuri-rotoare",
@@ -7660,7 +7660,7 @@
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
       "product_count": 46,
-      "in_stock_count": 33
+      "in_stock_count": 34
     },
     {
       "id": "ghidoane-directie",
@@ -7814,7 +7814,7 @@
       "name": "Mini Pompe",
       "full_path": "Accesorii > Pompe Ciclism > Mini Pompe",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "motoare-e-bike",
@@ -7834,8 +7834,8 @@
       "id": "ochelari-ciclism",
       "name": "Ochelari Ciclism",
       "full_path": "Echipamente > Ochelari Ciclism",
-      "product_count": 8,
-      "in_stock_count": 5
+      "product_count": 9,
+      "in_stock_count": 6
     },
     {
       "id": "oglinzi",

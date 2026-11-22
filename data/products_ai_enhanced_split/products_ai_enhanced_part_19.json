@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-21T03:07:20.997390+00:00",
-  "total_products": 202,
+  "last_updated": "2026-11-22T03:07:34.038777+00:00",
+  "total_products": 203,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 19,
     "total_parts": 19,
-    "product_range": "4501-4702",
-    "original_total": 4702
+    "product_range": "4501-4703",
+    "original_total": 4703
   },
   "products": [
     {
@@ -4193,7 +4193,7 @@
       "price_net": 351.24,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 16,
+      "stock_quantity": 15,
       "url": "https://www.bikestylish.ro/casca-downhill-sxt-zl-b068-negru-l-59-61-cm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/casca-downhill-sxt-zl-b068-negru-l-59-61-cm~15707157.jpg",
       "images": [
@@ -4229,7 +4229,7 @@
       "price_net": 161.16,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 32,
+      "stock_quantity": 31,
       "url": "https://www.bikestylish.ro/casca-ciclism-sxt-zl-b050-negru-alb.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/casca-ciclism-sxt-zl-b050-negru-alb~15707169.jpg",
       "images": [
@@ -4321,11 +4321,11 @@
       "brand": "SXT",
       "category": "Sei",
       "category_path": "Componente > Sei - Tije - Coliere > Sei",
-      "price": 68.0,
-      "price_net": 56.2,
+      "price": 65.0,
+      "price_net": 53.72,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 100,
+      "stock_quantity": 200,
       "url": "https://www.bikestylish.ro/sa-sxt-hl2658-negru-250-x-140-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/sa-sxt-hl2658-negru-250-x-140-mm~15713124.jpg",
       "images": [
@@ -5843,6 +5843,30 @@
         "Cosuri Transport",
         "VENTURA"
       ]
+    },
+    {
+      "id": "710006",
+      "sku": "710006",
+      "name": "Ochelari 100% STRATA 2 Goggle Neon Yellow",
+      "brand": "SXT",
+      "category": "Ochelari Ciclism",
+      "category_path": "Echipamente > Ochelari Ciclism",
+      "price": 150.0,
+      "price_net": 123.97,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 49,
+      "url": "https://www.bikestylish.ro/ochelari-100-strata-2-goggle-neon-yellow.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ochelari-100-strata-2-goggle-neon-yellow~15890760.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ochelari-100-strata-2-goggle-neon-yellow~15890760.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/ochelari-100-strata-2-goggle-neon-yellow~15890763.jpg"
+      ],
+      "tags": [
+        "Echipamente",
+        "Ochelari Ciclism",
+        "SXT"
+      ]
     }
   ],
   "categories": [
@@ -6278,7 +6302,7 @@
       "name": "Depozitare Biciclete",
       "full_path": "Accesorii > TRANSPORT > Transport-Depozitare > Depozitare Biciclete",
       "product_count": 23,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "discuri-rotoare",
@@ -6348,7 +6372,7 @@
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
       "product_count": 46,
-      "in_stock_count": 33
+      "in_stock_count": 34
     },
     {
       "id": "ghidoane-directie",
@@ -6502,7 +6526,7 @@
       "name": "Mini Pompe",
       "full_path": "Accesorii > Pompe Ciclism > Mini Pompe",
       "product_count": 21,
-      "in_stock_count": 18
+      "in_stock_count": 17
     },
     {
       "id": "motoare-e-bike",
@@ -6522,8 +6546,8 @@
       "id": "ochelari-ciclism",
       "name": "Ochelari Ciclism",
       "full_path": "Echipamente > Ochelari Ciclism",
-      "product_count": 8,
-      "in_stock_count": 5
+      "product_count": 9,
+      "in_stock_count": 6
     },
     {
       "id": "oglinzi",
