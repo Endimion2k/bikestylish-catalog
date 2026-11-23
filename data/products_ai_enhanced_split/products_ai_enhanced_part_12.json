@@ -1,39 +1,14 @@
 {
-  "last_updated": "2026-11-22T03:07:34.038777+00:00",
+  "last_updated": "2026-11-23T03:08:35.603294+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 12,
     "total_parts": 19,
     "product_range": "2751-3000",
-    "original_total": 4703
+    "original_total": 4726
   },
   "products": [
-    {
-      "id": "D243",
-      "sku": "D243",
-      "ean": "7290107112314",
-      "name": "Ureche Cadru PILO D243 Titus",
-      "brand": "PILO",
-      "category": "Urechi Cadru",
-      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
-      "price": 385.0,
-      "price_net": 318.18,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.02,
-      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d243-titus.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d243-titus~8331583.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/3/ureche-cadru-pilo-d243-titus~8331583.jpg"
-      ],
-      "tags": [
-        "Componente",
-        "PILO",
-        "Urechi Cadru"
-      ]
-    },
     {
       "id": "D434",
       "sku": "D434",
@@ -4052,8 +4027,8 @@
       "price": 218.9,
       "price_net": 180.91,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d778-yt.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d778-yt~8332546.jpg",
@@ -6673,6 +6648,33 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D888",
+      "sku": "D888",
+      "ean": "7290117594674",
+      "name": "Ureche Cadru PILO D888 Simplon",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 170.5,
+      "price_net": 140.91,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.02,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d888-simplon.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d888-simplon~8333476.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/ureche-cadru-pilo-d888-simplon~8333476.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/ureche-cadru-pilo-d888-simplon~8333479.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/2/ureche-cadru-pilo-d888-simplon~8333482.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -6708,7 +6710,7 @@
       "id": "accesorii-pompe-co2",
       "name": "Accesorii Pompe -CO2",
       "full_path": "Accesorii > Pompe Ciclism > Accesorii Pompe -CO2",
-      "product_count": 5,
+      "product_count": 6,
       "in_stock_count": 3
     },
     {
@@ -6813,14 +6815,14 @@
       "id": "aparatori-fata",
       "name": "Aparatori Fata",
       "full_path": "Accesorii > Aparatori Noroi > Aparatori Fata",
-      "product_count": 7,
+      "product_count": 9,
       "in_stock_count": 6
     },
     {
       "id": "aparatori-spate",
       "name": "Aparatori Spate",
       "full_path": "Accesorii > Aparatori Noroi > Aparatori Spate",
-      "product_count": 10,
+      "product_count": 11,
       "in_stock_count": 10
     },
     {
@@ -6939,7 +6941,7 @@
       "id": "butuci-frana-disc",
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
-      "product_count": 122,
+      "product_count": 124,
       "in_stock_count": 68
     },
     {
@@ -7009,7 +7011,7 @@
       "id": "carcase-prinderi-smartphone",
       "name": "Carcase - Prinderi SmartPhone",
       "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
-      "product_count": 9,
+      "product_count": 14,
       "in_stock_count": 7
     },
     {
@@ -7114,7 +7116,7 @@
       "id": "discuri-rotoare",
       "name": "Discuri - Rotoare",
       "full_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "product_count": 15,
+      "product_count": 17,
       "in_stock_count": 8
     },
     {
@@ -7156,14 +7158,14 @@
       "id": "frane-disc",
       "name": "Frane Disc",
       "full_path": "Componente > Sisteme Franare > Frane Disc",
-      "product_count": 14,
+      "product_count": 15,
       "in_stock_count": 7
     },
     {
       "id": "frane-v-break",
       "name": "Frane V - Break",
       "full_path": "Componente > Sisteme Franare > Frane V - Break",
-      "product_count": 13,
+      "product_count": 15,
       "in_stock_count": 8
     },
     {
@@ -7177,7 +7179,7 @@
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "product_count": 46,
+      "product_count": 47,
       "in_stock_count": 34
     },
     {
@@ -7289,7 +7291,7 @@
       "id": "mtb-full-face",
       "name": "MTB - Full Face",
       "full_path": "Echipamente > Casti > MTB - Full Face",
-      "product_count": 6,
+      "product_count": 8,
       "in_stock_count": 5
     },
     {
@@ -7555,7 +7557,7 @@
       "id": "sei",
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
-      "product_count": 79,
+      "product_count": 80,
       "in_stock_count": 63
     },
     {
@@ -7576,7 +7578,7 @@
       "id": "set-lumini",
       "name": "Set Lumini",
       "full_path": "Accesorii > Lumini > Set Lumini",
-      "product_count": 25,
+      "product_count": 26,
       "in_stock_count": 18
     },
     {
@@ -7716,7 +7718,7 @@
       "id": "tubeless",
       "name": "Tubeless",
       "full_path": "Componente > Anvelope - Camere > Tubeless",
-      "product_count": 18,
+      "product_count": 19,
       "in_stock_count": 11
     },
     {
@@ -7744,7 +7746,7 @@
       "id": "unelte-lant",
       "name": "Unelte Lant",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
-      "product_count": 19,
+      "product_count": 20,
       "in_stock_count": 15
     },
     {
@@ -7780,7 +7782,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 396
+      "in_stock_count": 395
     }
   ],
   "brands": [

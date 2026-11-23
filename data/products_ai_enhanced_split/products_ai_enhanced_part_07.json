@@ -1,42 +1,14 @@
 {
-  "last_updated": "2026-11-22T03:07:34.038777+00:00",
+  "last_updated": "2026-11-23T03:08:35.603294+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 7,
     "total_parts": 19,
     "product_range": "1501-1750",
-    "original_total": 4703
+    "original_total": 4726
   },
   "products": [
-    {
-      "id": "A07130759",
-      "sku": "A07130759",
-      "ean": "8590816036567",
-      "name": "Manusi Ciclism AUTHOR Team X6 XL Negru",
-      "brand": "AUTHOR",
-      "category": "Manusi Ciclism",
-      "category_path": "Echipamente > Manusi Ciclism",
-      "price": 48.0,
-      "price_net": 39.67,
-      "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 4,
-      "url": "https://www.bikestylish.ro/manusi-ciclism-author-team-x6-xl-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/2/manusi-ciclism-author-team-x6-xl-negru~8290492.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/2/manusi-ciclism-author-team-x6-xl-negru~8290492.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/manusi-ciclism-author-team-x6-xl-negru~8291122.jpg"
-      ],
-      "tags": [
-        "AUTHOR",
-        "Echipamente",
-        "Manusi Ciclism"
-      ],
-      "specs": {
-        "color": "Negru"
-      }
-    },
     {
       "id": "A07130760",
       "sku": "A07130760",
@@ -1085,7 +1057,7 @@
       "price_net": 376.03,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 4,
+      "stock_quantity": 3,
       "weight_kg": 9.95,
       "url": "https://www.bikestylish.ro/home-trainer-m-wave-yoke-n-roll-10-26-29.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/home-trainer-m-wave-yoke-n-roll-10-26-29~8290639.jpg",
@@ -3196,8 +3168,8 @@
       "brand": "M-WAVE",
       "category": "Tubeless",
       "category_path": "Componente > Anvelope - Camere > Tubeless",
-      "price": 85.8,
-      "price_net": 70.91,
+      "price": 80.0,
+      "price_net": 66.12,
       "currency": "RON",
       "availability": "limited",
       "stock_quantity": 2,
@@ -4614,7 +4586,7 @@
       "price_net": 227.27,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 14,
+      "stock_quantity": 13,
       "weight_kg": 0.4,
       "url": "https://www.bikestylish.ro/butuc-spate-novatec-d982t-sb-12-x-142-mm-32h.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/butuc-spate-novatec-d982t-sb-12-x-142-mm-32h~8292184.jpg",
@@ -7147,6 +7119,31 @@
         "PILO",
         "Urechi Cadru"
       ]
+    },
+    {
+      "id": "D216",
+      "sku": "D216",
+      "ean": "7290107112055",
+      "name": "Ureche Cadru PILO D216 Focus",
+      "brand": "PILO",
+      "category": "Urechi Cadru",
+      "category_path": "Componente > Urechi - Cadre > Urechi Cadru",
+      "price": 165.0,
+      "price_net": 136.36,
+      "currency": "RON",
+      "availability": "limited",
+      "stock_quantity": 2,
+      "weight_kg": 0.03,
+      "url": "https://www.bikestylish.ro/ureche-cadru-pilo-d216-focus.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d216-focus~8292490.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/0/ureche-cadru-pilo-d216-focus~8292490.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "PILO",
+        "Urechi Cadru"
+      ]
     }
   ],
   "categories": [
@@ -7182,7 +7179,7 @@
       "id": "accesorii-pompe-co2",
       "name": "Accesorii Pompe -CO2",
       "full_path": "Accesorii > Pompe Ciclism > Accesorii Pompe -CO2",
-      "product_count": 5,
+      "product_count": 6,
       "in_stock_count": 3
     },
     {
@@ -7287,14 +7284,14 @@
       "id": "aparatori-fata",
       "name": "Aparatori Fata",
       "full_path": "Accesorii > Aparatori Noroi > Aparatori Fata",
-      "product_count": 7,
+      "product_count": 9,
       "in_stock_count": 6
     },
     {
       "id": "aparatori-spate",
       "name": "Aparatori Spate",
       "full_path": "Accesorii > Aparatori Noroi > Aparatori Spate",
-      "product_count": 10,
+      "product_count": 11,
       "in_stock_count": 10
     },
     {
@@ -7413,7 +7410,7 @@
       "id": "butuci-frana-disc",
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
-      "product_count": 122,
+      "product_count": 124,
       "in_stock_count": 68
     },
     {
@@ -7483,7 +7480,7 @@
       "id": "carcase-prinderi-smartphone",
       "name": "Carcase - Prinderi SmartPhone",
       "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
-      "product_count": 9,
+      "product_count": 14,
       "in_stock_count": 7
     },
     {
@@ -7588,7 +7585,7 @@
       "id": "discuri-rotoare",
       "name": "Discuri - Rotoare",
       "full_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "product_count": 15,
+      "product_count": 17,
       "in_stock_count": 8
     },
     {
@@ -7630,14 +7627,14 @@
       "id": "frane-disc",
       "name": "Frane Disc",
       "full_path": "Componente > Sisteme Franare > Frane Disc",
-      "product_count": 14,
+      "product_count": 15,
       "in_stock_count": 7
     },
     {
       "id": "frane-v-break",
       "name": "Frane V - Break",
       "full_path": "Componente > Sisteme Franare > Frane V - Break",
-      "product_count": 13,
+      "product_count": 15,
       "in_stock_count": 8
     },
     {
@@ -7651,7 +7648,7 @@
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "product_count": 46,
+      "product_count": 47,
       "in_stock_count": 34
     },
     {
@@ -7763,7 +7760,7 @@
       "id": "mtb-full-face",
       "name": "MTB - Full Face",
       "full_path": "Echipamente > Casti > MTB - Full Face",
-      "product_count": 6,
+      "product_count": 8,
       "in_stock_count": 5
     },
     {
@@ -8029,7 +8026,7 @@
       "id": "sei",
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
-      "product_count": 79,
+      "product_count": 80,
       "in_stock_count": 63
     },
     {
@@ -8050,7 +8047,7 @@
       "id": "set-lumini",
       "name": "Set Lumini",
       "full_path": "Accesorii > Lumini > Set Lumini",
-      "product_count": 25,
+      "product_count": 26,
       "in_stock_count": 18
     },
     {
@@ -8190,7 +8187,7 @@
       "id": "tubeless",
       "name": "Tubeless",
       "full_path": "Componente > Anvelope - Camere > Tubeless",
-      "product_count": 18,
+      "product_count": 19,
       "in_stock_count": 11
     },
     {
@@ -8218,7 +8215,7 @@
       "id": "unelte-lant",
       "name": "Unelte Lant",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
-      "product_count": 19,
+      "product_count": 20,
       "in_stock_count": 15
     },
     {
@@ -8254,7 +8251,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 396
+      "in_stock_count": 395
     }
   ],
   "brands": [

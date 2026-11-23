@@ -1,45 +1,14 @@
 {
-  "last_updated": "2026-11-22T03:07:34.038777+00:00",
+  "last_updated": "2026-11-23T03:08:35.603294+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 2,
     "total_parts": 19,
     "product_range": "251-500",
-    "original_total": 4703
+    "original_total": 4726
   },
   "products": [
-    {
-      "id": "880341",
-      "sku": "880341",
-      "ean": "887539006549",
-      "name": "Cheie Spite 3,2-3,9 mm cnSPOKE",
-      "brand": "cnSPOKE",
-      "category": "Roti-Spite",
-      "category_path": "Service > Unelte Service > Unelte  Biciclete > Roti-Spite",
-      "secondary_categories": [
-        "Roti > Spite si Nipluri > Nipluri - Accesorii"
-      ],
-      "price": 79.0,
-      "price_net": 65.29,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.07,
-      "url": "https://www.bikestylish.ro/cheie-spite-3-2-3-9-mm-cnspoke.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/9/cheie-spite-3-2-3-9-mm-cnspoke~8280349.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/9/cheie-spite-3-2-3-9-mm-cnspoke~8280349.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/5/cheie-spite-3-2-3-9-mm-cnspoke~8281255.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/cheie-spite-3-2-3-9-mm-cnspoke~8281258.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/cheie-spite-3-2-3-9-mm-cnspoke~8281261.jpg"
-      ],
-      "tags": [
-        "Roti-Spite",
-        "Service",
-        "cnSPOKE"
-      ]
-    },
     {
       "id": "303572",
       "sku": "303572",
@@ -1268,8 +1237,8 @@
       "brand": "SXT",
       "category": "Pedale Platforma",
       "category_path": "Componente > Pedale > Pedale Platforma",
-      "price": 52.8,
-      "price_net": 43.64,
+      "price": 52.0,
+      "price_net": 42.98,
       "currency": "RON",
       "availability": "out_of_stock",
       "stock_quantity": 0,
@@ -1842,7 +1811,7 @@
       "price_net": 259.09,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 25,
+      "stock_quantity": 24,
       "weight_kg": 0.5,
       "url": "https://www.bikestylish.ro/butuc-spate-novatec-d042sb-32h-fd-4-rulmenti.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/butuc-spate-novatec-d042sb-32h-fd-4-rulmenti~8280529.jpg",
@@ -1891,8 +1860,8 @@
       "brand": "NOVATEC",
       "category": "Butuci Frana Disc",
       "category_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
-      "price": 176.0,
-      "price_net": 145.45,
+      "price": 160.0,
+      "price_net": 132.23,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 18,
@@ -2301,8 +2270,8 @@
       "brand": "NOVATEC",
       "category": "Butuci V-Break - Dinam",
       "category_path": "Roti > Butuci - Accesorii > Butuci V-Break - Dinam",
-      "price": 264.0,
-      "price_net": 218.18,
+      "price": 275.0,
+      "price_net": 227.27,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 7,
@@ -2330,8 +2299,8 @@
       "brand": "NOVATEC",
       "category": "Butuci V-Break - Dinam",
       "category_path": "Roti > Butuci - Accesorii > Butuci V-Break - Dinam",
-      "price": 108.9,
-      "price_net": 90.0,
+      "price": 99.0,
+      "price_net": 81.82,
       "currency": "RON",
       "availability": "in_stock",
       "stock_quantity": 18,
@@ -7359,6 +7328,32 @@
         "Discuri - Rotoare",
         "SXT"
       ]
+    },
+    {
+      "id": "361754",
+      "sku": "361754",
+      "ean": "2800803000003",
+      "name": "Sabot Frana SXT 55T (1 buc)",
+      "brand": "SXT",
+      "category": "Saboti Frana",
+      "category_path": "Componente > Sisteme Franare > Saboti Frana",
+      "price": 7.0,
+      "price_net": 5.79,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.04,
+      "url": "https://www.bikestylish.ro/sabot-frana-sxt-55t-1-buc.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/sabot-frana-sxt-55t-1-buc~8282155.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/sabot-frana-sxt-55t-1-buc~8282155.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/sabot-frana-sxt-55t-1-buc~8282680.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "SXT",
+        "Saboti Frana"
+      ]
     }
   ],
   "categories": [
@@ -7394,7 +7389,7 @@
       "id": "accesorii-pompe-co2",
       "name": "Accesorii Pompe -CO2",
       "full_path": "Accesorii > Pompe Ciclism > Accesorii Pompe -CO2",
-      "product_count": 5,
+      "product_count": 6,
       "in_stock_count": 3
     },
     {
@@ -7499,14 +7494,14 @@
       "id": "aparatori-fata",
       "name": "Aparatori Fata",
       "full_path": "Accesorii > Aparatori Noroi > Aparatori Fata",
-      "product_count": 7,
+      "product_count": 9,
       "in_stock_count": 6
     },
     {
       "id": "aparatori-spate",
       "name": "Aparatori Spate",
       "full_path": "Accesorii > Aparatori Noroi > Aparatori Spate",
-      "product_count": 10,
+      "product_count": 11,
       "in_stock_count": 10
     },
     {
@@ -7625,7 +7620,7 @@
       "id": "butuci-frana-disc",
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
-      "product_count": 122,
+      "product_count": 124,
       "in_stock_count": 68
     },
     {
@@ -7695,7 +7690,7 @@
       "id": "carcase-prinderi-smartphone",
       "name": "Carcase - Prinderi SmartPhone",
       "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
-      "product_count": 9,
+      "product_count": 14,
       "in_stock_count": 7
     },
     {
@@ -7800,7 +7795,7 @@
       "id": "discuri-rotoare",
       "name": "Discuri - Rotoare",
       "full_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "product_count": 15,
+      "product_count": 17,
       "in_stock_count": 8
     },
     {
@@ -7842,14 +7837,14 @@
       "id": "frane-disc",
       "name": "Frane Disc",
       "full_path": "Componente > Sisteme Franare > Frane Disc",
-      "product_count": 14,
+      "product_count": 15,
       "in_stock_count": 7
     },
     {
       "id": "frane-v-break",
       "name": "Frane V - Break",
       "full_path": "Componente > Sisteme Franare > Frane V - Break",
-      "product_count": 13,
+      "product_count": 15,
       "in_stock_count": 8
     },
     {
@@ -7863,7 +7858,7 @@
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "product_count": 46,
+      "product_count": 47,
       "in_stock_count": 34
     },
     {
@@ -7975,7 +7970,7 @@
       "id": "mtb-full-face",
       "name": "MTB - Full Face",
       "full_path": "Echipamente > Casti > MTB - Full Face",
-      "product_count": 6,
+      "product_count": 8,
       "in_stock_count": 5
     },
     {
@@ -8241,7 +8236,7 @@
       "id": "sei",
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
-      "product_count": 79,
+      "product_count": 80,
       "in_stock_count": 63
     },
     {
@@ -8262,7 +8257,7 @@
       "id": "set-lumini",
       "name": "Set Lumini",
       "full_path": "Accesorii > Lumini > Set Lumini",
-      "product_count": 25,
+      "product_count": 26,
       "in_stock_count": 18
     },
     {
@@ -8402,7 +8397,7 @@
       "id": "tubeless",
       "name": "Tubeless",
       "full_path": "Componente > Anvelope - Camere > Tubeless",
-      "product_count": 18,
+      "product_count": 19,
       "in_stock_count": 11
     },
     {
@@ -8430,7 +8425,7 @@
       "id": "unelte-lant",
       "name": "Unelte Lant",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
-      "product_count": 19,
+      "product_count": 20,
       "in_stock_count": 15
     },
     {
@@ -8466,7 +8461,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 396
+      "in_stock_count": 395
     }
   ],
   "brands": [

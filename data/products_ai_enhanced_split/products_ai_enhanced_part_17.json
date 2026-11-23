@@ -1,49 +1,14 @@
 {
-  "last_updated": "2026-11-22T03:07:34.038777+00:00",
+  "last_updated": "2026-11-23T03:08:35.603294+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 17,
     "total_parts": 19,
     "product_range": "4001-4250",
-    "original_total": 4703
+    "original_total": 4726
   },
   "products": [
-    {
-      "id": "410019",
-      "sku": "410019",
-      "ean": "0664533242483",
-      "name": "Mansoane MTB SXT ZN-046 - 130 mm Lock-On Negru",
-      "brand": "SXT",
-      "category": "Mansoane",
-      "category_path": "Componente > Ghidoane - Directie > Mansoane",
-      "price": 55.0,
-      "price_net": 45.45,
-      "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 300,
-      "weight_kg": 0.2,
-      "url": "https://www.bikestylish.ro/mansoane-mtb-sxt-zn-046-130-mm-lock-on-negru.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/8/mansoane-mtb-sxt-zn-046-130-mm-lock-on-negru~8342728.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/8/mansoane-mtb-sxt-zn-046-130-mm-lock-on-negru~8342728.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/1/mansoane-mtb-sxt-zn-046-130-mm-lock-on-negru~8342731.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/4/mansoane-mtb-sxt-zn-046-130-mm-lock-on-negru~8342734.jpg"
-      ],
-      "category_description": "Handlebar grips",
-      "tags": [
-        "Componente",
-        "MTB",
-        "Mansoane",
-        "SXT"
-      ],
-      "specs": {
-        "bike_type": [
-          "MTB"
-        ],
-        "color": "Negru"
-      }
-    },
     {
       "id": "250998",
       "sku": "250998",
@@ -343,7 +308,7 @@
       "price_net": 90.91,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 98,
+      "stock_quantity": 95,
       "weight_kg": 0.42,
       "url": "https://www.bikestylish.ro/pedale-sxt-n-13-nylon-fiber-purple.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/pedale-sxt-n-13-nylon-fiber-purple~8342788.jpg",
@@ -3258,7 +3223,7 @@
       "price_net": 119.83,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 182,
+      "stock_quantity": 181,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/ghidon-aluminiu-mtb-sxt-black-shiny-31-8-800mm-rise-30-water-transfer-decals.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/ghidon-aluminiu-mtb-sxt-black-shiny-31-8-800mm-rise-30-water-transfer~15842757.jpg",
@@ -3949,37 +3914,6 @@
         "Manete Schimbator",
         "VENTURA"
       ]
-    },
-    {
-      "id": "326127S",
-      "sku": "326127S",
-      "ean": "2802458000001",
-      "name": "Butuc Spate Boost NOVATEC D462SB-A5A-B12 32H FD 12 x 148 mm SRAM",
-      "brand": "NOVATEC",
-      "category": "Butuci Frana Disc",
-      "category_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
-      "price": 500.5,
-      "price_net": 413.64,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "url": "https://www.bikestylish.ro/butuc-spate-boost-novatec-d462sb-a5a-b12-32h-fd-12-x-148-mm-sram.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-spate-boost-novatec-d462sb-a5a-b12-32h-fd-12-x-148-mm-sram~8335627.jpg",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/7/butuc-spate-boost-novatec-d462sb-a5a-b12-32h-fd-12-x-148-mm-sram~8335627.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/0/butuc-spate-boost-novatec-d462sb-a5a-b12-32h-fd-12-x-148-mm-sram~8335630.jpg",
-        "https://s2.cdnmpro.com/861667841/p/raw/8/butuc-spate-boost-novatec-d462sb-a5a-b12-32h-fd-12-x-148-mm-sram~10358268.jpg"
-      ],
-      "tags": [
-        "12 inch",
-        "Butuci Frana Disc",
-        "NOVATEC",
-        "Roti"
-      ],
-      "specs": {
-        "wheel_size": "12",
-        "dimensions": "12 x 148"
-      }
     },
     {
       "id": "3885971S",
@@ -7727,6 +7661,72 @@
         "color": "Verde",
         "thread": "9/16\""
       }
+    },
+    {
+      "id": "312020",
+      "sku": "312020",
+      "ean": "2802559000009",
+      "name": "Pedale Plastic SXT 215X Negru 9/16",
+      "brand": "SXT",
+      "category": "Pedale Platforma",
+      "category_path": "Componente > Pedale > Pedale Platforma",
+      "secondary_categories": [
+        "PROMOTII",
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
+      "price": 22.0,
+      "price_net": 18.18,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 298,
+      "weight_kg": 0.3,
+      "url": "https://www.bikestylish.ro/pedale-plastic-sxt-215x-negru-9-16.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-plastic-sxt-215x-negru-9-16~11326266.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/6/pedale-plastic-sxt-215x-negru-9-16~11326266.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/pedale-plastic-sxt-215x-negru-9-16~11326269.jpg"
+      ],
+      "tags": [
+        "Componente",
+        "Pedale Platforma",
+        "Plastic",
+        "SXT"
+      ],
+      "specs": {
+        "material": "Plastic",
+        "color": "Negru",
+        "thread": "9/16\""
+      }
+    },
+    {
+      "id": "470100",
+      "sku": "470100",
+      "name": "Pompa Mini SXT P100 Negru",
+      "brand": "SXT",
+      "category": "Mini Pompe",
+      "category_path": "Accesorii > Pompe Ciclism > Mini Pompe",
+      "secondary_categories": [
+        "PROMOTII > TRANSPORT GRATUIT"
+      ],
+      "price": 25.0,
+      "price_net": 20.66,
+      "currency": "RON",
+      "availability": "in_stock",
+      "stock_quantity": 400,
+      "url": "https://www.bikestylish.ro/pompa-mini-sxt-p100-negru.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/5/pompa-mini-sxt-p100-negru~11326305.jpg",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/5/pompa-mini-sxt-p100-negru~11326305.jpg",
+        "https://s2.cdnmpro.com/861667841/p/raw/8/pompa-mini-sxt-p100-negru~11326308.jpg"
+      ],
+      "tags": [
+        "Accesorii",
+        "Mini Pompe",
+        "SXT"
+      ],
+      "specs": {
+        "color": "Negru"
+      }
     }
   ],
   "categories": [
@@ -7762,7 +7762,7 @@
       "id": "accesorii-pompe-co2",
       "name": "Accesorii Pompe -CO2",
       "full_path": "Accesorii > Pompe Ciclism > Accesorii Pompe -CO2",
-      "product_count": 5,
+      "product_count": 6,
       "in_stock_count": 3
     },
     {
@@ -7867,14 +7867,14 @@
       "id": "aparatori-fata",
       "name": "Aparatori Fata",
       "full_path": "Accesorii > Aparatori Noroi > Aparatori Fata",
-      "product_count": 7,
+      "product_count": 9,
       "in_stock_count": 6
     },
     {
       "id": "aparatori-spate",
       "name": "Aparatori Spate",
       "full_path": "Accesorii > Aparatori Noroi > Aparatori Spate",
-      "product_count": 10,
+      "product_count": 11,
       "in_stock_count": 10
     },
     {
@@ -7993,7 +7993,7 @@
       "id": "butuci-frana-disc",
       "name": "Butuci Frana Disc",
       "full_path": "Roti > Butuci - Accesorii > Butuci Frana Disc",
-      "product_count": 122,
+      "product_count": 124,
       "in_stock_count": 68
     },
     {
@@ -8063,7 +8063,7 @@
       "id": "carcase-prinderi-smartphone",
       "name": "Carcase - Prinderi SmartPhone",
       "full_path": "Accesorii > TRANSPORT > Borsete-Bagaje > Carcase - Prinderi SmartPhone",
-      "product_count": 9,
+      "product_count": 14,
       "in_stock_count": 7
     },
     {
@@ -8168,7 +8168,7 @@
       "id": "discuri-rotoare",
       "name": "Discuri - Rotoare",
       "full_path": "Componente > Sisteme Franare > Discuri - Rotoare",
-      "product_count": 15,
+      "product_count": 17,
       "in_stock_count": 8
     },
     {
@@ -8210,14 +8210,14 @@
       "id": "frane-disc",
       "name": "Frane Disc",
       "full_path": "Componente > Sisteme Franare > Frane Disc",
-      "product_count": 14,
+      "product_count": 15,
       "in_stock_count": 7
     },
     {
       "id": "frane-v-break",
       "name": "Frane V - Break",
       "full_path": "Componente > Sisteme Franare > Frane V - Break",
-      "product_count": 13,
+      "product_count": 15,
       "in_stock_count": 8
     },
     {
@@ -8231,7 +8231,7 @@
       "id": "ghidoane",
       "name": "Ghidoane",
       "full_path": "Componente > Ghidoane - Directie > Ghidoane",
-      "product_count": 46,
+      "product_count": 47,
       "in_stock_count": 34
     },
     {
@@ -8343,7 +8343,7 @@
       "id": "mtb-full-face",
       "name": "MTB - Full Face",
       "full_path": "Echipamente > Casti > MTB - Full Face",
-      "product_count": 6,
+      "product_count": 8,
       "in_stock_count": 5
     },
     {
@@ -8609,7 +8609,7 @@
       "id": "sei",
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
-      "product_count": 79,
+      "product_count": 80,
       "in_stock_count": 63
     },
     {
@@ -8630,7 +8630,7 @@
       "id": "set-lumini",
       "name": "Set Lumini",
       "full_path": "Accesorii > Lumini > Set Lumini",
-      "product_count": 25,
+      "product_count": 26,
       "in_stock_count": 18
     },
     {
@@ -8770,7 +8770,7 @@
       "id": "tubeless",
       "name": "Tubeless",
       "full_path": "Componente > Anvelope - Camere > Tubeless",
-      "product_count": 18,
+      "product_count": 19,
       "in_stock_count": 11
     },
     {
@@ -8798,7 +8798,7 @@
       "id": "unelte-lant",
       "name": "Unelte Lant",
       "full_path": "Service > Unelte Service > Unelte  Biciclete > Unelte Lant",
-      "product_count": 19,
+      "product_count": 20,
       "in_stock_count": 15
     },
     {
@@ -8834,7 +8834,7 @@
       "name": "Urechi Cadru",
       "full_path": "Componente > Urechi - Cadre > Urechi Cadru",
       "product_count": 1114,
-      "in_stock_count": 396
+      "in_stock_count": 395
     }
   ],
   "brands": [
