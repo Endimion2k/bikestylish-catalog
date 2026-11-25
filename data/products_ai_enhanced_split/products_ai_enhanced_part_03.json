@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-24T03:07:26.091738+00:00",
+  "last_updated": "2026-11-25T03:07:31.687108+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 3,
     "total_parts": 19,
     "product_range": "501-750",
-    "original_total": 4726
+    "original_total": 4725
   },
   "products": [
     {
@@ -1057,7 +1057,7 @@
       "price_net": 24.79,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 18,
+      "stock_quantity": 15,
       "weight_kg": 0.02,
       "url": "https://www.bikestylish.ro/aparatoare-noroi-m-wave-max-flex-fata-spate-12-29.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/6/aparatoare-noroi-m-wave-max-flex-fata-spate-12-29~8282266.webp",
@@ -2533,8 +2533,8 @@
       "price": 99.0,
       "price_net": 81.82,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 6,
+      "availability": "limited",
+      "stock_quantity": 5,
       "weight_kg": 0.3,
       "url": "https://www.bikestylish.ro/ghidon-zoom-780-31-8-mm-negru-aluminiu.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/5/ghidon-zoom-780-31-8-mm-negru-aluminiu~8283025.webp",
@@ -2628,7 +2628,7 @@
       "price_net": 31.82,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 31,
+      "stock_quantity": 30,
       "weight_kg": 0.44,
       "url": "https://www.bikestylish.ro/ghidon-m-wave-580-25-4-mm-metal-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/ghidon-m-wave-580-25-4-mm-metal-negru~8283034.webp",
@@ -3312,7 +3312,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 9,
+      "stock_quantity": 8,
       "weight_kg": 0.24,
       "url": "https://www.bikestylish.ro/pipa-zoom-25-4-1-1-8-25-110-mm-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/pipa-zoom-25-4-1-1-8-25-110-mm-negru~8283103.webp",
@@ -4199,7 +4199,7 @@
       "price_net": 9.92,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 184,
+      "stock_quantity": 179,
       "weight_kg": 0.11,
       "url": "https://www.bikestylish.ro/mansoane-sxt-plastic-soft-125-mm.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/mansoane-sxt-plastic-soft-125-mm~15725097.webp",
@@ -7414,8 +7414,8 @@
       "price": 28.0,
       "price_net": 23.14,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.12,
       "url": "https://www.bikestylish.ro/far-cu-baterii-sxt-3-led-silver.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/far-cu-baterii-sxt-3-led-silver~8284378.webp",
@@ -8023,7 +8023,7 @@
       "id": "jante-frane-disc",
       "name": "Jante Frane Disc",
       "full_path": "Roti > Jante > Jante Frane Disc",
-      "product_count": 55,
+      "product_count": 54,
       "in_stock_count": 31
     },
     {
@@ -8059,7 +8059,7 @@
       "name": "Lumini Fata",
       "full_path": "Accesorii > Lumini > Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "lumini-spate",
@@ -8339,7 +8339,7 @@
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
       "product_count": 80,
-      "in_stock_count": 63
+      "in_stock_count": 62
     },
     {
       "id": "sei-tije-coliere",

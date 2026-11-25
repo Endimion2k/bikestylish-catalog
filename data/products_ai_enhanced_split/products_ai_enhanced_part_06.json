@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-24T03:07:26.091738+00:00",
+  "last_updated": "2026-11-25T03:07:31.687108+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 6,
     "total_parts": 19,
     "product_range": "1251-1500",
-    "original_total": 4726
+    "original_total": 4725
   },
   "products": [
     {
@@ -197,8 +197,8 @@
       "price": 192.5,
       "price_net": 159.09,
       "currency": "RON",
-      "availability": "limited",
-      "stock_quantity": 1,
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
       "weight_kg": 0.35,
       "url": "https://www.bikestylish.ro/sa-velo-speedflex-vacu-fc.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/9/sa-velo-speedflex-vacu-fc~8287789.webp",
@@ -6523,7 +6523,7 @@
       "price_net": 45.45,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 248,
+      "stock_quantity": 246,
       "weight_kg": 0.37,
       "url": "https://www.bikestylish.ro/pedale-aluminiu-sxt-black-flat-9-16-negru.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/pedale-aluminiu-sxt-black-flat-9-16-negru~8289514.webp",
@@ -8024,7 +8024,7 @@
       "id": "jante-frane-disc",
       "name": "Jante Frane Disc",
       "full_path": "Roti > Jante > Jante Frane Disc",
-      "product_count": 55,
+      "product_count": 54,
       "in_stock_count": 31
     },
     {
@@ -8060,7 +8060,7 @@
       "name": "Lumini Fata",
       "full_path": "Accesorii > Lumini > Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "lumini-spate",
@@ -8340,7 +8340,7 @@
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
       "product_count": 80,
-      "in_stock_count": 63
+      "in_stock_count": 62
     },
     {
       "id": "sei-tije-coliere",

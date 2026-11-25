@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-24T03:07:26.091738+00:00",
+  "last_updated": "2026-11-25T03:07:31.687108+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
     "part_number": 14,
     "total_parts": 19,
     "product_range": "3251-3500",
-    "original_total": 4726
+    "original_total": 4725
   },
   "products": [
     {
@@ -5817,39 +5817,6 @@
       }
     },
     {
-      "id": "ML13.559.32",
-      "sku": "ML13.559.32",
-      "ean": "2802116000008",
-      "name": "Janta MACH1 TRUKY 30 26(559 x 30C) 32H Negru Capsata",
-      "brand": "MACH 1",
-      "category": "Jante Frane Disc",
-      "category_path": "Roti > Jante > Jante Frane Disc",
-      "price": 198.0,
-      "price_net": 163.64,
-      "currency": "RON",
-      "availability": "out_of_stock",
-      "stock_quantity": 0,
-      "weight_kg": 0.63,
-      "url": "https://www.bikestylish.ro/janta-mach1-truky-30-26-559-x-30c-32h-negru-capsata.html",
-      "image": "https://s2.cdnmpro.com/861667841/p/raw/0/janta-mach1-truky-30-26-559-x-30c-32h-negru-capsata~8337730.webp",
-      "images": [
-        "https://s2.cdnmpro.com/861667841/p/raw/0/janta-mach1-truky-30-26-559-x-30c-32h-negru-capsata~8337730.webp",
-        "https://s2.cdnmpro.com/861667841/p/raw/3/janta-mach1-truky-30-26-559-x-30c-32h-negru-capsata~8337733.webp",
-        "https://s2.cdnmpro.com/861667841/p/raw/6/janta-mach1-truky-30-26-559-x-30c-32h-negru-capsata~8337736.webp",
-        "https://s2.cdnmpro.com/861667841/p/raw/9/janta-mach1-truky-30-26-559-x-30c-32h-negru-capsata~8337739.webp",
-        "https://s2.cdnmpro.com/861667841/p/raw/2/janta-mach1-truky-30-26-559-x-30c-32h-negru-capsata~8337742.webp"
-      ],
-      "tags": [
-        "Jante Frane Disc",
-        "MACH 1",
-        "Roti"
-      ],
-      "specs": {
-        "color": "Negru",
-        "dimensions": "559 x 30"
-      }
-    },
-    {
       "id": "11A00265",
       "sku": "11A00265",
       "ean": "8022530022453",
@@ -7705,7 +7672,7 @@
       "price_net": 7.14,
       "currency": "RON",
       "availability": "in_stock",
-      "stock_quantity": 48,
+      "stock_quantity": 47,
       "weight_kg": 0.03,
       "url": "https://www.bikestylish.ro/capac-si-floare-cuvete-sxt-fork-fix-1-1-8-negru-anodizat.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/4/capac-si-floare-cuvete-sxt-fork-fix-1-1-8-negru-anodizat~8338234.webp",
@@ -7720,6 +7687,35 @@
       "specs": {
         "color": "Negru"
       }
+    },
+    {
+      "id": "221029",
+      "sku": "221029",
+      "ean": "2801862000003",
+      "name": "Set Lumini cu Baterii SXT 3 Leduri 19 LM",
+      "brand": "SXT",
+      "category": "Set Lumini",
+      "category_path": "Accesorii > Lumini > Set Lumini",
+      "price": 46.2,
+      "price_net": 38.18,
+      "currency": "RON",
+      "availability": "out_of_stock",
+      "stock_quantity": 0,
+      "weight_kg": 0.3,
+      "url": "https://www.bikestylish.ro/set-lumini-cu-baterii-sxt-3-leduri-19-lm.html",
+      "image": "https://s2.cdnmpro.com/861667841/p/raw/7/set-lumini-cu-baterii-sxt-3-leduri-19-lm~8338237.webp",
+      "images": [
+        "https://s2.cdnmpro.com/861667841/p/raw/7/set-lumini-cu-baterii-sxt-3-leduri-19-lm~8338237.webp",
+        "https://s2.cdnmpro.com/861667841/p/raw/0/set-lumini-cu-baterii-sxt-3-leduri-19-lm~8338240.webp",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/set-lumini-cu-baterii-sxt-3-leduri-19-lm~8338243.webp",
+        "https://s2.cdnmpro.com/861667841/p/raw/6/set-lumini-cu-baterii-sxt-3-leduri-19-lm~8338246.webp",
+        "https://s2.cdnmpro.com/861667841/p/raw/9/set-lumini-cu-baterii-sxt-3-leduri-19-lm~8338249.webp"
+      ],
+      "tags": [
+        "Accesorii",
+        "SXT",
+        "Set Lumini"
+      ]
     }
   ],
   "categories": [
@@ -8287,7 +8283,7 @@
       "id": "jante-frane-disc",
       "name": "Jante Frane Disc",
       "full_path": "Roti > Jante > Jante Frane Disc",
-      "product_count": 55,
+      "product_count": 54,
       "in_stock_count": 31
     },
     {
@@ -8323,7 +8319,7 @@
       "name": "Lumini Fata",
       "full_path": "Accesorii > Lumini > Lumini Fata",
       "product_count": 30,
-      "in_stock_count": 24
+      "in_stock_count": 23
     },
     {
       "id": "lumini-spate",
@@ -8603,7 +8599,7 @@
       "name": "Sei",
       "full_path": "Componente > Sei - Tije - Coliere > Sei",
       "product_count": 80,
-      "in_stock_count": 63
+      "in_stock_count": 62
     },
     {
       "id": "sei-tije-coliere",
