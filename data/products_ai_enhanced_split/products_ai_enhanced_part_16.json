@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T03:07:37.751549+00:00",
+  "last_updated": "2026-11-28T03:07:01.482093+00:00",
   "total_products": 250,
   "source": "sportxteam_feed",
   "part_info": {
@@ -1393,8 +1393,8 @@
       "price": 225.0,
       "price_net": 185.95,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 8,
+      "availability": "limited",
+      "stock_quantity": 2,
       "url": "https://www.bikestylish.ro/roata-fata-sxt-basic-i-24-507-x-19c-36h-qr-bile.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/roata-fata-sxt-basic-i-24-507-x-19c-36h-qr-bile~15615177.webp",
       "images": [
@@ -1425,8 +1425,8 @@
       "price": 235.0,
       "price_net": 194.21,
       "currency": "RON",
-      "availability": "in_stock",
-      "stock_quantity": 47,
+      "availability": "limited",
+      "stock_quantity": 2,
       "weight_kg": 1.0,
       "url": "https://www.bikestylish.ro/roata-spate-sxt-basic-i-24-507-x-19c-36h-filetat-fd.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/3/roata-spate-sxt-basic-i-24-507-x-19c-36h-filetat-fd~15615183.webp",
@@ -5199,7 +5199,7 @@
       "price_net": 362.73,
       "currency": "RON",
       "availability": "limited",
-      "stock_quantity": 2,
+      "stock_quantity": 1,
       "weight_kg": 2.5,
       "url": "https://www.bikestylish.ro/suport-prindere-cutie-portbagaj-m-wave-amsterdam-box-l-qr.html",
       "image": "https://s2.cdnmpro.com/861667841/p/raw/7/suport-prindere-cutie-portbagaj-m-wave-amsterdam-box-l-qr~8342047.webp",
@@ -7384,6 +7384,7 @@
       "image": "https://s2.cdnmpro.com/861667841/p/raw/8/adaptor-remorca-bicicleta-ventura~8342668.webp",
       "images": [
         "https://s2.cdnmpro.com/861667841/p/raw/8/adaptor-remorca-bicicleta-ventura~8342668.webp",
+        "https://s2.cdnmpro.com/861667841/p/raw/3/adaptor-remorca-bicicleta-ventura~15949563.webp",
         "https://s2.cdnmpro.com/861667841/p/raw/1/adaptor-remorca-bicicleta-ventura~8342671.webp"
       ],
       "tags": [
@@ -8197,7 +8198,7 @@
       "name": "Jante Frane Disc",
       "full_path": "Roti > Jante > Jante Frane Disc",
       "product_count": 54,
-      "in_stock_count": 33
+      "in_stock_count": 32
     },
     {
       "id": "jante-frane-v-brake",
@@ -8239,7 +8240,7 @@
       "name": "Lumini Spate",
       "full_path": "Accesorii > Lumini > Lumini Spate",
       "product_count": 31,
-      "in_stock_count": 25
+      "in_stock_count": 24
     },
     {
       "id": "mtb-full-face",
@@ -8498,7 +8499,7 @@
       "name": "Schimbatoare Fata",
       "full_path": "Componente > Transmisie > Schimbatoare > Schimbatoare Fata",
       "product_count": 7,
-      "in_stock_count": 6
+      "in_stock_count": 7
     },
     {
       "id": "schimbatoare-spate",
